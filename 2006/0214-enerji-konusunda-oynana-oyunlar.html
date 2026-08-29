@@ -4,173 +4,169 @@
 
 <head>
 
-<meta charset="UTF-8">
+    <meta charset="UTF-8">
 
-<meta name="viewport"
-      content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>Enerji Konusunda Oynana Oyunlar</title>
+    <title>Enerji Konusunda Oynana Oyunlar</title>
 
-<link rel="stylesheet"
-      href="../style.css">
+    <link rel="stylesheet" href="../style.css">
 
 
-<style id="article-print-style">
-
-/* ============================================================
+    <style id="article-print-style">
+        /* ============================================================
    PRINT BUTTON
    ============================================================ */
 
-.print-button-container {
-    display: flex;
-    justify-content: flex-end;
-    margin: 0 0 20px 0;
-}
+        .print-button-container {
+            display: flex;
+            justify-content: flex-end;
+            margin: 0 0 20px 0;
+        }
 
-.print-button {
-    display: inline-flex;
-    align-items: center;
-    gap: 8px;
+        .print-button {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
 
-    padding: 9px 15px;
+            padding: 9px 15px;
 
-    border: 1px solid #b9a36a;
-    border-radius: 6px;
+            border: 1px solid #b9a36a;
+            border-radius: 6px;
 
-    background: transparent;
-    color: #333;
+            background: transparent;
+            color: #333;
 
-    font-family: Georgia, "Times New Roman", serif;
-    font-size: 15px;
+            font-family: Georgia, "Times New Roman", serif;
+            font-size: 15px;
 
-    cursor: pointer;
+            cursor: pointer;
 
-    transition:
-        background-color 0.2s ease,
-        color 0.2s ease,
-        border-color 0.2s ease;
-}
+            transition:
+                background-color 0.2s ease,
+                color 0.2s ease,
+                border-color 0.2s ease;
+        }
 
-.print-button:hover {
-    background: #b9a36a;
-    color: white;
-    border-color: #b9a36a;
-}
+        .print-button:hover {
+            background: #b9a36a;
+            color: white;
+            border-color: #b9a36a;
+        }
 
-.print-icon {
-    font-size: 16px;
-    line-height: 1;
-}
+        .print-icon {
+            font-size: 16px;
+            line-height: 1;
+        }
 
 
-/* ============================================================
+        /* ============================================================
    PRINT VERSION
    ============================================================ */
 
-@media print {
+        @media print {
 
-    /* Remove everything that should not appear on paper */
+            /* Remove everything that should not appear on paper */
 
-    .print-button-container,
-    nav,
-    footer,
-    .top-nav,
-    .article-navigation,
-    .article-nav,
-    .site-header {
-        display: none !important;
-    }
-
-
-    /* White page background */
-
-    html,
-    body {
-        background: white !important;
-        color: black !important;
-    }
+            .print-button-container,
+            nav,
+            footer,
+            .top-nav,
+            .article-navigation,
+            .article-nav,
+            .site-header {
+                display: none !important;
+            }
 
 
-    /* Remove decorative shadows and borders */
+            /* White page background */
 
-    * {
-        box-shadow: none !important;
-        text-shadow: none !important;
-    }
-
-
-    /* Main article area */
-
-    main {
-        width: 100% !important;
-        max-width: none !important;
-
-        margin: 0 !important;
-        padding: 0 !important;
-    }
+            html,
+            body {
+                background: white !important;
+                color: black !important;
+            }
 
 
-    .container {
-        width: 100% !important;
-        max-width: none !important;
+            /* Remove decorative shadows and borders */
 
-        margin: 0 !important;
-        padding: 0 !important;
-    }
-
-
-    /* Article card */
-
-    .article-card {
-        width: 100% !important;
-        max-width: none !important;
-
-        margin: 0 !important;
-        padding: 0 !important;
-
-        border: none !important;
-        background: white !important;
-    }
+            * {
+                box-shadow: none !important;
+                text-shadow: none !important;
+            }
 
 
-    /* Article title */
+            /* Main article area */
 
-    h1,
-    h2 {
-        color: black !important;
-    }
+            main {
+                width: 100% !important;
+                max-width: none !important;
 
-
-    /* Article text */
-
-    p {
-        color: black !important;
-    }
+                margin: 0 !important;
+                padding: 0 !important;
+            }
 
 
-    /* Links should print as normal text */
+            .container {
+                width: 100% !important;
+                max-width: none !important;
 
-    a {
-        color: black !important;
-        text-decoration: none !important;
-    }
+                margin: 0 !important;
+                padding: 0 !important;
+            }
 
 
-    /* Prevent awkward page breaks */
+            /* Article card */
 
-    h1,
-    h2,
-    h3 {
-        break-after: avoid;
-    }
+            .article-card {
+                width: 100% !important;
+                max-width: none !important;
 
-    p {
-        orphans: 3;
-        widows: 3;
-    }
-}
+                margin: 0 !important;
+                padding: 0 !important;
 
-</style>
+                border: none !important;
+                background: white !important;
+            }
+
+
+            /* Article title */
+
+            h1,
+            h2 {
+                color: black !important;
+            }
+
+
+            /* Article text */
+
+            p {
+                color: black !important;
+            }
+
+
+            /* Links should print as normal text */
+
+            a {
+                color: black !important;
+                text-decoration: none !important;
+            }
+
+
+            /* Prevent awkward page breaks */
+
+            h1,
+            h2,
+            h3 {
+                break-after: avoid;
+            }
+
+            p {
+                orphans: 3;
+                widows: 3;
+            }
+        }
+    </style>
 
 </head>
 
@@ -178,122 +174,173 @@
 <body>
 
 
-<header>
+    <header>
 
-<div class="container">
+        <div class="container">
 
-<h1 class="site-title">
-    Köşe Yazılarında
-    <br>
-    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
-</h1>
-
-
-<nav>
-
-<a href="../index.html">
-Ana Sayfa
-</a>
-
-</nav>
-
-</div>
-
-</header>
+            <h1 class="site-title">
+                Köşe Yazılarında
+                <br>
+                <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+            </h1>
 
 
-<main>
+            <nav>
 
-<div class="container">
+                <a href="../index.html">
+                    Ana Sayfa
+                </a>
 
+            </nav>
 
+        </div>
 
-<article class="article">
-
-
-<h1 class="article-title">
-
-Enerji Konusunda Oynana Oyunlar
-
-</h1>
+    </header>
 
 
-<div class="article-meta">
+    <main>
 
-<strong>Yıl:</strong>
-
-2006
-
-&nbsp; | &nbsp;
-
-<strong>Makale No:</strong>
-
-0214
-
-</div>
-
-
-<div class="print-button-container">
-    <button class="print-button" onclick="window.print()">
-        <span class="print-icon">🖨️</span>
-        Yazdır
-    </button>
-</div>
-
-<div class="article-content">
-
-<p>ENERJİ KONUSUNDA BİLİNEN OYUN YENİDEN GÜNDEMDE Mİ?</p>
-<p>Ülkemizde ne zaman enerji kısıntıları olur ve enerji açığından söz edilmeye başlarsa, arkasından mutlaka enerji yatırımları gündeme gelir .4 yıl önceki mobil santral belası Samsun’un başına böyle bir suni gündem sonrası sarılmıştı. O günleri yaşayanlar hatırlayacaktır. Ülkede birden bire zamanlı zamansız elektrik kesintileri yaşanmış ve ardından da acil önlemler hükümet gündemine taşınmıştı. Bu karmaşa içersinde yangından mal kaçırılırcasına tüm dünyanın terk ettiği ve tam bir çevre düşmanı, adı gezer, kendi sabit mobil santrallar yerden biter gibi yapılmaya başlamıştı. Daha sonra dönemin başbakanı sayın Ecevit’in beni dahi inandırdılar dediği söylenmiştir. Bilindiği gibi o dönemin hükümet ortağı partinin başbakan yardımcısı ile enerji bakanı ve yakınları bu yolla görevlerini kötüye kullanarak çıkar sağladıkları için yüce divanda yargılanıyorlar.<br />
-Bunları şunun için hatırlattım. Geçtiğimiz günlerde yaşanan doğal gaz kısıntısı ve ardından da nükleer santralların yeniden gündeme getirilmesi acaba bir rastlantı mı? Yine birilerine tatlı yatırım ortamlarımı hazırlanıyor  bilemiyorum? Zaman her şeyi gösterecektir. Bu işin bir yanı. Asıl söylemek istediğim Ülkemizin nasıl bir enerji çıkmazına itilmiş olduğunun az da olsa görülmüş olmasıdır. Tanrının ülkemize sunduğu doğal kaynakları bir yana iterek, geleceğimizi ipotek altına sokacak bir dış bağımlılığa mecbur bırakılışımızı tartışmak istiyorum. Çok zengin akarsu olanaklarına sahip ülkemizde tamamlanmayı bekleyen bir çok hidroelektrik santral ( baraj ) varken , çevre düşmanı mobil santrallara kaynak aktarmak ve suya göre çok daha pahalı olan dış kaynaklı doğal gaz anlaşmaları yapmak Ülkemizin çıkarına olmamıştır. Bu anlaşmaların nasıl ve hangi yüksek fiyatlarla yapıldığı yönündeki söylentileri tartışmak dahi istemiyorum. Ülkemizin son on yılda enerji , tarım ürünleri ve ilaç gibi stratejik önemi büyük konularda dışa bağımlı hale gelişini üzülerek ve büyük bir endişe ile izliyorum. Dünyada tek süper güç haline gelen Amerika’nın, kendi insanlarının refahı ve çıkarı için sürdürdüğü sömürgeci anlayışın, ülkemizin de içersinde olduğu Orta Doğu’yu kuşatma altına aldığı artık net bir şekilde görülmektedir. Önümüzde ki dönemlerde İran üzerinde uygulanacağı söylenen senaryo gündeme geldiğinde , Türkiye’nin aldığı doğal gazın ne olacağını görebilmek için kahin olmaya gerek yoktur.<br />
-Oysa Ülkemiz, sahip olduğu öz enerji kaynaklarının tamamını devreye sokarak geleceğimizi güvence altına almalı ve ondan sonra gerekecek enerji açığı için dış kaynak arayışına girmeliydi. Ancak ekonomik bağımsızlığını kaybetmiş olan Ülkemize dayatılanlara direnecek halimizin kalmayışı, Ülkesini seven herkesi derinden üzmekte ve endişelendirmektedir.<br />
-Bu arada bir konuya da dikkat çekmek istiyorum. 20. yüzyılın son çeyreğinde önem kazanan çevreci anlayış da zaman, zaman kötüye kullanılıyor. Özellikle bizim gibi az gelişmiş veya gelişmekte olan Ülkelerde  çıkarları olan  güçlü ülkeler çevre konusunu çok iyi kullanabiliyorlar. Çıkarlarını koruyabilmek üzere çevreci sivil toplum kuruluşlarını yönlendirebiliyorlar. Ülkemizin önemli çıkarları olan kendi doğal kaynaklarımızı kullanmamız engellenebiliyor. Örneğin ülkemize altın satışın da önde gelen Almanya’nın , Bergama altın madeninin işletilmesinin engellenmesinde çevrecileri nasıl yönlendirdiği kamuoyunun en çok tartıştığı  konularından birisidir. Yine Türkiye’de ne zaman nükleer santral gündeme gelse çevreci kuruluşlar ayağa kaldırılıyor. Bu arada, çevreci kuruluşların  yer seçimleri konusundaki duyarlılığını bunun dışında tuttuğumu söylemek isterim. Eğer bizim nükleer santral kurmamızı engelleyen ülkeler kendileri nükleer enerjiden yararlanıyorsa bunu hoş görü ile karşılayamayız. Bu gün ABD’de 109, İsveç’te 11, Japonya’da 55, Fransa’da 59 nükleer santral çalışıyorsa hiç kimse Ülkemize bu hakkı çok göremez. Barışçıl  amaçla  enerji üretimi yapacak nükleer santralleri doğru yer seçimi koşulu ile gündeme alıp tartışabilmeliyiz.<br />
-Ne yazık ki, siyasi etiğin yerleşmediği ülkemizde enerji konusu her zaman istismar edilmiştir. Ancak bence altının çizilmesi gereken en önemli şey, bu tür tartışmalı işleri üstlenen firma veya kişilerin hemen her dönem de iktidar ile kol kola olabilme becerisini gösterebilmeleridir. Önceki koalisyon döneminin başbakan yardımcısı ve enerji bakanını yüce divana gönderen tartışmalı ihalelerin sahipleri, bu günkü iktidarın da en yakınında olan insanlardır. O gün Samsunluları ayağa kaldıran mobil santrallara sivil toplum kuruluşları ile karşı çıkanlar, bu gün iktidar milletvekili olarak yasal dayanağını yitiren bu santrallara ödenen milyon dolarlara suskun kalmaktadırlar. Bunun gerçekten üzerinde düşünülmesi ve irdelenmesi gereken bir konu olduğunu sanıyorum.<br />
-Bu ülkenin bağımsızlığına ve sınırlarına sahip çıkabilmek adına tarım ürünleri ile, ilaç üretimine ve öz enerji kaynaklarının kullanımına önem vermesinin zorunlu olduğu inancını taşıyorum. Bunun yolu da, ülkemizi ekonomik bağımlılıktan kurtaracak önlemlerin zaman geçirmeden alınmasıdır. İyi haftalar..      11-ŞUBAT-2006</p>
-<p>SADİ  SUBAŞI</p>
-
-</div>
-
-
-<div class="navigation">
-
-
-<div>
-
-<a href="0213-samsun-sahilini-kaybediyor.html">← Önceki Makale</a>
-
-</div>
-
-
-<div>
-
-<a href="0215-tesekkurler-fb-tesekkurler-tatli.html">Sonraki Makale →</a>
-
-</div>
-
-
-</div>
-
-
-</article>
+        <div class="container">
 
 
 
-</div>
-
-</main>
+            <article class="article">
 
 
-<footer>
+                <h1 class="article-title">
 
-<div class="container">
+                    Enerji Konusunda Oynana Oyunlar
 
-<p>
-© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
-</p>
+                </h1>
 
-</div>
 
-</footer>
+                <div class="article-meta">
+
+                    <strong>Yıl:</strong>
+
+                    2006
+
+                    &nbsp; | &nbsp;
+
+                    <strong>Makale No:</strong>
+
+                    0214
+
+                </div>
+
+
+                <div class="print-button-container">
+                    <button class="print-button" onclick="window.print()">
+                        <span class="print-icon">🖨️</span>
+                        Yazdır
+                    </button>
+                </div>
+
+                <div class="article-content">
+
+                    <p>ENERJİ KONUSUNDA BİLİNEN OYUN YENİDEN GÜNDEMDE Mİ?</p>
+                    <p>Ülkemizde ne zaman enerji kısıntıları olur ve enerji açığından söz edilmeye başlarsa, arkasından
+                        mutlaka enerji yatırımları gündeme gelir .4 yıl önceki mobil santral belası Samsun’un başına
+                        böyle bir suni gündem sonrası sarılmıştı. O günleri yaşayanlar hatırlayacaktır. Ülkede birden
+                        bire zamanlı zamansız elektrik kesintileri yaşanmış ve ardından da acil önlemler hükümet
+                        gündemine taşınmıştı. Bu karmaşa içersinde yangından mal kaçırılırcasına tüm dünyanın terk
+                        ettiği ve tam bir çevre düşmanı, adı gezer, kendi sabit mobil santrallar yerden biter gibi
+                        yapılmaya başlamıştı. Daha sonra dönemin başbakanı sayın Ecevit’in beni dahi inandırdılar dediği
+                        söylenmiştir. Bilindiği gibi o dönemin hükümet ortağı partinin başbakan yardımcısı ile enerji
+                        bakanı ve yakınları bu yolla görevlerini kötüye kullanarak çıkar sağladıkları için yüce divanda
+                        yargılanıyorlar.<br />
+                        Bunları şunun için hatırlattım. Geçtiğimiz günlerde yaşanan doğal gaz kısıntısı ve ardından da
+                        nükleer santralların yeniden gündeme getirilmesi acaba bir rastlantı mı? Yine birilerine tatlı
+                        yatırım ortamlarımı hazırlanıyor bilemiyorum? Zaman her şeyi gösterecektir. Bu işin bir yanı.
+                        Asıl söylemek istediğim Ülkemizin nasıl bir enerji çıkmazına itilmiş olduğunun az da olsa
+                        görülmüş olmasıdır. Tanrının ülkemize sunduğu doğal kaynakları bir yana iterek, geleceğimizi
+                        ipotek altına sokacak bir dış bağımlılığa mecbur bırakılışımızı tartışmak istiyorum. Çok zengin
+                        akarsu olanaklarına sahip ülkemizde tamamlanmayı bekleyen bir çok hidroelektrik santral ( baraj
+                        ) varken , çevre düşmanı mobil santrallara kaynak aktarmak ve suya göre çok daha pahalı olan dış
+                        kaynaklı doğal gaz anlaşmaları yapmak Ülkemizin çıkarına olmamıştır. Bu anlaşmaların nasıl ve
+                        hangi yüksek fiyatlarla yapıldığı yönündeki söylentileri tartışmak dahi istemiyorum. Ülkemizin
+                        son on yılda enerji , tarım ürünleri ve ilaç gibi stratejik önemi büyük konularda dışa bağımlı
+                        hale gelişini üzülerek ve büyük bir endişe ile izliyorum. Dünyada tek süper güç haline gelen
+                        Amerika’nın, kendi insanlarının refahı ve çıkarı için sürdürdüğü sömürgeci anlayışın, ülkemizin
+                        de içersinde olduğu Orta Doğu’yu kuşatma altına aldığı artık net bir şekilde görülmektedir.
+                        Önümüzde ki dönemlerde İran üzerinde uygulanacağı söylenen senaryo gündeme geldiğinde ,
+                        Türkiye’nin aldığı doğal gazın ne olacağını görebilmek için kahin olmaya gerek yoktur.<br />
+                        Oysa Ülkemiz, sahip olduğu öz enerji kaynaklarının tamamını devreye sokarak geleceğimizi güvence
+                        altına almalı ve ondan sonra gerekecek enerji açığı için dış kaynak arayışına girmeliydi. Ancak
+                        ekonomik bağımsızlığını kaybetmiş olan Ülkemize dayatılanlara direnecek halimizin kalmayışı,
+                        Ülkesini seven herkesi derinden üzmekte ve endişelendirmektedir.<br />
+                        Bu arada bir konuya da dikkat çekmek istiyorum. 20. yüzyılın son çeyreğinde önem kazanan çevreci
+                        anlayış da zaman, zaman kötüye kullanılıyor. Özellikle bizim gibi az gelişmiş veya gelişmekte
+                        olan Ülkelerde çıkarları olan güçlü ülkeler çevre konusunu çok iyi kullanabiliyorlar.
+                        Çıkarlarını koruyabilmek üzere çevreci sivil toplum kuruluşlarını yönlendirebiliyorlar.
+                        Ülkemizin önemli çıkarları olan kendi doğal kaynaklarımızı kullanmamız engellenebiliyor. Örneğin
+                        ülkemize altın satışın da önde gelen Almanya’nın , Bergama altın madeninin işletilmesinin
+                        engellenmesinde çevrecileri nasıl yönlendirdiği kamuoyunun en çok tartıştığı konularından
+                        birisidir. Yine Türkiye’de ne zaman nükleer santral gündeme gelse çevreci kuruluşlar ayağa
+                        kaldırılıyor. Bu arada, çevreci kuruluşların yer seçimleri konusundaki duyarlılığını bunun
+                        dışında tuttuğumu söylemek isterim. Eğer bizim nükleer santral kurmamızı engelleyen ülkeler
+                        kendileri nükleer enerjiden yararlanıyorsa bunu hoş görü ile karşılayamayız. Bu gün ABD’de 109,
+                        İsveç’te 11, Japonya’da 55, Fransa’da 59 nükleer santral çalışıyorsa hiç kimse Ülkemize bu hakkı
+                        çok göremez. Barışçıl amaçla enerji üretimi yapacak nükleer santralleri doğru yer seçimi koşulu
+                        ile gündeme alıp tartışabilmeliyiz.<br />
+                        Ne yazık ki, siyasi etiğin yerleşmediği ülkemizde enerji konusu her zaman istismar edilmiştir.
+                        Ancak bence altının çizilmesi gereken en önemli şey, bu tür tartışmalı işleri üstlenen firma
+                        veya kişilerin hemen her dönem de iktidar ile kol kola olabilme becerisini gösterebilmeleridir.
+                        Önceki koalisyon döneminin başbakan yardımcısı ve enerji bakanını yüce divana gönderen
+                        tartışmalı ihalelerin sahipleri, bu günkü iktidarın da en yakınında olan insanlardır. O gün
+                        Samsunluları ayağa kaldıran mobil santrallara sivil toplum kuruluşları ile karşı çıkanlar, bu
+                        gün iktidar milletvekili olarak yasal dayanağını yitiren bu santrallara ödenen milyon dolarlara
+                        suskun kalmaktadırlar. Bunun gerçekten üzerinde düşünülmesi ve irdelenmesi gereken bir konu
+                        olduğunu sanıyorum.<br />
+                        Bu ülkenin bağımsızlığına ve sınırlarına sahip çıkabilmek adına tarım ürünleri ile, ilaç
+                        üretimine ve öz enerji kaynaklarının kullanımına önem vermesinin zorunlu olduğu inancını
+                        taşıyorum. Bunun yolu da, ülkemizi ekonomik bağımlılıktan kurtaracak önlemlerin zaman geçirmeden
+                        alınmasıdır. İyi haftalar.. 11-ŞUBAT-2006</p>
+                    <p>SADİ SUBAŞI</p>
+
+                </div>
+
+
+                <div class="navigation">
+
+
+                    <div>
+
+                        <a href="0212-basari-kavrami.html">← Önceki Makale</a>
+
+                    </div>
+
+
+                    <div>
+
+                        <a href="0215-tesekkurler-fb-tesekkurler-tatli.html">Sonraki Makale →</a>
+
+                    </div>
+
+
+                </div>
+
+
+            </article>
+
+
+
+        </div>
+
+    </main>
+
+
+    <footer>
+
+        <div class="container">
+
+            <p>
+                © Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+            </p>
+
+        </div>
+
+    </footer>
 
 
 </body>

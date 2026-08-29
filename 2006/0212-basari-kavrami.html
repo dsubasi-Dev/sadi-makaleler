@@ -4,173 +4,169 @@
 
 <head>
 
-<meta charset="UTF-8">
+    <meta charset="UTF-8">
 
-<meta name="viewport"
-      content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>Başarı Kavramı</title>
+    <title>Başarı Kavramı</title>
 
-<link rel="stylesheet"
-      href="../style.css">
+    <link rel="stylesheet" href="../style.css">
 
 
-<style id="article-print-style">
-
-/* ============================================================
+    <style id="article-print-style">
+        /* ============================================================
    PRINT BUTTON
    ============================================================ */
 
-.print-button-container {
-    display: flex;
-    justify-content: flex-end;
-    margin: 0 0 20px 0;
-}
+        .print-button-container {
+            display: flex;
+            justify-content: flex-end;
+            margin: 0 0 20px 0;
+        }
 
-.print-button {
-    display: inline-flex;
-    align-items: center;
-    gap: 8px;
+        .print-button {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
 
-    padding: 9px 15px;
+            padding: 9px 15px;
 
-    border: 1px solid #b9a36a;
-    border-radius: 6px;
+            border: 1px solid #b9a36a;
+            border-radius: 6px;
 
-    background: transparent;
-    color: #333;
+            background: transparent;
+            color: #333;
 
-    font-family: Georgia, "Times New Roman", serif;
-    font-size: 15px;
+            font-family: Georgia, "Times New Roman", serif;
+            font-size: 15px;
 
-    cursor: pointer;
+            cursor: pointer;
 
-    transition:
-        background-color 0.2s ease,
-        color 0.2s ease,
-        border-color 0.2s ease;
-}
+            transition:
+                background-color 0.2s ease,
+                color 0.2s ease,
+                border-color 0.2s ease;
+        }
 
-.print-button:hover {
-    background: #b9a36a;
-    color: white;
-    border-color: #b9a36a;
-}
+        .print-button:hover {
+            background: #b9a36a;
+            color: white;
+            border-color: #b9a36a;
+        }
 
-.print-icon {
-    font-size: 16px;
-    line-height: 1;
-}
+        .print-icon {
+            font-size: 16px;
+            line-height: 1;
+        }
 
 
-/* ============================================================
+        /* ============================================================
    PRINT VERSION
    ============================================================ */
 
-@media print {
+        @media print {
 
-    /* Remove everything that should not appear on paper */
+            /* Remove everything that should not appear on paper */
 
-    .print-button-container,
-    nav,
-    footer,
-    .top-nav,
-    .article-navigation,
-    .article-nav,
-    .site-header {
-        display: none !important;
-    }
-
-
-    /* White page background */
-
-    html,
-    body {
-        background: white !important;
-        color: black !important;
-    }
+            .print-button-container,
+            nav,
+            footer,
+            .top-nav,
+            .article-navigation,
+            .article-nav,
+            .site-header {
+                display: none !important;
+            }
 
 
-    /* Remove decorative shadows and borders */
+            /* White page background */
 
-    * {
-        box-shadow: none !important;
-        text-shadow: none !important;
-    }
-
-
-    /* Main article area */
-
-    main {
-        width: 100% !important;
-        max-width: none !important;
-
-        margin: 0 !important;
-        padding: 0 !important;
-    }
+            html,
+            body {
+                background: white !important;
+                color: black !important;
+            }
 
 
-    .container {
-        width: 100% !important;
-        max-width: none !important;
+            /* Remove decorative shadows and borders */
 
-        margin: 0 !important;
-        padding: 0 !important;
-    }
-
-
-    /* Article card */
-
-    .article-card {
-        width: 100% !important;
-        max-width: none !important;
-
-        margin: 0 !important;
-        padding: 0 !important;
-
-        border: none !important;
-        background: white !important;
-    }
+            * {
+                box-shadow: none !important;
+                text-shadow: none !important;
+            }
 
 
-    /* Article title */
+            /* Main article area */
 
-    h1,
-    h2 {
-        color: black !important;
-    }
+            main {
+                width: 100% !important;
+                max-width: none !important;
 
-
-    /* Article text */
-
-    p {
-        color: black !important;
-    }
+                margin: 0 !important;
+                padding: 0 !important;
+            }
 
 
-    /* Links should print as normal text */
+            .container {
+                width: 100% !important;
+                max-width: none !important;
 
-    a {
-        color: black !important;
-        text-decoration: none !important;
-    }
+                margin: 0 !important;
+                padding: 0 !important;
+            }
 
 
-    /* Prevent awkward page breaks */
+            /* Article card */
 
-    h1,
-    h2,
-    h3 {
-        break-after: avoid;
-    }
+            .article-card {
+                width: 100% !important;
+                max-width: none !important;
 
-    p {
-        orphans: 3;
-        widows: 3;
-    }
-}
+                margin: 0 !important;
+                padding: 0 !important;
 
-</style>
+                border: none !important;
+                background: white !important;
+            }
+
+
+            /* Article title */
+
+            h1,
+            h2 {
+                color: black !important;
+            }
+
+
+            /* Article text */
+
+            p {
+                color: black !important;
+            }
+
+
+            /* Links should print as normal text */
+
+            a {
+                color: black !important;
+                text-decoration: none !important;
+            }
+
+
+            /* Prevent awkward page breaks */
+
+            h1,
+            h2,
+            h3 {
+                break-after: avoid;
+            }
+
+            p {
+                orphans: 3;
+                widows: 3;
+            }
+        }
+    </style>
 
 </head>
 
@@ -178,115 +174,115 @@
 <body>
 
 
-<header>
+    <header>
 
-<div class="container">
+        <div class="container">
 
-<h1 class="site-title">
-    Köşe Yazılarında
-    <br>
-    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
-</h1>
-
-
-<nav>
-
-<a href="../index.html">
-Ana Sayfa
-</a>
-
-</nav>
-
-</div>
-
-</header>
+            <h1 class="site-title">
+                Köşe Yazılarında
+                <br>
+                <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+            </h1>
 
 
-<main>
+            <nav>
 
-<div class="container">
+                <a href="../index.html">
+                    Ana Sayfa
+                </a>
 
+            </nav>
 
+        </div>
 
-<article class="article">
-
-
-<h1 class="article-title">
-
-Başarı Kavramı
-
-</h1>
+    </header>
 
 
-<div class="article-meta">
+    <main>
 
-<strong>Yıl:</strong>
-
-2006
-
-&nbsp; | &nbsp;
-
-<strong>Makale No:</strong>
-
-0212
-
-</div>
-
-
-<div class="print-button-container">
-    <button class="print-button" onclick="window.print()">
-        <span class="print-icon">🖨️</span>
-        Yazdır
-    </button>
-</div>
-
-<div class="article-content">
+        <div class="container">
 
 
 
-</div>
+            <article class="article">
 
 
-<div class="navigation">
+                <h1 class="article-title">
+
+                    Başarı Kavramı
+
+                </h1>
 
 
-<div>
+                <div class="article-meta">
 
-<a href="0211-sahil-bitiyor.html">← Önceki Makale</a>
+                    <strong>Yıl:</strong>
 
-</div>
+                    2006
 
+                    &nbsp; | &nbsp;
 
-<div>
+                    <strong>Makale No:</strong>
 
-<a href="0213-samsun-sahilini-kaybediyor.html">Sonraki Makale →</a>
+                    0212
 
-</div>
-
-
-</div>
+                </div>
 
 
-</article>
+                <div class="print-button-container">
+                    <button class="print-button" onclick="window.print()">
+                        <span class="print-icon">🖨️</span>
+                        Yazdır
+                    </button>
+                </div>
+
+                <div class="article-content">
 
 
 
-</div>
-
-</main>
+                </div>
 
 
-<footer>
+                <div class="navigation">
 
-<div class="container">
 
-<p>
-© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
-</p>
+                    <div>
 
-</div>
+                        <a href="0211-sahil-bitiyor.html">← Önceki Makale</a>
 
-</footer>
+                    </div>
+
+
+                    <div>
+
+                        <a href="0214-enerji-konusunda-oynana-oyunlar.html">Sonraki Makale →</a>
+
+                    </div>
+
+
+                </div>
+
+
+            </article>
+
+
+
+        </div>
+
+    </main>
+
+
+    <footer>
+
+        <div class="container">
+
+            <p>
+                © Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+            </p>
+
+        </div>
+
+    </footer>
 
 
 </body>
