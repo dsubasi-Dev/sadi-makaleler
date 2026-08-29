@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>10 Kasım ve Günümüz Türkiyesi</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+10 Kasım ve Günümüz Türkiyesi
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2005
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0198
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>10-KASIM VE GÜNÜMÜZ TÜRKİYE’Sİ</p>
+<p>Bir insan düşünün ki ,57 sene gibi kısa sayılacak bir ömüre, okudukça, derinliğine inildikçe insanın düşünme gücünü zorlayan olaylara imza atmış olsun. Büyük devrimci lider Atatürk akıl almaz işleri bu kısa sayılacak ömründe gerçekleştirmiş ve Ülkemizi çağdaş yaşam dünyasına sokmuştur. Ömrünü ülkesine ve insanlarına adamış bu yüce insanı geçen hafta ölümünün 67. yılında tüm Türkiye olarak andık.<br />
+Bugün ülkemizde insanlarımız özgür bir ortamda yaşıyorsa , dilediği gibi ibadetini yapıyorsa bunu O’na borçluyuz. Bütün toprakları işgal edilmiş , işgal güçlerinin yakıp yıkıp geçtiği, kadınlarımızın , kızlarımızın ırzına , namusunna tecavüz ettiği, hemen her kesimin umudunu yitirdiği bir ortamda, aç ve çaresiz Anadolu insanını özgürlük mücadelesine ikna ederek bir inanılmazı gerçekleştiren bu insanı yeterince anlayabiliyor ve sahiplanebiliyormuyuz? Bu soruların cevabını olumlu olarak verebildiğimizi sanmıyorum. Eğer öyle olsaydı bugün O’na içerden ve dışardan yapılan  saldırılara yeterli tepkiyi koyar ve ona sahip çıkardık. Ancak okularda bizlere Atatürk’ün bu devrimci kimliğinin ve yaptıklarının yeterince anlatılamaması sonucu bugün yaşanan olumsuzluklar ortaya çıkmış bulunmaktadır.<br />
+İster görün ister görmeyin ama bugün Ülkemiz üzerinde büyük bir oyun oynanıyor. Bu Ülkenin Sevr’i yırtarak Lozan ile sağladığı başarıyı bir türlü içine sindiremeyen Avrupa, ekonomik baskı ve AB ye alma koşulu olarak bu Ülkenin vazgeçilmez ilkelerini birer birer yıkıyor. Artık süper güç olarak kabul edilen Amerika’nın, petrol havzalarınında kontrolu sağlamak amacıyla, uygulamaya koyduğu Büyük Orta Doğu projesinde Türkiye’ye de bir rol biçtiği artık görülmelidir. Bu rolü üstlenecek Türkiye’nin idare şekli ise O’nu hiç mi hiç ilgilendirmemektedir. O’nun için çıkarları önemlidir ve bunu gerçekleştirebilmek için hangi sistem uygunsa onu uygulamaya koymaktadır. Bu amacı uğruna  her şeyi yapabileceği Irak senaryosu ile açıkça ortaya çıkmıştır. Gerek Avrupa’nın ve gerekse Amerika’nın bunları yapabilmesinin önündeki en büyük engel ise Ulu Önder’in yerleştirdiği ilkelerdir. O nedenle öncelikle onların  yıkılması ve ulusal kimliğimizin yok edilmesi hedef olarak belirlenmiştir. Yoksa bu ülkeyi çağdaş yaşama taşıyan Atatürk ve ilkeleri bu kadar acımasızca sağından solundan yıpratılmaz ve onların Ülkemizdeki işbirlikçileri tarafından unutturulma çabalarına ağırlık verilmezdi. Ne yazık ki, hiçbir ülkede ülkesi için ömrünü feda eden bir lidere bu derece saygısızlık yapılmamış ve bu derece saldırılmamıştır. Hala çağ dışı  bir dünya kurmak hevesindekilerin bu çabaları alkışlamasını ve bunu fırsat bilip içindekileri kusmasını anlıyorum da, aydın geçinen bir kesimin bu saplantılara anlaşılmaz gerekçelerle destek vermesine bir türlü aklım ermiyor.<br />
+Kurtuluş savaşı öncesinin mandacıları ve mütareke basını olarak anılan, dış güçlerin maşası basın anlayışı , yeniden hortlamış ve bu ülkenin milli değer ve çıkarları bir bir çökertilmeye çalışılmaktadır. Bir yanda kalemlerini dış güçlerin çizdiği senaryolar yönünde kullananlar, diğer yanda cumhuriyeti numaralandırarak sulandıranlar, hiçbir dönemde bu kadar pervasız olmamışlardır. Onların başarılı olması , bu ülke insanına özgür, laik ve çağdaş yaşamı sunan milli kahraman Atatürk’ü ve ilkelerini yıpratmaktan ve unutturmaktan geçmektedir. Bu artık görülmelidir.” Bu Ülke güçlü bu Ülkeye bir şey olmaz “ söylemlerine sığınan  aydınlarımız artık uyanmalıdır.<br />
+Atatürk’ün resimlerinin kaldırılmasını, kemalizmin terkedilmesini AB ye giriş yolunu açıcı bir öneri olarak sunan Avrupalı bazı sözde dostlarımızın, gerçek amacı görülmelidir. Ne şekilde olursa olsun bu düşünceye çanak tutmak Türkiye’nin ulusal çıkarlarına ihanettir. Güneydoğuda kurulması planlanan Kürt devletinin de, Ermenilerin isteklerinin de gerçekleştirilmesinin  yolu Atatürk’ün koyduğu ilkelerin yıkılmasından geçmektedir. Bu çarpık düşünceler Ülkedeki şeriat devleti kurma sevdalılarından başka kimsenin kabullenebileceği bir şey değildir. Ama üzülerek görüyoruz ki ister bilinçli isterse bilinçsizce yapılan bazı uygulamalar sadece bu kesimin işine gelmektedir. Alkışlayanlara bakılınca bu çok daha iyi anlaşılmaktadır. Bu nedenle Karakuvvetleri brövesinde yapılan değişiklik en azından zaman  olarak çok yanlıştır ve fırsatçıların ekmeğine kaymak olmuştur. Ülke insanının en çok güvendiği bu kesimdeki  uygulama Atatürk’e ve ilkelerine inanan insanlarımızı sarsmıştır.<br />
+Tüm bu nedenlerle bu ülkenin parçalanmaması ve çağdaş dünyadan kopmaması için siyasi parçalanmalara son verilmeli , Ülkemizin birliğinin ve çağdaş yapısının korunması gerektiğine inananlar, kısır çekişmeyi bir yana bırakarak Atatürk ilkeleri doğrultusunda bir araya gelmelidir. Aksi taktirde çok geç olacak ve son pişmanlık işe yaramayacaktır. Herkesin Irak halkının yaşadığı dramı ve Irak Devletinin parçalanarak yok edilişini çok iyi izlemesi gerekir diye düşünüyorum. Her şeye rağmen Ata’sının ilkelerine bağlı ve çağdaş Türkiye’den yana olanların sayısının az olmadığına ve silkinerek Ülkesine sahip çıkacağına inanıyorum.<br />
+Zaman , Ülkesini seven tüm yurtseverlerin, günlük hesapları bir yana bırakarak bir araya gelme zamanıdır. Büyük yurtsever ve devrimci Ata’mızın huzurunda saygıyla eğiliyorum. İyi haftalar..13-ARALIK-2005</p>
+<p>SADİ  SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0197-10-kasim-ataurk-u-anma.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0199-bir-turk-olarak-utanc-duydugum-gece.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

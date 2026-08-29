@@ -1,0 +1,343 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Eczacılık Mesleği Dönüştürülerek Önemsizleştiriliyor…</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Eczacılık Mesleği Dönüştürülerek Önemsizleştiriliyor…
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2013
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0644
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>ECZACILIK MESLEĞİ DÖNÜŞTÜRÜLEREK<br />
+ÖNEMSİZLEŞTİRLİYOR...</p>
+<p>Mesleğinde 45 yılı tamamlamış bir eczane eczacısı olarak mesleğimiz üzerinde uygulamaya konulan değiştirme ve dönüştürme projesini kaygıyla izliyorum.<br />
+Kaygım, meslek yaşamımın sonuna gelmiş olmam nedeniyle kendimden çok geleceğini bu mesleğe bağlamış olan genç meslektaşlarım içindir.<br />
+Eczacılık Fakültelerin de çok ciddi bir ilaç eğitimi alarak mezun olan eczacılardan ülkemizde yeterince yararlanılmadığı bir gerçek.<br />
+25.000 civarında ki eczane ile yurdumuzun en uzak köşelerinde dahi sağlık ve danışmanlık hizmeti veren eczacılar, en azından benim de tanık olduğum son 45 yıldır bir yığın sorunla uğraşmak zorunda bırakılmıştır.</p>
+<p>Eczacılığın Dünü;<br />
+Sağlık giderleri içersinde ilaç ödemelerinin önemli yer tutması nedeniyle, hemen hemen tüm iktidarlar döneminde sağlık giderlerinden bunalan hükümetlerin yaptığı ilk iş, eczacıların kar oranları ile oynamak olmuştur.<br />
+1956 yılında yürürlüğe giren eczacılık yasaları ile yönetilmeye çalışılan eczacılık mesleğinin ciddi bir değişim ve düzenlemeye ihtiyacı olduğu bir gerçekti.<br />
+Özelikle de yüksek enflasyonun hüküm sürdüğü dönemlerde ilaç fiyatlarının sürekli artması engellenememiştir.<br />
+İlaç fiyatlarını kontrol altında tutan, ilaç fiyatlarının belirlenmesini ve eşdeğer ilaçların tek fiyatla satılmasını sağlayan “İlaç Fiyat Kararnamesi’nin” Turgut Özal döneminde kaldırılarak, ilaç fiyatlarını belirleme yetkisinin ilaç firmalarının insafına terk edilmesi ile ilaç fiyatlarının artışının ve farklı fiyatlarla satışının da önü açılmıştır.<br />
+Bu nedenlerle eczacılar Devletle ilaç fiyatları arasında sıkışmış ve asli sorunları yerine, ilaç fiyat değişimleriyle uğraşmak zorunda kalmıştır.<br />
+Eczacılar ve onun temsilcisi olan Eczacı Odaları ile üst kuruluş olan Türk Eczacılar Birliği sürekli olarak ülkemizde ilaç fiyatlarının yüksekliğini gündeme taşımıştır.<br />
+Ne var ki, Eczacı Odaları ülkemizin çıkarları adına kendi meslektaşlarının çıkarlarına aykırı olan bu tavrı sergilerken, tüm dönemlerin Sağlık Bakanları, alıp başını giden ilaç fiyatlarını düşürmenin gerçek yöntemlerini aramak yerine, her defasında çözümü depocu ve eczacı kar oranlarını düşürmekte bulmuştur.<br />
+O yıllarda her ilaç fiyatı artışında elinde ki ilacı eski fiyattan satmak zorunda kalan eczacıların rafında ki ilacı değer yitiriyordu.<br />
+Sermayesi eriyen eczacılar ilaç alabilmek için ek sermaye bulmak zorunda kalıyor ve çoğu kez de bankalara mahkûm oluyordu.<br />
+Türk Eczacılar Birliği büyük uğraşılardan sonra bu sorunu Sağlık Bakanlığına anlatabiliyor ve eczacılara bu dönemde nefes aldıracak bir düzenleme ile elindeki ilaçları yeni fiyattan satma yetkisi tanınıyordu.<br />
+Ancak, uluslar arası ilaç tekellerinin dayatmaları ve bakanlık kademeleri ile kurulan akıl almaz ilişkiler sonucu, ilaç fiyatları sürekli artıyordu.<br />
+Onun da ötesinde kamu kurumlarının ilaç alım ihalelerinde yaşananlar akıl almaz boyutlara ulaşmıştı.<br />
+Örneğin, eczanelerde 20.00 TL. Satılan bir ilaç, ihalelerde kamu hastanelerine 2.00 TL. verilebiliyordu. Bu dahi, ilaç tekellerinin karlılıklarının boyutlarını göstermeye yetiyordu.<br />
+Benim de görev aldığım Eczacı Odaları ve Türk Eczacıları Birliği bu çarpıcı fiyat farklılıklarını fatura örnekleri ile Sağlık Bakanlıklarına vererek uyarılarda bulunuyor ama kurulan çark bir türlü bozulamıyordu.<br />
+“İlaç Fiyat Kararnamesinin” kaldırılması sonrası oluşan yüksek fiyatlı ilaçlarla hem devlet, hem de halk sömürülüyordu.</p>
+<p>Eczacılığın bugünü;</p>
+<p>Buraya kadar anlattıklarımın eksiği var, fazlası yoktur.<br />
+Peki, sonra neler oldu?<br />
+İşte böyle bir dönemin sonunda iktidara gelen AKP Hükümeti, sağlık alanında büyük bir dönüşümü gerçekleştirdi.<br />
+Yıllardır konuşulup da bir türlü gerçekleştirilemeyen SKK, Emekli Sandığı ve Bağ-Kur SGK adı altında birleştirilerek, toplumun tüm kesimleri Genel Sağlık Sigortası altında sağlık güvencesine kavuşturuldu.<br />
+Ardından da ilaç fiyatları büyük çapta ucuzlatıldı.<br />
+Sonunda, eczacı odalarının yıllardır iddia ettiği tez doğrulanıyordu. Sağlık alanında yapılan bu düzenlemeler 2007 Genel Seçimlerinde meyvesini veriyor ve AKP’nin oylarını % 50’lere taşıyordu.<br />
+Ne var ki, çark bu dönemde de eczacıların aleyhine dönmeye devam ediyordu.<br />
+Eczacılar bu kez de sürekli düşürülen ilaç fiyatları nedeniyle ellerinde ki pahalı aldığı ilaçları düşük fiyattan satmak zorunda kaldığı için büyük zararlara uğruyordu.<br />
+İlaç satışını eczane dışında marketlere taşıyacak reçetesiz ilaç (OTC) kavramı ve Türkiye’de yer bulmaya çalışan zincir eczaneler korkusu yaşanmaya başlamıştı.<br />
+İlaç fiyatlarının alt sınırlara düşürülmesi ve kamu reçete ödemelerini azaltmak için ilaç firmalarından sağlanan özel ıskontolar ( Kamu ıskontoları) nedeniyle, ilaç sanayicisi ecza depoları üzerinden eczanelere aktardığı özel ıskontoları da kaldırmıştı.<br />
+İlaç fiyatlarının düşürülmesi ile eczanelerin satış rakamları da (cirolar) düşmüş ve buna bağlı olarak eczanelerin karlılığı da yarı yarıya azalmıştı.<br />
+Bu gelişmeler sonrası hastane ve aile hekimlerinin civarında bulunan eczaneler şimdilik edebiliyor olsalar da, diğer eczaneler büyük miktarda azalan gelirleri ile giderlerini karşılayamaz hale gelmiştir.<br />
+Eczanelere son darbe de, eczacılık yasalarında yıllardır yer alan “İlaç reçetesiz satılamaz” kuralının işletilmeye başlaması ile vurulmuştur.<br />
+İlacın reçetesiz satılmaması kuralı son derece doğrudur. Ancak, karlılıkları giderlerini karşılayamaz hale gelen eczacılara meslek hakkı verilmeden, eczanelere yaşayabilecekleri kar oranları tanınmadan, bu uygulamada ısrarlı olmak ve reçetesiz satılacak her ilaç için ceza uygulamasının başlatılması, eczanelerin kapanmaya zorlanması demektir.</p>
+<p>Sonuç;<br />
+Türkiye’nin en uzak yerlerine kadar yaygınlaşarak topluma sağlık ve danışma hizmeti veren 25.000 eczanenin en az yarısı kapanma noktasına gelmiştir.<br />
+“Reçetesiz ilaç satımını” Yasaklayan kanun maddesinin uygulamaya geçirilmesi ile yaşam kavgası veren eczaneler yasağı delerek suç işlemek zorunda bırakılmıştır.<br />
+Birçok ilacın sırf tüketimleri artsın ve uluslar arası ilaç tekelleri daha çok kazansın diye marketlere satılmasına zemin hazırlanırken, halkın en kolay ve güvenilir ilaca ulaştığı eczane müessesesi yok edilmek üzeredir.<br />
+İlaç fiyatlarının büyük çapta ucuzlatılması sonucunda, ilaç tekelleri karlılıkları azalan ama çok önemli hastalıkların tedavisinde kullanılan çok sayıda ilacı üretmemekte veya Türkiye pazarına sokmamaktadır.<br />
+Gerekli süre tanınmadan çıkartılan patent yasası nedeniyle, 2000’li yılların ilk çeyreğinde önemli bir orana yükselen yerli ilaç üretimi de uluslar arası ilaç firmaları karşısında yok edildiği için ilaç da dışa bağımlı hale gelinmiştir.<br />
+Halkımız en basit ağrı kesici veya sürekli kullandığı tansiyon ilacını dahi alamama durumuna düşmüştür.<br />
+Yıllarca yüksek fiyatla ilaç satmasına göz yumulan uluslararası ilaç tekelleri, yerli ilaç sanayisinin de çökertilmesi nedeniyle ilaç fiyatları düşürülen son derece önemli çok sayıda ilacı piyasaya vermeyerek hasta insanları umutsuzluğa itmiştir.<br />
+Geçtiğimiz dönemlerde eczacının en zor anlarında güvendiği, arkasında dik durduğunu ve örgütsel desteğini vereceğini bildiği meslek örgütleri de artık eskisi kadar güçlü gözükmemektedir.</p>
+<p>Son söz:<br />
+Amaç, ülkemizi dışa bağımlı olmaktan kurtaracak seviyeye gelmekte olan yerli ilaç sanayisini yok etmek ve uluslararası ilaç tekellerinin 70 milyonluk Türkiye ilaç pazarını ellerine geçirmesi idiyse, bu başarılmıştır.<br />
+Dışa bağımlı hale gelen Türkiye, muhtemelen önümüzde ki dönemlerde ucuz ilaç elde etmek bir yana, çok pahalı ilaç almak zorunda kalacaktır.<br />
+Evet! Eczacılık da değişim ve dönüşüm yapılmıştır. Ama bu ne eczacıların, ne de ülkemizin çıkarına olmamıştır.<br />
+Sonuçlarına katlanmak ise, ne yazık ki her zaman ki gibi halkımıza düşecektir.<br />
+Uzun vadeli getiri ve götürü hesapları yapılmadan uygulamaya konulan değişimler, eczacılık mesleğini önemsizleştirmeye başlamıştır.<br />
+Genç meslektaşlarımızın günlük hesaplardan sıyrılarak gelecek dönemlerin hesabını yapmasında ve meslek örgütlerine her zamankinden daha fazla ilgi göstermesinde yarar olduğuna inanıyorum.<br />
+Umarım benim düşündüklerim gerçekleşmez ve eczacılık mesleği saygınlığını ve geçerliliğini koruyarak halkımıza sağlık hizmeti vermeyi sürdürür.<br />
+İyi haftalar…23.06.2013</p>
+<p>Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0643-taksim-gezi-parki-direnisi-nin-analizi-ve-dusundurdukleri.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0645-siyasette-i-nandiricilik-ve-biat-kulturunun-gunumuze-yansimasi.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

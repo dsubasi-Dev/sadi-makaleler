@@ -1,0 +1,309 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Mecidiye Caddesi Yaya Geçidi ve Bir Öneri…</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Mecidiye Caddesi Yaya Geçidi ve Bir Öneri…
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2012
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0565
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>MECİDİYE CADDESİ YAYA GEÇİDİ VE BİR ÖNERİ.</p>
+<p>Beş yıl kadar önce yayaların güvenliğini sağlamak üzere Ondokuzmayıs Bulvarı’nın Gazi Caddesi ( Mecidiye) ile kesiştiği noktaya büyük bir alt geçit yapıldı.<br />
+Geçidin üstü Ondokuzmayıs Bulvarı araç trafiğine açılırken, altı da yayaların geçişine ayrılmıştı. Yer altı yaya geçidinin iki yanına on tane de dükkân yapılmıştı. Dükkânlar satışa çıkarılmış ve sadece bir tanesi alıcı bulmuştu. O gün bugündür kalan dokuz dükkân boş durmaktadır.<br />
+Yaşlı ve özürlülerin rahat inip çıkabilmesi için giriş ve çıkışa birer tane de asansör yapılmıştı. Asansörlerin kuleleri ise Gazi Caddesinin ortasında hala gözü tırmalayan birer görüntü kirliliği olmayı sürdürüyor.<br />
+Geçit yapıldığı günden beri eleştiriliyor. Eleştirilerin hemen hepsi de haklı gerekçelere dayanıyordu. Ben bunları yeniden tartışmaya açmak niyetinde değilim. Ancak bazı konulara dikkat çekerek bir öneride bulunmak istiyorum.<br />
+Bu alt geçit Samsun’un en eski iş merkezi olan Gazi Caddesi’ni (Mecidiye) tam ortadan bölmüş ve caddenin eski sigara fabrikasına doğru olan bölümü ile ilişkisini kopartmıştır. Bu da esnafa büyük zarar vermiştir.<br />
+Bir yandan imkânsız hale gelen yükleme boşatma sorunları, diğer yandan da acil durumlarda ambulans ve itfaiyenin caddeye giremeyişinin yarattığı büyük riskler esnafı korkutmaktadır.<br />
+Tüm bunları görünce bu bölgeye böylesine abartılı bir alt-üst geçit gerekli miydi diye düşünmemek elde değil. Ne var ki, olan olmuş ve bu geçit beş yıldır hizmet veriyor. Bugün gelinen noktada “Acaba bir şeyler yapılabilir mi?” Sorusuna cevap aramak, çok daha doğru bir yaklaşım olur diye düşünüyor ve bazı önerilerde bulunmak istiyorum..<br />
+Bilindiği gibi eski sigara fabrikasının yerine “Bulvar Samsun” adı ile bir iş merkezi yapılıyor. Bu iş merkezinin Samsun’u olduğu kadar yöreyi de olumlu yönde etkileyecektir. Ne var ki, Ondokuzmayıs Bulvarı üzerindeki geçit ve asansör kuleleri bu güzelliğin önünde büyük bir engel oluşturuyor.<br />
+Gazi Caddesinin bu alış veriş merkezinin önünden geçen bölümünde ki yol kotu, çarşının işlerliğini artırmak için düşürülmüştür. Bu kot düşüşü ile alt geçidin bu yönde ki çıkışının merdivenin kaldırılabilmesine olanak yaratmıştır. Bunun anlamı, Gazi Caddesi’nin bu bölümünden yer altı geçidine düzayak girilebilecektir. Sadece alt geçitte ki merdivenleri ve gerek kalmayacak asansör kulesini kaldırmak gerekecektir.<br />
+Eğer gerçekten bu teknik olarak mümkün olursa, sıra geçidin Mecidiye çıkışına çözüm aramaya gelecektir. Bunun için de alt geçidin Mecidiye çıkışında ki merdivenler kaldırılarak bu bölümün tatlı bir eğimle Mecidiye Caddesine çıkışı sağlanabilecektir. Bu yönde Büyükşehir Belediyesin de bir çalışma yapıldığı duyumları beni umutlandırıyor.<br />
+Eğer iki çıkışta bu şekilde çözümlenirse alt geçide bir taraftan giren merdiven kullanmadan diğer taraftan çıkabilecektir.<br />
+Bu ne yarar sağlayacaktır;<br />
+Birincisi geçidin iki yanından da her iki caddenin de görülmesi sağlanacak, bu geçit iki tarafı kapalı görüntüden ve asansör kulelerinin çirkinliğinden kurtulacaktır.<br />
+İkincisi, bu bağlantının açılması ile “Bulvar Samsun’un” Mecidiye Caddesine olan bağlantısı rahatlayacak ve bu bölgeye yeni bir hava gelecektir.<br />
+Üçüncüsü, Mecidiye esnafı “Bulvar Samsun” civarında ortaya çıkacak pozitif ortamdan yararlanabilecektir.<br />
+Dördüncüsü, yer altı geçidinde ki dükkânlar işlerlik kazanacak ve cazip hale gelecektir.<br />
+Beşincisi de, yer altı geçidinin özellikle geceleri ürküntü veren sıkıcı görüntüsü kalkacaktır. Bir de, daha çağdaş bir aydınlatma uygulanırsa geçit ve dükkânlara ilgi artacaktır.<br />
+Umuyorum, “Bulvar Samsun’un” açılmasına kadar bu öneriler dikkate alınır ve Büyükşehir Belediyesi’nin bu yönde çalışmaları varsa, buna da hız verilir. Kazanan Samsun olacaktır.<br />
+Ayrıca, bu geçidin yanından Mecidiye Caddesini Cumhuriyet Meydanı’na bağlayan yaya yolu son derece bakımsızdır ve özellikle zemin döşemesi yağmurlu havada yürümeyi zorlaştırmıştır. Samsun’a yakışmayan bu yaya yoluna da el atılır diye düşünüyorum.<br />
+Bu umut ve inaçla, iyi haftalar diliyorum..08 Ocak 2012</p>
+<p>Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="../2011/0564-benim-de-bir-onerim-var.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0566-19-mayis-misyonuna-vurulan-darbe-ve-denktas-gercegi.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

@@ -1,0 +1,309 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Liderler Sivil Toplum Kuruluşlarında Yetişir.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Liderler Sivil Toplum Kuruluşlarında Yetişir.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2020
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0971
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>LİDER SİVİLTOPLUM KURULUŞLARINDA YETİŞİR.</p>
+<p>Lider kimdir ve lider nasıl olmalıdır sorularını geçen hafta ki köşe yazımda detaylıca anlatmıştım. Bugün o yazımdan alıntılar yaparak doğuştan gelen bir yetenek olan liderlik özelliğinin nasıl geliştirilebileceğini paylaşmak istiyorum.<br />
+Evet, Liderlik doğuştan kazanılmış bir yetenektir.<br />
+Ama sadece böyle yeteneğe sahip olmak, toplumları yönlendirmeye ve ardından sürüklemeye yeterli olamaz.<br />
+Lider olacak kişi, her türlü baskı ve tepkiye boyun eğmeyecek kadar cesur ve kararlı olmalıdır.<br />
+Lider kararlı, yaratıcı, dürüst, tarafsızlığı ve çözüm bulucu kimliği ile inandırıcı olmalıdır.<br />
+Lider fırsatları yaratan, cesareti ile engelleri ortadan kaldıran, gerektiğinde risk üstelenebilendir.<br />
+Bir lider, ancak bu özellikleri de doğuştan kazanılmış yeteneğine ekleyebilirse, bir topluluğu veya grubu bulunduğu yerden daha ileri noktalara taşıyabilir.<br />
+O nedenle, doğuştan lider özellikleri bulunan kişiler toplumda çok iyi değerlendirilmelidir. Toplum, bu lider adaylarına sahip çıkmalıdır.<br />
+Bu noktadan bakınca, liderlerin kendilerini geliştirebilecekleri en uygun yerlerin, sivil toplum kuruluşları olduğunu söyleyebiliriz. Çünkü sivil toplum kuruluşları çok değişik konularda bir okuldur.<br />
+Bu nedenle, demokrasi ile yönetilen ülkelerde çok önemsenen kuruluşların başında, sivil toplum kuruluşları gelir. Bu ülkelerde sivil toplum kuruluşları gücünü demokratik rejimlerin sağladığı özgürlüklerden alır.<br />
+Sivil toplum kuruluşları, ister bir meslek örgütü, isterse sosyal amaçlı bir örgüt olsun hepsinin de en önemli görevi, temsil ettikleri gurubun haklarını korumak ve gurup üyelerinin beklentilerini yükseltmektir.<br />
+STK’ lar bu görevi yaparken sıkça idari otoriteyle karşı karşıya gelebilirler.<br />
+Bu durum demokrasinin kurallarının işlediği ülkelerde sorun olmaz ama bizim gibi özgürlüklerin kesintiye uğradığı, yargının dahi kararlarını bağımsız veremediği ülkelerde, sivil toplum kuruluş yöneticileri için ciddi bir sorundur.<br />
+O nedenle ülkemizde sivil toplum kuruluşları bir türlü istenilen güce ulaşamamıştır. Özellikle ülke ve çevre konularına duyarlı STK yöneticilerinin çok cesur olması ve risk üstlenmeyi göze alabilmesi gereklidir.<br />
+Bu da ülkemizde ki STK’ların çoğunu ya yılgınlığa düşürmüş veya güç odaklarının güdümü altına sokmuştur. Bu yapı nedeniyle ülkemizde donanımlı lider kolay yetişmemektedir.<br />
+Ne yazık ki, Samsun’da bu konuda en şanssız kentlerin başında gelmektedir. Şöyle çevremize baktığımızda onlarca meslek örgütü, çeşitli amaçlı STK’lar ile sendikalarda sivrilmiş ve cesaretle toplumu arkasından sürükleyebilecek lider adayı birkaç kişiden fazla değildir. Yine ne yazıktır ki, onlara da toplum olarak sahip çıkıp arkasında duramıyoruz.<br />
+Bu nedenlerle, Samsun donanımlı lider yöneticiler yerine, sırf siyasi yapıların desteğini alan sıradan yöneticilere mahkûm olmuştur.<br />
+İşin üzücü yanı da Samsunluların bunu kaderleri olarak benimsemiş olmasıdır.<br />
+Samsun’un üzerinde ki ölü toprağını kaldırmanın tek yolu, bu kentte yaşayan, bu kenti özümsemiş, sivil toplum kuruluşlarında kendisini yetiştirmiş, gerekli deneyimi kazanmış, cesur ve yaratıcı isimlere sahip çıkıp kent yönetimlerini onlara teslim etmektir.<br />
+Demokrasinin kurallarının işlerlik kazandığı, hukukun üstünlüğünün bulunduğu, sivil toplum kuruluşlarının görevlerini yapabileceği ortamın sağlandığı, günleri görmek dileğiyle, iyi haftalar… 16.02.2020<br />
+Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0970-samsun-un-sorunu-lider-cikartamamaktir.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0972-samsunlu-bir-tiyatro-sevdalisi.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

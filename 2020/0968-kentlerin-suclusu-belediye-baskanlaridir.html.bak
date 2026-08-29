@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Kentlerin Suçlusu Belediye Başkanlarıdır</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Kentlerin Suçlusu Belediye Başkanlarıdır
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2020
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0968
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>YOZLAŞAN KENTLERİN SUÇLUSU BELEDİYE BAŞKANLARIDIR.<br />
+Birkaç akşam önce bir TV kanalında seyrettiğim filimde sıkça ekrana gelen yerleşim yerlerinde ki düzeni hayranlıkla izledim. O kentlerin yerleşim modellerini izlerken aklıma başta Samsun olmak üzere taş yığını haline getirilerek yaşanmaz hale getirilmiş bizim kentlerimiz geldi.<br />
+Birkaç yıl önce Amerika’nın başkenti Washington’a gittiğimizde çağdaş kentleşmenin çok güzel bir örneğini izlemiştim. Başkent bir orman içine yerleşmiş ve Devlet Başkanlığı Beyaz Saray ile devlet kurumları ve elçiliklerin yer aldığı DC Merkezde en çok 4-5 katlı binalardan oluşan sınırlı sayıda meskenler yer alıyordu.<br />
+Ama asıl yerleşim yerleri, Washington DC’ nin kuzey ve güney tarafında yer alan Virginia ve Maryland’ da bulunuyordu. Bölgenin ormanlık olan doğasına dokunulmadan açılan iki şeritli yolların iki yanına dizilmiş bahçe içinde ki en büyüğü iki katlı dubleks evlerden oluşuyordu. Yer yer de bu villa tipi evlerin yer aldığı siteler bulunuyordu. Tüm bu yerleşim yerlerinin arka tarafların da ormanlık alanlar yer alıyor ve öylesine doğa ile iç içe yaşanıyor ki, evlerin bahçelerinde sıkça ormanda yaşayan sincaplar dahi görülebiliyordu.<br />
+Böyle bir kentte yaşamayı kim istemez? Böyle kentler yaratmak çok mu zor? Benim halkım da böyle kentleri yaratacak yöneticiler tarafından yönetilmeyi hak etmiyor mu?<br />
+Peki bu tür yerleşim yerleri bizim ülkemizde neden yapılamıyor ve neden bu güzelliklere imza atacak belediye başkanları bulamıyoruz?</p>
+<p>Bu nedenle daha önce de çeşitli şekillerde gündeme getirdiğim ülkemizde ki çarpık kentleşmenin perde arkasında olanları paylaşmak istiyorum.<br />
+Ülkemizin en kötü yönetilmiş illerinin başında gelen Samsun’un son 60 yılını birebir yaşamış bir Samsunlu olarak, şimdi yazacaklarımı tarihe not olarak düşmek istiyorum. Belki geçte olsa birileri çıkar ve bu insanlık dışı yönetim biçimine son verecek düzenlemeleri yapar, diye umut ediyorum.<br />
+Bir yörede yaşayan insanların, daha huzurlu ve sağlıklı ortamlarda yaşayabilmeyi istemesinden olağan bir şey olamaz. Bunu sağlamakta ülkeyi yöneten siyasi iradelerin görevidir. Bu görev, kentleri yönetecek olan insanların belirlenmesini belirli kurallara bağlamaktır.<br />
+Kentleri yönetmeye talip olacakların bu görevi yapabilecek hangi donanımlara sahip olmaları gerektiği, yoruma açık kapı bırakmayacak şekilde kurala bağlanmalıdır.<br />
+Ne yazık ki, Ülkemizde böyle kurallar içeren sistem oluşturulmadığı için il ve ilçeleri yönetecek belediye başkan adayları siyasi parti yönetimleri tarafından yukarıda sözünü ettiğim hiçbir kurala bağlı olmaksızın seçilmekte ve bir anlamda yöre halkına da oy vermesi için dayatılmaktadır.<br />
+Oysa bir kentte yaşayanların oyları ile seçtiği belediye başkanları, çok önemli ve sorumluluk isteyen bir görev yaparlar. Ne var ki böylesine önemli bir görev için adaylarını belirleyen siyasi partiler, bu göreve talip olanların böyle bir görev için gerekli donanıma sahip olup olmadıklarını sorgulamadıkları gibi yöre halkının düşüncelerini almaya dahi gerek görmezler.<br />
+Peki siyasi partiler bu adayları nasıl seçiyorlar?<br />
+Adayların parti yönetiminde ki etkin isimlere yakın olması, mezhepsel ilişkiler ve üzülerek söylemek gerekirse bazen de akçeli ilişkiler aday belirlemelerinin en geçerli yöntemleridir. Daha demokratik yöntem uygulayan partiler ise, daha önceden etkin güçler tarafından kendi geleceklerini sağlamak için belirlenmiş delegelerin oylarıyla adayını belirler. O nedenle bu yöntem dahi halkın isteklerini karşılamaktan uzaktır.<br />
+Bir Samsunlu olarak şu kadarını söyleyeyim ki, eğer bu kentin halkına “Kimi belediye başkanı olarak görmek istersiniz?” Sorusu sorularak bir liste hazırlansa, inanın bu listede şu an ki belediye başkanlarının birçoğu kendisine yer bulamaz.<br />
+Adayların belirlenmesi birinci aşamadır. Adaylığı kesinleşenler için ikinci aşama, rakipleri ile girecekleri seçimler öncesi başlayacak tanıtım kampanya dönemidir. Kampanya dönemi ise, tanıtım anlamında çok büyük harcamaları gerektirmektedir.<br />
+İktidar partileri dışında kalan partilerin adaylarını ekonomik yönden yeterince destekleme şansı olmadığı için adayların ya kendi imkanlarını kullanması veya kendilerini destekleyecek sponsorlar bulması gereklidir. Eğer adaylar toplumda çok tanınan ve bilinen bir isim değilse, işi daha da zordur.<br />
+İşte işin en düşündürücü tarafı burada başlamaktadır. Zaten başkan seçildiğinde ailesine ayıracağı zamandan, kendi özel yaşamından vaz geçmeyi, hatta yaşayabileceği ekonomik kayıpları göze alan birisinin, seçilebilmek için bir de çok ciddi paralar harcamasının nedenlerini sorgulamak gerekmez mi?<br />
+Bir insan hem karşılıksız halkına hizmet etmeyi göze alacak, hem de bu iş için çok büyük paralar harcayacak?<br />
+Bunun adı, düpedüz seçildiği görev aracılığı ile harcadığı bu paraların çok daha fazlasını bir şekilde edineceğinin, kendisinin seçilmesi için maddi harcamalar yapan sponsorun beklentilerinin de karşılanacağının göstergesidir.<br />
+Bu gerçeği herkes biliyor ve görüyor. Ama nedense bu ahlaksızlığın önünü kesecek hiçbir önlem alınmıyor. Bu anlayış, ülkemiz de ki siyaseti tüm ahlaki kuralları yok sayacak kadar yozlaştırmıştır.<br />
+Siyasete girmeden önce bir devlet kurumunda görev yaptığı dönemde son derece vasat bir yaşamı olduğu herkes tarafından bilinen birisinin, siyasete girdikten sonra akıl almaz bir şekilde zenginleştiği ve tüm toplumun gözü önünde çok büyük gayrimenkul ve işyerlerine sahip olabildiği bir ülkede siyasete güven kalır mı?<br />
+İşte bu nedenle kentleri yönetmeye aday olanların siyasi partiler tarafından çok titizlikle seçilmesi kaçınılmaz hale gelmiştir. Aksi halde çok büyük parasal çıkarların konuşulduğu, belediye başkanlıklarının ve belediye meclis üyeliklerinin hizmetten çok zenginleşme aracı olarak istendiği gerçeğini değiştiremeyiz.<br />
+Hizmetin değil de parasal çıkarların öne çıktığı belediyecilikten, çağdaş ve yaşanabilir kentler yaratılması beklenemez.<br />
+İşte bu kazan kazana dayalı yönetim anlayışı, Samsun’un geleceği olarak planlanan 20-25 yıllık geçmişi olan Atakum’u da bu kısa süreçte yok etmeyi başardı. Yeşil alanları yok edilmiş, çok katlı binaların yer aldığı yeni bir kötü kentleşme örneği daha yaratıldı. Yazık oldu Atakum’a…<br />
+Bizim kuşağın beceremediğini belki gelecek kuşaklar becerir ve şöyle bir yeni yerleşim beldesi yaratırlar.<br />
+Önceden alt yapısı tamamlanmış, bulvarları açılmış, bulvarların iki yanında yer alan tek ve iki katlı bahçeli evler, en az 50 yıllık geleceği planlanarak yapılmış açık ve kapalı otoparkları, okul alanları, çocuk oyun ve dinlenme parkları, sosyal amaçlı tesisleri ile çağdaş ve yaşanabilir bir kent yaratılamaz mı?<br />
+Neden olmasın?<br />
+Kirli ve akçeli işlere dayalı siyasete son verecek ve belediye başkanları ile milletvekillerine “Nereden buldun?” yasasının uygulanacağı, temiz siyasetçilerin önünün açılacağı günleri görmek dileğiyle güzel bir hafta diliyorum. 26.01.2020<br />
+Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0967-ataturk-karsitligi-gercek-ataturk-u-ogretiyor.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0969-sonunda-kizilay-i-da-bitirdiler.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

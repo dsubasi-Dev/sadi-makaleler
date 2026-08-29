@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Samsun Artık Bir Olimpiyat Kenti</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Samsun Artık Bir Olimpiyat Kenti
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2017
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0871
+
+</div>
+
+
+<div class="article-content">
+
+<p>e-posta; sadisubasi@denizoptik. com                            SUNUŞ</p>
+<p>SAMSUN ARTIK BİR OLİMPİYAT KENTİ</p>
+<p>Samsun, kent olarak çok önemli bir etkinliğe hazırlanıyor. Bu hafta başlayacak ve 18-30 Temmuz tarihleri arasında 12 gün sürecek olan bu etkinlik, uluslararası boyutta olan “İşitme Engelliler Olimpiyatı’dır.”<br />
+Son üç ayda hızlanan hazırlıkların artık sonuna gelinmiş gözüküyor. Bu Olimpiyatın Türkiye ve Samsun’u dünya gündemine taşıyacak olması, özellikle son zamanlarda 3. Sayfa haberleri dışında hemen her konuda gündemden düşen Samsun açısından çok daha önem kazanmış bulunuyor.<br />
+Samsun, kent olarak olimpiyata gelecek olan binlerce sporcu, teknik adam ve yönetici yanında sanıyorum önemli oranda yerli ve yabancı turisti de ağırlayacaktır.<br />
+Bu olimpiyat, ekonomisi alarm veren Samsun’a ekonomik anlamda can suyu olacaktır. Bunun yanında yapılacak canlı TV yayınları ile de Samsun’un tüm görsel güzellikleri dünyaya tanıtılmış olacaktır.<br />
+Samsun’a gelenler, çağdaş ve laik Türkiye Cumhuriyeti’nin kuruluşuna giden ilk adımın atıldığı kentte, gezecekleri Gazi Müzesi ve bir açık hava müzesi olan Bandırma Vapuru ile yeniden doğuşun öyküsü ile Türkiye’yi de tanımış olacaklardır.<br />
+Kent Müzemizle Samsun’un tarihi ve kültürel geçmişine tanıklık edeceklerdir. Teleferikle Samsun’un doğal güzelliğini Samsun anılarına katacaklardır.<br />
+Menderes Bulvarında verecekleri bir çay molasında Samsun’un çağdaş gençlerini tanımış olacaklar, büyük çoğunluğunu yok etmiş olsak da kalan kısmında dünyanın en ince ve güzel kumsalından denize girebileceklerdir.<br />
+Samsun pidesi ile bugüne kadar tanımadıkları bir lezzeti çeşit çeşit Samsun pidesi ile tadacaklardır.<br />
+Eminim ki, bu olimpiyatla Samsun çok şey kazandı ve de kazanmaya devam edecektir. Böylesine ulusal bir etkinliği Samsun’a kazandırmak kolay bir iş değildi.<br />
+O nedenle bu büyük organizasyonu Samsun’un düzenleyebilmesi Spor Bakanımız Sayın Çağatay Kılıç’ın başarısıdır. Kendisine bir Samsunlu olarak teşekkür ediyorum.<br />
+Bu organizasyonun Samsun’da yapılacağının açıklanması ile birlikte bu büyük organizasyona destek verenlerden birisi de Vali Sayın İbrahim Şahin’di. Bu nedenle olsa gerek, Şahin’in son valiler kararnamesi ile merkeze çekilmesi doğrusu beni çok şaşırttı ve Valimiz adına da üzdü.<br />
+Okurlarım hatırlayacaktır, Halk Gazetesi’nde köşe yazısı yazdığım günden beri, Samsun’dan ayrılan Valilerimiz hakkında bir yazı yazıyorum. Sayın Şahin’i değerlendireceğim köşe yazımı haftaya bu sütunda okuyabilirsiniz.</p>
+<p>Artık bu olimpiyatla açılacak olan yeni ve çok güzel bir Ondokuzmayıs Stadımız var. Modern ve olimpik bir yüzme havuzu, birisi büyük olmak üzere üç tane spor salonu kazandık.<br />
+Samsun’da bir olimpiyat düzenlenmesi kararının açıklanması ile birlikte en çok çaba harcayanların başında da Büyükşehir Belediye Başkanı Sayın Yusuf Ziya Yılmaz vardı.<br />
+Batı Park’ta kısa sürede değişik spor etkinlikleri yapılabilecek birçok tesisi yapıldı. Artık büyük şehirlerin çoğunda olmayan bir golf ve bir de bowling sahamız var.<br />
+Samsun’da yaşayan herkesin gördüğü gibi kent ulaşımını sağlayan ana arterlerde çok önemli refüj düzenlemeleri ve çiçeklendirme işlemleri yapılıyor. Samsun’da bir olimpiyat yapılacağını herkese hatırlatan sportif panolar, Samsun’un ana caddelerini süslüyor.<br />
+Ne var ki, çok emek verilen bu güzel organizasyon sırasında yaşanabilecek en büyük olumsuzluk, kent trafiğinde yaşanmakta olan karmaşa olacaktır.<br />
+Şu an da henüz olimpiyat oyunları başlamadı ama ön hazırlıklar sırasında dahi, Samsun’dan Bafra ve Çarşamba yönüne trafik akışı müthiş sıkışıyor. Çarşamba yönünde ki yeni asma yol düzenlemeleri, battı- çıktılar ve viyadük kavşaklarla tamamlanarak hizmete açıldı.<br />
+Samsun’da son yıllarda yapılan yol ve kavşak düzenlemelerinde yapılan tercih hataları hep tartışıldı. Örneğin bir Cumhuriyet Meydanı girişinde ki kavşakta yaşanan sıkıntıların bu olimpiyat trafiğinde hangi boyutlara ulaşacağını düşünmek dahi istemiyorum.<br />
+Bunların hepsi bir yana bu olimpiyat sayesinde Samsun adına yapılan tesislerin hiç birisi küçümsenecek eserler değildir ve Samsun’un gelecek yıllarda da çok önemli organizasyonlara ev sahipliği yapacağına inanıyorum.<br />
+Belki de bu nedenle, Konyaspor ile Beşiktaş arasında oynanacak olan Türkiye Final Maçı Samsun’a alınmıştır. Ancak bu karar, Samsunspor taraftarlarını ayağa kaldırmış bulunuyor.<br />
+Samsunspor taraftarlarının gösterdiği tepkiyi de çok haklı buluyorum. Ama bu sahada oynanacak bir Samsunspor maçı ile açılışı yapılacak Ondokuzmayıs Stadımızda böyle bir finalin oynanması, her yönü ile Samsun’un kazanımı olacaktır.<br />
+Benim de taraftarlarımıza katıldığım tek endişem, Antalya stadında oynanan TFF Ligi Play-Of Finalinde yaşanan olaylar ve stada verilen büyük zararların bizim stadımızda da tekrarlanabilecek olmasıdır.<br />
+Gerçekten de daha resmi ilk maçımızı oynamadan sahamızda öyle bir tahribatın yaşanma olasılığı her bakımdan korkutucudur. Ama inanıyorum ki gerek TFF ve gerekse güvenlik güçleri, Antalya’da yaşananların Samsun’da yaşanmasına izin vermeyecektir.<br />
+Yazımı, sosyal medyada da yer almaya başlayan çok önemli bir uyarıyla bitiriyorum.<br />
+Saygıdeğer Samsunlu sürücü kardeşlerim!<br />
+Bildiğiniz gibi olimpiyat oyunlarına katılacak sporcuların tamamı ile onların yönetici ve teknik kadrolarının bir kısmı işitme engellidir. O nedenle cadde ve sokaklarda, özelliklede spor salonları civarında klakson yerine fren kullanınız, süratini düşürünüz.<br />
+Değerli Samsunlu sporseverlerin salonları doldurarak bu olimpiyat oyunlarına gereken ilgiyi göstereceklerine inanıyorum.<br />
+Güzel ve renkli bir hafta dileğiyle selam ve sevgilerimi sunuyorum.<br />
+16.07.2017<br />
+Ecz. SADİ SUBAŞI<br />
+SAMSUNLULAR, LÜTFEN! UNUTMAYINIZ.<br />
+Hava alanımızın kapatılmasına sadece onbeş gün kaldı.<br />
+Uzun yıllardır bilinmesine rağmen gündeme dahi alınmayan bu alanın kapatılarak onarılacak olması düşündürücüdür.<br />
+Böylece acil bir neden olmadığının ortaya çıkması ile kapatmanın asıl nedenin, bunlar olmadığı kuşkuları artmıştır.<br />
+Bu, açıkça Samsun’a yapılan yeni bir dayatmadır.<br />
+Soru şu; Neden bu dayatmaya milletvekillerimiz, kentimizi yönetenler, her konuda açıklamalar yapan anlı şanlı Sivil Toplum Kuruluşlarımız sessiz kalıyor? Neden sorgulamıyor?<br />
+NEDEN? NEDEN? NEDEN?</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0870-suriyelilerin-yarattigi-sorunlar-kucumsenemez.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0872-spor-bakanimizin-ve-valimizin-ardindan.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

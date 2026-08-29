@@ -1,0 +1,321 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Mecidiye Caddesine Düzen Getiren Büyükşehir ve İlkadım Belediye Başkanlarına Teşekkür</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Mecidiye Caddesine Düzen Getiren Büyükşehir ve İlkadım Belediye Başkanlarına Teşekkür
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2013
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0622
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>MECİDİYE CADDESİNE DÜZEN GETİREN İLKADIM VE<br />
+BÜYÜK ŞEHİR BELEDİYELERİMİZE TEŞEKKÜRLER..</p>
+<p>Mecidiye Caddesi Samsun’un en eski ticari merkezi olmasının yanında, 1980 öncesi kuşağının en önemli zevklerinden birisi olan akşam turları ve arkadaşlar arası buluşmaların yapıldığı en nostaljik bölgesiydi.<br />
+Bilindiği gibi Gaziler Meydanından 19 Mayıs Lisesi’ne kadar uzanan bu caddenin Gaziler Meydanı ile Konak Sineması önüne kadar olan bölümü Gazi Caddesi 1. kısım, Konak Sineması’ndan 19 Mayıs Lisesi’ne kadar olan bölümü de Gazi Caddesi 2. kısım olarak tanımlanır. Mecidiye Caddesi diye tanımlanan kısım, Gazi Caddesi 1. kısmıdır.<br />
+Bir de bu cadde üzerinde Samsun’un Cumhuriyet tarihinde ki önemini anlatan en önemli müzesinin de ( Gazi Müzesi) bulunduğu hatırlanırsa, bu caddenin Samsun için değeri çok daha iyi anlaşılır.</p>
+<p>Mecidiye Caddesi geçtiğimiz yıllarda Ondokuzmayıs Bulvarı üzerinde yapılan alt geçitle ortadan bölünerek eski önemini yitirmişti.<br />
+Bu cadde son on yılda öylesine ihmale uğramış ve öylesine kaderine terk edilmişti ki, bu cadde Samsun’da ki işsizliğin en tipik örneği olan ve çağdaşlık iddiasında ki hiçbir kentte rastlanmayacak şekilde adeta seyyar satıcıların mekânı haline gelmişti.<br />
+Bu görüntü Mecidiye Caddesini öylesine sevimsiz ve yürünemez hale getirmişti ki, yerleşik işyeri sahipleri olarak kendi işyerlerimize girmekte dahi zorlanır hale gelmiştik.<br />
+Çevre illerden hafta sonları alış veriş için Samsun’a gelenlerin şaşırdığı ve tepki gösterdiği, hatta yalnız yabancıların değil Samsunluların dahi bu rahatsız edici oluşum nedeniyle alış veriş için dahi gelmediği bir yer olmuştu.<br />
+Bu olumsuz tablo, en çok da bu caddede kira ve personel gideri ödeyerek ticaret yapan yerleşik işyeri sahiplerini etkiliyordu.<br />
+İşyerleri sahiplerinin şikâyet ve yakınmaları, Valilik makamı dâhil ilgili belediyelerimize defalarca anlatılmış olmasına rağmen, İlkadım Belediyesi ve Büyükşehir Belediyesi’nin topu birbirlerine atması ile yıllardır çözülemiyordu.</p>
+<p>Artık bıçak kemiğe dayanmış ve birçok yerleşik işyerleri kapanma noktasına gelmişti. Altı ay kadar önce, Samsun’un çağdaş kimliğini zedeleyecek görüntülerin fotoğrafları ile önce İlkadım Belediye Başkanlığı ile görüşüldü ve sonra da Büyükşehir Belediye Başkanlığı’ndan randevu alındı.<br />
+Mecidiye işyeri sahiplerinin yanında Samsun Ticaret ve Sanayi Odası temsilcisinin de katıldığı Büyükşehir Belediye Başkan Yardımcısı Sayın Turan Çakır ile yapılan toplantı da Mecidiye Caddesi’nin son görüntüleri ile sorun yeni baştan anlatılarak kesin bir çözüm bulunması istendi.<br />
+Sonunda Büyükşehir Belediye Başkanlığımız İlkadım Belediyesi’nin de desteği ile önce cadde bu olumsuz görüntüden kurtarıldı. Sonra da Büyükşehir Belediye Başkanlığı caddenin alt yapısını yeniledi ve İlkadım Belediyesi de zemini renkli asfaltla kapladı.<br />
+Sıra güzelleştirilmesine gelmişti. İlkadım Belediye Başkanlığı sanırım Yedaş’ın da desteğini alarak Mecidiye Caddesi’ni renkli led ışıklandırma uygulaması ile aydınlattı.<br />
+Mecidiye Caddesi’nde yaya trafiği rahatladı ve kentimize yakışmayan tablo ortadan kalktı.<br />
+Şimdi sıra Mecidiye Caddesinde yerleşik işyeri olarak çalışıp da vitrin yapmadan caddeye taşan işyerlerinin kendisine çeki düzen vermesine gelmiştir. Her iki belediye yetkililerinin de belirttiği gibi bu sorunu işyeri sahiplerinin kendilerinin çözmesi beklenmektedir.<br />
+Bu konuda duyarlılık göstererek bu düzenlemeleri yapan Büyükşehir Belediye Başkanı Sayın Yusuf Ziya Yılmaz ve soruna el koyarak çözüme ulaştıran yardımcısı Sayın Turan Çakır ile İlkadım Belediye Başkanımız Sayın Necaettin Demirtaş’a Mecidiye Caddesi İşyeri sahipleri olarak teşekkür ediyoruz.</p>
+<p>Bu düzenlemelerle Mecidiye Caddesi eski rahatlığına kavuşmuştur ama hala yapılması gereken çok önemli bazı düzenlemeler daha vardır.<br />
+Yukarıda da söz ettiğim gibi Ondokuzmayıs Bulvarı’nın Mecidiye Caddesi ile kesiştiği yerde yapılan alt geçit, Mecidiye Caddesi’ni devamı olan ve eski Sigara Fabrikası önünden 19 Mayıs Lisesine kadar uzanan 2. Kısım Gazi Caddesi’nden kopartmıştır.<br />
+Bu geçit, Mecidiye Caddesi’nin ticari etkinliğini de azaltmıştır. Özellikle de Sigara Fabrikası yerine yapılan Bulvar Alış Veriş Merkezi’nin bölgeye sağlayacağı ticari canlılığın Mecidiye caddesine de yansımasını önlemiştir.<br />
+O nedenle, bu geçidin giriş ve çıkışında ki merdivenlerin kaldırılması ve daha eğimli bir giriş çıkış düzeni sağlanarak giriş çıkışın hava alanlarında bulunan yürüyen bantlarla sağlanacağı ve asansör kulelerinin de kaldırılacağı bir proje, bu geçidi biraz daha sevimli hale getirilebilir.<br />
+Işıklandırmanın da son teknolojik aydınlatma sistemleri ile yapılması ve bozulan mermer döşemelerin yenilenmesi ile bu geçit hem daha işlerlik kazanacak, hem de gecenin ilerleyen saatlerinde korku tüneli olmaktan kurtulacaktır.<br />
+Gazi Müzesi ile alt geçit arasında ki bölüme konacak dekoratif dinlenme bankları da bu caddeye renk katacaktır.<br />
+Mecidiye Caddesini alt geçidin yanından Cumhuriyet Meydanı’na bağlayan yaya kaldırımı kırık dökük haliyle bırakın engellileri, sağlam insanları da engelli yapacak kadar bakımsızdır.<br />
+Hem Büyükşehir Belediye Başkanlığımızdan, hem de İlkadım Belediye Başkanlığımızdan bu düzenlemelerin de yapılması için anlayış göstermesini arz ve talep ediyoruz.<br />
+Aslında bu caddede ki iyileştirmelerin bu kadar gecikmesinin nedeni, bu caddenin yaşadığı bir yetki karmaşasından kaynaklanıyor.<br />
+Mecidiye Caddesi’nin Gazi Müzesi ile alt geçit arasında kalan kısmı Büyükşehir Belediyesi’nin, diğer kesimleri ise İlkadım Belediyesi’nin uygulama alanında bulunuyor.<br />
+Hafta sonun da İlkadım Belediye Başkanı Sayın Necaettin Demirtaş ile yaptığım görüşmede öğrendiğim kadarı ile İlkadım Belediyesi bu bölgeyi daha da güzelleştirecek bir proje hazırlamış ve proje Büyükşehir Belediyesi’nce de onaylanmıştır.<br />
+İnanıyorum ki, her iki belediyemizin ortaklaşa yürütecekleri bir çalışma ile Mecidiye Caddesi eski cazibesine kavuşacaktır.<br />
+Yapılmış ve yapılacak iyileştirmeler için her iki belediye başkanımıza ve emeği geçen tüm belediye yetkililerine şimdiden teşekkürlerimiz sunuyoruz.<br />
+Bundan sonra Mecidiye Caddesi işyeri sahipleri olarak bizlere düşen görev de, yapılanlara sahip çıkmak ve herkesin elinden geldiğince her türlü desteği vermesidir.<br />
+Modern ve güzelleştirilmiş Mecidiye Caddesi’ni en kısa sürede görmek dileğiyle, iyi haftalar diliyorum..27. 01. 2013</p>
+<p>Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0621-demokrasimizin-90-yili-ve-siyaset-anlayisimiz.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0623-ulkemizin-gelecegi-adina-olumsuz-gelismeler.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Dizi Rezaletine Son Verilmelidir</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Dizi Rezaletine Son Verilmelidir
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2005
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0162
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>TELEVİZYONLARDAKİ DİZİ REZALETİ DURDURULMALI</p>
+<p>‘’ Biri bizi gözetliyor’’türü rezalet dizilerden sonra bu kez de kaynanalı, gelinli ve damatlı diziler yaygın TV kanallarına oturdu. Gündüz gece , hemen her dakika önemli TV kanallarında bu diziler yer alıyor. Özellikle çocuk ve kadınlar adeta bu dizilere abone olmuş, nereye gitseniz hemen herkes bu dizilerin başında. Bu konuda çok fazla bir şey söylemeyede çekiniyorum. Çünkü aklı başında, kültürlü bir sürü dostumuz da bu tutkunun esiri olmuş. Bu nasıl iştir anlamıyorum? Geleneksel aile bağlarımızı kopartacak kadar düzeysiz bu dizilere nasıl izin veriliyor anlaşılır gibi değil. Sözüm ona bu işleri kontrol etmek ve düzenlemek üzere kurulmuş birde RTÜK ( Radyo, Televizyon Üst Kuruluşu) isimli kuruluş görev yapıyor. Hükümet politikalarına biraz dil uzatanı kapatacak kadar yetkili olan bu kuruluş, bu rezaleti seyretmekle yetiniyor. Bu dizilerdeki tipler o kadar popüler hale getiriliyor ki , Türk aile yapısıyla hiç uyuşmayacak ağzı kalabalık bir  kaynana tipi, sabah programlarının bile değişmez konuğu haline geliyor.<br />
+Yıllardır Türkiye üzerinde oynanan oyunlarla çökertilemeyen bütünlüğümüz korkarım bu abuk sabuk dizilerin etkisi ile ciddi yaralar alacak. Zira yıllardır artatarak devam eden ekonomik baskı ve sıkıntılar altında ezilen bu toplumu hala ayakta tutan güç aile içi bağlarımızın sağlam oluşuydu. Gözü paradan başka bir şey görmeyen medya patronlarının ve onların uzantısı yapımcıların bir biriyle yarışırcasına reyting uğruna devreye soktuğu bu tür diziler, daha fazla zarar vermeden kaldırılmalıdır. Hiç kimse ‘’bu arz-talep meselesidir, seyirci böyle istiyor diyemez .’’Medyanın toplumu doğruya yönlendirme ve eğitmek gibi bir görevi de olduğu unutulmamalıdır.<br />
+Anlamakta zorlandığım diğer iki konu da şunlar. Birincisi iktidarda muhafazakar bir hükümetin oluşu. Hemde istediği yasayı bir gecede çıkartacak erke sahip olması. Nasıl oluyorda böyle bir yanlışa göz yumuyorlar?  İkincisi ise yeniden düzenlenen Türk Ceza Yasasına medya kuruluşlarının basın özgürlüğü kısıtlanıyor diye koydukları haklı tavırı neden bu tür yayınlar için koymadıklarıdır? Yapacakları yayınlar için özgürlüklerinin kısıtlandığı ve ağır cezalaların gündeme geldiği gerekçesi ile kopardıkları gürültünün bir örneğini, toplumun çıkarları uğruna, bu diziler için neden kopartmıyorlar? Yoksa bu suskunlukları dizilerin daha çok iktidarın destekçisi olan medya patronlarının kanallarında yer alıyor oluşundan mı kaynaklanıyor? Ceza yasasından dolayı görecekleri zarar nedeniyle köşelerinde günlerdir veryansın eden bu holdinglerin köşe yazarları aynı tepkiyi böylesine önemli bir  konuda göstermiyorlarlarsa nasıl inandırıcı olacaklar? Gerçi para uğruna yıllardır bilinen çizgilerini dahi değiştirenlerden  böyle saygın işler de beklemek fazla iyimserlik olsa gerek. Ama değişim ve Avrupalılaşma uğruna bizi biz yapan değerlerimizi de kaybedersek korkarım Ülkemizi bölüp parçalamaya çalışanların ekmeğine yağ sürmüş olacağız. Bu konuda sivil toplum kuruluşlarına büyük görev düşmektedir. Cılız da olsa başlayan bu çabalar artarak devam etmeli ve toplumsal bir bilinç oluşturulmalıdır. En doğrusu da toplumun yaratacağı bu otokontrol sistemi ve toplumsal bilincin artarak devam etmesidir.<br />
+Buradan duyarlı tüm okuyucularıma ‘’ bu dizileri yayınlayan kanalları ‘’ bu dizler sırasında kapatmaları çağrısı yapıyor ve iyi haftalar diliyorum..03-OCAK-2005</p>
+<p>SADİ   SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0161-gelibolu-filmi-ve-dusundurdukleri.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0163-celiskiler-kenti-samsun.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

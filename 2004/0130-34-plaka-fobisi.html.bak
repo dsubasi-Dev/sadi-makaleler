@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>34 Plaka Fobisi</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+34 Plaka Fobisi
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2004
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0130
+
+</div>
+
+
+<div class="article-content">
+
+<p>34 PLAKA FOBİSİ</p>
+<p>36 yıllık ehliyet sahibi bir sürücü olarak, son zamanlarda beni çok rahatsız eden bir trafik kuraları ihlalini sizlerle paylaşmak istiyorum. Bu konuda konuştuğum çok sayıda dostumu da aynı yakınma içersinde gördüğüm için bu konuyu sizlere de aktarmak istedim. İstanbul trafiği çok yoğun ve karmaşık olmasına rağmen trafik akışında sorun olmuyorsa, bu İstanbul şoförlerinin kurallara genelde uymasındandır. İstanbul’ da, da sık sık araç kullanan birisi olarak bu değerlendirmeyi yapabiliyorum. Ancak bu değerlendirmem Samsun içindeki 34 plakalı araçlar için ne yazık ki geçerli değil. Tabi bu değerlendirmem tüm 34 plakalı araçları kapsamıyor. Sözünü ettiğim araçlar genelde son model ve Samsunda Bölge Müdürlüğü veya temsilciliği bulunan büyük firmaların tanıtım veya satış elemanlarına verdiği otomobiller. Hemen hepsinin  yan taraflarında firmaların ismi yazılı. Genç ve pırıl pırıl gençler. Firmalar bu gençlerin altına son model araçlar, ellerine de Türkiye standartlarına göre iyide para veriyorlar ama, anlaşılıyor ki yeterince denetlemiyorlar. Hepsi genç ve heyecanlı ama çoğu kez kendi canlarını da riske sokarak çok tehlikeli ve süratli  araç kullanıyor. Benim sektörüm olan  ilaç firmalarının bu tür görev yapan birkaç genci dahi bu trafik kazalarında canlarından oldular yazık değil mi  bu çocuklara?<br />
+Yaz aylarında Samsun –Bafra yolu özellikle Saat: 18: 00 – 19: 00 – 20:00 arasında çok yoğun bir trafik yükünü taşıyor. Baruthane yolunda o saatlerde 3 şeritli yolun tamamı çalışıyor. O saatte dahi en sol şeritte belli bir süratle gidiyorsunuz. Arkanızdan korna çalınıyor ve selektörle rahatsız ediliyorsanız bu araç % 90 34 plakalı ve bu bahsettiğim tür araçtır. Önünüzde ve sağınızda akan bir trafik var, nereye kaçıp ta  yol vereceksiniz? Oda görüyor yolun doluluğunu. Ama sanki üzerinden atlayıp geçecek. Yeni ehliyet alıp trafiğe çıkan bir sürücüye arkadan yapılacak bu tür kural dışı baskıların nelere mal olduğunu çok iyi biliyoruz. Bu sözlerim yol baştan sol şeridi işgal edip yol vermeyen trafik magandalarını kapsamıyor tabii.<br />
+Genç sürücü kardeşlerime önce kendi canlarını, sonrada bizleri biraz düşünmesini öneriyorum. Ancak asıl uyarılarımı firma yöneticilerine yapmak istiyorum. Lütfen kuralları sağlam koyunuz. Denetlemelerinizi biraz daha ciddi tutunuz. Bu benim gördüğüm bir yanlışlık. Sonra üzülmenin hiç kimseye bir yararı olmuyor.<br />
+İyi haftalar....</p>
+<p>SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0129-egitim-uzerine-nostalji.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0131-tersane-projesinde-karmasa.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

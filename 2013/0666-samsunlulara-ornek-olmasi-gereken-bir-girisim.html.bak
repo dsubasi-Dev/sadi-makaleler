@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Samsunlulara Örnek Olması Gereken Bir Girişim.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Samsunlulara Örnek Olması Gereken Bir Girişim.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2013
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0666
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>SAMSUNLULARA ÖRNEK OLACAK BİR GİRİŞİM.<br />
+Hürriyet Gazetesi’nin köşe yazarı Vahap Munyar 08 Kasım 2013 Cuma günkü köşe yazısında, KALE SERAMİK GRUBU’NUN Erzurum’a yatırım yapma kararı almasının hikâyesini anlatıyordu.<br />
+Yazıda anlatılanları okurken bir Samsunlu olarak doğrusunu isterseniz hem kıskandım, hem de Samsunlular olarak bunları yapamadığımız için üzüldüm.<br />
+Yıllardır Samsun’a yatırım gelmiyor, getiremiyoruz diye sızlanıyoruz. Bu yazıdan yaptığım alıntılara dikkat ederseniz, bu yazının içerisinde Kale Grubunun Erzurum Bayisi Şahika Grup yönetim Kurulu Başkanı Sayın Taner Ardahanlı ve Yapı Grubu Başkanı Ferdi Erdoğan’ın Erzurum adına yaptıkları girişimin ve sunumun ne kadar önemli olduğunu göreceksiniz.<br />
+Onların taleplerine olumlu cevap veren Kale Seramik Grubu Yönetim Başkanı Zeynep Bodur Okyay’ın söyledikleri de bir o kadar önemlidir.<br />
+Bu belki de, yakın geçmişte Samsun adına yapılan çok büyük bir yanlışın, bugün bizlere ne kadar ağır sonuçlar getirdiğinin de bir yansımasıdır.<br />
+Şimdi o yazıdan aldığım bazı bölümleri okuyalım.<br />
+KALE Grubu’nun yapı kimyasalları şirketi Kalekim’in Erzurum bayisi Şahika Grup’un Yönetim Kurulu Başkanı Taner Ardahanlı, Yapı Grubu Başkanı Ferdi Erdoğan ve Kalekim Genel Müdürü Altuğ Akbaş’la görüşmeleri sonrası Yönetim Kurulu Başkanı Zeynep Bodur Okyay’ın kapısını çaldı:<br />
+- Kalekim, Erzurum’a mutlaka üretim tesisi kurmalı. Erzincan, Bayburt, Ağrı, Iğdır, Erzurum, Kars ve Ardahan’da yılda 2,5 milyon metrekare seramik satılıyor. Bu satış, yılda 15 bin ton yapıştırıcı ve derz dolgu ihtiyacı yaratıyor. Komşu ülkeleri anımsattı:- Nahçıvan, Gürcistan ve Irak Erzurum’dan ürün gönderilecek ihracat pazarları olarak yanı başımızda duruyor. Sonra da kentin lojistik yönünü fiyatlarla ortaya koydu:- Yozgat’taki tesisten Trabzon’a 25 kiloluk yapıştırıcı veya sıva malzemesi 1900 liraya gidiyor. Taşıma maliyeti ciddi pay alıyor. Aynı ürün Erzurum’dan giderse, maliyet yarıya iniyor. Sonra da 2012 yılı başı itibariyle kendi cirosunu aktardı:- Sizin bana kattığınız güçle yıllık 7 milyon lira ciroya ulaştım. 2 yıl içinde bu rakam 10 milyon liraya çıkacak. Gelin benim heyecanımla Kale Grubu’nun gücünü birleştirin. Kale Grubu Yönetim Kurulu Başkanı Zeynep Bodur Okyay, uzun süredir Doğu ve Güneydoğu’ya yatırımı düşünüyordu. 5 yıl önce Diyarbakır’a yatırıma yönelmiş, ancak hayata geçirememişlerdi. Son 2-3 yılda da Şanlıurfa, Mardin, Malatya ve Erzurum’u incelemeye almışlardı. Kalekim yatırımı için Mardin’e karar verdikleri dönemde, Erzurum bayisi Taner Ardahanlı’nın ısrarı ve ikna edici sunumu karşılarına çıktı. Zeynep Bodur Okyay, sunumdan etkilendi.    Erzurum Bayisi Yönetim Kurulu Başkanının sunumundan etkilenerek ikna olan Türkiye’nin en büyük seramik üretim firması Kale Seramik Grubu’nun Yönetim Kurulu Başkanı Sayın Zeynep Bodur Okyay, Erzurum’a 2,5 milyon liralık makine yatırımı ile yıllık 90 bin ton kapasiteli seramik üretim yatırımı merkezi kurma kararını almalarında, Erzurum bayisinin sunumu kadar bir başka şeyin daha çok etkili olduğunun altını çiziyor.<br />
+Şimdi bu konuşmanın o bölümünü okuyalım;<br />
+- Taner Bey bizi ikna etti. Mardin’le eş zamanlı şekilde Erzurum’a da yatırıma karar verdik. Erzurum 1. Organize Sanayi Bölgesi’nde bir yer kiraladık. 2.5 milyon liralık makine yatırımıyla Erzurum’da 90 bin ton yıllık kapasiteyle üretime başladık.- Küçük ölçekli de olsa Mardin ve Erzurum’a yatırı kararı alırken teşviklerin etkisi oldu mu? Sorusuna ise,- Yatırım aşamasında elbette teşviklerden yararlandık. Aynı durumu Yozgat’a yatırım yaparken de yaşamıştık.<br />
+Yazının devamında yer alan cümleler de Samsun’a ışık tutacak cinsten. O satırlara da göz atalım.<br />
+- Bir yandan Erzurum’un lojistik merkez olması çalışmaları sürerken, diğer taraftan da Kars’tan Bakü’ye uzanacak demiryolunun çalışmaları devam ediyor. Bu iki adım, kenti ve bölgeyi canlandıracak.<br />
+Erzurumlu bir bayinin kendi geleceği yanında kenti adına yaptığı yatırım çekme çabası büyük anlam taşıyor.<br />
+Bu yazıda örnek alınması gereken şey, bir bayinin kişisel çabasının ne kadar önemli olduğudur.<br />
+Ders çıkartmamız gereken şey ise, siyasal çıkarlarımız adına bu kenti nelerden mahrum ettiğimizi artık görmemiz gerektiğidir.<br />
+Siyasetçiler ve iktidarlar gelip geçicidir. Ama tüm iktidarlar döneminde kent adına sağlayacağımız kazanımlar hem kentimiz, hem de bu kentte yatırımı olanlar adına kalıcı kazanımlardır.<br />
+İhracat kolaylığı sağlayacak büyük bir limana sahip olmamıza rağmen bir Erzurum’un yaptığını yapamıyorsak bu bizlerin ayıbıdır..    Teşvik dışı bırakıldığımızın, Samsun Ticaret ve Sanayi Odası’nın toplantı salonun da Sayın Başbakan tarafından açıklandığı gün, ayakta alkışlayan işadamlarımız, sanayicilerimiz, milletvekillerimiz ve kent yöneticilerimiz ile o günkü Ticaret ve Sanayi Odası yöneticilerimiz Teşvik Yasası dışında bırakılmamızın en büyük sorumlularıdır.</p>
+<p>Sonuç olarak üzülerek söylemek gerekirse, Samsunlular olarak bugüne kadar yatırımcıyı bu kente yatırım yapmaya özendirecek ve o zemini hazırlayacak ne bir ticaret ve sanayicimiz, ne de siyasetçi veya kent yöneticimiz çıktı veya başarılı oldu.</p>
+<p>Belki de bu başarısızlığın temelinde,  2005 yılında Samsunluların ayağına vurulan “Teşvik Dışı Bırakılma” prangası yatıyor.</p>
+<p>Umarım yapılan yanlışlardan ders çıkartmayı öğrenir ve yukarıda ki örnek girişimleri yapacak işletmeci, siyasetçi ve yönetici kadrosuna sahip olduğumuz günleri de görürüz.</p>
+<p>Yazımı kaleme aldığım Pazar günü, son vatan toprağını düşman işgalinden kurtararak Laik ve Çağdaş Hukuk temelinde kurduğu Türkiye Cumhuriyeti ile bizlere bu vatan da özgürce yaşama şansı veren Büyük Önder Mustafa Kemal Atatürk’ün aramızdan ayrılışının 75. Yılıydı.</p>
+<p>Büyük Önder Mustafa Kemal Atatürk’ü saygı, minnet özlemle anıyoruz. Ruhu şad olsun..</p>
+<p>İyi ve güzel haberler duyacağımız bir hafta dileğiyle…</p>
+<ol>
+<li>
+<ol>
+<li>2013<br />
+Ecz. SADİ SUBAŞI</li>
+</ol>
+</li>
+</ol>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0665-okullar-kampus-alanina-tasinmalidir.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0667-siyaset-aczi-affetmez.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Dünü Düşünerek Günümüz Samsunspor&#x27;una Hepimiz Sahip Çıkmalıyız.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Dünü Düşünerek Günümüz Samsunspor&#x27;una Hepimiz Sahip Çıkmalıyız.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2019
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0927
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>DÜNÜ HATIRLAYARAK GÜNÜMÜZ SAMSUNSPOR’UNA<br />
+HEPİMİZ SAHİP ÇIKMALIYIZ.<br />
+Konumuza geçmeden tüm okurlarımla iki aylık aradan sonra yeniden buluşmanın mutluluğunu yaşadığımı vurgulamak istiyorum.<br />
+Başarılı geçen bir operasyonu sonrası akciğerlerime yerleşen hastane enfeksiyonu nedeniyle yaşadığım çok ağır bir sağlık sorunu, beni sizlerden bir süre koparttı. İki aya yakın süren hastanede ki tedavim sonrası tedaviye evde devam ediyorum.<br />
+Çok şükür yavaş yavaş sağlığıma kavuştuğumu belirttikten sonra konumuza geçebilirim.<br />
+Bu kentin en önemli markası, ülkemizin en çok tanınan Anadolu takımlarının başında gelen Samsunsporumuz küllerinden yeniden doğuşu yaşıyor.<br />
+Samsunlu olmakla gurur duyan herkes gibi bir Samsunspor sevdalısıyım. Bu kulüpte yönetim kurulu üyeliği, basın sözcülüğü, Denetleme Kurulu Başkanlığı ve son olarak ta, Samsunspor’un en üst kurulu olan Divan Kurulu Başkanlığı yapma onuruna erişmiş bir Samsunspor üyesiyim.<br />
+Şu anda da Sayın İsmail Uyanık ve Yönetim Kurulu’nun talebi üzerine oluşturulan Danışma Kurulu Başkanlığı görevini sürdürüyorum.<br />
+Samsunspor’un en üst düzeyde olduğu dönemlerini de, son onüç yılda yaşadığı en kötü dönemlerini de birebir yaşamış birisiyim.<br />
+On yılı aşan bir süredir hepimizin yakından bildiği bir şekilde Samsunspor deyim yerindeyse ortada kalmanın sonucu olarak, görev almaya zorlanan başkan ve yönetimler tarafından yönetilmek zorunda kaldı.<br />
+Bu süreçte sorumluluk alarak kulübü yaşatmaya çalışan yönetimler gibi yaptıkları akıl almaz yanlışlarla kulübü içinden çıkamayacağı borç batağına sokan yönetim dönemlerini de hep birlikte yaşadık.<br />
+Samsunspor’un sahipsiz kaldığı bu dönemlerde gerek maddi ve gerekse yönetimlerin oluşması için çaba harcayan Spor Bakanlarımız Sayın Suat Kılıç ve Sayın Akif Çağatay Kılıç ile başta Sayın Fuat Köktaş olmak destek veren tüm milletvekillerimize teşekkürlerimi sunuyorum.<br />
+Ama keşke verilen bu destekler, Samsunspor’a kalıcı gelir kaynağı yaratacak destekler olabilseydi, demekten de kendimi alamıyorum.<br />
+Bu arada Samsun’a atandığı andan itibaren en kötü günlerin de elinden gelen tüm desteği veren Valimiz Sayın Osman KAYMAK ve göreve atandığı andan itibaren her türlü desteği veren Büyükşehir Belediye Başkanımız Sayın Zihni ŞAHİN’ e Samsunspor camiası adına teşekkürlerimi sunuyorum.<br />
+Tüm bu desteklere rağmen her geçen gün kötüye giden ve borç batağında bocalayan Samsunspor sonunda görev alacak başkan ve yönetim bulmadığı için Samsun adına yüz kızartıcı bir olayla karşı karşıya kalıyor, “Kayyum Heyetine” teslim ediliyordu.<br />
+“Kayyum Heyeti” de tüm iyi niyetli çabalarına karşı çare olamadı ve Samsunspor tarihinde ilk kez 2. Lige düştü. Bu aslında sadece Samsunspor’un küme düşmesi değil, Samsun Kentinin de küme düşmesiydi.<br />
+Samsun kan ağlıyordu. En iyimser Samsunspor taraftarı dahi bir çıkış yolu görememenin umutsuzluğuna gömülmüştü.<br />
+Hatta Kocaelispor ve Sakaryaspor örnekleri sıkça vurgulanarak bu işin sonunda amatör lige kadar gidebileceği, hatta Samsunspor’un spor tarihinin karanlık sayfalarına gömüleceği şeklinde çok olumsuz görüşler ortalıkta geziniyordu.<br />
+Hala umudunu kaybetmeyen bir kısım Samsunspor taraftarı ise, tek kurtarıcı olarak gördükleri Samsunspor’un efsane başkanlarından İsmail Uyanık’a çağrı yapıyorlardı.<br />
+Sayın İsmail Uyanık ile geçmişten gelen dostluğumuz nedeniyle, sıkça görüştüğüm için Sayın Uyanık’ın çok büyük yatırım yaptığı Libya’da ki iç savaş nedeniyle, elinin kolunun bağlanmış olduğunu biliyor ve bu konuda ümitli olamıyordum.<br />
+Bu olumsuz hava sürerken taraftarlarımız haklı çıkartan ve tüm Samsunspor camiasında da yeniden umutları yeşerten bir haber, Samsun kamuoyunda yer almaya başladı.<br />
+İsmail Uyanık büyük bir sermaye desteği ile Samsunspor’u şirketleştirerek yeniden eski günlerine kavuşturmak üzere Samsun’a geliyordu.<br />
+Çok büyükte hedef koymuştu. İlk yıl 1. Lig’e, ikinci yıl Süper Lig’e çıkartma sözü ile Türkiye’nin en büyük holdinglerinin başında gelen ve Samsunlu Yıldırım Ailesi’nin sahipleri olduğu YILDIRIMLAR YILPORT HOLDİG’İ de yanına alarak geliyordu.<br />
+Samsun dışında ticaretini sürdüren onlarca Samsunlu iş adamının bugüne kadar elini uzatmadığı Samsunspor için Yıldırım Ailesi taşın altına elini, hatta gövdesini koymuştu.<br />
+Holding’in sahipleri Sayın Yüksel Yıldırım ve Ali Rıza Yıldırım’ın desteği ile Sayın İsmail Uyanık bir anda Samsunspor’u gömüldüğü umutsuzluk batağından çıkartıyordu.<br />
+Olağanüstü kongrede şirketleşme kararı ile birlikte görevi üstlenen Sayın İsmail Uyanık Samsunspor’un Başkanlığını alırken, yeni ismi ile YILPORT SAMSUNSPOR AŞ’ nin Başkanı da Sayın Yüksel Yıldırım oluyordu.<br />
+Benim Türkiye’de Türk futbolunu en iyi bilen ve kendisini basın, federasyon ve tüm spor camiasına kabul ettirmiş bir spor adamı olarak tanıdığım İsmail Uyanık yatağı ve yorganı Samsunspor tesislerine sermiş ve kolları sıvayarak kısa sürede yepyeni bir takım yaratarak 2. Lig Beyaz Grupta ki mücadelesine başlamıştı.<br />
+Takım 2. Lig atmosferine alışmış ve ara transferde yapılan nokta transferlerle gözüken o ki, Sayın İsmail Uyanık’ın ilk hedefi gerçekleşecektir.</p>
+<p>SAYIN İSMAİL UYANIK VE SAYIN YÜKSEL YILDIRIM’DAN 2. PROJE;<br />
+Sayın İsmail Uyanık ve Sayın Yüksel Yıldırım takımın başarısı kadar tesisleşme ve alt yapıyı güçlendirerek, Samsunspor’u alt yapımızdan yetişecek oyuncularla desteklemek gibi belki çok daha önemli bir projeyi devreye soktular.<br />
+Alt yapıda yapılan değişim ve düzenlemeler ilk meyvelerini vermeye başlamış ve alt yapının U-16-17-18-19 takımları oynadıkları liglerde fırtına gibi esmeye başlamıştı.<br />
+Yeni proje ise, alt yapıda çalışan çocuklarımızın yanında, futbola gönül veren Samsunlu çocuklarımızın da yararlanacağı 10-15 çim sahanın bulunacağı modern bir spor kompleksini Samsun’a kazandırmaktı.<br />
+Tesisin tüm harcaması Samsunspor Yılport tarafından karşılanacaktı ve tek istenen kent yönetiminin Samsunpor’a bu tesisi yapabilecekleri bir alanı tahsis etmeleriydi. Tesis, Yılport Samsunspor’a değil, Samsunspor Kulübüne ait olacaktır.<br />
+Belirlenecek yerin, ailelerin çocuklarını gözleri arkada kalmadan gönderebilecekleri, toplu ulaşım araçlarını kullanabilecekleri kent merkezine yakın bir yerde olması hedeflenmişti.<br />
+Bu konuda başta Valimiz olmak üzere, kent yöneticilerimizle görüşüldü. Danışma Kurulu olarak bizlerde bu konuda yönetime destek vererek bazı önemli girişimlerde bulunduk.<br />
+Hafta sonu yapılan görüşme de Büyükşehir Belediye Başkanımız Samsunspor sevdalısı Zihni Şahin’in yaklaşımı umutları artırmıştır.<br />
+Ancak dünkü yerel basında çıkan bazı haberlerde, bu projenin bazıları tarafından engellendiği şeklinde endişeler yer aldı.<br />
+Yıllardır ilk kez Samsunlu bir iş adamı taşın altına elini sokmuş ve Samsunpor’u düştüğü karanlıktan aydınlığa çıkartmıştır.<br />
+Bu, aynı zamanda yıllardır Samsunspor’a destek vermek zorunda kalarak zorlanan yerel yöneticilerin ve siyasi iradenin de elini rahatlatmış olmalıdır.<br />
+Ben bir sorun çıkacağını sanmıyorum ama eğer bu projenin bir şekilde engellendiği kesinleşirse, buna konacak tavır çok sert olacaktır. Samsun ve Samsunspor sevdalıları da bunu hoş görü ile karşılanmayacaktır.<br />
+Samsunspor Yönetimi bu sorunu çözdükten sonra da Kulüp binasını da bir başka yere taşıyarak şu an ki tesislerimizi halka açık çok güzel bir sosyal tesis haline getirmeyi planlamaktadır.<br />
+Bir Samsun ve Samsunspor sevdalısı olarak benim dahi hayal edemeyeceğim bir noktaya gelinmiş bulunmaktadır.<br />
+Kapanma tehlikesinin konuşulduğu bir ortamdan, sadece yurt içinden değil, yurt dışından dahi oyuncuların gelmeye çalıştığı ve Türkiye’de ki diğer kulüplerce örnek gösterilen bir Samsunspor gerçeği ortaya çıkmıştır.<br />
+Bu ortam da taşın altına gövdesini koyan Sayın Yüksel Yıldırım ve Sayın İsmail Uyanık’ın bu projesine destek vermek, başta kentimizi yönetenler olmak üzere, tüm Samsunluların görevidir.<br />
+Samsunsporumuz adına sorumluluk üstlenen ve üyeleri Samsun’un en güçlü Sivil Toplum Kuruluşlarının üyelerinden oluşan Samsunspor Danışma Kurulu olarak bizde bu projelerin hayata geçirilebilmesi için her türlü girişim ve çabayı sürdüreceğiz.<br />
+Samsunspor’u, Samsun’u yönetenlerin sırtında yük olmaktan kurtaran yeni Samsunspor yönetimine bu desteğin verileceği inancını taşıyorum.<br />
+Ölümün kapısından dönmüş birisi olarak aman sağlığınıza sahip çıkın diyerek, sağlıklı bir yaşam diliyorum. İyi haftalar. 14.01.2019<br />
+Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="../2018/0926-10-kasim-ve-ataturk-sonrasi-kaybettigimiz.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0928-bu-nasil-yerli-ve-milli-olmak.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

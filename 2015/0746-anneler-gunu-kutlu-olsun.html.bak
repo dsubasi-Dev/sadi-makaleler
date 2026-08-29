@@ -1,0 +1,345 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Anneler Günü Kutlu Olsun.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Anneler Günü Kutlu Olsun.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2015
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0746
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>BUGÜN ANNELER GÜNÜ. TÜM ANNELERE KUTLU OLSUN.</p>
+<p>Yıl boyunca horladığımız, dövdüğümüz, tecavüz ettiğimiz,  bıçaklarla canına kıydığımız kadınlarımızın sayısının gittikçe arttığı bir dönemde, onların içinden çıkarak bizleri dünyaya getiren analarımızı yılda bir gün olsun hatırlayıp onlara övgüler düzdüğümüz, bir “Anneler Gününü” Daha kutluyoruz.<br />
+Annelerimiz, bizleri dokuz ay karnında büyütüp dünyayla tanıştıran ve sonrasında da sütü ile besleyip büyüten, ömrü boyunca da bir türlü büyüdüğünü kabullenmeyerek ona kol kanat geren, aç kalıp onu duyuran, giymeyip giydiren dünyanın en yüce varlığıdır.<br />
+Dinimizin, bir Hadis’inde de belirtdiği gibi “Cennet anaların ayakları altındadır” Diyerek yücelttiği eli öpülesi tüm annelerimizi, bu özel günlerinde saygı ve sevgiyle kutluyorum. Başta annem olmak üzere aramızdan ayrılan tüm annelerimizi saygı ve minnetle anıyorum.<br />
+İnanıyorum ki, dünyanın en güzel varlığı insanları dünyaya getiren tüm anneler, bu ulvi görevi yapmış olarak Tanrı’nın huzurunda da hak ettikleri yeri alacaklardır.<br />
+Ne mutlu, annesine gereken önemi verip, onu ilerleyen yaşlarında yalnız bırakmayarak sahiplenmenin huzurunu yaşayan evlatlara.<br />
+Biliyorum ki, günün yaşam koşulları ve resmi görevleri gereği uzak illerde olduğu için yeterince annelerine yakın olamayan çok sayıda evlat da var. Bu evlatların, bunun ezikliğini derinden hissettiğine de eminim.<br />
+Ancak hiçbirisi, ilerleyen yaşlarında özellikle de babaları ölmüş ve ekonomik güvencesi de olmayan, yalnız kalmış annelerinin kalan ömürlerinde sıkıntı çekmesini görmezden gelmelerine gerekçe olamaz.<br />
+Çocukların varlık nedeni olan annelerini telefonla aramak ve fırsat buldukça ziyaret etmek dahi onları mutlu etmeye yetecektir. Çünkü sevgiyle büyüttüğü çocuklarından aynı sevgi ve ilgiyi beklemek de, en çok da annelerin hakkıdır.<br />
+Yazımı, sosyal medya da dolaşan bir yazı ile noktalamak istiyorum. Yazı da, biraz abartılı olsa da yalnız kalmış bir ananın çocuklarına çağrısı ve çocuklarının cevabı yer alıyor.<br />
+Tanrım, hiçbir anneyi böyle iç burkan bir mektup yazmak zorunda bırakmaz.</p>
+<p>YAŞLI ANADAN BEŞ OĞLUMA MEKTUP<br />
+Köyümüz şehirden yüksek mi yüksek. Baban ihtiyarlıyor oğul, bilmem netsek? Söz dinlemiyor artık ahırdaki eşek de. Gelinlerden biri gelip, destek olsa oğul!<br />
+Sizi, dokuz ay 10 gün karnımda taşıdım. Beş oğul bir kızım için yaşadım. Şimdi halim kalmadı. Gençliğimi boşadım. Gelinlerden biri gelip, destek olsa oğul!</p>
+<p>Köyde bacalar eskisi gibi tütmüyor. Çorba dahi boğazımızdan geçmiyor. Takatimiz kalmadı, işler bitmiyor. Gelinlerden biri gelip, destek olsa oğul!</p>
+<p>Geçenlerde kasabadan köye doktor geldi. Sağlam kimse çıkmadı. Herkese ilaç verdi. Bana da kendini yorma, ansızın gidersin deyiverdi. Gelinlerden biri gelip, destek olsa oğul!<br />
+Eskiden köyümüzde yağız delikanlılar vardı. Al duvak içinde gelinler giderken ağlardı. Gençler köyü terk etti, şimdi ihtiyarlar kaldı. Gelinlerden biri gelip,  destek olsa oğul!<br />
+Hani yalnız yaşayan komşumuz Ali Amca vardı, ya! O da rahmetli oldu. Cenazesi üç gün ortada kaldı. Mezarını kazacak delikanlı bulunamadı. Gelinlerden biri gelip, destek olsa oğul!<br />
+Öğrenci yokluğundan artık okul kapalı. İhtiyarlayınca, babanın döküldü saçı sakalı. Benimde dizlerim tutmaz, ağır işlere bakalı. Gelinlerden biri gelip, destek olsa oğul!<br />
+İmam usandı, tayin yaptırıp gitti. Bir ezan sesi duyuyorduk, o da bitti. Hastalıklar çoğaldı artık canımıza yetti. Gelinlerden biri gelip, destek olsa oğul!<br />
+Analarda ciğer, evlatlarda merhamet olur. Gezen görür, yaşayan ölür, eden elbet bulur. “Hayır” duamızı alın, biz ölmeden ne olur! Gelinlerden biri gelip, destek olsa oğul!<br />
+Sizin huzurunuzu kaçırmak istemem. Gelinlerimi severim asla kin beslemem. Şimdi gelmezseniz, cenazeme de istemem. Gelinlerden biri gelip, destek olsa oğul!</p>
+<p>OĞULLARIN ANALARINA CEVABI<br />
+1. Oğul,<br />
+Ana, şimdi Akdeniz sahillerindeyiz,<br />
+Buralar çok güzel herkese tavsiye ederiz.<br />
+Çocuklar diyor, “ölürüz de asla köye gitmeyiz.” Kusura bakma, çocuklar istemeden biz gelemeyiz!<br />
+2.  Oğul,<br />
+Ana, mektup yazmışsın bize boşu boşuna,<br />
+Çünkü daha açarken gitmedi hanımın hoşuna,<br />
+Sen idare et artık, bu sene de yalnız başına,<br />
+Kusura bakma, “Ben hanımı gönderemem” Ana!<br />
+3. Oğul,<br />
+Ana, gönderdiğin mektubu şimdi okudum hanıma, dedi bu devirde hizmet eden var mı? Allah aşkına,<br />
+Ne olur soğuk su katma bu yaştan sonra, pişmiş aşıma.<br />
+Kusura bakma ana, gönderemem hanımı, ben sana asla!<br />
+4. Oğul,<br />
+Ana darılma, vakit bulup ta mektubunu okuyamadım.<br />
+Şimdi okuyunca ne demek istediğini çok iyi anladım.<br />
+Benim hanımdan başka çağıracak gelin mi bulamadın?<br />
+Kusura bakma gönderemem, hanım oralara alışamaz ana!<br />
+5. Oğul,<br />
+Ana, abim söyledi, hizmete bizim hanımı çağırmışsın.<br />
+Olur mu öyle şey? Doğalgazdan sobalı eve nasıl alışsın.<br />
+Birde önceden başlamış günleri var, onlar yarım mı kalsın?<br />
+Kusura bakma ana gönderemem, bu sene bizimki kalsın.</p>
+<p>ORTAK ÇÖZÜM.<br />
+Dört kardeş hanımlarıyla bir araya geldiler.<br />
+Anamızın isteği yerinde, acil çözüm bulalım dediler. Bizler ne yapacağız diye düşünürken, aklı gelinler verdiler.<br />
+Kusura bakma ana, sana hizmete ancak bacımızı uygun gördüler!</p>
+<p>Tanrım hiçbir anneyi böyle bir mektup yazmak zorunda bırakmasın. Hiçbir erkek evladı da böyle bir açmaza sokmasın.<br />
+Gel de, atalarımızın toprağa bağlı yaşamın da etkisi ile tüm aileyi aynı çatı altında toplayarak kurduğu aile düzenine imrenme.<br />
+O düzen içerisinde çocuklar tüm aile fertlerince korunurken, yaşlıların da yalnız kalmak diye bir korkusunun olmadan aile içerisinde yaşamını sürdürmesi, imrenilecek bir güzellik değil midir?<br />
+Tabii ki, bunlar günümüz yaşamında geride kalmış bir anı olmaya mahkûmdur.<br />
+Arada hangi kırgınlıklar olursa olsun, bu özel gün de tüm evlatların annelerini aramaları ve ellerini öpmeleri için bir fırsattır.<br />
+TÜM ANNELERİN, “ANNELER GÜNÜ” KUTLU OLSUN.<br />
+Güzel bir hafta dileğiyle. 10. 05. 2015<br />
+Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0745-siyaset-bir-oyun-degildir-ciddiyet-i-ster.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0747-lutfen-samsun-un-onur-aniti-na-bakar-misiniz.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

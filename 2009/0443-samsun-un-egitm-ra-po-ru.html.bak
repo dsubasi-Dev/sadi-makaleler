@@ -1,0 +1,347 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Samsun&#x27;un Eğitm Ra Po Ru</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Samsun&#x27;un Eğitm Ra Po Ru
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2009
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0443
+
+</div>
+
+
+<div class="article-content">
+
+<p>R A P O R</p>
+<p>KONU:              Samsun’da Eğitim Alanında ki Gerileme.<br />
+HAZIRLAYAN:  Ecz. Sadi Subaşı</p>
+<p>GİRİŞ: Samsun’da son yıllarda gerek ilköğretim ve gerekse lise ve dengi okullarda ki eğitim seviyesi hızlı bir düşüş göstermektedir. SBS ve ÖSS sınav sonuçları Samsun adına yaşanan hayal kırıklığının en büyük göstergesidir. Samsun Türkiye sıralamasında çok sayıda doğu ilinin ve koşulları Samsun’a çok daha kısıtlı mütevazı Anadolu ilinin arkasına düşmüştür. Bu tablo Samsun adına moral bozucu ve düşündürücüdür. Oysa Samsun’un geçmişi başarılarla dolu olup, Türkiye birincileri çıkartmış, en üst düzey üniversitelere sürekli öğrenci göndermiş bir kenttir.<br />
+Böylesine düşüşün mutlaka önemli nedenleri olması gerekir. Konuya bu açıdan bakarsak, bu nedenleri sadece Samsun’a özgü nedenlere bağlayamayız. O nedenle bu çöküşün nedenlerini ulusal ve yerel sorunlara bağlı nedenler olarak iki ana başlıkta toplayarak irdelemek gerekir.</p>
+<p>ULUSAL SORUNLARA BAĞLI NEDENLER;</p>
+<p>1-Üzülerek söylemek gerekirse ülkemizin devamlılık arz eden bir Ulusal Eğitim Politikası oluşturulamamıştır. Atatürk’ün eğitim alanında başlattığı devrimler ve politikalar 1950’li yıllardan sonra iktidara gelen hükümetlerin tercihlerine bağlı olarak sürekli değişiklik göstermiştir.<br />
+2-İktidar değişikliklerinde yapılan değişiklikler bir yana, aynı hükümet içersinde ki bakan değişimlerinde dahi eğitim politikaları değişebilmiştir. Açıkçası, ülkemizde çerçevesi çizilmiş ve hükümet değişikliklerine bağlı olarak değişmeyecek kalıcı ulusal bir eğitim politikası oluşturulmamış, tam tersine eğitim yazboz tahtasına çevrilmiştir.<br />
+3-Tevhidi Tedrisat Kanununun da delinmesi ile geleceğimiz olan çocuklarımıza verilen eğitim, çağdaş, özgür ve sorgulayıcı bireyler yetiştirmekten uzak, ezbere dayalı silik kimlikli bir gençliğin yetişmesine ortam hazırlamıştır.<br />
+4-Eğitim de seviyenin yükselmesi, siyasi iktidarların eğitime vereceği önemle orantılıdır. Ülkemizin geleceği olan çocuklarımızı teslim edeceğimiz öğretmenlerin, hem eğitim hem de ekonomik sorunları çözümlenememiş ve idealist öğretmenlerin sayısı artırılamamıştır. Öğretmenlerin özlük hakları ile ilgili sorunları giderilememiş ve çoğu öğretmenin yaşadığı bölünmüş aile sorunlarına çözüm getirilememiştir.<br />
+5- Devletin Milli Eğitime ayırdığı bütçeler hiçbir dönem de öğretmenlerin yaşam standardını yükseltmeye ve okul yapımına, dolayısıyla sınıf sayısının artırılmasına yeterli olamamıştır. İlköğretime başlayan öğrenci sayısında her yıl büyük bir artış olduğu halde, bünyesinde 293.000 kişiyi barındıran Milli Eğitim Bakanlığına ayrılan bütçe 2009 da % 21,7 artırılırken, bünyesinde 53.900 kişi bulunduran Diyanet İşleri Başkanlığına ayrılan bütçe genel bütçe ortalamalarının da üzerinde bir oranla, % 22,8 artırılmıştır. Milli Eğitim Bakanlığı’nın bütçe artış oranı toplam bütçe içinde ki payı sadece % 0,3 olarak gerçekleşmiştir. Bu olanaklarla öğretmenlerin ekonomik sıkıntıları giderilememiştir. Mesai sonrası yan işler yaparak ayakta durmaya çalışan veya kredi kartı borçları nedeniyle icra takibine uğrayan öğretmenlerin sağlıklı bir eğitim vermesi düşünülebilir mi?<br />
+6- Milli Eğitim Bakanlığı, son yıllarda siyasetçilerin etkisi ve o doğrultuda yapılandırılma baskıları yanında, tarikatların da yoğun ilgi ve yapılanma alanı haline gelmiştir.<br />
+7-  Artan nüfus ve ona bağlı olarak artan öğrenci sayısına rağmen yeterli sayıda öğretmen yetiştirilememektedir. Bu açığı kapatmak üzere zaman zaman değişik meslek sahiplerinin de yer aldığı sözleşmeli öğretmen alınmaktadır. Geçmişte de iki aylık eğitim verilerek çok sayıda öğretmen alınarak öğretmen açığı kapatılmaya çalışılmıştır. Bu tür açık kapatmak üzere eğitmen kadrosuna katılanlarla istenen seviyede eğitim verilemediği görülmektedir.<br />
+8- Son dönemde kadrolaşma adına yapılan tercihlerle okul müdürlüklerine çok sayıda din öğretmenleri atanmıştır. Okullarda din eğitimi versin diye yetiştirilen din öğretmenlerinin idari görevlere kaydırılması nedeniyle ortaya çıkan din öğretmeni açığını kapatmak gerekçesi ile son dönemde sözleşmeli öğretmen alımlarında çok sayıda kadro din öğretmenlerine ayrılmıştır. Bu da asıl gerekli olan dallarda ki öğretmen açığının kapatılmasını engellemiştir.<br />
+9- Milli Eğitim adına yapılan en büyük yanlış, 1954 de iktidarda olan Demokrat Parti tarafından yapılmış ve Atatürk tarafından kurulmuş KÖY ENSTİTÜLERİ komünist yetiştiriyorlar savı ile kapatılmıştır. Oysa Köy Enstitüleri çok kaliteli ve çok yönlü laik, çağdaş öğretmen yetiştiren okullardı. Köy kökenli bu genç öğretmenler köyüne bir idealist olarak döndüğünde sadece eğitmen olarak değil, köyün aydınlanmasına, kültürel gelişimine ve modern tarım yapılmasına kadar birçok konuda önderlik yapıyordu. Bu sistemle köylerde öğretmen sıkıntısı da yaşanmıyordu.<br />
+Köy Enstitülerini kapatmak yerine, varsa yanlışlarını düzelterek ve günün koşullarına göre yeniden yapılandırarak yaşatılabilseydi, bugün eğitim alanında yaşanan birçok sorun yaşanmazdı. Köy Enstitüleri eğitim seviyesi çok düşük olan bir toplum için müthiş bir uygulamaydı. Köy Enstitüsü mezunu bir öğretmenle konuşma olanağı bulduğunuzda bu farkı çok net bir şekilde görmek mümkündür.<br />
+10- Son on yılda tarikatlar eğitim camiasına sızarak dinsel ağırlıklı ve laik sistemi aşındıracak kendi modellerini ve okullarını kurmaya başlamışlardır. Bunların sayısı giderek artmakta ve özel dershanelerle de desteklenmektedir.<br />
+11- Eğitimin kanayan bir diğer yarası ve yanlışı da özel dershanelerdir. Hızla yaygınlaşan dershaneler, sağladıkları daha iyi ekonomik koşullarla Devletin yetiştirdiği öğretmenleri Devlet okullarından kopartmaktadır. Dershaneler parası olan ailelerin çocuklarının daha iyi yetişmesine katkıda bulunarak öğrenciler arasında haksız rekabete ortam yaratmaktadır. Kısacası parası olan öğrenci sınavlarda avantajlı duruma geçmektedir.<br />
+12- Meslek okulları tüm söylemlere rağmen cazip hale getirilemediği için, öğrenciler düz liseleri tercih etmektedir. Düz liselerde ki yığılma ve çok farklı seviyede ki öğrencinin bir arada eğitilmesi, başarı oranını önemli ölçüde düşürmüştür.<br />
+Milli Eğitim Bakanlığı büyük harcamalarla yetiştirdiği öğretmenlerinden daha uzun süre yararlanma şansını kullanamamaktadır. Özellikle de mesleğinde başarılı olarak öne çıkmış öğretmenler, cazip teklifler ve Milli Eğitim Politikalarında ki yanlışlar nedeniyle yaşadıkları huzursuzlukların da etkisi ile erken emekli olarak özel dershane ve özel okullara kaymaktadırlar.<br />
+Özet olarak, süreklilik taşımayan ve yeni arayışlarla sürekli değişime uğrayan Milli Eğitim politikalarında ki karmaşa, çok donanımlı öğretmen yetiştirilemeyişi ve seçkin öğretmenlerinde erken kaybedilmesine eklenen okul sayısında ki yetersizlikler, ülkemizde ki eğitim seviyesinin istenen seviyeye yükselmesinin önünde ki en büyük engeller olarak görülmektedir.</p>
+<p>SAMSUN YERELİNDE Kİ SORUNLAR</p>
+<p>Eğitim alanında Samsun’da yaşanan olumsuz tablonun Ulusal sorunlardan ayrı düşünülmesi mümkün değildir. Ancak, son 30 yılda Samsun’da hemen her konuda yaşanan olumsuzluklar, eğitim konusunu da etkilemiş ve eğitimde ki mevcut genel sorunları daha da ağırlaştırmıştır.<br />
+Sorunların temelinde derslik yetersizliğine bağlı sınıflardaki öğrenci sayılarının fazlalığının yattığı savından hareketle, son dört yılda sürdürülen “% 100 Eğitime Katkı” Projesi doğrultusunda yeni okullar ve derslikler kazanılmıştır. Sınıfların öğrenci sayıları önemli ölçülerde düşürülmüştür. Tüm iyi niyetli bu çalışmalarla fiziki şartlar az da olsa düzeltilmiş olmasına rağmen, Samsun’da ki eğitim seviyesi düşüşünü sürdürmüştür. SBS ve ÖSS sınav sonuçlarına göre Samsun Türkiye ortalamalarının çok altında kalmış ve olanakları Samsun’a göre çok daha sınırlı illerin de altına düşmüştür. Bu düşüşü sayısal olarak incelersek Samsun adına üzüntü verici bir tablo ile karşılaşırız.<br />
+Önceki adı OKS olan SBS sınav sonuçlarına göre Samsun’un Türkiye<br />
+sıralamasında ki yeri,<br />
+2003 yılında 32. lik,<br />
+2008      “     46. lık,<br />
+2009      “     52. lik olmuştur.<br />
+ÖSS sınav sonuçlarına göre Türkiye sıralamasında ki yeri de çok<br />
+farklı değildir. Bu sıralama da;<br />
+2003 de  23. sırada,<br />
+2008 de  27. sırada,<br />
+2009 da  37. sırada yer almıştır.<br />
+Her iki sınav sonuçlarının ortak noktası, Samsun’da ki eğitim seviyesinin 2003 de bu yana sürekli düşüş göstermiş olmasıdır. Olaya siyasal açıdan bakılırsa, AKP iktidarı ile birlikte Samsun’un eğitim konusun da büyük bir hüsran yaşadığı gerçeği görülür. Bunun nedenlerini ana başlıklar altında toplarsak;<br />
+Samsun Milli Eğitim Müdürlüğünün idari yapılanması doğru seçimlerle yapılmamıştır. Siyasi irade tercihleri doğrultusunda liyakat yerine yandaşlık ve kadrolaşma ilkesi ile yapılan atamalar ve Milli Eğitim Müdürlük makamının vekâletle yürütülmesi, sorunların üzerine cesurca gidilmesini engellemiştir.<br />
+Böylesine ciddi sorunları bulunan ve bazı doğu illerinin dahi altına düşen eğitim seviyesi ile Samsun adına onur kırıcı bu gerileme, ciddi bir sorgulamaya alınamamıştır. Bu sorunu irdelemek üzere çok geniş bir kapsamlı bir sempozyumun hala toplanmamış olması hem üzücü, hem de düşündürücüdür.<br />
+Son yıllarda kırsalda çok göç alan Samsun’da çok farklı düzeyde bir öğrenci profilinin oluştuğu değerlendirilerek buna göre hiçbir önlem alınmamıştır.<br />
+Okul müdürlerinin atamasında yöneticilik vasfı yeterli olmayan din öğretmenlerine ağırlık verilmesi, okulların iyi yönetilemediği gerçeğini ortaya koymaktadır.<br />
+Samsun’un son yıllarda ki ekonomik çöküntüsünün ailelere de yansımış olmasının öğrenciler üzerinde de olumsuz etkiler yaptığı bir gerçektir.<br />
+Son yıllarda okulların yapısında yapılan değişiklikler Samsun’da da yoğun olarak yaşanmıştır. Birçok düz lise Anadolu Lisesine dönüştürülüp sınavla öğrenci alınca, sayıları çok daha fazla olan düz liselere düşük seviyede ki öğrenciler kalmıştır.<br />
+Samsun tam bir dershaneler ve özel okullar cenneti haline gelmiştir. Dershaneler başarılı birkaç öğrenciyi bünyesine alarak onların kazandığı kişisel başarılarını kendi başarıları olarak ilan edip öğrenci kapma yarışını sürdürmektedirler. Dershanelerin de Samsun’da ki eğitim seviyesine önemli bir katkı yapamadıkları yukarıda ki sıralamalardan anlaşılmaktadır.<br />
+Sayıları hızla çoğalan dershaneler Milli Eğitim bünyesinde ki başarılı öğretmeleri saflarına katma yarışına girmişler, bu da resmi okullarda ki öğretmen yapısını zaafa uğratmıştır.<br />
+Samsun kent olarak son yıllarda ciddi boyutta tarikatların etkisi altına girmiştir. Tarikatlar özellikle dershanelere ve özel yurtlara hâkim olmuşlardır. Buralarda eğitilen öğrenciler çağdaş dünya görüşünden uzak belirli amaçlara yönlendirilmektedir. Özellikle de ekonomik durumu iyi olmayan dar gelirli ailelerin çocukları biraz da zorunluluktan bu dershane ve yurtları tercih etmektedirler.<br />
+Üzücü bir başka söylenti ise, milli eğitime bağlı okullarda ki bazı<br />
+öğretmenlerin özel dershanelerle dirsek temasında olduğu ve<br />
+öğrencilerin dershanelere yönlendirildiğidir. Bu da resmi okullarda<br />
+yeterli eğitimin verilmesini engellemektedir.<br />
+“% 100 Eğitime Katkı” projesi ile bazı kazanımlar olmasına rağmen okul ve sınıf sayısı yeterli değildir. Sınıflarda ki öğrenci sayısının fazlalığı da eğitim seviyesini olumsuz etkilemektedir.</p>
+<p>SONUÇ;</p>
+<p>1-Dünden bugüne Hükümetlerin Milli Eğitime ayırdıkları bütçelerle ülkemizde ki eğitim seviyesinin istenen seviyeye getirilmesi olanaksız görülmektedir. O nedenle, ülkemizin geleceğini emanet edeceğimiz gençlerimizin istenen donanımda olabilmesi için Devletin yeni kaynakları Milli Eğitim Bakanlığına aktarması kaçınılmaz hale gelmiştir.<br />
+2- Öğretmenlik mesleğini yapanların ekonomik sorun yaşamaması ve sosyal yönden de toplum içersinde kendilerini rahat hissetmesi sağlanmalıdır. Ancak böylece öğretmenlerin kendilerini öğrencilerine adamaları sağlanabilir.<br />
+3- Öğretmenlik özel yetenek ve öğretmenlik için gerekli olan formasyonu almayı gerektirmektedir. Zaman zaman sözleşmeli olarak hemen her meslekten insanların öğretmen olarak atanması sorunları çözmek yerine sorunların boyutlarını çok daha karmaşık hale getirmektedir. Bu nedenle öğretmen yetiştiren okul sayısı artırılmalı ve atama garantisi verilerek öğretmenlik mesleği hem cazip hale getirilmeli, hem de öğretmen açığının kapatılması sağlanmalıdır.<br />
+4- Özel dershane konusuna mutlaka bir çözüm getirilmelidir. Dershaneler kadrolarını büyük oranda Devlet okullarının öğretmenlerinden oluşturmaktadır. Bir öğretmenin yetişmesinin Devlete maliyeti hesaplandığında, Devletin kendi yetiştirdiği öğretmenlerden yeterince yararlanmadığı gerçeği ortaya çıkmaktadır.<br />
+Daha uzun süre eğitime katkı verecek öğretmenler emeklilik hakkını kazanır kazanmaz Devletten kopmakta ve büyük bir kısmı özel dershane ve okullara kaymaktadır. Burada bir yanlış vardır. Çok daha seçici olan özel eğitim sektörünün bu öğretmenleri kadrosuna aldığı bir ortamda Milli eğitimim bu öğretmenleri kadrosunda tutmak için çaba harcamaması anlaşılır gibi değildir.<br />
+5- Eğitim alanında yaşanan sorunların temelinde, okullaşma ve fiziki şartlarda ki eksiklerden çok eğitmen sorunu yatmaktadır. Eğer ilköğretim seviyesinden başlayarak ekonomik koşulları iyi olan aileler çocuklarını dershanelere gönderiyor veya özel ders aldırma gereği duyuyorsa, Devlet okullarında verilen eğitim yetersiz demektir. Özel dershanelerde ki eğitimciler başka ülkeden gelmediğine göre ortada bir çelişki vardır. Ya Devlet okullarında ki öğretmenler görevini tam yapmamakta veya yapamamakta, ya da işin içinde başka hesaplar var demektir. Bunun nedenleri çok iyi irdelenmeli ve Milli Eğitim Bakanlığı nerede yanlış yaptığını sorgulamalıdır.<br />
+6- Yukarıda ki sorunun çözümünü bulmak aslında Devlet adına çok zor olmasa gerektir. Yapılacak iş özel dershanelerin kadrosuna katmaya çalıştığı başarılı öğretmenleri Devlet kendisi değerlendirmelidir.<br />
+8- Devlet üniversitelerde öğretmen yetiştiren bölümlerin kontenjanları artırılmalı, bu bölümler sağlanacak ek olanaklarla cazip hale getirilmelidir. Bu eğitimler de “Köy Enstitülerinde” ki eğitim modelinden yararlanılmalıdır.<br />
+Öncelikle mesleğini özümsemiş, kendini eğitime adamış öğretmenleri Milli Eğitim Bakanlığı değerlendirmeli ve bu amaçla ilk iş olarak onlardan emeklilik sonrası kendi bünyesinde yararlanmalıdır. Bu amaçla okullarda ki eğitim saatleri yeniden düzenlenerek bu öğretmenlerin hem onore edileceği, ekonomik katkı sağlayacağı paralı özel ders programları Devlet okullarında düzenlenmelidir. Bu uygulama ile ekonomik durumu iyi olmayan aile çocuklarının da yararlanması sağlanacağından, öğrenciler arasında ekonomik güce dayalı haksız rekabet ortamı da ortadan kaldırılmış olacaktır. Bir kurumun kendi yetiştirdiği elemanının kendi yerine bir başka kurum tarafından değerlendirilmesine göz yumması kabul edilebilir bir durum değildir.<br />
+7- Samsun yerelinde ki sorunların bir sivil toplum kuruluşunun öncülüğünde ve milli Eğitim müdürlüğünün ortaklığı veya en azından desteği ile geniş kapsamlı bir sempozyumda masaya yatırılması kaçınılmaz hale gelmiştir. Bu görev, tüzüğünde ve isim açılımda eğitime yer vermiş bulunan SAM-SEV’E düşmektedir. Bu sempozyumda okul müdürleri, okul aile birlik yöneticileri, görevde ki ve emekli öğretmenler, eğitim sendikaları, konuya ilgi duyan sivil toplum kuruluşları, özel okul ve dershane yetkilileri, öğrenci veli ve aileleri ile okulları adına bir öğrencinin gözlemlerini ve düşüncelerini bir bildiri ile sunmalarına ortam sağlanmalıdır.<br />
+Tüm bu çalışmaların sonun da yayınlanacak bir sonuç bildirgesi ile ülke sorunları da göz önüne alınarak samsun’da yaşanan eğitim gerilemesine nasıl dur denileceği ve neler yapılması gerektiği ana başlıklar halinde kamuoyuna açıklanmalı ve en kısa sürede bu yanlışların düzeltilmesi için kademeli de olsa bir şeyler yapılmalıdır.</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0442-bu-kentte-olanlar-bu-kentin-kaderi-olamaz.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0444-sevgiyi-ve-gulumsemeyi-unutan-toplum.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

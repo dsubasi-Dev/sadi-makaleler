@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Türkiye Tarımsal Üretimde Ne Yapmaya Çalışıyor.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Türkiye Tarımsal Üretimde Ne Yapmaya Çalışıyor.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2007
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0315
+
+</div>
+
+
+<div class="article-content">
+
+<p>TÜRKİYE TARIMSAL ÜRETİMDE NE YAPMAYA ÇALIŞIYOR?</p>
+<p>On yıl öncesine kadar tarımsal üretim bakımından kendine yeten yedi ülkeden birisi ve dünyanın en verimli ovalarına sahip olmamız nedeniyle de özellikle buğday üretiminde de en önde gelen ülkeler arasında yer alıyorduk. Bu nedenden olsa gerek, çok değil on yıl önceleri hasat mevsimlerinde “ TMO silolarının dolduğu ve buğdayın fazlasının açıkta kaldığı” şeklindeki haberleri sık sık okur ve duyardık.<br />
+Geçen bu süreçte ne oldu da buğdayı dışardan alır hale geldik. Sanayi devrimini gerçekleştiren ülkeler dahi sanayileşirken en azından kendisine yetecek tarımsal üretimini de sürdürmüşlerdir. Çünkü tarımsal üretim, ülkeler için stratejik bir önem taşır. Kendisine yetecek temel gıda maddesini üretemeyen ülkelerin zorunlu bir savaş anında işi zordur. Türkiye geride bıraktığımız yıllarda bunun önemini çok kavramış ve tarımsal üretimi desteklemiştir. Üretim de verimi artırmak için büyük sulama projeleri yapılmıştır. Günümüzde hala devam eden, ancak ödeneksizlik nedeniyle ağır aksak giden sulama baraj ve kanal inşaatları<br />
+tarımsal üretimin durma noktasına gelmesi nedeniyle, ölü yatırımlar haline gelmiştir.<br />
+Küresel ısınma tehlikesine bağlı olarak suyun çok büyük önem kazandığı günümüzde, köylüyü tarım yapmaktan soğutmak geleceğimize konmuş bir ipotek, hatta ihanettir. Küresel ısınmadan dolayı su sıkıntısını en son yaşayacak ülkelerden birisi olmamıza rağmen, önümüzde ki yıllarda çok daha büyük önem kazanacak olan tarımı terk eden bir ülke haline gelmemiz, geleceğimizin ipotek altına alınması anlamına gelir.<br />
+Verimli ovaları, su kaynakları ve yeraltı zenginlikleri ile Tanrının lütufta bulunduğu bir ülkeyiz. Elimizdeki tarımsal olanakları zenginleştirmek için köylümüzü çağdaş tarıma yöneltemeyen, sulama kanal inşaatlarını bitirerek verimi yükseltemeyenler, işin kolayını bulmuşlardır. IMF’den alınan borç paralarla ayakta durmaya çalışırken, kendi üretebildiklerimizi dahi dışarıdan almaya yönelmek nasıl ülke yönetimidir anlamakta sıkıntı çekiyorum. Hiç kimse, köylümüzün ürettiği buğday ve şeker gibi temel gıda maddelerinin pahalıya mal olduğunu gerekçe göstererek ithale yönelmeyi haklı gösteremez. Çünkü pahalı da olsa sonuçta Türkiye’nin dış borcunu artıracak ithalden çok daha ülkemiz çıkarınadır.<br />
+Siz köylüyü üretimi teşvik ederek köyünde tutmak yerine ürettiklerini haksız rekabete kurban eder, üstüne bir de dönüm başı sus payı paraları verirseniz, bugünkü olumsuz ortamı hazırlarsınız. Bu paralar nereden gelmektedir ve köylümüzü üretimden soğutacak bu paraların anlamı nedir?<br />
+Geçtiğimiz yılbaşında Samsun’un teşvik kapsamı dışında bırakılması sırasında, iki ilçemizin teşvikli il Amasya’ya bağlanma taleplerini incelemek içi Vezirköprü ve Havza’ya giderek bir araştırma yapmıştık. Buralarda gördüğümüz manzara bizi ürkütmüştü. O dönemde yazdığım bir köşe yazısında da değindiğim gibi köyler boşalmış, gençler iş ve aş umudu ile büyük kentlere gitmiş, köylerde yaşı 70 civarında olan analar, babalar kalmıştı. Bir zamanlar tarlalarda çalışan traktörler branda ile kapatılmış bir kenarda yatıyordu. Sorduğumuzda aldığımız ortak cevap, “Buğdaya verilen fiyatla bizim tarım yapmamızı engellediler. Bizi dışardan ithal edilen ucuz buğdayla haksız rekabete mahkûm ettiler” şeklindeydi.<br />
+Ailece yaptığımız tatile genellikle özel aracımızla gideriz. Son seyahatlerimiz sırasında gözlemlediklerimi ve Samsun’un bir köyünde dinlediğim de şaşırdığım bir olayı sizlerle paylaşmak istiyorum. Çoğunlukla Temmuz ve ağustos ayına rastlayan bu seyahatlerimiz sırasında tarlalarda görmeye alışkın olduğumuz traktörler ve biçerdöverleri son iki yıldır görmek hayal oldu. Özellikle hava kararana kadar tarlada kadar çalışıp, hava kararırken hasatını yaptıkları ürünü köylerine götürmek için karayoluna çıkan traktörler, önceki yıllarda karayollarında ki sürücülerin korkulu rüyasıydı. Artık onlar yok. Bu yılda ağustos ayı ortalarında Antalya’ya giderken Ankara, Afyon, Burdur güzergâhını kullandık. Dönüşü de Burdur, Afyon, Bilecik yolu ile İstanbul üzerinden yaptık. Yani Anadolu’yu kuzeyden güneye baştanbaşa geçtik. Geçen yıl da Ankara, Konya yolunu kullanmıştık. Türkiye’nin tahıl ambarı olarak bilinen bu bölgelerde ne bir traktöre, ne de bir biçerdövere rastladık. Tarlalara renk katan kadınlı, erkekli ve çocuklu köylümüz de yoktu. Tarlalar bomboş duruyordu.<br />
+Geçtiğimiz ay içersinde bir ilçemizin bir köyünde ki  dostumuza üç arkadaşla birlikte yaptığımız ziyaret sırasında laf lafı açtı ve o köyün insanı olan dostumuza arazileri olup olmadığını sordum. Önemli bir büyüklükte tarlaları olduğunu öğrenince ne tarımı yaptıklarını öğrenmek istedim. Aldığım cevap bir başka Türkiye gerçeğini ortaya koyuyordu. Dostumuz “ artık köylü tarlayla uğraşmıyor, uğraşmazlarda” diyordu. Devam ederek, “ merhum Özal döneminde tarım sigortası diye bir sosyal güvenlik uygulaması çıkarıldı. Köylü primlerin ödenmesi konusunda çok zorlandı. Çoğu icra takibine uğradı. Daha sonra çıkan çeşitli aflar ve kolaylaştırıcı uygulamalarla çoğu tarım sigortası emeklisi oldu. Şimdi hemen her eve 2–3 tane emekli var ve evlere emekli başı 500,00–600,00 YTL. emekli maaşı giriyor. Siz köylünün eline 1000,00 YTL. verirseniz o köylüyü tarlada çalıştıramazsınız” diyordu.<br />
+Devlet olarak ürününü pahalı diye almaz, onlara daha kolay balık tutma ( verimli tarım ) yöntemlerini öğretmez, onun yerine dönüm başı sus payı paralar öderseniz, bu ülkeye en büyük kötülüğü yaparsınız. Pahalıya mal edilse de sonuçta üretilen ürün mili hâsıladır. Kredi adı altında alınan borç paralarla karnımızı doyurmaya kalkmak tam anlamıyla ekonomik bağımsızlığın yitirilmesi demektir. Aracıları zengin etmek demektir.<br />
+24 Eylül 2007 tarihli yaygın basında yer alan, Tarım ve Köy İşleri Bakanı Sayın Mehdi Eker’in, “Buğday sıkıntısı yok, AB kotası bize yeter” açıklaması teslimiyetçiliğin kanıtıdır. Yine bu açıklamada yer alan “ Zaten normalde bizim sanayicilerimiz buğdayı ithal edip, işledikten sonra ihraç ediyorlar” sözleri tarımda uygulanan politikaların en güzel açıklamasıdır.<br />
+Bu tür ithalatı özendiren politikalar sonucu, 2000 yılı sonunda 26.728 milyon dolar olan dış ticaret açığı, 2006 sonunda ikiye katlanarak 53.952 milyon dolara çıkan bir ülkede, üretici köylümüz hızla fakirleşirken, zenginlerimiz de dünya sıralamalarında yarışır duruma gelir.<br />
+Siz, kırsalda ki insanımızın karnını kendi yöresinde doyurmazsanız, hatta doyurmasının önüne engeller koyarsanız, büyük kentlere göçü durduramazsınız. Büyük kentlere iş umudu ile gelenlerin de karanlık işlere alet olmasını önleyemezsiniz. Bunun sonucu olarak büyük kentlerde sokak anarşisine teslim olursunuz.<br />
+Yapılacak en büyük iş, tarımı cazip hale getirerek köylüyü köyünde doyurmak ve mutlu etmektir. Tarımda verimliliği düşüren en önemli nedenlerden birisi veraset nedeniyle arazilerin sürekli parçalanarak küçülmesidir. Küçülen alanlar da yapılacak tarımın, köylümüzün emeğini karşılamadığı da bir gerçektir. Bu nedenle tarım reformunu çıkartarak arazilerin birleştirilmesi, Türk tarımı adına zorunluluk haline gelmiştir. Tek başına iktidar olan günümüz hükümeti bu sorunu çözmek zorundadır.<br />
+Aksi halde Türkiye’yi üretmeyen, hazır yiyen ve gittikçe tembelleşen, karnını doyurmak için suç işleyenlerin cenneti haline getirirsiniz. Bu ülke bizim olduğuna ve başka da gidecek yerimiz de olmadığına göre, günlük hesapların, siyasi takıntıların ve iktidar hırsının bir yana bırakılarak, toplumu üreten toplum haline getirmek her kesin, en başta da iktidarın görevi olmalıdır.<br />
+Bunlar yapılamazsa, ülkemiz globalleşme (küreselleşme)  adı altında yutturulmaya çalışılan sömürge düzenine mahkûm olmaktan kurtulamayacaktır.<br />
+İyi haftalar.. 07 Ekim 2007</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0314-chp-de-aranan-kan-bulundu.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0316-durdurun-su-pkk-terorunu.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

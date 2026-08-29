@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Giderek Azalan Güven Duygusunun Yerini Paranoya Almaya Başladı. 2. Bölüm</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Giderek Azalan Güven Duygusunun Yerini Paranoya Almaya Başladı. 2. Bölüm
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2017
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0851
+
+</div>
+
+
+<div class="article-content">
+
+<p>posta; sadisubasi@denizeczaneoptik. com                SUNUŞ</p>
+<p>GİDEREK KAYBOLAN GÜVEN DUYGUSUNUN<br />
+YERİNİ PARANOYA DODURUYOR.<br />
+2. BÖLÜM<br />
+Bu hafta ki köşe yazımın dün yayınlanan 1. Bölümünde, 1945 sonrasının siyasi gelişimini ve bugüne kadar yapılan seçimlerin öncesi ve sonrasını yorumlamıştım.<br />
+Devamında da, ülkemizi ele geçirmeye çalışan FETÖ Cemaati’nin 15 Temmuzda ki darbe kalkışmasının öncesinde yaşananları özetlemiştim.<br />
+Bugün de, yazımın devamında 15 Temmuz sonrasını ve Referandum sürecinde ki EVETÇİLERİN ve HAYIRCILARIN artılarını ve eksilerini sizlerle paylaşacağım.</p>
+<p>15 TEMMUZ DARBE SONRASI;<br />
+Bu darbe denemesi sonrası ülkemizi yöneten siyasi irade, 17-25 Aralık sürecinde ortaya çıkan yolsuzlukları yok sayan bir anlayışla o tarihi milat kabul ediyordu.<br />
+O tarihten sonra cemaate desteğini sürdüren veya FETÖ örgütüyle ve darbeyle bir şekilde ilişkisi olan asker, yargı mensubu, akademisyen, eğitimci, işadamı, bankacı ve emniyet güçleri başta olmak üzere büyük sayıda açığa alma, gözaltı ve tutuklama sürecini başlatıyordu.<br />
+Bu kez de, dün Cemaatin yaptığı kadrolaşmanın bir benzerini siyasi iktidarın kendine yakın kişilerle kendi yargı, emniyet, üniversite ve diğer kurumlarını yarattığı şeklinde ki iddialar yoğunluk kazanıyordu.<br />
+Görülen o ki, bu işlemin son halkası da 16 Nisan da yapılacak Anayasa Değişikliği Referandumu ile tamamlanmak isteniyor.<br />
+TBMM Anayasa Komisyonu’n da büyük karşı çıkışlar ve tartışmalara rağmen, Anayasa’nın 18 maddesini değiştiren yeni Anayasa Değişikliği Tasarısı, TBMM’ den de aynı şekilde iktidar ve MHP’ nin sayısal gücü ile kabul edilerek 16 Nisan da halkın onayına götürülüyor.<br />
+Referandum da kabul edilirse, Türkiye’de bugüne kadar iyi kötü gelişerek süregelen Demokratik Parlamenter rejime son verilecek ve yerine her konuda tek adamın söz sahibi olacağı Başkanlık rejimine geçilecektir.</p>
+<p>REFERANDUMDA EVET VE HAYIRCILARIN ARTILARI VE EKSİLERİ<br />
+Yukarıda anlattığım gibi hiçbir maddesin de uzlaşma sağlanmadan TBMM’ den geçirilen Anayasa değişikliği, 16 Nisan da Referanduma         (Halk oylaması) götürülüyor.<br />
+MHP hariç diğer muhalefet partilerinin “HAYIR” Cephesinde, İktidar Partisi AKP ile MHP de “EVET” Cephesinde yer alıyor. Bu değişiklikle, 94 yıldır ülkemizin yönetildiği çok partili parlamenter rejimden vaz geçilerek, tek kişinin her konuda karar verebileceği bir rejime geçiliyor.<br />
+Hayırcıların elini güçlendiren en önemli şey, 15 yıldır tek parti iktidarı olarak TBMM’ de ki sayısal üstünlüğü nedeniyle istediği her kanunu çıkartabilen, son altı aydır da “OHAL”  Uygulaması ile de çok daha seri yasalar çıkartıp uygulayabilen, dolayısı ile de her istediğini yapabilen bir iktidarın, tüm yetkileri tek adama veren bu değişime neden gerek duyduğu sorusuna, ikna edici cevapların verilemeyişidir.<br />
+Buna karşılık olarak Evetçiler de, hükümetle Cumhurbaşkanı’nın iki başlılık yarattığı ve bunun da ülke yönetiminde yarattığı sorunların ortadan kaldırılmasının amaçlandığı şeklinde cevaplıyor.<br />
+Evetçilerin, hükümetin ve devletin tüm olanaklarını kullanarak kampanyayı büyük maddi olanaklarla yürütmesi EVETÇİLERE ne kadar artı katıyorsa, Hayırcıların çok sınırlı parasal olanaklara sahip olması da, HAYIRCILARIN eksisi olarak gözüküyor. .<br />
+Evetçiler, basının çok büyük bir kesimi ve de devletin bürokratları tarafından desteklenirken, Hayırcıların böyle bir şansı görülmüyor.<br />
+Hayırcıların en büyük artısı, değişikli tasarısını madde madde açıklayarak, kabulü halinde yaşanacak sorunları anlatırken, Evetçilerin yasa değişiklik maddelerine girmeden yasayı savunmaya çalışmaları çok inandırıcı gözükmediği için bu da, EVETÇİLERİN en büyük eksisi olarak görünüyor.<br />
+Türkiye, bir yandan Suriye topraklarında askeri bir harekât, bir anlamda üstü örtülü bir savaş sürdürüyor, diğer yandan da, PKK ve FETÖ Terör örgütleriyle mücadele ediyor.<br />
+Güneydoğu Bölgemizde ve Suriye topraklarında sürmekte olan  askeri harekât ile ülkemize sığınan mültecilere yapılan harcamaların milyonlarca dolar olduğu açıklanıyor. Bu harcamalarla, zaten Cumhuriyet tarihinin en yüksek seviyesine çıkan ülkemizin (Devletin ve özel sektörün) dış borcunun, daha da artarak içinden çıkılamayacak duruma geleceği konuşuluyor. Sanayi ve tarım üretiminin alt seviyelere düştüğü, işsizlik oranın en yüksek seviyelere çıktığı bir dönemi yaşıyoruz.<br />
+İşte bu tablo karşısında sorulan, “Bu referandumun sırası mıydı?” Sorusu, EVETÇİLERİN elini zayıflatırken, HAYIRCILARIN elini güçlendiren en önemli artılardan birisi olarak gözüküyor.<br />
+Bunların hepsinden çok, TV kanallarında en sıkı EVETÇİ konuşmacıların dahi Anayasa Değişikliğini savunurken yasa maddelerinin getireceği yararları anlatmak yerine, sürekli HAYIRCILARI ve geçmiş tarihimizi cımbızlayıp o dönemin liderlerini suçlayarak ana sorunu gözden kaçırmaya çalışmaları, HAYIRCILARA artı olarak yansıyor.<br />
+SONUÇ: Bu Referandum hangi şekilde sonuçlanırsa sonuçlansın, tartışmaların daha da artarak süreceği ve toplumsal huzursuzluğun bitmeyeceği kanısı giderek güçleniyor.<br />
+Bunun en büyük nedeni de, Referandum sonrasında toplumun bir yarısının Yargı, Güvenlik Güçleri ve Devleti temsil edenlere olan güveninin daha da azalması ile mevcut umutsuzluk ve paranoyanın(Korku ve kuşkuyla bozulan ruh hali) daha da artacak olmasıdır.<br />
+Önümüzde ki Referandum sürecinde her iki tarafında toplumu daha da gergin bir ortama sokmak yerine, Anayasa’da yapılacak değişiklik maddelerini anlatarak ikna yolunu seçmelerinin en sağlıklı yöntem olduğuna inanıyorum.<br />
+İlkbaharın ikinci haftasında, güzel ve içimizi ısıtan günler dileğiyle.<br />
+06.03.2017<br />
+Ecz. SADİ SUBAŞI</p>
+<p>SAMSUNLULAR, LÜTFEN! UNUTMAYINIZ..<br />
+HAVA ALANIMIZ ÜÇ AYLIĞINA KAPATILACAK..<br />
+Denizleri aşan asma köprüler yapabilen, İstanbul Boğazının altından tüp yollar geçiren ve kilometrelerce otoyol yapabilen bir Hükümet döneminde, altı üstü 3,5 Km. uzunluğunda ki 2. Pistin maliyetinin gerekçe olarak gösterilerek yapılmaması ve alanın kapatılarak onarılacak olmasının şimdi de üç ay ertelenmiş olması düşündürücüdür.<br />
+Böylece acil bir neden olmadığının ortaya çıkması ile kapatmanın asıl nedenin, bunlar olmadığı anlaşılmaktadır.<br />
+Bu, bir kez daha Samsun’a yapılan bir dayatmadır.<br />
+Soru şu; Neden bu dayatmaya sessiz kalınıyor?<br />
+NEDEN? NEDEN? NEDEN?</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0850-giderek-kaybolan-guven-duygusunun-yerini-paranoya-aliyor-1-bolum.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0852-1950-2015-arasi-secimleri-ve-mhp-nin-tavri.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

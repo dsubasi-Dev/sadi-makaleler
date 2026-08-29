@@ -1,0 +1,310 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Mobil Santraller Ayıplıdır</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Mobil Santraller Ayıplıdır
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2007
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0305
+
+</div>
+
+
+<div class="article-content">
+
+<p>MOBİL SANTRALALER AYIPLIDIR..</p>
+<p>Samsun’a konuşlandırılan iki adet mobil santral ayıplıdır. Neden ayıplıdır?<br />
+Bu santraller Samsun için değil Bartın ve Finike için planlanmamıştır. Ancak, Bartın ve Finike’de başta vali, belediye başkanı, sivil toplum kuruluşları ile birlikte yöre halkının toplu itiraz ve tepkileri sonrası buralardan kovulmuş ve sahipsiz kent Samsun’a kaydırılmıştır. Onun için AYIPLIDIR..<br />
+Her taraftan kovulan bu santrallere Samsun adına davet yapıldığı için AYIPLIDIR..<br />
+Yatırımlara susamış Samsunlunun gözünden kaçırılarak gizli saklı inşaatına başlandığı için AYIPLIDIR..<br />
+Yasal işlemleri tamamlamadan ve vurulan mühürler sökülerek ruhsatsız olarak yapıldığı için AYIPLIDIR..<br />
+Mobil “yüzergezer” diye tanımlanarak sabit ve kalıcı olarak inşa edildikleri için AYIPLIDIR..<br />
+Dünyanın yasakladığı 6 numaralı fuel-oil’den günde 1000 ton kullanacağı ve tüm filtre işlemleri yapılmış olsa dahi doğaya güne en az 32 ton kükürt dioksit salacağı, bunun da nemle sülfürik aside dönüşerek hava, su ve toprağı kirleterek canlı yaşamında çok ciddi sağlık sorunlarına sebep olacağı için AYIPLIDIR..<br />
+Bu santrallerin tam karşısında ve 2,5 km. mesafede Samsun’un içme suyunu sağlayan Çakmak Barajının olması nedeniyle, üzerine yağacak sülfürik asit yağmuru ile içme suyumuz kirlenecek ve evlerimize kadar gelerek kanser riskini artıracağı içim AYIPLIDIR..<br />
+Sivil Toplum Kuruluşlarının Baro öncülüğünde yürüttüğü hukuk mücadelesi sonuncunda, Danıştay’ın bu santrallerin yapım sözleşmesini iptal etmesine rağmen hukuk çiğnenerek çalıştırılmaya başladığı için AYIPLIDIR..<br />
+Türkiye’nin en verimli ovalarından birisi olan ve tarımı daha da güçlendirmek için, yıllardır milyon dolarlara mal olan sulama kanalı projeleri yapıldığı Çarşamba Ova’sını yok edecek olduğu için AYIPLIDIR,<br />
+Bir hukuk devleti olan ülkemizde Danıştay kararının uygulanmaması nedeniyle AYIPLIDIR..<br />
+Çok daha fazla elektrik üretecek Boyabat barajının tamamlanması yerine, iki buçuk yıl bu santrallere elektrik üretmiş gibi her ay iki milyon beş yüz bin USD ödendiği için AYIPLIDIR..<br />
+Bu santrallerin yapımına başlandığında başbakan olan merhum Bülent Ecevit’in dahi yanıltıldığı, daha sonra da merhum Ecevit’i “beni de elektrik sıkıntısı yaşanacak diye “ yanıltılar demek zorunda bıraktığı için AYIPLIDIR..<br />
+Bu santrallerin gündeme geldiğinde muhalefette olan ve katıldıkları mitinglerde iktidar olduklarında bu santralleri kapatacaklarını söyleyerek bu santrallere lanet okuyan, iktidara geldiklerinde ise sözlerini unutup,  suskuluğa giren milletvekillerimiz, Samsunluları yalnız bıraktıkları için AYIPLIDIR..<br />
+Bir Samsun milletvekilinin başkanlığında oluşturulan TBMM Araştırma Komisyonun hazırladığı ve sorumluların cezalandırılmasını da isteyen raporun işleme konulmaması nedeniyle AYIPLIDIR..<br />
+Danıştay kararı üzerine, Samsun sivil Toplum Kuruluşlarının oluşturduğu çevre birlikteliği Yargıtay Başsavcılığına sorumluların yargılanması ve bu santrallere ödenen paraların sorumlulardan alınarak hazineye aktarılması için suç duyurusu yapmıştır. Bunun üzerine Yargıtay Başsavcılığının soruşturma açarak sorumlu tuttuğu bürokratların yargılanabilmesi için istediği Bakanlık izninin, bizzat Enerji Bakanı tarafından verilmeyerek ilgili bürokratların koruma altına alınması nedeniyle AYIPLIDIR..<br />
+Bu santraller başından beri ayıplıdır. Samsun Sivil Toplum Kuruluşları bu santrallerin kapatılması için büyük çaba sarf etmiş ve bunu da hukuki anlamda başarmıştır. SİVİL TOPLUM KURULUŞLARI DEVLET DEĞİLDİR. HUKUKİ KARARLARI UYGULAMAK İSE DEVLETİN İŞİDİR. Bu santraller için alınan kapı gibi Danıştay kararını, uygulamak yerine, işi kitabına uydurarak çalıştırmaya başlaması talimatı verilebiliyorsa, BU AYIP SİVİL TOPLUM KURULUŞLARININ DEĞİLDİR.<br />
+Hukuku ve halkın sağlığını hiçe sayan uygulamalar karşısında Sivil Toplum Kuruluşlarının oluşturduğu Çevre Birlikteliği yeni değerlendirmeler yapmaktadır. ÇED raporu yerine geçmek üzere özel bir belge ile bakanlık çalışma izni vermiştir. Bu belgeye ulaşma talebimiz, bir hukuk devleti olan Türkiye’de gizli evrak işlemi yapılarak verilmemektedir.<br />
+Bu yapılanlar dahi, bu tesislerin AYIPLI olduğunun bir göstergesidir.<br />
+Bu noktadan sonra en doğru cevabı, bu santrallerden ilk etkilenecek olan yöre halkı verecektir.<br />
+Üzülerek söylemek gerekir ki, Samsunlulara dayatılan kirli ve karanlık işler bununla da bitmeyecek gibi gözükmektedir. Şimdi de aynı ovada üç adet termik santral yapılacağı duyumları gelmektedir.<br />
+Samsunlular adına siyaset sahnesinde yerini alanlar, şu soruların cevabını geciktirmeden vermelidir. Samsun artık bir tarım kenti olarak düşünülmemekte midir? Samsun tüm kirli yatırımlar için pilot bölge mi seçilmiştir? Eğer bu sorular yanıt bulmazsa bundan böyle hiçbir siyasetçi ve yerel yöneticinin “SAMSUN SAHİPSİZ” dendiğinde kızma hakkı olamayacaktır..  10/ Ağustos / 2007<br />
+SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0304-ornek-alinacak-bir-cekirdek-oykusu.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0306-anlasilmasi-zor-kent-samsun.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Bir TV Programı ve Gençlerimizin Işıltısı</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Bir TV Programı ve Gençlerimizin Işıltısı
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2006
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0257
+
+</div>
+
+
+<div class="article-content">
+
+<p>BİR TV PROGRAMI VE GENÇLERİMİZİN IŞILTISI.</p>
+<p>Gençlerle sohbet etmek ve onları dinlemek beni her zaman heyecanlandırmıştır. Gençlerin yeniliklere açık görüşleri bana hep umut kaynağı olmuştur. Ülkemiz açısından çok şeyin kötü gittiği dönemlerde dahi, geleceğimiz için onlara hep güvendim, daha doğrusu güvenmek istedim. Çünkü, onlar büyük Önder Atatürk’ün ülkemizin geleceğini emanet ettiği gençlerdir. Zaman, zaman umutlarımın kırıldığı anlar da olmadı değil. Örneğin, çevremizde bir günlük gazete ve bir köşe yazısı dahi okumayan, buna karşılık Ülkemizi yakından ilgilendiren  haber programları yerine, kültürümüzü ve Türkçemizi her geçen gün biraz daha yozlaştıran dizi ve gösteri programları ile gazetelerin spor sayfalarına  kilitlenen gençlerimiz beni endişelendirmiyor değil.<br />
+İşte bu gel-gitler arasında kafam karışırken, geçen Çarşamba akşamı izlediğim bir TV programı umutlarımı tazeledi. Çarşamba akşamı Kanal-D de Milliyet Gazetesinin eğitimci köşe yazarı Abbas Güçlü’nün hazırlayıp sunduğu “GENÇ BAKIŞ “ programı bu kez Yeditepe Üniversitesi öğrencileri ile beraberdi. Öncelikle eski İstanbul Belediye Başkanı Bedrettin Dalan’ı kutlamak istiyorum. Çok değil, 6 yıl önce apartman tipi binalarda eğitim veren Yeditepe Üniversitesine Avrupa ayarında bir kampus kazandırmış. En azından 2000 öğrencinin bulunduğunu sandığım  konferans salonunu hınca hınç dolduran Yeditepe Üniversitesi  öğrencilerinin katılımı ile yapılan programın bu haftaki konuğu, ANAP Genel Başkanı Erkan Mumcu idi. Ben bu programın ağırlıklı olarak gençler ile yapılması nedeniyle çok beğeniyor ve kaçırmamaya çalışıyorum. Okurlarım hatırlayacaklardır, iki yıl önce 29 Ekim Cumhuriyet Bayramı nedeniyle Abbas Güçlü’nün yaptığı Genç Bakış programına telefon ile katılarak gündemdeki rekor Türk Bayrağını Samsunlular adına istemiş ve başkanı olduğum SAM-SEV in çabaları ile Samsun’a getirmiş ve o yıl ki<br />
+Ondokuzmayıs’da  müthiş bir katılım ile düzenlenen  yürüyüşle açmıştık.<br />
+Geçen haftaki programda tek kelime ile harikaydı. O gece sabah 04.00 e kadar devam eden programda geleceğimizin tek güvencesi pırıl, pırıl gençleri tanıdım. Bir genel başkana salonu dar ettiler. Sordukları sorular akıl ve birikim doluydu. Çok cesurca soruyorlar ve Mumcu’yu sıkıştırıyorlardı.<br />
+Bir ara Mumcu’nun yaptığı politik açıklamalardan bunalan gençlerden birisinin  “ bırakın bunları Sayın Mumcu, bunları her gün dinliyoruz. Bizim çok ciddi sorunlarımız var, iktidara gelirseniz onları nasıl çözeceksiniz? Mesela üniversiteye giremeyen milyonlarca genç için ne yapacaksınız? “ sorusuna Sayın Mumcu “ üniversite sınavlarını kaldıracağız “ diye başlayan açıklamalarını, bir başka öğrenci kesiyor ve    “ bırakın bu hikayeleri, siz bu Ülkede Milli Eğitim Bakanlığı yaptınız. Neden elinizde imkan varken çözmediniz? diyebiliyordu. Bir başka öğrenci, Sayın Mumcu’nun “ bu Ülke bir İslam ülkesidir” sözlerine şiddetle itiraz ediyor ve  “ bu Ülke Atatürk’ün yüz binlerce şehit kanı ile yarattığı çağdaş laik bir devlettir “ diyordu. Söz alan bir başka öğrenci, “ biz bu Ülkeyi sizlerden çok daha iyi yöneteceğiz, ama  bize yöneteceğimiz bir Ülke bırakmayacağınızdan korkuyoruz “ diyebiliyordu. Söz iktidarın oylarının son anketlere göre % 24 e kadar gerilediği şeklindeki yorumlara gelince, bir öğrenci,  “ iktidarın oyu düşmüş ne işe yarar, sizin ve diğer muhalefet partilerinin oyu artmıyor ki, düşen oylar sizlere gelmiyor, toplumu asıl umutsuzluğa iten sizlersiniz” şeklinde çok önemli bir saptama yapıyordu.<br />
+Terbiye ve saygı sınırları dışına kesinlikle çıkmadan, akıl ve mantık dolu sorulardan bunalan Sayın Mumcu’nun gerildiği anlarda, sunucu Sayın Güçlü de gençlere destek vererek Sayın Mumcu ile tartışmaya girmek zorunda kalıyordu. Büyük bir keyifle izlediğim gençler, o kadar çağdaş ve doğru yaklaşım içersindeydiler ki, dini konularda dahi bizi yönetenlerin çok ilerisinde oldukları hemen belli oluyordu.<br />
+Tüm gençlerimizin bu donanım ve yaklaşımda olmasını isterdim. Ne var ki, program arasında yayınlanan, gençlerle ve sokakta ki insanlarla  ile yapılmış röportajlar, Türkiye’nin öteki yüzünü sergiliyor ve moral bozuyordu. “Atatürk hangi tarihte ölmüştür? “ sorusuna,  6-7 öğrenciden sadece birisi doğru cevap verebiliyordu. Bu ve buna benzer soruların karşılığı bir felaketti. Buna karşılık “ …. şarkısını kim söylüyor? sorusunu, tamamı hem de şarkıyı mırıldanarak doğru cevaplıyordu. Ülkeyi yönetenlerin isimlerini söyleyemeyenler, dizileri ve dizilerde rol alanları da aynı başarı ile cevaplıyorlardı.<br />
+Ben her şeye rağmen gençlerimize güveniyorum. Çoğunluğunun Yeditepe öğrencileri gibi olduklarına inanmak istiyorum. Bu Ülke onların. Bu Ülkeyi iyi yönetemeyen bizim kuşağın yerini aldıklarında, Ülkemizi  çok daha iyi bir düzeye taşıyabilmek için, gençlerimizin kendilerini çok iyi yetiştirmeleri gerektiğine inanıyorum. Bunun yolu ise, Ülkemizin sorunlarını yakından izleyerek gerçekleri görmelerinden geçiyor.<br />
+Sevgili gençler! Bizim kuşak Atatürk’ün başlattığı devrimleri sürdüremedi ve ne yazık ki yeterince koruyamadı. İşiniz zor, ama umutsuz değil. Çünkü sizler Atatürk’ün gençlerisiniz. O’nun sizlere ne kadar güvendiğini biliyorsunuz. O, bu ülkeyi sizlere emanet ettiğini her söylevinde tekrarlamıştır. Sizlere büyük görevler düşüyor. Atatürk’ün kurduğu, “ inançlarını bir başkasına dikte ettirmeye çalışmayan, her kesin inancını kendi dünyasında uyguladığı çağdaş, modern ve laik  Türkiye Cumhuriyetini “ çok daha iyi koruyacağınıza ve yöneteceğinize inanıyorum. Yolunuz açık olsun.<br />
+Haftanız aydınlık ve mutluluk dolu geçsin. 15-EKİM-2006<br />
+SADİ  SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0256-samsunspor-ve-otopark-sorunu.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0258-samsun-un-goc-raporu-ve-sonuclari.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

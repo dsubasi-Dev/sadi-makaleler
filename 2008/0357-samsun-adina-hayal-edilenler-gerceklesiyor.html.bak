@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Samsun Adına Hayal Edilenler Gerçekleşiyor.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Samsun Adına Hayal Edilenler Gerçekleşiyor.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2008
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0357
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>SAMSUN ADINA HAYAL EDİLENLER GERÇEKLEŞİYOR..</p>
+<p>Samsun’a yepyeni bir vizyon kazandıracak hayalimiz nihayet gerçekleşme aşamasına geldi. Samsun’a turizm açısından önemli bir sıçrama yaptıracak olan AKDAĞ KAYAK MERKEZİ’NİN yapımında sona yaklaşıldı. Geçtiğimiz hafta içersinde SAM-SEV olarak Özel İdare Genel Sekreteri Sayın ARSLAN KARANFİL ile yaptığımız görüşmede, LÂDİK AKDAĞ KAYAK MERKEZİ ile ilgili son bilgileri aldığımızda bir Samsunlu olarak büyük bir sevinç duyduk. Daha önceki görüşmelerimizde Lâdik Akdağ arasında ki yolun parke döşemesi ile elektrik gerilim hattı çekimlerinin bittiğini öğrenmiştik. Geçtiğimiz hafta içersinde de kayak merkezi için en önemli tesislerden olan telesiyej sisteminin de ihalesinin yapıldığını öğrendik.<br />
+Bu tesisin yapımı yıllardır konuşulur ama bir adım ileri gidilemezdi. Ancak Valimiz Sayın HASAN BASRİ GÜZELOĞLU’NUN Samsun’a atanması ile bu proje hız kazandı. Bu konuda gerekli desteği sağlayan Milletvekillerimizin de katkısı ile önümüzde ki kış Akdağ’da kayak yapılabilecek olması Samsun’u kış turizmi açısından bir anda bölgenin gözdesi yapacaktır.<br />
+Bu bilgilerin ışığında kutlamak ve teşekkür etmek için Sayın Valimizi aradım. Kendilerinin bu konuda bilgi verirken duyduğu heyecan her şeyi anlatmaya yetiyordu. Önümüzde ki kış kayak yapılacağını kesin bir dille müjdeliyordu. Akdağ Kayak merkezinde tesis yapmak üzere başvuru yapan kuruluşlara yer tahsisleri de başlamıştı. SAM-SEV olarak bizde altı ay önce yer tahsisi için başvuru da bulunduk. Tüzüğümüzün bize sağladığı yetki ile bu bölgede bir tesis yaparak toplumun hizmetine sunmayı planlıyoruz. Umuyorum bu konuda ki bizim talebimiz de önümüzde ki günlerde gerçekleşecektir.<br />
+Sayın Valimiz ile oldukça uzun süren telefon konuşmamızda, kendilerine “bir de şu HAVZA’NIN sıcak su sorunu çözülürse Akdağ Kayak Merkezi’nin yanında bir termal merkez oluşursa, Samsun’da turizm patlaması olur ve bu bölgenin kaderi değişir, ekonomik olarak patlama yapar” diyecek oldum, Valimiz bu konuda da müjdeyi verdi. Havza için çok ciddi projelerin devreye gireceğini ve mevcut sıcak suyun artık verimli kullanımının sağlanacağını, buna ilave olarak yeni sondajların yapılarak turizm bölgesi olarak ayrılan yere termal otel yapılacağını ve Havza’nın termal tedavi merkezi haline geleceğini büyük bir inançla açıkladı.</p>
+<p>SAMSUN KÜLTÜREL ALANDA DA ATAKTA.</p>
+<p>Yaptığımız konuşma da beni Samsunlular adına çok sevindiren iki kültürel müjde daha aldım. Bunlardan ilki “GAZİ MÜZESİ” için yapılacak olanlardı. Sayın Güzeloğlu, GAZİ MÜZESİ’NİN eksiklerinin 19 Mayıs Haftası sonrası tamamlanacağını, ışıklandırmasında ki bozulmaların yeniden düzenleneceğini, güvenlik kamera sisteminin kurulacağını, GAZİ MÜZESİ’NİN sanal dünyaya taşınacağını, Atatürk’ün ve Samsun’un adının tüm dünyaya tanıtımının yapılacağını ve geçtiğimiz yıl Türkiye’de ki müzeler arasında ziyaretçi açısından 9. sırada yer alan Gazi Müzesi’nin, bu işlemlerin bitirilmesinden sonra ilk beşe gireceğini söyleyecek kadar iddialı konuşuyordu. İki yıl önce başkanlığını yaptığım dönemde Atakum Rotary Kulübü tarafından yeniden yaratılan Gazi Müzesi için düşünülen güzellikler beni duygulandırdı.<br />
+Bir başka sevindirici gelişme ise, eski vilayet binası ve ATATÜRK ANITI çevre düzenlemesi ile ilgili yapılanlardı. Bilindiği gibi yeni vilayet binası yapıldıktan sonra eski bina bir süre çeşitli kamu kurumları tarafından kullanıldıktan sonra, Bölge İdare Mahkemesine tahsis edilmişti. Geçtiğimiz yıl emekli olan Bölge İdare Mahkemesi Başkanı Sayın Mehmet Özkan zamanında planlanan yenileme çalışması, yeni Başkan Sayın ÇETİN ADAY tarafından titiz bir çalışma ile sonlandırıldı. Tarihi eser değeri olan bina aslına uygun onarılarak çok güzel bir hale getirildi. Umarım yıkılmaya terkedilmiş sayısı gittikçe azalan eski tarihi binalar için de güzel bir örnek teşkil eder. Daha önce Sayın ÇETİN ADAY’DAN dinlediğimiz burada ki düzenlemeleri bir kez de en yetkili ağızdan, Sayın Valimizden dinledim. Bu binanın altı yıllar önce suçluların konduğu hücrelerden oluşuyormuş. Son düzenlemede burası kültürel amaçlı galeriler haline getirilmiş. Bu galeriler Samsun’u tanıtacak el işçiliği hediyelik eşyaların teşhir ve satışı ile eski Samsun’u anlatan resim ve eşyalarla bir kültür merkezi haline getirilecekmiş. Bu galeri de SAM-SEV’E de bir yer verilmesi düşünülüyormuş. Bilindiği gibi SAM-SEV’İN Samsun’un tanıtımı için yaptırdığı Atatürk Heykel Maketleri ile Bandırma Panoları ve diğer tanıtım malzemelerinin Samsun’a gelen konuklara sunulmasında büyük bir olanak sağlanmış olacaktır.<br />
+Samsun’un simgesi olan Atatürk Anıtı’nın çevre düzenlemesi Samsun’a yakışmamaktaydı ve yeniden gözden geçirilmesi zorunlu hale gelmişti. Bölge İdare Mahkemesi binasının restorasyonu ile bu alanın da yeniden düzenlenmesi düşünüyormuş. Sanırım bu düzenlemeler tüm Samsunluları mutlu edecektir.<br />
+Sayın Valimiz Hasan Basri Güzeloğlu, 19 Mayıs Haftası kutlamaları için Samsun’a gelecek olan Kültür ve Turizm Bakanı’na bir proje sunacaklar. Bu ziyaret umuyorum ki Samsun açısından büyük bir şans olacaktır. SAMSUN DEVLET OPERA VE BALESİ’NİN DE nihayet faaliyete geçiyor olması Samsun’a eski günlerini geri getirecek diye düşünüyorum.<br />
+TEŞEKKÜRLER KATKI VEREN MİLLETVEKİLLERİMİZ, TEŞEKKÜRLER SAYIN VALİMİZ, TEŞEKKÜRLER SAYIN İL ÖZEL İDARESİ GENEL SEKRETERİ ASLAN KARANFİL, TEŞEKKÜRLER İL GENEL MECLİSİ’MİZ. Samsun’u yeniden bir kültür merkezi yapacak olan projeleriniz, sizleri Samsunlular için unutulmazlar arasına sokacaktır. Bu güzellikleri Samsunlular adına alkışlıyorum.<br />
+Uzun yıllar sonra ilk kez bu 19 Mayıs da muhtemelen Samsun’da olamayacağım. Bu yıl benim eczacılık mesleğinde ki 40. yılım. İstanbul Üniversitesi Eczacılık Fakültesin de “MESLEKTE 40. YIL” kutlaması yapılacak. Bende davetli olarak 40 yıl sonra okulumda olacağım. İstanbul Üniversitesi Rektörü Sayın Mesut Parlak’ın da katılacağı törende 40. yıl şildini almanın onurunu yaşayacağım.<br />
+Üç dönem 6. Bölge Samsun Eczacı Odası Başkanlığı, bir dönem de Türk Eczacılar Birliği Merkez Heyeti Üyeliği olmak üzere meslek örgütümüzün her kademesinde görev alan birisi olarak, 16 Mayıs akşamı da Samsun Eczacı Odası’nın düzenlediği geceye katılarak kendi odamın meslekte 40. Yıl Ödülünü aldım. Sağlıklı olarak bu günleri görebilmenin mutluluğunu yaşıyorum. Herkesin de bu onuru yaşamasını diliyorum. Bu törenler nedeniyle de yazımı iki gün önceden yazıyorum.<br />
+Samsunlular için çok daha büyük anlamı olan 19 Mayıs Atatürk’ü Anma, Gençlik ve Spor Bayramı tüm Samsunlulara kutlu olsun. Bu anlamlı hafta da Büyük Önder Mustafa Kemal Atatürk’ü ve silah arkadaşlarını bir kez daha rahmetle ve minnetle anıyorum. İyi haftalar..<br />
+16 Mayıs 2008<br />
+SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0356-kitaplasan-mobil-santraller-ve-yasanan-celiskiler.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0358-daha-cok-demokrasi-adina-kuralsizlik-mi-i-steniyo.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

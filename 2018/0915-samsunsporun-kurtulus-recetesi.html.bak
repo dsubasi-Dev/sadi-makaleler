@@ -1,0 +1,351 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Samsunsporun Kurtuluş Reçetesi</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Samsunsporun Kurtuluş Reçetesi
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2018
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0915
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>SAMSUNSPOR’UN KURTULUŞU,<br />
+ÖNCELİKLE DURUM ANALİZİ YAPMAK<br />
+VE YANLIŞLARIN SORGULANMASI İLE MÜMKÜNDÜR.</p>
+<p>Bölgenin en büyük ve her şeye rağmen hala her yönüyle en fazla kalkınmış kenti Samsun’dur.<br />
+Samsun’un en önemli markası ise düne kadar Samsunspor’du.<br />
+Ne yazık ki, geçen hafta sonu oynadığı son maç ile bu özelliğini en azından şimdilik yitirdi.<br />
+Samsunspor, son yıllarda sürekli kan kaybederek hepimizin gözü önünde yapılan bir yığın yanlışla önce TFF 1. Lig’ine, bu yılda hepimizin yüreğini kanatan ve Samsunluları rencide eden bir şekilde tarihinde ilk kez, TFF 2. Ligine düştü.<br />
+Daha da üzücü olan, yanlış bir zamanlama ile yapılan olağanüstü Genel Kurul’da meydana gelen ve adeta Genel Kurulun başlamasını dahi engelleyen gereksiz ve aşırı tepkiler sonucu, Sayın Erkut TUTU Yönetiminin de görev almaktan vaz geçmesi ile kulübün Kayyım Heyetine kalmasıydı.<br />
+Samsun gibi büyük bir kente hiç de yakışmayan bu sonuçtan dahi Samsun Valisi Sayın Osman Kaymak hariç, etkilenmeyerek bir şeyler yapma çabasında olmayan bu kentin yöneticilerini, siyasetçilerini ve sivil toplum kuruluşlarını da Samsun Halkına havale ediyorum.<br />
+Ne yazık ki, yeri gelince Samsun’u yere göğe koyamayan, bu halkın oyları ile seçilen kent yöneticileri, bu kenti temsil etsinler diye oy toplayan vekilleri ve “Levyeyi çekti Samsun uçuyor” Diyen anlı şanlı sivil toplum kuruluşları, Samsunspor’u kaderine terk etti.<br />
+“Çekirge bir sıçradı, iki sıçradı” ve sonun da korkulan oldu, yüz kızartan bir sonla Samsunspor kendini 2. Lig’de buldu.<br />
+Eğer doğruysa, Samsunspor ’un Kayyım Heyeti’ne kalması üzerine, büyük bir sorumlulukla elini taşın altına sokarak Samsunspor ‘un 2. Lig’e düşmemesi için çok büyük çaba harcayan ve tüm Samsunluların sevgisini kazanan Sayın Valimiz Osman Kaymak’ın bu tavrından birileri rahatsız olmuş ve son günlerde Sayın Valimiz ’in önü kesilmiş.<br />
+Eğer bu kentte bu da yapılmışsa, Samsunspor ‘un kimler tarafından ve nasıl düşürüldüğünün cevabı da bulunmuş demektir.</p>
+<ol>
+<li>LİG ÖNCESİ YAPILMASI GEREKENLER.<br />
+Samsunspor’ un bu kötü duruma düşmesinin, en çok Samsunspor taraftarlarını yaraladığı kesin.<br />
+O nedenle, başta taraftar gruplarımız olmak üzere bu kulüpte değişik dönemlerde yöneticilik yapmış olanların, hatta bazı spor yazarlarının bu sonucu kabullenememenin de etkisi ile önüne geleni suçlayarak ortamı daha karmaşık hale getirmemesi gereklidir.<br />
+Öncelikle de kent olarak bu olayın şokunu atlatmamız gerekiyor. Çünkü şu anda takım Kayyım Yönetiminde ve Kayyım Yönetimi kongreye hazırlanıyor.<br />
+Görülen o ki, önümüzde ki günler Samsunspor’ un bu bataktan çıkıp çıkamayacağını gösterecek gelişmelere sahne olacaktır.<br />
+Bence bu aşama da Samsunspor’ da yapılması gerekli ilk iş,<br />
+Takıma hiçbir şey vermeyen yabancı oyuncuların paralarını alamadıkları için kulübü şikâyet etmelerini ve muhtemel puan silme cezalarının gelmesini önlemekti.<br />
+Nitekim bu konuda Sportif Menajer Sayın Coşkun Zeren’in büyük çabaları ve Kayyım Heyeti’nin desteği ile hafta içerisinde yabancı oyuncuların birisi hariç diğerleri ile anlaşarak sözleşmelerini feshetmiş ve kulübü büyük bir borç yükünden kurtarmışlardır<br />
+İkinci ve çok önemli yapılacak iş,<br />
+Bu kulübün hesaplarının gidilebildiği kadar geriye gidilerek resmi bir denetim kurulunca denetlenmesidir.<br />
+Bu arada Kayyım Yönetimince davet edilen bir Özel Denetleme Kurulunun geldiği ve incelemelere başladığı ama bir iki gün sonra Kayyım Yönetimince incelemelerin durdurulmasının istendiği haberleri doğru mudur?<br />
+Yine Ankara’dan davet edildiği söylenen Dernekler Masası Denetçileri, üç aya yakın zamandır neden hala gelmemiştir?<br />
+Denetimden rahatsız olanlar mı vardır? Bu nedenle bir engelleme mi söz konusu mudur?<br />
+Varsa bu engellemeye neden, denetlemelerin kulübe destek veren Spor Bakanlarını da etkileyebilecek olmasından mıdır?<br />
+Yoksa siyasi iradenin uzun zamandır Samsunspor yönetimleri ve teknik direktörlerini dahi belirleyici rolünün rahatsızlığı ile bu incelemelerden çekinen bazı siyasilerin ve bazı eski yöneticilerin bir baskısı mı söz konusudur?<br />
+Denetleme Kurulunun bir an önce gelip incelemesini yapması, Samsunspor’un beyaz bir sayfa açarak bu bataklıktan çıkabilmesinin ilk koşuludur.<br />
+Çünkü geçmişten bugüne yönetimler için sürekli olarak dillendirilen yolsuzluk iddiaları gerçekse, bunlar ortaya çıkartılmalı ve sorumluları gereken cezayı almalıdır.<br />
+Yok, eğer bunlar sadece bir söylenti ise o zaman da bu söylemlere son verilerek Samsunspor için emek ve para harcayan önceki yöneticiler aklanmalı ve kulübe talip olacakların önü açılmalıdır.<br />
+Bu tespitler doğru yapılmaz ve yönetime talip olanlar gerekli önlemleri acilen almazlarsa, kötü gidişin engellenmesi kolay olmayacaktır.<br />
+Umarım Samsunspor, Süper Lig’den sonra 3. Lig’e kadar düşen Sakaryaspor ve Kocaelispor’un yaptığı yanlışları yapmaz.<br />
+O nedenle, Samsunspor’u bu duruma düşüren olaylar doğru tespit edilmelidir.</li>
+</ol>
+<p>TFF 2. LİG’ İNE DÜŞÜŞÜN KIRILMA NOKTALARI.<br />
+Yukarıda söz ettiğim denetim ve oyuncuların durumlarının netlik kazanması işlemleri çok kısa sürede tamamlandıktan sonra Samsunspor’u bu noktaya getiren kırılma noktaları doğru bir şekilde tespit edilmelidir.<br />
+Bu kırılma noktaları;<br />
+Kırılma Noktası;<br />
+Sayın İsmail Uyanık hiç kimseden destek almadan Samsunspor’u 2005 yılına kadar 12 yıl yönetmiş ve önemli başarılarıyla anılan bir takım haline getirmiştir.                                                                   Son yılında ekonomik olarak zorlanmaya başlayan ve kentten talep ettiği yardım isteklerine de destek bulamayan Sayın İsmail Uyanık’ın Samsunspor Başkanlığını bırakması, Samsunspor adına ilk kırılma noktası olmuştur.<br />
+Kırılma Noktası;<br />
+İsmail Uyanık’ın ayrılmasından sonra başkan adayı çıkmaması üzerine, İsmail Uyanık’a destek vermeyen siyasi iradenin kendi belirlediği başkanları göreve getirmesiyle başlayan siyasi destekli başkanlar dönemi ile Samsunspor’un siyasetin güdümüne girmesi, ikinci kırılma noktası olmuştur.<br />
+Kırılma Noktası;<br />
+2010- 2011 sezonunda görev alan Sayın Erkurt Tutu Yönetimi, aynı sezon sonunda Samsunspor’u altı yıl aradan sonra yeniden Süper Lig’e çıkartmıştır.                                                                                         Süper Lig’e çıkmayı garantileyen, ancak Şampiyonluğun ilan edilmesine üç hafta kala Erkurt Tutu Yönetimi, benim de tanık olduğum Gaziantepspor deplasmanı yolunda görevi bırakması için büyük bir baskı ile karşı karşıya kalıyordu.                     “Şirketleşme maddesinin de konacağı bir gündemle olağanüstü Genel Kurul Kararı aldıktan sonra görevi bırakması” yönünde ki dayatma sonucu Sayın TUTU Yönetiminin görevi bırakması, 3. Kırılma noktası olmuştur.<br />
+Kırılma Noktası;<br />
+Erkurt Tutu Yönetiminin görevi bırakmak zorunda kalması sonucu yapılan olağanüstü Genel Kurulda bazı güç odaklarının desteği ile      Sayın Kazım Yılmaz Başkanlığa seçiliyordu.<br />
+Kendi ifadesiyle, futbolla yakın bir ilgisi olmayan Kazım Yılmaz’ın, çevresinin telkini ile takımın başına getirdiği Adnan Sezgin isimli profesyonel menajer Samsunspor’un kâbusu oluyordu.<br />
+Kazım Yılmaz, 24 milyon borçla aldığı Samsunspor’u 55 milyon borç yükü ve dövize bağladığı 15 milyon alacağı ile Süper Lig’de aldığı Samsunspor’u 1. Lig’e düşürüyordu.                                              Kazım Yılmaz dönemi de Samsunspor’un 4. Kırılma noktasını olmuştur.</p>
+<p>SONUÇ:</p>
+<p>2005’den sonra ki 12 yılda görev alan 9 başkan ve her dönem alınan ortalama 10 ile 15 yeni oyuncu ile toplam 150-160 yeni oyuncu, bu borcun oluşmasının ana nedeni olmuştur.<br />
+Oyuncular çoğunlukla yarım veya bir sezonluk kiralanmış ve sezon sonunda ayrılmış, kadro da oyuncu kalmamıştır.<br />
+Bir yıl görev yapan yönetimlerin ayrılması ve her yıl yeni bir yönetim ve yapılan zorunlu yeni transferler, borcu patlatmıştır.<br />
+Ayrılan oyuncuların ellerine verilen çek ve senetler, sonra ki yönetimlerin de kâbusu, UEFA’ya ve TFF’ e yapılan şikayetler sonucu gelen cezalar ve kapıda bekleyen puan silme cezaları, yönetimlerin korkulu rüyası olmuştur.</p>
+<p>ÇÖZÜM:</p>
+<p>Hemen her Samsunspor Genel Kurulu’ nda işler çıkmaza girince, bir kesimin çözüm olur gözü ile baktığı KAYYIM HEYETİ nihayet göreve geldi.<br />
+KAYYIM HEYETİ’Nİ isteyenlerin amacı, sürekli pompalanan yolsuzluk olaylarının ortaya çıkartılması içindir. Yukarıda anlattım. Henüz bu konuda da bir gelişme yok.<br />
+Kayyım Heyeti de şimdilik beklentilere cevap verememiştir. Hatta Cumartesi günü Kayyım Heyeti Başkanı Ahmet Güral Karayılmaz’ın açıklamasında söylediği, “Genel Kurul’da aday çıkmaz ve bize göreve devam edin denirse, görevden kaçmayız” Sözleri, Kayyım Heyeti’nin bu işe ısındığını gösteriyor.<br />
+Bu sözler Samsunspor adına çok rahatsız edicidir. Hiç kimse Kayyım Heyeti’nin devamından yana olmamalı ve yeni yönetim için çözüm üretmelidir.<br />
+Siyasetin elini çektiği Samsunspor ortada kalmaz. Gerekirse şirketleşmenin önü açılmalı, kulüp isim hakkı verilmeli, yönetime talip olanların önü kesilmemelidir. Geniş kapsamlı denetim işi bir an önce sonlandırılmalıdır.<br />
+Ben her şeye rağmen Samsunspor’un sahipsiz kalmayacağına inanıyorum.<br />
+Haydi Samsunluyum diyen Samsunlu iş adamları görev sizi bekliyor.<br />
+Umutların yaşatıldığı güzel bir hafta dileğiyle. 14.05.2018</p>
+<p>Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0914-sahipsizlik-bu-kentin-kaderi-olmamaliydi.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0916-sayin-kayyim-heyeti-lutfen-aciklayiniz.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

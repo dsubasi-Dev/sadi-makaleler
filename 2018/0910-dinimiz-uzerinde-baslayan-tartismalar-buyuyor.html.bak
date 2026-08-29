@@ -1,0 +1,345 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Dinimiz Üzerinde Başlayan Tartışmalar Büyüyor.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Dinimiz Üzerinde Başlayan Tartışmalar Büyüyor.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2018
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0910
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>DİNİMİZ ÜZERİNDE BAŞLAYAN TARTIŞMALAR BÜYÜYOR.<br />
+Türk kavimlerinin henüz Orta Asya’da bulundukları yıllarda, Çinlilerle Araplar arasında çıkan Talas Savaşında Araplara destek vermesi ile Araplar savaşı kazanır.<br />
+Bu savaşın, Türklerin Araplarla ve İslamiyet’le tanışmalarını sağlaması ile birlikte, İslâmiyet Türkler arasında hızla yayılmaya başlamıştır.<br />
+Türk kavimlerinin 1071 de Anadolu’ya göç etmesi ve sonrasında da Osmanlı İmparatorluğunun kurulması ile İslamiyet, Türkler tarafından Avrupa ve Afrika kıtasına da yayılmıştır.<br />
+Ne var ki hepimizin ortak değeri olan dinimizin, 1950 Genel Seçimlerini kazanabilmek için Demokrat Parti tarafından siyasete alet edilmesi ile başlayan bir yanlış, sonra ki yıllarda da dinimiz tüm sağ partilerin seçimlerde ki en büyük silahı olmuştur.<br />
+Dinimizin 1950 yılından bu yana siyasi çıkarlar için istismar edilmesi ve dini cemaatlerin korunması, 15 Temmuz 2016 yılında ülkemizi dinci FETÖ Örgütü’nün kanlı darbe girişimi ile karşı karşıya bırakmıştır.</p>
+<p>İSLAM DİNİNİN GÜNCELLEME TARTIŞMASI.<br />
+Manevi anlamda hepimizin ortak değeri olan İslam Dini ’nin acımasızca siyasi çıkarlara alet edilmesi yanında, haklarında ciddi soru işaretleri oluşan Cübbeli Ahmet gibi bazı din adamlarının son günlerde toplumda karşılığı olmayan, özellikle de kadınlar üzerinde verdikleri fetvalar ve söyledikleri akıl dışı sözler, dinimize ciddi boyutta zarar vermeye başladı.<br />
+Nitekim, sonunda Cumhurbaşkanı Sayın Erdoğan da bu fetvalara tepki gösterdi ve “İslam’ın hükümlerinin güncellenmesi vardır. Siz İslam’ı 14-15 asır öncesi hükümleriyle kalkıp da bugüne uygulayamazsınız” Çıkışını yaptı<br />
+Bu açıklamayla birlikte, dinimizin günümüzde ki uygulanış tarzı da sorgulanmaya başladı.<br />
+İş öylesine bir noktaya geldi ki, toplumun giderek dinden uzaklaşmaya başladığı konuşulmaya başladı.<br />
+Diyanet İşleri Başkanlığı’ da bu konuda bazı açıklamalar yapmak zorunda kalırken, din adamları da kendi aralarında toplantılar yapmaya başladı.<br />
+Burada bir nokta koyarak geçtiğimiz hafta içinde Habertürk Kanalında yayınlanan bir programdan söz etmek istiyorum.<br />
+İzleyenler bilirler, Habertürk Kanalında “Açık ve Net” Programını sunan Kübra Par, son zamanlarda çok ses getiren söyleşilere imza atıyor.<br />
+Genellikle de o hafta çok konuşulan bir konuyu ele alıyor ve o konuyla ilgili kişiyi programına alarak sorulması gereken en zor soruları sorup, çok önemli konulara açıklık getiriyor.<br />
+Bu söyleşilerden birisini de geçen hafta içerisinde, TV tartışma programlarının en önemli katılımcılarından birisi olan gazeteci Nevzat Çiçek ile gerçekleştirdi.<br />
+Bu konuda konuşulanlara geçmeden bu söyleşinin yapılmasına neden olan iki konunun altını çizmek istiyorum.<br />
+Birincisi, Nevzat Çiçek’in sosyal medya da Regaip Kandili akşamı Fatih Camiinden bir fotoğraf paylaşarak, Regaip Kandili gibi önemli bir gece de Fatih Camiinde çok az sayıda cemaatin bulunmasını yadırgadığını yazmasıydı.<br />
+İkincisi de yine geçen hafta içerisinde Nevzat Çiçek’in moderatörlüğün de Cübbeli Ahmet Hoca, Nurettin Hoca, Hüseyin Tepe, İHH Genel Başkanı Bülent Yıldırım, İhsan Şenocak, Avukat Cihat Gökdemir, İHH’dan Yakup Bey ve Siyer Vakfı Başkanı Muhammed Emin Yıldırım’ın katıldığı din adamları toplantısıydı.</p>
+<p>TOPLUM HIZLA ATEİSTLEŞİYOR MU?<br />
+Bu bilgilendirmeden sonra o gece Kübra Par ile Gazeteci Nevzat Çiçek arasında konuşulanları özetlemek istiyorum.<br />
+Bu söyleşide konuşulanları dinlerken duyduklarıma inanamadım. Çünkü bu sözler bir TV kanalında ilk kez bu kadar açık ve net bir şekilde konuşuluyordu.<br />
+Şimdi o söyleşide konuşulanları internetten alarak aynen paylaşıyorum.<br />
+Söyleşi, Kübra Par’ın, “O gün hocalar toplantısında Cumhurbaşkanı’nın bu sözleri de tartışıldı mı?” Sorusu ile başladı.    Bu soruyu Nevzat Çiçek, “Çok açık konuşmak lazım, evet tartışıldı. İslam, kendisini ihya eden, ıslah eden bir dindir. Yani sürekli fetva mekanizmaları karşısında kendini güncelliyor ama sabit ayetler üzerinden bir güncelleme kastediliyorsa bu yanlıştır” Denildi, diyerek yanıtladı.<br />
+Daha sonra söyleşi aşağıda ki gibi devam etti.<br />
+Kübra Par, perşembe akşamı Regaip Kandili gecesi Fatih Camii’nden bir fotoğraf paylaşmış ve “İçerisi bomboş. Eskiden olsa kalabalık cemaatle namazlar kılınıyor olurdu. Acaba insanlar dinden mi soğuyor?” Demişsin. Böyle bir şey hissediyor musun?    Nevzat çiçek, “Açık söyleyeyim, toplum dinden uzaklaşıyor”. Bana göre üç sebebi var;<br />
+Birincisi,” FETÖ meselesi çok çok etkili oldu.”<br />
+İkincisi, “Türkiye’de dindarların sivilliğini kaybetmesi meselesi, yani sistemle entegre olması sözlerinin inandırıcılığının kaybolması oldu.”<br />
+Üçüncüsü, “Artık gençliğe hitap edemiyorlar. Bu sadece hocaların ve Diyanet’in meselesi değil. Toplumda dinden bir uzaklaşma olduğunu çok net görüyoruz. Fatih Camii, İsmailağa Tarikatına çok yakındır. Fatih, İstanbul’da dindar kesimin en yoğun olduğu semtlerinden birisi olup bir kale gibi bilinir. Fatih Camii’ne gecenin o saatinde kandillerde fazladan bir de tespih namazları kılınırdı.”<br />
+Hatta ben, “Bir şey mi var?” diye camideki görevliye sordum. “Benim anlamadığım bir şey var. Bizimkiler gelmese de Suriyeliler geliyordu, onlar da bitti” Cevabını aldım.  İstanbul Medeniyet Üniversitesi’nden Prof. İhsan Fazlıoğlu, “Başörtülü ateistler var” Dedi. “Diyanet’in dergisinde de dindar gençler arasında deizmin yükseldiği iddia edilmişti.”<br />
+Kübra Par, “Dindar gençlik ateistleşiyor mu?” Diye soruyor.    Nevzat Çiçek, “Şu an İslam dünyası Avrupa’nın 30 yıllık mezhep savaşını yaşıyor. Gerçek İslam’ı öğreten de fazla olmuyor. Bir şekilde grupların, tarikatların çıkarları ön plana çıkıyor. Gençlik gitgide dinden soğuyor.” Şeklinde açıklıyor.<br />
+Kübra Par, “Çevrende dindarken ateizmi seçen var mı?” Diye soruyor.    Nevzat Çiçek’in cevabı, “Yaşayış itibarıyla 5 vakit namaz kılıyorsa, önce 3’e indiriyor, sonra da tamamen vazgeçiyor. Dünyevileşme başlıyor. Bir hayal kırıklığı var.” Oluyor.<br />
+Kübra Par’ın, “28 Şubat sürecinde dindarlık ile bugünkü dindarlık aynı mı? Sorusunu,<br />
+Nevzat Çiçek, “O zamanlar belki muhalefet olmanın, baskı görmenin bir etkisi vardı. İdealizm vardı. Dindarlar devletleştiği için olay farklı bir yere gidiyor. Daha önce İslami yapıların dernekleri, vakıfları sivildi. Şu an sivil değiller.” Şeklinde cevaplıyor.<br />
+Kübra Par; “FETÖ’den boşalan kadrolara belli tarikat ve cemaatlerin yerleştiği iddialarına ne diyorsun?” Diye soruyor.<br />
+Nevzat Çiçek, “Soru şu: Yerleşiyor mu, yerleştiriliyor mu? Bana göre yerleştiriliyor ve zaten sorun da bu. 12 Eylül’de de böyleydi. Devlet kadroları için eleman yetiştirmeye başlıyorum dediğiniz andan itibaren iş bitiyor. Tarikatların kapısında “Resmi hizmete mahsustur” Yazılıyor ve siz insanlardan uzaklaşıyorsunuz. Aslında bugünkü tartışma “Milli bir din oluşacak mı, oluşmayacak mı?” Sorusu üzerinden devam ediyor.”   Kübra Par, “Milli dinden kasıt nedir? Yani ilahiyat fakülteleri biraz daha modernist bir çizgiye mi geçiyor?”    Nevzat Çiçek, “Şu an onun kavgası yaşanıyor. Aslında bugün, akılcılığı önemseyen bir yorum farkı ile biraz daha gelenekçi, akılcılıktan uzak olan bir yorum farkının çatışmasını izliyoruz. Mesela bu hocaların tartışması biraz bunu gösteriyor.”</p>
+<p>SONUÇ;<br />
+Gerçekten de bu konuşulanlar öylesine önemli ki, bugüne kadar din üzerinde konuşmak neredeyse imkansızdı. Gerçi bugün de bu sözleri dini kesimlere yakın birisi söylememiş olsaydı, yine büyük bir tepki alırdı.<br />
+Ama kabul etmek gerekir ki, söylenenlerin tamamı doğru. Bu konulara değindiğim her yazımda altını kalın çizgilerle çizdiğim gibi “Hepimizin ortak değeri olan dinimizin acımasızca siyasi kazanımlara alet edilmesi” Sonunda, ülkemize “Kanlı 15 Temmuz 2016 Fetö Darbe felaketini” Yaşattı.<br />
+Sekiz yaşından bu yana en azından cuma ve bayram namazlarını kılan birisi olarak camilerde siyaset yapılmaya başlaması ve namaz önceleri verilen vaazlarda söylenenlerin, insanları camilerden uzaklaştırmaya başladığını görüyorum.<br />
+Dinden uzaklaşma dendiği gibi artıyorsa, bunun en önemli nedenleri şunlardır;<br />
+Genç kuşağın, eğitim seviyesinin ve sorgulama kültürünün artması ile dinimizin Arapça olarak dayatılmasına ve vaizlerin Kur’an dışı söylemlerini sorgulamaya başlaması,<br />
+Dinimizi yorumlayan ve camilerde vaaz veren vaizlerin eğitim seviyesinin, cemaatin yükselen eğitim seviyesinin altında kalması ile inandırıcılıklarını kaybetmesi,<br />
+Ülkemizi yöneten ve kendilerini ülkenin diğer yarısından daha dindar olduğunu iddia eden siyasetçilerin karıştığı ve soruşturma yapılmasının dahi önlendiği yolsuzluk ve rüşvet olayları da ne yazık ki Nevzat Çiçek’in, “Gençlik giderek dininden soğuyor” Tezini doğruluyor.<br />
+Dizimde ki ciddi bir sorun nedeniyle bir süredir taburede oturarak namaz kılabilen birisi olarak önce ki yıl benim gibi taburede namaz kılabilen 5-6 kişi ile birlikte, minberde ki vaiz tarafından “Akşama kadar sokaklarda geziyor sonra da gelip taburede namaz kılarak cami adabını bozuyorsunuz, camiye gelmeyin” Diyerek camiden kovulduk.<br />
+Namaz sonrası bu olayı o günkü Müftüye taşıdığım halde, ne yazık ki bir hafta sonra ki cuma günü aynı vaiz yine o camide minberde konuşuyordu.<br />
+Üzülerek söylemem gerekirse, camilerde siyaset yapılması nedeniyle artık Cuma namazına dahi gitmeyen çok sayıda insanın bulunduğunu biliyoruz.<br />
+ÇÖZÜM;<br />
+“Topluma dinini öğretmek üzere eğitimli din adamı yetiştirmek” Amacı ile kurulmuş olan İmam Hatip Okullarının kuruluş amaçları doğrultusunda eğitim verecek şekilde yeniden düzenlenerek, siyasi partilere adam devşiren eğitim kurumları olmaktan çıkartılması sağlanmalıdır.<br />
+Müslümanım diyen herkesin tek kitabı Kur’an’dır. Dinimizin kuralları bu kitapta yazılıdır. Buna rağmen dinimizi kendi inançlarına göre yorumlayan tarikatlar bir yerde toplumda ayırımcılığa neden olmakta ve toplumda siyasi bir güç haline gelmektedirler. Dinimizde yeri olmayan tarikatlara sınırlamalar ve yeni düzenlemeler getirilmelidir.<br />
+Bunlar yapılmadığı takdirde, ülkemizin yeni “Fetö” benzeri oluşumlarla karşı karşıya gelmesi kaçınılmazdır.<br />
+Her siyasi görüşe sahip insanımızın ortak mabedi olan camiler ve cami bahçeleri, siyaset alanı olmaktan çıkartılmalıdır.<br />
+Hristiyanların dini kitabı olan İncil’i Almanların Almanca, Fransızların Fransızca, İngilizlerin İngilizce olarak öğrenebildiği bir dünya da Kur’an’ı Arapça olarak dayatmaktan vaz geçilerek okullarda mealinin okutularak gençlerimizin dinini öğrenmesi sağlanmalıdır.<br />
+Dinimizin birleştirici özelliklerini tüm toplumun paylaşabildiği ve dinimizin birileri tarafından siyasi çıkarlar için kullanılmadığı bir Türkiye özlemi ile güzel ve sorunsuz bir hafta diliyorum.<br />
+01.04.2018<br />
+Ecz. SADİ SUBAŞI<br />
+NOT; Google’a Habertürk-Kübra Par-Nevzat çiçek söyleşisi yazarak bu söyleşiyi hem yazılı metin olarak hem de video olarak izleyebilirsiniz.<br />
+e-</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0909-i-stanbul-ve-yoresinin-i-sgalden-kurtarilmasi.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0911-gelisen-ve-guzellesen-samsun-un-ayibi-trafik.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

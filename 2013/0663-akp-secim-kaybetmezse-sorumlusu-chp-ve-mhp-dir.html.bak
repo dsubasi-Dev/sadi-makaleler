@@ -1,0 +1,338 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>AKP Seçim Kaybetmezse, Sorumlusu CHP ve MHP&#x27;dir</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+AKP Seçim Kaybetmezse, Sorumlusu CHP ve MHP&#x27;dir
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2013
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0663
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>AKP OY KAYBETMEZSE SORUMLUSU<br />
+CHP VE MHP’DİR.<br />
+Başlık olarak kullandığım ifade, ana muhalefet partisi ile diğer büyük muhalefet partisine büyük bir sorumluluk yüklediğini biliyorum.<br />
+Eğer bu ülke insanlarının % 50’si iktidarın rejimi dönüştüren dayatmacı uygulamalarından ötürü endişe taşıyorsa ve bu iki muhalefet partisi de aynı endişeleri paylaşıyor ve bunu gündeme taşıyorsa, yüklendikleri sorumluluğun gereğini yerine getirmeleri beklenmez mi?<br />
+Bugün sizlerle işte bu sorumluluğun detaylarını paylaşmak istiyorum.<br />
+Bilmiyorum, farkında mısınız? Uzun zamandır Türkiye’nin adı çok duyulmuş kamuoyu araştırma şirketleri siyasi partilerin oy oranları ile ilgili olarak anket yayınlamıyorlar.<br />
+Adı daha az bilinen bazı araştırma kuruluşlarının anketlerin de ise, AKP’NİN oyunun düştüğü belirtiliyor? Eğer bu sonuçlar doğru ise, ünlü araştırma şirketlerinin bu gerçeği açıklamaktan mı? Kaçınıyorlar sorusunu akla getiriyor.<br />
+Çünkü son yıllarda yapılan veya yaptırılan anketlerin çoğu kamuoyunu yönlendirmeye yönelik bir hal aldı.<br />
+Benim son anketlerde dikkatimi çeken hepsinden çok daha önemli şey, AKP’NİN oylarının düşmesine rağmen, CHP ve MHP’nin oylarında ciddi bir artışın olmayışıdır.  İşte bunu yorumlamaya değer buluyorum.<br />
+Bu anket sonuçlarını, yaşadığımız çevrede dinlediklerimle birlikte değerlendirmek istiyorum.<br />
+Mesleğimiz gereği biz eczacılar her gün çok sayıda ve çok değişik insan kesimiyle temas ediyoruz.<br />
+43 yıldır hastalarına hizmet veren bir eczacı olarak hastalarımızın çoğu ile oluşan dostluklar çerçevesinde sohbet ediyoruz. Ağırlıklı olarak konular onların sağlıkları ilgili şeyler olsa da, zaman zaman konu dönüp dolaşıp, “Ne olacak bizim halimiz? Veya seçimlerde ne olur?” sorusuna geliyor.<br />
+İstanbul’da ki işlerim sırasında sürekli taksi kullandığım için taksi şoförleri ile de sohbet etme şansım oluyor.<br />
+Bunun dışında da ev ve arkadaş toplantılarında da bu konular sıkça konuşuluyor.<br />
+Tüm bu sohbetler de edindiğim izlenimler aşağı, yukarı birbirini doğruluyor.<br />
+Geçtiğimiz yıla kadar konuştuklarımın çoğu, bazı kişisel hakları için iktidardan yakınsalar dahi, sonuçta iktidara desteklerini sürdürüyorlardı.<br />
+Ancak son iki yıldır bu destek önemli ölçüde azaldı. Hatta yakınmaların zaman zaman tepkiye dönüştüğünü görüyorum.<br />
+Bu izlenimlerimi paylaştığım siyasetle ilgisi olmayan dostlarımda da bu izlenimler oluşmuştu. Tabii ki, bunlar benim kişisel tespitlerim.<br />
+Bu izlenimlerden hareketle konuştuğum İktidarın uygulamalarından yakınanların hemen hepsinin ağız birliği etmişçesine sordukları şey, “Peki biz kime oy vereceğiz” oluyordu.<br />
+CHP ve MHP gibi muhalefet partilerini hatırlattığımda aldığım umutsuzluk içeren söylemler, bu günkü yazımın konusunu oluşturdu.<br />
+Bu iki partinin tüm iyi niyetli çabasına rağmen, iktidardan hoşnut olmayan insanlara umut verememesi son derece üzücü ve düşündürücüdür.<br />
+Edindiğim olumsuz izlenimleri iki ana başlıkta toplayabilirim.<br />
+AKP Genel Başkanı ve Başbakan Sayın Recep Tayyip Erdoğan yüklendiği misyonun gereğini yerine getirmek için sahip olduğu hitabet gücü ve karizması ile harmanladığı sertlik politikasını çok iyi kullanıyor.<br />
+Hemen her gün yeni bir gündem maddesi ile rakibi iki muhalefet liderini de bu platforma çekerek, onları gerçeklerden uzaklaştırıp çok daha gerçekçi politikalar üretmelerini engelliyor.<br />
+Bu olgu, Sayın Başbakan açısından ne kadar başarılı bir yöntem ise, muhalefet partilerinin liderlerinin Sayın Recep Tayyip Erdoğan’a hemen her gün laf yetiştirmekten asıl konularına eğilememesi de, o kadar yanlıştır ve onların inandırıcılığını kaybetmesine zemin oluşturmaktadır.<br />
+Cumhuriyet Türkiye’sine sıkı sıkıya bağlı bir büyük çoğunluğun beklentisi, CHP ve MHP’NİN iktidarın uzlaşma sağlamaksızın çıkardığı yasalarla birer birer yok ettiği laik ve çağdaşlık ilkelerini ve tükettiği öz kaynaklarımızı iktidara gelince nasıl değiştireceğine dair projelerinin neler olduğunu duymaktır.<br />
+Bu düşüncede ki insanlar, muhalefetten İktidarın değiştirdiği eğitim, sağlık, ekonomi ve sosyal yaşam konularında nasıl bir düzenlemeye gideceklerini anlatan ve her biri için yöntemleri belirlenmiş projelerle kamuoyunun karşısına çıkmasını beklemektedir.<br />
+Sonuç olarak söylemek gerekirse, muhalefet partilerinden inandırıcı somut projeler göremedikleri için de, yukarıda ki soruları sıkça sorar hale gelmişlerdir.<br />
+O nedenle,<br />
+Parti programları içerisinde bu projeler var demek, bu insanlar için çok şey ifade etmemektedir. Bu projeler değişen şartlara göre güncellenmeli ve genişletilerek, Sayın Başbakan’a laf yetiştirmek yerine, bunlar karşı tez olarak toplumun önüne konmalıdır.<br />
+Kendileri gibi düşünen partililerin katıldığı toplantılar yerine, köy ve mahalle kahvelerine, her düşünce de insanın toplu bulunduğu yerlere giderek bunların geniş toplum kesimlerine bire bir anlatmalıdırlar.<br />
+2007 Genel Seçimleri sonrası başlayan ve sandık sonuçlarının bilgisayar ortamında yüksek seçim kuruluna aktarılırken bazı manipülasyonların yapılabileceği kuşkusu giderilmelidir. Muhalefet partilerinin bu konuda yaptıkları bir araştırma var ise, bunu seçim öncesi toplumla paylaşmalıdırlar.<br />
+Yeni ikamet adresleri oluşturarak mükerrer oy kullanılması iddiası ve şüphelerinin üzerine gidilmeli ve toplum aydınlatılmalıdır.<br />
+Sadece Genel Başkanların gezileri ve söylemleri ile yetinilmesi, iktidarın belirlediği gündemlerle zaman harcanması, endişeli kesimin umutlarının yeşermesi için yeterli olmamaktadır.<br />
+Bu ülkenin ciddi bazı ekonomistleri, Türkiye’nin İMF kıskacından kurtulduğu iddialarını çürüten, tam tersine başka dış bankalardan sağlanan borçlarla, İMF borcunun kapatıldığını söylemektedirler. Türkiye’nin, şu anda Cumhuriyet döneminin en büyük iç ve dış borcuyla karşı karşıya olduğuna dair veriler sunmaktadırlar.<br />
+Bu veriler muhalefet partileri tarafından iyi değerlendirilmeli ve her fırsatta halka anlatılmalıdır. Çünkü toplum, bunları muhalefet parti sözcülerinden duymak ve çözüm önerilerini öğrenmek istemektedir..<br />
+On iki yıldır iktidar da olmanın ve bu süreçte toplumun bir yarısını endişeye sevk edecek değişim ve dönüşümü tek adam kararları ile uygulamış bir iktidarın belli oranda yıpranmış olması varsayımının,<br />
+İktidarın kalan süreyi, yapmak istediği değişim ve dönüşümü noktalamak için hızlandırması ile artan endişelerin,<br />
+Bazı önemli suiistimal davalarının kapatılmasının,<br />
+Yargının ve yargı kararlarının tartışılır hale gelmesinin,<br />
+Gezi olaylarının, yeşile sahip çıkma noktasından yukarıda ki endişeler sonucu tüm Türkiye’ye yayılan tepki eylemlerine dönüşmüş olmasının,<br />
+Terör liderinin siyasi taraf hale getirilmesi ile Güneydoğu Anadolu’da ki sorununun, toplumun çoğunluğunun kabul edemeyeceği bir çözüm şekline dönüşmesinin,<br />
+Muhalefet partileri açısından son derece uygun bir ortam hazırladığı söylenebilir.<br />
+Türkiye çok ciddi bir dönüm noktasına gelmiştir. Ya 1919 da başlayan milli mücadele ile sömürgeci işgalcilerden temizlenen son vatan toprağı Anadolu’da kurulan Laik ve Çağdaş Hukuk ilkelerine bağlı, yüzü batıya dönük demokratik Türkiye Cumhuriyeti’ni bu ilkeleri ile yaşatılacaktır.<br />
+Ya da, yapılmak istenen değişim ve dönüşüm ile din eksenli ve yüzü doğuya dönük, tek karar vericinin söz sahibi olacağı bir devlet modelini kabullenecektir...<br />
+Böylesine farklı iki olgunun yaşandığı bir dönemde, muhalefet partilerinin birbirleri ile yarışa girmesini, gidişten endişeli olan toplum kesiminin hoşgörü ile karşılamadığı görülmektedir.<br />
+Toplumun endişeli bir kesimi biraz da bu ortamın yarattığı umutsuzluktan olacak, tüm muhalefet partilerinin birlikte hareket etmesini, bu değişim ve dönüşümün durdurulması için kaçınılmaz bir şart olarak görmeye başlamıştır.<br />
+Eğer bu ülkenin, Mustafa Kemal Atatürk’ün gösterdiği yüzü batıya dönük laik ve çağdaş hukuk düzenine bağlı Türkiye Cumhuriyeti olarak devam ettirmesi isteniyorsa, bunu isteyenlerin destek verdiği siyasi partiler de üstlendikleri sorumluluğun gereklerini yerine getirmekle yükümlüdür.<br />
+Aksi takdirde, görevlerini yapamayan muhalefet partileri bunun en büyük sorumlusu olacaktır.<br />
+İyi haftalar.. 20. 10. 2013</p>
+<p>Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0662-samsun-un-cikisi-samsunu-yurekten-samsunlu-olanlarin-yonetmesidir.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0664-yerel-secimler-adaylar-ve-anketler.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

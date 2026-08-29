@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Belediyeciliğin İflas Ettiği Samsun&#x27;da Işıldayan STK&#x27;lar ve Liderleri</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Belediyeciliğin İflas Ettiği Samsun&#x27;da Işıldayan STK&#x27;lar ve Liderleri
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2020
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0974
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>BELEDİYECİLİĞİN İFLAS ETTİĞİ SAMSUN’DA<br />
+IŞILDAYAN STK’LAR VE LİDERLERİ</p>
+<p>Bilindiği gibi Yusuf Ziya Yılmaz’ın milletvekili olarak görevi bırakması ile son yerel seçimlerde Samsun Büyükşehir Belediye Başkanlığına yine bir AKP’li olan Sayın Mustafa Demir seçilmişti.    Ne var ki, Sayın Demir’in göreve başlaması ile birlikte daire başkanlıklarına Samsun dışından isimleri getirmesi ile başlayan soru işaretleri son günlerde yaşanan olumsuzluklara da davetiye çıkartmıştır.    Olumsuzluklar, SASKİ Daire Başkanlığına getirilen Başkanın ilk iş olarak su fiyatlarına TüiK’in açıkladığı enflasyon oranları üzerinde zam yapması ile başladı.<br />
+Su zammına karşı başlayan tepkiler henüz geçmeden, bu kez Büyükşehir Belediye Başkanlığı, kendisinden önceki AKP’li Büyükşehir Belediye Başkanı tarafından büyük harcamalarla Açık AVM yapılmak üzere araç trafiğine kapatılmış olan Çiftlik Caddesi’ni tartışmalı bir halk oylaması sonucu araç trafiğine açıyordu.   Bu olumsuzluklar sonucu inandırıcılığı ciddi ölçüde sarsılan Büyükşehir Belediyesi, bu kez de şehir suyunun bulanık ve pis kokulu akması ile gündeme geldi.                                 Bu olayın üzerine giden SAM-ÇEP (Samsun Çevre Platformu), Kimya Mühendisler Odası Samsun Şube Başkanlığı’nın da desteği ile çok değişik yerlerden alınmış su numunelerini incelettirdiğini ve laboratuvar tetkikleri sonuçlarının kirli ve bir ağır metal olan alüminyum miktarının istenen seviyenin üzerinde çıktığını açıkladı.  Alüminyumun, kaynatmakta giderilemeyeceği ve başta Alzheimer olmak üzere çok sayıda hastalığın nedeni olduğunun açıklanması ile şehir suyunda ki kirlilik tartışması da giderek büyüdü.   Konunun muhatabı olan SASKİ’ nin bu bilgileri yalanlamasından sonra İl Sağlık Müdürlüğü’nün laboratuvar sonuçlarının doğru olduğunu ve konuda SASKİ’nin uyarıldığını açıklaması ile şehir suyu ile çay demleyen ve yemekte kullanan Samsunlular şok oldu.  SASKİ Daire Başkanı’nın mahkemeye vermekle suçladığı SAMÇEP Başkanı Sayın Mehmet Özdağ, rest çekerek, “Bizde o zaman bir yıllık tetkikleri isteriz” Derken, kafalarda “Bu kirli suyu ne kadar zamandır kullanıyoruz” sorularını akla getirdi.<br />
+Bu belirsizlik giderilmedikçe, Samsunluların “Bize ne kadar zamandır bu suyu içirdiler?” Sorusuyla gelen korkusu devam edecektir.  Büyükşehir Belediye Başkanlığı yanlışı korumak yerine bir an önce Samsun halkına gerekli bilgileri vermek ve gerekiyorsa, “Biz bilgi verene kadar şehir suyunu içmek ve yemek yapmak için kullanmayınız” Açıklamasını yapmalıdır.<br />
+Üzülerek söylemek gerekirse, yıllardır süren ortak aklı dışlayan “Ben yaptım oldu” Yönetim anlayışı ile Samsun’da ki sorunların bitmesi de mümkün gözükmüyor.  Büyük bir belediyecilik rezaleti de inşaat sektöründe yaşanıyor. Son dönemlerde AVM olarak yapılan inşaatlarda ki kuralsızlıklar tüm imar yasalarını yok sayarak ruhsat, hatta iskân almaya gerek duymadan tantanalı törenlerle açılış törenleri ile hizmete sokulmaktadır.<br />
+Bu konuda hangi belediyenin görevini yapmadığı, kimlerin bu imar kurallarını hiçe saydığı veya kimlerin bu inşaatçılara sahip çıktığı konuları bir Samsunlu olarak beni hiç ilgilendirmiyor.<br />
+Beni ilgilendiren, bu farklı uygulamalarla Samsun’un geleceği neden karartılıyor? Bazı inşaat firmalarına tanınan bu tür imar yasası dışı uygulama ve haklar eğer normal bir vatandaşa tanınmıyorsa, bu işin arkasında akçeli işlerin döndüğü kanısı ve bu konuda ki iddialar doğrulanmış demektir.<br />
+Son iki örnekte, hala iskânları olmadığı halde tantanalı törenlerle açılarak hizmete sokulan Atakum ‘da ki CİTY MALL ile Gazi (Mecidiye) Caddesi’nde ki EVKUR AVM’dir.<br />
+EVKUR AVM akıl almaz bir şekilde Gazi Caddesi (Mecidiye) tarafına diğer köşede ki, Gazi Müzesi’nin hizasına göre 1,5 metre öne çıkmayı ve birinci katın önüne yaptığı balkonu hangi kurala göre yapmıştır veya bu kural dışı uygulamalara kim izin vermekte veya göz yummaktadır?<br />
+Bu iki iskânsız binanın hala çalışıyor olması, belediyeleri zanlı duruma düşürmektedir.</p>
+<p>Tek umut verici şey, hala bu kentte bu yanlışlara karşı direnen bazı sivil toplum kuruluşlarının ve başlarında da cesur başkanların bulunuyor olmasıdır. Bu konuda mesleğinin gereklerini yerine getiren ve bu konuda hiç taviz vermeyen Mimarlar Odası Samsun Şube Başkanı Sayın İshak Memişoğlu’na Samsunlular adına teşekkür ediyorum. Yıllardır kentimizde ki imar yanlışlarını yargıya taşıyarak birçok yanlışı durduran Sayın Memişoğlu bir mimar ve STK başkanı olarak cesur tavrı ve dik duruşu ile alkışı hak etmektedir.<br />
+Yine şehir şebeke suyu üzerine başlattıkları araştırma ve yaptırdıkları laboratuvar tetkik sonuçlarını kamuoyu ile paylaşarak Samsunluların bu kirli suyu daha uzun süre kullanmasını önleyen SAM-ÇEP (Çevre Platformu) Başkanı Elektrik Mühendisi Sayın Mehmet Özdağ ve Kimya Mühendisleri Odası Samsun Şube Başkanı Kimya Mühendisi Sayın Osman Pilgir’i de kutluyor ve teşekkür ediyorum.<br />
+Bu üç sivil toplum kuruluşu, STK’ların bir kent yaşamı için ne kadar önemli görevler yapabileceklerini de kanıtlamıştır. Önemli olan sivil toplum kuruluşlarında başkan ve yönetici olmak değil, bu görevleri yaparken cesur, tarafsız ve kararlı bir görev adamı olmalarının gerekli olduğu gerçeğidir.<br />
+Bu köşemden Samsun’da ki belediye başkanlarına sesleniyorum;<br />
+LÜTFEN! Görevlerini yapmayan, görevlerini çıkar amaçlı kötüye kullanan daire ve şube başkanlarını görevden alınız.<br />
+Bunları yapmayan Belediye Başkanları da ya bu suçların ortağı veya bizzat tarafı demektir.<br />
+LÜTFEN! ; Bu kente kıymayı sürdürmeyiniz. Bu kenti daha fazla yaşanmaz hale getirmeyiniz. İyi Haftalar. 09.03.2020</p>
+<p>Ecz. SADİ SUBAŞI</p>
+<p>E-posta; gazetenizhalk@gmail. com</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0973-34-sehit-haberi-ulkemizin-ve-samsun-un.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0975-corona-virusunun-ogretileri-sunus-1-bolum.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

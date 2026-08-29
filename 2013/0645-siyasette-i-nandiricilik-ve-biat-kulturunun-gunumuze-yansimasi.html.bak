@@ -1,0 +1,328 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Siyasette İnandırıcılık ve Biat Kültürünün Günümüze Yansıması</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Siyasette İnandırıcılık ve Biat Kültürünün Günümüze Yansıması
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2013
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0645
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>SİYASETTE İNANDIRICILIK VE BİAT KÜLTÜRÜNÜN<br />
+GÜNÜMÜZE YANSIMASI.</p>
+<p>Siyaset insanları yönetme sanatı diye tanımlanır. En azından çağdaş anlayışta ki karşılığı budur.<br />
+Ancak son yıllarda siyaset o kadar yozlaştı ve öylesine kötüye kullanılır oldu ki, siyaset artık toplumların huzur ve mutluluğunu artırmak amacından çok, siyasetçilerin ve çevresinde oluşan fırsatçıların kişisel çıkarlarını sağlama ve korumanın aracı haline getirildi.<br />
+Siyasetçinin en önemli görevlerinden birisi de, toplumun bölünmesine neden olabilecek yanlışlara sahip çıkmamak ve bu yanlışlardan kendi adına kazanç sağlamaktan kaçınmaktır.<br />
+Bunun bir diğer açılımı da, toplumları yönetmeye talip olan siyasetçilerin dürüstlük ve inandırıcılık kimliklerini her şeyin önünde tutmalarıdır.<br />
+Siyaseti çirkinleştiren ve amacı dışına taşıyan en büyük yanlış ise, siyasetçilerin doğru olmayan şeyleri savunarak kendilerini çevrelerine kabul ettirme çabalarıdır.<br />
+Hata yapmak her insanın doğasında vardır. Ancak hatayı görmek ve görünce hatadan dönmek insanları yüceltir.<br />
+Hata yapan herhangi bir insan ise, çevresinde ki gerçek dostları onu uyarır.<br />
+Siyasette ise, bu uyarı kuralınIN çok işlediği söylenemez.<br />
+Özellikle de lider konumunda ki siyasetçiler, her konuda tek karar verici olmayı liderliklerinin kanıtı olarak gördükleri için bu tür uyarıları önemsemezler.<br />
+O nedenle de, bir süre sonra her ne kadar öyle olmadıklarını anlatmaya çalışsalar da, bu tür liderler başında bulundukları sivil toplum kuruluşlarında, partilerinde, daha da kötüsü iktidarda ise ülkelerinde diktatör haline gelirler.<br />
+Aslında bu diktatörleri yaratanlar, onun yakın ekibinde yer alanlardır.<br />
+Üzülerek söylemek gerekirse, önceleri susarak verdikleri destekle yarattıkları diktatörler karşısında, sonraları isteseler de konuşamazlar.<br />
+Artık karşılarında uyarıdan hoşlanmayan bir diktatör vardır. Karşı çıkanların gözden düştüğü bir düzen kurulmuştur.<br />
+Liderlerin çevresinde ki bu insanlar, sonunda pastadan aldıkları maddi veya manevi payı kaybetmemek uğruna lidere biat eder hale gelirler.<br />
+Artık liderleri onlar için her şeyin en iyisini bilen, en doğru kararları veren kişidir. Onlara kalan da, şartsız destek “Biat etmek” ve “Hık” deyiciliktir.<br />
+İşte “Tek adam ve biat edenlerden” oluşan bu yapı, siyaseti çirkinleştiren ve siyasete inandırıcılığını kaybettiren en büyük tehlikedir.<br />
+İnandırıcılığını kaybeden liderler ise, bu aşamadan sonra söylemlerini sertleştirirler.<br />
+Hatta kendisine destek veren çevresindekilerin desteğinin devamı için de yanlışları dahi savunurlar, hatta yanlışları doğru gösterme çabasına da girerler.<br />
+Bu tablonun en büyük günahkârları, liderine şartsız biat eden ve istifa dâhil her şeyi göze alıp liderlerini uyarma sorumluluğunu gösteremeyen liderin alt kadroları ve yardımcılarıdır.<br />
+Biat denen şey, insan onurunun en alt seviyeye düşüşü,<br />
+kişilik ve saygınlığın tükenişidir.<br />
+Ne yazık ki, bu olgu ülkemizin vaz geçilmez türde bir yönetim anlayışına dönüşmüştür.<br />
+Bunun örneklerini sivil toplum kuruluşlarında ve siyasi partilerde çokça görmek mümkündür.<br />
+Türkiye’de ki siyasi partilerde görülen bu siyasi yönetim anlayışı, siyasi partilerin en büyük zaafı haline gelmiştir.<br />
+Ülkemizde lider otoritesi ile tek adamlık anlayışı da birbirine karışmıştır.<br />
+Günümüzde yaşananlara baktığımızda da bunun tipik bir örneğini görürüz.<br />
+Bugün çok daha güçlü bir “Tek adam” ve çevresinde olan bitene sesini çıkartamayan, biat etmiş bakanlar ve milletvekillerinden oluşan bir iktidar görüyoruz.<br />
+Özellikle son bir ayda Gezi Parkı eylemleri sırasında ve sonrasında yaşanan akıl almaz yanlışlar ve bu yanlışların değerlendirilişi, yukarıda çizilen siyasi anlayışın son örneğidir.<br />
+Sayın Başbakan R. Tayyip Erdoğan’ın yurt dışında bulunduğu sırada Cumhurbaşkanı Sayın Abdullah Gül ve Başbakan Yardımcısı Sayın Arınç’ın olaylara çözümcü bir yorumla yaklaşması ortamı yumuşatmış ve demokrasi adına bir umut ışığı yakmıştı.<br />
+Ama tek adam konumunda ki Sayın Başbakan’ın yurda dönmesi ile birlikte yumuşayan hava kaybolurken, hem Sayın Cumhurbaşkanı Gül, hem de Sayın Arınç sessizliğe gömülüyordu.<br />
+Cami de içki içildiği şeklinde ki gerçeği yansıtmayan ve sorgulama sırasında dahi bunu yalanlayan cami müezzinine rağmen, Sayın Başbakan her konuşmasın da bunu gündeme taşıyarak Gezi Olaylarından çok daha vahim çatışmalara davetiye çıkartıyor ve çevresi susuyordu..<br />
+Yine ısrarlı bir şekilde gündeme taşınan, muhafazakâr kıyafetli bir kadının göstericiler tarafından darp edildiği haberi de kanıtlanamıyordu.<br />
+Polis kurşunu ile bir gösterici hayatını kaybederken kasten bir insanı öldüren polis serbest bırakılıyordu.<br />
+Orantısız güç kullanıldığı ve biber gazının silah haline getirildiği göz ardı edilerek, polisler kahraman ilan edilip ödüllendiriliyordu.<br />
+Bu ve buna benzer bir dizi yanlış yapılırken, Sayın Başbakan’ın yakın ekibinde yer alan bakan, milletvekili veya belediye başkanlarından birisinin dahi, Genel Başkanlarına hiçbir telkinde bulunamaması, “Tek adam ile biat edenler” tanımlamasının son yansımasıdır.<br />
+Gezi Pakı Eylemleri ile ortaya çıkan toplumsal tepkiye neden arayanların görmesi gereken asıl tablo da işte budur.<br />
+Korkarım ki, bu siyasi yönetim kurgusu değiştirilmediği ve kendi beklentileri adına toplumsal beklentileri görmezden gelen siyasetçilerin biat anlayışı sürdüğü sürece, bu toplumsal patlamalar bir başka nedenle yeniden yaşanabilecektir.<br />
+Siyaseti, topluma huzur ve daha güzel yaşam şartları sağlamak amacıyla yapan, biat etmeyecek kadar onurlu ve kişilikli siyasetçilerin devreye girmesi ve bu tür siyasetçilerin yönetimlere gelmesi dileğiyle iyi haftalar.. 30. 06. 2013</p>
+<p>Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0644-eczacilik-meslegi-donusturulerek-onemsizlestiriliyor.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0646-bakkalliga-ozenen-super-marketler-cokertilen-samsun-esnafi-ve-seyreden-meslek-odalari.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

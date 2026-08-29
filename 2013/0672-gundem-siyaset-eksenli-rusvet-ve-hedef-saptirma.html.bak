@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Gündem Siyaset Eksenli Rüşvet ve Hedef Saptırma…</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Gündem Siyaset Eksenli Rüşvet ve Hedef Saptırma…
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2013
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0672
+
+</div>
+
+
+<div class="article-content">
+
+<p>e-posta; sadisubasi@denizeczaneoptik. com.  SUNUŞ</p>
+<p>GÜNDEM, SİYASİ RÜŞVET İLE YOLSUZLUK ZİNCİRİ<br />
+VE HEDEF SAPTIRMA.<br />
+Geçtiğimiz hafta birbiri ardına patlayan rüşvet ve suiistimal bombaları ve iktidarın çok önemli üç bakanı ile önemli bir devlet bankasının genel müdürünün adının da karışması ile olay siyasi bir depreme yol açtı.<br />
+Yargının el koyduğu bu çok karmaşık ve kimin düğmeye bastığının enine boyuna tartışıldığı bir ortam da, “Siyaset, rüşvet ve yolsuzluk“ üçgeninde gelişen olayın içeriğine yorum yapmamızın doğru olmayacağı açıktır.<br />
+Ancak, benzer olaylarda gösterilen tepkilerle çelişen bir dolu değerlendirme yaşanıyor. En azından bunların konuşulması gerektiğine inanıyorum.<br />
+Rüşvette dönen rakamların akıllara durgunluk verecek boyutta olması ve rüşvete bir şekilde bakanların çocukları aracılığı ile bulaştığını gösteren ses kayıtlarının yazılı basında yer alması, çok yönlü tartışmaları ateşledi. Bunu da, emniyette ki karşı operasyonlar takip etti.<br />
+Zaten, son yıllarda siyasetçilerin ve özellikle de hükümet üyelerinin de içinde yer aldığı bazı suiistimal olayları ve haksız kazançlar elde edinildiği,<br />
+Bazı devlet bankalarının iktidara yakın bazı kişilere hayali güvencelerle büyük krediler vererek haksız kazançlara zemin hazırladığı, söylentileri kulislerde konuşuluyordu.<br />
+Bu nedenlerle, bankaların ve dolaylı olarak da hazinenin zarara uğratıldığı iddiaları, gerek yerel basında ve gerekse bazı dış ülkelerin medyasında sıkça yer alıyordu.<br />
+Buraya kadar olan işin birinci yüzüdür.<br />
+Olayın ikinci yüzünde ise, hükümetin bu olay karşısında düştüğü düşündürücü durum vardır.<br />
+Akdeniz Bölgesi tatil beldelerinde yapılan kaçak inşaatları dahi havadan ve denizden denetleyerek hangilerinin yıkılması gerektiğini söyleyecek, yine İstanbul’da yapılacak üçüncü havaalanını ile üçüncü boğaz köprüsünün yerini benzer yöntemle belirleyecek kadar tek adam görüntüsü çizen güçlü bir Başbakanın,  bu kuşatmayı atlaması akıl alacak iş değildir.<br />
+Bir süre önce aynı kaynaktan olduğu söylenen operasyona, Mit Müsteşarını kurban ettirmeyen bir Başbakan’ın, son rüşvet olayına adı karışan en yakınında ki bakanlarını fark etmemesi de akıl alacak gibi değildir.<br />
+Bu nedenle, olayın ikinci yönünde, iktidarın içine düştüğü ciddi bir istihbarat zaafı var.<br />
+Olayın üçüncü yönünde ise, hükümetin takındığı çelişkili tavır vardır.<br />
+Olayın patladığı ilk günden itibaren hükümet kanadından öyle şeyler söyleniyor ve şantaj olayları ile Gezi Parkı Olaylarında gösterilen tavırlarla çelişecek öylesine farklı bir tavır sergileniyor ki, olayın hukuki yönüne dokunmadan bu çelişkileri de değerlendirmek gerekir diye düşünüyorum.<br />
+Bu çelişkilerin bazıları hatırlanırsa, bugünkü olaylar daha iyi yorumlanabilecektir.<br />
+Deniz Baykal’ın bir kasetle CHP Genel Başkanlığını bırakmak zorunda kalışı sonrası, “Bu ilişki eşi ile mi olmuş ki?” Diye alaycı bir yaklaşım sergilenirken, MHP’li milletvekilleri de benzer kasetlerle 2011 Genel Seçimleri öncesi itibarsızlaştırılarak devre dışı bırakılırken, bu iğrenç şantajların sorumlularını ortaya çıkaracak bir iktidar iradesi gösterilmemiştir.<br />
+Oysa son olay sonrası, polis ve yargının ortak operasyonu ile ortaya çıkan rüşvet ve yolsuzlukların ve medyaya düşen ses ve görüntü kasetlerinin kirli bir oyunun parçası olduğunu iddia eden Başbakan, bunları düzmece olarak niteleyerek, hesabının sorulacağını söylemektedir.<br />
+Hatta daha da ileri gidilerek bu soruşturmayı başlatan emniyet yetkilileri ve savcılar için gerekli işlemlerin yapılacağı açıklanmaktadır.<br />
+Ergenekon, Balyoz ve 28 Şubat suçluları olarak tutuklanan askerlerin ve diğer sivillerin avukatları, delil olarak gösterilen CD’ lerin ve ses kasetlerinin düzmece olduğunu belgelerle savunurken, “Yargıya herkes güvenmelidir” Diyen iktidar yetkilileri, son olayları ortaya çıkaran yargı mensuplarına hesap sorulacağını söylemekte sakınca görmemektedirler.<br />
+Demokratik hak arama gibi masum amaçla başlayan Gezi Parkı eylemlerine katılan gençlere karşı aşırı güç kullanarak olayların boyut değiştirmesine ve ilerleyen günlerde çok sayıda gencin ölmesine ve sakat kalmasına neden olan polisler, kahraman ilan edilerek başarı plaketleri veren, aynı siyasi irade değil miydi?<br />
+Ölüme neden olduğu görüntülerle kanıtlanan polisler ve polisten gördüğü hoşgörü ile kendilerine görev çıkararak silahsız gençlere pala ve sopalarla saldıran işgüzar sivillere nasıl hoşgörü ile davranıldığı görülmedi mi?<br />
+Aynı polisler, 17 Aralık soruşturmasının sağlıklı yürütülmesi için çocuklarının adının karıştığı ilgili bakanlara ve üst il yöneticilerine bilgi vermediği için, görevlerini kötüye kullandıkları gerekçesi ile sürülmediler mi? Bu rüşvet ve yolsuzluk zanlılarını ortaya çıkaranlara en ağır şekilde hesap sorulacağı söylenmiyor mu? Alelacele savcıların yetkilerini yeniden düzenleyen genelgeler çıkartılmadı mı?<br />
+Bu çelişkili yaklaşımlar görmezden gelinebilir mi?<br />
+Olayın asıl tartışılması gereken dördüncü yönü ise,<br />
+Siyasi irade kullanılarak alınan rüşvet ve yolsuzluklar olmamış gibi bu vahim suçlar göz ardı edilmeye ve gündemden düşürülmeye çalışılarak, bu işin bir diğer yönünün öne çıkartılmaya çalışılmasıdır.<br />
+Bu rüşvet ve yolsuzluk olayları, hükümete karşı yapılmış bir komplo olarak nitelenmekte, iç ve dış mihraklarla, Cemaat hedef gösterilerek, rüşvet ve yolsuzluk olayı gölgelenmeye çalışılmaktadır..<br />
+Haftanın son günü Karadeniz Bölgesin de konuşmalar yapan Sayın Başbakan, “Cemaati” son derece sert sözlerle suçlamış ve bu yapılanmayı devlete paralel bir oluşum olarak tanımlayarak, inlerine kadar girerek kökünü kazıyacaklarını söylemiştir.<br />
+Sayın Başbakan, bu olayların arkasında olmakla suçladığı Amerika’ya da sert uyarılarda bulunmuş ve Amerika Büyük Elçisi’ni hedefe oturtmuştur.<br />
+Son sözlerin bu olayı daha da ateşleyeceği izlenimi, ülkemiz adına ürkütücüdür.<br />
+Siyasi iradenin yakın geçmişte yaşananlara olan yaklaşımı ve o günlerde ki söylemleri ile bugün ki taban tabana zıt söylemleri, siyasi iradenin inandırıcılığını zayıflatmaktadır.<br />
+İktidar olabilmek için “Cemaatten” Büyük destekler alan iktidarın, bugün ortaya çıkan bu rüşvet ve yolsuzlukları “Cemaatin” bir komplosu olduğunu iddia ederek aynı “Cemaati” suçlaması, gerçekten de ibretlik bir olaydır.<br />
+İşin özeti, dün acımasızca kullanılan bumerang geri dönerek, sahibini vurmuştur.<br />
+Umarım hesaplaşmaya dönüşen son olaylar ülkemize zarar vermez..<br />
+İktidarla Cemaat arasında ki bu savaş, hangi tarafın kazanımı ile biterse bitsin, Çağdaş, Demokrat ve Laik bir Türkiye’den yana olanlar açısından iç karartıcıdır.<br />
+Yeni olaylara gebe olan haftamızın güzel geçmesi dileğiyle..<br />
+22. 12. 2013<br />
+Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0670-unlu-ekonomistlerin-gozu-ile-samsun-gercegi.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0673-i-stiklal-savasi-mi-i-stikbal-savasi-mi.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

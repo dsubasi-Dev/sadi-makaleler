@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>12 Eylül Darbesinin Öncesi ve Sonrası ile Dünün Darbe Şakşakçılarının Bugün Kü Sahte Demokratlığı - 1. Bölüm</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+12 Eylül Darbesinin Öncesi ve Sonrası ile Dünün Darbe Şakşakçılarının Bugün Kü Sahte Demokratlığı - 1. Bölüm
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2010
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0499
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>12 EYLÜL 1980 ASKERİ DARBESİ’NİN ÖNCESİ VE SONRASI<br />
+İLE DÜNÜN DARBE ŞAKŞAKÇILARININ<br />
+BUGÜN KÜ SAHTE DEMOKRATLIĞI,</p>
+<p>BÖLÜM–1</p>
+<p>“Anayasa Referandumu’nun” oylandığı gün, aynı zamanda “12 Eylül 1980 Askeri Darbesi’nin de” 30 yıl dönümüydü. Referandum’dan “EVET” çıkmasının da verdiği güçle, günümüzün sözde demokratları! Kılıçlarını çekti ve dün yazdıklarını unutarak veya okuyucuları ile dinleyicileri saf yerine koyarak, nasılda sıkı demokrat olduklarını ispatlamaya kalktılar.<br />
+Neyse ki arşivler yalan söylemezdi ve hemen arşivler açıldı ve sahte demokratların 12 Eylül 1980 öncesi ve sonrası nasıl bir darbe şakşakçısı oldukları gözler önüne serildi.<br />
+Ünlü bir gazetecinin o dönemin arşivlerinden sütunlarına taşıdığı, o dönemlere ait köşe yazılarından bazı alıntıları aşağıda sizlerle paylaşmak istiyorum.<br />
+Ancak o dönemleri yaşamamış genç kuşakları da dikkate alarak, kısaca 12 Eylül 1980 öncesinde yaşananları hatırlatmak istiyorum.<br />
+O dönemin tüm olaylarını içinde yaşamış bir kişi olarak en büyük dileğim, böylesine anarşinin ve can pazarının yaşandığı bir dönemi, bu ülkenin bir kez daha yaşamamasıdır.<br />
+12 Eylül 1980 öncesinde, Ülkemizi yönetmeye talip olmuş siyasetçiler büyük bir aymazlık içersine girmişti ve ülkede her gün onlarca günahsız insan katledilirken, onlar büyük bir inatlaşma ile bir türlü uzlaşmıyorlardı.<br />
+Siyasi iradenin başında ki İktidarın Başbakanı Sayın Demirel, “Kimse bana sağcılar suç işliyor dedirtemez” diyecek kadar taraf olurken, Ana Muhalefet’in başında ki Ecevit’te, her türlü uzlaşma zemininden uzak duracak kadar katı davranıyordu.<br />
+Siyasetçiler böylesine sorumsuz davranırken, onların uzantısı olan gençlerde, “Devrimciler”, “Ülkücüler” ve “Akıncılar” olarak bölünerek kamplaşmıştı.<br />
+Bu bölünme aynı şekilde sivil toplum kuruluşlarına da sıçramış ve her sivil toplum kuruluşunun da bir biri ile kıyasıya kavgaya girdiği devrimci, ülkücü, akıncılar örgütleri bulunuyordu.<br />
+En kötüsü de ülkede asayişi sağlamakla görevli olan polis de içinde bölünmüş ve polisinde POL-DER ismi ile devrimci ve POL-BİR isimli ülkücü olmak üzere iki ayrı derneği vardı.<br />
+Olaylara karışan Ülkü Ocaklarına kayıtlı sağcı öğrenciler POL-BİR’Lİ polisler tarafından, solcu öğrenciler de POL-DER’Lİ polisler tarafından açıkça kollanıyordu. Eli kanlı katiller bir türlü bulunamıyordu.<br />
+Üniversiteler, hatta liseler kendi içlerinde ülkücü ve devrimci derneklerde yer alarak kıyasıya vuruşuyordu. Dersler yapılamıyordu. Binlerce öğrenci can korkusu ile okullarından ayrılarak ailelerinin yanına dönmüştü.<br />
+Sendikalar, meslek kuruluşları, aklınıza gelen tüm dernek ve diğer sivil toplum kuruluşları da benzer kamplara ayrılmıştı.<br />
+Kentler, ilçeler, köyler, hatta kahveler, öğrenci yurtları, hastaneler, kısacası ülke, ülkücüler, devrimciler ve akıncılar olmak üzere paramparça olmuş, sokaklar paylaşılmış kan gövdeyi götürüyordu.<br />
+Evlerin kapıları çalınıyor ve yeminine sadık kalarak getirilen yaralıyı tedavi eden doktor, karşı grubun canileri tarafından eşinin ve çocuklarının gözü önünde katlediliyordu. Gazeteciler, sendikacılar ve bilim adamları hunharca öldürülüyordu. Üstüne üstlük bunlar olurken, Türkiye’de henüz PKK terörü de başlamamıştı.<br />
+O günler gözümün önüne geldikçe hala tüylerim diken diken oluyor. Olayları bire bir yaşamış 68 kuşağının bir insanı olarak, o günlere ait iki olayı anlatarak bu bölümü çok daha uzatmak istemiyorum.<br />
+Yukarıda 1980 öncesinde caddeler ve sokakların da devrimciler ile ülkücü ve akıncı sağcılar tarafından paylaşıldığını yazmıştım. Bu cadde ve sokaklardan, olayların içinde olmayan karşı görüşe sahip olanlar dahi geçemezdi. İşte size yaşanmış iki olay;<br />
+Gazi Caddesi ( Mecidiye) sağcıların, Ondokuzmayıs Bulvarı’da solcuların kontrolündeydi. Benim işyerim olan eczane işte bu iki caddenin kesiştiği köşede bulunuyordu. Bir öğle saatinde personelin de yemek molasına çıktığı sırada, eczaneme bir öğretmen ilaç almaya geldi. İlaçlarını çıkartıyordum, 5–6 genç eczaneme daldı ve sağcı olarak biliniyor olmalı ki, öğretmene kıyasıya vurmaya başladılar. Üst kata çıkıp polisi aramaya niyetlendim, karşılığı “ Eczacı seninle işimiz yok, sakın yerinden kıpırdama oldu. “Yapmayın, yazıktır” Diye yalvarmama rağmen acımasızca dövülen zavallı eğitimci kan revan içinde kaldı. Bankolar devrildi, Eczanemin içerisi darmadağın oldu. Çaresiz kalmış hiçbir şey yapamıyordum. Yalnızdım ve dışarıdan görenler dahi yardıma gelemiyordu. Olaydan sonra saatlerce kendime gelemedim.<br />
+Yıl 1980 yaz ayları, günlerden Cumartesi akşamüzeri. Mecidiye Caddesi yine hareketli ve bir şeyler olacak gibi bir görüntü var. Personelden birisi ile eczanemin kapısının önünde etrafı seyrediyoruz. 40–45 yaşlarında iyi giyimli gözlüklü bir bey bir kolunda eşi, diğer eliyle 5–6 yaşlarındaki kızının elinden tutmuş Mecidiye yönünden gelerek önümüzden geçiyorlardı. Ne ve nasıl olduğunu anlayamadan, arkadan gelen bir genç adeta havada uçarak adamın arkasından belinin tam ortasına bir karateci gibi tekmeyi bastı. Adam yere kapaklanırken, eşi kendini toparlayıp kızını alarak Ondokuzmayıs Bulvarına doğru uzaklaştı. Yere yuvarlanan adamın kasıklarına üç dört genç kıyasıya vuruyordu. Hızları kesilince adamı içeri aldık. Adamcağızın gözlükleri kırılmış, ayakta dahi duramıyordu. Ve koskoca adam darbelerin etkisi ile eczanenin ortasında altına kaçırdı. Bu manzara beni dağıtmıştı. Dışarı fırladım, gençlere “Bu yaptığınızın erkeklikte yeri var mı? Bir erkeğe çocuğunun ve eşinin yanında bunu nasıl yaparsınız?” Diyerek bağırmaya başladım. Beni tanıdıkları için olacak seslerini çıkarmadılar. Adam taş kesilmiş iki büklüm oturuyordu. Pansumanını yapıyorduk ki, iki başka genç içeri girdi. Bir yandan adamdan özür diliyorlar, bir taraftan da “Geçen hafta Sinop’ta arkadaşlarımız dövülmüştü, Arkadaşlar sizi onlardan birisine benzetmiş, kusura bakmayın” Diyorlardı.<br />
+Bir başka olayda eczanesinden çıkan bir gencin karşı grup tarafından öldürülmesi üzerine, eczacı arkadaşım tehdit edilmeye başladı. Bir süre sonra da gece eczanesi Molotof kokteyli ile bombalanarak yakıldı. Meslektaşım eczanesini kapatarak ailesi ile birlikte Samsun’u terk etmek zorunda kaldı.<br />
+1957 yılından beri Çiftlik mahallesinde oturan ve o semtte büyümüş olmama rağmen, bir yanlışlığa hedef olmak için her akşam eve giderken geçtiğim Çiftlik Caddesi’nde ( İstiklal Caddesi) aracımın tüm iç lambalarını açar ve öyle giderdim.<br />
+Demokrat olmaya dahi gerek yok, hiç kimse darbeden yana olamaz. Ama ben, can güvencesinin kalmadığı o günleri yaşamış birisi olarak diyorum ki, o günlerde ben dahil hiçbir sade vatandaşın darbeye karşı çıktığını hatırlamıyorum. Okula giden çocuğunun ve işine giden eşinin geriye dönüp dönemeyeceğinden endişe duyan, o dönemleri yaşamış hiç kimseye, darbeye neden karşı çıkmadınız ve seyirci kaldınız denemez.<br />
+O günün şartları buydu. Hesap sorulması gereken asıl suçlular ise ülkeyi yönettiğini sanan siyasetçilerdir. Neden Ülkenin uçuruma sürüklendiğini görerek asgari müşterekler de uzlaşmadılar?<br />
+Sonra ki yıllarda askerin olayları kasıtlı olarak engellemeyerek darbeye zeminini hazırladığını söyleyerek kendisini kurtarmaya çalışan siyasi erk, madem bunu biliyordu, neden emrinde ki sorumlu askerleri görevden almadı? Sonradan söylenen bu tür sözler kimseyi aklayamaz ve ülke yönetme sorumluluğu ile bağdaştıramaz. Bunun adı, ucuz kahramanlıktır.<br />
+12 Eylül’den sonra da darbeye karşı çıkan ve darbeye direnen tek siyasetçi olarak, rahmetli ECEVİT’İ hatırlıyorum. Tüm diğer yanlışlarına rağmen, bugünün sahte demokratlarını görünce Ecevit’in bu konuda ki hakkını teslim etmek istedim.<br />
+Evet! Ülkemiz de bugün olduğu gibi o günlerde de bir oyun tezgâhlanmış ve bir takım dış güçler insanımızı birbirine düşman etmişti.<br />
+Sonra ki yıllarda ECEVİT KOALİSYONU’NUN nasıl dağıtılıp, Irak’ın işgal edilerek Amerika’nın Orta Doğu’da ki projelerinin önünün nasıl açıldığını gözden geçirirseniz, asıl suçluların bu oyunları çözemeyerek ülkeyi batağa götüren siyasetçilerle, dün olduğu gibi bugün de onlara çanak tutan bir takın çıkarcı yağdanlıklar olduğunu rahatlıkla görebilirsiniz.<br />
+Asıl sorumlu olması gerekenler ne yazık ki, sonraki yıllarda da ülkeyi yönetme şansı yakalamışlar ve aynı basiretsizlikleri bir kez daha sergilemişlerdir.<br />
+Her şey bir tarafa, o dönemde öldürülen binlerce gence ve darbe sonrası darağacına gönderilen idealistlere yazık olmuştur. Ne yazık ki, onlar o günlerde ülkemiz üzerinde oynanan oyunu görmüş, dış güçlere meydan okumuş ve diyetini de canları ile ödemişlerdir. Keşke onların gördüklerini hepimiz o günlerde görebilseydik.<br />
+Evet! Bunların hepsi gözlerimizin önünde oldu ve bizler de seyircisi olduk. Bunu bugün samimi olarak itiraf etmek bir yana, o günün şakşakçılarının bugün soyundukları demokrasi havariliği rolünü izlerken, insanın midesi bulanıyor.<br />
+İşte, yazımın ikinci bölümünde sizlere bunlardan bir demet sunuyorum. Üzülerek söylemek gerekirse bu tür satılmışlar her dönemde rol almış ve asıl parsayı da onlar toplamıştır.<br />
+Yarın bu sütunlarda bunları okuyabilirsiniz.<br />
+İyi bir haftaya başlamanız dileğiyle..26 Eylül 2010</p>
+<p>BİR ÖZÜR VE BİR TEŞEKKÜR.<br />
+Değerli okurlarım,<br />
+Oğlumun nikâh töreni ve çok sayıda konuğumuzun Samsun’a gelişi nedeni ile yedi yıl sonra ilk kez hoşgörünüze sığınarak geçen pazartesi günü sizlere köşe yazımı sunamadım.<br />
+Özürüm bu nedenle sizlere..<br />
+Teşekkürüm de;<br />
+Bu törene katılarak, çiçek göndererek ve çok daha önemlisi, “SAM-SEV’İN Eğitim Bursu Bağış Standına” Bağış yaparak, koşulları yetersiz olan onlarca gence eğitim fırsatı yaratan dostlarıma. Hepinize teşekkürler.</p>
+<p>SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0498-referandum-sonrasi-beklenen-muhtemel-gelismeler-ve-artik-oh-be-diyebilecek-miyiz.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0500-12-eylul-askeri-darbesinin-oncesi-ve-sonrasi-ile-gunumuzun-darbe-karsiti-demokratlarin-gecmisleri-2-bolum.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

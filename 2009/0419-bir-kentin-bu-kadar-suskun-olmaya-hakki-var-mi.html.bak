@@ -1,0 +1,336 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Bir Kentin Bu Kadar Suskun Olmaya Hakkı Var mı</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Bir Kentin Bu Kadar Suskun Olmaya Hakkı Var mı
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2009
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0419
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>BİR KENTİN BU KADAR SUSKUN OLMAYA HAKKI VAR MI?</p>
+<p>Öyle bir kentte yaşıyoruz ki, ne güzel şeyleri paylaşabiliyoruz, ne de yanlışın karşısına hep birlikte dikilebiliyoruz. Kentin geniş halk kesimi zaten kaderine razı olmuş, bu kentte olup biten hiçbir şey onları ilgilendirmiyor. Diğer kesimde ise asıl konuşması gereken Samsun’un etkin insanları var, onlarda üç maymunu oynuyor. Bir iki örnekle bu anlaşılmaz suskunluğu biraz irdelemek istiyorum.<br />
+Sadece Samsun’un değil Türkiye’nin en verimli ve çocuklarımızın da geleceği olan tarım alanları yanlış enerji politikalarına ve yanlış yer seçimlerine kurban ediliyor, umurlarında değil.<br />
+Samsunspor yerlerde sürünüp Türkiye’ye rezil oluyor onların sorunu değil.<br />
+Kısa sürede kazandığı başarılarla Samsun’u iki yıldır en azından Türkiye spor gündemine taşıyan SBK Kız Basketbol Takımı’nın Başkanı Sayın Hüseyin Tayıncı kentin ilgisizliğinden umutsuzluğa kapılarak çaresizlik içerisinde takımın ligden çekilebileceğini açıklıyor, ne duyan var? Ne de ilgilenip, ne oluyor diye arayan tek bir kent yetkilisi.<br />
+Bu örnekleri daha da çoğaltabiliriz. Ancak, ben son günlerde gündemde olan “RAYLI SİSTEM” tartışması ile ilgili bir iki noktaya değindikten sonra, sözü başlangıçta sözünü ettiğim bu kentin asıl konuşması gereken kesimlerine getireceğim.<br />
+Bu proje ile ilgili olarak Mimarlar Odası’nın bazı önemli itirazları oldu. Rapor hazırlamış ve kentin en üst yöneticilerine sunmuşlar. “Projenin bir bölümünde yapılan güzergâh değişikliği sonucu kentin olmazsa olmaz bazı kazanımları yok olma tehlikesi ile karşı karşıya” diyorlar. Bu sorunlar konuşulsun istiyorlar ama dinleyen yok.<br />
+Israr edilince, “O kadar çok biliyorsanız gelecek seçimde Büyükşehir Başkanlığına siz aday olun, kazanın ve daha iyisini yapın” diyecek kadar kantarın topuzu kaçırılıyor. Kenti yönetenlere yaptıkları randevu talepleri ise cevapsız kalıyor.<br />
+Kent yaşamını büyük çapta etkileyecek bu proje ile ilgili tartışmalarda bakın Samsunlu ne yapıyor? Yukarıda söylediğim gibi büyük bir kesimin hiç umurunda değil, diğer etkin grup ise üç maymunu oynuyor. Yani Sayın Başbakan’ın dediği gibi, “kulakları var duymuyorlar, gözleri var görmüyorlar, ağızları var konuşmuyorlar”.<br />
+Biliyorum, bu arada birileri de benim için, “Sana ne kardeşim, sen de geç köşene otur. Sana mı kaldı bu kentin dertleri?” Diyor. Tam işte burada, en üst perdeden söylüyorum. Tanrım bana sağlık verdiği, beynim çalıştığı, elim kalem tuttuğu sürece yazacağım ve de konuşacağım. Neden mi? İşte cevabı;<br />
+Çünkü ben bu kentte yaşıyorum, bu kentte kazandım ve bu kentte de yaşamayı sürdürmeye kararlıyım. Bir kentte yaşamanın sorumluluğu ve kentli olabilme bilincinin, bir kentli olarak bana bu hakkı ve sorumluluğu yüklediğini biliyorum.<br />
+Çünkü 40 yıldır bu kentte çeşitli sivil toplum kuruluşlarında görev alarak sahip olduğum bilgi birikimimi kentimiz için kullanmam gerektiğine inanıyorum. Hepsinden önemlisi bu kenti seviyorum. Sadece bunlar dahi bana bu hakkı veriyor.<br />
+Çünkü bu kenttin yarınlarında, bugün yapılan güzel işlerden ötürü övünebilme hakkımız olabilmesi için ve çocuklarımıza bırakacağımız kentimizde yapılan yanlışları bugünden önlemek veya en azından suskun kalmamak gibi sorumluluğumuz olduğunu bildiğim için.<br />
+Hepsi bir yana, bu kentin sorunun konuşanlardan değil tam tersine, konuşmayanlardan kaynaklandığını görüyorum.<br />
+“RAYLI SİSTEM” Tartışmasına dönerek, yazımın başında söz ettiğim suskunluğu sorgulamak istiyorum.<br />
+Öncelikle şunu vurgulayayım ki, toplu taşımacılığın çağdaş kentlerin olmazsa olmazı olduğunu bilen ve trafik açmazına saplanmış Samsun için toplu taşımacılığın önemine inanmış birisi olarak bu projeye hiçbir itirazım olamaz.<br />
+Teknik konularda bilgim olmadığı için işin teknik yönlerinde yorum da yapamam. Bu proje, Samsun’a yükleyeceği borç yüküne değer mi? Çok büyük sorunları olan bir kent için bu proje böylesine büyük bir borç yüküne değecek kadar öncelikli midir? Bunları da bugün konuşmanın bir yararı olacağına inanmıyorum. Çünkü artık proje uygulama noktasına gelmiştir.<br />
+Söyleyebileceğim şeyler, projenin toplumun çıkarları ve kullanabilirliği ile uygulama güzergâhı olarak Samsunlu için doğru olup olmadığı konusu üzerinde olabilir..<br />
+Biliyorum ki, “RAYLI SİSTEM” üçüncü kez Büyükşehir Belediye Başkanı seçilen Sayın Yusuf Ziya Yılmaz’ın 2. döneminden beri gerçekleştirmeyi kafasına koyduğu en büyük amaçlarından birisi olmuştur.<br />
+Biliyorum ki, nüfusu bir milyonun altında olan kentlerde uygulanabilir olmadığı için onay verilmeyen bu projeyi, hükümete kabul ettirme becerisini gösteren Sayın Yusuf Ziya Yılmaz’dır ve bir imkânsızı başarmıştır.<br />
+Yine biliyorum ki, böyle bir proje için bulunması çok zor bir kredi olanağını da sağlamıştır.<br />
+Bir başka doğru da bu projenin Samsun’a kazandıracağı prestijdir.<br />
+Biliyorum ki, benim bu doğrularıma da itirazı olacak dostlarım çıkacaktır. Onlara da saygı duyuyorum.<br />
+Ve şimdi yüksek sesle soruyorum. Böylesine sadece doğrularını ortaya koyduğum bir projede dahi kent olarak neden bütünleşemiyoruz? Neden, böyle bir projeyi hep birlikte savunamıyoruz? Eğer bir ortak noktada buluşamıyorsak, bu işte bir yanlışlık var demektir.<br />
+Bir proje ne kadar doğru da olsa, bu eksikleri veya uygulama yanlışları yoktur anlamına gelmez. Bir kentin geleceğini de etkileyecek böyle bir proje hakkında bazı endişeler varsa, bunları ortadan kaldırmak veya bu konuda kamuoyunu ikna etmek, uygulama makamının görevi olmalıdır.<br />
+Hele de, konuyla ilgili bir meslek örgütü olan Mimarlar Odası’nın çekinceleri varsa, bunları tartışıp gidermek, yapılacak en doğru iş değil midir?<br />
+Peki, böylesine önemli bu projenin tanıtımı yeterince yapılmış ve Samsun kamuoyu aydınlatılmış mıdır? Güzergâh değişikliği kararı ne zaman alınmış ve neden bu kente duyurulmamıştır? Projenin onayı alındığı günden beri dev bilbordlarla duyurusu yapılan “RAYLI SİSTEM’İN” Güzergâhına, neden bu bilbordlarda yer verilmemiştir?<br />
+İşin böyle gizemli bir hale getirildiği ortamda, çağdaş demokrasilerde ki sivil toplum kuruluşlarına yakışır bir cesaret ve sorumlulukla endişelerini bir raporla ortaya koyan Mimarlar Odası Samsun Şubesi Başkanlığı ve üyeleri alkışı hak etmiştir.<br />
+Oysa bırakın alkışlamayı ve onların ortak çözüm arama taleplerini değerlendirmek yerine, bakınız biz ne yapıyoruz. ”Bunlar her şeye karşı çıkar” Önyargısı ile onları suçluyor, randevu vermiyor, hatta hedef gösteriyoruz.<br />
+Eğer bu kenti yönetenler, bir meslek kuruluşuna karşı böylesine katı bir tavır sergilerse, Mimarlar Odası için yargıya gitmekte kaçınılmaz hale gelir. . Ne yazık ki, süreç bu noktaya gelmiştir.<br />
+O zaman, benim önceki hafta sorduğum ve hala hiçbir açıklama yapılmayan sorularımı soranların sayısı hızla çoğalır.<br />
+TEKRAR SORUYORUM;<br />
+Büyük Samsun Oteli’nin sahibi konumunda ki Valilik Makamı, Özel İdaresi Genel Sekreterliği ve İl Genel Meclisi sahip oldukları gayrimenkulün satılamaz, kiralanamaz hale düşürülmesi, kısacası değer kaybetmesi karşısında ne düşünmektedir? Bu gayrimenkul Samsun halkınındır ve yönetimi onlara emanet edilmiştir. Bu gayrimenkul onlardan herhangi birisinin şahsi malı olsa böylesine suskun kalırlar mıydı?<br />
+Bu otel satılmış veya kiralanmış olsaydı, bu güzergâh değişikliği böylesine kolay ve tepki görmeden uygulamaya konulabilir miydi?<br />
+Atatürk Kültür Merkezi ve Valilik Binası’nın durumu ne olacaktır?<br />
+SAYIN KENT YÖNETİCİLERİMİZ, bu sorularıma karşı kamuoyunu rahatlatacak açıklamayı yapmak zorundasınız.</p>
+<p>SAYIN KENT DİNAMİKLERİNİN TEMSİLCİLERİ, ŞU ÖNEMLİ SORULARIM DA SİZLERE.<br />
+Mimarlar Odası sorumluluğu gereği görevini yapmıştır. Kentlerin yaşamında çok daha önemli sorumlulukları olan ŞEHİR PLANCILARI ODASI, İNŞAAT MÜHENDİSLERİ ODASI ve diğer mühendis odaları sizlerin hiçbir görüşü yok mu? Var da biz mi duyamadık? Biraz yüksek sesle lütfen. Yok, eğer kişisel iş ilişkilerinizde zarar görürüz diye susmayı sürdürecekseniz, bu önemli görevleri de üstlenmeyiniz. Düşünmek dahi istemiyorum ama, eğer oda yönetimi görevleriniz nedeniyle özel işlerinizde baskı görüyorsanız, bunu da açılamak sizin görevinizdir.<br />
+SAMSUN TİCARET VE SANAYİ ODASI’NIN değerli yeni Yöneticileri, sizlerin bu konuda hiçbir fikri yok mu?<br />
+SAMSUN BAROSU’NUN Sayın Başkanı ve Yönetim Kurulu sizlerin kentimiz ve hukuk adına söyleyeceğiniz bir şey yok mu?<br />
+SAMSUN TURİZMCİLERİ VE DERNEK YÖNETİCİLERİ, Samsun turizminin vazgeçilmez tek beş yıldızlı oteli yok edilirken bir değerlendirmeniz olmayacak mı?<br />
+VE SİVİL TOPLUM PLATFORMU’NUN değerli üyeleri, başta SAM-SEV olmak üzere bu tartışmaya nasıl bakıyorsunuz?<br />
+Bir sorumda, ÜLKEMİZDE 4. GÜÇ OLARAK HER ORTAMDA ÖNE ÇIKAN BASININ YEREL KANADINA OLACAKTIR.<br />
+Gazeteci olmayan ben ve benim konumumda ki bir başka köşe yazarı ile gazetecilikte duayen durumunda ki bir gazeteci dışında, bu konuda kalem oynatan çıkmadı. Basının görevi kamuoyunu doğru bilgilerle aydınlatmaktadır. O halde bu suskunluğun nedeni nedir?<br />
+Hemen birçok önemli şeyi de vurgulamak istiyorum. “Konuşun veya bu suskunluk neden?” Diye sorarken, hiç kimseye “Bu projeye karşı çıkın anlamında bir telkinim ve düşüncem” olmadı, olamaz da. Sorumluluğu olan herkes gerekli açıklamayı yapsın. Endişesi olanlarda ikna olsun ve bu önemli projeyi hep birlikte kucaklayalım. Benim talebim sadece bu.<br />
+SON SORUMDA, KENTİN DÜŞÜNEN, KONUŞAN VE ÖNEMLİ KENT YÖNETİCİLERİ İLE YAKIN İLİŞKİSİ OLAN İŞADAMI VE ENTELLEKTÜELLERE OLACAKTIR.<br />
+Bu kentte yaşıyorsak ve yaşamayı sürdürmeye kararlıysak, bu soruları da cevaplamak zorundayız. En azından güzel işlere verdiğimiz destek kadar, kişisel dostluklarımızı yapılan yanlışlar konusunda da devreye sokarak, uyarı görevini yapmamız gerekir diye düşünüyorum. Aksi halde, kişisel sevgi ve dostluklar bozulmasın endişesi ile yanlışlara seyirci kalmak gibi bir durum ortaya çıkar ki, açıkçası böyle kaygan bir kişiliği hiçbir dostuma da yakıştıramamam.<br />
+Samsun’un gelecekteki en az elli yılına etkisi olacak böyle bir projeye duyarlı olduğum ve bu soruları sorduğum için hiç kimsenin beni yanlış değerlendirmemesi dileğiyle, iyi haftalar. 07. Haziran. 2009</p>
+<p>SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0418-sivil-toplum-kuruluslarinin-onemsenmemesi-felaketlere-zemin-hazirliyor.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0420-yanlislari-soylemek-ve-uyarmak-nasil-suc-olabilir.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

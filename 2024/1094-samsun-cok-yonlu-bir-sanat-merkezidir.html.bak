@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Samsun Çok Yönlü Bir Sanat Merkezidir.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Samsun Çok Yönlü Bir Sanat Merkezidir.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2024
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+1094
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>SAMSUN ÇOK YÖNLÜ BİR SANAT MERKEZİDİR.<br />
+Samsun’un en iyi anlatacak güçlü yanı konusunda yıllardır bir türlü karar veremedik.<br />
+Yeri geldi “Sağlık Merkezi”, yeri geldi “Sanayi Merkezi”, yeri geldi “Turizm Merkezi”, yeri geldi “Tarım Merkezi”, yeri geldi “Spor Merkezi” olarak tanıtmaya çalıştık.<br />
+Ama bunların hiç birisinde kendimizi kanıtlayacak bir il konumuna gelemedik. Tamam bu konulardan özellikle Sanayi olmak üzere, sağlık ve turizm konularında ciddi çalışmalar yürütülüyor.<br />
+Ne var ki, Anadolu’nun ne Gaziantep’i, ne Kayseri’si, ne Konya’sı, ne de Eskişehir’i seviyesine gelemedik.<br />
+Evet bir kent için çok önemli olan bu alanlarda hedefe ulaşamadık. Ama bir konu var ki, bu konuda tartışmasız Anadolu’nun en önde gelen kentlerinden birisi konumundayız.<br />
+Samsun çok yönlü bir sanat merkezi haline gelmiştir. Bugünkü yazımın konusu da en seçkin sanat dallarının başında gelen bale eğitiminde bir yıldız gibi parlayan TAB SANAT MERKEZİ ile olacak.<br />
+Samsun olarak Anadolu’nun çok az kentinde olan, Samsun Devlet Opera Balesi gibi bir sanat merkezine sahibiz.<br />
+Bu açıdan bakınca, Atatürk Kültür Merkezi çok çeşitli sanatsal etkinliklerin sunulmasına ev sahipliği yapması bakımından da Samsun için çok büyük bir şanstır.<br />
+Geçen hafta sonu AKM’ de TABSANAT öğrencilerinin şahane bir bale sunumunu izledik. 3-4 yaşından 15 yaşına kadar değişik öğrenci yaş guruplarına ayrılarak çok güzel bir gösteri sundular.</p>
+<p>TAB SANAT MERKEZİ;<br />
+TABSANAT, Samsun da 1996 yılında ilk Bale Dans ve Müzik okulu olarak kurulmuş. Kuruluş yıllarında ünlü Balet Tan Sağtürk’ün de destek verdiği TAB SANAT MERKEZİ Samsun’un sanata yatkın çocuklarına yeni bir şans yaratmıştır.</p>
+<p>İlk gösterisini 1997 yılında sunan Tab Sanat Okulu, Samsun da 27 yıldır Bale ve Müzik (Piyano) konusunda sanata ilgi duyan sanatsever çocuk ve gençleri yetiştiriyor.</p>
+<p>Yetiştirdikleri öğrencilerle yıllarca uluslararası Ordu Tiyatro Festivali gibi birçok etkinlikte yer alarak, Samsun’un sanatsak gücünü çevre illere de ulaştırmıştır.<br />
+Tabsanat’ın kurucusu ve sahibi olan Sayın Füsun Uzel, en önemli hedefinin sanatsever ve çağdaş nesiller yetiştirmek olduğunu söylemektedir.</p>
+<p>Tabsanat Samsun okulu, Millî Eğitim Bakanlığına bağlı kurslardan olup, girdikleri seviye sınavları sonucu bitirme belgesi veren bir kurumdur. Kursu başarıyla bitiren öğrencilerde bu tür kurum açma ve eğitmenlik yapma hakkı kazanmaktadır.</p>
+<p>Hayatlarında sanat ve spor olan çocukların akademik başarılarının da yüksek olduğunu söyleyen Sayın Füsun UZEL, Bale’nin sadece fiziksel gelişime değil kişisel gelişimlerine de katkıda bulunan görsel sanatların en kapsamlısı olduğunu anlatmaktadır.</p>
+<p>Bu açıklamaya katılıyorum. Özellikle üniversite eğitimine başlayan çocuklarımızın spor, sanat ve müzik dallarından birisinde çalışması varsa, bunun üniversite yıllarında bu gençlere çok büyük katkı sağladığını biliyorum.</p>
+<p>İzleme şansını bulduğum son bale gösterisi sonrası söyleyebileceğim şey, bu çocukların ileride Devlet Opera ve Balesi kadrolarında yer alabilecek kadar başarılı olduklarıdır.</p>
+<p>Samsunumuza böylesine zor bir sanat okulunu kazandırdığı için Sayın Füsun UZEL’E bir Samsunlu olarak teşekkürlerimi sunuyorum.</p>
+<p>Yazımın başında da belirttiğim gibi Samsun sanatsal yaşam açısından çok şanslı bir kent olup, bu sadece bale ile de sınırlı değildir.</p>
+<p>Sanat dünyasına baktığımızda Türkiye çapında onlarca ünlü tiyatro ve Türk Sanat ve Türk Halk Müziği sanatçısını görüyoruz.<br />
+Yıllar öncesine dayanan sanatsal çalışmalar sonraki yıllarda meyvesini vermeye başlamıştır. Burada isimleri yazarak unutabileceğimiz ünlülerimizi üzmek istemem.<br />
+Tabii bu kadar sanatçının yetişmesinde, eski Hal Binasında 1960’lı yıllarda faaliyete geçen Samsun Oda Tiyatrosu, Samsun Müzik’i Cemiyeti ile başlayan ve sonraki yıllarda belediyeler, meslek odaları ve derneklerin kurduğu TSM ve THM koroları ile Samsun tam bir sanat merkezi olmuştur.<br />
+Bu arada çoğu Anadolu kentinde olmayan Atatürk Kültür Merkezi’nin ve burada faaliyet gösteren Samsun Devlet Opera ve Balesi Müdürlüğünün sahnelediği oyunlar kapalı gişe oynamaktadır.<br />
+Çok başarılı yerel tiyatrolarımızla gurur duyuyoruz.<br />
+Samsun Halkı sanata her zaman destek vermiştir. Samsun’a gelen ses sanatçıları ve tiyatro oyunlarına bilet bulmak sorundur.<br />
+Kısacası Samsun tam bir sanat merkezidir. Bu konuda emeği geçen tüm sanat sevdalılarına teşekkür ediyorum.<br />
+Sanat dallarının güzelleştirdiği bir hafta diliyorum. 09.07.2027<br />
+Ecz. SADİ SUBAŞI<br />
+e- http://www. hedefhalk. com</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="1093-turkiye-nin-gercek-beka-sorunu.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="1096-samsunumuza-bu-ayibi-yasatmayalim.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Kent Yöneticisi Olacak Kişi O Kentin</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Kent Yöneticisi Olacak Kişi O Kentin
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2020
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0994
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>KENT YÖNETİCİSİ OLACAK KİŞİ O KENTİN<br />
+SEVDALISI OLMALIDIR.</p>
+<p>Bu hafta ki köşe yazımın yanlış yerlere çekilmemesi için çoğu kez altını çizdiğim bir ilkemi bir kez daha belirtmek istiyorum.<br />
+Benim için önemli olan, bir kişinin doğum yer değil, nerede doğmuş olursa olsun yaşadığı kente en azından sempatisi olmasının gerekli oluşudur.<br />
+Bunun altını çizdikten sonra bugünkü yazımın konusuna geçebilirim.<br />
+Yukarıda belirttiğim ilkem doğrultusun da bir kenti yönetmek için yukarıda belirttiğim gibi o kente sempatisi olmak da yetmez.<br />
+Çünkü bir kentin yönetimine istekli olacak kişinin, yaşadığı kentte mutlu ve o kente sevdalı olması ve yaşadığı kenti sorunlarından kurtararak çok daha yaşanır bir kent yaratacak hedefleri olmalıdır.<br />
+Üzülerek söylemek gerekirse, sorunları çok ve sahipsiz bırakılmış bir kentte yaşıyoruz. İşte bu nedenle bu kentin yönetimine sahip olacak kişinin, kişisel sorunları ve çıkar beklentileri olmamalıdır.<br />
+Bu konulara açıklık getirmek için bu kentin 4 hafta önce yazdığım “Kuşatılmış Kent Samsun” yazımdan bir bölümü tekrar hatırlatmakta yarar görüyorum.<br />
+İşte o yazımdan bir bölüm;</p>
+<p>“Öyle bir kentte yaşıyoruz ki, 1965 sonrası özellikle Doğu ve İç Karadeniz Bölgesi’nin kırsalından aldığı göçler sonrası Samsun, zaten zayıf olan kentlilik kimliğini giderek kaybetmiş ve sahip olduğu ekonomik ve kültürel zenginliğini de yitirmiştir.<br />
+Bu süreçte Samsun’un atanmış ve seçilmiş yöneticileri, değişik yörelerden gelerek Samsun’a yerleşen bu insanların kente uyum sağlaması yönünde hiç bir çabanın içinde olmamıştır.<br />
+İşte o günlerde temelleri atılan bölgecilik anlayışı, zaman içinde Samsun’a egemen olmuştur. Son yıllarda bu bölgecilik anlayışının Samsun’da siyaset yapabilmenin ve iş kapısının anahtarı haline gelmesi sonucu, bazı ilçelerimiz dahi kurdukları hemşeri dernekleri ile kendi ilçesinin insanlarının da söz sahibi olması ve iş bulabilmesi için kent yönetimlerine seçilebilmesi yönünde lobi çalışmalarına hız vermiştir.<br />
+Bu gelişmeler olurken Samsun adına çaba harcamak ve kentlilik bilincini oluşturma çabasına girenler, ne yazık ki Samsun halkından yeterince destek bulamamıştır. Bu nedenle Samsun’a sahip çıkmak isteyenlerin sayısı, diğer lobilere göre azınlıkta kalmıştır.<br />
+Bu olumsuzluklar sonucu, Samsun’un ve Samsun halkının çıkarlarını korumak için çaba harcayan meslek kuruluşları ile sosyal amaçlı vakıf ve derneklerde yalnız bırakılmıştır. “</p>
+<p>Bu bölümde benim 4 hafta önce yazdıklarımı doğrularcasına açıklamalar yapan iktidar ortağı partisi MHP’ NİN SAMSUN İL BAŞKANI SAYIN ABDULLAH KARAPIÇAK dahi isyan etmiş ve Samsun’un gelişmesini Samsun’a hâkim olan statükocuların engellediğini söylemiştir. Bunun açıklaması, Samsun’da hâkim olan güçlerin çıkarlarının bölüşülmesine olanak vermemek için yatırımcıların önünü kestiği ve Samsun’un gelişmesini engellediğini söylemektir.<br />
+Özetle benim, ”Samsun’un kenti eline geçiren bölgeci ve çıkar lobileri tarafından kuşatılmıştır” deyişimi, Sayın Karapıçak “Statükocular, yani kurdukları sistemin bozulmasını istemeyen çıkar gruplarının, Samsun’un gelişmesini engellediğini” Söyleyerek doğrulamıştır..<br />
+Sayın Karapıçak sıradan birisi olmayıp, iktidar ortağı bir partinin il başkanıdır. O nedenle bu sözler çok önemlidir. Konuşmasının sonra ki bölümlerinde bu statükocuların (Tutucuların) kimler olduğunu da üstü kapalı açıklamıştır.</p>
+<p>Dört hafta önce yazdıklarımda belirttiğim sorunlar, bu kentin sorunlarının sadece bir bölümüydü.<br />
+Şimdi böyle bir kentin yönetimine istekli olanları nelerin beklediğini ve<br />
+bunların nasıl çözüleceğini belirleyen ana başlıklardan söz edeceğim.<br />
+Bu kenti yöneteceklerin siyaseten seçilmeden önce, bu kentin sevdalısı olduklarına ve sorunlarını bildiklerine dair, bu kentin insanlarının çok büyük büyük bölümünün onayını almış olması gerekir.<br />
+Tüm adaylar, seçildiklerinde hangi sorunlara hangi çözümleri nasıl ve hangi kaynaklara çözeceğini belirleyen bir yemin belgesini (Manifesto), o kentin halkının değerlendirmesine sunmalıdır. Çünkü yemin niteliğinde ki bu belge, o adayın özgüven seviyesini ve kentinin sorunlarına ne kadar hâkim olduğunu gösterecektir.<br />
+Bir kentin yönetimine istekli olanların, siyasi görüşlerinin ve partisinin çıkarlarının hiçbir zaman kentin çıkarlarından önce gelmeyeceği konusunda, adaylık öncesi yaşamında bu kentin halkına güven vermiş olması gerekir.<br />
+Kentin dinamikleri olan meslek odaları ve sivil toplum kuruluşları ile ortak paydanın Samsun olduğu noktasında buluşarak, onlarla ortak akıl üretecekleri konusunda topluma güvence vermesi gerekir.</p>
+<p>Şimdi de yerel seçimlerinde neler yapılmasını<br />
+özetlemeye çalışacağım;<br />
+Sağlıklı bir seçim yapılabilmesi için öncelikle siyasi partiler ve seçim yasası günün koşullarına göre yenilenmelidir.<br />
+Yerel seçimlerde aday olacaklar partiler tarafından değil, o kentte yaşayanlar tarafından belirlenmelidir. Bu konuda yeni bir düzenleme yapılması şarttır. İlk etapta kentin çok sayıda noktasında kurulacak sandıklarda kent halkı yararlı olacağına inandığı insanları özgürce belirlemeli ve 2. Etapta da bu isimlerden en çok oy alan en az 50 aday adayı sıralanmalıdır.<br />
+Partiler bu isimler içinden birisini aday olarak belirleyerek seçimlerde aday göstermelidir.<br />
+Son 50 yıllık dönemde Samsun, siyaset adına tam bir tükenmişlik yaşadı. Samsun’un “Teşvikte Öncelikli İller” kapsamına alınması gerektiğini, TBMM’de Samsun milletvekillerinin değil de, başka illerin milletvekillerinin savunduğuna tanıklık etme acısını henüz unutmadık.<br />
+SONUÇ:<br />
+1-Samsun’da yaşanan bu olumsuzlukların sorumlusu kim diye sorarsanız verilecek cevap ; “Bu kent adına seçilmiş ve hiçbir sözünü tutmamış iktidar milletvekilleri, bugüne kadar Samsun’u yönetmiş iktidarda ki siyasi partiler ve de yıllardır bu kentin ticari ve sanayisini yönlendirme görevini üstlenmiş olan Samsun Ticaret ve Sanayi Odası yöneticileridir.<br />
+Ki, bunların kimler olduğunu tüm Samsunlu çok iyi bilmektedir.<br />
+2-Yaşadığı kenti en iyi yönetecek kişiyi seçme başarısını bir türlü gösteremeyen, seçtiklerini bir türlü sorgulama bilincine ulaşamayan Samsun Halkı da bir o kadar sorumludur.<br />
+Bu nedenlerle, iktidar ortağı bir partinin il başkanının söyledikleri çok önemlidir. Çünkü bu bir uyanışın ve yanlışları siyasi ağızdan söylenebilmesinin ilkidir.<br />
+Teşekkürler Sayın Abdullah Karapıçak, teşekkürler bu söylemleri kamuoyuna yansıtan Hedef Halk Gazetesi.<br />
+Sorunlarına sahip çıkan yöneticileri iş başında görebilmek dileğiyle, güzel ve sağlıklı bir hafta diliyorum…23.11.2020<br />
+Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0993-ulkemin-eski-halini-dahi-ozluyorum.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0995-muhalefet-partileri-i-ktidar-olmaya-hazir-mi.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

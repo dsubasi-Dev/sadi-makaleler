@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Dış Güçler ve Soğuk Harp Nedir. 2. Bölüm</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Dış Güçler ve Soğuk Harp Nedir. 2. Bölüm
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2023
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+1081
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>DIŞ GÜÇLER VE SOĞUK HARP NEDİR?<br />
+2. BÖLÜM</p>
+<p>Bu haftaki köşe yazımın dün yayınlanan 1. Bölümünde, Dış Güçler ile Soğuk Harp ‘in açıklaması yapmıştım.<br />
+2. Bölümde ise, “Ülkemiz üzerinde kurgulanan oyun nedir?”  Konusunu iki ayrı bilgi ile açıklamak istiyorum.<br />
+1- Ülkemizin Uranyum, Toryum ve Bor gibi çok önemli yer altı kaynaklarına sahip olmasından belki daha da önemli yanı, bölgenin en stratejik konuma sahip ülkesi olmasıdır.<br />
+Bölgemizde ekonomik yönden de güçlenecek bir Türkiye, tüm bölge ülkeleri adına bir güvence olacağı gibi sömürgeci ülkelerin çıkarlarına da set çekebilecek en önemli ülkedir.<br />
+Nitekim bugün Türkiye üzerinde uygulanan planı, 1970’li yıllarda ülkemizde yayınlanan dergideki (AKİS olabilir) bir makale, çok güzel açıklamaktadır.<br />
+Yazı, emekli bir ABD askeri strateji uzmanına aitti.<br />
+Uzman, yazısında, “Bundan böyle ABD’ de Başkan seçilecek liderlerin en önemli görevi, hızla gelişerek yaşam standardı yükselen Amerikan Halkının beklentilerini karşılamak olacaktır.<br />
+Bu da ABD’nin yeterli enerji kaynaklarına sahip olmasını gerektirmektedir. Oysa, ABD’ nin kendi enerji kaynakları yeterli değildir. Enerji kaynaklarından en önemlisi olan zengin petrol yatakları ise, Ortadoğu Ülkelerinde bulunmaktadır.<br />
+Ne var ki, bu bölgenin giderek güçlenen ülkesi Türkiye’dir ve güçlü bir Türkiye, ABD’ nin bölgedeki çıkarları önünde en büyük engeldir.<br />
+O nedenle, Türkiye’nin bu bölgedeki etkinliğini gidermek için önümüzdeki 50 yılda Türkiye, Suriye, Irak üçgeninde Amerika’nın güdümünde bir Kürt Devleti kurulması zorunludur.”<br />
+50 yıl öncesinde gündeme getirilmiş bir proje doğrultusunda yaratılmış olan PKK Örgütü, bu bölgede özerk bir Kürt Devletinin kurulabilmesi için yazarın önerdiği gibi ülkemizi 40 yıldır uğraştırmakta ve kaynaklarını bu mücadelede harcattırarak, güçlenmesini önlemektedir.<br />
+2-Türkiye, 1950 Yılında Marshall yardımı ile başlayan süreçten 1990’lı<br />
+yıllara kadar, ABD yanlısı bir siyaset yürütmüş ve iktidara gelen hükümetler ve Türk Genel Kurmayı da aynı politikayı sürdürmüştür.<br />
+Bu arada 1999 da Ecevit Başkanlığındaki koalisyon hükümetinin göreve geldiği yıllarda, Irak Devlet Başkanı Saddam’da ülkesinin ulusal çıkarlarını koruma adına ABD karşıtı bir siyasete yönelmiştir.<br />
+Irak’ın ulusal çıkarlarını öne çıkartarak kimliği petrolüne sahip çıkmasını ABD kabul edilemez olarak görür ve Irak’a kimyasal silah ürettiği iddiası ile Türkiye üzerinden Irak’a asker sokma talebinde bulunur. Ama Ecevit Hükümeti, komşu bir devlete müdahale edecek olan ABD’ nin, Türk topraklarını kullanmasına onay vermez.<br />
+!990’lı yıllarda Türk Genel Kurmayında da ABD yanlısı politikalar yerine, daha bağımsız Türkiye yanlısı kadrolar göreve gelmiştir.<br />
+Ecevit’in bu tavrının ABD’ ni rahatsız ettiği bir gerçektir.<br />
+Nitekim kısa süre sonra Ecevit’in rahatsızlığının artması ve ülkemizde büyük bir ekonomik krizin yaşanması üzerine, Dünya Bankası’nda görevli Kemal Derviş Türkiye’ye gönderilir.<br />
+Sıkı bir kemer sıkma operasyonu sonrası ekonomik yapı düzelmeye başlar. Tam da o sırada Kemal Derviş’in çağrısı ve koalisyon ortağı MHP Lideri Devlet Bahçeli’nin de desteği ile gidilen erken seçimde, DSP, DYP, ANAP ve MHP baraj altında kalırken, çok yeni kurulmuş AKP tek başına iktidara gelir.<br />
+AKP’ nin iktidara gelmesi üzerine ABD, Irak’a Türk toprakları üzerinden asker sokma talebini yeniler. Ne var ki, daha sonra 1 Mart teskeresi olarak anılacak olan ABD talebi, onaya sunulduğu TBMM’ de reddedilir.<br />
+ABD bu kararın faturasını Türk Genel Kurmayına çıkartır.<br />
+Tamda o sırada, ABD’nin Türkiye Büyükelçisi olan Robert Pearson Amerika’ya bir telgraf gönderir.<br />
+WikiLeaks isimli Uluslararası sivil toplum kuruluşunun yayınladığı Türkiye belgelerinde yer alan Aşağıda özetlediğim telgraf metni her şeyi açıklamaya yetecektir sanıyorum.<br />
+Robert Pearson, 22.03.2023 tarihli telgrafta orgeneraller Aytaç Yalman, Şener Eruygur, Çetin Doğan, Hurşit Tolon, Fevzi Türkeri, Tuncer Kılınç ve Yaşar Büyükanıt'ın Amerikan menfaatlerine karşı çıktıklarını yazıyor ve bu subaylar hakkında CIA ajanları vasıtasıyla bilgi topluyor.<br />
+Kendi deyimiyle "özel kaynak verileri" olarak adlandırdığı bu bilgileri, kripto mesajı ile Amerika'ya gönderiyor.<br />
+Telgraf metni özetle;<br />
+"Yukarıda isimleri belirtilen Türk generallerin büyük rahatsızlık duyduğu R. Tayyip Erdoğan, güçlü bir müttefikimizdir. Orgenerallerin tutumu, Amerikan menfaatlerinin korunması ve devamı açısından engelleyici olmaktadır.<br />
+Erdoğan, kendisine desteğin devamı halinde ABD’nin bir müttefiki olarak Ortadoğu ve Irak dahil olmak üzere Türk hava sahasını, kara ve demir yolları ile Mersin ve İskenderun limanlarını kullanımımıza açacağını taahhüt etmektedir.<br />
+Amerikan menfaatlerine karşı çıkan bu generaller, Genelkurmay Başkanı Org. Hilmi Özkök’ün emir ve talimatlarına uymadıkları gibi, Org. Hilmi Özkök'e her an muhtıra verebilirler.<br />
+Bu açıdan değerlendirildiğinde, güçlü bir medya grubunun oluşturulmasına acilen ihtiyaç duyulmaktadır.</p>
+<p>" 17 No. lu klasördeki bilgi ve belgelerin incelenerek değerlendirilmesi ve Yaşar Büyükanıt hakkındaki bilgi ve belgelerin R. Tayyip Erdoğan'a ulaştırılmasının onayı gerekmektedir.<br />
+A, B, C, D, E, F, G kodlu klasörlerin içeriğinin tensibi ve uygulanması için 500 kişilik özel adamlar devreye sokulmalı, gelişmelere göre değerlendirilmelidir. Onay bekliyorum.  Robert Pearson.</p>
+<p>Pearson'un 2003'te Amerika'ya çektiği bu telgraftan sonra muhalif orgenerallerin, CIA merkezli FETÖ operasyonları olan düzmece Balyoz ve Ergenekon davaları tutuklanması ile Türk Ordusundaki ulusalcı komuta kadrosu çökertilir.</p>
+<p>Bundan sonrasını sanırım anlatmaya gerek yok. Çünkü bu yaşananlar, bugün yaşı 20 ve üzeri olan herkesin gözü önünde olmuştur.</p>
+<p>İşte, soğuk harbin ülkemiz üzerinde kurgulanmış olan modeli budur. Savcıların mahkeme sırasında sorguladığı tanık için savunma avukatına, “Buyurun, tanık sizin” dediği gibi bende, “yorum sizin” diyorum.</p>
+<p>Tam bağımsız bir Türkiye özlemi ile sağlıklı ve güzellikler dolu günler dileğiyle iyi haftalar. 18.09.202<br />
+Ecz. SADİ SUBAŞI</p>
+<p>e- http://www. hedefhalk. com</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="1079-samsun-da-ki-sel-olaylari-yonetim-rezaletidir.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="1082-samsunspor-da-neler-oluyor.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Sahil Nostaljisi</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Sahil Nostaljisi
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2003
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0073
+
+</div>
+
+
+<div class="article-content">
+
+<p>SAHİL YOLU NOSTALJİSİ</p>
+<p>Liman dolgu alanında oluşturulan sahil kordonunun benim için çok farklı bir önemi var. Çocukluğumuzun geçtiği liman öncesi mevcut olan sahili ve kumsalı hep özlemişimdir. O dönemleri yaşayan herkesin de bu özlemi duyduğunu sanıyorum.2001 yılı başlarında başlattığımız '' sahilimi istiyorum'' kampanyası da bu özlemin sonucuydu. O zaman gördükki Samsunlu da bu özlemle dopdoluymuş. Bir ay gibi kısa bir sürede 40000 destek imzası toplamıştık. Bugün bu sahil kordonu yapılmışsa o 40000 imza  sahibinin bunda çok önemli rolü vardır. Kampanyayı başlatmak için yaptığımız toplantının sunuş konuşmasının metnini geçtiğimiz günlerde okuduğumda  bugün gerçekleşenlerin o günkü beklentilerimizle ne de güzel örtüştüğünü bir kez daha gördüm. O gün ''kıyısında insanların oturup denizi seyrettiği, balık tuttuğu ve faytonlarla insanların gezebileceği bir sahil kordonu düşlediğimizi''söylemişim. Aradan geçen çok kısa sürede hayallerimizin gerçekleştiğini görmek hepimizi çok mutlu ediyor. Bugün, görmeyenlerin inanamadığı bir sahil kordonuna sahibiz. Perşembe akşamı çok yakın bir dostumun görevi nedeniyle Antalya'da yaşayan oğlunu, eşini ve çocuklarını  sahil kordonunu gezmeye götürdüm. Sevgi Kafede denizi seyrederek pidelerimizi yerken o eski günleri hep birlikte yaşadık. Sahile her gittiğimde yaptığım gibi onlarlada fayton gezisi yaptık. Uzun yıllar sonra bu güzellikleri yeniden yaşadıkları için çok mutlu oldular. Sahili dolduran insanları gördükçe yapılan işin nekadar müthiş bir iş olduğunu çok daha iyi anlıyorum. Samsunlular okadar mutlu ki bir çok insan işyerime gelip bu projeye zemin hazırladığmız için SAM-SEV 'e teşekkür ediyor. Asıl teşekkür , bu kordonu çok kısa bir sürede büyük bir cesaretle grçekleştren ve Samsunluların hizmetine sunan  Büyük Şehir Belediye Başkanı sayın Yusuf Ziya Yılmaz' a edilmelidir. Bende   bu vesile ile sayın Başkana ve muhtemel engellemeleri göğüsleyerek projeye destek veren  o dönemki valimiz sayın Muammer Güler'e , bu bölgeyle ilgili sorumluluğu olan tüm kamu kurumu yöneticilerine bir kez daha teşekkür etmeyi borç biliyorum.<br />
+Eski Samsun'u bilenlerin çok iyi hatırlayacakları bir başka güzellikte 1950 li yıllarda Samsun'un  tenis kortlarının bulunduğu ve şotlarla bayanların  dahi tenis oynadığı bir kent olmasıydı.. Ancak aradan geçen kırk yılda Samsun her konuda olduğu gibi sosyal yöndende önemli kayıplara uğramıştı.1988 de SAM-SEV i kurduğumuzda eski günleri aradığımızı belirtmek için sık, sık bu tenis olayını gündeme getiriyorduk.1990 lı yıllarda Belediye Başkanı olan sayın Muzaffer Önder  çok bunalmış olacakki ''usandım bu sizin tenis kortu söyleminizden'' deyip doğu parktaki tenis kortlarını gerçekleştirerek Samsunluların hizmetine sunmuştu. Bugün Samsunda çok sayıda tenis kortu olduğu halde hala yeterli olmuyor. Samsun Tenis İhtisas Kulübünün yetiştirdği genç tenisçiler Türkiye şampiyonalarında derecelere giriyor. Tüm bunlar Samsun da son 10-12 yılda oluşan güzellikler.<br />
+Sivil toplum örgütlerinin daha bilinçli hale gelmesi ve toplumu yönlendirmesi ile Samsun artık isteyen kent haline geliyor. Bu olumlu gelişmeler devam eder ve son 10-12 yılda görev alan çağdaş görüşlü yöneticilerin devamlılığı sağlanabilirse, inanıyorum ki Samsun 50 yılda kaybettiklerini yavaş, yavaşta olsa kazanacaktır. Yeterki Samsun'u daha güzel günlere taşıma çabasında olan bir avuç insana sahip çıkalım ve kısır çekişme ve çıkarlara kurban etmeyelim. İyi haftalar dileğiyle..</p>
+<p>SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0072-globallesme.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0074-samsunlulugu-savunmanin-zorluklari.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

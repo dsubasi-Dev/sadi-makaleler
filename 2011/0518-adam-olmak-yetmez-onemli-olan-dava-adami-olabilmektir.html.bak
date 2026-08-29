@@ -1,0 +1,321 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Adam Olmak Yetmez. Önemli Olan Dava Adamı Olabilmektir.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Adam Olmak Yetmez. Önemli Olan Dava Adamı Olabilmektir.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2011
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0518
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>ADAM OLMAK YETMEZ.<br />
+ÖNEMLİ OLAN, DAVA ADAMI OLABİLMEKTİR.</p>
+<p>Sık sık vurguladığım gibi öyle bir dönem yaşıyoruz ki, toplumun tüm değer yargıları alt üst oldu. Satılmış, dönek, yandaş, yalaka sözleri artık rahatsız edici olmaktan çıkacak kadar kanıksandı.<br />
+Oysa eskiden bu deyimleri günlük yaşamımızda hemen hemen hiç duymazdık. Hele de birisi için kullanmak yürek isterdi.<br />
+“Adam gibi adam” Diye de bir söz vardı. Her şeyi ile topluma mal olmuş sevilen, sayılan ve sözüne güvenilen, saygın kişiler bu deyimle anılırdı.<br />
+Bakın, Sevgili Erdem Erol bir köşe yazısında bunu ne de güzel anlatmış;</p>
+<p>Adam...<br />
+Sözü özü bir olandır. Sözünün adamıdır. Sözü ağzından söyleyen, ağzından çıkana da sonuna kadar sahip çıkandır!  Emanete hıyanet etmeyendir. Milletin 'koru' diye verdiklerini, üç-beş akçe için, menfaat için, rant için, koltuk için peşkeş çekmeyendir!  Elini kaldırdı mı, indirmeyen, lafını söyledi mi, yemeyen! Ekmek parası için dansözün giydiğini, şirin gözükmek için giymeyendir!  Eline, beline, diline sahip çıkan, dik durmanın ayakta durmakla bir ilgisinin olmadığını bilendir.  Bağımsızlığı, ipsizlikle alakalandırmayıp, ipiyle kuyuya inilebilendir!  Siyasette kıvırmayan, ticarette kandırmayan, bürokraside yaltaklanmayan, medyada yalakalık yapmayan, soyuna-sopuna, oyuna sahip çıkandır.</p>
+<p>Geçen hafta Samsun Büyükşehir Meclisi’nde yaşanan rant rezilliğine payanda olanları hatırlayınca, bu sözler çok daha bir anlam kazanıyor ve nasıl da, cuk diye oturuyor.<br />
+Eskiden, ahlaklı, dürüst ve iyi insan olmak, insan olmanın olmazsa olmaz ilk kuralı olarak kabul edilir ve yeterli görülürdü. Ancak günümüzde insanların bu özellikleri taşıması da yetersiz kalmaya başladı.<br />
+Çünkü artık birisine, “Adam gibi adam” Demek için, çok daha başka özelliklerin de olması gerekiyor. Bunun için de, donanımlı, bilgili, dürüst, ahlaklı olmaktan da öteye, “Dava adamı olmakta” Şart.  Tam da, Erdem Erol’un yukarıda ki satırlarında çizdiği adam modeli gibi olmalı “Dava adamı.”<br />
+Ne var ki, günümüzde bu artı özelliği taşımak da kolay iş değil. Hani derler ya, “Mangal gibi de bir yürek” İstiyor.<br />
+Çünkü doğruları söyleyen ve ülkesinin çıkarlarını savunan çok sayıda gazeteci, bilim adamı ve vatanseverin kanıtlanmamış bir takım iddialarla, aylarca hatta yıllarca cezaevlerinde tutulmasının yarattığı korku ortamı insanları sindirdi.<br />
+Buna son düzenlemelerin etkisi ile bir de, hukuka olan güvenin sarsılması eklenince, en düzgün insan dahi konuşmaya korkar hale geldi.<br />
+İşte bu nedenlerle, toplumda iddiası olanlar ile ülke ve toplum için bir şeyler yapmak isteyenler, üstlendikleri sorumlulukların gereğini adam gibi yapmalıdırlar,  “Dava adamı” olabilmelidirler.<br />
+Örneğin, önceki hafta Büyükşehir Belediye Meclisinde ki rant rezilliği oylamasına katılmayarak ranta çanak tutan birisi MHP’li, üçü CHP’li dört meclis üyesinin “Dava adamı olamayacaklarını” kanıtladıkları gibi.<br />
+Bu rezilliğe ortak olarak partilerini zora sokanlara bunun hesabını sorması gerekenlerin de, onları sorgulayabilecek kadar dahi “Dava adamı olamadıkları” Gibi.<br />
+Buna rağmen, hala koltuklarında oturmayı içlerine sindirdikleri gibi.<br />
+Onlarda en az, topluma korku salan günümüzün düzenini kurgulayanlar kadar, “Dava adamı olmak” zorunda değiller miydi?<br />
+Böylesine sindirilmiş bir ortamda, susmayı yeğleyenlerden daha fazla topluma zarar veren bir başka kesim daha var ki, asıl susması gerekenler bunlar olmalıdır diye düşünüyorum.<br />
+Yazılı basında elde ettikleri köşelerinde ve bolca yer buldukları TV ekranlarında, her şeyi tozpembe göstererek toplumu yanlış yönlendirmek, aydın tanımlaması ile nasıl bağdaşır, anlamıyorum.<br />
+Çevresinde sevilen, sayılan ve sözü dinlenen bazı entelektüeller de, büyük bir iyimserlik ve romantizm ile konuşarak toplumu etkilemeyi sürdürüyor.<br />
+Yukarıdakilere bu grubu ve insanları Türkiye gerçeklerinden uzaklaştıran TV dizilerini de eklerseniz, toplumun nasıl uyuşturulduğunu çok daha iyi anlarsınız.<br />
+İşin asıl üzücü olan yanı da, bunları yapanların görevi toplumu aydınlatmak olan ve adına “Aydın denen kesim” Olmasıdır.<br />
+Üzülerek söylemek gerekirse, bunlara aydın demek gerçek aydınlara haksızlıktır.<br />
+Sanırım bu tür aydın! Tanımlamasının başına, son zamanların moda sözü, “Çakma” Kelimesini eklemek daha çok yakışacaktır.<br />
+Ne acıdır ki, susanların en azından konuşarak toplumu uyuşturan bu çakma aydınlar! Kadar zarar vermediği bir dönemden geçiyoruz.<br />
+İşin özü, “Adam gibi adam” olmaktan da öte, “Dava adamı” Olmak zor iş. Çünkü gerektiğinde diyet ödemeyi gerektiriyor.<br />
+En iyisi, sözü Mevlana’ya bırakarak yazıyı noktalamak. Mevlana ne de güzel söylemiş;<br />
+“Her söze verecek cevabım var...<br />
+Ama bir söze bakarım, söz mü? Diye,<br />
+Bir de söyleyene bakarım, adam mı? Diye..<br />
+İyi haftalar.. 30 Ocak 2011</p>
+<p>SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0517-20-ocak-samsunspor-faciasinin-22-yilinda-huzunu-guzellige-ceviren-ornek-taraftar-dernegi.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0519-samsunluyu-yaniltmaya-kimsenin-hakki-olamaz.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

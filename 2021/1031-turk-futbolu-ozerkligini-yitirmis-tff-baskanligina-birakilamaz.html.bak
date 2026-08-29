@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Türk Futbolu Özerkliğini Yitirmiş TFF Başkanlığına Bırakılamaz.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Türk Futbolu Özerkliğini Yitirmiş TFF Başkanlığına Bırakılamaz.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2021
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+1031
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>TÜRK FUTBOLUNUN KADERİ, ÖZERKLİĞİNİ YİTİRMİŞ TÜRKİYE<br />
+FUTBOL FEDERASYONU BAŞKANLIĞINA BIRAKILAMAZ.<br />
+Türk Futbolunun 2000 yılları öncesinde yaşadığı rezil durumlara yeniden döndüğümüz günleri yaşıyoruz.<br />
+Türk Milli Futbol takımının 5-0, 6-0, 8-0 gibi bol sayılı mağlubiyetlere alışığı ve beraberlikleri zafer olarak gördüğü rezil durumlardan, 2000 sonrası biraz olsun kurtulmuştuk.<br />
+TFF özerkleştirilerek siyasetçilerin bazı güç odaklarının güdümünden kurtarılmış ve TFF Yönetimleri seçimle göreve gelmeye başlamıştı.<br />
+Alt yapılardan oyuncular çıkmaya başlamış, genç yaşta Avrupa takımlarına giderek kendilerini geliştirmiş futbolcularımız da adlarından söz ettirmeye başlamıştı.<br />
+Bunun dışında Avrupa ülkelerinde doğmuş ve Avrupa’nın futbol kültürü ile yetişmiş futbolcularımızın da isimleri duyulmaya başlamıştı.<br />
+Milli Futbol Takımımıza bu oyunculardan takviyeler yapılıyor ve milli formanın manevi sorumluluğunu taşıyan oyuncularla başarılı sonuçlar alınmaya başlıyordu.<br />
+Dünya 3. Olan Milli Futbol takımımızın kadrosunda yanlış hatırlamıyorsam, yurt dışında yetişmiş tek futbolcu olarak Yıldıray Baştürk vardı. Hocası da Şenol Güneş’ti.<br />
+O tarihlerde Türkiye’de ki takımlarda yabancı oyuncu oynatabilmek 2-3 ile sınırlıydı. Üç büyükler Anadolu takımlarında sivrilen futbolcuları da kadrolarına katarak 8-9’u Türk olan futbolcularla sahaya çıkıyordu.<br />
+İşte bu ortamda tamamı kendi takımlarımızda oynayan oyunculardan oluşan Milli Futbol Takımımız Dünya 3. Olmuştu.<br />
+Peki, ne oldu da o güzel günleri arar hale geldik?<br />
+2004’den sonra önce TFF’ nin özerkliği aşındırılmaya başladı. Artık, Federasyon Başkanları siyasi iradenin işareti ile belirleniyor, daha da kötüsü TFF yönetimleri üç büyükler ile Trabzonspor’un belirlediği isimlerden oluşuyordu<br />
+TFF, artık üç büyük kulübün güdümüne girmişti. Sonunda FB, GS ve BJK’ nın bastırması ile yabancı oyuncular Türk takımlarında yer almaya başladı.<br />
+Önceleri 2-3 ile sınırlı olan yabancı oyuncu sayısı daha sonra öylesine çığırından çıkartıldı ki, geçen sezon 11 yabancı oyuncu ile sahaya çıkan FB, GS, BJK takımlarını izlemek zorunda kaldık.<br />
+Bu yıl, takımların kadrolarında bulundurabilecekleri sayı 14’ e çıkartılırken, sahaya çıkan on sekiz kişilik kadrolarında en az üç Türk futbolcu bulundurma şartı getirilmişti. Bu dahi kendi oyuncularımız için bir şans yaratmıştı.<br />
+GS’ da Taylan, Kerem, BJK’ da Ersin, Rıdvan, Serdar, Güven, FB’ de ise, Muhammed, Ferdi yer alırken, arkadan gelen Arda, Fatih’te şans bekliyor.<br />
+Şimdi soruyorum, söyler misiniz? Bu çocuklarımızın takımlarında oynayan yabancılardan ne eksiği var?<br />
+Bu gerçekler ortadayken yıllardır FB, GS, BJK ve Trabzonspor, takımlarını yabancı ülkelerde yaşlanarak çaptan düşmüş veya geçirdikleri ağır sakatlıklar sonrası bir türlü form tutamadıkları için takımlarında oynatılmayan oyuncular ve Afrika ülkelerinde yeni yeni sivrilen siyahi oyuncularla doldurdular.<br />
+Bu salgının diğer Süper Lig takımlarına, hatta 1. Lig ve 2. Lig takımlarına da bulaşması ile artık kendi çocuklarımızın Süper Lig takımlarında oynayabilme şansı giderek azalırken, kulüpler de borç batağına batıyordu.<br />
+Yabancı oyuncu furyasından en büyük zararı Trabzonspor görmüştü. Nitekim Trabzonspor, 1975 ile 2010 yılları arasında 7 kez Süper Lig Şampiyonluğunu, 9 kez de Türkiye Kupası Şampiyonluğunu kazanırken,  kadrosu çoğu kendi yöresinden olmak üzere tamamı Türk futbolculardan oluşuyordu.<br />
+Üç büyüklere ayak uydurup, takımı yabancı oyuncularla doldurduktan sonra Trabzon için bu şampiyonluklar hayal oldu.<br />
+Türkiye liglerinin yabacı oyuncularla dolması sonucu, Milli Futbol takımımıza lig takımlarından oyuncu bulmak zorlaşmış ve son iki yıldır milli takım kadrosunu, yabancı ülkelerde oynayan Türk kökenli oyuncularından oluşturmak zorunda kalınmıştı.<br />
+2020-2021 futbol sezonunun bitmesi ile Mayıs Haziran aylarında oynanan Avrupa Şampiyonası grup maçlarına çıkan Milli Takımımızda yer alan lejyoner oyuncularımız, adeta “Maçlar bitsin de tatilimize gidelim” havasındaydı. Doğal olarak Milli Takımımız kupa dışında kalmıştı.<br />
+Yaz sonunda ise, Dünya Kupası grup maçlarımız devam edecekti. Aslında gurubun ilk maçlarında süper sonuçlar almış ve Hollanda’yı 4-2, Norveç’ de 3-0 yenerek liderliği kapmıştık.<br />
+Ne var ki, Milli takım son maçlarda Karadağ ile berabere kalıyor ve futbol dünyasında adı olmayan Cebelitarık’ı dahi zor yeniyordu. Tehlike çanları çalmaya başlamıştı. Nitekim ardından oynadığımız Hollanda karşısında dağılıyor ve 6-1 ile hezimete uğrayarak guruptan çıkma şansımızı da azaltıyorduk.<br />
+Bu hezimetlerin ve yaşanan olumsuzlukların nedeni olarak liglerimizi dolduran yabancı oyuncu işgalini görmezden gelen TFF, kendisini kurtarmak için sanki asıl suçlu oymuş gibi faturayı, Milli Takım ruhunu yitirmiş lejyonerle oynamak zorunda bırakılan Şenol Güneş’e çıkarıyor ve istifa ettiriliyordu.<br />
+Çözümü de, bir eksik daha tamamlanarak Milli Takımın başına da bir yabancı hoca getiriliyordu.<br />
+Üzülerek söylemek isterim ki, bir futbol sevdalısı olarak benimle birlikte çok sayıda arkadaşım da, artık Süper Lig maçlarını izlemekten zevk almıyoruz.<br />
+Takımların kendi çocuklarımızdan çok farkı olmayan 2.3. sınıf yabancı futbolculardan oluşmuş maçları futbol sevdalılarını mutlu etmiyor.<br />
+Bir futbol tutkunu olarak kendi adıma Samsunspor’un maçları hariç, bu maçları seyretmek yerine, Avrupa liglerini seyretmeyi yeğliyorum.<br />
+SONUÇ;<br />
+Kanımca yapılması gereken ilk iş, TFF’ nu siyasi iradenin ve üç büyük kulübün güdümünden kurtararak, özerk bir yapıya kavuşturmak,<br />
+Yapılması gereken ikinci iş, yabancı futbolcu sayısını üçle sınırlamak ve 25-27 yaş sınırlamasını getirmek,<br />
+Yapılması gereken üçüncü iş ise, her takımın alt yapıdan gelen en az beş oyuncusunu, sahaya sürdüğü 18 kişilik kadrosunda bulundurması ve en az ikisini de sahada ki 11 de sürekli olarak oynatmasını sağlamak olmalıdır.<br />
+Sağlıklı ve güzelliklerle geçecek bir hafta dilerim. 27.09.2021<br />
+SADİ SUBAŞI<br />
+e- http://www. hedefhalk. com</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="1030-12-eylul-darbesi-aydinlari-ezdi-gecti.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="1032-amerika-artik-turkiye-nin-dostu-degil.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

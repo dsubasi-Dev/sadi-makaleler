@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Samsun&#x27;un Gelişmesini Hangi Güçler Engelliyor</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Samsun&#x27;un Gelişmesini Hangi Güçler Engelliyor
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2019
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0950
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>SAMSUN’UN GELİŞİMİNİ HANGİ GÜÇLER ENGELLİYOR?</p>
+<p>Bir kent sürekli olarak geçmişini arıyor ve hemen her konuda kan kaybediyorsa, bunun sorgulanmasından doğal bir şey olamaz.<br />
+Üzülerek söylemek gerekirse, Samsun’un en büyük eksiği de bu olsa gerek. Zaten Samsun’da bu sorgulamayı yapan bir çoğunluk olsaydı, aşağıda anlatacağım olumsuzlukları yaşamazdık.<br />
+Bunları söylediğim için çok kişinin beni karamsarlıkla suçlama kolaycılığına sarılacağını biliyorum. Kim ne düşünürse düşünsün, ben 50 yıldır çok sevdiğim Samsun’un çok daha iyi konumlara gelmesi için en azından bir şeyler yapmaya çalışıyorum.<br />
+Yaşamım süresince tespit ettiğim gerçek, bir sorun varsa bu sorunun çözümü için bu sorunun topluma tüm yönleri ile anlatılması ve toplum tarafından kabul görmesinden geçtiğidir.<br />
+O nedenle yıllardır bıkmadan, usanmadan Samsun’un hemen her konuda gerilemesini ve nedenlerini sık sık gündeme taşımaya çalıştım.<br />
+Şimdi sıralayacağım olayların bir rastlantı olup olmadığının cevabını sizlerin de kendinize vermenizi istiyorum.<br />
+Kentimizin Ekonomisine, Eğitimine, Kültür, Turizm ve sosyal yaşamına baktığımızda 1980 sonrası çok şeyimizi kaybettiğimizi üzülerek görürüz.<br />
+Samsun’a “SANAYİ VE İŞSİZLİK SORUNU” penceresinden baktığımızda göreceğimiz manzara, Samsun’da büyük ve bir sanayi kuruluşunun olmadığı ve işsizlik oranının Türkiye ortalamasının çok üstünde olduğudur.<br />
+Karadeniz Bölgesi’nin en büyük iline son elli yılda Devlet eli ile sadece Azot ve Bakır fabrikaları yapılmıştır. (Onlarda artık özelleştirme ile yok edilmiştir.)<br />
+Başta özelleştirilerek çalışanlarının sayısı azaltılan Azot ve Bakır Sanayileri olmak üzere 1000 kişinin çalıştığı Sigara fabrikası, yine çok sayıda işçi çalışan Yaprak Tütün Merkezi ve çok sayıda orta ölçekli sanayi kuruluşu kapanmıştır.<br />
+Özel sektör olarakta Samsun’un yüz akı olan ADEKA İLAÇ AŞ, Elektrik malzemeleri üreten Borsan AŞ, Samsun Makine Sanayisi, oto yedek parçası üreten SAMPA AŞ ile fındık kırma ve ayıklama fabrikaları, Samsun’un sınırlı da olsa istihdam sağlayan kuruluşlarıdır.<br />
+Sanayimizin gelişememesinin nedenlerine göz attığımızda ise, akıl   almayacak yanlışlarımızı görürüz. Örnek vermek gerekirse;<br />
+Sanayimizin gelişmesi ve sanayi tesisleri kuracaklara destek olmak amacıyla kurulan Organize Sanayi Bölgemizin yarı alanı boştur ama yer isteyen yatırımcıya yer yoktur. Çünkü bu boş alanlar kentin bir kısım nüfuslu kişileri tarafından kapatılarak boş tutulmaktadır. Aldığım bilgiye göre tapuları dağıtıldığı halde, OSB hala Müteşebbis Kurul tarafından yönetilmektedir. Zaman zaman müteşebbis kurulda yer alan Samsun Valileri, OSB’ nin kuruluş statüsüne aykırı olarak belirlenen süre de yatırım yapılmayan arsaların geri alınarak yatırım yapacaklara verilmesi için girişimde bulunmuşlarsa, da daha sonra anlaşılmaz bir şekilde devamını getirememişlerdir. NEDEN?<br />
+2004 yılında yatırım yapacak iş insanlarına önemli destekler sağlayacak “TEŞVİK YASASI” kapsamı genişletilirken, Samsun tüm Karadeniz bölgesinde kapsam dışında bırakılan tek il olmuştur. Dönemin Başbakanı Sayın Recep Tayyip Erdoğan tarafından STO’ nun salonunda açıklanan Samsunluları rencide eden bu karara ne Büyükşehir Belediye Başkanımız ne de milletvekilimizden tek bir itiraz gelmezken, Samsun’un uğradığı bu haksızlığa göz yuman hatta alkışlayanların başında ise, Samsun Ticaret ve Sanayi Odası gelmiştir. NEDEN?<br />
+Samsun’da bulunan ve Samsun ekonomisine önemli katkıları olan çok sayıda ki Bölge Müdürlükleri çeşitli gerekçelerle Samsun’dan kopartılırken SAM-SEV dışında hiçbir yetkili ve siyasetçimizden ses çıkmamıştır. NEDEN?<br />
+Sahi, bir zamanlar bu kente her hafta sonu binlerce ziyaretçi çeken Fuarımız vardı. Her yıl daha da gelişiyor ve Samsun ekonomisine çok önemli değer katıyordu. Ne oldu da birdenbire kapatıldı. Bilen var mı? NEDEN?<br />
+Bu ülkenin en verimli ovalarından olan Çarşamba ve Terme Ovasına tarımı yok edecek mobil ve termik santrallerin yapılmasını engellemesi gerekenler göz yummadı mı? İlk Mobil santrali Samsun’a geçmiş dönem Büyükşehir Belediye Başkanı davet etmedi mi? Siyasi irade de, engellemesi gerekirken destek vermedi mi? NEDEN?<br />
+EĞİTİMDE,<br />
+35-36. Sıralara düşmüşüz. Fiziki şartlar kısmen de olsa düzeltilmiş, sınıflarda ki öğrenci sayıları azaltılmış ama başarı oranı yerlerde sürünüyor. Oysa 1970-1980’li yıllarda 50-55 kişilik sınıflarda okuyan Samsun’un çocukları, Üniversite Giriş Sınavlarında ki başarıları ile Türkiye birincileri olabiliyordu. Çocuklarımızın zekâ düzeyi mi düşüyor, yoksa eğitimci kadrolarımız mı yetersiz?<br />
+Öte yandan Milli Eğitime yön verenler, tüm itirazlara rağmen Samsun’un marka olmuş okullarını isimleri ve öğrencileri ile kent dışına sürerken, hızla okulları İmam Hatipleştirmekle uğraşıyor. Eğitim sorunu umurunda olan var mı? NEDEN?<br />
+TURİZM’DE,<br />
+Öyle garip işler oluyor ki, akıl alacak gibi değil. “Turizm kenti olacağız” Diye caka satanlar, kentin simgesi ve Samsun’a gelen turistlerin ilk gittikleri yer olan Atatürk Anıt’ı adeta tur otobüslerine yasaklanmış.<br />
+Büyükşehir Belediyesi önce Atatürk Bulvarı üzerinde tur otobüslerine bırakılmış park ceplerini kaldırmış, şimdi de Samsun’a getirdiği turistlerin Atatürk Anıtı’nı görmeleri için zorunlu olarak Atatürk Bulvarı üzerinde park eden tur araçlarına trafik polisleri ceza kesmeye başlamıştır.<br />
+Bu kentin Turizmciler Derneği, Belediye Başkanları ve milletvekilleri nerede? Tur araçlarına kısa süreli de olsa, park yerleri yaratmak o kadar mı zor?<br />
+Karadeniz Turu düzenleyen firmalar konaklama olarak Samsun’u dışlamışlar? Bunlarla uğraşan var mı? NEDEN?<br />
+SOSYAL YAŞAM;<br />
+Bir zamanlar bölgenin iş alanı en geniş kenti olan Samsun 1960 sonrası özellikle Doğu ve Orta Karadeniz Bölgelerinin kırsal kesimlerinden çok sayıda göç almıştır. Bu göçlerle gelenlerin sayısı bir süre sonra Samsunluların sayısını dahi aşar boyuta ulaşırken, Samsun eşrafının ve tüccarının önemli kısmı Samsun’u terk ederek bir başka yanlışa imza atmışlardır. Oluşan bu yeni mozaik yapı, Samsun halkının da kabuğuna çekilmesine neden olmuştur.<br />
+Samsun son olarak da Suriyeli mültecilerin baskınına uğramıştır. Samsun’un gelişen gözde ticari merkezi Çiftlik Caddesi ve yöresi, sayıları çoğalan AVM’ler ile ilk darbeyi yemiş ve son dönemlerde de Suriyeli göçmenlerin istilası ile sosyal yönden çökmüştür.<br />
+Samsun’da ki sosyal yaşam alanları daralmaya başlarken, Çiftlik Caddesi’nde ki sosyal ve ticari canlılık 56’lar bölgesine kaymıştır. 56’lar ve Atakum’da ki Menderes Bulvarı, Samsun’un çağdaş yüzü olmayı sürdürmektedir.</p>
+<p>SONUÇ;<br />
+Yukarıda sıraladığım yanlışların tümü de bir rastlantı olabilir mi? Benim görüşüme göre bunların tümü de olağan gelişmeler olamaz.<br />
+Bu kentin halkı, bu kentli olmayı benimsemiş insanlar yerine, hayatında böyle bir göreve getirilemeyecek insanları partilerin dayatması ile Belediye Başkanı ve Milletvekili seçmek zorunda bırakılıyorsa,<br />
+BU RASTLANTI OLAMAZ.<br />
+Samsunluya açıkça bu kente değil komşu kente yatırım yap anlamında ki Samsun’u “TEŞVİK YASASI” kapsamı dışında bırakan kararı destekleyen ne yazık ki STO oluyor ve belediye Başkanlarımız ile milletvekillerimiz susuyorsa,<br />
+BU RASTLANTI OLAMAZ.<br />
+Bu kente dışarıdan gelerek bu kentte hiçbir kural dinlemeden kentin değerlerini talan edenler, Samsun insanına bu hakları tanımayan Büyükşehir ve İlçe Belediye Başkanları tarafından kollanıyorsa,<br />
+BU RASTLANTI OLAMAZ.<br />
+Bu kentin Belediye Başkanları, Milletvekilleri bu kadar yanlışa seyirci kalıyorsa, kaderine razı olmuş konumda ki Samsun halkı da, yakınmak yerine tavır koymaya ve sorgulama yapmaya çekiniyorsa,<br />
+BU RASTLANTI OLAMAZ.<br />
+Bu kadar yanlış bir araya geliyor ve bir kentin kaderini değiştiriyor, daha da kötüsü gelişimini önlüyorsa, bunun açıkça anlamı Samsun’un adı konmamış bir “KARŞI LOBİ HAREKETİNİN” Kuşatması altında olduğu kuşkusunu doğurur.<br />
+Çözüm Samsunluyum diyebilen tüm Samsun Halkı’nın sorgulama ve tavır koymasından geçmektedir.<br />
+Güzel ve sorunsuz bir hafta dileğiyle. 28.07.2019</p>
+<p>Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0949-turkiye-nin-gelecekteki-en-buyuk-sorunu-suriyelilerdir.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0951-suc-orani-artarken-suclular-serbest-kaliyor.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

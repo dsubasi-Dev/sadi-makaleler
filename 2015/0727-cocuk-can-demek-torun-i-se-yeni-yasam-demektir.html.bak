@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Çocuk Can Demek, Torun İse Yeni Yaşam Demektir</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Çocuk Can Demek, Torun İse Yeni Yaşam Demektir
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2015
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0727
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>ÇOCUK CAN DEMEK, TORUN İSE YENİ BİR YAŞAM..</p>
+<p>İnsan yaşamını, ”Doğar, yaşar ve ölür” diye tarif ederiz. Bu konuya benim bakış felsefem ise, biraz daha farklıdır.<br />
+Ben, insan yaşamını ikiye ayırıyor ve ilk devresini kendisi için yaşadığı, ikinci dönemi ise sevdikleri için yaşadığı dönem olarak kabul ediyorum.<br />
+İlk dönem de erkek ve kadın için farklıdır. Erkeklerin kendine ait yaşamı, askerlik dönemi bitinceye kadardır.<br />
+Kadınların özel yaşamları ise, evleninceye kadar devam eder.<br />
+Askerden dönen erkeği ise, artık ağır sorumluluklar beklemektedir. Askerden dönem gençlerin öncelikli sorunu, bir an önce iş sahibi olma telaşıdır. Çünkü onun bir an önce ailesine yük olmaktan kurtulması gereklidir. Toplum yapımız bu konuda kızlara daha hoşgörülüdür.<br />
+Kadın ve erkek için evlilik sonrası yaşam süreci ise aynıdır. Önce çiftin birbiri için olan ortak sorumluluk ve yaşam dönemi, çocuğun aileye katılması ile yerini çocuğun öncelik kazandığı yepyeni bir döneme bırakır.<br />
+Kendi eserleri olan çocukları artık her şeyin önüne geçmiştir. Çocukla birlikte eve yepyeni bir heyecan gelir. Bu öyle bir sevgidir ki, uykusuz geçen geceleri dahi unutturur insana.<br />
+Artık üç kişinin ortak olduğu bir yaşam vardır. Çocuk büyüdükçe sevgide, sorumluluklar da büyür. Günler koşar adım geçmektedir. Önce okullu olma telaşı başlar. Sonraları onun yerini hedefte ki daha yüksekokullar için sınav heyecanı alır.<br />
+Anneler babalar çocukları ile adeta sınavlara girer ve aynı heyecanı yaşar. Göz açıp kapayıncaya kadar günler, yıllar geçer.<br />
+Üniversiteyi kazanan çocuklar yavaş yavaş yuvadan uçmaya başlamıştır. Anne ve babalar, daha dün altını temizledikleri çocuklarının ilk kez büyüdüğünün farkına varırken, belki de ilk kez kendilerine de, “Ne oluyor? Yaşlanıyor muyuz? Sorularını sormaya başlarlar.<br />
+Anne ve babalar için günler artık çok daha hızlı geçmektedir. Çocuklarının eğitim dönemlerinin de bitmesi ile anne ve baba için başta çizdiğim yaşam süreci başlar.<br />
+Askerlik, iş bulma telaşı derken bir de bakarsınız ki, size can katan çocuklarınız kendi yuvalarını kurmak üzere yuvadan uçmuşlardır..<br />
+Çocukları yuvadan uçan anne ve baba olgunluk dönemine girerken, aile büyüklerinin yaşlılık sorunlarının başlaması ile bu kez de onlarla daha yakından ilgilenme sorumluluğunu üstlenirler.<br />
+Bunlarla uğraşırken artık kendileri de yaşlanmıştır. Hastaneler, eczaneler sık ziyaret ettikleri yerler haline gelmiştir.<br />
+“Her dönemin güzelliği başkadır” Yaşam felsefesini içselleştirenler için bir kez daha kendilerine özgü yaşam şansı doğmuştur.<br />
+İnsanların yaşlılık psikolojisinden uzaklaşacakları ve yaşamlarını renklendirecek en önemli şey, torunlarının doğum haberidir.<br />
+Bu duyguyu ilk kez iki buçuk yıl önce tattım. Oğlumuz ile gelinimiz dünya tatlısı bir kız torun armağan ettiler. Ne var ki, görevleri nedeniyle yurt dışında olmalarından ötürü bu duyguyu kesintili yaşayabiliyoruz.<br />
+Buna rağmen, sabah uyanır uyanmaz odamıza gelip, “Dede kalk oynayalım” Diyerek yatağa çıkıp bir trapezci gibi zıp zıplaması her şeyi unutturmaya yetiyor.<br />
+Geçtiğimiz günlerde de çok güzel bir yeni yıl armağanı aldık. Bu kez de kızım ile damadımdan birbirinden güzel ikiz kız torun geldi.<br />
+Düne kadar arkadaşlarımdan duyduğum bir söz beni çok şaşırtırdı. Hangi arkadaşıma sorsam, eşinin şehir dışında yaşayan kızının veya oğlunun yanına torun bakmaya gittiğini söylerdi.<br />
+Ben de onlara, “Siz çocuklarınızı büyüttünüz, bırakın onlarda çocuklarını büyütsün, bu yaştan sonra siz de keyfinize bakın” Diye bir de ahkâm keserdim.<br />
+“Bekâra hanım boşamak kolaydır” Diye boşuna söylememişler. Dün arkadaşlarıma ahkâm kesen ben, bir gün bebişleri görmesem, ertesi gün görmeye gidiyorum. Hanım ise, eve arada bir uğrar oldu.<br />
+Şimdi yeni bir heyecan yaşıyoruz. Kulağımız yurt dışından gelecek telefonda. Kısmet olursa, bu ay içerisinde oğlum ve gelinimin ailemize katacakları erkek torun müjdesini bekliyoruz.<br />
+Bundan büyük mutluluk olur mu? Tanrım, bütün anne ve babalara, tabii dedelere, anneanneler ile babaannelere de bu mutluluğu yaşatsın.<br />
+Görünen o ki, bir süre daha yaşlılığı aklımıza getirmeyeceğiz.<br />
+Çocuk demek, gerçekten de yeni bir yaşam demekmiş. Tanrı bütün çocukları korusun. Onlara anne ve babaları ile birlikte sağlıklı ve uzun bir yaşam versin..<br />
+Ailemize bu mutluluğu yaşatan çocuklarımıza teşekkür ediyorum. Yolları açık olsun. Tanrım onlara da bu güzellikleri yaşatsın.<br />
+Bütün dünya çocuklarının mutlu olacağı bir dünya dileğiyle iyi haftalar..04. 01. 2015<br />
+Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0609-samsunspor-a-yapilanlar-ayiptir.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0728-multeci-sefaleti-ve-yapilan-yanlislar.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

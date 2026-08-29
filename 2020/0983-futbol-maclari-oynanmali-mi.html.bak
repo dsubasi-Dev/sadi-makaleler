@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Futbol Maçları Oynanmalı Mı.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Futbol Maçları Oynanmalı Mı.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2020
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0983
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>FUTBOL MAÇLARI OYNANMALI MI?<br />
+Yazımın başlığını “Futbol” Olarak koymuş olmamın nedeni, futbolun şu an da dünyanın en önde gelen spor dalı olmasıdır. Yoksa söz edeceklerim sadece futbol için değil, ikili temasın olabileceği her türlü spor dalı için geçerlidir.<br />
+Bilindiği gibi tüm dünya gibi ülkemizde de Corvid-19 salgınının neden olduğu Pandemi dönemi yaşanıyor.<br />
+Sağlık Bakanlığı Bilim Kurulu’nun raporlarını her akşam açıklayan Sağlık Bakanı’nın, salgının ülkemizde hızını giderek kaybettiğini söylediği son günlerin belki de en çok tartışılan konusu, Türkiye Futbol Federasyonu Başkanı’nın futbol liglerinin 12 Haziran’da başlatılacağı yönünde ki açıklamasıdır.<br />
+Tüm futbol tutkunu kişiler gibi futbol maçlarına ara verilmiş olmasından ciddi olarak etkilenmiş birisiyim. Gerek tuttuğum takım Samsunspor ’un maçlarına gidememek ve gerekse çoğu her erkek gibi hafta sonlarında oynanan maçları TV kanallarından seyredememek açık söylemem gerekirse, hafta sonları bende ciddi bir boşluk yarattı.<br />
+Kısaca özetlediğim futbol tutkuma rağmen, yaşanan Pandemi döneminin kesinlikle sona erdiği Sağlık Bilim Kurulu tarafından açıklanmadan başlatılacak olmasını aklım almıyor.<br />
+Neden almadığını özetlemek gerekirse;<br />
+Bilim Kurulunun Bilimsel Verileri nedeniyle.<br />
+Sağlık Bilim Kurulu adına Sağlık Bakanı bulaşı tehlikesinin devam ettiğini, bu nedenle kişilerle gerekli mesafeyi korumanın, temastan kaçınmanın ve maske kullanımının şart olduğunu her akşam TV kanallarından açıklıyor.<br />
+Hatta Sayın Bakanın bu kurallara özen gösterilmezse, yeni bir salgın dalgası ile karşılaşabileceğimizi açıkladığı bir dönemde, futbol liglerinin başlayacağının açıklanması kararı, nasıl bir ikilemdir, anlamak mümkün değil.<br />
+Futbol ve basketbol gibi oyuncuların korakor mücadele ettiği spor dallarında temasın engellenmesi mümkün değildir. Büyük bir mücadele gerektiren futbol maçlarında oyuncular solunumu güçleştiren maske ile mi oynayacaklardır?<br />
+Eğer, ligler yeniden başlarsa maç takviminin son haftalarının oynanacak olması nedeniyle, gerek şampiyonluk ve gerekse küme düşme mücadelesi tavan yapacaktır.<br />
+Böyle bir ortam da, futbolcuların atılacak bir gol sonrası birbirlerini sarmaş dolaş kutlamaması gerektiğini hatırlamalarını nasıl beklersiniz?<br />
+Kaldı ki, daha maçlar başlamadan bazı kulüplerin oyuncu, yönetici ve kulüp çalışanlarında Covid-19 bulgularının pozitif çıktığı haberleri basında yer almaya başlamıştır.<br />
+Bazı yönetici ve teknik adamlar da başından beri acele edilmemesi gerektiğini açıklıyor.<br />
+2-Sporcu Sağlığının Futbolun Ekonomik Çıkarlarına Feda Edilecek Olması.<br />
+Bu aceleci kararın verilmesinde futbol dünyasında dönen dudak uçuklatan para çarkının yeniden döndürülmek istenmesinin olduğu açıkça görülüyor. Kapitalist yaşamda paradan önemli bir şey olmadığını biliyoruz. Ama toplumun büyük bir kesiminin, sporcuların sağlığının ve onunla birlikte futbolun yara almasına izin vereceklerini sanmıyorum.<br />
+3-Siyasi İradenin Açık Tavır Koymamış Olması.<br />
+Gözüken o ki, maçların yeniden başlaması konusunda Sağlık Bilim Kurulu’nun da net bir kararı yoktur. Bana göre, aslında Bilim Kurulu’nun açık bir tavır koymayarak sorumluluğu TFF’ ne atmasının altında yatan neden de, maçların oynanmasına sıcak bakmamasıdır. Ne var ki, bu işin ekonomik tarafının baskısı nedeniyle, olumsuz bir karar açıklamayarak sorumluluğu futbolun patronuna bırakmaktadır.<br />
+Fakat beni asıl düşündüren şey, bu konuda Cumhurbaşkanı’nın da net bir açıklama yapmamış olmasıdır. (En azından ben bu konuda bir açıklama duymadım.) Çünkü hemen her akşam Sağlık Bilim Kurulu’nun verilerini açıklayan Sağlık Bakanı, iş toplumsal konuları ilgilendiren soruların sorulması üzerine, “Bu kararları Sayın Cumhurbaşkanı’nın açıklayacağını” söylemesi ve bugüne kadar da bütün önemli kararların Sayın Cumhurbaşkanı tarafından açıklanmış olmasına rağmen, Cumhurbaşkanlığı Makamından henüz futbol liglerinin başlaması ile ilgili resmi bir açıklama yapılmamıştır.<br />
+Hiç kimse TFF özerktir, kendi kararlarını kendisi verir diyerek kimseyi kandırmaz. Çünkü bu ülke de her şer şey gibi TFF’nin de nasıl özerk olduğunu bilmeyen yoktur.<br />
+Tüm bu değerlendirmelerimin ışığında, eğer ligler başlatılırsa bende sporcu sağlığının futbolun ekonomik çıkarları uğruna riske atılacağı izlenimi yaratacaktır.</p>
+<p>Samsunspor’un Şampiyonluk Durumu<br />
+Yukarıda açıkladığım nedenlerle futbol liglerinin başlatılmasında acele edilmemesi gerektiğini söylerken, bazı yanlış algılamaların olmaması için Samsunspor’un şampiyonluk konusuna da açıklık getirmek istiyorum.<br />
+Bilindiği gibi TFF’nin liglerin bu sezon liglerin kaldığı yerden 12 Haziran da başlatılması kararını açıklamadan önce ki çözüm önerileri içerisinde, liglerin başlatılmayarak ara verildiğinde lider olan takımların şampiyon ilan edilmesi ve küme düşmenin bu yıl için uygulanmaması vardı.<br />
+Bu kararın uygulanması halinde zaten açık ara lider olan Samsunspor şampiyon ilan edilecekti. Hemen belirtmek isterim ki, nasıl maçların salgın riski geçene kadar oynanmamasını istiyorsam, liglerin oynatılmayarak Samsunspor’un erken ilan edilecek Şampiyonluğuna da karşıyım.<br />
+Nedeni ise, Samsunspor’un bu formüle göre şampiyon edilecek olmasına rağmen, bir futbol sevdalısı olarak bunu içime sindiremeyecek olmamdır.<br />
+İşte nedenleri;<br />
+1- Samsunsporumuzun bulunduğu gurupta topladığı puanlarla açık ara zaten hemen hemen şampiyonluğu garantilediği bir durumda kalan maçlarını oynamadan kupayı kaldırmasını içime sindirememem.<br />
+Samsunspor yıllarca Süper Lig’de top oynamış, çok kez küme de düşmüştür. Ama her defasında inatçı mücadelesi ile tekrar Süper Lig’e çıkmayı başarmıştır.<br />
+Süper Lig’e her defasında nasıl alnının akı ile hiçbir tartışmaya neden olmadan çıkmışsa, küme düşerken de zaman zaman haksızlıklara ve rakiplerinin ayak oyunlarına rağmen hiçbir hiç bir yan yola başvurmamıştır.<br />
+İşte bu nedenlerle, Samsunspor’a gönül vermiş ve şu an da bu kulübün Divan Kurulu Başkanı olarak, maçlarını tamamlamadan bir kupa sahibi olmasını kabul edemem. Sanırım hiçbir Samsunsporlu da bunu kabul etmez. Bu savımı bir örnekle bağlamak istiyorum.<br />
+Yıllarca önce Fenerbahçe’nin şampiyonluğu ile sona 2010-2011 yılı Süper Lig dönemi, Trabzonspor ile Fenerbahçe arasında hala tartışılmaktadır. TFF tarafından Fenerbahçe’nin şampiyonluğunun tescil edilmiş olmasına rağmen Trabzonspor Camiası bu sonucu hala kabul etmediğini ve o sezonun gerçek şampiyonunun kendileri olduğunu iddia etmektedirler.<br />
+Dileğim ve beklentim, biraz geçte olsa Samsunsporumuzun kalan maçlarını oynayarak şampiyonluğunu ilan etmesidir.<br />
+2-Sezon başından beri başta Başkanımız Sayın Yüksel Yıldırım ve Teknik Direktörümüz Ertuğrul Sağlam olmak üzere sporcusundan, yöneticisi ve kulüp çalışanları ile taraftarına kadar tüm Samsunspor Camiası büyük çaba harcamıştır.<br />
+Bu nedenle, Samsunspor’un hak etmediği 2. Ligden 1. Lig’e çıkmayı hemen hemen garantilediği bir noktada doğru olan, müzesine hak ettiği kupayı tartışmasız bir şekilde götürmesidir.<br />
+Diğer yandan, maçların oynanmadan şampiyonların ilan edilmesi ve küme düşmenin uygulanmaması hiçte adil olmayacaktır. Aralarında kaç puan fark olursa olsun eğer matematiksel olarak 2 ve 3. Sırada ki takımların şampiyonluk şansı varsa, bu hakları ellerinden alınmış olacaktır.<br />
+SONUÇ ve ÇÖZÜM;<br />
+Tüm ligler, Sağlık Bilim Kurulu’nun salgın tehlikesinin geçtiğini açıklamasından sonra başlatılarak hızlandırılmış bir programla oynatılmalıdır. Liglere ara verildiğinde, liglerin tümünde sezonun kapanması için 5-6 hafta kalmıştı.<br />
+Maçlar temmuz veya ağustos aylarında hafta da iki maç oynatılarak tamamlanabilir. Yeni sezon da, kısa bir aradan sonra başlatılabilir. Benim 1964-1968 arasında ki üniversite öğrenciliğim yıllarında Lig maçları Çarşamba- Perşembe ve Cumartesi-Pazar günleri oynanırdı. Bir kez daha böyle bir programla ligler tamamlanabilir.<br />
+Tabii, sporcu sağlığının futbolun ekonomisinden daha önemli olduğu düşünülüyorsa, alınacak en doğru karar bu olacaktır.<br />
+Tüm dünya gibi ülkemizi de ciddi şekilde sarsan Covid-19 salgınının bir an önce son bulması dileğiyle, sağlıklı bir hafta diliyorum.<br />
+11.05.2020<br />
+Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0982-parti-sapkalari-cikartilarak-okunacak-bir-yazi.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0984-cumhuriyet-doneminin-devrimci-ruhunu-kaybediyoruz.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

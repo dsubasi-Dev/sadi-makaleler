@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Tek Adam İktidarları ve Gezi Parkı Eylemi.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Tek Adam İktidarları ve Gezi Parkı Eylemi.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2013
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0641
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>TEK ADAM İKTİDARLARI VE GEZİ PARKI EYLEMİ</p>
+<p>Beş gün önce Taksim Gezi Parkı’nda doğaya sahip çıkmak gibi çok masumane başlayan çevre eylemi bir anda tüm Türkiye çapında toplumsal bir öfkeye dönüştü.<br />
+Son yıllarda giderek artan ve son bir ay içinde dozu iyice kaçan lider odaklı baskılar, uyuşturulduğu sanılan toplumu ayağa kaldırdı.<br />
+Özellikle de toplumun yaşam tarzını uzlaşmadan uzak, dayatmacı yasalarla dinsel odaklı bir kalıba sokmaya yönelik uygulamalar, toplumun büyük bir kesimini patlamaya hazır hale getirmişti.<br />
+Bu konuyu irdelemeden önce, tek adam eksenli totaliter rejimlerle ilgili kısa bir analiz yapmak istiyorum. Sanıyorum bu analizime katılanlar, Gezi Parkı ile özdeşleşen toplumsal tepkiyi çok daha iyi algılayacaklardır.<br />
+Dünya tarihinin hemen hemen tüm dönemlerinde tek adam eksenli yönetilen ülkeler olmuştur. Bu ülkeler de bir şekilde iktidarı ele geçiren ve lider konumunda olan kişiler, zamanla her konuda karar veren tek kişi durumuna gelmiştir.<br />
+Bu liderler, diktatörlük yakıştırmalarını kabul etmeseler de uygulamaları ile tam da bu tarifin kahramanı haline gelmişlerdir.<br />
+İşin asıl düşündürücü yanı, bu tek adamların zaman zaman da seçimlerle iktidara gelmiş olmalarıdır.<br />
+“Tek Adam Yönetimlerinin” bence çok daha dikkat çekici yanı, bu tarz yönetimlerin hâkim olduğu ülkelerde yapılan her seçimi aynı “Tek Adamların” kazanması ve oy oranlarının da hiç bir zaman % 50’nin altına düşmemesidir. Bu Tek Adamların seçim kaybettiği de görülmemiştir.<br />
+Normal demokrasilerin uygulandığı ülkelerde hiç bir siyasetçi yaklaşan seçim öncesinde oy kaybetme endişesi ile radikal uygulamaları gündeme getirmez, bunları seçim sonrasına bırakır. Bu kuralın geçerli olmadığı tek rejim, seçim kaybetme korkusunun bulunmadığı Tek Adam Yönetimleridir.</p>
+<p>Gelelim Taksim Gezi Parkı ile başlayan toplumsal öfkeye;<br />
+Şimdi, “Tek Adamın” her gün rakibi olan siyasetçileri ve toplumun hemen tüm kesimlerini suçlayıcı ve sert bir üslupla konuştuğu bir ülke düşünün.<br />
+“Evet, ama yetmez” diyenlerin oyları ile güdümlü hale getirilen yargının aldığı kararlar dahi beğenilmeyip eleştirilsin.<br />
+İnsanların özel yaşamlarına ve onların kaç çocuk yapacağına karışılsın…<br />
+Sigara içimini azaltmaya yönelik çok doğru bir uygulamayı dahi, kişisel hırsa dönüştüren açıklama ve dayatmalar yapılsın…<br />
+İçki yasağını geçen yüzyılın uygulanıp başarılı olmayan dayatmalarına çevirip, içki içenler ayyaşlıkla suçlansın.<br />
+Halkın ilgi duyduğu dizilerde ki kıyafetlere kısıtlamalar getirilsin…<br />
+Bu ülkeyi işgalden kurtararak özgürlüğüne kavuşturan ve toplumun gönlüne yerleşen bir öndere dolaylı olarak da olsa, “ayyaş” denilebilsin…<br />
+Domuz bağı ile çok sayıda insanı katleden ve büyük ceza alması gereken canilerin bir şekilde serbest bırakılıp yurt dışına kaçmasına göz yumulsun...<br />
+Buna karşılık, bu Devlet politikaları ile teröristlere karşı ülkemizi savunan, başta bu ülkenin Genel Kurmay Başkanı olmak üzere yüzlerce general ve üst düzey subay, bilim adamı, gazeteci ve yazar suçu belli olmaksızın 3–5 yıldır cezaevinde tutulsun…<br />
+Toplumun benimseyerek kutladığı milli bayramların kutlanmasına kısıtlamalar getirilsin…<br />
+Toplumun sesi olan sivil toplum kuruluşlarından arka bahçe olmayı kabul edenlerin dışındakiler yok sayılsın…<br />
+Türk toplumunun çok önemsediği soygun ve talanlara göz yumulsun. Avrupa’nın mahkûm ederek “asıl suçlular Türkiye’de” dediği suçlular koruma altına alınırken, suçluları yargılayan yargıçlar görevden alınıp suçlansın…<br />
+Genel Başkanı olduğu partinin milletvekillerinin, belediye başkanlarının, hatta bakanlarının dahi fikrini söylemesi engellensin…<br />
+O lider, masum bir çevre tepkisinin bir anda boyut değiştirip tüm ülke de toplumsal bir öfkeye dönüştüğü ortamda dahi, olanları görmeyip, az sayıda ki yakın çalışma arkadaşlarının uyarılarını da dikkate almadan, inadına inadına AKM’ de yıkacağız, Taksim’e cami de yapacağız diyebilsin.<br />
+Bu da yetmemiş gibi, “Evinde oturan diğer % 50’ i zor tutuyorum” gibi son derece tehlikeli sözleri söyleyebilsin…<br />
+Kendisine oy vermeyen ve sayıları bu ülkenin % 50 si diye tanımlanan insanlarını temsil edenlere çapulcu diyerek aşağılasın…<br />
+Bu örnekleri çoğaltabilirsiniz. Çıkacak sonuç, bugün yaşanan toplumsal tepki olacaktır.<br />
+Sayın Başbakan’ın bu olayı doğru algılayamayan tavrı, kendi ekibinde de ciddi endişe ve değerlendirmelere yol açmıştır.<br />
+Sanıyorum gözden kaçırılan, bu ülkenin bu tür uygulamaların yapılabildiği bir Ortadoğu ülkesi olmadığı gerçeğidir.</p>
+<p>Bu olağanüstü gelişmenin öne çıkarttıkları.</p>
+<p>Ben de dâhil çoğumuzun, gözleri internetten başka bir şey görmüyor diyerek eleştirdiğimiz ve geleceğimiz adına endişe duyduğumuz gençlerin internetle Türkiye’yi ayağa kaldırarak, Atatürk’ün “Gençliğe hitabesinde” vurguladığı görevine sahip çıkmasıdır…<br />
+Dizilerle uyuşturulduğunu sandığımız halkımızın özgürlüğünün kısıtlanmasına izin vermeyeceğidir…<br />
+Bu ülkenin Cumhuriyet döneminde yarattığı milli değerlerin satılıp getirilerinin siyasi çıkarlar için kullanılmasını içine sindiremediğidir…<br />
+Dini kullanarak masum dindarları soyanları yargılayan hâkim ve savcıların görevden alınıp suçlu gibi yargılanmasının destek bulmadığıdır.<br />
+Cumartesi günü TBMM’de kürsüye çıkan BDP Milletvekili Hasip Kaplan’ın AKP sıralarına hitaben, ”Sizin söyleyecek tek bir sözünüz de yok mu? Nasıl milletvekilisiniz? Şeklinde ki sözlerinde yatan suskunluklardır.<br />
+Taksim Gezi parkı Projesine tepkiyle başlayıp yurt düzeyine yayılan toplumsal tepkinin boyutlarının, Sayın Başbakan’ın sık sık vurguladığı % 50 sınırını aşmasıdır.<br />
+Eylemlerin hedefinde siyasi iktidarın değil, bizzat Sayın Başbakan’ın oluşudur.<br />
+Bu tür en masum toplumsal tepki ortamlarını fırsat bilecek radikal gurupların pusuya yattığı gerçeğidir.<br />
+Liderinin hırs ve duygularını frenleme cesaretine sahip olmayan siyasetçilerin de, ortaya çıkan tabloda ki sorumluluklarıdır.<br />
+Tehlikeyi sezen Cumhurbaşkanı Sayın Abdullah Gül,  Sayın Bülent Arınç, Milli Eğitim Bakanı Sayın Nabi Avcı’nın ve İstanbul için asıl söz sahibi olması gereken Büyükşehir Belediye Başkanı Sayın Kadir Topbaş’ın alkışlanacak uyarılarıdır.</p>
+<p>SONUÇ:<br />
+Bir çevre duyarlılığı ile başlayıp tüm Türkiye’ye yayılan bu toplumsal tepki ile Türk insanı, Laik ve Çağdaş Cumhuriyetin kendine kazandırdığı hak ve özgürlüklerinden vazgeçmeyeceğini göstermiştir.<br />
+Demokrasinin tüm kuralları ile işlediği toplumlarda, oy üstünlüğünün her türlü kararı alıp uygulamak için yeterli olmadığı ve toplumsal uzlaşma diye bir siyasi kültürün de bulunduğu gerçeği hatırlatılmıştır.<br />
+Türk toplumunun sabrının zorlanmaması ve toplumsal hassasiyetlerine özen gösterilmesi gerçeği, çok daha belirgin hale gelmiştir.<br />
+% 50’ nin üzerinde halk desteği alan bir siyasi partinin sorumluluk alan diğer üyelerinin de, tüm yetkiyi tek kişiye bırakmak yerine, söyleyecek sözleri olması gereği hatırlatılmıştır.</p>
+<p>SON SÖZ…<br />
+Bu ülkede yaşayan tüm insanların milli, dini ve kültürel yaşamları konusunda hassasiyet gösterilmesi, öncelikle siyaset yapanların ilk görevi olmalıdır.<br />
+Bu olayları bazı kötü niyetli grupların ve ülkemize çok sayıda olduğu söylenen yabancı ajanların etkilemesine fırsat verilmemelidir.<br />
+Unutulmasın ki, bu ülkenin insanları tüm farklılıkları özümseyerek birlikte ve huzur içersinde yaşamayı becermiştir. Yeter ki, bu toplumsal uyuma kimse müdahale etmesin.<br />
+Umuyorum, toplumun verdiği mesaj doğru algılanacak ve siyasi otorite ortamı yumuşatarak bu büyük tepkinin sonlandırılmasını sağlayacaktır. İyi haftalar..<br />
+04. 06. 2013</p>
+<p>Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0640-hatay-i-zlenimleri-ve-reyhanli-olaylari.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0642-samsunspor-genel-kurulu-ve-sayin-suat-kilic-a-yazilan-mektup.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

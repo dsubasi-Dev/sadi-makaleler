@@ -1,0 +1,339 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Çöken Sağlık Politikaları ve Eczacıların Ölüm Dansı</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Çöken Sağlık Politikaları ve Eczacıların Ölüm Dansı
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2009
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0441
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>ÇÖKEN SAĞLIK POLİTİKALARI VE ECZACILARIN<br />
+ÖLÜM DANSI</p>
+<p>AKP Hükümeti 22 Temmuz 2007 Seçimleri öncesi sağlık alanında reform diye adlandırdığı bir dizi iyileştirmelere gitti. Özellikle sağlık güvencesi olanların ilaca kolay ulaşmasını sağlayan ve hastanelerde ki ilaç kuyruklarını sonlandıran uygulamalar toplum üzerinde son derece olumlu etkiler yaptı.<br />
+Koalisyon dönemlerinde birazda siyasi hesaplarla hak eden, etmeyen ayırt etmeden bol keseden dağıtılan yeşil kartlılardan alınan katkı paylarını da kaldıran uygulamalar, özel sağlık kurumlarının yaygınlaşmasına zemin hazırlanması ve bu kurumlarda muayene olmanın kolaylaştırılması, AKP’nin 22 Temmuz Genel Seçimlerinde ki büyük başarısının en büyük nedeni oldu.<br />
+Bu arada, son yılların en çok konuşulan konusu olan üç sosyal güvenlik kuruluşunun SGK adı altında birleştirilmesi de gerçekleştirilmiş ve toplumun tamamına yakını sosyal güvenceye kavuşturulmuştur.<br />
+Ne var ki, kaynağı bulunmadan genişletilen sağlık hizmeti ve sağlanan büyük kolaylıklar, Devletin sağlık bütçesine önemli yükler getirmiştir. Seçim endişesini atlatan hükümet zorunlu olarak bazı kısıtlamalara gitmeye başladı. İlk etapta eşdeğer ilaç uygulamasına geçilerek aynı doz ve aynı içerikli olan ilaçların en ucuzu üzerinden ödeme yapmaya başladı. Bu uygulama yıllardır kullandığı ve yararına inandığı ilaca fark ödemek zorunda kalan hastaların büyük tepkisine yol açtı. Bu arada yeşil kartlılara da katılım payı ödeme zorunluluğu getirildi. Son dönemler de ise, emeklinin ödediği katılım payının % 10’dan % 15 e, çalışanların ise % 20’den % 30’a çıkartılacağı konuşulmaya başladı.<br />
+Bu uygulamalara rağmen sağlık harcamalarında ki açık büyüyordu. Bunun üzerine sağlık harcamalarında çok önemli bir payı olan ilaç fiyatlarının ucuzlatılması için ilaç sanayicisi sıkıştırılmaya başladı. Sonuçta ilaç fiyatlarında kademeli olarak önemli düşüşler sağlandı. Bu uygulama ve ilaç fiyatlarının düşürülmesi bence, bu hükümetin başardığı en önemli işti.<br />
+Yıllardır eczacıların en çok yakındıkları ve her platform da gündeme taşıdıkları konu, ilaç fiyatlarının yüksek oluşuydu. Son uygulamalarla ilaca kolay ulaşılmasının sağlanmasının da etkisi ile Devletin sağlık bütçeleri altüst olmuştu.<br />
+İlaç fiyatlarının düşmesi, eczacıların cirolarına dolayısıyla da karlılıklarına olumsuz yansıyacak olmasına rağmen, Türk Eczacılar Birliği ülkemizin çıkarlarını öne çıkartarak 1970’li yıllardan beri, ısrarla ilaçların fiyatının yüksek olduğunu ve düşürülmesi gerektiğini savunmuştur. Bu nedenle ilaç fiyatlarının düşürülmesine hiçbir eczacının itirazı yoktur.<br />
+Bu arada gözden kaçan ve kimsenin endişe duymadığı bir konu, bir anda eczacıların kâbusu oldu. SGK adı altında birleşen üç önemli sosyal güvenlik kurumu ile diğer kamu kurumlarının sağlık hizmetini de üstlenen Devlet, bir anda ilaçta tek alıcı haline geldi.<br />
+Son yıllarda eczaneler çok önemli çeşitlerini yanlış politikalar ve değişen ekonomik koşullar nedeniyle kaybetmişti. Itriyat çeşitlerinin süper marketlere, veteriner ilaçlarının veteriner ilaç satıcılarına, bebek mamalarının da marketlere kaptırılmış olması nedeniyle, eczanelerin kasasına günlük nakit girişi de durmuştur. Açıkçası eczaneler kamu kurumlarına verdikleri ilaçlardan gelecek paraya bağımlı hale gelmiştir.<br />
+Görülen o ki, sağlık hizmeti alımında tekel haline gelen Devlet, sağlık hizmeti uygulamalarında yaptığı hesapsız açılımlarının cezasını çok zor şartlarda sağlık hizmeti veren eczacılara kesmeye başlamıştır.<br />
+Sağlık bütçesinde hızla artan açıkları kapatma telaşına düşen Hükümet, Türk Eczacılar Birliği ile anlaşma sağlamadan, çoğu kez görüş dahi almadan, dayatmacı bir anlayışla üst üste yayınladığı kararname ve genelgelerle eczacıyı nefes alamaz hale getirmiştir.<br />
+Son genelge ile dayatılan uygulamalar, eczacılar için hem onur kırıcı, hem de kabul edilemez boyutlara ulaşmıştır. Bu uygulamalar eczacıların seri halde iflasına yol açacaktır.<br />
+GELİNEN SÜREÇ, ECZACILARIN SON YILLARDA YAŞADIĞI, MESLEKLERİNİN ELLERİNDEN ALINARAK BAZI SERMAYE GRUPLARINA ( ZİNCİR ECZANELERE) VERİLECEĞİ ENDİŞELERİNİ DE DOĞRULAR NİTELİKTEDİR.<br />
+Son genelgeyle eczacıya dayatılan uygulamalar, vereceği büyük maddi kayıpların yanında, Devlet sağlık kurumlarının alması gereken muayene ücretleri gibi tahsilât işlerini de eczacıya yükleyerek, eczacıyı vatandaşla karşı karşıya getirmiştir. Bu eczacıya yapılan büyük bir haksızlık ve bir tür angaryadır. Angaryayı ise Anayasamız suç olarak kabul etmiştir.<br />
+18. 09. 2009 tarih ve 27353 sayılı resmi gazetede yayınlanarak 01. Ekim. 2009 Tarihinde uygulamaya giren “SAĞLIK UYGULAMA TEBLİĞİ” ile eczacıya dayatılanlara şöyle bir göz atarsak, bu haksızlığı açıkça görebiliriz.<br />
+Son uygulamalarla katılım payları, ilaçlarda yapılacak indirimler ve eşdeğer ilaçlar ile ilgili yapılan değişikler Eczacılar açısından ciddi bazı sorunları da beraberinde getirmektedir.<br />
+Son yıllarda ki uygulamalarla eczacıların yerine getirmesi istenen hizmetler, eczacılara çok büyük ek mali yükler getirmiştir. Kar oranları gittikçe azalan, buna karşı gerek bilgisayar donanımlarında ki zorunlu iyileştirmeler ve gerekse kalifiye personel istihdamının artırılmasının zorunlu hale gelmesi ile genel giderleri daha da artan eczaneler, yaşamsal sorunlarla karşı karşıya kalmıştır. Bu zor şartlarına rağmen eczanelerinin kar oranını yükseltmek gerekirken sürekli karlılıklarının budanması çoğu eczacıyı banka kredilerine mahkûm hale gelmiştir.<br />
+Bu son uygulamalardan sonra, çok daha ciddi parasal kayıplara uğrayacak olan eczanelerin sağlıklı hizmet vermesi iyice zorlaşacaktır. Son uygulama ile hastaların sağlık kuruluşlarına ödeyeceği muayene ücretleri artırılmış ve bu paraların eczaneler tarafından hastadan alınması zorunluluğu getirilmiştir.<br />
+Eczaneler tarafından hastalardan alınması istenen<br />
+zorunlu muayene ücretleri:<br />
+1- SGK Emeklisi aile hekimine         başvurduğunda          2 TL.<br />
+“          “     Devlet, Üniversite, Özel Hst.    “                    3 TL.<br />
+2-  “      Çalışanı Aile hekimliğine                     “                   2 TL.<br />
+“            “        Devlt. Hst. Üniversite Hst.     “                   8 TL.<br />
+“            “        Özel hastanelere                    “                   3 TL.<br />
+3- Yeşil Kartlılar aile hekimliğine                     “                   2 TL.<br />
+“         “       Devlet ve Üniversite Hst.     “                    8 TL.<br />
+Görüldüğü gibi özellikle özel hastaneye gidenlerin ödemesi gereken 15 TL’nin 12 TL.’nı özel hastane alacak, 3 TL.’nı ise eczane alacaktır. Özel hastane de 12 TL. Ödeyen bir hasta eczaneden de 3 TL. İstendiğinde, “Ben muayene parasını hastanede ödedim bu ne parası” diye, önceki bazı uygulamalarda olduğu gibi şiddetle karşı çıkmakta ve eczacı hasta ilişkileri gerginleşmektedir. Çoğu kez bu paralar hastalardan alınamamaktadır.<br />
+Hastaların sağlık kurumlarına ödemesi gereken muayene ücretlerinin eczaneler tarafından hastadan alınması dayatılmaktadır. Bu paralar alınsa da alınmasa da, eczane ödemelerinden kesilmektedir. Eczaneler kendi cirolarına yansımayan bu paralara doğal olarak kasa fişi de kesmemektedir. Bu bir mali suçtur ve Sağlık bakanlığı ile SGK eczanelere bunu dayatmaktadır. Bunun açıklamasını kim, nasıl yapar bilemiyorum.<br />
+Hükümet bu uygulaması ile bir yandan da fiş veya faturası verilmeden para toplanmasını zorunlu kılarak, eczacıyı mali suç işlemek zorunda bırakmaktadır.<br />
+Devletin kendi kurumlarına aldıracağı muayene parasının tahsilini eczacılara yükleyerek, eczacıları hastayla karşı karşıya getirmek en azından eczacılara hak etmedikleri bir angarya yüklemek demektir.<br />
+b- Kamu Kurum ıskontoları  % 11 olarak uygulanırken, bu kez<br />
+% 13 daha artırılmıştır. Bu ıskonto artışı eczanelerin karlılığını<br />
+daha da azaltacaktır. Ancak, çok daha büyük olumsuzluk,<br />
+eczaneler de bulunan ve vergisi de verilmiş eski fiyatlı<br />
+ilaçların değeri altında fatura ettirmeye zorlanmasıdır.<br />
+Bu eczanelere stoku oranında zarar olarak<br />
+yansıyacaktır. Bu haksızlık mutlaka düzeltilmelidir.<br />
+c- SGK‘nın bilgisayarla reçete kontrol sistemi de hala<br />
+düzenli çalışır hale getirilememiştir. Bu nedenle bazı<br />
+günler uzun süre reçetelerin bilgisayar girişi yapılamadığı için<br />
+eczaneler günlük cirolarını da yapamamaktadır.<br />
+d-  Katılım paylarının eczanelere geri dönüşümü düzenli olmadığı<br />
+gibi gelen paralarında hangi faturaları kapsadığı da<br />
+bildirilmediği için alacaklar eczaneler tarafından kontrol<br />
+edilememektedir.<br />
+Yukarıda ki sorunların da dışında ciddi sıkıntıları olan  eczanelerin adeta kendiliğinden teslim olması beklenmektedir. Türkiye’de 24000 eczane ve her eczane de dört personel bulunduğu düşünülürse, aileleri ile birlikte sayısı 150000 ulaşan bir meslek camiasını yok saymaya hiç kimsenin hakkı olamaz.<br />
+Yıllardır onuru ile halkına sağlık hizmeti yanında sağlık danışmanlığı hizmeti de veren eczacılar, bu dayatmalara bugüne kadar olduğu gibi meslek dayanışması içersinde karşı koymayı sürdürecektir.<br />
+Ancak, ülkeyi yönetenlerin de siyasi çıkarları uğruna böylesine dayatmacı ve ceberut uygulamaların demokratik ülkelerde yeri olmadığını bilmesi gerekir diye düşünüyorum.<br />
+İyi haftalar.. 04 Ekim 2009                            SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0440-kent-yoneticilerinin-toplumla-kavga-etme-hakki-olamaz.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0442-bu-kentte-olanlar-bu-kentin-kaderi-olamaz.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Lütfen Biraz Siyasi Ahlak</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Lütfen Biraz Siyasi Ahlak
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2004
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0120
+
+</div>
+
+
+<div class="article-content">
+
+<p>LÜTFEN BİRAZ SİYASİ AHLAK !</p>
+<p>Bir ülke düşünün. O ülkede siyasi partilerinden birisine sayısal artış gerektiğinde mecliste hemen bir hareketlenme başlamasın. Halkı tarafından adam yerine konup ülkenin yönetimi için Ankara'ya gönderilmiş , adına milletvekili! denen bazı insanlar çıkarları uğruna kendisine güvenenlere ihanet etmesinler. Böyle bir ülke düşünebiliyormusunuz? Ne yazık ki bu Ülke, benim ülkem. Üstelikte bu artık alışkanlık haline geldiği için her sıkışan iktidarın çekinmeden uygulamaya koyduğu yöntem oldu. Geçmişte bu yöntemlere karşı çıkan siyasi partiler ve liderleri zamanı gelince koydukları tavrı unuturlar. Biz vatandaş olarak kime güveneceğiz? Geçmişte yapılan yanlışlara tepki koyan toplum yeni arayışlara girip neredeyse tüm siyasi görüşleri sırayla iktidar yaptı. Sonuç yine hayal kırıklığı. Bu ülkenin insanlarını umutsuzluğa itmeye kimsenin hakkı yok. Eğer bu transferleri etik bulmuyorsak, bence giden kadar alanda aynı oranda suçludur. Geçmişte yaşanan milletvekili pazarları olayı bu işin hangi boyutlara geldiğinin en çarpıcı göstergesidir. Bu siyasi ahlaksızlığa kim dur diyecek? Sen taban tabana zıt bir partinin seçmenlerince meclise gönderileceksin. Seçim sonuçları senin partine denetleme görevini verecek. Sen kalkıp sana bu görevi verenleri satacaksın. AB ye girme hesapları yaptığımız sırada  meclis zan altında bırakılmıştır. Meclis hemen toplanmalı , bu milletvekili olma vasfını taşımayan zavallıları içinden atarak kendini aklamalıdır.<br />
+Yapılan kamuoyu yoklamalarında Türkiye'de güvenilen kurumlar içersinde siyasetçilerin ön sıralarda yer almadığı  görülmektedir. Bu dahi bir uyarı olarak algılanmıyorsa, durum gerçekten ciddi demektir. Seçime katılım oranlarının her seçimde eskiye oranla düşmesi bir raslantı değildir. Halk hızla güven kaybetmektedir. Siyasi yapı biran önce kendine çeki düzen vermelidir. Otokontrol görevi yapması gereken muhalefet partisine bakıyorsun o başka bir felaket. Kendi seçmeni dahi oy vermiyor. Bütün kamuoyu desteğini kaybetmiş. Kendi içersinde dahi tartışılır hale gelmiş bir genel başkan ve onun etrafını sarmış , ancak O varsa oralarda durabilecek bir sürü misyonunu tüketmiş insanla nasıl denge unsuru ve ülkenin geleceği için umut olacaklar?<br />
+Ülke ve kamuoyu geçmişte bakanlık yapma düzeyinde sorumluluk üstlenmiş insanların yüce divana gönderilmesi kararını tartışıyor. Kendini savunan bir bakanın sözleri tüyleri diken diken ediyor.''Bu gün bize , yarın size. Yol yapıyorsunuz''sözleri tehdit değilse anlamı nedir? Öte yandan haklarında önemli soygun suçlamaları bulunan bazı eski siyasi ve iş adamlarının dosyası zaman aşımına uğratılıyorsa bu ihanet değilse nedir? Hele hele bu dosyarın içersinde maliyenin başındaki günümüz bakanının da dosyası bulunuyorsa. Ve de, kararı temyiz ederek itiraz başvurusu yapan bakanlık hukuk danışmanının yaptığı itiraz , adı geçen bakanlık tarafından geri çekiliyorsa, bunu kimse açıklayamaz. Bu ülkede neler oluyor anlamak mümkün değil. Yazık, çok yazık..<br />
+Tüm bu yanlışlara dur diyecek yine bu toplum. Toplumun duyarsız hale gelmesi ürkütücü. Toplum bunu kökten çözecek bilince erişmeden de kolay gözükmüyor. Şu anda aklıma gelen ilk iş, bu iki milletvekilini meclise gönderen  illerin tepki koyması ve kendilerine ihanet eden bu milletvekillerini kentlerinde istenmeyen adam ilan etmeleri. Bu yanlışı yapanlara kent adına konacak tepki örnek olacak ve bundan sonra işe kalkışacakları da caydırıcıracaktır. Böylesine çirkin olayların yaşanmadığı günleri görebilmek dileğiyle iyi haftalar diliyorum..<br />
+SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0119-toplum-olarak-cagdasligin-neresindeyiz.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0121-sehitlerimize-saygili-olalim.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

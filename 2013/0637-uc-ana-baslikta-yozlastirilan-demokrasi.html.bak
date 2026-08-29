@@ -1,0 +1,336 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Üç Ana Başlıkta Yozlaştırılan Demokrasi…</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Üç Ana Başlıkta Yozlaştırılan Demokrasi…
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2013
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0637
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>ÜÇ ANA BAŞLIKTA YOZLAŞTIRILAN DEMOKRASİ..</p>
+<p>Paylaşma Kültüründen Yoksun Yöneticiler.</p>
+<p>Dönem, her konuda tek adamlığın prim yaptığı bir dönem..<br />
+İş o kadar rayından çıktı ki, yöneticiler yapacakları projelerini yönettikleri toplumun fikir önderleri ile paylaşmayı dahi yetkilerini paylaşmak gibi algılıyorlar.<br />
+Bu nedenle olsa gerek, tüm üst düzey yöneticilerin hemen hepsinde, “Ben yaptım oldu” anlayışı, “En iyisini ben bilirim” Önyargısı öne çıkmaya başladı.<br />
+Bu tavır, ülkemizde sıkça görülen “Tek adamlık” gibi demokrasi ile bağdaşmayan bir bencilliktir.<br />
+Tek adamlık, bir anlamda diktatörlük demektir.<br />
+Tek adamlık, kişisel hataların topluma yansıması demektir.<br />
+Tek adamlık, demokrasi inancının bittiği noktadır.<br />
+Tek adamlık, yapılan yanlışların faturasını topluma ödetmektir.<br />
+Tek adamlık, yönetilenlerin söz hakkının olmadığı düzendir.<br />
+Tek adamlık, “Ortak aklın” önemini yitirdiği çağ dışı yönetim şeklidir..<br />
+Tek adamlık, “Akıl akıldan üstündür” kuralının anlamını yitirdiği bencilliktir.<br />
+Özet olarak söylemek gerekirse, paylaşma kültüründen yoksun yöneticilerin iş başında olduğu toplumlar, her türlü yanlışı ve dayatmayı sineye çekmeye mahkûm edilmiş demektir.</p>
+<p>Siyaset Yapma Korkusu,</p>
+<p>Toplumumuzda yeni bir korku geliştirilmeye başladı.<br />
+Siyaset yapmak öcü gibi gösteriliyor.<br />
+Aileler ve üniversite yönetimleri çocuklarına ve öğrencilerine siyaset yasağı koyuyor.<br />
+Hak arama da, beğenmediklerini söze ve yazıya dökerek toplumla paylaşmakta bir siyasettir.<br />
+Asıl kötü olan, bunu kötü bir şey olarak göstermektir.<br />
+Yönetim gücünü eklinde bulunduranların yaptığı yanlışlar söylenemezse, yanlışlar nasıl görülebilir? Yanlıştan nasıl dönülebilir?<br />
+Yapılanları beğenmeyip yanlışları söylemek için sokağa çıkıp yürüyüş yapanlar biber gazı ile perişan edilirse, gözaltına alınıp tutuklanırsa, yanlışlar nasıl bilinecek ve giderilecektir.<br />
+Düşüncelerini yazanlar tutuklanır ve suçları belirlenmeksizin yıllarca cezaevlerinde yaşamaya mahkûm edilirse, “Korku düzeni” kurulmuş demektir.<br />
+Korkunun hâkim olduğu toplumlar, kötü yönetilmeye ve demokratik haklarını kullanamamaya mahkûmdurlar.<br />
+Siyaset korkusu, bir toplumun yaşayacağı en büyük felakettir.</p>
+<p>Sivil Toplum Kuruluşları ve Siyaset,</p>
+<p>Sivil toplum kuruluşlarını tarif ederken en çok kullanılan tanımlama, onların çağdaş demokrasilerin vaz geçilmez kuruluşları olduğudur.<br />
+Sivil toplum kuruluşları ( STK ), toplumların sözcüleridir. Onlar tüzüklerinde belirlenen hizmetlerin yanında, içinde yaşadıkları toplumun yararına projeler üretmek ve görüş belirtmekle de yükümlüdür.<br />
+Bu, toplumsal bir sorumluluktur.<br />
+Son dönemlerde toplumda oluşan siyaset yapma korkusu, sivil toplum kuruluşlarını susturmak için kullanılan en büyük silah haline gelmiştir.<br />
+Sivil toplum kuruluşlarını siyaset yapmakla suçlamak için onların bir siyasi parti ile yakınlaşmış olması gerekir.<br />
+Üzülerek söylemek gerekirse, bazı sivil toplum kuruluşları bu yanlışı yapıyor ve adeta bir siyasi partinin arka bahçesi gibi çalışıyorlar. Bu tür siyasallaşmak tabii ki, sivil toplum kuruluşları açısından çok büyük yanlıştır.<br />
+Yine üzülerek söylemek gerekirse, bu dönem de bu tür STK sayısında artış olmuş, hatta sırf bu amaçla iktidarı her koşulda desteklemek ve getirilerinden yaralanmak için kurulmuş STK’ların sayısı artmıştır.<br />
+Bu tür STK anlayışı yüzünden, hiçbir siyasi bağımlılığı olmayan STK’ları kent ve ülke sorunlarından uzak tutmaya çalışmak ve onları baskı altına alarak görevlerini yapamaz hale getirmek, STK’ları bitirmek demektir.<br />
+Mimarlar Odası, Şehir plancılar Odası, inşaat Mühendisleri ve Çevre Mühendisleri Odası yöneticilerinin yaşadıkları kentlerin doğru imar edilmesinde, çevre ve planlara uygun çalışmaların yapılması konusunda söz söylemeleri, yol göstermeleri ve yanlışları eleştirmesi siyaset yapmak değil, tam tersine görevleri olarak algılanmalıdır.<br />
+Tabipler Odası’nın da, toplumun sağlığına yönelik gördüğü yanlışları gündeme taşıması asli görevidir. Bu anlayışta ki Tabip Odalarını siyaset yapmakla suçlamak demokrasi adına yapılacak büyük bir yanlıştır.<br />
+Sam-Sev gibi Samsun için kurulmuş ve Samsun’un sorunlarını gündeme getirmek, Samsun için bir simge olan 19 Mayıs’ı ülke içi ve dışında yaşatmak, bu konuda sempozyumlar düzenlemek, Samsun’un tanıtımını yapmak, bu konuda ki eksikleri ve  yapılacak yanlışları tartışmaya açmak gibi bu kent için çok önemli görevler üstlenmiş bir sivil toplum kuruluşunun, bunları yapmayı siyasallaşmak gibi algılaması ve de bu görevinden kaçınması veya böyle algılanması kabul edilemez..<br />
+Bu kuruluşların kentle ilgili bu görevleri yapmaması veya bundan kaçınması için telkinlerde bulunmak, bu kuruluşların var oluşlarının nedenlerini ve amaçlarını tartışmaya açmak demektir.<br />
+Kent ve toplumun çıkarlarını korumaya yönelik söylem ve yaptırımlarla, siyasi partilerin arka bahçesi anlamında ki siyasallaşmanın karıştırılmaması gerekir.<br />
+Bu tür görevlere talip olanların yeri gelince kent ve toplum çıkarları için siyasi iktidarlarla ve kent yöneticileri ile görüş ayrılığına düşmesi de siyasallaşmak değildir.<br />
+Bu tür sorumlulukları göze alamayanların da, böyle önemli sivil toplum kuruluşlarında görev almamaları gerekir.<br />
+Aksi halde, bu tür sivil toplum kuruluşları sembolik tabela derneklerinden birisi olmaya mahkûmdur.<br />
+Bu ülke ve bu kent bizim diyenlerin doğrulara sahip çıkarken, yanlışlar için de söyleyecek sözü olmalıdır.<br />
+İyi haftalar.. 12. 05. 2013</p>
+<p>Ecz. SADİ SUBAŞI</p>
+<p>Siyasetle uğraşmak istemeyen aydınları<br />
+bekleyen korkunç son,<br />
+cahiller tarafından yönetilmektir.</p>
+<p>ARİSTO</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0636-lutfen-biraz-edeb-biraz-saygi-ve-biraz-i-nsaf.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0638-emeki-ler-i-cin-hobi-bahceleri.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

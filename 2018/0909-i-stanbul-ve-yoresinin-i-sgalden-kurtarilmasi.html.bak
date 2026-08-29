@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>İstanbul ve Yöresinin İşgalden Kurtarılması</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+İstanbul ve Yöresinin İşgalden Kurtarılması
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2018
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0909
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>İSTANBUL VE YÖRESİNİN KURTARILMASI,<br />
+TÜRKİYE’NİN GELECEĞİNİN KURTARILMASI DEMEKTİR.<br />
+İstanbul gerek 15,3 milyon nüfusu ve gerekse sahip olduğu tarihi ve doğal güzellikleri ile bir dünya kentidir.<br />
+İstanbul, sadece nüfus açısından dünyanın 129 ülkesinden daha büyük bir kent konumundadır.<br />
+İstanbul ve yöresinin, milli hasılaya katkısı da tüm Türkiye’nin sağladığı milli hasıladan çok daha fazladır.<br />
+Kısacası İstanbul ve yöresi, Türkiye demektir.<br />
+Peki ülkemiz için böylesine önemi olan bu dünya kenti ile yöresini gelecek açısından koruyabiliyor muyuz?<br />
+Bu soruya cevap verebilmek için İstanbul ve yöresinin giderek artan risklerini ve bu riski artıran olguları değerlendirmek gerekir.<br />
+İstanbul’un demografik yapısına baktığımızda bu kentte yaşayan 15 milyon insanın sadece 2 milyonunun İstanbul doğumlu olduğunu görüyoruz<br />
+İstanbul doğumlu olan 2 milyonun dışında kalan 13 milyonu, Anadolu’nun çeşitli kentlerinden iş umuduyla gelenler oluşturmaktadır.<br />
+Diğer kentlerden gelerek İstanbul’da yaşayanların geldikleri illere bakıldığında da çok çarpıcı sonuçlar ortaya çıkıyor.<br />
+Bunların 3.5 milyonunu, Doğu ve Güneydoğu Anadolu Bölgesi illerinden gelenler oluşturuyor. (Sivas 741, Malatya 398, Erzurum 392, Erzincan 302, Ardahan 242, Siirt 214, Mardin 212, Bitlis 202, Diyarbakır 192, Adıyaman 180, Van 179, Ağrı 166, Elâzığ 145 bin)<br />
+3.1 milyonunu da Karadeniz Bölgesi illerinden gelenler oluşturuyor. (Kastamonu 553, Giresun 488, Tokat 463, Samsun 422, Sinop 371, Rize 298, Amasya 175, Çorum 172, Çankırı 162 bin)<br />
+Geriye kalan 6,5 milyon insan da Türkiye’nin diğer illerinden gelmiştir.<br />
+İstanbul’un çevresinde bulunan beş ilin nüfusu ise, 7 milyonu bulmaktadır. (Bursa 3 milyon, Kocaeli 1,9 milyon, Tekirdağ 1 milyon, Sakarya 990 bin, Yalova 251 bin)<br />
+Özet olarak söylemek gerekirse, Türkiye’nin 81 milyon olan nüfusunun yaklaşık ¼ ‘ünden fazlası (22 milyon), İstanbul ve çevresinde ki beş ilde yaşamaktadır.</p>
+<p>BÖYLESİNE ÖNEMLİ VE ÇOK İNSANIN YAŞADIĞI BU BÖLGENİN<br />
+RİSKLERİ NELERDİR?<br />
+Bu riskleri iki ana başlıkta inceleyebiliriz;<br />
+Bölgede çok büyük bir deprem beklentisi bulunuyor.<br />
+Bölgenin stratejik önemi çok büyüktür.<br />
+DEPREM RİSKİ;<br />
+Başta Kandilli Rasathanesi’nin değerli bilim adamları olmak üzere, tüm ulusal ve uluslararası deprem bilimcilerinin araştırmaları, çok büyük can ve mal kaybına yol açacak bir depremin yaklaşmakta olduğunu ortaya koymaktadır.<br />
+Bunun anlamı, önümüzde ki 10-20 yıl içerisinde (Belki daha da yakın bir zamanda) olması beklenen bu depremde, başta İstanbul olmak üzere Trakya ve Marmara Bölgesi illerinde çok büyük çapta bina yıkımlarının ve çok büyük sayılarda can kaybının yaşanacak olmasıdır.<br />
+STRATEJİK BÖLGE OLMA RİSKİ;<br />
+İstanbul ve Karadeniz’ i uluslararası sulara bağlayan İstanbul ve Çanakkale Boğazının stratejik özellikleri tüm zamanlarda çok önemli olmuştur.<br />
+Ortadoğu’da süregelen iç savaşlar ve bu bölge üzerinde çıkar hesapları olan ABD ve RUSYA’ nın giderek gerdikleri ortamın neden olabileceği 3. Dünya Savaşında, boğazlar ve İstanbul stratejik anlamda çok büyük önem kazanacak ve bu da İstanbul ve çevresi için büyük bir tehdit oluşturacaktır.</p>
+<p>İşte böylesine iki önemli tehdit altında ki İstanbul ve yöresin de hala sürdürülen akıl almaz yanlışlar, önümüzde ki yıllarda sadece İstanbul ve yöresini değil, tüm ülkemizi de büyük sorunlarla karşı karşıya bırakacak düzeye gelmiştir.<br />
+İlk büyük yanlışı, neredeyse Türkiye’nin tüm sanayi yatırımlarının Kocaeli-Sakarya, Bursa-Yalova ve İstanbul-Tekirdağ üçlüsünden oluşan son derece dar bir bölgede yapılmasına göz yumarak yapmışız.<br />
+Hadi savaş tehlikesini bir yana bırakalım ama yaklaşan büyük deprem de bu bölge söylendiği gibi büyük bir yıkıma uğrarsa, Türkiye’nin sanayi üretimi ve ekonomisi çökecektir.<br />
+Son derece yanlış bir uygulama ile sanayi kuruluşlarını Anadolu’ya yayamadığımız için Anadolu insanını kendi yöresinde iş sahibi yapıp, doyuramadık.<br />
+Bunun yanında özellikle son on yılda tarım politikalarında yapılan yanlışlarla köylümüze rüşvet gibi dağıtılan dönüm başı paralarla, köylümüze adeta “Sen pahalıya üretiyorsun, al paranı otur, tarlanı da ekme” Denmiştir.<br />
+Bu yanlış, dün kendisine yeten yedi ülkeden birisi olan ülkemizi, artık buğday dahil her türlü temel gıda maddesini ithal eden bir ülke haline getirmiştir.<br />
+Bu uygulamalarla tarlasından kopartılan Anadolu köylerinin gençleri, iş umuduyla İstanbul’a göçmüştür. Köyler boşalırken, İstanbul’un hızla artan nüfusu İstanbul’u yaşanamaz hale getirmiştir.<br />
+Bir yandan elde kalan son yeşil alanlar vahşice beton yığınına çevrilirken, çok sayıda yeni yollar, tüneller, geçitler, kavşaklar yapılmasına rağmen kent içi trafiği çalışamaz hale gelmiştir.<br />
+Yazımın ilk bölümünde belirttiğim gibi İstanbul ve çevresinde ki altı ile yığılan nüfus, 22 milyona ulaşmıştır. Türkiye nüfusunun 1/ 4’ ünden fazla olan bu insanların içinde Türkiye’nin sanayi üretimini yapan yetişmiş kadroları da vardır.<br />
+İşte böyle bir ortamda yaklaşan büyük bir deprem veya çıkacak bir savaşta bu bölgemizin göreceği zarar, ülkemizi akla hayale gelmeyecek olumsuzluklarla karşı karşıya bırakabilecektir.<br />
+ÇÖZÜM;<br />
+Acilen İstanbul ve yöresinde ki sanayi bölgelerini kurtaracak özel bir yasa çıkartılmalıdır.<br />
+Başta İstanbul-Tekirdağ yöresi olmak üzere, Kocaeli- Sakarya ve Bursa-Yalova yöresine yığılan sanayi kuruluşlarının en az yarısının bir plan dahilinde Anadolu illerine kaydırılması sağlanmalı, daha da önemlisi bugünden itibaren bu üç bölgeye sanayi tesisi kurulması engellenmelidir.<br />
+Bu sadece İstanbul kurtarılması için değil, ülkemizin geleceğini de güvenceye almak için şart olmuştur.<br />
+Umarım ülkemizi yöneten kadrolarda bu tehlikeyi ciddiye alır ve bu konuyu gündemlerine alırlar.<br />
+Güzel günler yaşayacağımız bir hafta dileğiyle. 26.03.2018<br />
+Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0908-atayolu-projesi-tartismalarla-yipratilmamalidir.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0910-dinimiz-uzerinde-baslayan-tartismalar-buyuyor.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

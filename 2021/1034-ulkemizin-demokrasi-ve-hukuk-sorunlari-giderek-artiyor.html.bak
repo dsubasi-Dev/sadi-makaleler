@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Ülkemizin Demokrasi ve Hukuk Sorunları Giderek Artıyor</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Ülkemizin Demokrasi ve Hukuk Sorunları Giderek Artıyor
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2021
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+1034
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>ÜLKEMİZİN DEMOKRASİ VE HUKUK SORUNLARI<br />
+GİDEREK BÜYÜYOR.<br />
+Eğer, bu ülkede hukuk kurumu kararlarını ülkenin Anayasası’na göre veremiyorsa,<br />
+Eğer, hâkimler bazı önemli davaların kararları için siyasi iradeden işaret bekliyorsa,<br />
+Eğer, yasalar askıya alınmışsa,<br />
+Eğer, Sayıştay’ın hazırladığı raporlar hakkında işlem yapılmıyorsa,<br />
+Eğer, ülkenin halk adına karar merci olan TBMM işlevsiz hale getirilmişse,<br />
+Eğer, toplumu aydınlatmakla görevli olan yazılı ve görsel basının çok büyük bir kısmı doğruları değil de, siyasi iktidarın istekleri doğrultusunda yayın yapıyorsa,<br />
+Eğer, çağdaş toplumların haberleşme aracı olan sosyal medya için beka gerekçesi ile kısıtlayıcı yasalar çıkartılmak isteniyorsa,<br />
+Eğer, bir ülkenin önemli bakanlıkları bazı tarikatların kadrolaştığı yerler haline gelmişse,<br />
+Eğer, 15 Temmuz Darbe kalkışmasıyla bir terör örgütü olduğu anlaşılan ve o güne kadar siyasi iktidar için en geçerli tarikat olan Fetullah Tarikatı’nın yerini bugün başka tarikatlar almış ve aynı şekilde devlet içinde kadrolaşıyorsa,<br />
+Eğer, dinimiz ahlaklı ve adil toplum yetiştirme amacından uzaklaşarak, siyasi iradeye destek verme aracı haline getirilmişse,<br />
+Eğer, en üst din kuruluşu olan Diyanet İşleri Başkanlığı da siyasete bulaşarak, bu ülkenin kurucularına hakaret edebiliyorsa,<br />
+Eğer, köy okulları kapatılarak köylerde aydınlanma görevi de yapan öğretmenler köylerden uzaklaştırılıyor ve köy halkı cami imamları ile yönlendiriliyorsa,<br />
+O ÜLKE DEMOKRASİDEN, HUKUK DÜZENİNDEN UZAKLAŞIYOR VE ÖZGÜRLÜKLERİNİ YİTİRİYOR DEMEKTİR.</p>
+<p>Eğer, bu ülke Amerika’nın bölgemizde ki çıkarlarını artırmak için Irak’ı düzmece senaryolar ile işgal etmek üzere Türkiye üzerinden asker sokma talebine onay vermeyen Ecevit Başkanlığında ki Koalisyonun nasıl dağıtıldığını görmezden gelmişse,<br />
+Eğer, Ecevit Koalisyonundan sonra iktidara gelen AKP İktidarının Amerika’nın bu istekleri doğrultusunda TBMM’ ne getirdiği, “Türk askerinin yabancı ülkelere gönderilmesi ve ABD askerlerinin Türkiye topraklarında bulunmasına izin verilmesi” Konusunda ki Başbakanlık Tezkeresi’nin, 01 Mart 2003 de TBMM’de ret edilmesinden Türk Genel Kurmayını sorumlu tuttuğu göz ardı edilmişse,<br />
+Eğer, bu ülke tarikatlara teslim olmuş ve ülkenin laik ve çağdaş çizgisinden kopartmaya çalışan bu tarikatların, bölgemizde ki amaçlarını gerçekleştirebilmek için Türk Ordusunu engel gören ABD ile birlikte hareket ettiği görülemiyorsa,<br />
+Eğer, bu ülke yönetimi kendi ordusunun komutanlarının terörist suçlaması ile yargılanarak mahkûm edilmesine ve ordunun vatansever subaylarının ordudan uzaklaştırarak yerlerine yukarıda anlattığım Amerika ajanı Fetö Örgütü tarafından eğitilmiş subayların yerleştirilmesine ve devletin bekası için çok önemli gizli belgelerin korunduğu kasaların açılarak gizli belgelerin yabancı ajanların eline geçmesine seyirci kalıyorsa,<br />
+BU ÜLKENİN, BUGÜN İÇ VE DIŞ İLİŞKİLER KONUSUNDA İÇİNE DÜŞTÜĞÜ VE ÇÖZÜMÜ ÇOK ZOR GÖZÜKEN SORUNLARI YAŞAMASI KAÇINILMAZDIR.<br />
+Eğer, bir ülke düne kadar kendi topraklarında yetişen temel gıda ürünleri olan buğday, mısır, şeker, arpa, tütün, mercimek, büyükbaş, küçükbaş hayvan yetiştiricilerini desteklemek yerine bunları dış ülkelerden ithal ederek kendi köylüsünü tarımdan ve hayvancılıktan kopartarak halkını üretkenlikten uzaklaştırarak fakirleştiriyorsa,<br />
+BU YÖNETİM TARZI, ÜLKESİNİ DIŞ BORCA BATIRIRKEN HALKINI YOKSULLUĞA VE FIRSATÇILARIN ÜLKE KAYNAKLARINI TALAN ETMESİNE MAHKÛM EDİYOR DEMEKTİR.<br />
+SONUÇ;<br />
+Yukarıda anlatmaya çalıştığım sorunlar ve göz ardı edilen olaylar sonunda, ülkemiz tüm komşuları ile kabul edilemez anlaşmazlıklar yaşamaya başladı.<br />
+Son günlerde buna bir de, AB ülkesi olma iddiasında olan ülkemizin hukuk dışı uygulamalarını ve AİHM’ nin kararlarını dahi uygulamamasına tepki gösteren ABD, Fransa, Almanya, Hollanda, İsveç, Norveç, Finlandiya, Danimarka, Kanada ve Yeni Zelanda’nın Ankara Büyük Elçileri hadlerini de aşarak bir uyarı açıklaması ekleniyordu.<br />
+Bu açıklamaya çok sert tepki gösteren Sayın Cumhurbaşkanı, Dış İşleri Bakanımıza bu on Büyük Elçinin “İstenmeyen adam ilan edilmesi” Talimatı veriyordu.<br />
+Ülke olarak en çok ticari ilişkilerimizin olduğu bu 10 ülkeye karşı konulan sert tepkinin, Bakanlar Kurulu ve Dışişleri Bakanlığı ile yapılan bir değerlendirme sonrası yapılmamış olması da, şu anda ülkemizde yaşanan “Tek Adam Yönetimi” sıkıntısını göstermektedir.<br />
+Hiç olmazsa ülkemizde yaşanan böylesine önemli sorunların, TBMM’ de tüm siyasi partilerin ortak görüşleri doğrultusunda çözülmesi umuduyla, güzel ve sorunsuz bir hafta diliyorum. 25.10.2021<br />
+Ecz. SADİ SUBAŞI</p>
+<p>e- http://www. hedefhalk. com</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="1033-catalcam-taflan-derekoy-sahil-yolunu-resmen.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="1035-osmanlidan-cumhuriyete-giden-surec.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

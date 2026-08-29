@@ -1,0 +1,309 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Atakum&#x27;a Yakışmayan Görüntüler ve Karadenizin İntikam Alışını Seyre Devam…</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Atakum&#x27;a Yakışmayan Görüntüler ve Karadenizin İntikam Alışını Seyre Devam…
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2008
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0378
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>ATAKUM’A YAKIŞMAYAN GÖRÜNTÜLER VE<br />
+KARADENİZ’İN İNTİKAM ALIŞINI SEYRE DEVAM.</p>
+<p>ATAKUM’A YAKIŞMAYAN GÖRÜNTÜLER:</p>
+<p>Son yıllarda kent merkezi iyice sıkışan Samsun’un kurtuluşu olarak görülen ve çok hızlı bir gelişme gösteren Atakum, aynı zamanda Samsun’un turizm beldesi olarak da görülmeye başlamıştır. Başlangıçta iyi bir planlama ile Samsun’un gözde mekânı haline gelen Atakum’u üç bölüme ayırarak değerlendirmek gerekir.<br />
+Birincisi, güney yönünde yer alan, yani Bafra-Samsun Karayolunun arkasında kalan kısmıdır. İkinci kısım bu karayolunun iki yanında yer alan iş merkezleri ve mesken olarak yapılan çok katlı binalardan oluşan kısmı olup, burası aynı zamanda Atakum’un vitrinidir. Üçüncü kısım ise Atakum’un deniz tarafında yer alan ve Menderes Bulvarı olarak bilinen sahil bölümüdür. Burası sadece Atakum için değil Samsun içinde çok önemlidir. Gelecek yıllarda küresel ısınmanın daha artacağı varsayılarak, Karadeniz Sahillerinin önümüzdeki yıllarda turizmin gözdesi olacağı söylenmektedir.<br />
+Böylesine önemli bu beldemiz, raylı sisteminde bu bölgeden geçmesi ile daha da kıymetlenecek ve tam anlamı ile getirim alanı haline gelecektir. Bu Atakum için tehlike demektir. Zaten Atakum’un ayrı bir belediye haline gelmesi ile birlikte ilk başta ki planlanan yapılaşma da ciddi sapmalar olmuş ve özellikle karayolu üzerinde çeşitli söylentileri de arkasından getiren bazı çok katlı binalara izin verilmiştir.<br />
+Benim asıl üzerinde durmak istediğim kısım Atakum Sahil’i ve bu bölgede ki yapılaşmadır. Havaların da güzel gitmesi ile Ramazan’ı ailece Taflan’da geçirdiğimiz için, her akşam Samsun’dan o yöne araç kullanmak zorunda kaldım. Özellikle iftara yakın saatlerde trafik tam bir felaket oluyor. O nedenle Liman Kavşağından itibaren Menderes Bulvarı’nı tercih etmeye başladım. Menderes Bulvarı’ndan zaman zaman geçmiş olsam da, bir baştan sonuna kadar gitmemiştim. Akşam sakinliğinde, biraz da insan kalabalığının olmamasından yaralanarak etrafı rahat seyretme fırsatı buldum. Üzülerek söylemem gerekirse çok umutlu olduğum bu sahilde ki çelişkiler beni şaşırttı. Çevik Kuvvet Merkezinden Yeşilyurt Alışveriş Merkezine kadar olan kısmın hem kumsalı, hem de karşı tarafı çok özensiz bir görüntü sergiliyor. O güzelim kumsalda yaygınlaşmış yabani bitki örtüsü, ne olduğu belli olmayan çirkin görüntülü kulübe ve büfeler ile etraflarını çevirdikleri branda ve üzerinde reklâmlar bulunan özensiz panolar bu güzelim sahilin ilk bölümünü olabildiğince sevimsiz hale getirmiş.<br />
+Yeşilyurt’tan önceki ve sonraki bir bölümün kara tarafında yer alan kafe ve restoranlar gerçekten çok güzel bir görüntü sergiliyor. Burasının yaz aylarında gençlerin gözde mekânı olduğunu biliyorum. Bu bölgenin de sahil tarafı felaket.<br />
+Biraz ileri de ise çok güzel yol düzenlemesi ile karşılaşıyorsunuz. Bu bölgede güzel ve beğeni toplayan yapılar da yer alıyor. Sahil kısmı da oldukça düzenli. Ancak bu güzellik çok uzun sürmüyor. Tüm sahil yolu bir an önce bu şekle getirilerek salaş ve döküntü yerler kaldırılmalıdır. Kumsal temizlenmelidir. Yer yer yapılmış olan duş ve şemsiyeli alanlar genişletilirse, bu bölge gerçek bir turistik mekân haline gelir.<br />
+Atakum ve biraz daha ilerisinde yer alan Atakent bölgesinde daha da yaygın olan bir soruna da değinmek istiyorum. Yıllarca evde köpek beslemiş bir hayvan sever olarak, köpek tutkusu olarak benim dahi kabullenemediğim bir umursamazlık var. Son yıllarda pittbul, Sibirya Kurdu, doberman, rotvayler cinsi büyük ve insanı ürküten köpek beslemek moda oldu. Meskûn bölgeler dışında, çiftlik türü yerlerde beslenmesine bir diyeceğim olamaz. Ama insanların tatil yaptığı, yürüyüş ve spor yaptığı yerlerde bunları tasma ile dahi olsa dolaştırmak sakıncalıdır. Bazı insanların köpek fobisi vardır. Ayrıca bu köpeklerin hiç beklenmedik anda tasmalıyken dahi yanından geçene saldırabildiği bilinmektedir. Denetim yapılmaması nedeniyle bu tür bazı köpek sahipleri iyice fütursuzlaşmış ve köpeklerini serbest bırakmayı alışkanlık haline getirmişler. Bu köpeklerin korkusundan yaz boyunca yürüyüş yapamayan, hatta denize gidip gelmekte zorlanan çok sayıda yakınma dinledim.<br />
+Geçen hafta sonu Taflan’da ikisi pittbul beş altı köpeğin saldırısına uğrayan genç bir bayanı yardımına gelenler dahi kurtaramamış, ancak aracı ile oradan geçen bir vatandaşın köpekleri tabanca ile vurarak öldürmesi sonucu, 38 yerinden ısırılan bayan mutlak bir ölümden kurtulmuştur. Yaz ortasında bu soruna bir çözüm bulması için rica da bulunduğum Atakent Belediye Başkanı dostum da ne yazık ki bir çözüm bulamadı. Bir de yaz aylarında kedi ve köpek besleyip, sonbaharda şehre dönerken bunları açlığa terk eden yazlıkçılar var. Başıboş kalan bu kedi ve köpekler, oralarda kalmayı sürdürenlerin başına dert olmaktadır. Böyle hayvan sevgisi olamaz.<br />
+Atakum ve onun ayrılmaz bir devamı olan Atakent, gözde bir mekân olmayı sürdürmek istiyorsa yukarıda değindiğim sorunları gidermek zorundadır. Yaklaşan yerel seçimler umarım bu bölgede oy hesabına dayalı yeni göz yummalara neden olmaz.</p>
+<p>KARADENİZ İNTİKAM ALMAYI SÜRDÜRÜYOR:</p>
+<p>Dereköy’de ki balıkçı barınağı mendireğinin uzatılması ile dört yıl önce başlayan doğa tahribatı, Türkiye’nin en ince kumuna sahip Dereköy, Taflan ve Çatalçam kumsalını yok ederek hızlı bir şekilde Samsun’a doğru ilerliyor. Sonbaharın gelmesi ile Karadeniz son günlerde yine coştu ve bütün şiddeti ile sahili dövüyor ve kumsalını alıp götürmeyi sürdürüyor. Taflan ve Çatalçam sakinleri çaresizlikten kumsaldan vaz geçti. Artık evlerini kurtarmak için kendi ürettikleri formüllerle deniz içerisine kazık çakıyor, kum dolu çuvallar diziyor, bu kenti yönetenler ve siyasetçiler ise seyretmeyi sürdürüyor.<br />
+Bu oluşumu ilk fark edenlerden birisi olarak ( bu işin üzerine gittiğim için sakın ola kimse sahilde ve risk altında olan yazlığım olduğunu düşünmesin.) 2004 yılından beri yetkilileri uyarıyorum. Bu süreçte bir önceki ve şimdi ki DLH Bölge müdürleriyle görüştüm. 2004 ve 2006 da iki kez konuyu köşe yazıma taşıdım. Samsun Büyükşehir Belediye Başkanı bölgeye gelerek inceleme yaptı. Geçen yılda Samsun Valisine eski ve yeni resimleri ile durumu anlatarak gerekirse dışardan bir uzman davet edilmesini talep ettim.<br />
+En son bir ay önce SAM-SEV olarak bu sahilde, pardon artık olmayan kumsalda! yerel ve yaygın basını davet ederek açıklama yaptık. NTV bunu tüm Türkiye’ye duyurdu. Bundan sonra bazı uzmanların gelip bölgede inceleme yaptığı duyumlarını aldık, ama hala yapılan veya resmi ağızdan söylenen bir şey yok. Yöre insanları internet sayfalarından yararlanarak yeni keşiflerde bulunuyor. Birer metreküplük beton kütlelerin yapılarak denizin 30–40 metre içersine ve birer metre ara ile sahile paralel dizilmesi halinde dalgaların kırılarak kumu kıyıda biriktireceği formülünü uygulamaya koymaya hazırlanıyor.<br />
+Dört yılda 10 Km. uzunluğunda ki sahil yok oldu. Bu doğa katliamını Samsun’u yönetenler büyük bir vurdumduymazlıkla izliyor. Dünyanın hiçbir ülkesinde böyle bir doğa harikası kumsalın göz göre göre yok olmasına seyirci kalınmaz. Artık bu iş doğa katliamı olmaktan çıkmış, dilimin varmadığı bir şekle dönüşmüştür. Olay tam bir ilgisizlik abidesidir!<br />
+Sanıyorum bu tahribat daha da hızlanarak Kurupelit’i aşar, ve o bölgede denize sıfır inşaat izni verenlerin yüreğini hoplatırsa, belki o zaman yetkililer işin ciddiyetini anlarlar.<br />
+Hiç kimse, bu olayı o bölgede oturan yazlıkçıların mülklerini kurtarma çabası olarak algılamamalıdır. Hele hele, “Samsun’u cazibe merkezi yapıyoruz” gibi söylemi olanların buna hiç hakkı yoktur. Bu duyarsızlığa söyleyecek bir şey bulamıyorum. Yazıklar olsun..<br />
+Saygıdeğer okurlarım, yarın Şeker Bayramı. Sizlere ve tüm Ulusumuza şeker gibi tatlı, huzurlu, kırgınlıkların kalktığı, kamplaşmalara son verildiği bir bayram tatili diliyorum.<br />
+28 Eylül 2008<br />
+SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0377-bir-anket-ve-cok-carpici-yorumu.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0379-her-gecen-gun-azalan-guven-duygusu-ve-kirilan-umutlar.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

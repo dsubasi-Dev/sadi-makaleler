@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Şüyuu Vukuundan Beter Olaylar.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Şüyuu Vukuundan Beter Olaylar.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2014
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0722
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>“ŞÜYUU VUKUUNDAN BETER” OLAYLAR.<br />
+“Şüyuu vukuundan beter” Deyimi Osmanlı döneminden günümüze yansımış olup, halkımız arasında çok yaygın olarak kullanılmaktadır.<br />
+Aslında çok şeyi kısa bir cümle ile anlatan bu deyim, “Bir şeyin söylenti olarak yayılmasının, o şeyin gerçekten olmasının yaratacağı etkiden çok daha fazla etki yarattığı” anlamında kullanılır.<br />
+Bu deyimin halkımız arasında kullanılan bir benzeri de, “Bir kişinin adı çıkacağına, canı çıksın.” Deyimidir.<br />
+Bu deyimlerin çokça kullanılmasının altında yatan en büyük neden ise, dinimizce de büyük günah olarak kabul gören “Dedikodudur.”    Başlıkta ki deyim de, bu zararın boyutlarını çok güzel özetler.<br />
+Gerçekten de öyle söylentiler vardır ki, söylenen olay yaşanmış olsa dahi, söylentinin yarattığı tahribatı yaratmaz.<br />
+Örneğin, ünlü otomobil firmaları üreterek piyasaya verdikleri markalarından birisin de herhangi bir teknik bir arıza tespit edilmesi halinde, bu seri aracını alanlara ulaşarak bu arızayı giderirler. Hatta bunu topluma duyurur ve özür dilerler. Firma bundan hiçbir zarar görmediği gibi firmaya olan güven daha da artar.<br />
+Bu hata görmezden gelinirse, aracı kullananların sık sık arıza nedeniyle servise gitmek zorunda kalması, bu araca olan güvenin sarsılmasına ve şikâyetlerin araç kullananlar arasında yaygınlaşması da bu araçtan alacaklar için caydırıcı olmaya başlar.    Bir başka güncel örnekten daha söz edip, son günlerde çok tartışılan bir uygulamaya geçmek istiyorum.<br />
+Toplumumuzda çok ilgi çeken bir konuda eşcinselliktir. Henüz toplumumuzun büyük kesimi tarafından hoşgörü ile karşılanmasa da, bu cinsel tercihte bulunduğu bilinen ve bu tercihlerini saklamayan çok sayıda ünlü kişi toplum tarafından bu kimlikleri tanınır ve çok fazlada üzerinde konuşulmaz.<br />
+Ama halk arasında sıradan birisi hakkında sadece eşcinsel olduğu söylentisi çıkması halinde, toplum, eşcinsel kimliği olduğunu saklamayan ünlülere gösterdiği hoşgörüyü kendi içerisinde ki bu kişilere göstermez.<br />
+Adı eşcinsele çıkacak kişinin gerçekten öyle olmasa dahi, yaşamı kararır, ailesi zor durumda kalır, iş bulamaz, hatta toplumdan dışlanır.<br />
+BU OLAY SİYASETTE OLURSA,<br />
+Yukarıda ki iki örnek de, “Şüyuu vukuundan beter” Bir durumdur. Fakat bu deyimin kullanılabileceği olaylar eğer ülke yönetimi ve siyasi arenada yaşanırsa, bu hepsinden tehlikeli ve özelliklede demokratik yaşamın sonunu getirecek bir durumdur.<br />
+Üzülerek söylemek gerekirse, geçmiş yıllardan beri iktidarda hangi parti olursa olsun, az veya çok suiistimal olayları yaşanmıştır. Ama bu işe bulaşan siyasetçiler, geçte olsa yargılanmış ve cezalarını çekmişlerdir.<br />
+Hiçbir siyasi irade döneminde bu işlerin örtbas edilmesi işine TBMM ve yargı alet edilmemiştir.<br />
+Özellikle de, günümüzde TBMM içerisinde bu tür bir yolsuzluk ve rüşvet olayını sorgulamak üzere oluşturulan komisyon başkanının, ülkemizi çok yakından ilgilendiren bu soruşturmanın gelişmeleri hakkında toplumun bilgi sahibi olmasını yargı yolu ile yasaklatması, fısıltı gazetelerine malzeme çıkartmıştır.<br />
+Hele de, bazı usulüne uygun çıkartılmayan yasaların yüksek yargıdan dönmesine dahi isyan ederek, “Yargı, TBMM’nin önüne geçiyor” Diye yakınan bir Siyasi İktidar döneminde bu komisyon başkanının, soruşturma için yargıdan gizlilik yasaklaması istemesi, kabul edilebilecek bir şey değildir.<br />
+İşte, en tehlikeli “Şüyuu vukuundan beter” Durum, budur.<br />
+Suçsuz bir insanın yargıdan kaçınması akıl alacak iş değildir. Bu tür yasaklamalar, yargılanan bir insana yapılacak en büyük kötülüktür.<br />
+Çünkü bu yasaklamalara sesi çıkmayan zanlının, artık suçsuz olduğunu içinde yaşadığı topluma kabul ettirmesi mümkün olmayacaktır.<br />
+Yine üzülerek söylemek gerekirse, geçmişte toplumun en hassas olduğu konu, devlet malına getirilen verilen zararlar ve siyasetçilerin yapacağı suiistimallerdi. Bunu kolay kolay affetmezlerdi.<br />
+Artık bu hassasiyetten söz etmek mümkün değildir. Geçmiş dönemlerde başlayan ve ülkemizi yönetenlerin, “Benim memurum işini bilir” Gibi söylemleriyle, toplumun rüşvet ve yolsuzluğa bakışı değiştirilmiştir.<br />
+Ne yazık ki, günümüzde çokça adı geçen yolsuzluklara, “Çalıyorlar ama bize de veriyorlar” Diyen bir toplum kesimi ile karşı karşıyayız.<br />
+Demek ki, “Şüyuu vukuundan beter” Deyimini çokça kullanan geçmiş kuşaklar, “Devletin malı deniz, yemeyen domuz” Gibi çok çirkin bir deyimi de boşuna dillendirmemişler.<br />
+Bu işlerin böyle gideceğini sananlar, bir gün çok feci bir şekilde yanıldıklarını göreceklerdir.<br />
+Yargı nasıl yapılandırırlarsa yapılandırılsın, bu ülkenin insanlarından oluşan yargının, eninde sonunda çağdaş bir hukuk devletinde yaşadıklarının bilinci ile hukukun üstünlüğünün gereklerini yapacaklarına olan inancımı koruyorum.<br />
+Hukukun bir gün hepimize gerekli olacağının hiçbir zaman unutulmaması dileğiyle, iyi haftalar.. 30. 11. 2014</p>
+<p>Ecz. SADİ SUBAŞI</p>
+<p>şayia: yaygın söylentivuku: olma, oluş</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0721-samsun-yeni-stadina-yakinda-kavusacak.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0723-bir-i-lki-gerceklestirecek-belediye-baskani-araniyor.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

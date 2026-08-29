@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Demokrasimizin 90 Yılı ve Siyaset Anlayışımız.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Demokrasimizin 90 Yılı ve Siyaset Anlayışımız.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2013
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0621
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>DEMOKRASİMİZİN 90 YILI VE SİYASET ANLAYIŞIMIZ.</p>
+<p>Geçmişinde üç kıtaya hükmetmiş bir imparatorluğun birikimlerini taşıyan Osmanlının dağılması ile elde kalan son vatan toprağı Anadolu’da son Türk devleti kuruluyordu.<br />
+Ne var ki, çağdaş dünyaya uyum sağlamak üzere laik ve çağdaş hukuk eksenine oturtulmuş son Türk Devleti olan Türkiye Cumhuriyeti’ni kurma ve demokrasiyi getirme becerisini gösteren bu ulus, Atatürk’ten sonra ki süreçte yönetime gelenler tarafından iyi yönetilememiştir.<br />
+1950 yılına kadar olan süreci Cumhuriyetin ve demokrasinin yerleşme süreci kabul ederek sonraki dönemi irdelersek göreceğimiz tabloyu kabullenmek mümkün değildir.<br />
+Çok partili demokrasiye geçişimiz ile birlikte renklenen siyasi yaşamın iyi yönetilememesinden midir? Yoksa demokrasinin toplumumuzca yeterince özümsenemeyişinden midir? Bilinmez, bir karmaşadır gidiyor.<br />
+Çağdaş demokrasilerde çok da kabul görmeyecek söylemler ve uygulamalar, toplumca tepki görmeyince ve yeterince de sorgulanmayınca öylesine olağan hale geldi ki, artık bu yanlışlar kimse tarafından yadırganmıyor.<br />
+Sonunda, toplumda çalışmayan siyasetçi ve yöneticilerden bıktığı için “Yeter ki çalışsınlar da, çalarlarsa çalsınlar” hoş görüsü olağan hale gelmedi mi?<br />
+Bana göre bunları çağdaş toplum olma anlayışıyla bağdaştırmaya olanak yoktur.<br />
+Şimdi sizlere demokrasimizi yaralayan söylemlerden bir demet sunuyorum.<br />
+Çok partili demokrasiye geçtiğimiz 1950 de hükümeti kuran ve “Yeter artık söz milletin” diyerek demokrasi öncülüğüne soyunan merhum Başbakan Adnan Menderes’in, “Odunu koysam milletvekili seçtiririm”, “Siz isterseniz Hilafeti de getirirsiniz” sözleri, çok partili demokrasimizi yaralayan ilk söylemlerdi.<br />
+1964 ile 2000 yılları arasında başbakan ve Cumhurbaşkanı olarak Türk siyasetinde en uzun süreli görev alan Sayın Süleyman Demirel’in de Türk demokrasisi adına unutulmayacak sözleri vardır.<br />
+Üniversite öğrencilerinin en doğal hakkı olan yanlışlara tepki koymak için sokaklar da protesto yürüyüşleri yapmaları üzerine söylediği, “Yollar yürümekle aşınmaz”, geçmişte söyledikleri ile çelişen sözleri sorulunca, verdiği, “Dün dündür, bugün bugündür” sözleri nasıl unutulur?<br />
+Benzin sıkıntısı çekildiği günlerde söylediği, “Benzin vardı da biz mi içtik?”, 1970 sonrası yaşanan ekonomik kriz sırasında söylediği ve sonraki yıllarda rakipler tarafından çok kullanılan “70 cente muhtacız”, “Demokrasilerde çare tükenmez”, 1980 öncesi anarşinin tavan yaptığı hemen her gün birkaç kişinin öldürüldüğü günlerde bir soru üzerine, “Bana milliyetçiler adam öldürüyor” dedirtemezsiniz, derin devlet var mı?” sorusuna, “Derin devlet, normal devletin raydan çıkmışıdır”, iktidarı devraldığında, “enkaz devraldık” sözlerini ilk kez söyleyen lider olarak Sayın Süleyman Demirel’in bu söylemleri ile demokrasimizin gelişimine neler katıp, neleri erittiğini varın siz değerlendirin..<br />
+Gelelim merhum Bülent Ecevit’e;<br />
+Siyasi yaşamında tutarlı bir tutum izleyen Ecevit’in de 1978 de hükümet kurabilmek için “Kumar borcu olmayan milletvekili arıyorum” sözleri ve sonrasında Güneş Otel’de transfer ettiği on bir milletvekili ile hükümet kurması ile 2001 de döneminin Cumhurbaşkanı Sayın Ahmet Necdet Sezer’e Anayasa kitapçığı fırlatması, genç demokrasimizi yaralayan olaylardır.<br />
+Ayrıca kardeş kanının su gibi aktığı 12 Eylül 1980 öncesi tüm kamuoyunun baskı ve telkinlerine rağmen rahmetli Ecevit ile Sayın Süleyman Demirel’in inatlaşmayı sürdürerek anlaşmaktan kaçınmaları, 12 eylül darbesine zemin hazırlamış ve bu tutumları her ikisi adına da Türk demokrasi tarihinin ayıpları arasında yerini almıştır.<br />
+Renkli kişiliği ile tanınan merhum Necmettin Erbakan’ın da, “Kanlı mı, yoksa kansız mı olacak?” ve “Kadayıfın altı kızardı mı?”, sürekli aydınlık için bir dakika karanlık eylemine katılanlar için “Gulu- Gulu dansı yapıyorlar” sözleri, demokrasimizin gelişimine katkı değil, zarar veren söylemlerdi.<br />
+Türkiye’nin ilk kadın başbakanı olarak Türk Demokrasi tarihine geçen Sayın Tansu Çiller’de,<br />
+Bir yandan "Bu terör ya bitecek ya bitecek..." derken, bir yandan da, "Devletin gücünü anne şefkatiyle sararak getireceğiz..." diyordu."Yaşama hakkından daha mukaddes bir insan hakkı yoktur...", "Bayrak inmez, ezan susmaz..." Irak’a yapılan bir sınır ötesi müdahale için “Sakarya'dan, hatta komutanların bana söylediğine göre Plevne'den bu yana en büyük kara harekâtı” gibi hamaset dolu sözlerle bir döneme imzasını atıyordu.<br />
+Bir başka renkli kişi de, merhum Turgut Özal’dı. O’nun da siyasi muhalifleri için “onlar küçük Turgut’la uğraşsınlar”, memurların rüşvet almasını meşrulaştıracak söylem olarak algılanan, “Benim memurum işini bilir” sözleri, devlet adına çok ciddi suiistimallerin yaygınlaşmaya başladığının göstergesi ve demokrasimizin gelişimine indirilmiş birer darbeydi..<br />
+Geçmişte bizi böyle yöneten siyasetçilerin, demokrasimizi geliştirmek yerine kendi çıkarlarını gerçekleştirecek araç olarak görme anlayışı, günümüzde tavan yapmış bulunuyor.<br />
+Bugün siyaset arenasında yer alarak hemen her gün TV kanallarında karşımıza çıkan siyasetçilerin sözlerinden alıntı yapmıyorum.<br />
+Çünkü onları hemen her dakika karşınızda birbirlerine söz yetiştirirken, daha da ötesi birbirlerine hakaret ederken izliyorsunuz.<br />
+Geçmiş dönemlere imza atan siyasetçilerin söylemlerinden bazı alıntıları yukarıda okudunuz. İçlerinde hiç kişisel hakarete varan veya en hafif deyimle kaba söylenmiş sözcüğe rastladınız mı?<br />
+Farkında mısınız? Son günlerde, “Liderlerin kavgasından usandım, ekrana çıktıklarında kanal değiştiriyorum” diyen insanların sayısı ne kadar da arttı.<br />
+Evet, geçmişin siyasetçilerinin de demokrasimiz adına ayıplı söylemleri vardı ama zaman zaman hepimizi gülümseten söylemleri de duyulurdu. Bu dönem de liderlerden sizleri gülümseten, içinizi ısıtan bir söz duyabiliyor musunuz?<br />
+Özellikle de, seksen yıllık demokrasimizin yarısına yakın bir sürecinde adı sürekli gündem de olan Sayın Süleyman Demirel’in, öylesine güzel ve siyasi tarihimize mal olmuş esprileri vardı ki, en gergin ortamı dahi yumuşatırdı.<br />
+Yazımı Sayın Demirel’in bu esprilerinden alıntılarla tamamlamak istiyorum.<br />
+Merhum Ecevit’e çok kızan Sayın Demirel, “Bunların eline dört kaz teslim etsem, akşama üçünü kaybeder gelirler”,<br />
+Yunanistan’ın “Ege Yunan Gölüdür” açıklamasına, “Ege Gölü Yunan Gölü de değildir, Türk Gölü de değildir. Binaenaleyh Ege göl değil denizdir.” Açıklamasını yapıştırıyordu.<br />
+1978 de Merhum Ecevit hükümeti öğretmen açığını kapatmak için garip bir uygulama ile çeşitli meslek sahiplerini öğretmen yapmak için kırk günlük bir kurs programını devreye sokar. Sayın Demirel’in esprisi hazırdır. “Kırk günde kabak bile yetişmez”<br />
+Muhalefete seslenirken, “Hamsi kavağa çıkarsa, bunlarda iktidar olur” sözleri, bugün dahi kullanılmıyor mu?<br />
+İşte, dünden bugüne bir adım ileriye götüremediğimiz demokrasi ve siyaset anlayışımız..<br />
+Ne yazık ki, günümüzde geçmişin yanlışları içersinde çiçek gibi açan espri kırıntılarını dahi arar hale geldik.<br />
+Yazıklar olsun, en güzel yönetim biçimi olan demokrasiyi böylesine mıncıklaya mıncıklaya ve “Demokrasi bizim için amaç değil araçtır” anlayışı ile yozlaştıran siyasetçilere..<br />
+Umarım bizler de, bir gün demokrasinin kurallarını içine sindirmiş siyasetçiler tarafından yönetiliriz.<br />
+Toplum olarak bizlerde, “Her toplum layık olduğu biçimde yönetilir” gibi çağ dışı bir anlayış yerine, sorgulama yapan ve hesap soran bir toplum olmayı öğreniriz…<br />
+İyi haftalar.. 20. 01. 2013</p>
+<p>Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0620-duygularin-dili-ve-mustafalar.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0622-mecidiye-caddesine-duzen-getiren-buyuksehir-ve-i-lkadim-belediye-baskanlarina-tesekkur.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

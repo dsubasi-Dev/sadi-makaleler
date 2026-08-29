@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Baba Olarak Anılmak Herkesin Harcı Değildir.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Baba Olarak Anılmak Herkesin Harcı Değildir.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2017
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0754
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>BABA DİYE ANILMAK HERKESİN HARCI DEĞİLDİR.</p>
+<p>Haftalık köşe yazımı kaleme aldığım Pazar günü, tüm dünya “Babalar Gününü” kutluyordu. Çocuğu doğan her erkek artık bir babadır.<br />
+Ben de baba olmanın zevkini tatmış tüm babaları bu özel gününde kutluyor ve sevenleri ile birlikte mutluluklarının sonsuza dek sürmesini diliyorum.<br />
+Çocuklarının babası olanların yanında öyle bazıları da vardır ki onlar sadece kendi çocuklarının değil, çok daha geniş kitlelerinde babasıdır.<br />
+Bunların başında da “Devlet Baba” gelir.<br />
+Ülkemiz de, cumhuriyetin ilanı ile birlikte Devletin vatandaşına verdiği büyük güven sonrası, Devlet vatandaşın “DEVLET BABASI“ Olarak anılmaya başlamıştır.<br />
+Bunların dışında da bir de sokakta ki insanların, “Kendilerini sahiplenmesi ile ona duyduğu sevgi ve güvene” dayalı olarak BABA payesi verdiği insanlar vardır.<br />
+Türkiye, işte böyle bir babayı Cumartesi günü ebedi yaşamına uğurladı. O baba ki, yaşamının dörtte üçünü dost kadar, düşman da kazanılan siyaset arenasının içerisinde geçirmiştir.<br />
+Rahmetli Demirel, o acımasız siyaset arenasın da 12 Mart Muhtırasını, 28 Şubat darbesini yaşamış ve 12 Eylül İhtilaline muhatap olmuş, altı kez gidip yedi kez iktidara gelmiş bir siyasetçiydi.<br />
+1960 İhtilali sonrası yeniden demokrasiye geçilmesi ile birlikte çok genç yaşta siyasetin içerisinde rol üstlenmeye başlayan Demirel, 50 yıla yakın doğruları ve yanlışları ile Türk siyasetine yön veren insan olmuştur.<br />
+Yarım asırlık siyasetçinin ardından yorum yapmak istemiyorum. Zaten Rahmetli Demirel, vefat haberinden itibaren Türkiye gündemine öylesine oturdu ve son üç günü öylesine bloke etti ki, yazılı ve görsel basın O’nun siyasi yaşamını kapsamlı bir şekilde anlatırken, hakkında bugüne kadar bilinmeyen hiçbir şey bırakmadı.<br />
+Ben sadece bazı noktaları paylaşacak ve cenaze töreni ile hakkında yapılan haberlerden çıkartılması gereken bazı derslerden söz edeceğim.<br />
+Cenaze töreni, Türkiye Cumhuriyetini kuran Mustafa Kemal Atatürk ve O’nun silah arkadaşı İsmet İnönü’ye yapılan cenaze törenlerinden sonra ki, en görkemli devlet töreniydi.<br />
+Gerek evinin önünde ki kalabalık ve gerekse, Kocatepe Camii ile İslamköy’de ki cenaze törenlerinde toplanan muhteşem kalabalık, her türlü yapaylıktan uzak ve tamamen sevgiye dayanıyordu.<br />
+Kısaca söylemek gerekirse, rahmetli Demirel seçim meydanlarını doldurduğu gibi cenaze töreninde de, camileri doldurmuştu.<br />
+Bu cenaze töreninin topluma verdiği belki de en önemli mesaj, yaşarken siyasi taraftarlarla doldurulan meydanlar, eğer cenaze töreninde de dolup taşıyorsa, orada sadece siyasi taraftarlarının değil, çok daha geniş bir kitlenin sevgisi var demektir.<br />
+Cenaze törenine böylesine büyük kalabalığı toplayan bir başka neden de, günümüz siyasetinde yaşanan hoşgörüsüzlük ile rakiplerine küfür, aşağılama ve hakaretlere varan siyaset biçimidir.<br />
+Bu kalabalığın toplanmasının altında yatan gizli neden ise, sadece siyasi rakiplerini değil, kendileri gibi düşünmeyen işadamını, basın ve yargı mensubunu, sanatçıyı, hatta en ufak protesto hareketi yapan sokakta ki vatandaşı dahi yargı yolu ile susturmaya yönelik günümüz siyasetinden bunalan toplumun, Rahmetli Demirel’in tam tersi özelliklerini özlemesidir.<br />
+Nasıl özlenmesin ki, yarım asıra dayanan bir siyasi mücadele içerisinde kanlı bıçaklı olduğu siyasi rakiplerine bir kez olsun hakaret etmeyen, aşağılamayan, kendisini ağır şekilde hicvederek eleştiren tiyatro sanatçılarını mahkemelerde süründürmek bir yana,  o oyunları izlemeye giden bir siyasetçiydi Demirel..<br />
+“Basının susturulduğu yerde demokrasiden söz edilemez” Diyerek döneminde hiçbir gazeteciyi mahkemelere taşımayan, yüzünde gülümseme, söylemlerinde espri eksik olmayan bir siyasetçinin günümüzde çok aranır hale gelmesi de, Rahmetli Demirel’in cenaze törenini bu derece önemli hale getirmiştir.<br />
+Cenaze törenlerin de namazı kıldıracak hocanın değişmez  “Merhumu nasıl bilirdiniz? Ve “Hakkınızı helal ediyor musunuz?”  Sorularına verilecek cevaplar, cenazeye katılan kalabalıklar kadar önemlidir. Merhum Demirel’in kılınan cenaze namazları öncesinde katılımcıların bu sorulara çok gür bir sesle verdikleri, “İyiiiiii ve eveeettt” Cevapları çok şeyin açıklaması olmuştur.<br />
+Siyasetçiler, sağlıkların da meydanları yapay (Bindirilmiş kıta olarak adlandırılan) Kalabalıkla doldurabilirler ama cenaze törenlerine zorla kalabalıkları toplayamazlar.<br />
+Burada ki tek ölçü, insanların sağlıkların da kazandıkları saygı, sevgi ve güvendir.<br />
+Bu nedenlerle, Demirel’in cenaze töreni ders çıkartılacak ibretlerle doludur.<br />
+İşte bu nedenlerle, vefatı ile siyasi yaşamında ki son derece tartışılacak yönleri bir yana itilmiştir.<br />
+O, kendisini silah gücü ile iktidardan indirip Zincirbozan’a hapseden asker için tek kötü söz söylememiş ve söyletmemiştir. Ordu için “O ordu, milletin ordusudur”  Diyerek askerin yıpratılmasına izin vermemiştir.<br />
+Benim de yeni dinlediğim İsmet İnönü ilgili bir tavrı da, O’nun nasıl bir hoşgörü sahibi olduğunun göstergesidir. Bir yurt dışı gezisinden dönerken uçakta gazetecilerin, “İnönü ile siyasi arena da çok sert mücadele ediyorsunuz ama küs durmuyorsunuz?” Sorusuna verdiği, “ O’nun arkasında koskoca Kurtuluş Savaşı Zaferi var. Ben kimim ki O’na küs durayım?” Şeklinde ki cevap, O’nun örnek alınacak siyasi terbiye ve kıvraklığıdır.<br />
+Birebir yaşadığım bir olayı da paylaşarak yazımı noktalayayım.<br />
+12 Eylül İhtilali sonrası yapılan referandumla Demirel’in de siyasi yasağı kalkmış ve yasaklı olduğu dönemde kapatılmış Adalet Partisi’nin misyonu ile yeni parti kurma arayışlarına, “Arsama gecekondu yaptırtmam” Diyerek set çeken Demirel, yeniden siyasete girme hazırlıkları yapmaktadır.<br />
+1991 Genel seçimleri öncesidir. Partinin başına geçme hazırlıkları çerçevesin de illeri gezmektedir. Bu çerçeve de Samsun’da da Yafeya Otel’in Roof’un da sivil toplum kuruluşlarının başkanlarının katılacağı bir toplantı düzenlenmişti.<br />
+12 Eylül sonrası uçakların inişine uygun olmadığı gerekçesi ile iyi kötü hizmet veren eski Samsun Havaalanı uçuşlara kapatılmıştı. Toplantı sırasında Demirel’in özel bir uçakla bu meydana indiğini öğrenmiştik.<br />
+Yeni kurulmuş olan SAM-SEV olarak biz de, o tarihlerde Samsun Havaalanı’nın yeniden açılması için çalışmalar yürütüyorduk. O toplantı da SAM-SEV Başkanı olarak son sözü alarak, “Sayın Demirel, görüyorum ki yeniden siyasete girecek ve muhtemelen de sizi yeniden başbakan olarak göreceğiz. Ama görüyorum ki, sizin canınızın Samsun Halkı kadar bile bir değeri yokmuş. Çünkü güvenilir olmadığı için bizlere kapalı olan havaalanına sizin uçağınızı indirmişler. Bir kentin sanayi ve ticaretinin gelişmesi için Havaalanı şarttır. O nedenle tekrar Başbakan olursanız, Samsun Halkı adına Sizden havaalanımızı yeniden açtırmanızı veya yenisini yaptırmanızı arz ve talep ediyorum” Şeklinde bir konuşma yaptım. Sorumdan hoşlanmış olacak ki, o kendine has gülümsemesi ile “Olur, olur” Diye başını sallamıştı.<br />
+Toplantı bittiğinde salondan ayrılıyordum ki, o gün toplantıyı yöneten Sanayi ve Ticaret Odası Başkanı rahmetli Mehmet Çebi yanıma gelerek, “Sayın Demirel senin konuşmanı beğenmiş, kim olduğunu öğrenerek not aldırdı” Demişti.<br />
+Nitekim sonra ki yıllarda rahmetli Demirel’in Başbakanlığı döneminde, çabalarımız ve Samsun milletvekili Sayın Cemal Alişan’ın da TBMM’ de verdiği destek ile Samsun’a bugünkü yeni havaalanı kazandırılmıştı.<br />
+Siyasi yaşamı boyunca tartışılabilecek çok şeye imza atan Demirel, arkasından bugüne kadar kendisine hiç oy vermemiş bana bunları yazdırıyor ve cenaze törenine çok büyük kalabalıkları topluyorsa, rahmetli Demirel’in siyasi yaşamından günümüz siyasetçilerinin çıkartacağı çok dersler olmalıdır diye düşünüyorum.<br />
+Güzel bir hafta dileğiyle.  21 06. 2015</p>
+<p>Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0610-haddimi-bilmem-gerekiyormus.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0833-samsunlu-bir-kez-daha-kandirildi.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

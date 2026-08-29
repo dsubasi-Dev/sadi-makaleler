@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Romanlar İlgi Bekliyor</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Romanlar İlgi Bekliyor
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2005
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0156
+
+</div>
+
+
+<div class="article-content">
+
+<p>SAMSUNLU ROMANLAR İLGİ BEKLİYOR</p>
+<p>Samsun’da kendilerini Roman olarak tanımlayan çok sayıda vatandaşımız yaşıyor. Çoğumuzun esmer vatandaş olarakta tanımladığımız bu insanlar, özellikle ikiyüz evler ve Yavuz Selim mahallelerinde son derece kötü ve sağlıksız şartlarda yaşamlarını sürdürüyorlar. Bugün sizlerle bu insanları yaşam kavgasını paylaşmak istiyorum. Bildiğim kadarı ile bunlar çoğunluğu Balkanlardan göç yolu ile gelmiş ve Türkiye’nin çeşitli bölgelerinde yerleşmiş insanlar. Benim çocukluk yıllarımda bir kısmı Mert ırmağının denize döküldüğü yerde , yani deniz kenarında, bir kısmıda Mert ırmağının kenarında sanayi sitesinin yan tarafında otururlardı. Ev diye tanımlanamayacak tek bölümden oluşan ve dışı toplama teneke kutularının açılması ile elde edilmiş teneke levhalarla kaplı bu barakalarda çamur ve su kaplı zeminlerde yaşarlardı. Zaman zaman deniz kıyısındaki bu barakaları dalgalar yıkardı. Sonraki yıllarda deniz kenarından yeni mahalleye yerleştiler. Bu insanların yaşadıkları sağlıksız ortamı düzeltmek için belkide ilk el uzatan, belediye başkanlığı sırasında sayın Muzaffer Önder olmuştur. bu dönemde Mert ırmağı kıyısındakilerin bir kısmı İkiyüzevler adıyla kurulan bir mahalleye taşınmıştı. Hiç olmazsa ırmak kenarında çamur içinde adeta dev farelelerle içiçe yaşayan bu insanların bir kısmı bu evlere yerleştirilmişti. Benim bildiğim kadarı ile Samsun’un bu insanların yaşam şartlarını düzeltmek için yapabildiği bu kadar.<br />
+Bu insanların yaşam koşulları ile kıyaslandığında insanı şaşırtan ve bir o kadar da düşündürecek bir hayat felsefesi vardır. Türkiye’nin diğer bölgelerinde yaşayan romanları bilemem ama, Samsun’dakilerin gerçekten övgüye değer çok yönü vardır. Hemen hepimizin evlerine gündelikçi olarak temizliğe gelenler bu insanların kadın ve kızlarıdır. Ben bugüne kadar evlerimizi emanet ettiğimiz bu insanların yanlış yapanını duymadım. Erkeklerinin yapabildiği iş ya ayakkabı boyacılığı veya kanalizasyon temizliğidir. Bunları Konak Sinemasının önünde veya yan tarafında ,19 Mayıs Bulvarı üzerinde görebilirsiniz. Bir kısmının önünde boya sandığı, bir kısmının önünde tıkanan lavabo ve kanalları açmada kullandıkları halka halindeki demir çubukları görürsünüz.35 yıldır bu insanlarla iş yeri komşusu olarak gördüğüm hiçbir yanlışları olmamıştır. Bu güne kadar kavga ettiklerini görmedim. Gelen geçen kimseye yan gözle baktıkları veya rahatsız ettikleri duyulmamıştır. Yanlarından ayırmadıkları radyoları ile Samsun’un birer simgesi olmuştur bu insanlar. Ne yazıkki erkekleri kadınları kadar iş konusunda şanslı değillerdir. Erkeklerinin her hangi bir iş yerinde çalışma şansı bulanı yok denecek kadar azdır. SAM- SEV ‘in kuruluş yıllarında, yine bu insanlarla ilgili olarak yaptığımız bir araştırma sırasında bilgisine baş vurduğumuz cezaevi müdürü çok ilginç ve şaşırtıcı bilgiler vermişti. O dönemde cezaevinde sadece 4 veya 5 roman tutuklu vardı. Müdür bunların içinde hiç yüz kızartıcı suçtan tutuklu bulunmadığını söylüyor ve ilave ediyordu; bunlardan hırsız ve yankesicilik suçu ile gelen olmaz. Bu günde bundan farklı bir tablo olduğunu sanmıyorum. Samsun’da hiç dilencilik yapan bir esmer vatandaş göreniniz oldumu? Ülkemizde had safhada artan hırsızlık, yankesicilik, kapkaç olayları nedeniyle devlet düzeyinde ne yapılabilirin yöntemleri tartışılıyor, burada ise açlık ve sefalet içinde yaşama mahkum ettiğimiz bu insanlardan hırsız çıkmıyor. Son derece düşündürücü bir durum. Bu insanların çok ciddi sağlık sorunları da olduğunu biliyorum. Özellikle erken evliliklerin yaygın olduğu bu toplumda yeterli beslenme olmayışı ve yaşam koşullarının çok ağır olması nedeniyle çocuk hastalıkları ve ölüm oranlarıda çok yüksek. Çocuklarına yeterli eğitimi aldıracak ekonomik güçleri yok. Yeşil kart uygulaması biraz olsun bu insanlara çare oldu. Böylesine yokluğa rağmen borçlarına da da sadıktırlar. Sabah eczaneden aldıkları ilacın parasını, ayakkabı boyayarak aldıkları üç beş kuruşla aynı akşam ödeme telaşındadırlar. Tüm bunların yanında mutlu olmayı becerebilmeleri en çok takdir edilecek yanları. En büyük eğlence bunların mahallelerinde olur.<br />
+Bunları yazmaktan amacım bu kentin yönecilerinin dikkatini çekmektir. Evlerimizi emanet ettiğimiz bu insanların oturduğu mahallelere bir kez uğrayıp yaşam şartlarını görmenizi öneriyorum. Seçim zamanı bol vaadlerle oylarını isteyen siyasilerden ve yerel yöneticilerden bu insanlara biraz ilgi göstermelerini diliyorum. Sayıları hızla artan bu insanları insan gibi yaşatmak görevimizdir diye düşünüyorum. Namuslu yaşamak uğruna gösterdikleri direnç ile bunu hakediyorlar sanırım. Yardım amaçlı kuruluşların bu insanlar için proje üretmeleri ve bu insanlara daha iyi bir yaşam ortamı hazırlama konusunda kafa yormalarını öneriyorum. Her türlü işi kabul edebilen roman erkeklerinin Üniversite ve belediyelerin toplu temizlik işçisi alımlarında unutulmamasını diliyorum. Unutmayalım ki bu insanlarda bu kentte yaşıyorlar. Bu insanlar ağlamasını ve istemesini de sevmezler. Bizim toplumumuzda ise’’ ağlamayana mama vermezler ‘’diye yerleşmiş bir deyim vardır. Bu ayıbı en aza indirmek bu kenti yönetenlerin ve bu kentteki sivil toplum kuruluşlarının görevi olmalıdır.<br />
+İyi haftalar dileğiyle..20-ŞUBAT-2005</p>
+<p>SADİ  SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0155-sorunsuz-kent-samsun.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0157-i-stinaf-mahkemesi-samsun-da-kurulmalidir.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

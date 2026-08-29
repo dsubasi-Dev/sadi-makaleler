@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Sevgi ve Dostluk Öyküsü</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Sevgi ve Dostluk Öyküsü
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2006
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0269
+
+</div>
+
+
+<div class="article-content">
+
+<p>SEVGİ VE DOSTLUĞUN  DOYASIYA YAŞANDIĞI, SONU<br />
+TATSIZ BİR ÖYKÜ..</p>
+<p>Bugün aslında sizlerle çok güncel bir konuyu paylaşmalıydım.<br />
+Yaşadığımız güzel bayram günlerinde bu konuyu konuşmak istemedim. Ancak, kısa bir iki şey söylemeden de geçemeyeceğim. Kendisini dünyanın sahibi sanarak, çıkarı olan ülkeleri yalana dayalı bahaneler yaratıp işgal eden, kadın çocuk demeden binlerce cana kıyan,  global dünya masalı ile yeni bir sömürge düzeni geliştiren eli kanlı Amerika, sonunda SADDAM’I  ( bölgemizin başının derdi haline gelmiş bir diktatör olsa bile )  idam ederek Orta Doğuyu patlamaya hazır hale getirmiştir. Böylece doğacak kargaşa ortamında, Büyük Orta Doğu Projesinin diğer aşamalarına geçebilmenin yolunu da açmıştır. Tanrı bölgemiz insanlarını korusun.  30.000 insanımızın canına kıyan eli kanlı  ÖCALAN’I bize astırmayan ve idamı kaldırtan dünyanın gözü önünde, bu siyasi cinayet işlenmiştir. Yazık, çok yazık..</p>
+<p>“İyi ki değinmeyeceğim dedin”  diye söylendiğinizin farkındayım. Ama ne yapayım ki dayanamadım.. Neyse biz gelelim bugünün konusuna..<br />
+BUGÜNÜN ÖYKÜSÜ..<br />
+Dostluklar vardır unutulmaz.. Sevgi vardır, tadına varınca zevkine doyum olmaz.. Bu duygular tabii ki, öncelikle insanlar arasında var olan ve var olması gereken duygulardır. Dostlarımızın ve sevdiklerimizin değerini, ne yazık ki kaybettikten sonra çok daha iyi anlayabildiğimiz de bir gerçek. Bu gün, sizlerle bizim toplumumun henüz tam benimseyemediği ve çoğu kez de yadırgadığı bir sevgiyi ve dostluğu paylaşmak istiyorum. Bir çok dostumun başka işi gücü kalmamış diyeceğini, insanın değerinin bilinmediği bir toplum da, biraz sonra öyküsünü anlatacağım köpek için söylediklerime isyan edeceklerini biliyorum. Ama önceki hafta yaşlılık nedeniyle  bu dostumuz öldü. Ailece bizlere aşıladığı sevgi ve dostluğun öyküsünün sizlere de bir şeyler  hissettireceğine inanıyorum.<br />
+Ben ve eşim köy yaşamını bilmeyen, kentte doğmuş, büyümüş, dolayısıyla hayvanlarla çok iç, içe olma şansı bulamamış iki insanız. Üstelik çocukluğum da bir kurt köpeğinin saldırısına uğrayarak kardeşimle birlikte, o zamanlar karından koca, koca iğnelerle yapılan 14 tane kuduz iğnesi yeme şansızlığını yaşamış birisiyim. 1982 de kızımın doğması ve daha 2 yaşına gelmeden, onda ortaya çıkan inanılmaz hayvan sevgisi, bizim o güne kadar tatmadığımız güzel ve temiz bir sevgiyi tanımamıza neden oldu.<br />
+O yıllarda yaz tatiline giderken arabanın arka tarafından gelen kızımın çığlıkları ile durduğumuzda tanıştığımız bu sevgi anlatılacak gibi değildi. Yol boyu sık, sık tekrarlanan bu çığlıklarla her duruşumuzda, arabadan iniyor ve tarlalarda gördüğü hayvanları sevmesini seyrediyorduk. Ancak ayrılmaları en büyük zorluğumuzdu. Çünkü “ baba bunu da beraber götürelim”  diye tutturuyor ve zar, zor ikna ediyorduk. Bu, bir kuzu ve dana olabildiği gibi bir tay veya sıpa da olabiliyordu. Artık sokak köpeklerini dahi sevmeden yolda yürüyemez hale gelmiştik. İşin enteresan tarafı korku denen şeyi bir türlü anlamıyordu. Tüm hayvanlarda onun sevmesine seslerini çıkarmıyorlardı. Tatil köylerinde arada bir masadan kayboluyor, biz gezinerek yediğini sanırken, o tabağındaki etleri bahçede her akşam onu bekleyen köpeklerle paylaşıyordu. Kızımızda keşfettiğimiz bu hayvan sevgisi, aile olarak bizi o güne kadar çok farkında olmadığımız bir güzellikle tanıştırmıştı. Biraz daha büyüyünce, bu kez her yaz bir hayvanı alıp getirip bahçede  bakmaya ve onu beslemeye başladı. Böylece bir yaz tarlalardan bulup getirdiği bir kaplumbağa, bir yıl tavşan, bir yıl civciv, bir yıl kuzu, ve muhabbet kuşu derken, kızım da ilk okul sona gelmişti. Verdiğim sözü yerine getirip, ona iki aylık siyah  kaniş cinsi  bir köpek yavrusu aldım. O gün dünyalar onun olmuştu. Nasıl olsa, yaz sonun da onu da birisine veririz diye düşünürken, işler hiç de böyle gelişmedi. Kızımın adını CORCİ koyduğu şirin minik hayvan bizi de kendisine bağlamıştı. Kızım yaz boyu ona ihtiyaçlarını ev dışında gidermeyi öğretti. Yaz bitince, o da bizimle kışlığa taşındı. Aşılarını ve hijyenik her türlü bakımını ben yapıyordum. Artık evde nüfusumuz beşe çıkmıştı. Ağabeyi ve kızım onun en büyük dostuydu. Tek kusuru vardı. O da kızımın ezilecek korkusu ile bir türlü tasmasız gezmesine izin vermediği için, yolda doğru dürüst yürümesini bir türlü öğrenememesiydi.<br />
+Öylesine bir karşılıksız sevgi ile bize bağlanmıştı ki, ev de birisi hasta ise           o da onunla hasta oluyor ve hastanın yatağının hemen dibinde yatıyor, tuvalet ihtiyacı dahi duymuyordu. Tüm tuvalet ihtiyacını ev dışında giderme alışkanlığı kazanmıştı. Yaşadığı 14 yılda tuvalet konusunda ev de tek bir yanlışı olmamıştı. Bir defasında acilen hastaneye kaldırıldığım da, Corci ev de unutulmuş ve tam 36 saat sonra eşimin aklına gelmişti. Bu sürede sadece su içerek evde aç kalmasına rağmen, o şartlarda dahi evde herhangi bir yeri kirletmemişti. Kırk yılda bir midesi bozulursa hemen banyoda ki zemin suyunun gittiği deliğin içine çıkartıyordu.  Çocuklar büyümüş üniversite eğitimleri için arka, arkaya İstanbul’a gitmişler ve çocukların Corci’si bizimle kalmıştı. İşimiz zorlaşmıştı. Sabah ihtiyacı için sokağa genellikle benimle çıkıyor, gündüz eşim yardımcı oluyor, beslenmesini eşim hallediyordu. Akşamları ise benimle gezintiye çıkıyordu. Benim için de geceleri biraz olsun yürüme fırsatı doğuyordu.<br />
+Bana öylesine bağlanmıştı ki, geceleri çalıştığım için genellikle geç yatıyordum. O da ben yatmadan yerine gidip yatmıyor ve benim ayağıma yaslanarak bana eşlik ediyordu. İşim bittiğini anladığı zaman yatmaya gidiyordu. 14 yıl boyunca sıfır hatayla her akşam kapıyı açtığımda beni ilk karşılayan o oldu. Kendisini sevmeden ve beni yalayarak sevgisini göstermeden paltomu dahi çıkartmama izin vermiyordu. Gece 02.00 de nöbetten gelirdim.  O saatte tüm apartman karanlık olurdu. Oturduğumuz daire 4. kattadır. Arabayı durdurup inmemle birlikte yukarıdan  gelen  “hav-hav“  sesi benim geldiğimi anladığının işaretiydi. Bunları evinde bir hayvan beslememiş olanların anlayabileceğini sanmıyorum. Ama böylesine saf ve karşılık beklemeden verilen bir sevgi bizleri tam bir hayvan sever yapmıştı.<br />
+Çoğu kişinin bildiği gibi Hürriyet köşe yazarı Sayın Bekir Coşkun da bir hayvan severdir. İki yıl önce onun PAKO’ su öldüğünde köşe yazısında dile getirdiği duygusallığı bu gün çok daha iyi anlıyorum. Hatta, o tarihte “CORCİ’den PAKO’ya “  başlıklı bir yazı yazarak sayın Coşkun’un üzüntüsüne ortak olmuştuk. Bu yazı PAKO’ YA MEKTUPLAR  köşesinde de yayınlanmıştı.<br />
+Ve CORCİ  14. yılında yaşlılık nedeniyle hastalandı. Kalp ve solunum problemlerini veteriner ve Veteriner Fakültesinin değerli öğretim üyesi  dostlarımın çabasına rağmen yenemedi. 1,5 aylık bir hastalık dönemi sonunda 15 gün önce öldü. Başta kızım ve eşim olmak üzere yaşadığımız üzüntüyü anlatarak sizleri daha çok şaşırtmak istemiyorum. Tabii ki öncelikle, Tanrı hiç birimize bir aile yakınımızın kaybının acısını yaşatmasın. Ama CORCİ de bizden birisi olmuştu. Benim geceleri çalışma arkadaşımdı. Bizim böyle bir güzelliği yaşamımızı ve hayvan sevgisini tatmamızı sağlayan sevgili kızıma teşekkür ediyorum. Tek tesellim okulunu bitirerek Samsun’a döndüğü için, sevgili dostunun kötü günlerinde hep yanında olma şansını bulmasıydı.<br />
+Bu arada bu zavallı ve sokaklarda aç sefil bizlerden yardım uman köpeklere ve diğer hayvanlara eziyet edenlere lanet okuyorum. Geçen hafta TV de izlediğimiz Erzurum’a bağlı Hınıs İlçesi Belediye Başkanının talimatı ve köpek başına verilen 1,5 YTL. ile toplatılan köpeklerin ve yavrularının damperli kamyonların demir kasalarına vahşice fırlatılarak atılışını ve o zavallıların düşünce çektiği acıyı görünce içim burkuldu. Bu hayvanları yok edeceklerine, Şişli Belediyesinin yürüttüğü örnek çalışmada olduğu  gibi aşılanıp, sağlık kontrolleri  düzenli yapılarak ve kulaklarına künyeleri takılarak Teşvikiye ve Şişli de ki gibi, halkla yaşamalarına izin verseler olamaz mı? Hem bu hayvanlara yaşama hakkı vermiş olurlar, hem de insanlarımıza sevgiyi aşılamış olurlar sanıyorum.<br />
+Ailelere bir önerim olacak.  Korkularını yenip, gerekli koşulları sağladıktan sonra hayvan besleyerek, çocuklarının bu temiz sevgiyle tanışmalarını sağlasınlar. Toplumumuz da gittikçe zayıflayan dostluk ve sevgi duygularının yeşermesine de katkıda bulunmuş olurlar diye düşünüyorum.<br />
+İçinde bulunduğumuz Kurban  Bayramınızı kutluyor, yeni yılın size, ailenize ve ülkemize sevgi ve dostluk dolu günler getirmesini diliyorum.<br />
+31- ARALI-2006<br />
+SADİ  SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0268-umut-fakirin-ekmegi-ye-samsunlu-ye.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="../2007/0129-lanet-olsun.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

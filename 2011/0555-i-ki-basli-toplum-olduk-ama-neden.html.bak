@@ -1,0 +1,328 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>İki Başlı Toplum Olduk. Ama Neden</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+İki Başlı Toplum Olduk. Ama Neden
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2011
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0555
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>İKİ BAŞLI TOPLUM OLDUK. NEDEN?</p>
+<p>Geçen hafta bir TV Kanalında içim yanarak bir tartışma programı izledim. İçim yanarak diyorum, çünkü toplumun birbirine zıt düşüncelerle nasıl ortadan ikiye ayrıldığını tüm açıklığı ile bir kez daha gördüm.<br />
+Programda ki dört konuşmacının ikisi bir yanda, diğer ikisi ise diğer yanda birbirlerine tam zıddı görüşlerini savunuyordu. Tartışma öyle bir boyuta geldi ki, iki tarafta birbirlerini “Herhalde biz sizinle aynı ülkede yaşamıyoruz” diye suçluyordu.<br />
+Bu tür tartışmalar öylesine yaygınlaştı ki, gündemde ki konu ne olursa olsun, aynı konu üzerinde ki değerlendirmeler taban tabana zıt oluyor.<br />
+Ülkemizin ortak sorunu olan ve ülke çıkarları söz konusu olan sorunlarda bunun doğrusunun bir tane olması gerekir. Kürt Sorunu, yeni Anayasa yapımı gibi konularda dahi birbirimize, “Herhalde sizinle aynı ülkede yaşamıyoruz” Diyecek hale gelmişsek, hep birlikte oturup düşünmemiz gerekir.<br />
+Ülke çıkarlarının söz konusu olduğu yerde dahi ortak bir noktada buluşamayacak kadar bir birbirine güvenini yitirmiş hale gelmişsek, toplum olarak tehlikeli bir ayrışmanın sınırına gelmişiz demektir.<br />
+Toplumun bu hale gelmesinin nedenleri araştırılınca, bunun cevabını bulmakta hiçte zor değildir. Bir kaç örnekle bunu inceleyelim.<br />
+Ergenekon davasında dört yıldır tutuklu yargılananların tutukluluk halinin kaldırılmasını isteyen mahkeme başkanı istifa etmek zorunda bırakılırken, tutukluluk hallerinin devamı için “Hala delillerin toplandığı” Savunmasını yapan da Türk Yargısı, Deniz Feneri Davası’nın tutuklu yargılanan zanlılarını, “ Üç ayı geçen tutukluluk cezaya dönüşür” Savı ile tutukluları salıveren de Türk yargısı. Hizbullah Davasında da olduğu gibi.<br />
+Yargı aynı yargı ama uygulamalar insanı isyan ettirecek kadar birbirine ters ise, yargı böylesine bölünmüşse, bu işte bir çarpıklık var demektir.<br />
+Bir tarafta devam eden Ergenekon Davasında gidilebilecek üst kademelere kadar gidilip ve hemen her gün yeni tutuklamalar yapılıyor. Diğer yanda, Almanya’nın mahkûm ettiği Deniz Feneri Davasında da işin ucunun dayandığı üst siyasi kademelerden göz altıların olabileceği anlaşılınca, hâkimler görevden alınır ve yerlerine atanan yeni hâkimler de ilk fırsatta tutukluları salarsa, kafaların karışması ve toplumun da ayrışması ve zıtlaşması kaçınılmazdır.<br />
+Bu tür tartışma programlarında karşı fikirlerin oluşması son derece doğaldır ancak, her iki tarafında doğruları tek ve aynı olmalıdır. Yukarıda ki önekte ise, iki tarafın da doğruları farklıdır.<br />
+Geçmişte de toplum bu tür ayrışmaları yaşamış ve sonuçları da ülkemiz adına hiç de hayırlı olmamıştır.<br />
+Bugün ülkemizde toplumun %50 oyunu almış bir iktidar vardır. Ancak iktidarın gözden kaçırdığı gerçek ise, karşısında onlar gibi düşünmeyen diğer % 50’lik bir kesimin bulunduğu gerçeğidir.<br />
+İktidar yanlıları medyada olanaklarından sınırsızca yararlanırken, muhalefet sesini dahi duyurmakta zorlanıyorsa medya da tartışılır hale gelmiş demektir.<br />
+Aslına bakarsanız, medyanın iş adamlarının eline geçtiği günden beri medya işadamlarının çıkarları doğrultusunda görev yapar hale gelmiştir.<br />
+Medya patronu bir işadamının iktidarla ters düşecek yazı ve yayınlara izin vermesi düşünülemez. İşte günümüzde medyanın durumu budur ve medya asli görevini yapamaz hale gelmiştir.<br />
+Üzülerek söylemek gerekirse, medyasının ve yargısının doğrularının tek ve aynı olmadığı ülkemizde, toplumun bu iki önemli kuruma olan güveni hızla erimektedir.<br />
+Medyanın ve yargının iktidar güçlerinin etkisi altına girdiği bir dönemden geçiyoruz. Ne yazık ki, bu yapı korku toplumuna dönüşmeyi de peşinden getirecektir.<br />
+Nitekim bu yapı ülkemizde yargı ve medyaya olan güveni ciddi boyutta azaltmış, toplumun sesi olan sendikaları “Sarı sendika” haline getirmiş, sivil toplum kuruluşlarını da suskunluğa itmiştir.<br />
+Bu yapının gideceği son nokta ise sivil diktadır.<br />
+Günümüzde ki sivil diktaların akıbetlerinin örnekleri ise, Irak ve Libya’da en acı şekilde yaşanmıştır. Irak’ta SADDAM, Libya’da ise KADDAFİ kendi halkı tarafından alaşağı edilmiş, birisi asılarak diğeri de linç edilerek öldürülmüştür.<br />
+Her iki örnekte de başta Amerika olmak üzere dış güçlerin bu ülkelerde ki çıkarlarını korumak ve o ülkelerin yer altı zenginliklerini ele geçirme hırsı yatmaktadır.<br />
+İşin daha da dramatik yanı, özgürleşeceği iddiası ile diktayı bitiren Irak’ta dikta sonrası yaşananlardır.<br />
+Yüz bini aşkın kendi insanını kaybeden ve büyük bir kaosun içine düşen Irak Halkı, bugün Saddam’ı arıyorsa, mesajı almak gerekir. Bir süre sonra işin asıl yanını görecek olan Libyalıların da Kaddafi’yi arar hale geleceği kesindir.<br />
+Çünkü akan kanlar Irak ve Libya’nın çıkarları için değil, dış güçlerin çıkarlarını korumak uğruna akıtılmıştır. Kısacası dış güçler her iki ülkede de kendi insanlarının bir bölümünün dış güçlerin oyununu görememesi sonucu yaşanmıştır.<br />
+Sözün özü bütün bunlar, Amerika’nın çıkarlarını koruma ve genişletme hırsı doğrultusunda yeniden yapılandırılmaya çalışılan Ortadoğu haritasıyla ve Büyük Ortadoğu Projesi denen sömürgeci hesapların gerçekleştirilmesi ile ilgilidir.<br />
+Ülkemizin de bu oyunun bir parçası olmayacağı ve toplumun bu oyuna izin vermeyeceği umuduyla, iyi haftalar. 23 Ekim 2011</p>
+<p>Ecz. SADİ SUBAŞI</p>
+<p>Sadi Bey,<br />
+Tamamen katılıyorum.<br />
+Çok vahim bir asamaya geldik.<br />
+Ülke çıkarının ne ve nerede olduğunda anlaşamayan bir toplum yapıldık.<br />
+Ne garip ikilemdir, büyük bir çoğunlukta da duyarsızlık zirvede.</p>
+<p>UMUDUMUZU VE DİRENCİMİZİ YİTİRMEDEN BUNLARI DA ASMAYA ÇALIŞACAĞIZ. En iyi dileklerimle. BESTEPE<br />
+DEĞERLİ SADİ AĞABEY,<br />
+CHP İl Yönetiminde aktif görev almanızı kutluyorum, hayırlı olsun. Birkaç hususa değinmek istiyorum.<br />
+1. din bezirganlığını iyi yapan bu iktidarın imamlar vasıtasıyla özellikle cuma hutbelerinde toplumu birleºtiren olgunun din olduğu millet, vatan gibi kavramların yersiz olduğu istikametinde cami cemaatini etkileyerek anayasanın değiştirilemez ilkelerinin önemli olmadığı işlenerek toplumun yeni anayasa anlayışına hazırlanacağını değerlendiriyorum.<br />
+2. anayasa komisyonu kanaatimce oyalama taktiğidir. AKP’nin halkoyuna sunulacak taslak anayasası hazırdır.<br />
+3. AKP’nin BDP ile beraber ortak evet diyebileceği bir anayasa maratonuna başlandığını hissediyorum. Bu durumda ulusal cephenin şansı çok azdır.<br />
+4. Şimdiden ülkenin en ücra köşelerine kadar gidilip toplumu cemaat değil millet olduğuna ikna etmemiz gerekiyor,<br />
+saygılarımla                                                                           Ragıp Varan</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0554-samsun-adina-umut-isigi-samsun-sempozyumu.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0556-cumhuriyetimize-vurulan-darbe.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

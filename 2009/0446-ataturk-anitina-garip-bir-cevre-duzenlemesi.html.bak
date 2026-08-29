@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Atatürk Anıtına Garip Bir Çevre Düzenlemesi</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Atatürk Anıtına Garip Bir Çevre Düzenlemesi
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2009
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0446
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>ATATÜRK ANITI’NA GARİP BİR ÇEVRE DÜZENLEMESİ</p>
+<p>21 Haziran 2009 tarihli köşe yazımda, Samsun’un onur kaynağı ve simgesi olan ATATÜRK ANITI’NIN çevresinin Samsun’a ve Ata’mızın anısına yakışmadığına vurgu yaparak, bu alanın yeniden ve geniş kapsamlı olarak düzenlenmesi ve ışıklandırılması gerektiğine değinmiştim.<br />
+Yazımın yayınlandığı günlerde Büyükşehir Belediye Başkanlığının bu alanda bazı çalışmalarda başlattığını öğrenince çok da mutlu olmuştum.<br />
+O günden sonra yapılan işlemleri merakla bekliyor ve BANDIRMA VAPURU ve çevresinin düzenlenmesi ile yaratılan muhteşem Bandırma Vapuru Açık Hava Müzesine benzer bir güzellik bekliyordum.<br />
+29 Ekim Cumhuriyet Bayramı’nın 86. yılı kutlamaları çerçevesinde Anıta çelenk koymaya gittiğimizde gördüğüm manzara karşısın da şaşkınlığa uğradım. Son on beş günü Samsun dışında geçirdiğim için bu alanda yapılanları ancak o gün görme şansım oldu.<br />
+Bir süredir Atatürk Anıtı’nın alanını çevreleyen sınırlara Atatürk Anıtı’nın kaidesinin küçük boy modellerinin belirli aralıklarla yapımı sürüyordu.<br />
+O günlerde bunların üzerine ne konacağını sorduğum da aldığım cevap, her birinin üzerine Atatürk’le birlikte 19 Mayısta Samsun’a çıkan silah arkadaşlarının büstlerinin konacağı şeklindeydi. Doğrusu bu tür bir düzenlemenin hem anlamlı olacağı, hem de bu alanı zenginleştireceğini düşünmüştüm.<br />
+Ne var ki, çelenk koyma töreni sonrası gördüklerime inanamıyordum. Atatürk Anıtı’nın alt kaidelerinin küçük birer modelleri üzerine, ilk görüşte anlayamadığım sarı renkli, yumurta görünümlü birer maket yerleştirilmişti. Birlikte olduğum arkadaşlarımda kesin bir yorum yapamadılar. Bu arada birisi bunların gece ışıklandırıldığını söyleyerek gece görüntüsünün çok daha başka çağrışımlar yaptığını söyledi. Gördüğüm kadarı ile bu kaide ve üstündeki maketler dizisinin henüz hepsi tamamlanmamıştı.<br />
+Aynı akşam giderek ışıklandırılmış halini de görerek resimlerini çektim. Gerçekten de ışıklandırılmış görünümünün neye benzediğini söyleyerek hiç kimseyi şartlandırmak istemiyorum. Ama gerçek şuydu ki, üzerinde ki neye benzetilirse benzetilsin, altı Samsun’un Onur Anıtı’nın kaidesi olan bir yapının üzerine kafaları karıştıran bu maketler hiç mi hiç yakışmamıştı.<br />
+Anıt etrafında yapılan düzenleme de, zemin taşlarının hiçbir yenilik ve güzellik yaratılmadan değiştirilmesi ve alanın dış çevresine yerleştirilen garip yapıtlarla sınırlı kalacak gibi gözüküyordu.<br />
+Gece karanlığında anıt ve çevresinin görüntüsü beni çok daha fazla üzdü. Anıtın tam karşısın da çağdaş bir yöntemle ışıklandırılmış ışıl ışıl bir otel, hemen sağ tarafında yeni restore edilmiş ve renkli ışıklarla bezenmiş Bölge İdare Mahkemesi ve bunların arasında kalmış, karanlık çevresi içine gömülmüş cansız sarı renkli sokak spotuyla aydınlatılmış Atatürk Anıtı, bir Samsunlu olarak içimi sızlattı.<br />
+21. Yüzyılın tartışmasız en büyük lideri kabul edilen MUSTAFA KEMAL ATATÜRK, Kurtuluş Savaşımızın ilk adımını 19 Mayıs 1919 sabahı Samsun’a çıkarak atmış ve Samsun’a tarihi bir misyon yüklemiştir. Samsun Halkı da, Atasına olan sevgi ve saygısını Türkiye’nin en güzel anıtını yaptırarak göstermiştir.<br />
+Bize düşen görev, Samsun’un simgesi haline gelen ve Samsun’a gelenlerin ilk gittikleri yer olan ATATÜRK ANITINI ve çevresini 19 Mayıs Kentine yakışır hale getirmektir. Bu alan çevresine ışık saçan bir güzelliğe kavuşturulmalıdır.<br />
+Bu Anıt’ın, Kültür ve Turizm Bakanlığı tarafından koruma alınmış tescilli bir yapıt olduğunu ve bu alanda yapılacak düzenlemelerin de Kültür Varlıklarını Koruma Kurulu tarafından onayının gerektiğini öğrendim. Şu anda uygulaması yapılan projenin henüz onaylanmadığı bilgisine de ulaştım.<br />
+Daha sonra yaptığım araştırma sonuncun da, düzenlemenin Büyükşehir Belediye Başkanlığı tarafından sürdürüldüğünü ve projenin de benim de yakından tanıdığım ve çok sevdiğim bir mimar dostum tarafından yapıldığını öğrendim.<br />
+Cuma akşamı kendisi ile yapığım görüşmede proje hakkında bilgi aldım. Çevre de yapılan kaidelerin üzerine konan maketlerin neyi temsil ettiğini de sordum. Aldığım yanıt, bunların Türkiye’nin aydınlatılmasını simgeleyen mum ışığı olduğu yönündeydi. Simgelerin yanlış değerlendirmelere sebep olacağını söyleyerek bunları yeniden değerlendirseniz iyi olur dedim. Ancak, her mimar gibi arkadaşımın da projesine ısrarla sahip çıktığını gördüm. Bu arada Anıtın ışıklandırılmasının yeniden yapılacağı bilgisini de aldım.<br />
+Kendisinin bir mimar gözü ile gördüklerini bir vatandaş olarak algılamadığımı, konuştuğum kişilerinde benim gibi çok farklı anlamlar yüklediğini açıkça söyledim. Ayrıca kendisinin görüşlerine saygı duyduğumu, ancak bu düzenlemenin Samsunluların içine sinmesi gerektiğini, bu nedenle de tartışmaya açmak için bu konuyu bu hafta ki köşe yazıma da taşıyacağımı söyledim.<br />
+Eğer bu kentin giriş noktalarında, Samsun’u “ATATÜRK’ÜN ŞEHRİ” olarak tanıtıyorsak, O’NUN Anıtının çevresine de çeşitli yorumlara açık maketleri koyamayız. Bunu hiçbir Samsunlu kabullenmez.<br />
+Siz simge haline gelmiş Atatürk Anıtı’nın ana kaidesini aynen alacaksınız, üzerinde ki rölyef boşluklarına da Atatürk ile ilgili kabartmalar koyacaksınız (Proje sahibi mimar arkadaşımızın söylemiyle), üzerine de burada söylemek istemediğim yorumlara neden olabilen maketleri yerleştireceksiniz.<br />
+Mimar arkadaşımın tüm iyi niyetine inanıyorum, ama yapılan şekliyle bu düzenlemenin kabul edilmesi beklenmemelidir.<br />
+Bu kaidelerin üzerine 19 Mayıs 1919 sabahı Mustafa Kemal ile Samsun’a çıkan silah arkadaşlarının büstlerinin konulması, diğer boş alanlara da Kurtuluş Savaşı’nın simge isimlerinin yerleştirilmesi ile bu alan açık hava müzesi haline getirilebilirdi.<br />
+Bandırma Vapuru Açık Hava Müzesi’ni yaratan Büyükşehir Belediye Başkanlığı’nın bu parkı da bu bakış açısı ile düzenleyebileceğine inanıyorum.<br />
+Atatürk Anıtı’nın bulunduğu park, çevresinden çok daha farklı bir görüntü verecek ve o bölgeden geçen herkesin dikkatini çekecek bir güzellik içersinde olmalıdır. O nedenle bu parkın düzenlemesi aceleye getirilmemelidir.<br />
+Düzenleme bu konunun uzmanlarından oluşacak bir kurul tarafından belirlenecek özellikleri taşıyacak bir proje çerçevesinde yapılmalıdır.<br />
+Turizm ve tanıtım anlamında çok fazla enstrümanı olmayan Samsun’un, bu konuda en büyük kozu “19 MAYIS” tarihi misyonudur. Bu park o nedenle de çok önemlidir.<br />
+Umuyorum, bu düzenleme de bir inatlaşma konusu yapılmaz ve 19 Mayıs Kentine yakışır bir düzenleme ile tamamlanır.<br />
+Güzel ve sağlıklı bir hafta dileğiyle. 01 Kasım 2009</p>
+<p>SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0445-bu-olanlardan-sonra-samsun-ombudsmanlik-muessesesini-tartismaya-acmalidir.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0447-halkin-i-cinde-olmadigi-onemsizlestirilen-ulusal-bayram-kutlamalari.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

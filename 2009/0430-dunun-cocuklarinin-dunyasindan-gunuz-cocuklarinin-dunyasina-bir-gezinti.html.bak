@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Dünün Çocuklarının Dünyasından Günüz Çocuklarının Dünyasına Bir Gezinti.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Dünün Çocuklarının Dünyasından Günüz Çocuklarının Dünyasına Bir Gezinti.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2009
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0430
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>DÜNÜN ÇOCUKLARININ DÜNYASINDAN GÜNÜMÜZ<br />
+ÇOCUKLARININ DÜNYASINA BİR GEZİNTİ..</p>
+<p>Bugün yaşı altmışı geçenlerin çok iyi anımsayacakları o güzel çocukluk günlerimizi anmak ve o dönemlere ait anıları tazeleyerek günümüz çocuklarına yaptığımız haksızlığı gözler önüne sermek istiyorum. Gelin, hep birlikte o günlerin zaman tünelinde bir gezinti yapalım.<br />
+Ellili yıllar ile altmışlı yılların ilk dönemlerine ait bu çocukluk günlerimizi hatırlayınca kendi çocuklarımız adına içim burkuluyor.<br />
+O yıllar, çocukların çocukluğunu tüm saflığı ile yaşadığı dönemlerdir. Yalandan, yapmacık uygulamalardan, daha da ötesi tüm çevre dayatmacılıklarından uzak, çocukların çocukluklarının tüm evrelerini doyasıya yaşadığı yıllardır.<br />
+Teknolojinin henüz çocuklarımızı esir almadığı dönemlerdir o günler. Acımasız ticari sanayinin de çocuklarımızı potansiyel tüketici olarak görmediği dönemlerdir.<br />
+Televizyonun ne olduğunun bilinmediği, dolaysıyla sadece çocukların değil, tüm boşluk içersinde yuvarlanan insanların dizi bombardımanı ile esir alınmadığı, çocukların özgürce yaşadığı günlerdir, o günler.<br />
+Radyo denince, akıla sadece Ankara Radyosu ile bazı yerlerde o günkü deyimiyle “parazitli”, yani cazırtılı dinlenebilen İstanbul Radyosunun geldiği günlerdir, ellili altmışlı yıllar.<br />
+Maç naklen yayınlarının İstanbul Radyosu’ndan, o da sadece İstanbul takımlarının maçlarının yayınlandığı günlerdir. Benim gibi maç fanatiklerinin maçları dinleyebilmek için, cazırtılı çıkan İstanbul radyosunun içine girdiği günlerdir, o günler. O dönemlerin popüler Spikeri Pertev Tunaseli’nin zaman zaman kaybolan sesini duyabilmek için kocaman radyoların ( transistörlü pilli radyolar olmadığı için) adeta içine girerdik, maç naklini dinleyebilmek için.<br />
+Pazar akşamları Rahmetli Sulhi Garan’ın sunduğu tek spor programı maç meraklılarının tek şansıydı. Bugün hala kulaklarımda çınlayan özel müziği ile başlayan ve Sulhi Garan’nın arı Türkçesi ile sunduğu spor programlarını bugün bir kez daha yayınlasalar, sanıyorum birçok spor programı utancından yayından kalkar.<br />
+Çocukların, çocukluklarının gereği olan yaramazlıkları yaptığı yerler, bu günkü gibi araç trafiğine açık sokaklar değildi. Her mahallede çocukların hava kararıncaya kadar, hatta geceleri dahi oynayabildiği doğal çim alanlar vardı. Özellikle Kefeli Sami Çiftliği’nde ki çayır alanlar üç dört mahallenin çocuğuna yeterliydi. Yaptığımız iddialı maçların tadını bugün dahi hatırlıyorum.<br />
+O zamanlar patika olan Lise Caddesi’nden başlayıp, Asri Mezarlık’a kadar uzanan devasa yeşil alanın Kız Meslek Lisesi’nin karşısına rastlayan bir bölümünde ise KOREN BAHÇESİ vardı. Burası o zamanlar Samsun’da bulunan Amerikan Radar’ın da çalışan Amerikalı askerlerin milli sporları olan “Beysbol” oynadıkları sahaydı. Sonra ki yıllarda burası bizlerin futbol sahası olmuştu. Bu saha yaz aylarında çok sayıda milli takım futbolcusunu da ağırlardı. Bugün, sadece Koren değil Kefeli Sami Çiftliğinin de tamamı, bir metrekare oyun sahası dahi ayrılmayan bir taş yığını.<br />
+Samsun’un ve çocuklarımızın geleceğini yok eden bu belediyecilik anlayışına aklıma geldikçe lanet okuyorum.<br />
+Günümüzün çocuklarının hayal dahi edemeyecekleri başka güzellikler yaşanırdı o zamanlar. Mesela düdüğü kendimiz yapardık. Nasıl mı? O dönemlerde evlerin merdivenleri ve bahçe önleri mozaikle kaplıdır. Mozaik zeminlerin yüzeyi tırtıklı olur. Kayısı mevsiminde yediğimiz kayısı çekirdekleri biriktirilir ve güneşte kurutulurdu. Arkadaşlarla bir araya geldiğimizde düdük yapma yarışı başlardı. Önce çekirdeğin bir yüzünü mozaik zemine sürte, sürte delik açardık. Sonra diğer yüzüne aynı işlem uygulanırdı. İki tarafı da delinince düdük tamamdır. Ağza alınıp üst ve alt dişler arasına sıkıştırılıp üfleyince, bekçi düdüğüne taş çıkartacak şekilde öterdi. İlk öttüren günün şampiyonudur.<br />
+Daha çok akşamüzerleri kızlı erkeli oynanan “Yakan top”, bir başka adı ile “Tombilis” saatler süren bir eğlenceydi. Üst üste dizilerek yapılan taş kulenin takımların bir oyucusu tarafından belli bir mesafeden atılan bir topla yıkılması ile başlayan oyun, topla vurulan oyuncunun oyundan çıkması ile devam ederdi.<br />
+Kalın telden yapılarak tel bir çubukla çevrilen ‘çember” bir başka eğlencemizdi. Tellerin kıvrılması ile yapılan dört tekerlekli araçlar o dönemin çocuklarına el becerisi kazandırırdı.<br />
+Birde havaya atılan topun tutulabilmesi ile oynanan “İstop” vardı.<br />
+Erkek çocuklarının, “cicili veya enek” de denilen rengârenk cam bilyelerle toprak zeminde oynadıkları oyunun yanında, kız çocuklarının yere çizdikleri karelerden tek ayak üzerinde yassı bir taşı atlatmaya çalışması ile oynadıkları “Sek-sek” en yaygın oyunlardı.<br />
+Bugün siz hiç uçurtmasını kendisi yapan çocuk gördünüz mü? Hadi yapmasından vazgeçtik, uçurtma uçurtan, hatta uçurtma uçurtacak boş alan bulabilen çocuk gördünüz mü?<br />
+Mahallede çocuklar arasında belli bir saygı düzeni de vardı. Büyük olan saygı görür ve onun sözü dinlenirdi. Küçükler büyükler tarafından kollanırdı. O gün ne oynanacağına dahi hep birlikte karar verilirdi.<br />
+Deniz mevsiminde bizim mahallelerin denize girdiği yer meşhur “Vinç” iskelesiydi. Grup halinde gidilir ve grup halinde gelinirdi.<br />
+Mahallemizde ki bu tutkunluk ve kaynaşma her türlü kötü alışkanlıktan da bizleri koruyordu. Örneğin grubumuzda sigara içen yoktu.<br />
+Belki tek kötü şey, ender de olsa mahalleler arasında çıkan kavgalardı. Bu kötü eylem de dahi bir farklılık vardı. Yaralayıcı hiçbir alet kullanılmazdı. Tek silah yumruklardı. Sadece arada sırada taş kullanıldığı olurdu.<br />
+Yaz aylarının tamamı bizimdi. Bu günkü gibi dershanelere veya özel öğretmenlere mahkûm değildik. Çocuklar çocukluğunu doyasıya yaşayabiliyordu.<br />
+Bugün çocukluk anılarımı anlattığım da, çocuklarımın dahi çok inandırıcı bulmadığını, daha doğrusu onları hayal dahi edemediklerini üzülerek görüyorum.<br />
+Geçtiğimiz günlerde bir dostum, yeniden düzenleyip harcama yaptığı evini boşaltarak bir siteye taşındı. Biraz da şaşkınlıkla sorduğumda aldığım cevap her şeyi anlatıyordu. İkinci çocukları olan ailenin biraz daha büyük olan çocuğu bir akşam babasına iç acıtacak bir soru yöneltiyor ve “Baba ben dışarıda hiç oynayamayacak mıyım?” Diyordu. Aile o anda kararını vermiş ve çocuğunun özgürce oynayabileceği bir siteye taşınma kararını almışlardı.<br />
+Çocukluğunu oynayarak geçiren ve doyuma ulaşan bizim nesil ne yazık ki, çocuklarını çarpık kentleşmeye ve eğitim adı altında bir canavara mahkûm etti.<br />
+Çocuklarımızı bir metrekare bahçesi olmayan, çoğunda doğru düzgün balkon dahi bulunmayan yana bitişik nizamda yapılmış sefer tası  çok katlı apartmanlarda büyüttük.<br />
+Çocuklarımızın oyun alanlarında özgürce koşarak, arkadaşlar edinerek ve paylaşmayı öğrenerek büyümelerine, kısacası çocukluklarını yaşamalarına dahi izin vermedik. Tüm bunları nasıl başardık derseniz cevabı basittir.<br />
+Sorumluların birincisi, bize daha iyi bir kent ortamı sağlasın diye seçtiğimiz ama karşılığında çıkarlara dayalı çarpık yapılaşmalara göz yumarak, kentlerimizi taş yığınına çeviren çapsız yerel yöneticilerdir.<br />
+İkincisi ise ülkemizi çok daha iyi ortamlara taşısınlar ve kentlerimizin sorunlarını hükümete aktarsınlar diye seçtiğimiz siyasetçilerin yarattığı ucube eğitim sistemleridir.<br />
+Yazık ettik günümüzün kuşağına. Çocukluğunu yaşayamayan çocuklarımız belki de onun için bugün toplumu derin endişe ve üzüntüye sevk eden davranışlar sergiliyorlar.<br />
+Çocukluklarını yaşatmadığımız kızlarımız dahi kesici aletlerle birbirine saldırabiliyorsa, okullara silahla girme cesareti gösterilebiliyorsa, sigaraya başlama yaşı onlu yaşlara düşmüşse, uyuşturucu kullanma oranı gençler arasında hızla yükseliyorsa, artık onların örnek seçtiği insanlar Polat Alemdar’lar oluyorsa, her şey apaçık ortada demektir.<br />
+Kontrol edilemeyen TV programları ve sınırsız internet olanakları çocukların denetimini de imkânsız hale getirmiş bulunuyor.<br />
+Biz hala çocuklarımızı oyun sahalarından kopartıp dershanelere mahkûm etmeyi sürdürelim. Yeni, yeni sınav modelleri yaratarak çocuklarımızı yarış atı gibi yarıştıralım. Daha da ötesi, parası olmayana eğitim şansı vermeyen sistemleri yaratalım. Sonrada bu gençliğe ne oluyor diye sorular soralım.<br />
+Mehmet Akif Ersoy, “MEDENİYET DEDİĞİN TEK DİŞİ KALMIŞ CANAVARDIR” dizelerini boşuna söylememiş.<br />
+Ey! Bizi yönetenler, bu nesil sizin eserinizdir. Övünebilirsiniz.<br />
+İyi haftalar.. 02 Ağustos 2009<br />
+SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0429-bir-baska-samsun-yok-o-halde-bu-kavga-nden.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0431-degerini-bilemedigimiz-bir-kurulus-samsun-folklor-vakfi.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

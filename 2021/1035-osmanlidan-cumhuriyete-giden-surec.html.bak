@@ -1,0 +1,362 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Osmanlıdan Cumhuriyete Giden Süreç.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Osmanlıdan Cumhuriyete Giden Süreç.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2021
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+1035
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>OSMANLI’DAN CUMURİYETİN İLANINA GİDEN SÜREÇ</p>
+<p>Geçtiğimiz hafta Cuma günü, 29 Ekim 1923 de ilan edilen Cumhuriyetimizin ilanının 98. Yılını tüm Türkiye’de uzun süredir özlem duyduğumuz muhteşem kalabalık ve eski heyecanları yaşatan törenlerle kutlandı.<br />
+Samsun’da dâhil olmak üzere ülkemizin dört bir yanında halkımızın çocukları ile katıldığı fener alayları ve çeşitli gösterilerle kutlandı.<br />
+Cumhuriyetimizin böylesine kapsamlı kutlanmasını sağlayan Belediyelerimiz ve Atatürkçü Düşünce Dernekleri ile diğer duyarlı tüm sivil toplum kuruluşlarının yöneticilerine ve de törenlere katılan halkımıza tüm Cumhuriyet sevdalıları adına teşekkür ediyorum.<br />
+Kurtuluş Savaşının büyük bir zaferle noktalanması sonrası kurulan Türkiye Cumhuriyeti Devleti’ni, Cumhuriyetin ilanına götüren süreci irdelemeden, Cumhuriyet Döneminin Türk Ulusuna açtığı yeni ufkun değeri anlaşılamaz.<br />
+Üzülerek söylemek isterim ki, okullarda uygulanan eğitim politikalarımız ile Cumhuriyet Dönemi ve Atatürk gibi Osmanlı Dönemi de çok yüzeysel bilgilerle öğretmiştir.<br />
+Gerek Osmanlı, gerekse Cumhuriyet Dönemine gidilen süreçlerde neler yaşandığı, neden ve sonuç ilişkileri ile sorgulanarak öğretilmedi.<br />
+Üç kıtaya yayılacak kadar dev bir İmparatorluk haline gelen Osmanlı’nın çöküşünü hazırlayan nedenler de yeterince öğretilemedi.<br />
+Bunları öğretmek yerine Osmanlı dönemi, sadece kazanılan zaferler ve övgüler düzülen hamasi hikâyelerle anlatıldı.<br />
+Bizim kuşak da dâhil olmak üzere gençlerimizin Osmanlı İmparatorluğu’nun ve de son vatan toprağı Anadolu’nun işgalcilerden temizlenmesi ile kurulan son Türk Devleti olan Türkiye Cumhuriyeti’nin tarihini de yeterince bilmediği görülüyor.<br />
+Osmanlı Döneminin tarihini incelemeden, Türkiye Cumhuriyeti’nin kuruluşunu ve Cumhuriyetin ilanını anlamak mümkün değildir.<br />
+O nedenle Mustafa Kemal Atatürk’ü yeni bir devlet kurmaya ve ardından da halkın egemenliği demek olan, Cumhuriyeti ilan etmeye götüren tarihi süreçten bazı şeyleri sizlerle paylaşmak istiyorum.<br />
+Buradan başlamamın nedeni, son yıllarda “Şanlı Osmanlı İmparatorluğunu Mustafa Kemal yıkmıştır” gibi gerçek dışı söylemlerle Cumhuriyet ve Atatürk düşmanlığının yapılmasıdır.</p>
+<p>Bilindiği gibi 1299 yılında Osman Bey, Anadolu’da ki dağınık Türk Beyliklerini Osmanlı Devleti şemsiyesi altında toplayarak Osmanlı Devletini kurmuştur.<br />
+Osmanlı Devleti, giderek hızlı bir büyüme ile üç kıtaya yayılarak büyük bir İmparatorluk haline gelmiştir.<br />
+Ne var ki, bu süreçte Osmanlıyı çöküşe götüren çok önemli yanlışlar yapılmıştır:</p>
+<p>1-OSMANLI’NIN BÜYÜMENİN GEREKTİRDİĞİ BİLGİ VE DONANIMI YOKTUR.</p>
+<p>Nitekim ilerleyen süreçlerde, Osmanlı bu kadar geniş bir alana yayılarak büyümenin gerektirdiği donanımlı ve eğitimli yöneticilere sahip olmadığı için bu topraklarda kalıcı bir düzen kuramamıştır.<br />
+Çünkü Osmanlı’nın üç kıtaya yayılacak kadar büyümesinin temelinde sömürgecilik anlayışı yoktur.<br />
+O nedenle, Osmanlı Padişahları ele geçirdikleri geniş topraklarda kalıcı olmak üzere bir sistem kurma beceri ve yetisine sahip olmadıkları için o toprakların kaynaklarını uzun vadeli kullanmak yerine, Osmanlı Hazinesini ayakta tutacak ganimetlerle yetinmiştir.<br />
+Osmanlı, o topraklarda ki halkın kendi içlerinde özgürce yaşamasına ve dinlerini özgürce yaşamalarına izin vererek, Osmanlı’nın orada kalıcı olmasını sağlayacak bir asimilasyona da girişmemiştir.<br />
+Bu da, Osmanlı’nın kan kaybetmeye başlaması ile bu ülkelerin birer ikişer İmparatorluktan kopmasına zemin hazırlamıştır.</p>
+<p>2-EĞİTİM KONUSUNA GEREKLİ ÖNEM VERİLMEMİŞTİR,</p>
+<p>Osmanlı, halkını eğitememiş ve özellikle Avrupa eğitim konusunda hızla gelişirken, Osmanlı’da okuryazar oranı % 3-5 ‘lerin üzerine çıkamamıştır.. Avrupa’da 1450 de kullanılmaya başlayan matbaa, Osmanlı tarafından ancak 1727 de kullanılabilmiştir.</p>
+<p>3-OSMANLI’DA DİN, DEVLET YÖNETİMİNİN ÖNÜNE GEÇMİŞTİR.<br />
+Avrupa din savaşları ile bedel ödeyerek, Kiliselerin toplum üzerindeki baskısını kırıp din ile devlet işlerini ayırırken, Osmanlı Hanedanı, Hilafetin ve Şeriat düzeninin etkisi altında aydınlanma aracı olan birçok yeniliği, “Gâvur İcadı” gibi safsatalarla halkına sunmamıştır.</p>
+<p>4-SANAYİLEŞME DEVRİMİNİ YAPILAMAMIŞTIR;<br />
+Avrupa ülkeleri halkının eğitim düzeyini yükseltmesinin de etkisi ile hızla Sanayi Devrimini yaparak üreten toplum haline gelir ve zenginleşirken, Osmanlı da çivi dahi yapılamıyordu.</p>
+<p>5-OSMANLI HANEDANI İÇERİSİNDE DE CİDDİ SORUNLAR VARDIR.</p>
+<p>Osmanlı yönetimi bir hanedanlık olduğu için padişahlık babadan oğula geçmektedir. Padişahların birden fazla eşi olması nedeniyle, hangi veliahtın tahta çıkacağı konusu hanedanlık içerisinde sorunlar yaratmaya başlamıştır.<br />
+Bu sorun, Hanedanlığın bekasını korumak adına Şeyhülislamların verdiği fetvalarla çocukların, kardeşlerin, hatta torunların ve bebeklerin katli olağan hale getirilerek çözülmüştür.<br />
+Aslında Osmanlı Hanedanı için çok konuşulmayan bir başka büyük yanlış ise, tüm padişahların Rus, Bulgar, Sırp, Rum, Hırvat gibi yabancılardan devşirilmiş eşlerinin de olmasıdır.<br />
+Osmanlı Sarayın da yaşanan entrikaların odağında da, genellikle bu yabancı eşler vardır. Anlaşılmaz olan ise, tahta geçen veliahtlar hep yabancı eşlerin çocukları olmuştur. Nitekim tarihi kayıtlara göre, bir padişahımız hariç tüm padişahların annesi yabancı kökenlidir.</p>
+<p>6-OSMANLI’NIN EN BÜYÜK BİR BAŞKA YANLIŞI ANADOLUYA BAKIŞIDIR.</p>
+<p>Osmanlı’yı yöneten kadrolar, kurucu Osman Bey ile başlayan ve yıkıldığı tarihe kadar Osman Bey’in soyundan gelenler tarafından oluşmuştur.<br />
+Kısacası Osmanlı bir hanedanlıktır. Osmanlı, İstanbul ve civarında ki bölgeler dışında özellikle Anadolu da yaşayan Türkleri tarihi boyunca görmezden gelmiştir.<br />
+Osmanlı Hanedanı, Anadolu Halkını vergi toplanırken ve çocukları askere alınırken hatırlamıştır.<br />
+Bunun sonucu olarak Anadolu Halkı, son derece fakirleşmiş ve adeta bir sömürge yaşamına mahkûm edilmiştir.<br />
+Eğitimsizlik ve cahil kalmanın da etkisi ile toprakların büyük bölümünü eline geçirmiş olan ağalara mahkûm olmuştur.<br />
+Tarım ve hayvancılık son derce ilkel usullerle yapılmakta olup, tarım büyük baş hayvanların çektiği karasabanlarla yapıldığı için halkın ürettiği tarım hiçbir zaman halk için önemli bir gelir kaynağı haline gelmemiştir.</p>
+<p>TÜM BU OLUMSUZLUKLAR OSMANLI’NIN ÇÖKÜŞÜNÜ HIZLANDIRMIŞTIR;</p>
+<p>Sonuçta, tarih boyunca Türkleri Anadolu’dan geldikleri Orta Asya’ya geri göndermek gibi bir hedefi olan Avrupa Devletleri, içimize yerleştirdikleri ajanlarının da yardımı ile amaçlarını gerçekleştirme fırsatını yakalamıştır.<br />
+Osmanlı en zayıf olduğu ve ekonomik olarak çöktüğü son döneminde 1. Dünya Savaşına girmek zorunda bırakılmıştır.<br />
+Bu savaştan yenik çıkan blokta yer alan Osmanlı, elinde kalan son vatan toprağı olan Anadolu’nun da çok büyük kesimi, 1. Dünya Savaşını kazanan İtilaf Devletleri olan İngiltere, Fransa, Rusya ve İtalya tarafından paylaşılmıştır.<br />
+30. Ekim 1918 de Osmanlı’ya silah bıraktırmak olan Mondros Antlaşması imzalatılıyordu.<br />
+Bu imza, Osmanlı’nın Saltanatının sonunu hazırlıyor ve işgalci ülkelere başta İstanbul ile Çanakkale Boğazları olmak üzere herhangi bir bahane ile istedikleri her yeri işgal etme hakkı veriyordu.</p>
+<p>MİLLİ MÜCADELENİN İLK ADIMI ATILIYORDU;</p>
+<p>Mondros Antlaşmasını kabul etmeyip bayrak açan Yıldırım Orduları Grup Kumandanı Mirliva Mustafa Kemal, Türk tarihi ile Türk coğrafyasını çok iyi bilmesinin de verdiği muhteşem bir öngörü ile Milli Mücadele’nin temelini daha o gün, yani 03 Kasım 1918’ de atıyordu.<br />
+Mustafa Kemal 3 Kasım’da emrindeki birliklere Adana’da, “Karaya asla bir işgal kuvveti çıkartılmaması” emrini veriyordu.<br />
+İlerleyen süreçte işgalci devletler Osmanlı Hanedanına 10 Ağustos 1920 de SEVR ANTLAŞMASINI imzalatarak, İstanbul ile Anadolu’nun işgal edilmesini onaylatıyorlardı.<br />
+Ancak bu arada Mustafa Kemal ve dava arkadaşları 19 Mayıs 1919 da Samsun’a çıkarak Kurtuluş Savaşı’nın meşalesini yakmış ve Anadolu halkını da arkasına alarak Anadolu ve İstanbul’u düşmandan temizliyordu.<br />
+Kurtuluş Savaşını inanılması güç muhteşem bir Zaferle sonuçlandıran Mustafa Kemal ve dava arkadaşları, Sevr Antlaşması’nın tanınmadığını ilan ediyor ve 24 Temmuz 1923 tarihinde İşgal güçleri LOZAN’I imzalamaya mecbur edilerek, bir anlamda Anadolu’nun tapusu alınıyor ve İstanbul bir kez daha fetih ediliyordu.<br />
+İŞTE BU SÜRECİN SONUNDA CUMHURİYET İLAN EDİLİYORDU;<br />
+Ülkesini işgalden kurtaran Mustafa Kemal önderliğinde ki kadro, 23 Nisan 1920 de TBMM’ni açarak ülkenin yönetiminde egemenliğin Türk Halkına ait olduğunu ilan ediyordu.<br />
+Daha sonra da, 29 Ekim 1923 de de Laik ve Hukuk temelinde kurulan yeni Türk Devletinin yönetim biçimi de CUMHURİYET olarak ilan ediliyordu.</p>
+<p>Yönetim biçimi Cumhuriyet olarak ilan edilen Türkiye Cumhuriyeti Devleti, yüzünü çağdaş dünyaya çevirmişti.<br />
+Harf devrimi yaparak okuryazar sayısını 10 yıl içerisinde % 20 lere kadar yükseltmişti,<br />
+Atatürk, kurduğu Türkiye Cumhuriyeti’nin Cumhurbaşkanlığını yapabildiği 15 yıllık yaşamında, gıda ve tüketim maddeleri olan Un, Şeker, ayakkabı, kumaş ve ilk demir-çelik tesisleri üretime geçirilmesini ve Demiryollarının devletleştirilerek yeni demiryolları hatlarının yapımını sağlıyordu.<br />
+Modern tarım için atılımlar yapılmış ve ilk banka kurulmuştu.<br />
+Kadınlara seçme ve seçilme hakkı verilmişti.<br />
+Eğitim ve öğretimin birleştirilerek Latin harfleri kabul edilmişti.<br />
+İstanbul Üniversitesi kurulmuştu.<br />
+Halifelik kaldırılarak anayasaya Laiklik ilkesi eklenmişti.<br />
+Şapka ve Kıyafet devrimi yapılmıştı.<br />
+Tekkeler, zaviyeler ve kapatılmıştı.<br />
+Uluslararası saat, takvim ve uzunluk ölçüleri kabul edilmişti.<br />
+İsviçre Medeni Kanunu’ndan çevrilerek hazırlanan Medeni Kanun kabul edilmişti.<br />
+Ekonomik, sosyal, kültürel, demokratik hak ve özgürlükler elde edilmiş oldu. Bilimin, sanatın, kültürün gelişmesi ivme kazanmıştı.</p>
+<p>Tüm bunlar cumhuriyetin ilk onbeş yılında başarılırken, Osmanlı Devletinin 1. Dünya Savaşı sonrası oluşan savaş tazminat borçları da ödeniyordu.</p>
+<p>İşte bugün, Saltanatın verdiği kişisel hakları yeniden elde etmeyi amaçlayan bir kesimin, Mustafa Kemal Atatürk ve Cumhuriyet Dönemi karşıtlığı yapmasının kabul edilebilir yanı olamaz.<br />
+Yine üstü örtülü olarak da olsa, Şeriat Düzenini geri getirme özlemi içinde olanların Ülkemizi Orta Doğu karanlığına sürüklemesine, bu ülkenin Atatürk ilkelerini ve Cumhuriyetin sağladığı özgürlükleri özümsemiş bu ülkenin genç kuşakları izin vermeyecektir.</p>
+<p>Cumhuriyetimizin 98. Yılını kutlarken, bizlere özgürce yaşadığımız bir vatan armağan eden Mustafa Kemal Atatürk ve silah arkadaşları ile bu toprakları kanları ile sulayan aziz şehitlerimizi ve bugüne kadar ülkemizin çağdaş dünyada ilerlemesine katkı vermiş ve aramızdan ayrılmış tüm Devlet Adamlarımızı rahmet ve saygı ile anıyorum.<br />
+Güzel bir hafta dileğiyle… 01.11.2021<br />
+SADİ SUBAŞI</p>
+<p>e- http://www. hedefhalk. com</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="1034-ulkemizin-demokrasi-ve-hukuk-sorunlari-giderek-artiyor.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="1036-siyasi-partilerin-kentlerde-ki-aynasi-belediyelerdir.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

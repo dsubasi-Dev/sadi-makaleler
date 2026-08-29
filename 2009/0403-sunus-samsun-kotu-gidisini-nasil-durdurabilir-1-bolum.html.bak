@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Sunuş-Samsun Kötü Gidişini Nasıl Durdurabilir 1. Bölüm.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Sunuş-Samsun Kötü Gidişini Nasıl Durdurabilir 1. Bölüm.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2009
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0403
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>SAMSUN KÖTÜ GİDİŞİNİ NASIL DURDURABİLİR?<br />
+1. BÖLÜM</p>
+<p>Samsun’un tanımlanan pembe görüntüsü ile gerçek yüzü arasında çok büyük fark bulunmaktadır. Üzülerek söylemek gerekirse, çizilen pembe tablolar her Samsunlunun gururunu okşamanın ötesinde yaşanan hiçbir sorunu yok edememektedir. Benim sözünü ettiğim konu, Samsun’un kentsel güzelleşmesinden çok, kentler için daha önemli olan genel yapısı ile ilgili sıkıntılarıdır. Bunları, hiç kimse “karamsar tablolar çizmek” suçlaması ile geçiştiremez. Hiçbir Samsunlu, Samsun’u olduğundan kötü gösterme yanlışını da yapmaz, yapamaz. Ancak hiç kimse de, hele de bu kenti yönetenler Samsun’un yıllardır kan kaybettiği gerçeğini göz ardı edemez.<br />
+Eğer bir yerde sorun varsa, sorunun çözümü öncelikle sorunun varlığını kabul etmekten geçer. Sonra da var olan sorunun nasıl çözülebileceğinin yollarını araştırmak en akılcı yoldur. Samsun’a da bu açıdan bakar ve bu konuda ortak akıl ve ortak bir güç oluşturursak, inanıyorum ki yıllardır yapılan yanlışlardan sıyrılabiliriz.<br />
+Bu yazım da hiçbir saplantıya kapılmadan, gördüğüm ve izleyebildiğim sorunları sizlerle de paylaşmak istiyorum. Umuyorum önümüzde dönem de görev alacak kent yöneticilerimiz, görsel güzelliklerle ve yapılanlarla yetinip pembe tablolar çizmekten çok, bizi aşan illerle arayı nasıl kapatacağımızın hesabını yapacaklardır.<br />
+Eğer geçmişte Samsun’dan çok gerilerde olan illerin bugün hangi konumda olduklarını, bu konuma nasıl geldiklerini irdelersek, nerelerde yanlış yaptığımızı çok daha göreceğimize inanıyorum. Bu da bizim uygulanması gereken yeni yol haritamız olacaktır. Bugün sizlere bizi fersah, fersah geçen ne Kayseri, ne Konya, ne Eskişehir, ne de Denizli örneğini vereceğim. Sizlerle, Samsun ile sürekli yarış içersinde olan bir başka Karadeniz ili olan Trabzon gerçeğini paylaşmak istiyorum.<br />
+Samsun gerek coğrafi ve gerekse ulaşım yolları açısından Trabzon’a göre çok daha şanslı bir kenttir. Samsun Karadeniz’in Anadolu’ya açılan kapısıdır. Dört ulaşım yoluna da sahiptir.<br />
+Trabzon’da Samsun gibi hem dış göç alan, hem de dışarıya da göç veren bir kenttir. Ancak Trabzon kendi kültürüne daha yatkın çevresinden göç alırken, Samsun çok daha geniş ve çok daha değişik yöresel kültüre sahip çevrelerden göç almıştır. Samsun’un yoğun göç aldığı dönemlerde yerel yönetimi elinde bulunduranlar, büyük bir basiretsizlikle göçle gelenlerle Samsunluyu kaynaştıramamış ve tam tersine onları siyasi gelecekleri uğruna kamplaştırmışlardır. Trabzon’da ise, kent yönetimlerinde ağırlıklı olarak Trabzonluların bulunması nedeniyle böylesine ayrışımlar yaşanmamış, yaşanmasına da izin verilmemiştir.<br />
+Trabzon’un kozmopolit bir yapısının olmaması, kentlilik bilincinin ve Trabzonluluk ruhunun oluşmasını kolaylaştırmıştır. Buna karşılık Samsun’da ki farklı yöresel kültürel yapı ve bu yapının ortak kent kültüründe harmanlanamaması sonucu, Samsun’da kentlilik bilinci oluşamamış, Samsunluluk ruhu da yaratılamamıştır.<br />
+İnsanın hedefi ne denli büyükse, göstereceği çaba da o denli büyük olacaktır. Bu kural toplumlar içinde geçerlidir. O nedenle, toplumların hedef ve idealleri ne kadar güçlü olursa kendilerini aşma inancı da o denli büyük olacaktır.<br />
+Trabzon bu konuda hep bir iddianın peşinde olmuş ve “BÖLGE LİDERLİĞİNİ” hedef seçmiştir. Samsun ise geçmişten gelen bölgenin, hatta Türkiye’nin en gelişmiş illerinden birisi konumunda olmanın rahatlığı ile daha üst hedeflerin peşinde olmamıştır. Bu rehavet, zaman içinde Samsun’un kan kaybına neden olmuştur. Bunda, geçmişte Samsun’un ticari yaşamını ayakta tutan seçkin ailelerinin, daha iyi yaşam koşullarını seçerek İstanbul’a göç etmesi ve Samsun’la bağlarını kopartmaları da önemli rol oynamıştır.<br />
+Yazımın devamını ve bazı verilere dayalı karşılaştırmaları yarın bu sütunlarda bulacaksınız. Yazımın son bölümünü ise pazartesi günkü köşemde sizlerle paylaşacağım.<br />
+İyi haftalar dileğiyle. 08 Mart 2009<br />
+SADİ SUBAŞI<br />
+SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0402-degisen-degerler-ve-kaybolan-dostluklar.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0404-samsun-kotu-gidisini-nasil-durdurabilir-2-bolum.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Başkanlık Modeli Neden Tutmadı</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Başkanlık Modeli Neden Tutmadı
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2021
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+1024
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>BAŞKANLIK MODELİ NEDEN TUTMADI?</p>
+<p>Ülkemizin siyasi yaşamının 60 yıllık geçmişinde yaşananları bilen insanlardan birisiyim. İki darbe, iki muhtıra ve bir de darbe kalkışmasına tanıklık etme şanssızlığını yaşadım.<br />
+1960 askeri darbesi sonrası yeniden demokrasiye geçilirken Süleyman Demirel’in nasıl bir organizasyon ile Adalet Partisi’nin başına geçip kısa süre sonra başbakan oluşunu, Amerika’ya gitmeden kolay, kolay iktidar olunamadığını en iyi gözlemleyenlerden birisiyim.<br />
+Koalisyon Dönemleri;<br />
+İktidar olabilmek için siyasi ahlaka uymayan milletvekili transferleri ve TBMM Başkanı’nın seçiminde yaşanan inatlaşmalar ile Demirel-Ecevit zıtlaşmasının ülkemizi nasıl bir karmaşaya soktuğunu da birebir yaşamış birisiyim.<br />
+Liderlerin bu uzlaşmaz tutumu nedeniyle, dünya siyasetinde en çok kullanılan hükümet modellerinden birisi olan koalisyonlar, toplumumuz da büyük bir hayal kırıklığı ile birlikte koalisyon modeline olan güveni de sarsmıştır.<br />
+Son koalisyon hükümeti 1999 Genel Seçimleri sonrası Ecevit Başkanlığında DSP-ANAP-MHP arasında kurulmuştu. Bu koalisyon ile birlikte Türkiye sık sık karşılaştığı ekonomik sorunlardan birisine daha mahkûm olmuştu.<br />
+Ekonomik krize Dünya Bankasından gelen Kemal Derviş müdahale etmiş ve sıkı önlemlerin dayatılması ile ekonomi düzlüğe çıkartılmış, Koalisyon hükümeti rahatlamış ve görevini sürdürüyordu.<br />
+Ne var ki,  Ecevit’in yaşı gereği yaşadığı sağlık sorunları ve hala netlik kazanmayan bir şekilde uzayan hastane dönemi sırasında Kemal Derviş’in yönlendirmesi ile Cem İpekçi’ye yeni bir parti kurdurulmuştu.<br />
+Böylece DSP’ de başlayan parçalanma ve ardından Kemal Derviş’in erken seçim sözleri etmesi üzerine her zaman olduğu gibi Devlet Bahçeli’nin de erken seçim önerisini sahiplenmesi ile erken seçime gidilmişti.<br />
+Bunları yazmamın nedeni, bugünlerde sürekli karalanan koalisyon dönemlerinde yaşananları hatırlatmaktı.<br />
+Yukarıda kısaca özetlediğim koalisyon dönemleri gerçekten de liderlerin akıl dışı inatlaşmaları nedeniyle ülkemizde ciddi sorunlara neden olmuştu.</p>
+<p>Tek Parti İktidarları;<br />
+Yıllarca ülkemizde ki tüm sağ iktidarların hedef tahtası, Türkiye Cumhuriyeti’ni kuran kadroların yer aldığı CHP tek parti iktidarları olmuştur.<br />
+Oysa tek sanayi kuruluşu bulunmayan, eğitim düzeyi % 2-3’lerde olan, halkı yoksulluğa mahkûm edilmiş Osmanlı’nın yıkılması sonrası Osmanlının küllerinden yeniden kurulan Türkiye Cumhuriyeti Devleti’nin kurucusu olan kadroların yer aldığı CHP Dönemi (1923-1950 arası), Türkiye’de çok şeylerin yapıldığı dönem olmuştur.<br />
+Bu dönem aynı zaman da temel gıda ve temel ihtiyaç maddeleri ile demir çelik üretimin başladığı, ülkemizin en önemli hizmet kuruluşlarının da (İş Bankası, TCDD, Diyanet İşleri Başkanlığı, Halk Bankası gibi) Kurulduğu dönemdir.<br />
+Yine bu dönem, Osmanlının 1. Dünya Savaş Savaşından oluşan borcunun da büyük bir kısmının ödendiği dönemdir.<br />
+O dönem, eğitimde büyük bir başarının yakalandığı ve okuryazar oranının % 15’lere ulaştığı yıllardır. Eğitim alanında mucizeler yaratan Köy Enstitüleri de bu dönemin başarıları arasında yer alır.<br />
+Dünya Savaşı dışında kalabilmenin sağlandığı, Hatay’ın topraklarımıza katıldığı, tüm komşularımızla iyi ilişkilerin sağlandığı, “Yurtta sulh, dünya da sulh” ilkesinin tüm dünyaya kanıtlandığı dönemdir.<br />
+Hatırlatmak isterim ki, CHP tek parti iktidarı 1. Dünya Savaşından yenik çıkmış, tüm topraklarını kaybetmiş, son vatan toprağı Anadolu’nun da büyük bir kesimi işgal edilmiş bir enkazdan yeni bir devletin yaratılması sonrası ülkemizi yönetmiştir. Başarının doruğa çıktığı dönem ise, Mustafa Kemal Atatürk’ün imzası olan sadece 15 yıldır.<br />
+Yine 1950-1960 arası bu kez de Demokrat Parti tek başına iktidardadır.<br />
+Bu dönemde de akıl almaz dayatmaların yaşanması, Tahkikat Komisyonu aracılığı ile muhalefetin susturulmaya çalışılması, muhalefet parti liderlerinin bazı illere sokulmaması, iktidara oy vermeyen Kırşehir’in ilçe yapılması sonrası siyasal gerginlik giderek artmıştır.<br />
+Bir türlü uzlaşmanın sağlanamaması sonrası demokrasimiz adına büyük bir drama sahne olunmuş ve seçimle gelen bir iktidar 1960 askeri darbesi ile devrilmiş ve tarihimize kara bir leke olarak geçecek olan iktidarın Başbakanı, Dışişleri ve Maliye Bakanlarının idamlarına tanık olunmuştu.</p>
+<p>Başkanlık Modeli;<br />
+İlk bölümde anlattığım şekilde 2002 seçimleri sonucunda erken seçim isteyen MHP’nin yanında ANAP ve DSP’de baraj altında kalıyor ve kısa süre önce kurulmuş olan, AKP çokta yüksek olmayan bir oy oranı (%34.5) ile tek başına iktidar oluyordu.<br />
+Hala kafamı kurcalayan şey, düzelmiş bir ekonomi sonrası nasıl bir senaryo ile mevcut koalisyon seçime zorlanmış ve bunun başını da Kemal Derviş ile Devlet Bahçeli’nin çekmiş olmasıdır.<br />
+Çünkü ekonomisi düzelmiş bir ülkenin iktidarı, adeta kısa süre önce kurulmuş AKP’ ye ikram edilmişti. İşte bu tek parti iktidarı ve onun paydaşı tarikatlar, ileri de hedefledikleri yeni Türkiye düzenine karşı çıkabilecek ordu ve yargıyı ele geçirerek, FETÖ Terör örgütünün düzmece senaryoları ile devre dışı bırakmıştı.<br />
+Bu arada Amerika’nın Türkiye Büyükelçileri ve Türkiye masası yetkililerinin Beyaz Saraya gönderdiği raporların nasıl birer birer gerçekleştiği görülmeye başlamıştı.<br />
+Sanıyorum Amerika’nın Irak’a müdahale etmek için Türkiye topraklarından geçişine onay verilmesi konusunda ki tezkerenin TBMM’ de ret edilmesi üzerine Amerika’nın Türkiye uzmanları raporlarında şunları yazıyordu;<br />
+“Türkiye’de Amerika’nın çıkarları doğrultusunda iş yapabilmemiz parlamenter sistem içinde zor görülüyor. Siyasileri ikna etseniz karşınıza TBMM çıkıyor. TBMM’ni geçseniz, karşınıza yargı ve asker çıkıyor. O nedenle, Türkiye’nin tek karar vericinin olduğu Başkanlık Sistemine geçmesi, Amerikan çıkarları için zorunluluktur.”<br />
+Belirtmek isterim ki, bunların hiç birisi bana ait sözler değildir.<br />
+Ve bugün ülkemiz de tek parti iktidarının da ötesinde, her türlü kararı tek başına alabilen ve adı Başkanlık Sistemi de olsa da, tam anlamı ile “Tek Adam Rejimi” Hüküm sürmektedir.<br />
+Yargının bağımlı hale geldiği, TBMM’ nin devre dışı bırakıldığı, askeri vesayetin yerini her konuda tek başına karar veren tek adam vesayetinin aldığı, son yirmi yıllık tek parti ve tek adam yönetim biçiminin de ülkemizde yararlı olmadığı ve olamayacağı görülmektedir.<br />
+Gözüken o ki, yargının kesin bağımsızlığına kavuşturulduğu, her türlü vesayetin sonlandığı, Yasama, Yürütme ve Yargı’nın güçlendirildiği, demokrasinin tüm kurumlarının işlerlik kazandığı çağdaş parlamenter bir sistem şart olmuştur.<br />
+SONUÇ:<br />
+Hangi rejim ile yönetilirsek yönetilelim, ülkemiz yönetiminde görev alanların öncelikle ahlaklı, vatansever, adaletli ve ortak akla önem veren yapıda olmadığı takdirde, hiçbir sistemin başarılı olma şansı olmamaktadır.<br />
+Hak ve adaleti savunan, yolsuzluk ve savurganlıklara izin vermeyen siyasi anlayışa sahip insanların ülkemizi yönetmesi dileğiyle iyi haftalar. 12.07.2021</p>
+<p>SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="1023-bu-ulkede-ahlakli-ve-durust-i-nsan-olmak-cok-mu-zor.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="1024-giderek-ulusal-sorun-olmaya-baslayan-multeciler-sorunu-ve-lozan.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

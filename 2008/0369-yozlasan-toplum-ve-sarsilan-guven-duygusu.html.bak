@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Yozlaşan Toplum ve Sarsılan Güven Duygusu</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Yozlaşan Toplum ve Sarsılan Güven Duygusu
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2008
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0369
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>YOZLAŞAN TOPLUM VE KAYBOLAN GÜVEN DUYGUSU<br />
+ORTAMINDA ÜLKEMİZDE YAŞANAN KARMAŞA..</p>
+<p>Son yıllarda yaşanan en büyük değer kayıplarından birisi de sanıyorum toplum yapımızda kendini gösterdi. Yıllardır süregelen ekonomik krizler, hızla artan işsizlik ve ülkeyi yönetmeye talip olanların yarattığı siyasi etikten uzak zıtlaşmalar ve kullandıkları kavgacı üsluptan beslenen bu aşındırmadan en fazla toplumsal yapımız etkilenmiştir. Ne yazık ki, toplumsal yozlaşmaya hemen her kesim elinden gelen katkıyı yapmıştır. Toplumlar üzerinde en etkin rolü oynayan TV yayınları, bırakın eğitici olmayı reyting uğruna yaptıkları düşük kaliteli, hatta ahlaki değerleri zorlayan programlarla beklide bu yozlaşmaya en büyük katkıyı yapmışlardır.<br />
+Sonunda toplumuzda büyük bir güven duygusu kaybı da oluşmuştur. Aile içi yaşanan güvensizliğe dayalı şiddet olayları hemen her gün yazılı ve görsel basının baş manşetlerinde yerini alıyor. Akılları zorlayan cinayet türleri ve intihar olayları toplumsal olarak içine düştüğümüz bunalımın göstergesi değil midir?<br />
+Toplum olarak bu yozlaşmayı yaşarken bir yandan da bunu fırsat bilen bir kesim, dinsel öğeleri kurtuluş reçetesi olarak göstererek topluma bir başka dünya sunuyor. İnsanların tanrı ile arasında kalması gereken inançlarının sürekli sömürülmesi ve dinsel öğeleri kullanmanın hemen her konuda öne geçme koşulu olarak değerlendirilmesi, toplumu birbirine güvenmeyen kesitlere ayrıştırmış bulunuyor.<br />
+TV kanallarında hemen her gün birbiri ile kavga üslubu ile ağız dalaşı yapan siyasetçilerin yönettiği bir ülkede, iç barış ve kardeşlik havasından söz edilebilir mi? Hadi, muhalefet sözcüleri topluma verecekleri bir şey üretememenin çaresizliğini sert söylemlerle doldurmaya çalışıyor diye düşünelim. Peki, aldığı % 47 gibi müthiş bir oy desteğine sahip iktidar sözcülerinin, böyle bir sertleşmeye ihtiyacı var mı? Bunun yerine, ülkeyi daha iyi günlere ve çağdaş yaşama taşıma fırsatını kendilerine verenlere karşı olan sorumluluklarını neden toplumu germeden yerine getirmezler anlamak mümkün değil.<br />
+Bilgi kirliliği sonunda, “çamur at izi kalsın” türü suçlamaları hemen her kesimin kullandığı iğrenç bir silah haline getirmiştir. İşin asıl üzücü yanı, bu tür bir iftiraya uğrayan kişilerin, en yakınlarını dahi inandırmakta zorlanacakları kadar toplumsal güven duygusunun kayba uğramış olmasıdır. Ne yazık ki, bunun örneklerini günümüzde sıkça yaşıyoruz. Toplum adına sorumluluk almak, ilkeli ve dik durmak zorlaşmıştır. Bu tür iftiraya uğrayanları en çok yaralayan da, onları savunmak yerine “vay canına biz de onu düzgün bir adam bilirdik” türü ön yargılı yaklaşımlardır.</p>
+<p>Tüm bunların allak bullak ettiği ortamda, bir de topluma çeşitli kesimlerden servis edilen çeşitli iddialar ve belgelerle toplum tam bir bilgi kirliliğinin açmazına itilmiş bulunuyor. Neyin doğru, neyin yanlış olduğunun tam anlaşılamadığı günümüzde, bir biri ardına açılan çok önemli soruşturmalar ve iddianamelerde yer alan suçlamalar herkesi şaşkına çevirmiştir. Daha iddianameler açıklanmadan taraflardan birisinin yandaşı olan basına anlaşılmaz bir şekilde sızdırılan bilgilerin çoğunun açıklanan iddianame ile doğrulanması üzülerek söylemek gerekirse, daha şimdiden çıkacak kararlara olan güven duygusu zedelenmiştir. TV kanallarında yer alan tartışma programlarında yargıya müdahale anlamında ki yorumlar, yukarıda anlattığım ikiye bölünmüş toplumun iki kesitinin hesaplaşması olarak görülmeye başlamıştır.<br />
+Bir yanda yüksek oy oranı ile iktidar olmuş bir parti için iddia edilenler, diğer yanda “Ergenekon” davasında adi suçlular ve mafya özentileri ile vatanseverlikleri ile tanınmış ve kısa süre öncesine kadar önemli kurumları yönetmiş çok sayıda insanın, aynı örgütün içinde olmakla suçlanması akıllara durgunluk verecek soru işaretleri yaratmıştır.<br />
+Dileğim, Türk Yargısının her iki davayı da kısa sürede ve toplumun kafasında oluşan soru işaretlerini giderecek kararlarla sonuçlandırmasıdır. Ülkemizin bu karmaşa ortamını da atlatacağına inanıyorum.<br />
+Beni ve sanıyorum çok kişiyi de asıl endişelendiren, bu karmaşa ortamının altında dış güçlerin bölgemizde yürüttükleri sinsi politikaların yatması ihtimalidir. Korkutucu olan, bir yanda AB’ nin dayatmaları, diğer yanda Amerika’nın doymak bilmeyen ihtirasları ve adım adım uygulamaya koyduğu Büyük Orta Doğu Projesi’dir. Bu arada İran’ın nükleer silah üretmesini kendisinin bu bölgede ki çıkarlarına tehdit olarak gören Amerika’nın, İran’a müdahale için zemin kollaması, Ülkemiz adına çok tehlikeli bir süreçtir. Çünkü İran hiçbir zaman Irak değildir ve İran Amerika için Vietnam batağından çok daha tehlikelidir. İran tarihin bütün evrelerinde ayakta kalmış, Pers kültüründen gelen özellikleri olan ve bölgemizin bizden sonra ki en güçlü bir devletidir. Bu bataklığa bir şekilde bulaşmamız, bizim içinde de felaket olur.<br />
+Bugün Türkiye’nin içersinde bulunduğu karmaşa ortamının, yukarıda ana hatlarını çizdiğim dış güçler tarafından provoke edildiği endişesini taşıyorum. Korkarım, Türkiye’nin iç bünyesinde yaşadığı bu sorunlarla uğraştırılmasının arkasında bir İran müdahalesi yatmaktadır. Yakın geçmişimizde ki, Irak’a yapılacak müdahaleye destek vermeyen Rahmetli Ecevit Başkanlığında ki Koalisyon’un nasıl bir organizasyonla dağıtıldığı ve sonrasında da hazırlanan zeminde Irak’a müdahalenin başladığı hatırlanırsa, bu varsayımın pek de yabana atılabileceğini sanmıyorum.<br />
+Böylesine ciddi sorunların yaşandığı bir dönem de ülkemiz adına siyaset yapanların, toplumu yaşadığı endişelerden kurtaracak akıllı politikalarda buluşması dileğiyle iyi haftalar.. 27 Temmuz 2008<br />
+SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0369-adana-i-zlenimleri.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0370-samsun-adina-guzel-seyler-yazalim-ama-nasil-ve-ne-yazalim.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

@@ -1,0 +1,334 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Ülkeyi Yönetenler Kavga Ederken, Devlete Emanet Ettiğimiz Kimlik Bilgilerimiz Çalınmış.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Ülkeyi Yönetenler Kavga Ederken, Devlete Emanet Ettiğimiz Kimlik Bilgilerimiz Çalınmış.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2016
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0798
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>ÜLKEYİ YÖNETENLER KAVGA EDERKEN, DEVLETE<br />
+EMANET EDİLEN KİMLİK BİLGİLERİMİZ ÇALINMIŞ.</p>
+<p>Değerli okuyucularım, bugün sizlerle Devleti yönetsinler diye seçerek TBMM’ ne gönderdiğimiz siyasetçilerin, hemen hergün sabahtan akşama kadar TV kanallarını işgal ederek yaptıkları sert konuşmalarla insanlarımızı nasıl gerdiğini, kamplara ayrıştırdığını ve artık çoğu insanı TV’leri kapatmaya mecbur bıraktığını paylaşacaktım.<br />
+Ne var ki, Sayın Cumhurbaşkanı, Sayın Başbakan ve Sayın Muhalefet Parti Genel Başkanlarının ve onlara destek yarışına giren diğer siyasetçilerin birbirlerini suçlamak için seçtikleri ve bir vatandaş olarak ağzıma alamayacağım sözlerde gündeme oturdu.<br />
+Haftanın sonuna doğru bu kez de, vatandaşlar olarak Devletin güvencesine emanet ettiğimiz tüm kişisel bilgilerimizin birileri tarafından Devletten çalınarak (Hacklenerek) internet ortamında dağıtıldığı haberi gündeme bomba gibi düştü.</p>
+<p>TV KANALLARI SİYASİLER TARAFINDAN İŞGAL EDİLDİ.<br />
+1950’ li yıllarda ilkokul öğrencisiydim. Babam akşam haberlerini tek haber kanalı olan Ankara Radyosundan dinlemeye meraklıydı. Ana haberlerin sonuna doğru radyodan uzunca bir süre bazı isimler okunmaya başlıyordu. Babam da her defasında söylenerek radyoyu kapatıyordu.<br />
+Daha sonra öğrendim ki, Devlet radyosu konumunda olan Ankara Radyosu’nda, her akşam 1950-1960 yılları arasında iktidarda olan DP’nin seçmenleri psikolojik yönden etkilemek üzere kurduğu “Vatan Cephesi’ne” Katılanların isimleri okunuyormuş.<br />
+Bugünde benzer şeyleri yaşıyoruz. Haftanın hemen her günü sabahtan akşama kadar, çoğunun da konuşma zemini yaratmak üzere düzenlendiği anlaşılan toplantılarda Cumhurbaşkanı, Başbakan ve çeşitli bakanlar sürekli konuşuyorlar ve hemen hemen tüm haber kanallarında bu konuşmaların tamamı canlı olarak yayınlanıyor.<br />
+İş artık öylesine abartılmaya başladı ki, bazı diğer programları izlerken dahi (Tartışma programları gibi) bir anda yayının kesildiğini ve o sırada bir toplantıda konuşma yapan Cumhurbaşkanı veya Başbakan’ın canlı olarak konuşması yayına giriyor. Az da olsa onlara laf yetiştirmeye çalışan muhalefet sözcüleri de yer alıyor.<br />
+Bunlar yetmiyormuş gibi aynı konuşmalar özet olarak haber saatlerinde de verilince, TV’ler dinlenemez hale geliyor. TV kapatanların sayısının her geçen gün artması da, sanırım bunun bir göstergesidir.</p>
+<p>SİYASETİMİZİN SEVİYESİ GİDEREK DÜŞÜYOR.<br />
+Bu konuşmaların yoğun olarak TV’leri işgal etmesinin yarattığı sıkıntı bir yana, bu konuşmalarda kullanılan sözlerin seviyesi de öylesine düştü ki, sokakta kavga edenlerin dahi kullanmadıkları bu sözler, toplumun kamplara ayrışmasına neden olacak boyuta ulaştı.<br />
+Gittikçe iktidar- muhalefet kavgasına dönüşen bu konuşmalara bir de hergün Güneydoğu’dan gelen şehit haberlerinin eklenmesi, artık insanları canından bezdirdi.<br />
+Hem iktidar kanadı, hem de muhalefet kanadı, her sözün altından bir başka anlam çıkartarak işi iyice belden aşağıya çekmiş bulunuyor.<br />
+Bu derece seviyenin düştüğü siyaset anlayışının demokrasilerde yeri olamaz. Ülkeyi yönetsinler diye seçerek iktidar ve muhalefete getirdiğimiz temsilcilerimizin toplumu gelecek açısından endişelendirmeye ve birbirine düşman etmeye hakkı yoktur.<br />
+Bu gidişin sonunda olası yaşanabileceklerin, hepimizi çok üzeceğini ve ülkemizde onarılmaz yaralar açacağını hiç kimse göz ardı etmemelidir.<br />
+Ayrıca, umarım olmaz ama böylesine beklenmedik olumsuzlukların olması halinde, bunun sorumlusunun siyasetçilerin olacağı da unutulmamalıdır.<br />
+Dünyanın hiçbir demokratik ülkesinde böyle bir şey olamaz. Siyasetçiler seçim öncelerinde konuşur, seçimler bitince Devleti yönetenler sadece çok önemli ulusal veya diğer ülkelerle olan ilişkiler için TV’lere çıkarlar. Bizde ki gibi 365 gün sokakta ki insanlar siyasetle yatırılıp, siyasetle kaldırılmaz.<br />
+Üzülerek söylemek isterim ki, toplumun bu kadar siyasetin içerisine çekilmiş olması, demokrasimize indirilmiş bir darbe olarak demokrasi tarihimize geçecektir.<br />
+Bu arada bir konunun altını önemle çizmek istiyorum.<br />
+Demokrasi ile yönetilen ülkelerde adı ister Cumhurbaşkanı, isterse Devlet Başkanı olsun, Devletin en üst yöneticisi konumunda olan kişi, siyasi partilerin uzlaşma kültürü ile çalışması için çaba harcar.<br />
+Bu nedenle de, demokrasilerde Cumhurbaşkanları, hükümet ve muhalefete eşit tavır içerisinde olur ve kesinlikle iktidar ile birlikte davranmaz.<br />
+Tek karar verici olarak Yargı, Yasama ve Yürütmeye talimat vermesi düşünülemez dahi. Cumhurbaşkanlarının tarafsız kalmadığı ülkelerde, siyasi karmaşa kaçınılmazdır.</p>
+<p>DEVLET KİMLİK BİLGİLERİMİZİ KORUYAMAMIŞ..<br />
+Balyoz ve Ergenekon Davaları sırasında düzmece belge ve ihbarlarla ordumuzun ve Devletimizin geleceği (Bekası) için çok önemli sırlarının bir anda ortalığa saçıldığı gibi bu kez de, Devletimizin güvencesine bıraktığımız 50 milyon insanımızın kimlik bilgileri çaldırılmış.<br />
+2011 seçimleri öncesi hazırlanan seçmen kütüklerinin çalındığı kesinleşirse, bunun anlamı onsekiz yaş üstü elli milyon insanımızın başına her an bir sıkıntı gelecek demektir.<br />
+Bu öylesine büyük bir sorumsuzluktur ki, Devlete olan tüm güven duygularının yıkılması demektir.<br />
+Hele de bazı bakanların bunu önceden bildiklerini açıklayarak korkacak bir şey yok demeleri, Devleti yöneten iktidarın bu işte ki akıl almaz sorumsuz tavrını ortaya koymaktadır.<br />
+Son yıllarda başkalarının kimlik bilgisini kullanarak yapılan çeşitli sahtekârlıklar yüzünden insanların başına nelerin geldiğini basından duyuyorduk.<br />
+Telefon dolandırıcıları da aradıkları kişilerin tüm bilgilerini kendisine söyleyerek inandırıyorlardı.<br />
+Adına şirketler kurulan, dolandırılan insanlar mahkemelerde sürünürken, bu olaydan haberimiz olmadığı için bunlara münferit vakalar gözüyle bakıyorduk.<br />
+Şu anda bu elli milyon insanlardan birisi olarak, her an birimizin başına benzer bir sıkıntı gelebileceğini düşünmek dahi insanı ürkütmüyor mu?<br />
+Gençler belki hatırlamaz ama geçmiş yıllarda da Sülün Osman gibi dolandırıcılar çıkardı ve Galata Kulesi’ni, Beyazıt Kulesi’ni saf insanlara satardı. Bu trajikomik dolandırıcılık olaylarına gülüp geçilirdi.<br />
+Ama bu kez saflar değil, en akıllı insanlarımız dahi ülkeyi yönetenlerin ihmali sonucu çok daha ağır dolandırıcılıklarla karşı karşıya kalma durumundadır.<br />
+Ülkeyi yöneten siyasi iktidar bu konuda acilen tedbir almalı ve toplumu bu korkudan kurtarmalıdır.</p>
+<p>TÜRKİYE BUNLARI HAK ETMİYOR.<br />
+Türkiye’nin son yıllarda içine düşürüldüğü durum gerçekten çok üzücüdür.<br />
+Bir yanda Güneydoğu Bölgemizde süren çatışmalar ve her geçen gün artarak gelen şehit haberleri, diğer yanda sınır komşularımızla bozulan ilişkiler ve her an sıcak bir savaş yaşama endişesi, toplumda huzur bırakmadı.<br />
+Bunların yaşandığı ortamda, bir de uzlaşmadan dayatılmaya çalışılan yeni Anayasa ve başı sonu belli olmayan bir “Başkanlık Sistemi” Dayatması yanında, siyasilerin akıl almaz seviyesiz ağız dalaşı toplumu ortadan ikiye bölmüştür. Onlar kavga ederken, yukarıda ki olayların başımıza gelmesi tabii ki, kaçınılmazdır.<br />
+Türkiye tarihinde böylesine bir ayrışma yaşamamıştır. Geçmişte yaşanan daha küçük boyutlu zıtlaşmaların dahi nelere mal olduğunu düşününce, geleceğimiz adına nasıl endişe etmeyelim?<br />
+Lütfen! Bu ülkeyi yönetenler çıksınlar ve bu konularda oluşan endişeleri giderecek bir şeyler yapsınlar.<br />
+En azından bunu beklemek bu ülke insanlarının hakkıdır diye düşünüyorum.<br />
+Böylesine tatsız olayları yaşadığımız günlerden geçerken, önümüzde ki haftada hiç olmazsa güzel bazı şeylere tanık olmamızı diliyorum.<br />
+10.04.2016<br />
+Ecz. SADİ SUBAŞI</p>
+<p>http://www. hedefhalk. com/)</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0797-turkiye-bu-kadar-cok-multeciyi-kaldiramaz.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0799-turkiye-de-siyaset-din-cemaat-i-liskileri-ve-sonuclari.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

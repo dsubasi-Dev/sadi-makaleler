@@ -1,0 +1,314 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>COVID - 19 Salgını Dahi Ülkemizdeki</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+COVID - 19 Salgını Dahi Ülkemizdeki
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2020
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0978
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>COVİD-19 SALGINI DAHİ ÜLKEMİZDE Kİ<br />
+AYRIŞMAYI GİDEREMİYOR.</p>
+<p>Öyle olaylar vardır ki bir ülkede savaş gibi, çok büyük depremler gibi felaketler yaşandığında, eğer her türlü düşünce farklıları, siyasi çıkarlar bir yana itilir ve ülke olarak karşılaşılan felakete karşı büyük bir dayanışma içerisine girilebilirse, felaketin getirdiği sorunlar en az zararla aşılabilir.<br />
+Bir ülkenin başına gelebilecek en büyük felaket savaştır. Çünkü savaş, bir ülkenin tüm kaynaklarını tüketir, çok büyük sayılarda can kayıplarına neden olur. Bu nedenle de işgal edilmiş olan son vatan toprağını kurtarmak için girdiği Kurtuluş Savaşını kazandıktan sonra kurulan Türkiye Cumhuriyeti’nin ilkesi, “Yurtta barış, Dünyada barış” Olmuştur.<br />
+Yazıma böyle girmemin nedeni, Güneydoğu sınırlarımızda adı konmamış küçük çapta bir çatışma ortamı olsa da, çok şükür topyekûn bir savaşta değiliz. İyi ki de değiliz. Bir savaşa göre çok daha az tehlikeli olan dünya çapında ki Covid-19 isimli bir virüsün yarattığı ölümcül salgının etkisi altına girdiğimiz günlerde dahi, birlik olamamanın ürkütücü örneklerini yaşıyoruz.<br />
+Alınacak sıkı önlemlerle salgından korunmanın mümkün olduğu, hastalığa yakalananların büyük bir kısmının tedavi edilebildiği bir salgında dahi,  ülkemizde hemen her konuda uzun bir süredir süregelen toplumsal ayrışmanın olumsuz etkilerini yaşıyoruz.<br />
+Kafa karıştıran olaylarla toplumsal güvenin ciddi ölçüde yara aldığı günümüzde, halkın oyu ile kentleri yönetmek için seçilmiş belediye yönetimlerinin halkın ihtiyaçlarını giderebilmek için başlattıkları yardım kampanyaları dahi akıl almaz bir şekilde yasaklanırken, iktidar partisinin belediyeleri ve kendisine yakın bazı sivil toplum kuruluşlarının yardım kampanyaları göz ardı edilebiliyor.<br />
+Ülkede çok büyük bir salgın varken ve her geçen gün artan bir şekilde yayılıp canlar alırken dahi, ülkeyi yöneten siyasi iradenin kendisi gibi düşünmeyenlerin topluma yararlı işler yapmasını dahi engelliyorsa, o ülkede toplumsal birliktelikten nasıl söz edilebilir?<br />
+Belediyelerin yardım kampanyasını başlattığı günlerde devlettin böyle bir çalışması yoktu. Kaldı ki, “Kim nasıl destek olabiliyorsa olsun anlayışının” yasaklanmasının kime ne yararı olacaktır?<br />
+Covid-19 salgının kontrol altına alınmasını yönetmek üzere Sağlık Bakanı’nın Başkanlığında kurulmuş olan ve çok güzel çalışmalar yürüten Corona virüs Bilim Kurulu’nun aldığı bazı ciddi kararların dahi uygulamaya konulmadığı söylentileri üzüntü vericidir.<br />
+Tüm bu yanlışların ve uygulamaların temelinde yatan en büyük neden, siyasi iradeye olan güven duygusunun önemli ölçüde yıpranmış olmasıdır.<br />
+Şu yazacağım olaylar ne yazık ki bu ülkede oldu.<br />
+TBMM’ nin etkisinin yok edildiği yeni sistemde, Cumhurbaşkanı her konuda tek karar verici konumunu kazanarak adeta tüm toplum için baba olarak görülen Devlet konumuna gelmiştir.<br />
+Partili Cumhurbaşkanının kendisi gibi düşünmeyenleri ve demokrasinin olmazsa olmaz kurumları olan muhalefet partilerini sürekli hırpalaması ve liderlerini de ağır sözlerle dışlaması, hatta yaptıkları eleştirileri vatan hainliği olarak tanımlaması sonucu, en çok ihtiyaç duyduğumuz devlete olan güven duygusu da ciddi boyutta zedelenmiştir.<br />
+Din konusunda tüm Müslümanlar için saygın ve güvenilir konumda olması gereken Diyanet İşleri Başkanlığının ve Başkanı’nın da siyasileşmesi ve döneminde çok sayıda yanlışa imza atması ile en azından toplumun bir yarısının güvenini yitirmiş ve İslam anlayışını da yıpratmaya başlamıştır. Bu ülke, bugüne kadar duymadığı “Deist” ve “Deizim’in” yaygınlaşmaya başladığını bizzat din adamlarının ağzından duymaya başlamıştır.<br />
+Ülkeyi darbeyle ele geçirmeye çalışan FETÖ Tarikatına dün nasıl göz yumulmuşsa, bugünde aynı şekilde Menzil gibi tarikatların devlet kurumlarına yerleşmelerine göz yumulmasına duyarsız kalan Diyanet İşleri Başkanlığı da güven duyulmayan kurumlar kervanına katılmıştır.<br />
+İktidara yakın olmadan ihale almanın imkânsız hale geldiği, yandaşlık anlayışı ile basının da halkı aydınlatmak görevini unutarak iktidarın sözcülüğüne soyunması ile muhalefetin gündeme getirdiği ülkemiz için çok önemli yanlışları halkımızın öğrenmesi engellenmektedir. Örnek olarak;<br />
+Bu yazılı ve görsel basın, milletvekili Özgür Özel’in TBMM’ de gündeme getirdiği çok önemli bir konuyu dahi okurlarına duyurmadı. Bu konu, ülkemizde ki kan hastaları için çok önemli olan kan ürünlerinin, ülkemizde yapılması şartı ve yapılıncaya kadar ithal ederek tek satıcısı olma garantisi ile ihaleye çıkartıp, siyasi iradenin yakını Murat Sancak’a peşkeş çekilmesiyle ilgiliydi.<br />
+İhale şartnamesinde, bu ilaçların Türkiye’de yapılması için büyük bir arazinin tahsis edilmesine rağmen, yerli üretmek bir yana bakanlığın alınacak ilaçların son kullanma tarihine en az bir yıl bulunması talimatları da göz ardı edilmiştir.<br />
+Son kullanma tarihine üç ay kalmış ürünlerin, yurt dışı firmalardan dörtte bir fiyattan alınıp Sağlık Bakanlığına üzerinde ki fiyattan satılmasını bu basın gurubundan gören ve duyuran oldu mu?<br />
+Yine bu ülke insanın düne kadar en güvendiği kurumların başında gelen Kızılay’ın, Elazığ Depremi sırasında yaptığı yanlışlar ve siyasi iradeye yakın işadamlarının vergi kaçırmasına yataklık yapması ile kendisine olan güveni nasıl yerle bir ettiğini yakın bir geçmişte yaşamadık mı?<br />
+Yazdıkları ile öğrenilmesi istenmeyen olayları gün yüzüne çıkartan ve yazdıkları yalanlanmadığı halde Murat Ağırel, Barış Pehlivan ve Barış Terkoğlu’nu hücreye kapatan yargı kurumlarına nasıl güven duyulacaktır?<br />
+Kısacası bugün ülkemizin en büyük sorunu, toplumun büyük bir kısmının Devlet, Siyaset, Yargı, Diyanet İşleri Başkanlığı ve Basın gibi kurumlara olan güveninin çok ağır bir şekilde yara almış olmasıdır.<br />
+Bir salgın felaketi ile uğraşılan ve halktan para yardımı istenilen bir dönemde, inanıyorum ki bir referandum yapılsa toplumun % 70-80’ nin “yapılmasın” diyeceği Kanal İstanbul Projesinin ilk ayağı olan iki köprünün yer değiştirme ihalesinin yapılması, devletin inandırıcılığını bir kez daha sarsmıştır. Bu ihale nedeniyle de bir bakanın görevden alınması da, “ Ne oluyor sorularını”  gündeme taşımıştır.<br />
+İnanıyorum ki, ülkemiz yaşanmakta olan Covid-19 Salgınını er geç atlatacaktır. Ama yukarıda özetlemeye çalıştığım “GÜVEN” Duygusunu yeniden yeşertemezsek, ülkemizde huzur ortamının kolay kolay geri gelmeyeceğidir.</p>
+<p>“EVDE KAL. SAĞLIĞIMIZI KORUYALIM” Diyerek yeni acılar yaşamayacağımız bir hafta diliyorum. 05.04.2020</p>
+<p>Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0977-bir-okul-var-yakinlarda-yaptirani-uzaklarda.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0979-bir-virus-ulkemizdeki-tum-yanlislarin-ayiraci-oldu.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

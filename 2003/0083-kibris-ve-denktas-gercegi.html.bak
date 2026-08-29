@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Kıbrıs ve Denktaş Gerçeği</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Kıbrıs ve Denktaş Gerçeği
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2003
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0083
+
+</div>
+
+
+<div class="article-content">
+
+<p>KIBRIS VE DENKTAŞ GERÇEĞİ</p>
+<p>Kuzey Kıbrıs Türk Cumhuriyeti (KKTC) kuruluşunun 20. ci yıl dönümünü kutladığı şu günlerde büyük bir kıskacın içine girmiş bulunuyor. Genel seçimlerin çok yaklaştığı KKTC de bütün hesaplar sayın Denktaş'ın destekçilerinin tasfiyesi ve Denktaş'ın ikili görüşmelerdeki tek yetkili sözcülüğüne son verilmesi üzerine inşa ediliyor. Bilindiği gibi KKTC  ye kabul etmesi için dayatılan ANNAN planına cumhurbaşkanı sayın Denktaş bu şekli ile kabul edilemez  olarak görüyor ve tepki gösteriyor. Öte yandan ANNAN planının kabul edilmesi halinde  Kıbrıs Rum Kesimi ile birlikte Kuzey Kıbrıs Türk kesiminin de AB ye alınacak olması ve Avrupa'nın bu konuda Kıbrıs Türkleri üzerinde uyguladığı ikna çalışmaları sonuç vereceğe benziyor. Şaibeli iddialarında yer aldığı bu çabalar sonucunda bir kısım Denktaş muhalifi bu konuda açık bir tavır segiliyor ve ANNAN planının kabul edilmesini isteyerek , yıllardır Denktaş tarafından sürdürülen politikaların çözümsüzlüğe neden olduğunu söylüyorlar. Bu konuda Avrupa'nın Denktaş'ı yoketmek için muhaliflerine para desteği yaptığı iddialarının konuşulması son derece üzücü. İşin bir üzücü ve düşündürücü yanıda yıllardır AB ye alacağız diye bir sürü ödün kopartılan Türkiye'nin de KKTC ne baskı yapması için sıkıştırılıyor ve aksi halde AB kapısının Türkiye'ye kapanacağı tehditlerinin savruluyor olması. Bu baskılar etkili olmuş olmalıki, Türkiye Cumhuriyeti Hükümeti yetkilileri Kuzey Kıbrıs'ta yapılacak seçimlerde taraflara eşit mesafade olduklarını ve seçimlerin demokratik ve adil bir şekilde yapılması gerektiğini açıklıyorlardı. Böylece bugüne kadar yapılan seçimlerin adil ve demokratik ortamlarda yapılmadığı izlenimi yaratılarak neyin amaçlandığı tartışılır hale geliyordu. İşte bu ortamda 24 kasım cuma akşamı Türkiye televizyonlarında üç ayrı kanalda değişik katılımcıların katıldığı tartışma programları yayınlandı. Muhalefet ve iktidar sözcüleri ile dışişleri mensupları ve Kıbrıs Halkından kişilerin de katıldığı programlarda çeşitli görüşler ortaya konuyordu. Konuşmaları bi Türk olarak içim burkularak izledim. üzülerek söylemek gerekirse, bir kısım Kıbrıs Türk'ü için özgürlük bir anlam ifade etmeyebilir. Hatta Kıbrıs'ın Türkiye için önemi de birşey  ifade etmeyebilir. Dr. Fazıl Küçük'ten sonra Kıbrıs Türklerinin  yılmaz savunuculuğunu üstlenerek onları Rum mezaliminden kurtaran , KKTC nin kurulmasını sağlayan sayın Rauf Denktaş onlar tarafından acımasızca eleştirilebilir ama bir gerçek gözardı edilemez.1974 öncesi Rumlarla birlikte kurdukları Devlet  ortadan kaldırılarak adayı Yunan hegomanyasına sokacak enosis hareketini başlatan Makarios ve onun tetikçisi Grivas'ın yaptığı katliamı Türkiye'nin adaya asker çıkartarak durdurabildiği gerçeğini kimse yadsıyamaz. Bunları bugün hiç olmamış gibi kabul etmeye imkan yoktur. Cuma akşamı TRT I de yayınlanan canlı programda 1974 askeri müdahalesinin baş rol oyuncusu, o dönemin başbakanı sayın Bülent Ecevit, büyükelçi Yalım Erez ve sayın Denktaş vardı. Hakkında hakarete varan boyutlarda yıpratma kampanyaları yürütülen sayın Denktaş'ın söyledikleri altı çizilecek ve ibretle dinlenecek sözlerdi. Bence bu işin özüde bu sözlerde gizliydi. Sayın Denktaş ''Türkiye 30 yıldır Kıbrıs'a para döküyor. Eğer amaç orada yaşayan 200000 Türk'ün hayatını garantiye almak olsaydı bunu kolay ve bu denli para harcamaya gerek kalmadan yapar ve bu insanları Türkiye'ye getirerek iskan eder ve yaşamlarını güvence altına alırdı. Türkiye çeşitli tarihlerde bunu  Bulgar ve ırak Türklerine kapılarını açarak göstermişti. Oysa olay bukadar hafife alınacak bir olay olmayıp , işin asıl önemli yanı Kıbrıs'ın Türkiye'nin savunması ve geleceği yönünden taşıdığı stratejik önemdir''diyordu. Sayın Denktaş AB ye girme hevesi ile adeta gözleri kapanmış birilerinede Türkiye'nin geleceği ve çıkarları açısından ders veriyordu. Sayın Denktaş ''Türkiye'nin batısı Saros körfezinden başlayarak tüm Ege hatta Akdenizin bir kısmına kadar Yunan adaları ile adeta ablukaya alınmıştır. Bugün bu abluka Kıbrısla tamamlanmak istenmektedir. Dünyada denizden böylesine kuşatılmış bir başka ülke yoktur. Kıbrıs bu nedenle Türkiye'nin vazgeçemiyeceği kadar önemlidir. Bu gerçeği görmeyenler büyük bir aymazlık içersindedir'' diyerek devam ediyordu.<br />
+Toplumların bağımsızlığını kazanması uzun ve çetrefilli bir mücadeleyi gerektirir. Bu da ancak buna inanmış ve kendini  davasına adamış liderlerle olur. Bunun en  büyük örneği Ülkemizi büyük bir kabustan çıkartarak bağımsız Türkiye Cumhuriyetini kuran Ulu Önder Atatürktür. Doğrusu yanlışı bir yana toprakları ellerinden alınan Filistin Halkının davasını yıllardır sürdüren Yaser Arafat'ın bu davaya ömrünü verdiği unutulmamalıdır. Yunanistan'ın Kıbrıs üzerindeki enosis hesaplarının bitmediği bir ortamda yeterince güvenceler alınmadan, iki toplumlu devlet şekli kabul edilmeden Kıbrıs sorununun çözüme zorlanması Kıbrıs Türklerinin geleceğinin yok edilmesi anlamına gelir. Bu gerçeği göremiyen bir kısım Kıbrıslı Türk'ün davranışını anlayışla karşılamaya olanak yoktur. Bunun adı ihanet değilse bile en azından aymazlıktır. Türk Hükümetleri de Türkiye'nin uzun vadeli çıkarlarını gözönüne alarak teslimiyetçi politikalara göz yummaması gerekir diye düşünüyorum.<br />
+Cuma akşamı sayın Denktaş'ı izlerken bir kez daha inandımki , sayın Denktaş Atatürk'ten sonra Türkler'in çıkarttığı gerçek bir dava adamı ve yılmaz bir bağımsızlık savaşçısıdır. Keşke ülkemizde son yıllarda böylesine davasına inanan bir lider çıkartabilseydi de Atatürk'ün kurduğu bağımsız Türkiye Cumhuriyetinin ilkelerine sahip çıkabilseydik. Türkiye Cumhuriyeti Vatandaşı olarak sayın Denktaş'a davasında başarılar diliyor , Kıbrıs Türklerininde gelecekleri açısından en doğru kararı verceklerine olan inancımı koruyorum. İyi haftalar dileğiyle..</p>
+<p>SADİ  SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0082-ab-ve-imf-kabusu.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0084-terorun-acimasiz-yuzu.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

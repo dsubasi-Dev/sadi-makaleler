@@ -1,0 +1,344 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Samsunspor Genel Kurulu ve Sayın Suat Kılıç&#x27;a Yazılan Mektup…</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Samsunspor Genel Kurulu ve Sayın Suat Kılıç&#x27;a Yazılan Mektup…
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2013
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0642
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>SAMSUNSPOR GENEL KURULU VE<br />
+SAYIN SUAT KILIÇ’A MEKTUP.</p>
+<p>Her altı ayda bir olağanüstü Genel Kurul yapması artık geleneksel hale gelen Samsunspor’un son olağanüstü Genel Kurulu 13 Haziran Perşembe günü yapıldı.<br />
+Sonucu belli bir genel kurul olması nedeniyle olsa gerek, hiç bir milletvekili katılmamıştı.<br />
+Bunların hepsi bir yana bu genel kurul da altı çizilecek önemli gelişmeler yaşandı. Şimdi ana başlıklar halinde bunlara değinmek istiyorum.<br />
+Bu genel kurulu öncekilerden ayıran en önemli şey, bu kez yönetimin hedef belirlemesi ve bu hedefin süper lig olmasıydı.<br />
+Önümüzdeki dönemde de göreve devam edecek Sayın Emin Kar Yönetimi bu hedefe uygun olarak da tahmini bütçeyi artırmıştı.<br />
+Bu, yeni hedef için çok önemliydi bir başlangıçtı.<br />
+Bir başka önemli tespit de, Samsunspor’da son yıllarda giderek artan tempoda siyasetin etkin olması, hatta siyasi iradenin destekleri ile ayakta durabildiği gerçeğiydi.<br />
+Çünkü Samsunspor, son dönemlerde Samsunspor’u kendi ve yaratacağı kaynaklarla yönetecek bir iradenin ortaya çıkmamasının yarattığı çaresizlikten, siyasetçilerin desteği ile göreve gelen kişilerin kurduğu yönetimler tarafından yönetilmiştir.<br />
+Özellikle Sayın Suat Kılıç’ın Gençlik ve Spor Bakan’ı olmasından sonraki süreçte yüklendiği sorumluluk ve sağladığı kaynaklarla Samsunspor’a verdiği destek her türlü takdirin üzerindedir.<br />
+Bence genel kurula imza atan bir başka çıkış da, Canik Belediye Başkanı Osman Genç’in alkışı hak eden konuşmasıydı.<br />
+Samsunspor’a destek olmak için laf üretmek yerine, elini taşın altına sokmak ve somut adımlar atmak gerekirdi.<br />
+Osman Genç’de bunu yapıyor ve yeni yapılan Canik Belediyesi’nin önünde bulunan 250 araç kapasiteli otopark’ın işletmesini Samsunspor’a tahsis ettiğini açıklıyordu.<br />
+Sayın Osman Genç bana göre çok önemli bir şey daha söylüyordu.<br />
+Sayın Genç, Samsun’un ticari yaşamın da son yıllarda önemli değişimlerin olduğunu ve çok sayıda AVM, Plaza ve Market zincirlerinin Samsun’da önemli kazançlar sağladığını vurgulayarak bu kuruluşların Samsunspor’a desteğinin sağlanması gerekir diyordu.<br />
+Bu konu gerçekten de çok önemliydi. Çünkü tek geçim kaynağı ticaret olan Samsun’da son yıllarda başta giyim olmak üzere gıda, nalburiye ve hırdavat ticareti bu kuruluşların eline geçmiştir.<br />
+Ayakta durabilmek için ciddi parasal kaynaklara ihtiyacı olan Samsunspor bu pastadan mutlaka bir pay almalıdır.<br />
+Bu konuda ki düşüncem, “GÜÇLÜ BİR KENT İRADESİ” oluşturulmasıdır.<br />
+Bu da ancak Sayın Valimizin önderliğin de, Büyükşehir Belediyesi başta olmak üzere diğer dört Belediye Başkanları ile bazı sivil toplum kuruluşları başkanlarından oluşacak bir güçlü bir irade ile olabilir.<br />
+Bu heyet bu kuruluşlarla görüşmeli ve diğer kentlerde başarı ile yürütülen destekler Samsunsporumuza da sağlanmalıdır.<br />
+Genel Kurul sırasında bu düşüncemi ve önerimi Sayın Valimizle de paylaştım.<br />
+Genel Kurul Divan Başkanı Sayın Hakkı Tomaç’da kendi adına bir avukat olarak, Baro’nun 1000 civarında ki üyesinden sürekli bir katkı payı sağlayabileceğini ve bunun tüm sivil toplum kuruluşlarının da yapabileceği önerisini sundu.<br />
+Bu arada diğer kentlerde yerel yönetimlerin kendi takımlarına sağladığı olanakların yer aldığı resimli bir dosya hazırlayan Genel Kurul üyesi Burak Güleç’ de, konuşması sırasında bu dosyaları protokole dağıttı.<br />
+Hedefin Süper Lig olarak belirlenmesi ile tahmini bütçenin artırılması herkesi heyecanlandırmış ve yeni arayışlara itmişti.<br />
+Bu önerilerin gerekli cevabı ve desteği bulacağını umut ediyorum.<br />
+Önceki Genel Kurullarda olduğu gibi bu konuşulan bir başka gerçek de eski yönetimlerin yanlış transfer ve yönetim hatalarının getirdiği borç yüküydü.<br />
+Kısa vade de ödenmesi gereken bu borçlar, yönetimin önünde ki en önemli sorundu.<br />
+Aslında kulüplerin borç yükü, tüm Anadolu takımlarının önünü tıkıyordu. Buna kalıcı bir çözüm bulunmalıdır diye düşünüyorum.<br />
+Spora olan yakınlığı ve hükümet içersinde ki gücünün sağladığı çözümcü özellikleri nedeniyle Gençlik ve Spor Bakanımız Sayın Suat Kılıç’ın döneminde bu sorunun çözülebileceği inancını taşıyorum.<br />
+Bundan iki ay önce bu düşüncemi ve iki aşamalı önerimi Sayın Suat Kılıç’a bir mektupla sunmuştum.<br />
+Samsunspor için çok önem kazanan bu eski borçların gündem de olduğu günümüzde, bu mektubun öneri bölümlerini sizlerle de paylaşmak istiyorum.<br />
+Sayın Bakanımızdan bugüne kadar bir cevap alamadım ama o günlerde bir bakanlık yetkilisi arayarak, bazı açıklamalar yapmıştı.<br />
+Bu önerilerimi bir kez de bu sütunlarda açıklıyor ve Sayın Bakanımızdan konuya ilgi göstermesini diliyorum.</p>
+<p>Sayin Bakanım,<br />
+Bir Samsun sevdalısı olarak size olan bir teşekkür borcumu yerine getirmek için bu mektubu yazıyorum.<br />
+Samsunlu bir bakan olarak göreve geldiğiniz andan itibaren Samsun’u geleceğin spor kenti yapacak çok önemli tesisleri Samsun’a kazandırmanızdan ötürü sizi kutluyor ve teşekkürlerimi sunuyorum.<br />
+………….. Bir başka teşekkür konumda Samsunspor ile ilgilidir. Samsunspor yönetimlerinde ve çeşitli kademelerinde görev yapmış birisi olarak, eskiden beri Samsunspor konusunda ki hassasiyetinizi biliyor ve izliyorum.<br />
+Samsunspor takım kurabilmiş ve PTT Ligin de kalabilme mücadelesi verebiliyorsa, bunun arkasında ki en büyük destek sizsiniz. Bu nedenle de, bir Samsunlu ve Samsunsporlu olarak size teşekkür ediyorum.<br />
+………….. On yıl kadar önce transfer statüsünün değiştirilmesi sonucu, Samsunspor gibi alt yapısına önem vererek yetiştirdiği genç sporcularının transferinden sağladığı gelirle ayakta duran kulüplerin tek şansları da ellerinden alınmıştır.<br />
+……………. Anadolu kulüplerinin çoğunluğunun geçmişte yapılan yönetim ve transfer hataları sonucu oluşmuş büyük borç yükü bulunmaktadır.<br />
+Bu tehlikeyi yakından yaşayan illerden birisi de Samsun’dur. Samsunspor bu yıl sizin ve birkaç işadamımızın desteği ile sıkıntılara direnmektedir.<br />
+Sayın Bakanım,<br />
+Aslında son yıllarda Türkiye Futbol Federasyonu aracılığı ile verilen destekler, Anadolu kulüplerinin rahatlıkla yaşamlarını sürdürebileceğini göstermektedir.<br />
+Ancak geçmişte takımların iyi yönetilememesi ve bu yanlışların bu yöneticilere hiçbir sorumluluk yüklememesi sonucu, kulüplerin hemen tamamı büyük bir borç yükünün altındadır.<br />
+İşte bu borç yükü iyi niyetli ve başarılı olabilecek yönetimlerinde önünü kesmektedir. Hiçbir yönetimin de bu borçları ortadan kaldırmaya gücü yetmemektedir.<br />
+…………… Bu sorunun çözümü yaşanan ve yaşanacak sıkıntıları kökten çözer diye düşünüyorum. Bunu da ancak futbolu ve sorunlarını çok iyi bilen ve çok önemli bir siyasi güce sahip bir bakanın zamanında çözülebileceğine inanıyorum.<br />
+Bu sorunun kökten çözümü, adınızı Türk Spor Tarihine altın harflerle yazdıracaktır.<br />
+Nasıl olur? Veya olabilirliliği var mıdır? Bilemiyorum ama bunun, üç büyük dışında Anadolu futbolunun yaşatılması için tek ve son şans olduğuna inanıyorum.</p>
+<p>Önerim iki aşamalıdır;<br />
+Olmazsa olmaz ilk şart, futbol kulüplerinde görev alacak yöneticilere sorumluluk yükleyecek yasal bir düzenlemenin yapılarak, kötü yönetimlerden ötürü oluşacak borçlardan sorumlu olmalarının sağlanmasıdır.<br />
+Kulüplerin kendi gelirleri ve Futbol Federasyonu ile Toto-Loto gibi kurumlardan sağlanan gelirlerle yaşamalarının yolunun açılması için kulüplerin geriye dönük borçlarının bir kereye mahsus olmak (yöneticilere olan borçlar hariç) silinmesi için bir hükümet kararı alınması sağlanmalıdır.<br />
+Bundan sonrada Türk sporuna katkılarınızın devamı dileğiyle, saygılarımı sunuyorum. 02. 04. 2013<br />
+Evet, mektubumun özeti buydu.<br />
+Yeni bir hedef ve yeni bir yönetimle yeniden görev alan Sevgili Emin Kar’a ve yönetimine başarılar diliyorum.<br />
+İyi haftalar.. 14.06.2013</p>
+<p>Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0641-tek-adam-i-ktidarlari-ve-gezi-parki-eylemi.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0643-taksim-gezi-parki-direnisi-nin-analizi-ve-dusundurdukleri.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

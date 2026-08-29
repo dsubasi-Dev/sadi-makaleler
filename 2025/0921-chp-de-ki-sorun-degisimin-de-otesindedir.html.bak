@@ -1,0 +1,411 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>CHP&#x27;de ki Sorun Değişimin de Ötesindedir.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+CHP&#x27;de ki Sorun Değişimin de Ötesindedir.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2025
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0921
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>CHP’DE Kİ SORUN, DEĞİŞİMİN DE ÖTESİNDEDİR.</p>
+<p>İtiraf etmeliyim ki, 24 Haziran Seçimlerinin şokunu henüz üzerimden atamadım.<br />
+Yaşadığım şokun nedeni, tahmin ettiğiniz gibi Sayın Recep Tayyip Erdoğan’ın kazandığı seçim değil.<br />
+Sayın Erdoğan’ın 30 yıla yakın bir süredir her türlü alt yapısını yaptığı tek adam olma anlamında ki Başkanlık Sistemini gerçekleştirmiş olmasının yaratabileceği sorunların endişesini, ülkemizin diğer %50’ si gibi bende yaşıyorum.<br />
+Bu doğru. Ama bugün bunlara değinmek istemiyorum. Benim için asıl şok, CHP’ nin bir kez daha uğradığı yenilgidir.<br />
+Bu nedenle, CHP konusuna çok farklı bir açıdan bakarak bazılarını kızdıracağını bilsem de, gerilere giderek çok farklı açıdan bir CHP analizi yapmak istiyorum.<br />
+Kabul etmeliyiz ki, bu kez Sayın Kılıçdaroğlu ’nun seçim öncesi aldığı ve uygulamaya koyduğu cesur kararlar ve Sayın Muharrem İnce’ nin hiç ummadığım kadar başarılı geçen seçim süreci, çoğu insan gibi beni de umutlandırmıştı.<br />
+Tamam, 1950 sonrası hiçbir seçimde yaşanmayan seçim güvenliği ile ilgili bazı söylentiler ve seçimlerin dürüst yapıldığına yönelik kafalarda oluşan bazı soru işaretleri, alındığı söylenen önlemlere rağmen son dönemlerde yapılan tüm seçimlerde yaşandı.<br />
+Sonuçta tek yetkili kılınan Yüksek Seçim Kurulu sonuçları bu kez de onayladı.<br />
+Türkiye Cumhuriyeti’nin kurucusu olduğu iddiasında ki bir parti, eğer oy verme ve sayım sürecini sağlıklı bir şekilde izleyemiyor ve sandık sonuçlarını anında Genel Merkez’e ulaştırarak açıklanan resmi seçim sonuçları ile olası bir tutarsızlığı saptayamıyor ve bu da parti içinde dahi tartışma konusu oluyorsa, söylenecek tek söz Genel Merkez’in başarısızlığının tescilidir.</p>
+<p>Yapacağım analize, işgal altında ki son vatan toprağı Anadolu’yu işgalcilerden temizleyerek bizlere üzerinde özgürce yaşadığımız laik ve hukuk temelinde çağdaş Türkiye Cumhuriyeti Devletini kuran, Mustafa Kemal Atatürk dönemi sonrası ile başlayacağım.<br />
+İmparatorluk döneminde ki üç kıtaya yayılan topraklarını kötü yönetimler sonrası art arda kaybeden, son vatan toprağı Anadolu’nun da büyük bir kısmının 1. Dünya Savaşı’nı kazanan ülkeler tarafından işgal edilmesiyle dünyanın en büyük İmparatorluğu Osmanlı Devleti tarihe gömülmüştü.<br />
+İşte böylesine umutların tükendiği bir dönem de, tüm yaşamını Osmanlı döneminin bir subayı olarak savaş alanlarında geçirmiş olan Mustafa Kemal, Osmanlı’nın küllerinden çağdaş ve modern bir ülke yaratmıştı.<br />
+Sadece ve sadece 15 yıl yapabildiği Devlet Başkanlığı sürecinde, Mustafa Kemal kurduğu ülkeyi çağdaş dünya düzeyine getirecek akıl almaz devrimleri gerçekleştirdi.<br />
+Ne yazık ki, Büyük Önder’in ömrü kurduğu yeni devlet ile ilgili devrimlerini tamamlamaya yetmedi.<br />
+O’ nu çok erken yaşta aramızdan ayıran kaderi, genç Türkiye Cumhuriyeti’nin de en büyük şanssızlığı olmuştur.<br />
+İnanıyorum ki, eğer çok önem verdiği bir iki devrimi daha sonuçlandırabilseydi, ülkemiz bugün yaşadığı sorunları yaşamayacaktı.<br />
+Büyük Önder’in aramızdan ayrılması sonrası ülke yönetiminin başına geçenlerden, bu devrimleri tamamlaması bekleniyordu.<br />
+Ama olmadı. Ondan sonra gelenler bırakın O’nun yarım kalan devrimlerini tamamlamayı, O’nun yaptığı devrimleri dahi koruyamadılar.<br />
+Bu konuda ki en büyük sorumlulukta, tek parti olarak ülkeyi yöneten CHP’ ne düşüyordu.<br />
+Bu sorumluluğu yerine getiremeyen CHP, sonraki dönemlerde Atatürk ilke ve devrimlerinin bilinçli bir şekilde aşındırılmasını önlemekte de yetersiz kaldı.<br />
+Çünkü Mustafa Kemal Atatürk’ten bayrağı devralanlar, O’nun gösterdiği inancı, cesareti ve kararlılığı gösteremediler.<br />
+Sonun da benim gibi düşünenlere de ülkemizin giderek çağdaş dünyadan kopuşunu ve bir Ortadoğu Ülkesi haline dönüşmeye başlamasını içi yanarak izlemek kaldı.<br />
+Bu açıklamalardan sonra CHP’ ni ülkemizin en önemli partisi olmaktan, hatta giderek alternatif partisi olmaktan çıkartan sürecin analizine geçebilirim.<br />
+Bu analizimi de 2 bölümde irdelemek istiyorum. İlk bölümde 1950 yılına kadar olan ve Atatürk sonrası İsmet İnönü döneminde yaşanan olumsuzlukları, 2. Bölümde de 1950 sonrası dönemin CHP’ sinin yapamadıklarını ve yanlışlarını değerlendirmeye çalışacağım.</p>
+<p>CHP’NİN BUGÜNKÜ DURUMA GELMESİNDE<br />
+İSMET İNÖNÜ DÖNEMİNİN SORUMLULUĞU</p>
+<p>İnancım odur ki, Mustafa Kemal Atatürk’ün ölümünden sonra Cumhurbaşkanı olan rahmetli İsmet İnönü’nün üstlendiği sorumluluk büyük bir anlam taşımaktadır.<br />
+Çünkü Atatürk’ün vefat ettiği 1938 yılında Cumhurbaşkanlığı görevini devralan İsmet İnönü, bu görevini 1950 seçimlerine kadar sürdürmüştür.<br />
+İşte bu 12 yıllık süreç, Atatürk’ün yarım kalan devrimlerinin aynı heyecan ve kararlılıkla sürdürülmesi açısından çok önemliydi.<br />
+Özellikle de Atatürk’ün başlattığı ve çok önemsediği bu ülke insanlarının dinini kendi lisanından öğrenebilmesini amaçlayan reformunun tamamlanması, din ile devlet işlerinin birbirinden ayrılması olan laik düzenin yerleşmesi açısından da özel bir önem taşıyordu.<br />
+Nitekim Osmanlı İmparatorluğu’nda dinin tabu haline getirilmesi, yeniliğe açık olmayan bağnaz kesimin etkisini artırmış ve onların baskısı ile matbaa dahi Osmanlı’ya Avrupa’dan 200 yıl sonra getirilebilmiş, bu da Osmanlı Devleti’nin Avrupa’da ki çağdaşlaşma ve sanayileşme sürecinin uzağında kalmasına neden olmuştur.<br />
+Yine Atatürk, ülkemizde yaşanan büyük kalkışmaların ve toplumun yanlışa yönlendirilmesinde ki en büyük etkenin, halkının dinini kendi lisanından okuyarak öğrenememiş olmasından kaynaklandığını görmüştü.<br />
+İşte bu nedenle, Atatürk’ün talimatı ile ilk kez Kur’an 22 Ocak 1932 de, ezan da 30 Ocak 1932 de Ramazan ayı içerisinde camilerde Türkçe okunmaya başlamıştı.<br />
+Kur’an’ın ve ezanın Türkçe okunacağının duyurulduğu günlerde o camilerde cemaat rekorları kırılmış, halk kendi lisanından ilk kez Kur’an’ın neler anlattığını öğrenmenin, ezanın da insanları namaza davet ettiğini duymanın sevinci yaşamıştı.<br />
+Buna karşı, insanları artık yalan yanlış bilgilerle yönlendirmeyeceğini gören bir kesim de din elden gidiyor yaygarasını kopartıyordu.</p>
+<p>12 yıllık İsmet İnönü’nün Cumhurbaşkanlığında ki tek parti hükümet döneminde yaşanan ve bir bölümü yanlış olarak tanımlanabilecek üç olayı, günümüz CHP’ nin bugün yaşadığı açmazların en önemli nedenleri olarak görüyorum.<br />
+İsmet İNÖNÜ döneminin 1. olayı;<br />
+Atatürk sonrası 12 yıllık sürece hükmeden İsmet İnönü’nün, laik düzen olarak tanımlanan bu reformların henüz tamamlanmadığı bir ortamda yaptığı ciddi zamanlama yanlışı ile çok partili demokrasiyi uygulamaya sokması ile başlayan süreç, halkın dinini tam olarak öğrenmesine yönelik uygulamanın yarım kalmasına neden olmuştur   Ne yazık ki bu gelişmelerin sonunda kazananlar, Türkçe din eğitimi karşıtları olmuştur.<br />
+Kur’an ile ezanın camilerde Türkçe okunması tam 18 yıl sonra 1950 yılında, “Türkçe ezanı kaldıracağım” seçim vaatleri ile iktidara gelen Menderes Hükümeti tarafından sonlandırılmıştır.<br />
+Bununla da kalınmamış, laik düzen karşıtları ve dinimizi siyasete alet ederek seçim kazanmayı alışkanlık haline getiren sağ partiler, dinimizi kendi lisanından öğrenmesi için çaba harcayan CHP’ ni din düşmanı, CHP’ lileri de dinsizler olarak suçlamayı sürdürmüştür.<br />
+İsmet İNÖNÜ Döneminin 2. Olayı;<br />
+CHP’ nin bugün yaşadığı ve çoğu aydın tarafından dahi halka inememekle suçlanmasına yol açan başarısızlıklarının temelin de yatan bir başka olay ise, İsmet İnönü’nün subay olarak 1. Dünya Savaşı’nı yaşamış olmasının da etkisi ile aşırı ihtiyatlı (Tedbirli) kişiliğinden kaynaklanmıştır.<br />
+Atatürk’ün ölümünden bir süre sonra 2. Dünya Savaşı patlamış ve Türkiye’nin de her an bu savaşa girme olasılığı gündeme gelmiştir.<br />
+1. Dünya Savaşı felaketini yaşamış ve sonrasında da Kurtuluş Savaşını cephede savaşarak geçirmiş bir asker olarak en büyük çabası, ülkesini bu savaşın dışında tutmak olmuştur.<br />
+Bunda da başarılı olarak Kurtuluş Savaşı’nın yaralarını yeni saran ve kalkınmaya çalışan ülkesini yeni bir felaketten korumuştur.<br />
+Ancak 1945 yılına kadar süren bu savaşa girebileceğimiz endişesi ile savaş sırasında halkına ve ordusuna gıda sıkıntısı yaşatmamak için başta buğday olmak üzere birçok gıda maddesini depolatmıştır.<br />
+O dönemi yaşayan babamdan da öğrendiğime göre, siloların yetersizliği nedeniyle bazı okul ve camiler gıda maddelerinin ve belki başka şeylerin de depolanması için kullanılmıştır.<br />
+Bu konuda, köylerde görevli jandarmaların yer yer işi abartarak köylünün kendi ihtiyacı için ayırdığı buğdayı dahi zorla elinden aldığı vakalar yaşanmış, bunun yarattığı etki de CHP ve İnönü’ye duyulan tepkiyi büyüterek günümüze de yansıtmıştır.<br />
+İsmet İNÖNÜ döneminin 3. Olayı;<br />
+Bilindiği gibi Mustafa Kemal’in daha Kurtuluş Savaşın en hararetli anlarında dava arkadaşlarına verdiği talimat, Ankara’ya döner dönmez eğitim seferberliğinin başlatılmasıdır.<br />
+Çünkü Mustafa Kemal bu ülkenin yapılacak devrimleri sindirebilmesi ve çağdaş ülkeler seviyesine çıkabilmesi için ilk şartın, eğitim seviyesinin hızla yükseltilmesi olduğunu daha o günlerde görmüştü.<br />
+Ancak öğretmen sayısının yetersizliğinin kısa sürede giderilmesi gerekiyordu.<br />
+Bu amaçla dönemin Milli Eğitim Bakanı Saffet Arıkan Bedük ’ün talimatı ile 1935 yılında başlatılan ve daha sonra MEB Hasan Ali Yücel tarafından da desteklenen çalışmaları yürüten İlköğretim Genel Müdürü İsmail Hakkı Tonguç, tamamen Türkiye’ye özgü bir eğitim modeli yaratmıştı.<br />
+Oluşturulan “KÖY ENSİTÜTÜLERİ” Modeli ile öğretmen ihtiyacının giderilmesi adına çok önemli başarılar sağlanıyordu.<br />
+Bu modelle her köyün kendi çocukları öğretmen olarak yetiştirilerek kendi köylerine öğretmen olarak gönderiliyordu.<br />
+Bu model öylesine başarılı olmuştu ki, öğretmen açığı adına çok önemli bir boşluk doldurulmuş ve Köy Enstitüleri’nin kapatıldığı 1954 yılına kadar 17251 öğretmen yetiştirilmiştir.<br />
+Bugün dahi boşluğu doldurulamayan Köy Enstitülerinin kapatılmasına giden ilk adımlar, İsmet İnönü’nün 1945 yılında uygulamaya koyduğu çok partili demokrasiye geçiş ile birlikte yoğunluk kazanmıştır.<br />
+Böylece Köy Enstitüleri muhalefetin boy hedefi oluyor ve bu okullardan yetişen öğretmenler Kominizm propagandası yapıyor diye damgalanıyorlardı.<br />
+Çünkü Köy Enstitülerinde yetişen öğretmenler yalnız eğitim alanında değil, kültür, sanat, modern tarım, kooperatifleşme ve sanayileşme alanında da bilgi donanımlı yetiştirildikleri için gittikleri köylerinde halkı bilinçlendiriyorlardı.<br />
+Bu, özellikle Güney ve Güneydoğu Anadolu Bölgesinde ki toprak ağalarının hakimiyetini kırmaya başlamıştı.<br />
+Sonunda CHP Eskişehir Milletvekili olan toprak ağası Abidin Fotuoğlu ’nun başını çektiği Doğu ve Güneydoğu milletvekillerinin baskısına direnemeyen İsmet İnönü, ilk ödünü veriyor ve Köy Enstitüleri bazı düzenlemelerle yozlaştırılıyordu. 1954 yılında da iktidarda ki Demokrat parti tarafından tamamen kapatılıyordu.</p>
+<p>İsmet İNÖNÜ döneminin 4. Olayı;<br />
+Bunlara birde Mustafa Kemal Atatürk’ün Millî Mücadeleyi hangi şartlarda başlattığını ve hangi aşamalardan ve hangi karşı koyuşlara rağmen nasıl gerçekleştirildiğini anlattığı Büyük Nutku ’nu, altı yıllık orta okul ve liselerde bölümler halinde ders olarak konulmaması da, tek parti döneminin en büyük eksikliklerinden birisi olmuştur.<br />
+Büyük Nutkun genç kuşaklara okutulmaması, mevcut tarih derslerinin de Osmanlının yıkılması sonrası yeni Türk Devletinin hangi şartlarda ve nasıl kurulduğunun yeterince öğretilmemesi sonucu, Atatürk sonrasının genç kuşağı yakın tarihini gerçek yönleri ile öğrenme şansına sahip olamamıştır.<br />
+Üzülerek söylemek gerekirse, doğan bu boşluk özellikle bazı tarikatlar tarafından öylesine yanlış bilgilerle kullanılmıştır ki, iş Osmanlıyı Mustafa Kemal’in yıktığı şeklinde karşı anlatımlara dönüşmüştür.<br />
+Bu kötü amaçlı söylemler giderek, şu anda üzerinde yaşadığımız son vatan toprağı Anadolu topraklarını düşmandan temizleyerek bizlerin üzerinde özgürce ibadet ederek yaşamamızı sağlayan Mustafa Kemal düşmanlığına dönüşmüştür.<br />
+1950 SONRASI VE CHP’ Nİ ANA MUHALEFET PARTİSİNİ<br />
+MUHALEFETTE  KALMAYA MAHKÛM EDEN OLAYLAR;</p>
+<p>1950 sonrası dönemi başarısızlıklarından söz ederken, en önemli nedenin ilk bölümde özetlediğin olayların etkisi olduğunu söylemek zorundayım. Bu nedenle 1950 sonrası için de bu nedenlerle başlamak gerekecektir.<br />
+Birinci bölümde de vurguladığım gibi Atatürk sonrası göreve gelen İsmet İnönü’nün Cumhurbaşkanlığı döneminde, özellikle de dinimizi kendi lisanından öğrenmesini sağlayan uygulamalar kararlı bir şekilde sürdürülememiş ve bu reformun yarım kalması ve<br />
+Din konusunda ki reformların tamamlanamadığı bir dönem de İsmet İnönü’nün demokrasimizi bir adım daha öteye taşımak amacıyla 1945 yılında çok partili demokrasiye geçme kararı, CHP’ nin bir kez daha tek başına iktidar olma şansını yok eden en önemli neden olmuştur.<br />
+Daha önce Atatürk’ de bunu denemiş, ancak din istismarının nasıl tehlikeli olabileceğini ve başlattığı devrimlerinin tamamlanmasını engelleyeceğini görünce vaz geçmişti.<br />
+İsmet İnönü, bu kararını uygulamaya koyarken Atatürk’ün yaşadığı olumsuzluğu gözardı etmiş ve CHP’nin 1950 ve sonrasında yapılan tüm seçimleri kaybetmesine zemin hazırlamıştır.<br />
+Nitekim seçimleri kazanan Adnan Menderes liderliğinde ki DP’ nin kazandığı bu seçim başarısında ki en büyük pay, seçim konuşmalarında dini siyasete alet etmeleri olmuştur.</p>
+<p>CHP YÖNETİMLERİNİN GÖZ ARDI ETTİĞİ GERÇEK SORUN</p>
+<p>Şimdi burada bir nokta koyarak üzülerek söylemek isterim ki, dünden bugüne CHP yönetimleri 1950 sonrası sürekli seçim kaybedilmesinin veya tek başına iktidar olunamamasının gerçek nedenlerinin yukarıda anlattığım olaylar olduğunu göremedi.<br />
+Sorunun burada olduğunu görülemeyince, bu olayların yarattığı etkiyi algı operasyonuna dönüştürerek CHP’ nin yakasına yapıştırılan “Dinsiz ve camileri ahır yaptılar” Suçlamalarının kuşaktan kuşağa planlı bir şekilde günümüzün seçmenlerine kadar yansıtılmasını da engelleme konusunda da hiçbir özel çaba gösterilmedi.</p>
+<p>Gerçek ve çözülmesi gereken sorunu görmeyen ve o sorunu çözmek yerine sorunu ve çözümü başka yerlerde arayan CHP’ de parti içi demokrasisi de kullanılarak kurultaylar sürecine girildi.<br />
+Sorunu başkan değişikliklerinde arayan CHP’ de, bu değişiklikler de ne yazık ki başarı getirmedi.<br />
+Şimdi bu sürecin de analizine bakalım;<br />
+1950 yılına kadar devam tek parti döneminde, Genel Başkanlığı’nı Mustafa Kemal Atatürk ve İsmet İnönü’nü olmak sadece iki isimle sürdüren CHP’ de’ 1950 sonrası kurultaylar dönemi başlamış ve 5 yeni ismin daha katılması ile 2018 yılı başlarında yapılan son kurultayla birlikte 36 Kurultay ve tam 7 Genel Başkan görev yapmıştır.<br />
+Ne var ki ne yapılan Kurultaylar ne de yapılan genel başkan değişiklikleri, CHP’ ni ana muhalefet partisi olmaktan kurtaramamıştır.<br />
+Bir kez de baraj altında kalarak TBMM’ de temsil hakkını kaybetmiş olan CHP’ de en büyük başarıyı, rahmetli Bülent Ecevit ile yakalamıştır.<br />
+Kişisel karizması ve halkçı söylemleri ile Ecevit’in Genel Başkanlığında ki CHP, 1950 sonrası tüm dönemlerin en yüksek oyunu almasına rağmen, O’ da tek başına iktidar olamamış ancak birkaç kez koalisyon hükümetleri kurabilmiştir.<br />
+Özetle, genel başkan yarışları ve değişimleri de sonucu değiştirmemiştir.</p>
+<p>CHP’ DE YAŞANAN DİĞER PARTİ İÇİ OLAYLAR</p>
+<p>VE YAPILAN YANLIŞLAR:</p>
+<p>CHP’ ne karşı bu propagandalar yapılırken, CHP’ liler ne yapmıştır? İşte CHP adına eleştirilecek en büyük sorun da budur.<br />
+Çünkü CHP, bu olumsuz tanımlamaları özel bir program ve o dönemleri yaşamış kişiler tarihçi ve bilim adamları ile toplumun tüm katmanlarına anlatarak toplumu bu yanlış algılardan kurtarmaya ağırlık vermek yerine, genel başkanları değiştirerek çözme yanlışına düşmüştür.<br />
+Bu iş sonunda öyle bir hale gelmiştir ki, konumlarını koruma yanlışına giren genel başkanlar, kendi kadrolarını oluştururken parti değerlerini ve kendileri gibi düşünmeyenleri dışlamaya başlamıştır. Bu da parti içinde bütünleşme ve dayanışma gerekirken, şucu-bucu diye bölünüp birbirleriyle didişerek kan kaybedilmesine zemin hazırlamıştır.<br />
+Sağdan oy alma umudu gibi bir yanlışa kapılarak partiyle alakası olamayacak isimler partiye monte edilirken, şeriatçı bir yapısı olan ve Atatürk devrimlerini hep eleştirmiş bir kişiyi Cumhurbaşkanı adayı yapacak kadar büyük yanılgılar sonucu, sağdan oy alınamadığı gibi kendi tabanı olan öğretmen, işçi, memur ve gençler kaybedilmiş, destekçileri olan STK ve sendikalardan uzaklaşılmıştır.<br />
+Hemen her dönem de genel merkeze yakın güçlerin toplumda sevilen ve partiyi büyütecek isimleri değil, kendilerini o koltukta tutacağından emin oldukları adayları yerel teşkilatların başına getirme çabasında olması da, teşkilatların yozlaşmasına neden olmuştur.<br />
+CHP’ nin alternatif haline gelememesinde ki en önemli nedenlerden birisi de yerel teşkilatların hem ekonomik hem de program olarak yetersizlikleridir. Buna neden olanlar ise, yerel yöneticilerin iyi seçilmemesi ve onlara destek veren üst düzey yönetici ve milletvekillerinindir.<br />
+Ayrıca yıllardır tekrarladığım bir kural hala geçerli hale getirilmediği için her seçim öncesi başsız kalan teşkilatlar etkin bir seçim çalışması yapamamaktadır.                             Çünkü belediye başkanı veya milletvekili olma hedefi ile il veya ilçe başkanı olanların ilk seçimde aday olmaları halinde il ve ilçe başkanlıkları boşalmaktadır.                                                      Ayrıca seçilenler başkanlıkları süresince de kendi amaçları doğrultusunda çalışmakta ve bu da muhtemel adaylar arasında haksız rekabete yol açtığı gibi teşkilat içerisinde sürtüşmelere zemin hazırlamaktadır. Bu nedenle, İl ve ilçe başkanlıklarına talip olanların yapılacak ilk yerel veya genel seçimde aday olamama kuralı tüzüğe mutlaka konmalıdır.<br />
+Üzülerek söylemek gerekirse, İsmet İnönü ile başlayan Ecevit ve Baykal ile devam eden koltuğa yapışma sendromu, son Genel Başkan Sayın Kemal Kılıçdaroğlu ile de hala sürmektedir.                                         Üst üste seçim kaybetmeye devam edenlerin ve çevresin de yer bulanların, bunun diyetini ödemek adına istifayı düşünmemesi CHP’ de kronik hale dönüşürken, partinin de yenileşmesinin önünde ki en büyük engel olmuştur.<br />
+Ne hazindir ki, bugünlerde yeni bir yanlış yapılmaktadır.<br />
+Bu yazımı kaleme aldığım sırada Sayın Muharrem İnce taraftarları yeni bir olağanüstü kurultay için noter aracılığı imza toplama işlemini başlatmıştır.<br />
+Bana göre bunun ne yeri, ne de zamanıdır. Sayın Muharrem İnce, Cumhurbaşkanlığı seçimlerinin üzerinden daha 1 hafta geçmeden verdiği sözleri unutup, kendisini böyle bir göreve layık görerek Cumhurbaşkanı adayı olarak seçen Genel Başkanı’na, görevi bana bırak diyebilecek aceleciliği gösteriyorsa, kimse kusura bakmasın yeni bir Baykal veya Kılıçdaroğlu modeli bizi bekliyor demektir.<br />
+Üzülerek söylemek isterim ki, Muharrem İnce’yi bu aceleciliğe itenlerin içinde Kılıçdaroğlu’nun aday yapmadığı veya yakınlık duymadığı isimler de yer alıyor.<br />
+Bunların partiyi düşünmenin de ötesinde kendilerine yer bulabilecekleri bir genel başkan arayışı içinde olduklarını sanıyorum.<br />
+Ayrıca CHP Genel Başkanlığı’na aday olacak Muharrem İnce’nin öncelikle şu soruları kamuoyunu ikna edecek şekilde açıklaması gerekmez mi?<br />
+Eğer Cumhurbaşkanı adayı olarak tüm iddialı sözlerinin aksine seçim gecesi bırakın Yüksek Seçim Kurulu’nun önüne gitmeyi, neden ortalıkta gözükmediğini,<br />
+Ne ve neden olduğu anlaşılamayan ve bir sürü tartışmaya zemin yaratan garip bir mesajı, bir TV programcısına göndermenin dışında neden suskunluğa girdiğini,<br />
+Seçimden bir hafta sonra katıldığı bir TV kanalında da bu konuda sorulan sorulara neden ikna edici cevaplar veremeyerek bocaladığını ve parti genel merkezini suçlama yolunu seçerek o gece olanları neden açıklamadığı konusunda toplumu aydınlatması zorunlu hale gelmiştir.<br />
+Bu soruları cevaplamaktan kaçındığı sürece, rejimin değişmemesi için kendisine ve partisine oy verenlerin umutlarını yerle bir etmiş demektir.<br />
+Bu umutları yıkmaya ve çağdaş demokrasiden yana olan ve laik düzenin korunması için çaba harcayan insanların kendisine verdikleri desteği, seçim gecesi büyük bir umutsuzluğa gömenlerin bu yapıda ki seçmenden bundan sonra destek alabileceklerini sanmıyorum.<br />
+Sayın Muharrem İnce hem kendisine hem de CHP seçmenine yazık etmiştir.<br />
+SONUÇ:<br />
+Evet, CHP’ de artık Genel Başkan değişikliği zorunlu hale gelmiştir.<br />
+Ama bunun nedeni asla Kılıçdaroğlu’nun kişiliği veya kimliği olmamalıdır.<br />
+Çok daha önemlisi de, yerel seçimlere çok az bir zaman kala değişimin zamanı değildir.<br />
+ÇÜNKÜ ÇOK DAHA ÖNEMLİSİ, CHP’ NİN ASIL SORUNU GENEL BAŞKAN DEĞİŞİKLİĞİ İLE ÇÖZÜLEBİLECEK KADAR BASİT DEĞİLDİR.<br />
+İlk etapta, CHP’ ni topluma yanlış tanıtan algı operasyonları bir şekilde giderilmeli ve özellikle kırsalda ki bu algıyla donatılmış kesimlere doğrular anlatılmalı ve onların saplantılarını giderecek kapsamlı programlar ve sözcüler seçilmelidir.<br />
+Sonra da Parti Tüzüğü ve programı çağdaş ve günün koşullarında yenilenmelidir.<br />
+Bu tüzükte;<br />
+Parti eğer üst üste girdiği üç seçimi kaybediyorsa, o partinin direksiyonunda ki kişinin yerini başka birisine bırakması kesin kural haline getirilmelidir.<br />
+İl ve İlçe Başkanları kesinlikle tüm üyelerin katılımı ile seçilmeli ve bu adayların ilk yerel ve genel seçimde aday olamayacakları kuralı parti tüzüğüne konmalıdır.<br />
+Eğer bunlarda çözüm olamıyor, 1950 öncesi olaylarla ilgili algılar kaldırılamıyor, haksız suçlamalar giderilemiyor ve bu olumsuz sonuç değiştirilemiyorsa,<br />
+CHP adıyla yeni bir parti kurulmaması da sağlanarak, yeni bir isim ve Mustafa Kemal Atatürk’ün koyduğu ilkeleri tüzüğüne koyarak yeni ve günümüze uygun söylem ve projelerle ve Avrupa’nın en düzgün sosyal demokrat partileri örnek alınarak, sil baştan yeni bir parti kurulmalıdır.<br />
+Bu öneriyi yüreğim yanarak yapıyorum. Ama Türkiye Cumhuriyeti’nin kurucu partisi olduğunu söylemekten başka şey yapılamıyorsa, önce iktidara gelecek partiyi ve teşkilat yapısını oluşturmak ve sonra da kurduğu cumhuriyete sahip çıkmak en çıkar yoldur diye düşünüyorum.<br />
+Umarım ülkemizin demokrasisinin yaşatılabilmesi için olmazsa olmaz olan CHP bir an önce gerçek bir sosyal demokrat kimliğine kavuşur veya son bölümde önerdiğim yeni bir parti ile kendisinden beklentisi olan seçmenlerine cevap verecek kimliğine kavuşur.<br />
+Güzel bir hafta sonu dileğiyle. 21.07.2018</p>
+<p>Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="../2024/1107-bu-tahriklere-artik-dur-denilmelidir.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="1080-dis-gucler-ve-soguk-harp-nedir-1-bolum.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

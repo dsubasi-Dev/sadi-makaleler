@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Karamsarlık ve Umut Işıkları</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Karamsarlık ve Umut Işıkları
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2008
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0340
+
+</div>
+
+
+<div class="article-content">
+
+<p>e-posta; sadi subasi@denizeczaneoptik. com                             SUNUŞ</p>
+<p>KARAMSARLIK VE UMUT IŞIKLARI.</p>
+<p>Öyle bir ülke düşününüz ki, dört tarafı topraklarında gözü olan ve hiç de dostane gözlerle bakmayan ülkelerle çevrilmiş olsun. Dünyada Türkiye gibi bu konumda olan bir başka ülke var mı bilmiyorum. Bölgemiz üzerinde çıkar hesapları olan ülkelerin, kışkırttığı komşularımızla sorunlarımız bir türlü bitmiyor. İyi ilişkiler kurmak uğruna ticari anlaşmalar yaptığımız komşularımızla dahi aramıza çomak sokuluyor ve bu ülkelerle başlayan iyi ilişkiler bir anda ters yüz oluyor. İran ile olan doğal gaz anlaşmaları kara kışın ortasında askıya alınabiliyor. Kim bu karıştırıcı diye çok fazla düşünmeye gerek yok. Bunların başında dünyanın tek süper gücü haline gelen ve bölgemizde ki çıkarları uğruna Orta Doğu’nun dengelerini alt üst eden ABD geliyor.  Diğerleri ise Sevr ile ülkemiz üzerinde ki hesaplarının tuttuğunu sanan ve Lozan’la hesapları bozulan emperyalist Avrupa ülkeleridir. Kim bu ABD? ABD, Kurtuluş Savaşı ile kazandığımız başarının diplomatik alanda perçinlendiği ve misak-i milli sınırlarımızın çizildiği LOZAN ANLAŞMASINI hala imzalamamış olan ve dostumuz diye tanımladığımız ülkedir.<br />
+Dış güçlerin yıllardır ülkemiz üzerinde ki uyguladığı senaryoların tek amacı, bölgemizin en büyük devleti olan Türkiye’nin bölgeye hâkim olmasının önünü kesmektir. Bir dönem sağ sol olayları ile ülkemizi karıştıran dış güçler, daha sonra mezhep kavgalarını, ardından da güney doğu’da ki etnik ayrışmayı kışkırtmıştır. Ermenilerin talepleri ve Kürt terörünün de arkasında ABD vardır. Yıllardır eğitime ve sağlığa ayırabileceğimiz çok önemli miktarda ki paralar PKK terörü uğruna heba olmuştur.<br />
+Şu an da dünyanın en büyük sömürgeci ülkesi olan ABD, barış getirme maskesi altında komşumuz Irak’ı işgal etmiş ve bizimle komşu durumuna gelmiştir. BOP projesi ile bölgemizde ki zengin petrol havzalarını kontrol altında tutmak üzere her şeyi almış gözüken ABD, bir yandan da İran üzerinde ki hesaplarını sürdürmektedir. Bu senaryo ile ülkemize nasıl bir gömlek giydirilmeye çalışılıyor henüz netleşmiş değildir.<br />
+SİYASETİN ÇİRKİN YÜZÜ<br />
+Yıllardır çok parçalı koalisyon hükümetlerinden bunalarak tek parti iktidarını çözüm olarak gören halkımız, bugün de tek parti iktidarının yarattığı dayatmacı sorunları yaşamaktadır. Bu dönemde dış borcumuz tüm cumhuriyet dönemi borcunu ikiye katlamış bulunuyor. Demokrasinin tüm kurallarının henüz tam özümsenmediği ülkemiz, Menderes Dönemin de yaşanan tek parti iktidarının dayatmalarının benzerlerini bir kez daha yaşamaya başlamıştır.<br />
+20. yüzyılın en büyük devlet adamı olarak tarihe geçen Büyük Önder Mustafa Kemal’in yarattığı Laik ve Çağdaş Türkiye Cumhuriyeti içerden ve dışardan yapılan dayatmalarla sıkıntılı bir döneme girmiş bulunmaktadır. Atatürk’ün ülkemizi çağdaş ülkeler dünyasına sokmak için uygulamaya koyduğu ilkeler aşındırılmaya başlamıştır. Yukarıda altını çizdiğim coğrafya da önemli sorunlarla karşı karşıya bulunan ülkemiz, bu kez de durup dururken dinin siyasete alet edilmesiyle, bir türban krizi ile çalkalanmaya başlamıştır.<br />
+Atatürk’ün kurduğu Laik ve Çağdaş Devlet anlayışına karşı, Menderes döneminde başlayan, Demirel ve Özal ile devam eden dini siyasete alet etme yanlışı, sonunda ülkemizi bir dar boğaza sokmuştur. Ülkemiz neredeyse inananlar ve inanmayanlar gibi ayırımın yapıldığı büyük haksızlıkla karşı karşıya kalmış bulunuyor.<br />
+Demokrasinin sağladığı özgür ortamda, bugüne kadar hiç kimse inançlarını uygulamakta bir sorun yaşamamıştır. İsteyen de başını örtmüştür. Hepimizin ailesinde, başını örten de, örtmeyen de olduğunu ve hiçbir sorun olmadan huzur içinde birlikte yaşadıklarını biliyoruz. O halde bu karmaşa neden? Eğer sorun, söylendiği gibi sadece üniversite de okumak isteyen başı örtülü kızlarımız ise, bunun bir uzlaşı ortamında çoktan çözülmüş olması gerekirdi. Bu ülkede siyaset yapanlar ve üniversiteler bu konuyu bir şekilde çözemeyerek, ülkemizi çağdaş dünyadan kopartmak isteyenlerin eline koz vermişlerdir.<br />
+Amacını aşan ve siyasi bir simge haline getirilen bu sorun, üniversiteliye başörtüsünü serbest bırakmak amacıyla yeni bir anayasa yapmakla görevlendirilen anayasa hocası Sayın Özbudun’u dahi korkutmuş gözüküyor. Herkesin aklını başına alması ve bu sorunu çok daha fazla istismar etmemesi gereken bir ortama sürüklenmiş buluyoruz.<br />
+Kadınlarımızın üzerinden siyaset yapma alışkanlıklarını sürdüren siyaset bezirgânları ülkede huzur bırakmamış ve ülkemiz üzerinde hesabı olan dış güçlerin ekmeğine yağ sürmüştür. Bu ülkenin çağdaş yaşamı benimsemiş çok büyük bir kesiminin, inançlarını da özgürce yaşayabildikleri bu ülkenin, çağ dışı bir yaşama kaymasına izin vermeyeceklerine inanıyorum.<br />
+UMUT IŞIKLARI…<br />
+Zaman zaman kapıldığım endişeler bu ülkenin geleceği olan pırıl pırıl gençlerini görünce dağılıyor. İki hafta önce ve geçtiğimiz Cumartesi akşamı davetli olarak katıldığımız dostlarımızın çocuklarının düğününde umutlarım tazelendi. Cumartesi akşamı katıldığımız düğünde de, önceki düğünde ki gibi iki çağdaş ailenin daha şimdiden mutlulukları gözlerinden okunan çocukları tüm salona enerji dağıtıyorlardı. Cumartesi gecesi genç bir hukukçu olan damadın, genç meslektaşım gelinle birlikte söylediği şarkılar etrafa öylesine bir ışık saçtı ki, tüm davetliler dakikalarca ayakta şarkılara eşlik ettiler.<br />
+Davetlilere baktığımda gördüğüm manzara kopartılan gürültülere inat güzel mesajlarla doluydu. Başını inancı gereği bağlamış hanımların zarafeti salonu ısıtıyordu. Geleneklerimizden gelen bu başörtüsüne hiç kimsenin itirazı olmadığını çok iyi biliyorum.<br />
+Düğünde kısa süre de olsa sohbet etme fırsatı bulduğum başka kentlerden gelmiş genç kızlarımızın birikimleri ve çağdaş yaklaşımları içimi ısıttı. Bu canım ülkemin insanlarının bu tür dayatmaları hak etmediklerine bir kez daha tanık oldum. Üzülerek söylemek gerekir ki, bu ülke kendisini yönetmeye talip olan siyasetçileri hak etmiyor. Tüm yapay sorunların odağında bu çapsız siyasetçiler bulunuyor. Bir türlü yenilenemeyen siyasi partiler ve seçim kanunları sayesinde, belki kendilerine hiç sıra gelmemesi gerekenler bizi yönetmek üzere seçilebiliyorlar. Türkiye huzura kavuşmak için bu tür kişilerin siyasette öne çıkmasını önleyecek yasal düzenlemeleri yapmak zorundadır.<br />
+Bu ülkeyi ciddi bir bölünme ve kargaşa ortamına sürükleyecek “siyasi simge türban” konusunda uyanık olmalıyız. Bizleri çağdaş dünyaya taşıyan ve herkesin inançlarının gereğini özgürce uygulamasını sağlayan Atatürk ilkelerine her zamankinden daha çok sahip çıkmamız gerektiğine inanıyorum.<br />
+İyi haftalar… 03 Şubat 2008<br />
+SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0339-samsunluluk-ruhuna-bir-darbe-de-chp-den.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0341-kazanilan-zaferi-de-kutlamayi-becermedik.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

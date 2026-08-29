@@ -1,0 +1,323 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Adana İzlenimleri.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Adana İzlenimleri.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2013
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0639
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>ADANA İZLENİMLERİ</p>
+<p>İstanbul Eczacılık Fakültesi’nin 1967-68 mezunları olarak son altı yıldır her yıl eşli olarak bir araya geliyor ve 46 yıl önceye dayalı öğrencilik anılarımızı paylaşıyoruz.<br />
+Her yıl bir arkadaşımızın kendi ilinde düzenlediği buluşmalarımızın birisini de, üç yıl önce de Samsun’da düzenlemiştik.<br />
+Bu yılda Adana’lı arkadaşımız bizleri Adana’da bir araya getirdi. Geçen hafta ki buluşmamız da, Adana dışında bir tam günü de Hatay’ da geçirdik.<br />
+Bugün sizlerle Adana’da ki bazı tespit ve gözlemlerimi paylaşmak istiyorum. Adana’ya daha önceki yıllarda iki kez daha gittiğim için Adana’da ki farkı çok daha iyi gözlemleyebildim.<br />
+Öncelikle şunu belirtmek isterim ki, Türkiye’de gelişmeyen il hatta ilçe yok gibi. Son yıllarda yerel yönetimler kanunu ile illere sağlanan ekonomik destekleri iyi kullanan ve çarçur etmeyen il ve ilçeler hızlı bir şekilde gelişiyor.<br />
+Bunun için mutlaka iktidar partisinden bir belediye başkanına sahip olmak da şart değil.<br />
+Bunun en büyük örneği ise, DSP’den seçilen ve belediye meclisinde oy desteği olmayan Eskişehir Belediye Başkanı Sayın Yılmaz Büyükerşen’in, Eskişehir’i Avrupa’nın Kültür Kenti yaparak sağladığı mucizesidir.<br />
+Gelelim Adana’ya; Adana her gittiğimde daha da büyüyen ve gelişen bir kent.<br />
+Selahattin Çolak ile başlayan ve Aytaç Durak ile devam eden başkanlık sürecinde Adana akıl almaz bir şekilde gelişmiş.<br />
+Kentin içinden geçen Seyhan Nehri en büyük şansı. Çevresi çok güzel ışıklandırılmış olan Seyhan Nehri ve hemen devamında ki Seyhan Baraj Gölü’nün de kenti adeta sarmalamış olması kente müthiş bir güzellik katmış.<br />
+Değişik partilerden aday olarak seçim kazanan Sayın Aytaç Durak, gelişen Adana’nın son yıllarına imza atan kişi olmuş.<br />
+Sayın Aytaç Durak tartışılan ve son dönemde AKP’nin hışmına uğrayarak görevden alınan bir başkan. Konuştuğum kişilerin hemen hepsi O’nunla ilgili eleştiriler yapsa da, aday olursa yine de oyumu O’na veririm diyordu.<br />
+Çukurova Üniversitesi çok gelişmiş ve dev bir kampüs olmuş. O’ da Seyhan Baraj Gölü kıyısına yerleşmiş. Konumu harika.<br />
+Sayın Aytaç Durak döneminde baraj gölü’nün iki yakası büyüleyici bir köprü ile birbirine bağlanmış. Tüm gölün çevresi büyüklü küçüklü restoran ve eğlence kulüpleri ile dolu. Bu gölün çevresi geceleri çok renkli.<br />
+Adana’ya özgü meşhur “Bici-Bici” isimli tatlı- dondurma karışımı şekersiz muhallebi satan yerler, bütün kent içersinde olduğu gibi özellikle de Seyhan baraj Gölü etrafına tesbih tanesi gibi dizilmişler.<br />
+Benim Samsun Eczacı Odası Başkanlığım döneminde Adana Eczacı Odası Başkanı olan değerli meslektaşım Mustafa Türkmen bir akşam beni guruptan kopartıp Adana’nın gece güzelliklerini görmemi sağladı.<br />
+O akşam Adana’da nereye gitsek, karşımıza bir “Bici-Bici” satan yer çıktı.<br />
+Aynı saatlerde Samsun’dan katılan devre arkadaşlarım ve eşim Adana’nın en önemli bulvarı olan Ziya Paşa Bulvarında bir kafe de beni bekliyorlardı.<br />
+Adana’dan “Bici-Bici” yemeden dönmek olmazdı. En iyisinin satıldığı bir satıcının önünde durduk. Arkadaşalarımın da tatması ve tanıması için hepsine birer “Bici-Bici” aldım.<br />
+Satıcı kız “Bici-Bicileri” özenle hazırladı.  Önceden hazırlanmış ve tepside bulunan şekersiz soğuk su muhallebisini bıçakla keserek kabın altına yerleştirip üzerine pudra şekeri serpti.<br />
+Onun üzerini de, buzluktan çıkardığı buz kalıbından rende ile inceceik kıydığı buz kırpıntılarıyla örttü. ( Eskiden buz yerine dağdan kışın alınarak saklanan kar kullanılırmış.)<br />
+Sonra üzerine biraz daha (İsteğe göre) pudra şekerl döktü. Son olarak da üzerine meyvalardan yapılmış renkli şerbeti dökerek paketledi.<br />
+Sabahtan beri bu “Bici-Bici” nasıl bir şey diyen arkadaşlarıma götürdüm. “Bici-Bicileri” gören arkadaşlar, ben dahil büyük bir merakla “Bici-Bicilerİ” kaşıklamaya başladık.<br />
+İlk kaşıkları ağızlarına atmaları ile birlikte arkadaşların yüzlerine bir hayal kırıklığı yansıdı. Biraz da pudra şekerini az koydurduğum için olacak kimse umduğunu bulamamıştı.<br />
+Hemen teşhis kondu. Genel kanı, Bici-Bici’nin Adana gibi çok sıcak bir kentte yaz aylarında serinletici olarak kullanılabilecek bir tür soğuk tatlıydı. Sonuçta Adana’ya gidip de “Acılı Adana Kebap” ve “Bici-Bici” yemeden dönülmemesi gereğini yerine getirdik.<br />
+Türkiye’nin sulama sorunu büyük çapta çözülmüş bir ovası olan Çukurova’da pamuk üretiminin gittikçe zayıfladığını ve onun yerinin sebze ve meyve üretimine ağırlık verildiğini gördüm.<br />
+Özellikle Adana’nın ilçelerinde ki ören yerleri çok etkileyiciydi. Bazı yörelerde yerleşim yerlerinin tarihi kalıntılarıyla birlikte iç içe olması çok ilginçti. Altı minareli Sabancı Cami’si ise etkileyiciydi.<br />
+Hatta hazine arazisi olan bazı antik köylerde ki yerleşik köy sakinleri, bu tarihi eserleri korumak için Kültür Bakanlığınca maaşa bağlanmıştı.<br />
+Gerek Adana içersinde ve gerekse ilçelerinde ki bir başka tespitim de, bizim yörelere son dönemlerde hâkim olan kılık kıyafetlerle simgelenen dini göstergeler buralara gelmemişti.<br />
+Bu tespitlerimi perçinleyen ise, dönüş için geldiğimiz Adana havaalanı oldu. Eşimin, “Şöyle bir çevrene bak, sonra da Samsun havaalanında ki görüntülerle kıyasla” Sözleri üzerine bekleme salonuna bir göz attım.<br />
+Oldukça büyük ve kalabalık Adana Havaalanı’nda gördüğüm kıyafetlerden bir saat sonra, Samsun Havaalanı’nda gördüğüm kıyafetler öylesine zıttı ki, kıyafetlere bakarak dindarlık ölçüsü belirlemek gerekirse, Adana küme düşerdi.<br />
+Son bir tespitim de, havaalanının Adana’ya yakışmadığıydı. Ancak aldığım bir bilgiye göre yeni havaalanı yapılıyormuş veya yapılacakmış.<br />
+Haftaya da Reyhanlı’da ki patlamalarla gündeme oturan Hatay’dan çok ilginç izlenim, tespit ve duyumları sizlerle paylaşacağım. Umarım haftaya kadar beklenmedik bir gelişme olmaz.<br />
+İyi haftalar..26.05.2013</p>
+<p>Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0638-emeki-ler-i-cin-hobi-bahceleri.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0640-hatay-i-zlenimleri-ve-reyhanli-olaylari.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

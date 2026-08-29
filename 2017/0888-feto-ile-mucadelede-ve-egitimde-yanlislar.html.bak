@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>FETÖ ile Mücadelede ve Eğitimde Yanlışlar</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+FETÖ ile Mücadelede ve Eğitimde Yanlışlar
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2017
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0888
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>FETÖ İLE MÜCADELEDE YAPILAN YANLIŞLAR VE EĞİTİM</p>
+<p>15 Temmuz 2016 da darbe ile ülkemizi ele geçirmeye kalkışan dinci FETÖ Terör Örgütünün temizlenmesi için sürdürülen soruşturmalar, gözaltılar ve tutuklanmalar bütün hızı ile sürüyor.<br />
+Ne var ki sürdürülen bu mücadelenin uzaması ve genişlemesi giderek toplumsal huzura zarar vermeye başlamıştır.<br />
+Askere gittiğinin 2. Gününde emirle sokağa çıkartılan erlerin veya aynı şekilde kandırılarak talimatla darbe girişimine alet edilen askeri öğrencilerin geleceğinin karartılması veya benzer şekilde dini duygularının kurbanı olan bir takım masum dindarların kesinlikle bu işin planlayıcıları ve uygulayıcılarından ayrı tutulması gerekliydi.<br />
+O nedenle bu mücadelenin daha sağlıklı yürütülebilmesi için bu örgütün hangi kaynaktan beslendiğinin, kimlerin hangi amaçla desteklediğinin ve bu kadar geniş bir kitleyi nasıl kandırarak darbe girişimine sürüklediğinin geçmişi çok iyi irdelenmelidir.<br />
+Bunu yaparken, hepimizin ortak paydası olan dinimizin nasıl ve kimler tarafından siyasi kazanımların aracı haline getirildiği de mutlaka araştırılmalıdır.<br />
+Her geçen gün yaptıklarının değeri çok daha iyi anlaşılan Mustafa Kemal Atatürk’ün kurduğu Türkiye Cumhuriyeti’nde dinimize verdiği önemin değeri, bu darbe girişimi ile sanırım çok daha iyi anlaşılmıştır.<br />
+Son FETÖ Darbe girişiminin temelinde, Atatürk’ün dinimizin doğru algılanabilmesi, geçmişteki yanlışların devam ettirilmemesi ve dinimizin başka amaçlarla kullanılmaması için uygulamaya koyduğu “Laiklik” İlkesine yeterince sahip çıkılmamasının yattığı göz ardı edilmemelidir.<br />
+Atatürk sonrası, özellikle de 1950 seçimleri ile başlayan süreçte dinimizin siyasi kazanımların aracı haline getirilmesi,<br />
+Kuralları kutsal kitabımız Kur’an’da belirtilmiş olmasına rağmen, dinimizin birtakım tarikatlar tarafından farklı yorumlanması ve bu tarikatların giderek etrafında topladığı insan gücünü seçim dönemlerinde baskı aracı olarak kullanması, FETÖ Darbesine zemin hazırlamıştır.<br />
+Bu darbe bir anlamda Atatürk’ün tarikatların (Dergâh ve Zaviyelerin) kapatılmasına yönelik aldığı kararın doğruluğunu kanıtlamaktadır.<br />
+Bugün de çok sayıda tarikat faaliyetlerini sürdürmektedir. Bu tarikatların tabanları aynı olup, bileşik kaplar örneğinde olduğu gibi üyeleri de yer değiştirebilmektedir.<br />
+Bir tarikatın yasaklanması çözüm olamaz. Çünkü o tarikatın üyeleri yok olmayacak ve bir başka tarikatın içine kayabilecektir.<br />
+Bu nedenle FETÖ ÖRGÜTÜ veya benzerlerinin gelecekte de aynı girişimde bulunmaması isteniyorsa, tüm tarikat faaliyetleri sonlandırılmalıdır.<br />
+Çünkü bu tarikatlar, olanakları kısıtlı çocuklar için oluşturdukları yurtları kendi görüşleri doğrultusunda insan yetiştirmek için eğitim aracı olarak kullanmaktadırlar.<br />
+Nitekim FETÖ Örgütü de bu tür yurt ve eğitim kurumları ile halkımızın inançlarını kullanarak büyümüş ve işi ülkenin yönetimini ele geçirmeye kadar götürmüştür.<br />
+Bu örgütün geçmişin tüm siyasi iradeleri tarafından kollanmış ve desteklenmiş olması da göz ardı edilmemelidir.<br />
+Bu örgüte Samsun’un en güzel yerinde çok geniş bir arazinin üniversite yapabilmeleri için parasız tahsis edildiği, alt yapı ve yollarının yine siyasi iktidarın belediyeleri tarafından yapıldığı da unutulmamalıdır.<br />
+Üzülerek söylemek gerekirse, FETÖ Örgütüne ait okul, yurt ve dershaneler kapatılırken, aynı statüde bu kez de siyasi iktidarın görüşleri doğrultusunda hizmet veren vakıflara ait yurt ve benzeri kuruluşların hızla yaygınlaşması ve bunlara devlet eliyle bina ve araziler verilmesi, bunlarla da yetinilmeyip Millieğitim politikalarını yönlendirmesine onay verilmesi nasıl açıklanabilir?<br />
+Bu yapılanların dün yapılanlardan ne farkı var?<br />
+Bir yanlışı bir başka yanlışla düzeltmenin mümkün olmadığını nasıl öğreneceğiz?<br />
+O nedenle, sırf dini inançları ile bu tarikatta yer alan çok sayıda insan bu örgütün asıl amacını görememiş olabilir. Soruşturma, gözaltı ve tutuklamaların bu kadar genişletilerek sürdürülmesi hem sorunun bitirilmesini zorlaştırmakta, hem de toplumsal huzurun bozulmasına zemin hazırlamaktadır.<br />
+Soruşturmalar ve tutuklamalar, bu örgütün gerçek amacını bilerek destek veren, öncülük yapan elebaşlarıyla sınırlı tutularak bir an önce tamamlanmalıdır.<br />
+Asıl suçluların yakalanarak en ağır şekilde cezalandırılmasının ve bu işe dolaylı olarak bulaşanların yeni bir takip sistemi oluşturularak topluma kazandırılmasının, toplumu rahatlatacağına inanıyorum.<br />
+EĞİTİM ALANINDA YAPILAN YANLIŞLAR.<br />
+Ülkemizi büyük bir karmaşa sürükleyen FETÖ yapılanmasının altında yatan en önemli neden, eğitim politikalarını bir türlü ulusal çıkarlarımız doğrultusunda oluşturamamış olmamızdır.<br />
+Bu konuda yaptığımız bir başka önemli yanlışta, çocuklarımızı geleceğe hazırlayacak çağdaş ve sorgulayıcı eğitim konusunu yaz boz tahtasına çevirip ötelerken, dindar nesil yetiştirmek adına çocuklarımızın yeterli din bilgisine dahi sahip olmayanların görev yaptığı çok sayıda ki kuran kurslarında eğitilmesinin önünün açılmasıdır.<br />
+Orta öğretim okullarının hızla imam hatip liselerine çevrilerek adeta çocukların bu okullara gitmeye zorlanmasına, doğan tepkilerde giderek artmakta ve imam hatip liseleri yeterli sayıda öğrenci bulamamaktadır.<br />
+Bu okulların açılış amacı, topluma dinini öğretebilecek seviyede donanımlı din adamları yetiştirmekti.<br />
+Ne var ki zamanla bu okullar, dini siyasette kazanım aracı olarak gören siyasetçiler tarafından kendi görüşlerinde bürokrat yetiştirme okulları haline getirilmiştir.<br />
+Üzücü olan, son FETÖ Darbe girişiminin dahi siyasetçilere ders olmamasıdır.<br />
+Çözüm, eğitim politikalarının siyasi beklentilerin dışında tutularak bir an önce çağdaş ve sorgulayıcı bir eksene oturtulmasıdır.<br />
+Yapılacak en doğru iş, yeni arayış ve denemelere girilmeden Cumhuriyetin kuruluş yıllarında uygulanan ve çok büyük bir başarı sağlanan Köy Enstitüleri Modelinin, günümüz şartlarında yeniden düzenlenerek uygulamaya sokulmasıdır.<br />
+Her geçen gün daha da gerginleşen ve giderek ülkemizin geleceği açısından endişe yaratan olayların yaşandığı günümüz de siyasetçiler arasında yaşananlar, ağızlardan çıkan rakibini aşağılayıcı ve utanç verici sözler kabul edilemez boyutlara ulaşmıştır.<br />
+Ülkemizi iyi yönetsinler ve bizlere daha güzel bir yaşam hazırlasınlar diye göreve getirdiğimiz siyasetçilerin, bizlere bunları yaşatmaya hakkı olamaz.<br />
+Bölgemizin ateş çemberine döndüğü bir dönemde ülkemizi yönetmeye talip olmuş tüm siyasetçilerin kişisel sürtüşme ve ağız dalaşına son vermeleri dileğiyle, güzel bir hafta diliyorum. 03.12.2017</p>
+<p>Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0887-i-nsaat-sektoru-turkiye-i-cin-cozum-olamaz.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0889-son-on-bes-yilin-analizi-1-bolum.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

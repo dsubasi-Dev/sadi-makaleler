@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>1920 ile 2007 Arasında Samsun&#x27;un TBMM de Temsili</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+1920 ile 2007 Arasında Samsun&#x27;un TBMM de Temsili
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2007
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0300
+
+</div>
+
+
+<div class="article-content">
+
+<p>1920 İLE 2007 ARASINDA SAMSUN’UN TBMM DE TEMSİLİ<br />
+VE  SİYASETEN YAŞANAN ETKİSİZLİĞİN NEDENLERİ..</p>
+<p>Ülkemiz hafta sonunda önemli bir genel seçim yaşayacak. Bu 1920 den sonra yapılacak 23. genel seçim olacak. Cumhuriyetin ilanından bugüne kadar geçen 87 yılda yapılan 22 seçim ve 1960 ihtilali sonrası oluşan kurucu meclis ve Cumhuriyet Senatosun da toplam 205 siyasetçi Samsun adına temsil sorumluluğu üstlenmiştir. Bunların 191 adedi milletvekili olarak TBMM de, 14 adedi de Cumhuriyet Senatosun da görev yapmışlardır. Cumhuriyet dönemindeki 87 yılda Samsun da neler olmuş ve Samsun nerelere gelmiştir? Önce bunu irdeleyelim ve sonra da yukarıda ki siyasi tabloyu bir gözden geçirelim.<br />
+Son yıllarda Samsun’un kalkınmışlık sıralamasında hızla gerilere düşerek 6. 7. sıralardan 32. sıralara yerleşmesi, tüm Samsunluları olumsuz etkilemeye başlamıştır. Hükümetin kamu yatırımlarına ağırlık verdiği geçmiş dönemler de Samsun hemen, hemen hiçbir ciddi devlet yatırımı alamamış, özel teşebbüsün özendirildiği son yıllarda ise, diğer illere hükümetler teşvik de dâhil her türlü desteği yağdırılırken, Samsun bu olanaklardan da anlaşılmaz bir şekilde mahrum bırakılmıştır. Sonuçta Samsun Türkiye ortalamalarının üzerinde işsizler ordusuna sahip olurken, üniversiteyi bitiren gençlerini de Samsun’a döndürememiştir. Son yıllar da İMF dayatmaları ile tarım alanlarının daraltılması sonucu, tarım gelirlerinden mahrum kalan köylerin genç nüfusu da iş umudu ile büyük kentlere göç etmiştir. Bu olumsuz gelişmelerin sonucun da Samsun, sahip olduğu coğrafi, ulaşım ve Karadeniz Bölgesinin merkezi olma avantajlarıyla bağdaşmayacak konuma düşerek, geçmişte ki ticari gücünü de kaybetmiştir. Günümüz de Samsun adeta işsiz, emekli ve memur kenti haline gelmiştir.<br />
+Eğer Samsun böylesine olumsuz bir çizgiye gelmişse bunun bir sorumlusu veya sorumluları olmalıdır. Bir kent sürekli haksızlığa uğruyorsa, en değerli kurum ve kuruluşları bir takım siyasi tercihlerle başka illere kaydırılıyorsa, en önemli markaları birer, birer yok oluyorsa, o kentte yaşayanların bu olumsuzluklara çok önemli tepkiler koyması ve bu işin sorumlularına hesap sorması gerekir. Bunlar yapılmıyor ve kentte işler iyi gitmiyorsa, o kent iyi yönetilmiyor ve iyi temsil edilmiyor demektir. Bu tespitin doğru olduğuna inanıyorsak, bu işin ilk sorumlusunun da o kentte yaşayanlar olduğunu söyleyebiliriz. Çünkü demokrasilerde bu işin yolu bellidir. Halk olarak katılımcı ve talep eden olacaktır. Seçtiği ve kendisini temsil etsin, haklarını arasın diye TBMM gönderdiği insanları takip etmiyorsa, daha da ötesi bir sonraki seçimde de gerekli tepkiyi gösteremiyorsa, öncelikli suçlu o kentin yaşayanları demektir. Halk olarak biz suçluyuz da seçtiklerimizin hiç mi günahı yok? İşin bu yönünü de incelemek gerekir diye düşünüyorum.<br />
+Samsun 1975 yılına kadar bölgenin tartışmasız en güçlü ve lider kentidir. Türkiye’nin de en önde gelen 6–7 kentinden birsidir. 1975 li yıllardan itibaren Samsun Türkiye’nin kalkınma temposuna ayak uyduramamış ve diğer iller yatırımlarla güçlenirken, Samsun herkesin çok iyi bildiği birçok nedene bağlı olarak yerinde saymıştır. Neden ne olursa olsun, bu olumsuz gidişi bu kenti yönetenler ve bu kenti Ankara’da temsil sorumluluğu alanlar durdurmak zorundaydı. Ne yazık ki, Samsun adına son 30 yılda görev alan siyasetçiler bu kötü gidişi görememiş ve görevlerini yapamamıştır. Hastalığı tespit edememişler, hükümetlerin Samsun’a bakışını değiştirememişlerdir. Yerel yöneticiler ile sivil toplum kuruluşları da Samsun’a yeteri kadar sahip çıkamamışlardır. Olumsuzluklar son 30 yılda ağırlık kazandığına göre, son 30 yılın parlamenter yapısını incelemek gerekir diye düşünüyorum.<br />
+14/Ekim/1973 de yapılan 15. dönem milletvekili seçimlerinden               03/Kasım/2007 de yapılan 22. dönem milletvekili seçimlerine kadar geçen 7 seçimde Samsun’u temsilen seçilen 66 milletvekilinden 45 tanesi iktidar partilerine aittir. Bir diğer deyişle Samsun 30 yılda hep iktidar olmuştur. Sayısal olarak bakarsak milletvekili sayısı içindeki iktidar milletvekili sayısını 1973 de 10/5, 1977 de 10/5, 1983 de 8/6, 1987 de 9/4, 1991 de 9/7, 1995 de 11/5, 1999 da 10/6, 2002 de 9/7 olarak görürüz.<br />
+Bu 30 yılda iktidar partilerine 45 milletvekili veren Samsun’a sadece 7 kez bakanlık verilmiştir. Bunların hiç birisi de yatırımcı bakanlık değildir. Verilen bakanlıkların üçü devlet bakanlığı olmak üzere diğerleri de gümrük ve tekel, sağlık, turizm ve orman bakanlıklarıdır.<br />
+Bu süreçte değişik hükümetler ve değişik başbakanlar görev aldığına ve Samsun’a kasıtlı davranılması da düşünülemeyeceğine göre, Samsunluların bakan olabilecek milletvekili seçemedikleri, daha doğru deyimle siyasi partilerin Samsun aday listelerini özenli belirlemedikleri sonucu çıkmaktadır.<br />
+Tespit edebildiğim kadarı ile siyasi partiler Samsunluyu ciddiye almamaktadır. Çünkü ismini çıkartabildiğim kadarı ile siyasi partilerin Samsun’dan listeye koyup seçtirdiği Ethem Ezgü, Kamuran Evliyaoğlu, Talat Asal, Biltekin Öztekin, Ziya Gökalp Mülayim, Melahat Gedik, Selahattin Kılıç, Hilmi Türkmen, Latif Öztek, gibi isimlerin Samsun ile yakın uzak ne ilişkisi vardır? Bu isimler Samsunluya dayatılırken Samsunlu ne tepki koymuştur?<br />
+Doğum yerinde Samsun yazanlardan çok, seçimden önce Samsun’da yaşayan, sorunlarını bilen, bu kentin insanıyım diyebilen ve milletvekilliği bittikten sonra da Samsun’da yaşamını sürdürecek olanların seçilmesinden yana birisi olarak, doğum yerlerine göre bir oran vermiyorum. Sadece, milletvekilliği yaptıktan sonrada Samsun’da yaşamını sürdüren Sayın Şaban Demirdağ, Sayın Hüseyin Özalp, Sayın Muhlis Arıkan, Sayın Hasan Altay, Sayın Fevzi Ceylan, Sayın Cemal Alişan, Sayın Ahmet Demircan, Sayın Ayhan Gürel dışında kimseyi hatırlıyor musunuz diye hafızanızı yoklayın diyorum.<br />
+Böyle bir milletvekili şablonundan ve Samsun’u iktidar partilerinin arka bahçesi haline getirmiş bir siyasi anlayıştan sonra, Samsun adına siyasi güçten bahsedilebilir mi? Samsun’da yaşamamış, sonrasında da yaşamayacak olanların ve Samsun’a hiçbir şey vermemiş olanların üst üste birkaç dönem seçilebildiği bir kentin söz söylemeye hakkı olur mu? Son otuz yılda bir kısmı koalisyon hükümetleri de olsa, her dönem iktidar partisine en çok milletvekilini verip de karşılığını alamadığında tavır koyamayan bir toplumun yakınmaya hakkı olabilir mi?<br />
+Böyle bir topluma hangi hükümet bir şeyler vermek zorunluluğunu duyar? Samsun siyaseten çökmüştür. Bu kötü tablodan herkes kendi payına düşeni almalıdır. Böylesine sahipsiz bir kentin eğitiminin de, Samsunspor’ununda küme düşmesinden doğal ne olabilir?<br />
+Son Samsunspor Genel Kurulunda Samsun Valisi Sayın Hasan Basri Güzeloğlu yaptığı konuşmanın bir bölümünde, öz olarak, “ hiç kimse davet beklememeli, talep etmeli, sorumluluk almalı” diyerek, başta sivil ve kamuda ki yöneticiler olmak üzere toplumun tüm kesimlerine gerekli mesajı vermiştir.<br />
+Ülkemizin olduğu gibi Samsun’un da önümüzde ki beş yılının kaderini çizecek 22-Temmuz milletvekili seçimleri öncesi, bunları sizlerle paylaşmak istedim. Seçimlerin ülkemizi ve Samsun’umuzu daha iyi günlere taşıması dileğiyle iyi haftalar. 15-Temmuz–2007<br />
+NOT: Veriler TBMM arşiv kitabından alınmıştır.</p>
+<p>SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0299-hayvan-sevgisine-dini-acidan-olumlu-bir-yaklasim.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0301-22-temmuz-genel-secim-sonuclarinin-turkiye-ve-samsun-acisindan-degerlendirmesi.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

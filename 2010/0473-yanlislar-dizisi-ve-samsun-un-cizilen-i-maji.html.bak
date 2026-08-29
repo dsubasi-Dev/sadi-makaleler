@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Yanlışlar Dizisi ve Samsun&#x27;un Çizilen İmajı</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Yanlışlar Dizisi ve Samsun&#x27;un Çizilen İmajı
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2010
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0473
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>YANLIŞLAR DİZİSİ VE ZARAR GÖREN SAMSUN.</p>
+<p>Samsun’da geçen hafta başında öylesine bir olay yaşandı ki, neresinden tutsanız elinizde kalıyor.  Bir dizi yanlışın da ötesinde, beceriksizlik ile basiretsizliğin iç içe geçtiği yumruk olayı, bir anda Samsun’u Türkiye gündemine taşıdı.<br />
+Ne yazık ki, “Samsun ile ilgili hiç güzel bir haber duymayacak mıyız?” Diyen, Samsun dışında ki hemşerilerimizi bir kez daha haklı çıkartacak bir olayla sarsıldık.<br />
+Bu kadar yanlış ve beceri eksikliği nasıl yapıldı anlamak mümkün değil. Bunlardan daha da düşündürücü olan, Samsun’un aldığı yarayı bir yana bırakarak, Samsunlulara yaşatılan kışkırtma kokan bu olayı çözemeyen ve gerekli önlemleri alamayan yöneticilere sahip çıkma yarışıdır.<br />
+Olayın üzerinden bir hafta geçti. Şimdi yaşananları daha sakin bir bakışla değerlendirebiliriz. Ancak hepsinden önce, bu olayın plansız dahi olsa, hoş görülecek bir yanının olmadığının altını çizmek istiyorum. Çağdaş demokrasilerde bu tür tepki ve eylemlere yer yoktur. Ne var ki, ülkemizin geçmişinde çok da yabancı olmadığımız bu tür eylemler, son zamanlarda yeniden gündeme gelmeye başladı.<br />
+Samsun’da yaşanan son olayı üç ayrı açıdan irdelemek gerekir.<br />
+1. YAPILAN CİDDİ YANLIŞLAR:<br />
+Yanlışın ilkini, bu duruşmayı Samsun’a alan resmi otorite yapmıştır. Davayı, bölücü örgüt terörüne en çok şehit veren Karadeniz Bölgesi’nin merkezi konumunda ki Samsun’a alanlar, bu bölgenin hassasiyetini nasıl dikkate almazlar anlaşılır gibi değildir.<br />
+İkinci önemli yanlış, PKK terörü ile ilgili bir olayın Samsun’da yapılacak duruşmasına bir gün önceden gelen BDP Milletvekilleri ile kapatılan DTP’NİN siyaseten yasaklı Genel Başkanı Ahmet Türk’ün kışkırtma kokan hareketleridir.<br />
+Çoğu mahkeme salonuna dahi girmediği söylenen bu insanlar Samsun’a neden gelmiştir? Otellerine gidip açıklamalarını orada yapmak varken, verilen şehitlerin tepkisi ile yüklü Adliye önünde toplanan kalabalığı göre, göre açıklama yapmaya kalkışmanın iyi niyetle açıklanır bir yanı da yoktur. Bu düpedüz olaylara çanak tutmaktır. Ne yazık ki, amaçlarına da ulaşmışlardır. İçeriğinin ne olduğu bilinmeyen bir Kürt açılımı ile yatıp kalkanları, neredeyse özür dileyecek noktaya getirmişlerdir. BDP Milletvekillerinin hakaret ve tehdit dolu sözleri de hiçbir günahı olmayan Samsunluları PKK’NIN hedefi haline getirmiştir.<br />
+2- YÖNETİM ZAAFİYETİ:<br />
+Provokasyona son derece açık bu duruşma, kent yönetimi tarafından doğru süzülememiş ve bu işin sıradan polisiye tedbirlerle geçiştirilemeyeceği hesaplanamamıştır.<br />
+Aslında bu olay bir anlamda ucuz dahi atlatılmış sayılır. Çok sayıda şehit ailesinin bulunduğu Samsun’da içine ateş düşmüş bir şehit babası veya kardeşi, bu saldırıyı bıçak veya silahla da yapabilirdi. Ölümle sonuçlanacak bir olayın yaratacağı etkiyi düşünmek dahi istemiyorum.<br />
+Kaldı ki, bir yumruk dahi terör örgütünün beklediği ortamı hazırlamıştır. Daha ilk günden Doğu Anadolu Bölgesi’nin bazı illerinde Samsun plakalı araçlara tacizlerin başladığı haberleri gelmeye başlamıştır. Güneydoğu illerinin internet sitelerinde ise, Samsun’a yönelik insanı ürperten sözler yer almaktadır.<br />
+Umarım Samsun’da ki bu yönetim zafiyeti, terör örgütünün Karadeniz Bölgesine açılma hesaplarına zemin hazırlamış olmasın.<br />
+Samsun adına yaşanan bu şanssız olay sonrası yeni yanlışlar da birbirini kovalamaya başladı. Önce müdür yardımcısı iki polis açığa alınarak olay geçiştirilmek istendi ama BDP’ li vekiller hedef göstermeyi sürdürdü. Bu kez en kolay halka Emniyet Müdürü merkeze alındı.<br />
+Bu olayda ki zafiyet, emniyetle sınırlı olamaz. Kent yönetimi bu olayın öncesinde olabilecekleri algılayamamış ve Samsun’un Türkiye gündeminde bir kez daha olumsuz bir olayla anılmasına neden olmuştur. Bunun da ötesinde, adliye önünde ki olay da Samsun, BDP’li bir milletvekilinin hakaret ve tehditlerinin de hedefi olmuştur.<br />
+16 Nisan 2010 tarihli Hürriyet Gazete’sinde ki köşesinde Sayın Yılmaz Özdil’in, açığa alınan Emniyet Müdürü Sayın Muzaffer Erkan’ın geçmişi ile ilgili yazdıklarını okuduktan sonra içim burkuldu. Milletine hizmet yolunda çok başarılı bir kariyere sahip olan Sayın Muzaffer Erkan’a, arkasında bir gücün bulunmamasının da etkisiyle Samsun Üst yönetiminin zafiyetinin faturası ödetilmiştir.</p>
+<p>Son aylarda en az üç köşe yazımda bu kentin iyi yönetilmediğini, yanlışları yazanları karamsarlıkla suçlayarak bir yere varılamayacağını yazdım. En son 22 Şubat 2010 tarihinde,<br />
+“ Artık bu kentte birileri bu soruları cevaplamalıdır” Başlıklı köşe yazımda Samsun’da ki yanlışları sorgulamıştım. Her zaman ki gibi suskun kalınarak geçiştirilmişti.<br />
+Bu konuda yaşanan yanlışları, 16 Nisan 2010 tarihinde Gazete 55’de ki köşesinde Sayın Erdem Erol ve Halk Gazete’sinde ki köşesinde de Sayın Süleyman Salur, çok güzel dile getirmiş.</p>
+<p>3- SAMSUN’DA Kİ BAZI STK VE YEREL BASIN İLE SİYASİ<br />
+PARTİLERİN OLAYI DEĞERLENDİRME YANLIŞI:</p>
+<p>Yaşanan son olayın yanlışlığının öne çıkarılarak kınanması yönünde ki ortak açıklamalar son derece olumlu bir yaklaşımdır.<br />
+Ancak Samsun’un imajının yara almasına neden olan bu olay öncesi, olabilecekleri algılayamayarak gerekli önlemleri almayanlara sahip çıkılmasını anlayamıyorum. Yöneticilerin becerisi böyle önemli olaylarda ortaya çıkar. Kent yöneticileri gelirler, görevlerini bir şekilde tamamlar ve giderler. Samsun ve bizler ise kalıcıyız. Bu kentin zarar görmesini hiçbir Samsunlu istemez ve içine sindiremez.<br />
+Değerli dostlar söyler misiniz? Tamam, yöneticilere sahip çıkılsın. Peki, Samsun’un zarar gören imajı ve içine çekilmeye çalışılan kargaşa ortamı ne olacak? Bu destekler, terör örgütlerine hedef gösterilen Samsun’da bundan sonra olabilecekleri önleyebilir mi?<br />
+Nitekim yazımın sonuna geldiğim sırada, TV’ler de son haber olarak, Lâdik İlçemizde PKK’nın bir polis aracını tarayarak iki polisimizi şehit ettiği haberleri geçmeye başladı. Boşa tehdit savurmamışlar demek ki. Ne de çabuk düğmeye bastılar. Görülen o ki, artık Samsun’u zor günler bekliyor.<br />
+Kendisini yönetsin diye seçtiği ve hükümetin atadığı yöneticiler ile siyasetçilerini sorgulamayan bir kent olmanın şansızlığını yaşıyoruz. Bu istenmeyen gelişmelerden, bu kentin insanları olarak hepimizin sorumluluğu olduğuna inanıyorum.<br />
+Bu olaydan sonra, kentimizi yöneten seçilmiş ve atanmışlarımızla milletvekillerimizin de şapkalarını önlerine koyarak bir kez daha düşüneceklerini ve uyarıları dikkate alacaklarını sanıyorum.<br />
+Pazar sabahı iki şehit polisimizin Samsun Valiliği önünde yapılan cenaze törenine katıldım. Acılı polis ailelerinin perişan ama vakur duruşları yüreğimi dağladı.<br />
+Lanet olsun, bu canım ülke üzerinde oyun oynayanlara ve onlara çanak tutanlara. Lanet olsun, bu işi siyasete alet edenlere.<br />
+Lâdik’te şehit olan polislerimize rahmet, kederli ailelerine baş sağlığı diliyorum.<br />
+İyi ve olaysız bir hafta dileğiyle.. 18 Nisan 2010</p>
+<p>SADİ SUBAŞI<br />
+Sadi Bey,<br />
+Kaleminize sağlık.<br />
+Çok güzel bir değerlendirme.<br />
+Ders alan çıkar inşallah. Sanmam ama..<br />
+Sağlıkla kalın.<br />
+BEŞTEPE<br />
+Eline sağlık</p>
+<p>İyi haftalar, sevgiler</p>
+<p>Ayşegül</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0472-dersimiz-ataturk-filmi-ve-dusundurdukleri.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0474-verimli-topraklarimiza-sahip-cikmamak-ve-onun-zarar-gormesine-goz-yummak-bu-ulkenin-gelecegine-i-hanettir-1-bolum.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

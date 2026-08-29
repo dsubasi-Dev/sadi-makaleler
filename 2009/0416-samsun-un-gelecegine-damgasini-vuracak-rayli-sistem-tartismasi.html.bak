@@ -1,0 +1,333 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Samsun&#x27;un Geleceğine Damgasını Vuracak Raylı Sistem Tartışması.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Samsun&#x27;un Geleceğine Damgasını Vuracak Raylı Sistem Tartışması.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2009
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0416
+
+</div>
+
+
+<div class="article-content">
+
+<p>e-posta; sadisubasi@denizecaneoptik. com                                       SUNUŞ</p>
+<p>SAMSUN’UN GELECEĞİNE DAMGASINI VURACAK<br />
+RAYLI SİSTEM TARTIŞMASI.</p>
+<p>Özgürlüklerin daha da genişlemesinden yana olan 21. yüzyıl demokrasilerinde toplumların çıkarlarını koruma ve yönetimleri denetlenmesi konusunda iki kurum her geçen gün çok daha fazla önem kazanıyor. Bunların birisi basın, diğeri ise sivil toplum kuruluşlarıdır. Yönetim erkini elinde bulunduranların çok hoşuna gitmese de, ikisi de günümüzün kaçınılmaz bir gerçeğidir.<br />
+Yasama, yürütme ve yargıdan sonra dördüncü güç haline gelen basını bir yana bırakarak sivil toplum kuruluşlarına bakarsak, durum biraz daha farklıdır. Çünkü yaptırım gücü olmayan sivil toplum kuruluşları etkinliklerini daha çok kamuoyu oluşturarak ve bu yolla sesini duyurarak göstermektedirler. Ancak bunlardan çok daha önemli olan, genel ve yönetimlerin sivil toplum kuruluşlarını algılayış biçimleridir.<br />
+Çağdaş demokrasilerde genel ve yerel idari birimler sivil toplum kuruluşlarının varlığını ve gerekliliğini içlerine sindirmiş ve onları kendilerine rakip değil, demokratik işleyişin bir parçası olarak kabul etmişlerdir. Üzülerek söylemek gerekirse, bizim demokratik anlayışımızda “arka bahçe” olmayı kabul edenler dışında ki sivil toplum kuruluşları yönetim birimlerince siyasi rakip gibi algılanmaktadırlar. İşte sorunda burada başlamaktadır.<br />
+Yönetim birimlerinin bu algılama biçimi, onların sivil toplum kuruluşlarının bilgi birikimlerinden ve önerilerinden yararlanmalarını önlemektedir. Oysa sivil toplum kuruluşları, yönetim birimlerinin yaralanabilecekleri bilgi deposu olarak görülmeli ve yapacakları çalışmalar için de en etkin itici güç olarak değerlendirmelidir. Yönetimler ile sivil toplum kuruluşları arasında ki ilişkilerin bu şekilde algılanmadığı ortamlarda sürtüşmeler ve zıtlaşmalar kaçınılmaz hale gelmektedir.<br />
+Üzülerek söylemek gerekirse, ülkemizde ki bu anlayış tarzı nedeniyle görevlerini yapan sivil toplum kuruluş yöneticileri zaman zaman cezalandırılmakta veya bu kurumlarla olan özel işlerini yürütmekte engellemelerle karşılaşabilmektedirler. Bu da sivil toplum kuruluşlarının etkinliğini olumsuz yönde etkileyebildiği gibi bu kuruluşlarda görev alacak üyelere de caydırıcı etki yapmaktadır.<br />
+Bu değerlendirmelerin ışığında Samsun’un şu an gündemde ki en önemli konusu “ RAYLI SİSTEM” Projesine sivil toplum penceresinden değinmek istiyorum.</p>
+<p>RAYLI SİSTEM VE GÖZARDI EDİLEMEYECEK ENDİŞELER.<br />
+Toplu taşımacılıktan yana birisi olarak raylı sisteme karşı olmadığımı öncelikle belirtmek istiyorum. Ancak her yatırım ve projede esas olan, toplumsal çıkarlara uygunluğu yanında, çevreye vereceği zararın en az seviyede olması ve ileride giderilmesi olanaksız yeni sorunlara zemin hazırlamaması şartları bu proje için de geçerlidir. Bu ilkelerden hareketle bakıldığında, “RAYLI SİSTEM” Projesinin uygulamaya konulması ile birlikte ortaya ciddi endişelerin çıktığı görülmektedir.<br />
+Bu konuda Samsun Mimarlar Odası Şube Başkanlığı’nın son günlerde üst üste gelen açıklamaları ve Büyükşehir Belediye Başkanlığı Genel Sekteriyle yaptıkları görüşmede ortaya koydukları endişeler ve bu endişelerin giderilmesi için öne sürdükleri alternatif öneriler gündeme oturmuş bulunuyor.<br />
+Konuyla direkt ilgisi olan bir sivil toplum kuruluşunun bu endişelerini bir raporla Samsun Vali’liğine ve Samsun Büyükşehir Belediye Başkanlığına sunarak, ileride giderilmesi olanaksız hale gelecek bazı sorunların başlangıçta önlenebilmesi için, proje uygulamasının geçici olarak durdurulmasını talep etmesi önemsenmeli ve mutlaka ciddiye alınmalıdır diye düşünüyorum.<br />
+Mimarlar Odası’nın bu konuda oluşturduğu komisyon üyeleri ile yaptığım görüşmede, uygulama projesi üzerinde anlatılanları dinleyince, Samsun’un geleceğine ipotek koyacağını söyledikleri endişelerinin mutlaka Samsun kamuoyunda tartışılması gerektiğine inandım. Bunları sizlerle de paylaşmak istiyorum.<br />
+Yıllardır konuşulan Raylı Sistem Projesi’nin bugüne kadar incelenerek görülen yanlışların ve önerilerin neden daha önce ortaya konmadığını sorduğumda, Mimarlar Odası Şube Başkanından aldığım cevap; Güzergâh değişikliğini yerel seçimler öncesinde öğrendiklerini ve hemen basın açıklaması yaptıklarını, ancak kimsenin ilgilenmediği şeklindeydi.<br />
+Samsun’un hem bugünü hem de yarınları için çok önemli olan bu projenin, daha uygulamanın başında tartışma yaratmış olmasını, bu kentin yıllardır yaşadığı iletişim eksikliğinin bir yeni örneği olarak görüyorum. Bu önemli projenin Büyükşehir Belediye Başkanlığı ile sivil toplum kuruluşları arasında bir zıtlaşma ortamına sürüklenmeden, karşılıklı görüşlerin değerlendirilmesi ile çözümleneceğini umuyorum.<br />
+Tabii, Büyükşehir Belediyesi adına basına yansıyan, “ Proje yeni değil, yıllardır uzmanlarca incelenerek hazırlandı. Değişiklik söz konusu olamaz, proje aynen uygulanacaktır” şeklinde ki açıklamayı da şanssız bir yorum olarak görüyorum.<br />
+Endişeler özet olarak şu ana başlıklarda toplanıyor.<br />
+Raylı Sistem güzergâhının daha önce belirlenen deniz tarafından Atatürk Bulvarı’nın hemen yanına kaydırılması ile Samsunlunun denize ulaşımı yeniden engellenmiş olacaktır. On yıllık uğraşı sonucu demiryolu hatlarının asgariye indirilmesi ile dolgu alanı temizlenmiş ve Samsunlu denizine kavuşturulmuştu. Bu uygulama ile belli geçiş noktaları dışında sahile iniş, daha da geriden ve Atatürk Bulvarından itibaren kesilmiş olacaktır.<br />
+Kentin hemen önünde yer alan “ karayolu ve demiryolu”, Samsunluları sahilden kopartan iki önemli engeldir. Gençlik Parkı, Lise caddesi ve tekel Kavşak geçişlerinin üst geçitlere alınmak zorunda kalınması ile Raylı Sistem üçüncü bir engel olarak kent yaşamına girmektedir.<br />
+Atatürk Bulvarı üzerinde ki Cumhuriyet Meydanına dönen kavşak başta olmak önemli kavşakların, artık zorunlu hale gelen genişletilme olanağı da ortadan kaldırılacaktır.<br />
+Atatürk Bulvarından deniz tarafına dönüşlerde yolun raylı sistemle kesilecek olması nedeniyle, dönüş yapacak araçlara bekleme yapabilecekleri cep yapma imkânı dahi kalmamaktadır.<br />
+Atatürk Bulvarı üzerinde bulunan kentin en önemli yapıları olan Kültür Sarayı, Büyük Otel ve Vilayet Konağı’nın girişlerinin hemen önüne set çekilmekte, bu binaların ön cepheleri kullanılamaz hale getirilmektedir.<br />
+Atatürk Bulvarı ile Raylı Sistem arasında kalan dar şeritte yapılacak yolcu istasyonlarının Bulvar tarafında kalan peronlarının yapımı için yeterli alan kalmayacağı için, yolcu trafiğinin yoğun olacağı saatlerde buralarda yolcular ana caddeye taşabilecektir.<br />
+Samsunlunun sahiline kavuşturulması projesinde, Muhittin Özkefeli Bulvarı, Lise Caddesi ve Ondokuzmayıs Bulvarlarının denize bağlanması hedeflenmiş ve büyük çapta da bu gerçekleştirilmişti. Bu projenin yeni güzergâhı ile bu çıkışlar üst geçit ve viyadüklerle yeniden engellenmiş olacak ve kentin önünde yeni kütleler oluşacaktır.<br />
+Raylı Sistem’in Liman Kavşağında karşıya geçecek olması ile Liman Kavşağında yapılacak viyadükün( Köprü) boyu gerekli olan eğim nedeniyle 400 metreye, yüksekliği de 4 metreye ulaşacaktır. Bu viyadük şehir ile denizin bağlantısını kesecek ve kentin giriş bölümünde ciddi bir görüntü kirliliği yaratacaktır.<br />
+Baruthane bölümünde kara tarafında yapılacak düzenlemeler ile bölünmüş bulvarın, yer yer deniz tarafına kaydırmak zorunda kalınacak olmasının yaratacağı sorunlar yanında, maliyet artışları da olacaktır.<br />
+Mimarlar Odası bu endişelerini belirterek güzergâhın deniz tarafında ki yol kenarına alınmasını, yani ilk düşünülen yere dönülmesini önermektedir. Böylece;<br />
+Ankara yönünden kente giren araç trafiğinin Fuar Caddesinin uzantısına kaydırılması ile Liman kavşağından limana giriş yapan ve bu bölgede şu anda dahi tıkanmalara neden olan büyük araç trafiği de önlenmiş olacaktır.<br />
+Raylı Sistemin Fuar Caddesinde ki eski güzergâhına çekilerek gerekirse merkezde ki hızı da düşürüldüğünde üst geçitlere de ihtiyaç kalmayacaktır.<br />
+Baruthane yöresinde yapılacak 3–4 kat daha pahalı düzenlemelere de gerek kalmayacaktır.<br />
+Raylı Sistemin yeni güzergâhında yapılması halinde, Doğu Park tarafına uzantısı sırasında viyadük yapımı zorunlu hale gelecektir. Oysa eski güzergâhta bu viyadüke de ihtiyaç bulunmamaktadır.<br />
+Raporun son bölümünde ise, “ henüz önemli bir harcama yapılmadığı da göz önüne alınarak, bu önerilerin acilen Ulaşım Ana Planını da hazırlayan Danışmanlık Firmasına iletilmesi” istenmekte ve konu yeniden irdelenirken, bu kısımda ki yapımın geçici olarak durdurulması talep edilmektedir.<br />
+Bu projenin yeni güzergâhı ile uygulanmasında ısrar edilmesi halinde şu soruların cevaplanması da zorunlu hale gelecektir.<br />
+Anlaşılmaz bir şekilde bir türlü açılamayan Samsun’un tek beş yıldızlı otelinin bundan böyle satılması veya kiralanması da olanaksız hale gelecektir. Alternatifi olmayan bu otelin yok olmasına nasıl göz yumulmaktadır?<br />
+Bu otelin sahibi durumunda ki başta Valilik Makamı olmak üzere İl Özel İdaresi Genel Sekreterliği ve İl Genel Meclisi, sahip oldukları bir varlığın değer kaybetmesini nasıl karşılamaktadır?<br />
+Bu otel bir şekilde açılmış olsaydı, otel çalışırken bu güzergâh Büyük Otelin önüne alınabilir miydi? Otelin sahibi veya kiracısı yasal çerçeve de buna direnmez miydi?<br />
+Yargı kararına rağmen “Yabancılar Pazarını” açabilen bir kent yönetim iradesinin, aynı iradeyi Büyük Otel’in açılabilmesi için kullanmamış olmasının, bu güzergâh değişikliği ile ilişkisi olabilir mi sorusu nasıl açıklanacaktır?<br />
+Raylı Sistemin Atatürk Bulvarı’nın hemen yanına yapılması ile hem bulvarda, hem de kavşaklarda yaşanacağı iddia edilen trafik sorunlarına karşı “UKOME” ve “Trafik Şube Müdürlüğü” bir değerlendirme yapmış mıdır? Yapmışsa tavırları nedir?<br />
+Atatürk Kültür Merkezi ve Vali Konağı’nın makam girişinin kapatılması bu kadar kolay göze alınabilecek bir uygulama mıdır?<br />
+Bu güzergâh değişikliği kent birimlerine neden önceden bildirilmemiş ve kentin çok önemli yapılarını böylesine etkileyecek değişiklik meslek odaları ile neden tartışılmamıştır?<br />
+Geçmişte gerçekleştirilen bazı projelerde de bu ön çalışmalar ve bilgilendirmeler yapılmadan uygulamaya konduğu için ortaya çıkan önemli hatalar hala tartışılmaktadır. Bu hatalı uygulamalara bir yenisinin eklenmekte oluşu neden göz ardı edilmektedir?<br />
+Bizim kuşağın çok fazla söz sahibi olmadığı 1960–1980 arasında, kent yönetimini 20 yıla yakın elinde tutan Sayın Kemal Vehbi Gül döneminde de yapılan çok güzel düzenlemeler yanında, sonraki yıllarda düzeltilmesi olanaksız hale gelen yanlış uygulamalarda yapılmıştır. Sadece bugün yaşanan trafik karmaşasının ile otopark yetersizliğinin ve güzelim Çiftlik Caddesinin 9 katlı apartmanlarla koridor haline getirişinin temelleri o dönemde atılmıştır.<br />
+Gelecek kuşakların da bizleri aynı şekilde eleştirmesine neden olabilecek ve ileride onarılması da olanaksız görülen düzenlemelerin, iş işten geçmeden ortak akıl çerçevesinde çözümlenmesine destek vermek, bu kentte sorumluluğu olan herkesin görevidir.<br />
+O nedenle, Samsun’a yeni saygınlık kazandıracak bu toplu taşımacılık projesinde hata yapılmamalıdır. Hassasiyetim bundandır. Zaman geçirilmeden bu konuda TMOBB öncülüğünde geniş bir bilgilendirme toplantısı düzenlenmelidir. Büyükşehir Belediye Başkanlığımız ve yüklenici firma yetkilileri bu toplantıda tartışma yaratan konulara açıklık getirmeli ve bu önemli projeyi tüm Samsunlular sahiplenmelidir.<br />
+İyi haftalar. 15 Mayıs 2009<br />
+SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0415-samsun-adina-onemli-bir-sorumluluk-ustlenmis-sam-sev-de-yeni-donem.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0417-siyasette-muhalefetin-onemi.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

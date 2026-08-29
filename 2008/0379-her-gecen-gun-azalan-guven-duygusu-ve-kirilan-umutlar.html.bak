@@ -1,0 +1,332 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Her Geçen Gün Azalan Güven Duygusu ve Kırılan Umutlar</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Her Geçen Gün Azalan Güven Duygusu ve Kırılan Umutlar
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2008
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0379
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>HER GEÇEN GÜN AZALAN GÜVEN DUYGUSU<br />
+VE GİTTİKÇE KIRILAN UMUTLAR.</p>
+<p>Bizler, “Ahilik” kültüründen gelen özellikleri benimsemiş, yardımlaşma, misafirperverlik, dayanışma, sahiplenme, düşkünü koruma gibi insani duygularla yoğrulmuş, “imece” gibi yüce bir davranışı ilke edinmiş bir toplum değimliydik?<br />
+İnsanlara doğru işler yapmayı, kötülüklerden uzak durmayı, büyükleri sayıp, küçükleri sevmeyi, komşusu açken tok yatılamayacağını, kul hakkı ile mezara gidilemeyeceğini öğreti olarak sunan yüce İslam dininin inananları değimliyiz?<br />
+Ne oldu bize?  Ne oldu güzelim geleneklerimize?<br />
+Arabanızla uzun yolda yolculuk yaparken ola ki aracınız size azizlik edip arızalandı. Yandınız demektir. Saatlerce geçen araçlara el kaldırın bakın artık duran var mı? Hele de yalnızsanız, hiç boşuna çaba harcamayın. Duran ve “ Nasıl yardımcı olabilirim diyen bir Allahın kulu çıkacak mı?<br />
+Aynı apartmanda yıllarca oturup da bir birini tanımayanlar, Tanrı’nın selamını dahi vermekten kaçınanlar, büyük şehirlerde apartmanda ölen komşusundan haberi olmayanlar, cenazelerini içleri sızlayarak morgdan kaldırmak zorunda kalanlar, bizim insanımız değil mi?<br />
+Sokakta kavga edenleri ayırmak yerine görmezden gelerek hızla olay yerini terk edenler veya kan dökülmesini seyredecek kadar vahşileşen bizim insanımız değil mi?<br />
+Trafik kazasında yaralananları hastaneye götürmekten kaçınan araç sahipleri bizden değil mi?<br />
+Bunlara onlarca daha örnek ekleyebiliriz.<br />
+NE OLDU DA BU HALE GELDİK?<br />
+Köyünde yiyeceğini toprağından çıkartan, yozlaşmamış kültürel alışkanlıkları ile mutlu bir şekilde yaşamını sürdüren bu insanlara kendi topraklarında teknolojinin yeniliklerini sunarak daha geniş insani ve kültürel olanaklar sağlayamazsanız,<br />
+Onları daha üretken hale getirmek yerine, ürettikleri ürünü bir takım güçlerin dayatması ile ektirmezseniz, yeni bir ürün ekimi önermek yerine, dönüm başı paralar vererek köydeki insanımızı toprağından kopartıp tembelliğe mahkûm ederseniz,<br />
+Kent yaşamı için gerekli zemini hazırlamadan, onları köyünden, toprağından kopartıp gençlerinin iş umuduyla kentlere taşınmasına seyirci kalır, köyleri boşaltırsanız,<br />
+Bir kaza da yaralananı hastaneye yetiştiren taksi şoförünü veya yardımsever insanımızı, suçlu muamelesi yaparak saatlerce karakollarda tutar ve hala buna bir çözüm bulamazsanız,<br />
+Kaza yapan araçlara yardımcı olmak üzere yanaşıp, onları soyan, ölü soyucularına caydırıcı cezalar veremezseniz,<br />
+Hemen her polisiye olayda, olaya karışan ve suçluluğu kesin olan kişi, eğer nüfuzlu birisi ise elini kolunu sallayarak evinin yolunu tutabiliyorsa,<br />
+Ülkemizde olanları çok fazlada yadırgamamak gerekir.</p>
+<p>İnsanımıza yüce dinini öğretmek üzere gerçek din adamı yetiştirmek iddiası ile ortaya çıkan siyasetçilerimizin kurduğu eğitim kurumları, yine onlar tarafından siyasi çıkarlar adına başka amaçlarla kullanılmadı mı? İnsanımıza ve çocuklarımıza dinimizi öğretmek üzere yetiştirilen bu din adamları, çapsız siyasetçilerimiz tarafından siyasi çıkarları uğruna devleti yönetmek üzere yönlendirilmedi mi?<br />
+Gerçek din adamları yerine yobaz veya beyni yıkanmış dincilere teslim edilen gençliğin bir kısmı devlet ve rejim düşmanı haline gelirken, kendi dilinden dinini öğrenmesi engellenen toplumun bir kesimi de inançsızlaşmadı mı?<br />
+Halkın vekili “dokunulmazlık” gibi bir zırha sığınıp, her türlü akçeli ve adli suçu işleyip elini kolunu sallayarak gezmiyor mu?<br />
+Halkın vekilleri fırsat buldukça maaşına zam yapma konusunu TBMM’ne getirirken, halkına açlık sınırında ki asgari ücreti reva görmüyor mu?<br />
+Yeni iş sahaları açılmıyor ve işsiz sayısı artıyorsa, Kahveler üniversite mezunu gençlerle doluysa, bu gençler nasıl umutlu olabilirler?<br />
+Aileler çocuklarına iş bulabilmek için siyasetçilerin kapısını aşındırıyor ve yalanlarla oyalanarak çaresizliğe itiliyorsa, söyler misiniz bu insanların yüzü nasıl güler?<br />
+Halkı yakından ilgilendiren temel tüketim malzemeleri zam üstüne zam alırken, enflasyonun düştüğü söylemlerine nasıl inanılması beklenir?<br />
+Halkın güvenini yitirmiş siyasetçiler inatla koltuklarını korumak için demokrasiyi katletmiyorlar mı? Ülkenin önünü tıkadıklarını görmüyorlar mı?<br />
+Devletin kamu görevlileri de, hükümetlerin gözü kapalı birer görevlisi olmuş. Başka şansları var mı? O da yok. Nasıl olsun ki? Partizanlık yapmayana ya kızak, ya da bir başka yere tayin var ufukta.<br />
+Ülkemizin ekonomik bağımsızlığı tartışmalı hale gelmiş.<br />
+Ülkelerin geleceğinin sağlam temellere oturması için gerekli olan devlet yönetiminde ki devamlılık ilkesi çoktandır unutulmuş.<br />
+Her gelen iktidarın yazboz tahtasına döndürdüğü eğitim, sağlık ve hepsinden önemlisi istikrarsız dış politikalarla insanımızın kafası karışmış.<br />
+Hepsinden önemlisi yirmi beş yıldır bir türlü çözüme ulaştırılamayan bölücü terör sorunu ve 30.000 i aşan can kaybı devam ediyor. Artık hemen her gün gelen şehit haberleri ve cenaze törenleri ile ateşin düştüğü ocaklarda yakılan ağıtlar rutin hale gelmiş.<br />
+En son geçtiğimiz Cumartesi günü ülkemizi yasa boğan on beş fidanımızın daha şehit düşmesi akıl alacak gibi değil. Aylardır ordumuzun havadan ve karadan döverek yerle bir ettiği açıklanan hain bölücü kamplarından, sınırımıza kadar gelebilen 350 kişilik bölücü militan grubu, sınır karakolumuza ağır silahlara saldırıyor. Teröristlerin hareketlerinin havadan takip altında tutulduğunun açıklandığı bir ortamda bu saldırı nasıl gerçekleşiyor?  Bu nasıl iş anlamak mümkün değil.<br />
+Karşımızda ki düşman kim? Dünyanın en güçlü ve büyük ordusuna sahip değil miyiz? Amerika bu savaşın neresinde? Siyasetçilerimiz bu savaşın siyasetini becerebildiğini söyleyebilir mi?<br />
+Askerliği gelmiş oğlu olan aileler tedirgin. Çünkü adı konmamış bir savaşta gençliğine doymamış fidanlarını göz göre göre ölüme göndermek ana babalar için hiç de kolay ve katlanılabilecek bir iş değil.<br />
+Bu ülke durup dururken bu duruma gelmedi.<br />
+Bu ülkeyi daha iyi yöneteceğim diyen siyasetçiler bu duruma getirdi. Bu iş “imam cemaat hikâyesidir”.<br />
+Son 70 yıldır bu ülkeyi idare eden ve ülkemizin kaderini belirleyen tüm siyasetçiler az veya çok, gelinen bu güvensizliğin ve umutsuzluğun sorumlularıdır.<br />
+Üzülerek söylemek gerekirse bu ülke, Büyük Önder Mustafa Kemal’in zamansız ölümü ile çapsız siyasetçilerin elinde kalmış, onlar tarafından demokrasi adına yapılan kazalar ve beceriksizliklerle bu günlere gelmiştir.<br />
+Bunca olumsuzluğun olduğu ortamda, sokakta ki insandan nasıl güven duymasını beklersiniz? Sokaklar yüzü gülmeyen insanlarla dolu. Bu koşullarda umutların kırılmaması mümkün mü?<br />
+Söyler misiniz? Tüm bu işlerin sorumlusu halk mı?<br />
+Eğer bu ülke iyi yönetilebilseydi bu olumsuzluklar yaşanır mıydı?<br />
+Artık Türkiye de siyaset yapanlar ve yapacak olanların ellerini vicdanına koyup kendi özeleştirilerini yapma zamanı gelmiştir.<br />
+Her türlü olanağa sahip bu ülke, kendisini adam gibi yönetecek, namuslu, donanımlı, liderine değil halkına bağımlı ve sadece onun huzuru ve güven duygusu içersinde yaşamasını sağlamayı görev edinmiş siyasetçileri beklemektedir.<br />
+Lütfen bu halka bunu çok görmeyiniz. İyi haftalar. 05 Ekim 2008<br />
+SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0378-atakum-a-yakismayan-goruntuler-ve-karadenizin-i-ntikam-alisini-seyre-devam.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0380-dunya-dev-ekonomik-krizle-bogusuyor-ya-turkiye.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

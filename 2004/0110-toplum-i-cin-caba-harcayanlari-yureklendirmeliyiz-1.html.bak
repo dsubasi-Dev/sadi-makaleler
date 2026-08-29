@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Toplum İçin Çaba Harcayanları Yüreklendirmeliyiz_1</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Toplum İçin Çaba Harcayanları Yüreklendirmeliyiz_1
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2004
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0110
+
+</div>
+
+
+<div class="article-content">
+
+<p>TOPLUM İÇİN ÇABA HARCAYANLARI YÜREKLENDİRMELİYİZ</p>
+<p>Geçtiğimiz hafta sonu yapılan '' SAMSUN 3. kent Kurultayı''nın son bölümünde sunumunu yapan Türkiyenin de en genç milletvekili olma özellilğini taşıyan TBMM deki genç temsilcimiz sayın Suat Kılıç konuşmasının önemli bir bölümünü sivil toplum örgütlerini eleştiriye ayırmıştı. Eleştirinin ağırlığını, sivil toplum örgütlerinin yeterli proje üretememesi yanında , yapılan güzel şeyleri takdir edip bir teşekkürü bile çok gördükleri yönündeki kişisel görüşü oluşturuyordu. Zaman, zaman dozu artan değerlendirmeleri tepki almış ve kurultay yöneticisi olarak son bölümde sivil toplum örgütlerini savunanarak eleştirilerin kabuledilemez kısımlarına açıklık getirmiştim. Geçen haftaki yazımda bu konuyu sizlerlede   paylaşmıştım. Ancak bir konuda kendisini destekler bir değerlendirmede bulunmuştum. Bugün , benimde toplumumuzda gerçekten büyük bir eksiklik olarak gördüğüm bu konuyu irdelemek istiyorum.<br />
+İster bir meslek üyelerinin haklarını korumak için kurulmuş meslek odalarının, ister çeşitli amaçlarla kurulmuş derneklerin başkan ve yöneticileri olsun, isterse milletvekili olsun bu görevler tamamen topluma hizmet için ve gönüllü olarak yapılan işlerdir.. Bu tür görevleri üstlenenlerin  kendi istekleri dışında, o örgütün üyelerininde desteğine, yani oyuna ihtiyacı vardır. Bu  görevleri kötüye kullanarak kişisel çıkarlarına alet edenlerle , herhangi bir amaç için basamak olarak kullananları bu değerlendirmenin dışında tutuyorum. Sadece ve sadece topluma hizmet için bu görevleri yapmak Ülkemizde gerçekten büyük bir özveri gerektiriyor. Sivil toplum inisyatifi henüz doğru algılanmadığı ve anlaşılamadığı için bu görevleri yapanlar , desteklenmek yerine köstekleniyorlar. Özellikle Devleti yönetenler bir anlamda yönetimlere destek sağlayan bu kuruluş ve yöneticilerine yeterli desteği veremiyorlar. Hiç bir çıkar gözetmeksizin kendi işinden, ailesinden, çoğu zamanda kendi sağlıkları için gerekli dinlenme zamanlarından çalarak toplum için hizmet üretenler bunun karşılığında hakettikleri övgüyüde alamazlarsa gerçekten büyük hayal kırıklığı yaşayabiliyorlar. İşte bu açıdan sayın Kılıç'ın bazı tepkilerini çok iyi anlıyorum. Çünkü toplum olarak eleştiriyi genelliklede olumsuz olarak algılıyoruz. Haklı yapılan eleştiri yöneticiler için yol göstericidir. Ama hiç bir beklentisi olmaksızın hizmet aşkı ile çalışan insan sayısının az olduğu Ülkemizde, bu insanları yeri gelince onore etmeyide becerebilmeliyiz. Çünkü bu insanları motive eden ve çalışma heyecanını artıran tek şey budur. İşte herkesin kolay kolay dışa vuramadığı bu beklentiyi sayın milletvekilimiz birazda gençliğinin verdiği heyecanla dışa vurdu. Toplum olarak çoğu kez haketmeyenlere veya ucuz kahramanlara bol keseden sunduğumuz alkışı, yukarıda çizdiğim çerçevede önemli işler üretenlerden çoğu kez esirgiyoruz. Hatta bu insanların heyecanını törpüleyen tavırlar sergiliyoruz. Örnek olarak ''senin başka işin gücün yokmu, git keyfine bak',''bu Ülkeyi senmi kurtaracaksın?'',''ben senin olanaklarına sahip olsam yan gelir yatar keyfime bakardım''gibi sözler masum olanları. Birde bu görevler için zamanını, parasını harcayanlara açık, açık enayi damgası vuranlar varki, anlamak gerçekten zor. Oysa bu işleri gönüllü olarak yapanları bulmuşken onlara destek olmalı, onları yüreklendirmeliyiz. Çünkü takdir ve destek onların tek gıdasıdır. Hakettikleri bu alkışı esirgememeliyiz. Toplumun bu tür görevleri üstlenmesini ve talep etmesini ancak böyle özendirebiliriz. Öne çıkan insanları haklı , haksız demeden yıpratıcı eleştirilerin hedefi haline getirmek, en büyük zararı bu kişilere değil , bu tür görevlere soyunacak gençlere caydırıcı olarak veriyor.<br />
+Sivil toplum örgütleri çağdaş demokrasilerin vaz geçilmez ve yıldızı parlayan en etkin kuruluşlarıdır. Avrupa Birliğine girebilme çabasında olduğumuz bu günlerde toplumun her kesiminin bu kuruluşların içinde yer alarak Ülkemizin ve halkımızın daha güzel günlere ulaşması için elini taşın altına koyması gerekir. Bunun bir vatandaşlık görevi olduğuna ve ancak bunları yapanların eleştiri hakkına daha çok sahip olacaklarına inanıyorum. İyi haftalar dileğiyle..</p>
+<p>SADİ  SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0109-samsun-3-kent-kurultayi-yapildi.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0111-haydi-samsunlular-rekor-turk-bayragini-hep-birlikte-tasiyalim.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

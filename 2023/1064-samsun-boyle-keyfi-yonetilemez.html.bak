@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Samsun Böyle Keyfi Yönetilemez.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Samsun Böyle Keyfi Yönetilemez.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2023
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+1064
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>BİR KENT, BÖYLESİNE KEYFİ VE YASALARA DİRENEREK<br />
+YÖNETİLEMEZ.</p>
+<p>Geçtiğimiz hafta başında ülkemizin Güneydoğu Bölgesindeki on il, 10 saat arayla ilki pazar gecesi 7.8, ikincisi pazartesi günü 7.6 şiddetinde iki korkunç depremle yerle bir oldu.<br />
+Birkaç gün içinde Kahramanmaraş merkezli felaketi ve olası bir İstanbul depremimi içeren bir köşe yazımı sizlerle paylaşacağım.<br />
+Bugün, sizlere Samsun’da olası deprem tehlikesini dahi göz ardı edecek kadar gözünü rant bürümüş bir yönetimden, söz edeceğim.<br />
+Samsun İlkadım, Atakum ve Canik İlçelerinden oluşan merkez ilçeler nüfusu 669.313, İl nüfusu ise, 1.335.726‘dır.<br />
+Bu ilçelerden İlkadım ve Atakum ilçe sınırlarında çok sayıda aktif ve aktif olmayan heyelan bölgeleri bulunduğu biliniyor. Bunu TMMOB Samsun Şubesinin Jeoloji, Jeofizik, İnşaat Mühendisleri ve Mimarlar Odası Şube Başkanları yıllardır açıklıyordu.<br />
+Ayrıca belirtmek gerekir ki, Erzincan’dan başlayıp Marmara Bölgesine ulaşan ve her an büyük bir deprem üretmesi beklenen Kuzey Fay Hattı, Samsun’un 60-80 Km. güneyindeki Lâdik, Havza ve daha uzakta kalan Erbaa’dan geçiyor.<br />
+Başta İstanbul ve civardaki illerimizi çok büyük yıkımlara uğratabileceği tüm yer bilimciler tarafından açıklanan Kuzey Fay Hattının, Samsun’un bu ilçeleri ve Samsun’u etkilemeyeceği düşünülemez.<br />
+Yine bu meslek odalarımızın yaptığı açıklamalara göre, bu tür bir depremden etkilenecek bölgelerin başında aktif heyelan riski olan Fatih Mahallesi, Barış Bulvarı civarı, Mert Irmağı’nın çevresi ile pasif heyelan riski bulunan Atakum İlçesi’nin Karayolları 7. Bölge Müdürlüğü arkasından başlayarak, Balaç sırtlarına kadar olan çok geniş alanlar inşaat yapımına uygun değildir.<br />
+Şimdi bu alanlarda yıllardır neler yapıldı bunlara değinmek istiyorum.<br />
+Mert Irmağı çevresinde 1996 yılına kadar Roman vatandaşlarımızın perişan vaziyette yaşadığı tenekelerle kaplanmış kulübeler vardı.<br />
+O dönemin Büyükşehir Belediye Başkanı rahmetli Muzaffer Önder, bu Roman vatandaşlarımızı 1996 yılında Düvecik’de yaptırılan ve ikişer katlı 200 evden oluşan 200 Evler Mahallesine yerleştirerek sağlıklı bir şekilde yaşamalarını sağlamıştı.<br />
+Ne yazık ki, 2008 Yılında bu kez o dönemin Büyükşehir Belediye Başkanı Sayın Yusuf Ziya Yılmaz tarafından 200 Evlerin yerleri ellerinden alınmış ve hemen yanı başında TOKİ aracılığı ile yaptırılan çok katlı bloklara taşınmaya mecbur bırakılmışlardı.<br />
+Fatih Mahallesi’nde Kentsel Dönüşüm Yasası gereğince yapılması planlanan depreme dayanıklı binaların yapılması henüz gerçekleştirilmedi.<br />
+Fatih Mahallesi’nin hemen yanı başında bulunan ve Kireçtepe olarak anılan oldukça geniş bir alana yıllarca inşaat izni verilmedi. Ama 1980’li yıllarda burası nasıl olduysa kitabına uydurulup imara açıldı. İlk etapta bir cami yaparak işe başlandı sonra da bu alana çok katlı birkaç blok inşa edildi.<br />
+Yine rahmetli Muzaffer Önder tarafından 100. Yıl Bulvarı üzerinde bulunan İtalyan Kilise’nin karşı tarafından başlayarak, Kıranköy ve yöresine ulaşan bir bulvar açıldı.<br />
+Fakat adı Barış Bulvarı olan bu bulvarın yapımı sırasında iki yan tarafında ciddi heyelanlar olduğu için bulvarı çalışır hale getirelemedi.<br />
+Bu yolun sol tarafında üzerinde “Eğitim Gönüllüleri Vakfı’nın” bulunduğu ve sürekli kayan yüksek kısma kalın beton duvarlar örülerek bulvara işlerlik kazandırılabildi.<br />
+Hatırladığım kadarı ile o dönemde Barış Bulvarı çevresinde inşaat yapımına izin verilmedi.<br />
+Muzaffer Önder döneminden sonra ne olduysa, Barış Bulvarı’nın sağ tarafına yüksek katlı inşaatlar yapıldı. Bunlar ruhsatlı mı yapıldı? bilmiyorum. Ruhsatlı değilse, nasıl görmezden geldi onu da anlamıyorum.<br />
+Atakum’un Balaç mahallesinden başlayarak Atatürk Bulvarına kadar inen çok büyük alan pasif heyelan bölgesi olarak bilinirken bu bölgede çoğunluğu gökdelenlerden oluşan siteler yapıldı, yapılmaya da devam ediyor.<br />
+Çok daha ilginci, bu bölge neredeyse tüm özel okulların da kampüsleri yer alıyor.<br />
+Bu bölgelerde yapılan binalar inanmak istiyorum ki, depreme dayanıklı inşaat yasasına uygun yapılmıştır. Ben de ailem ile 4 yıldır deprem yasasının gerektirdiği sistemle yapıldığını bildiğim bu sitelerden birisinde oturuyorum.</p>
+<p>Samsun’u bekleyen tehlikeleri ve riskli bölgeleri özetledikten sonra bu kadar riskli alanı bulunan Samsun gibi bir Büyükşehri yönetenler, acaba bu riskleri gidermek için ne yapıyor? Veya tam tersine neleri yapıyor? Onu irdelemek istiyorum;<br />
+Üzülerek söylemek gerekirse, son 24 yıla yaklaşan bir dönemde Samsun Halkının oyları ile göreve gelen Büyükşehir Belediye Başkanları bu kadar riskli gerçekleri gidermek bir yana, adeta olası felaketlere zemin hazırlamışlardır.<br />
+Son 24 yılda hala heyelanın sürdüğü Barış Bulvarı çevresinde çok katlı binaların yapılmasına nasıl onay verilmiştir?<br />
+Fatih Mahallesi’ndeki Kentsel Dönüşümün yapılamaması bir yana, o bölgedeki Kireçtepe’nin imara açılmasın nasıl göz ardı edilmiştir?<br />
+Balaç Yöresinin gökdelen ve okullarla donatılması, Mert Irmağı çevresindeki gevşek alüvyon zeminde çok katlı TOKİ binalarının yapılmasına göz yumulması, tam anlamı ile Samsun halkına yapılmış en büyük yanlıştır.<br />
+Tüm bunlar bir yana dört yıldır bu kenti yöneten Samsun Büyükşehir Belediye Başkanı Sayın Mustafa Demir, akıl dışı uygulamaları dayatarak adeta Samsun halkının ona verdiği yetkiye ihanet etmektedir.<br />
+Bu dayatmalarına karşı yargının verdiği, “Yürütmeyi durdurma kararlarına” Dahi uymayan bir anlayışla yanlışlarını sürdürmesi, Samsun kamuoyunun da sabrını taşırmış bulunuyor.<br />
+Akıl dışı yaptırımları gerçekleştirebilmek için sahildeki dolgu sahalarını “Millet Bahçesi” kapsamına alıp, bu sahil bandında bulunan tüm sosyal amaçlı hizmet veren kuruluşları yıkmaya çalışarak yanlış uygulamalarının önünü açmaya çalışması, kabul edilemez bir dayatmadır.<br />
+Bir önceki AKP’li Büyükşehir Belediye Başkanı Sayın Yusuf Ziya Yılmaz tarafından görüntü kirliliği de yaratan kamyon garajı ve Borsa’yı kaldırarak bu alanları yeşil alan olarak halka sunduğu alana Mustafa Demir tarafından yapılan “İlçeler arası Minibüs ve Midibüs otoparkı” ile “Alo 153 Merkez Binası” Bölge İdare Mahkemesi’nin kararı hiçe sayılarak, bitirilerek hizmete sokulmuştur.<br />
+Son olarak da Samsun Ankara Karayolunun sol tarafında bulunan alüvyon zeminindeki tarıma elverişli vadiyi imara açmak için Büyükşehir Belediye Meclisindeki AKP ve MHP oyları ile imar değişikliği kararı çıkartılmıştır.<br />
+Aynı siyasi görüşe sahip bir iş adamının satın aldığı ve kesinlikle inşaat yapımına uygun olmayan bu alanın inşaat açılması, tam anlamıyla “Birlikte kazanalım” anlamına gelecek bir rant hırsından başka bir şey değildir.<br />
+Konu ile ilgisi olan TMMOB’ne bağlı meslek odaları ile özellikle yazılı ve görsel basının çok şiddetli tepkisi karşısında son meclis kararı ile iptal edilmemiş ve muhtemelen uygun bir zamanda tekrar gündeme getirilmek üzere beklemeye alınmıştır.<br />
+Sayın Mustafa Demir’ in yönettiği kentin insanlarının yaşamını dikkate almayan ve onlara hizmet etmek yerine, kişisel ve yandaş çıkarlarına hizmet anlamındaki rant anlayışı ile Samsun’u yönetme şansı kalmamıştır.<br />
+Zaten Samsun basını da sayın Demir’in görevden alınması için kampanya başlatmış bulunuyor.<br />
+Karadeniz’in en büyük ve en önemli kenti olan Samsun Halkı bu kadar kötü ve sorumsuz yönetilmeyi hak etmiyor.<br />
+İnanıyorum ki, eğer Sayın Demir görevden alınmazsa, bu kadar kötü yönetilmeye seçim zamanı gelince Samsun halkı gerekli cevabı verecektir.<br />
+10 ilimizde yaşamını yitiren tüm vatandaşlarımıza rahmet, yaralı kurtarılanlara acil sağlık, ailesini ve tüm varlıklarını kaybederek canını kurtaran vatandaşlarımıza da sabır ve kolaylıklar diliyorum.<br />
+Yüce yaradan dan, ülkemizi bir daha böyle felaketlerden korumasını diliyorum. 18.02.2023<br />
+Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="1063-samsun-sahili-yok-olurken-susanlar-simdi-konusuyor.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="1065-sayin-belediye-baskanlari-ve-belediye-meclis-uyelerine-cagrimdir.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

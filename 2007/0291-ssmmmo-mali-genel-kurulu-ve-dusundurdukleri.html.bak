@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>SSMMMO Mali Genel Kurulu ve Düşündürdükleri</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+SSMMMO Mali Genel Kurulu ve Düşündürdükleri
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2007
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0291
+
+</div>
+
+
+<div class="article-content">
+
+<p>SAMSUN SERBEST MUHASEBECİ VE MALİ MÜŞAVİRLER<br />
+ODASI GENEL KURULU VE DÜŞÜNDÜRDÜKLERİ..</p>
+<p>SMMMO nın özellikle mali konularda ki deneyim ve birikimlerini her zaman önemsemişimdir. Bu nedenle hafta sonu yapılan Mali Genel Kurullarına katıldım. Oda Başkanlığını sanırım dört dönemdir sürdüren Sayın Ahmet Havyalı ile uzun yılar öncesine dayanan bir dostluğumuz vardır. Başkanlığını yaptığım SAM-SEV in iki yıl öncesine kadar düzenlediği Kent Kurultaylarında da çok verimli ortak çalışmalarımız olmuştur. Ancak, önceki yıl Samsun’un teşvik kapsamı dışında bırakılması sırasında, SAM-SEV’in öncülüğünde 81 Sivil Toplum Kuruluşun katılımı ile başlatılan çalışmalardan kabul edilemez gerekçelerle desteklerini çekmeleri sonrası, ilişkilerimiz bir hayli gevşemişti. İki önemli STK ile birlikte hareket ederek siyasi iktidarla ters düşmemek adına, Samsun için çok hayati bir konuda karşı tavır almaları, en başta beni çok şaşırtmıştı. Açıkçası, böylesine duygularla katıldığım Genel Kurulun açış konuşmasında duyduklarım beni umutlandırdı.<br />
+Kürsüde konuşan, o benim iki yıl öncesine kadar tanığım ve düşüncelerimizin uyuştuğu Ahmet Hayvalı’ydı. Bir Samsun sevdalısı olduğunu söyleyen Sayın Hayvalı, Samsun’a yapılan haksızlıkları seslendiriyordu. Bizim hiç vazgeçmeden altını çizdiğimiz yanlışları bu kez kendisi dile getiriyordu. Samsun için büyük bir umut olan Tersane fiyaskosunu, adı Samsun Ceyhan petrol boru hattı olan projenin Karadeniz ayağının garip bir şekilde Ünye’ye kaydırılmasının nedenlerini sorguluyor ve hesabını soruyordu. Üyelerinin sorunlarını da içeren ve çok iyi hazırlanmış uzun konuşması sonrası yanıma gelip oturduğunda kendisini kutlarken  “ yeniden aramıza hoş geldin, keşke teşvik sorununda da yanımızda olsaydın, belki Samsun’un bu ayıbı yaşamasını önleyebilirdik” demekten de kendimi alamadım. Sayın Hayvalı’da “ hiç ayrı yerde olmadık, sadece bir yanlış anlama oldu” gibisinden sözlerle konuyu kapattı. Zaten kongre salonuna girdiğimde bu değişimi hissetmiştim. Seçim ortamına girmiş olmamız nedeniyle, siyasetçilerin katılmak için can atacağı böyle bir kongrede hiçbir siyasetçi ve yerel yöneticinin bulunmaması aslında çok şeyi anlatıyordu. Her ne olursa olsun, Samsunluluğuna güvendiğim bir eski bir dostu yeniden yanımızda görmek Samsun’un çıkarları adına beni sevindirdi.<br />
+Daha sonra kürsüye gelerek Türkiye ekonomisi ile ilgili çarpıcı rakamlar veren Genel Başkan Yardımcısı Sayın Yahya Arıkan, ekonomi adına çizilen pembe tabloların aksine, önümüzdeki dönemin çok ciddi sıkıntılara gebe olduğunu vurguluyordu. Ülkemizin geçen 80 yılda 80 milyar dolar borçlandığını, buna karşılık sadece son dönemde ki dış borçlanmanın 87 milyar doları bulduğunu söylüyordu. Bu dönem de ekonomiye dışarıdan 60 milyar dolar sıcak para girdiğini, bu paranın çekilmesi halinde tüm dengelerin alt üst olabileceğini de açıklıyordu. 2001 Haziranından bu yana ekonomik dengeler sağlanamadığı için dışardan gelen sıcak paraya büyük faizler ödenmiştir diyen Sayın Arıkan, ihracatın arttığı söylenirken çok daha büyük oranda artan ithalatın göz ardı edildiğinin altını çiziyordu. Cari açığın da hızla büyüdüğünü vurguluyordu.<br />
+Hem Sayın Hayvalı, hem de Sayın Arıkan Laik ve Çağdaş Cumhuriyetimizin korunması konusunda taraf olduklarını da ısrarla vurgulayarak, tüm üyelerini 20 Mayıs Pazar günü yapılacak Samsun Cumhuriyet Mitingine katılmaya çağırıyordu.<br />
+Ülkeyi ve ekonomiyi çok iyi yönettiğini iddia eden siyasilerin, böylesine kulağa hoş gelmeyecek şeylerin söylendiği toplantıya ilgi göstermeleri de zaten beklenemezdi. Sivil Toplum Kuruluşlarının siyasi iktidarlara şirin gözükecek bir tavır sergilemek yerine, ülke gerçeklerini gündeme getirmeleri halinde karşılaşacakları tablo, ne yazık ki bu oluyordu.<br />
+Her zaman önemsediğim bir hususun altını çizerek yazımı sonlandırıyorum. Bazıları bizim gibi bu derenin taşlarıdır, bazıları da akan suyudur. Su akar gider ama taşlar kalıcıdır. Zaman, zaman üzülseler dahi, kazananlar her zaman taşlar olmuştur. O nedenle, oynak zeminde siyaset yapanların bu hesabı doğru yapmasında fayda var diye düşünüyorum.<br />
+Güzellikler dolu bir hafta dileğiyle. 20 Mayıs 2007</p>
+<p>SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0290-20-mayis-samsun-cumhuriyet-mitingi.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0292-samsun-siyaseti-adina-beklentiler-ve-dusundurucu-gelismeler.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

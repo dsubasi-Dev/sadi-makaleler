@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Sahte İçki Ölümlerinin Nedeni.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Sahte İçki Ölümlerinin Nedeni.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2019
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0952
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>SAHTE İÇKİDEN ÖLÜMLER VE SORUMLULARI.</p>
+<p>Bilindiği gibi son ayların basında yer alan haberleri arasında sahte içkiden ölümler önemli bir yer tutmuştur.<br />
+Aslında yazılı ve görsel basında sıkça duyulmasına rağmen çok da önemsendiğini sanmıyorum. Evet emniyet birimlerinin bazı sahte içki üretim yerlerini bastığı ve binlerce sahte içkiye el koyduğunu duyuyoruz ama hiç kimse bu işin nedenlerini araştırmıyor ve bu nedenleri ortadan kaldırmak için çaba harcamıyor. Bu işin polisiye tedbirlerle önlenebileceğini sanmıyorum.<br />
+Öncelikle alkolün, özelliklede çok tüketenlerin karaciğerlerinden başlayan çok ciddi sağlık sorunlarının ilk nedeni olduğu belirtmek istiyorum.<br />
+Bu tespiti yaptıktan sonra çok sayıda insanın alkollü içecekleri kullandığı gerçeğini de kabul etmek zorundayız. Dinimizce yasaklanmış olmasını söyleyerek bu sorunu çözemeyiz. İçkinin yasak olduğu ve şeriat kurallarının uygulandığı Osmanlı döneminde de birçok padişahın alkollü içki kullandıklarını biliyoruz.<br />
+Bu realiteyi kabul ettikten sonra sahte içki yapımının neden bu kadar arttığının nedenlerini irdelemek istiyorum.<br />
+İki yıl öncesine kadar eczane eczacılığı yapmış bir eczacıyım. Eczanem çok sayıda havan ilacı dediğimiz majistral ilaç yapılan bir eczaneydi. O tarihlerde  alkolü Tekel’den karne ile alırdık. En fazla alabilen eczanelerden birisi olarak kotamız aylık 20 Litreydi. Alkolü Tekel kendisi üretirdi. Alkolü, eczaneler ve kolonya imalathaneleri ile sağlık kurumları dışında özel şahıslara satılması da ayrıca suçtu. Tekel dışında da alkol satışı da zaten yoktu.<br />
+Tekel’in özelleştirilmesi ile Tekel’in alkol üretimi de durdurulduğu gibi ithal yolu ile sağlanan alkol de, internette ve bazı marketlerde dahi satılmaya başladı.<br />
+Tekel’in özelleştirilmesi ile tek amaçları kar olan bu kuruluşların yeterince denetlenmemesi nedeniyle, alkol artık herkesin kolayca ulaşabileceği bir kimyasal madde haline geldi.</p>
+<p>Şimdi de alkol denince neyin anlaşılması gerektiğini kısaca anlatmak istiyorum. Alkol tanımı içine Metil Alkol ve Etil Alkol girer.<br />
+Bunlardan Etil Alkol daha çok üzümden, Metil Alkol ise odun talaşından edilmektedir. Metil Alkol insan sağlığına öldürücü etkisi olan ve fiyatı az da olsa daha ucuz olup, başta boya olmak üzere değişik sanayi ürünlerinde kullanılan bir kimyasal maddedir. Az miktarda metil alkol içenlerde dahi körlük ve çeşitli kalıcı sakatlıklar bırakabilir.<br />
+Etil Alkol ise hastanelerde tıbbi amaçlarla, eczane ve ilaç sanayisinde ilaç yapımında kullanılan insan sağlığına zararı olmayan bir kimyasal maddedir. Bunu söylerken yüksek dozda alınmasında sağlık sorunları yaşanmayacaktır anlamı çıkartılmamalıdır.</p>
+<p>Etil ve metil alkol farkını anlattıktan sonra asıl konumuza geçebilirim.<br />
+Yasakların, yasaklanan şeye olan talebi artırdığı bilinen bir gerçektir. Evet alkollü içkiler ülkemizde henüz yasaklanmamıştır ama gerek fiyatlarının aşırı artırılması ve gerekse iktidara ait çoğu belediyelerce içkili işletmelere olanca güçlüğün çıkartılması ve şehir içlerinde ki bu işletmelerin şehir dışına çıkartılması uygulamasının yaygınlaşması ile evde içki tüketimi artmıştır.<br />
+Bu, bir yandan tiryakileri içecekleri içkiyi yapmaya yönlendirirken, diğer yandan da fırsatçılara yeni bir kazanç alanı yaratmıştır.<br />
+Kendi içeceği içkiyi (özellikle rakı) üretenlerle, kaçak içki üretenler, marketlerden ve internetten kolayca temin ettikleri üzerinde etil alkol etiketi bulunan alkollerle içki üretimine başlamıştır.<br />
+Ben en kötü amaçlı merdiven altı içki üretenlerin dahi bilerek metil alkol kullanacağına İhtimal vermiyorum. Çünkü Etil Alkolün de Metil Alkolün de 5 litrelik bidon fiyatı 77.00 ile 85.00 TL. arasında değişiyor. Ancak çoğunun Bulgaristan menşeli ithal malı olduğu anlaşılan 5 litrelik etil alkol bidonlarının ne kadar saf etil alkol olduğunun bir garantisi var mı?<br />
+Kaliteli içki yapımında kullanılan alkolün üzümden elde edilmiş olması gerekiyor. Oysa bu ithal etil alkollerin neden üretildiği belli değildir.<br />
+Bildiğim bir başka gerçek, içkiyi kendisi üreten tiryakilerin işin aslını öğrendiği ve kendi alkollerini imbikten damıtma yolu ile üzümden elde ettikleridir.<br />
+Tüm toplumlarda içki tüketildiği bir gerçektir. Bunun dini öğretilerle önlemenin imkânı yoktur.<br />
+Önceki gün bir köşe yazarına gelen mesajda, bir okuru çok ünlü bir marketten aldığı içkiden zehirlendiğini ve erken fark ederek canını zor kurtardığını yazıyordu. Bu bile işin nasıl tehlikeli bir boyut kazandığını göstermeye yeter sanıyorum.<br />
+O nedenle, bu sorun bir an önce çözümlenmelidir. Yapılması gerekenleri sıralamak gerekirse;<br />
+İçki fiyatları acilen alınabilir seviyelere indirilmelidir.<br />
+Etil Alkolün yerli olarak üzümden üretilmesi teşvik edilmelidir.<br />
+İthal edilecekse de, Etil Alkolün güvenilir ülkelerden ithali ve kontrolü sağlanmalıdır.<br />
+Piyasa da serbestçe satılan ithal alkollerde metil alkol bulunup bulunmadığı kontrolleri mutlaka yapılmalıdır.<br />
+Etil Alkolün eskiden olduğu gibi ilaç yapımı için sadece eczanelere, sağlık kuruluşları ile ilaç sanayicilerine satışı yapılmalı, piyasadan ve internetten isteyen herkesin Etil Alkol alabilmesi engellenmelidir.<br />
+Metil Alkol mutlaka farklı renkte ambalajlarda ve üzerinde açık şekilde “İçilmesi öldürücüdür.” Notu yazılı olarak satılabilmelidir.<br />
+Acilen en gözde marketler dahil alkollü içki satan tüm satıcıların ellerinde ki içkiler kontrol edilmelidir.<br />
+Bunların yapılmaması ve gerekli önlemlerin alınmaması halinde, sahte içkiden ölümlerin devam etmesinin sorumluluğu, bunun önlemlerini almayan siyasi iradenin olacaktır.<br />
+Güzel ve keyifli geçecek bir hafta dileğiyle… 18.08.2019</p>
+<p>Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0951-suc-orani-artarken-suclular-serbest-kaliyor.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0953-1-metastaz-i-simli-kitabin-esliginde-tarikatlar-ve-yargi-1-bolum.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

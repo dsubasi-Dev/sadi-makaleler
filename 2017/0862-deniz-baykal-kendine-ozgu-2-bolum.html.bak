@@ -1,0 +1,351 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Deniz Baykal Kendine Özgü. 2. Bölüm</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Deniz Baykal Kendine Özgü. 2. Bölüm
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2017
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0862
+
+</div>
+
+
+<div class="article-content">
+
+<p>DENİZ BAYKAL KENDİNE ÖZGÜ ÇIKIŞLARI İLE<br />
+BİR KEZ DAHA GÜNDEM DE..<br />
+BÖLÜM<br />
+Dün yayınlanan köşe yazımın 1. Bölümünde 07 Haziran 2015 seçimleri sonrası Deniz Baykal’ın TBMM adaylığı il başlayan süreç sonrasında yenilenen seçimlerden, AKP’ nin yeniden tek başına iktidarı ele geçirmesinde ki sorumluluğunu anlatmıştım.<br />
+Bugün kaldığım yerden devam ediyorum.<br />
+Bu tavırları ile parti içerisinde önemli ölçüde prestij kaybeden Baykal, gerek TBMM’ de ki Anayasa Değişikliği taslağının görüşmeleri sırasında ve gerekse de Referandum sırasında, yılların verdiği siyasi deneyimini konuşturmuş ve yaptığı uyarıcı konuşmalarla büyük puan toplamıştır.<br />
+Tüm partilerin beğenisini kazanmış ve ben dahil herkes, yaşadığı olayların onu olgunlaştırdığını ve parti içerisinde bir duayen konumunu üstleneceği umudunu yaratmıştır.<br />
+Ne var ki bilindiği gibi referandumun hemen ardından yine aceleciliğini göstermiş ve zamansız bir çıkışla partiyi dinamitleyerek bir kez daha iktidarın gündemi değiştirmesine zemin hazırlamıştır.<br />
+Oysa CHP Genel Başkanı ve ekibi, Referandum da “Hayır” gurubunu çok iyi toparlamış ve tüm imkansızlıklara rağmen başarılı bir çalışmanın liderliğini yapmıştı.</p>
+<p>SONUÇ;<br />
+Tamam bugüne kadar tüm seçimleri kaybeden Sayın Kemal Kılıçdaroğlu’nun bir güven oylaması yapmak üzere Olağanüstü Genel Kurulu toplaması istenebilirdi. Bu, tüm üyelerin de en doğal hakkıdır.<br />
+Ama henüz Referandum’ da önemli yanlışlar yapıldığı iddiasında olan CHP’ nin başlattığı yasal işlemler sürerken, bu aceleci tavrı iyi niyetle bağdaştırmak olası gözükmüyor.<br />
+Bu çıkışı fırsat olarak görerek birbiri ardına meydana çıkan Genel Başkan adaylarının da, partinin Genel Başkanına karşı son derece yakışıksız ifadeler kullanması, parti içi terbiyesi ile bağdaşmamıştır.<br />
+Bu siyasi terbiye ve kural dışı sözlerin etkisi ile olacak bu kez de Genel Başkan sinirlenmiş ve O’ da çok sert ve kararlı bir tavırla, “Kuralları çiğneyenleri kapının önüne koyarım” Sözleriyle ortalığı iyice germiştir.<br />
+Geçen haftanın son gününde de, sol siyaset adına umut veren akademisyen kökenli Genel Başkan yardımcısı ve parti sözcüsü Sayın Selin Sayek Böke görevlerinden istifa etmiştir.<br />
+Oysa bir gün sonra yapılacak PM toplantısını bekleyebilir ve orada tepkisini koyar ve gerekiyorsa da ondan sonra görevlerini bırakabilirdi.<br />
+Bu gelişmeler parti adına çok büyük sıkıntı yaratacağa benzemektedir. Sayın Böke, bana göre yanlış yapmış ve muhtemelen de siyasi geleceğini riske sokmuştur.<br />
+Deniz Baykal’ın en başarılı olduğu tek şey ise, Genel Başkanlığı sırasında kendisine biat edenlerden oluşturduğu gurubun dışındaki partilileri teşkilatlardan uzaklaştırması ve onlara siyaset yapma şansı tanımamasıdır.<br />
+Böylece CHP’ nin çok sayıda birikimli insanının partiden kopmasına neden olmuştur.<br />
+Bu son hareketi ile bir kez daha göstermiştir ki, yaşı ve deneyimi ne olursa olsun Baykal’ın gündem dışında kalmaya tahammülü yoktur.<br />
+Her ne kadar özel hayatın deşifre edilmesi ahlak dışı bir olay olarak kabul edilse de, bir siyasetçinin yapmaması gereken o kişisel hatası olmasaydı zaten onu Genel Başkanlıktan uzaklaştıracak hiçbir parti içi güçte yoktu.<br />
+Bu yanlışına rağmen CHP onu dışlamamıştır.<br />
+Ancak o günlerde biraz da aceleyle Genel Başkanlığa seçilen Kemal Kılıçdaroğlu ’na yardımcı olması gerekirken, kadrosunda yer alan kendisine yakın PM üyeleri ile gereken bu desteği vermemiş, bu da yeterli siyasi deneyimi olmayan Kılıçdaroğlu’nun işini zorlaştırmıştır.<br />
+Kılıçdaroğlu biraz da bu nedenle, ilk fırsatta PM’ ne ve yakın kadrosuna akademisyenleri almış ve bu kez de parti üst kadrosunda siyasi deneyimi olmayanların yarattığı sorunlarla uğraşmak zorunda kalmıştır.<br />
+Tüm bunlara rağmen Deniz Baykal, Referandum sürecinde ki deneyimli açıklamaları ve çabaları ile gerçekten de “Hayır Cephesi” adına büyük beğeni almıştır.<br />
+Üzülerek söylemek gerekirse, bir kez daha kendisi adına yakaladığı bu  “Partinin bir bileni olma” Fırsatını harcamıştır.<br />
+Oysa referandum sürecinde takındığı olumlu tavrını sürdürse ve önümüzde ki sıkıntılı dönemde de ülkemizin düzlüğe çıkması için çaba harcasaydı, inanıyorum ki geçmişteki hatalarını unutturacak ve belki de 2019 da yapılacak Cumhurbaşkanlığı seçimlerinde CHP tabanının en güçlü adayı olacaktı.<br />
+Bazı görevler vardır ki, bunlar kişilerin isteği ile değil, onu seven ve ona inanların talebi ile gerçekleşir.<br />
+Ne yazık ki, Sayın Baykal siyasi yaşamının hiçbir döneminde bunu başaramamış ve kendisine yazık etmiştir.<br />
+Ve bir kez daha partisine zarar verecek bir sürecin de kahramanı olmuştur.<br />
+Yazımın başında söylediğim gibi siyaset, sabırlı ve ilkeli olma sanatıdır.<br />
+Zamansız istifalarda, istifa edeni siyaset dışına itmektedir. Yarsav Başkanlığı da yapan ve CHP’ e geldiğinde kendisinden çok şeyler beklenen Emine Ülker Tarhan’da aynı yanlışa düşmüş ve bir anda unutulup gitmiştir.<br />
+Bunları söylerken, bir şeyi de özellikle belirtmek isterim. Siyasi partiler kimsenin tekelinde olamaz, olmamalıdır.<br />
+Çağdaş demokrasilerde ki ana kural, siyasette başarılı olamayanın yerini bu işi daha iyi yapacak birisine bırakmasıdır.<br />
+Ancak, bunun da kuralları vardır ve bu kurallara uymamak hem kendisine hem de partisine zarar verir ki, bunun da siyasette yeri olamaz.<br />
+CHP’ de etik olmasa da ok yaydan çıkmış ve yeni bir Genel Başkan arama süreci başlamıştır.<br />
+Üzülerek söylemek gerekirse, Sayın Kılıçdaroğlu’nun çağdaş demokrasilere uygun dürüstlüğü ve sakin üslubu, ülkemizde sürdürülen sert politika yapanın kazandığı sistemle, uyum sağlayamamıştır.<br />
+Evet, biraz daha beklenmesi gerekirken erken bir zamanlama ile bu değişim süreci başlatılmıştır.<br />
+Şimdi, bence son Referandum sürecinde “Hayır Cephesi’ni çok iyi yönetmesi başarılı sayılabilecek olsa da, sürekli seçim kaybeden Sayın Kılıçdaroğlu’nun koltuğunu daha etkin liderlik yapacak birisine devretmesi zamanı gelmiş gözüküyor.<br />
+Şimdi asıl olması gereken şey, Kılıçdaroğlu’nun gitmesinden çok, bu görevi ondan çok daha iyi yapabilecek olanın bulunması ve seçilmesidir.<br />
+Kişisel düşünceme göre, bu isim Rahmetli Ecevit gibi toplumu arkasından sürükleyecek, onlara umut aşılayacak kişiliğe ve üsluba sahip birisi olmalıdır.<br />
+Yine kişisel düşünceme göre bu isim, ortada adı öne çıkanlar olamaz.<br />
+Bana göre, uzun süredir her yönüyle izlediğim, birikimleri, olaylara yaklaşımı, çalışkanlığı, geçmişinde görev aldığı sivil toplum kuruluşlarında ki başarısı ve Soma Maden kazasında ki herkesçe beğeni alan çabaları ile bir adım öne çıkan isim, Genel Başkan Yardımcısı olan ÖZGÜR ÖZEL’DİR.<br />
+Bir 2. İsim ise, parti dışında olan ama düşünceleri ile sosyal demokrat yapıda ki Barolar Birliği Başkanı Sayın Metin Feyzioğlu olabilir diye düşünüyorum.<br />
+Bu süreçte Sayın Kılıçdaroğlu’ dan beklenen, bir ilki başlatarak koltuğunu kendi isteği ile CHP tabanının da destek olacağı yukarıda belirttiğim ilkeleri taşıyan bir genç adaya bırakmasıdır.<br />
+Sayın Kılıçdaroğlu’na da bu yeni süreçte düşen görev, partide bugüne kadar doldurulamayan “Bir bilen (Duayen)” Olma konumunu kazanmasıdır.<br />
+İnanıyorum ki, 2019 da yapılacak Cumhurbaşkanlığı seçiminde “Hayır” Kanadının da ortak adayı olabilecektir ki, bu da kendisine çok yakışacaktır.<br />
+Ülkemizin çağdaş dünyadan kopmaması, laik ve hukuk sisteminin sürdürebilmesi için bu değişim, umarım ki bu üslup ile gerçekleşir.<br />
+Tek endişem ülkemizin içerinde bulunduğu siyasi ahlak aşınmasının yıllardır artarak sürüyor olmasıdır.<br />
+Gerçek demokrasilerde yeri olmayan bu siyasetçi tanımlamasını en güzel anlatan dizeler ise, Neyzen Tevfik’e aittir.<br />
+Kime sordumsa seni, doğru cevap vermediler; Kimi alçak, kimi hırsız, kimi deyyus! dediler... Künyeni almak için, partiye telefon ettim, Bizdeki kayda göre, şimdi o mebus dediler ..<br />
+Neyzen Tevfik<br />
+Yazımı Neyzen Tevfik’in dizeleri ile sonlandırırken, ülkemizin bu tür siyasetçilerden artık usandığını ve bunları hak etmediğini vurgulamak isterim. İyi haftalar. 17.05.2017</p>
+<p>Ecz. SADİ SUBAŞI<br />
+SAMSUNLULAR, LÜTFEN! UNUTMAYINIZ.<br />
+HAVA ALANIMIZ ÜÇ AYLIĞINA KAPATILACAKTIR.<br />
+Altı üstü 3,5 Km. uzunluğunda ki 2. Pistin maliyetinin gerekçe olarak gösterilerek yapılmaması ve alanın kapatılarak onarılacak olmasının şimdi de üç ay ertelenmiş olması düşündürücüdür.<br />
+Böylece acil bir neden olmadığının ortaya çıkması ile kapatmanın asıl nedenin, bunlar olmadığı anlaşılmaktadır.<br />
+Bu, bir kez daha Samsun’a yapılan bir dayatmadır.<br />
+Soru şu; Neden bu dayatmaya sessiz kalınıyor?<br />
+NEDEN? NEDEN? NEDEN?<br />
+e- http://www. hedefhalk. com/</p>
+<p>Çok uzun olması dolayısıyla zorla ve sabırla okudum. Baykal'ı uzun uzadıya, Bahçeliyi kısaca ama gayet güzel ve yerinde eleştirmişsin. CHP' nin tarihçesini çok güzel hatırlatmışsın. CHP'nin müstakbel genel başkanı konusunda da mutabıkız. Feyzioğlu önceliğimdir.<br />
+Aklına, fikrine, eline sağlık.<br />
+Mahir Uzdil</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0861-deniz-baykal-kendine-ozgu-cikislari-ile-bir-kez-daha-gundemde.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0863-boyle-sivil-toplum-kurulusu-olamaz.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

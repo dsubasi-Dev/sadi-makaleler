@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Bir Başka Samsun Yok. O Halde Bu Kavga Nden</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Bir Başka Samsun Yok. O Halde Bu Kavga Nden
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2009
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0429
+
+</div>
+
+
+<div class="article-content">
+
+<p>e-posta; sadisubasi@denizeczneoptik. com                                   SUNUŞ</p>
+<p>BİR BAŞKA SAMSUN YOKSA BU KAVGA NEDEN?</p>
+<p>Samsun’u seven ve Samsun ile ilgili endişesi olan hemen herkes konuşmasını, “Başka Samsun yok” vurgusu yaparak bağlar. Bu vurgulamanın nedeni, Samsun’un bu tartışmalardan zarar görebileceği korkusudur. Bu korku sonunda, Samsunluyu konuşmayan, yanlışa tavır koymayan, hak etmediği şekilde yönetilmesine dahi duyarsız kalan bir toplum haline getirmiştir. Bunun sorumluluğunu başka yerlerde arayamayız. Suçlu varsa o suçlu bizleriz.<br />
+Biz dediğim yapıyı kimler oluşturuyor derseniz, en başta seçilmiş ve atanmış kent yöneticileri, bu kente yaşamlarını sürdükleri halde bir türlü Samsunlu olamayanlar, bir kaçı dışında halkın çıkarlarına sahip çıkmak üzere kurulmuş “Sivil Toplum Kuruluşları” ve hepsinin önünde gelenler de bu kentte yaşamayı sürdüren bizleriz.<br />
+Atanmış yöneticiler için bir şey söylemek istemiyorum. Çünkü onlar Samsun’un beklentilerinden çok hükümetlerin politikalarının uygulayıcı ve takipçisidir. Ancak, kişisel riskler üstlenerek kendi birikimlerini kentin hizmetine sunabilirlerse kentin iyi yönde değişimine katkı verebilirler.<br />
+Ne var ki, en üst makamdan en alt makama kadar atanmışların bu riski üstlendikleri çok fazlaca görülmemiştir. Çünkü bürokratların en büyük amacı, üstlendikleri görev sırasında yıpranmamak ve terfi ederek bir üst göreve gidebilmektir.<br />
+Bu açıdan Samsun’un son 50 yılına baktığınızda, risk üstlenme cesaretini gösteren iki üst düzey atanmış yönetici görürsünüz. Henüz görev süresini tamamlamadığı için günümüzün Valisi Sayın Hasan Basri Güzeloğlu’nu bu değerlendirmenin dışında tuttuğumu özellikle belirtmek istiyorum.<br />
+Sözünü ettiğim bu iki validen ilki rahmetli HAMDİ ÖMEROĞLU’DUR. Rahmetli Ömeroğlu görev yaptığı 1960 lı yıllarda Samsun Fuarı’nı gerçekleştirmiş ve bu fuar sayesinde Samsun yıllarca yerli turisti ve sanayiciyi Samsun’a çekilmiştir. Bu fuar Samsun’un ekonomisini de yıllarca ayakta tutmuştur.<br />
+İkinci isim ise, 2004 yılın de Samsun’dan ayrılarak İstanbul Valiliğine atanan Sayın MUAMMER GÜLER’DİR. Sayın Güler’in Samsun’a atandığı sırada, sivil toplum kuruluşlarının önerisi ve desteği ile “SAHİLİMİ İSTİYORUM KAMPANYASI” başlatılmıştır. Bu projeyi tüm beklentilerin de üzerinde gerçekleştirerek Samsunluyu yeniden denize kavuşturan Büyükşehir Belediye Başkanı Sayın Yusuf Ziya Yılmaz ve ekibi ne kadar alkışı hak ediyorsa, bu alkışta önemli bir pay da Vali Sayın Muammer Güler’e aittir.<br />
+Çünkü deniz doldurularak ve TCDD arazilerini kullanarak yapılan bu sahil düzenlemesi sırasında DLH ve TCDD ile Liman işletmesinin haklı olarak çıkarabilecekleri tüm engelleri göğüslemiş ve muhtemelen yetkilerini de aşarak bu sahil yolunun bitirilmesine büyük bir katkı sağlamıştır. Samsun’dan ayrılırken hava alanında gazetecilere söylediği<br />
+“ Samsunlular bana masum suçlar işlettiler” sözleri de bunun en açık cevabıdır. O da, Samsunluların gönlünde ayrıcalıklı yerini almıştır.<br />
+Sıra seçilmişlere gelince, beklentilerin boyutları çok daha büyümektedir. Çünkü onlar Samsun’u çok daha iyi ortamlara taşımak için göreve talip olmuş ve Samsunludan oy istemiştir. O nedenle de onların Samsun’a kazandıracaklarının ve verdikleri sözü tutmalarının önemi büyüktür.<br />
+Çünkü bu seçilenlerin bir kısmı kent içinde düzenlemeler yapmak ve kenti daha yaşanabilir hale getirme görevini üstlenen Belediye Başkanlarıdır. Bunlar içersinde de Büyükşehir Belediye Başkanının büyük sorumlulukları vardır. Çünkü Samsun halkı onları kentine güzel şeyler kazandırmasının yanın da kentine ve kendilerine sahip çıksın diye seçmiştir. Eskiler bu görevi “Şehr-ül Emin” diye tanımlar. Yani kentinin sahibi, güvenilir insan ve kendisini seçen kent insanlarının haklarının koruyucusudur.<br />
+Bir diğer seçilmiş grup ise, ülkenin sorunları öncelikli olmak kaydıyla “Kendisini seçen kentin haklarını TBMM çatısı altında takip edip koruyan” Milletvekilleridir. Daha doğru bir deyimle böyle olması gerekir diye düşünüyorum.<br />
+Bu görev çerçevesinden bakılınca, onları seçen halkın da, beklentilerinin hangi oranda gerçekleştirilebildiğini, verilen sözlerin ne oranda tutulduğunu denetlemek gibi bir hakkı ortaya çıkar.<br />
+Başlıkta yer alan “Kavga” da, işte tam bu noktada başlamaktadır. Seçtiklerini denetlemek hakkı öncelikle seçmenin, yani yöre halkınındır. Ancak tüm çağdaş demokrasiler de, “Sivil toplum kuruluşu” diye tanımlanan kuruluşlar, halk adına sorunları izlemenin yanında, ürettikleri projelerle seçilmişlere destek verme görevini de üstlenmişlerdir. Bunlar yasayla kurulmuş “Meslek Odaları”, Dernekler kanuna göre kurulmuş “Değişik konulara yönelmiş Dernekler”, özel yasaları ile Vakıflar ve Sendikalardır.<br />
+Bu kuruluşlar, gördükleri yanlış uygulamaları öncelikle seçilmişlerle görüşerek çözümlemek ister ama çoğu kez muhatap dahi alınmazlar. Kenti yakından ilgilendiren projeleri paylaşmak isteyen konuyla ilgisi olan meslek odaları ilgi göremezler. Çünkü seçilmişlerin artık onlara ihtiyacı yoktur. Eğer her şeyi alkışlayan, hiçbir yanlışa ses çıkartmayan şartsız yandaşlık düzeyinde (Arka Bahçe) bir sivil toplumu olamamışsanız siyasi rakip gibi görülürsünüz.<br />
+Tüm bunların olduğu Samsun’da, üstüne üstlük bir de çıkıp bu kentte birliktelik yok denebiliyorsa “Bu kadarına da pes” demekten başka söylenecek söz kalmaz.<br />
+Oysa bu kentin yönetimine talip olarak seçilmiş olanlar, olaya biraz daha yapıcı açıdan bakıp bu kuruluşları bir araya getirerek onlarla proje bazında ve Samsun’un çıkarları doğrultusun da ortak hareket etmeyi deneseler ne kaybederler?<br />
+Samsunlunun beklentisi de budur. Tartışma konusu olan olayların çoğunluğu, “ Benim yaptığım her iş en doğrusudur” dayatmacılığından ve paylaşma kültürümüzün olmamasından ortaya çıkmaktadır. Yapılması gereken doğru işin bu olması gerekirken, seçilmişlerin bazı kuruluşları yanına alarak onlarla ortak hareket etmesi anlaşılır ve kabul edilebilir bir yöntem olamaz.<br />
+Güçlü lider ve yönetici, bilgi birikimi olanlarla bilgi paylaşımını yetki paylaşımı gibi algılamaz. Üzülerek söylemek gerekirse, Samsun’da ki tartışmaların odağında biraz da bu güvensizlik yatmaktadır. Keşke bu yazdıklarım doğru olmasaydı. Olmasaydı şunlar da olur muydu?<br />
+Dünyanın reddettiği 6 numaralı fuel-oil ile çalışacak canlı düşmanı “Mobil Santraller”, her taraftan kovulduktan sonra halktan da saklanarak Samsun’a davet edilir miydi?<br />
+Bu santrallere ve kansere neden olan “Asbestli Gemi Söküm tesislerine” karşı çıktılar diye sivil toplum kuruluşları “Yatırım Düşmanı” “ilan edilebilir miydi?<br />
+Samsun’un sorunlarının masaya yatırıldığı ve üç yıl başarı ile sürdürülen “Samsun Kent Kurultayları”, katılımcı bazı sivil toplum kuruluş yetkilileri tarafından, “ Büyüklerimizin istemediği yerde bizler de olmayız” diyerek sabote edilebilir miydi?<br />
+Samsun’a can suyu olacak “Teşvik yasası” dışına itilen tek Karadeniz ili olma ihanetine uğradığımız 2004 de, hiç kent yöneticisinin sesi çıkmazken, TBMM’de haklarımızı başka illerin vekilleri savunurken bu haksızlığa bayrak açanlar kimdi? SAM-SEV’İN öncülüğünde bu haksızlığa bayrak açan 80 sivil toplum kuruluşuna, seçtiğimiz bir milletvekili “Teşvik Gözünüze Girsin” deme cüretini gösterebilir miydi?<br />
+Teşvik olmadı, sizi “Cazibe Merkezi” yapacağız deyip o da olmayınca, “ Kalkınma Ofisleri” ile Samsunluyu kalkındıracağız hikâyeleri ile Samsunlu uyutulabilir miydi?<br />
+Laik ve Çağdaş Türkiye Cumhuriyeti’nin ilkelerine sahip çıkarak tavır koyan sivil toplum kuruluşlarının başkanları kara listeye alınabilir miydi?<br />
+Bir yanda bunlar olurken, Samsun adına çok önemli sayılacak panel ve sempozyumlarda devam ediyordu.<br />
+Samsun’u sel götürmüş Mimarlar Odası uzmanların katılımı ile “Sel Sempozyumu” düzenliyor ve izlemeye tek belediye yöneticisi dahi katılmıyorsa,<br />
+Trafo yetersizliğinin hatta tavana vuruşunu anlatan Elektrik Mühendisler Odası’nın düzenlediği “ Elektrik Sempozyumuna da” hiçbir seçilmiş katılmıyorsa,<br />
+Samsun’un geleceği için önemi büyük bir proje olan Raylı Sistem için endişemiz var diyenler çizilebiliyorsa,<br />
+Kentin en üst düzey seçilmiş ve atanmış yöneticileri Samsun için çok önemli bazı sivil toplum kuruluş başkanlarına randevu dahi vermiyorsa,<br />
+Samsun’un en önemli tanıtım organı Samsunspor yerlerde sürünüyorsa, daha da ötesi “Düşecekse düşsünde biz de kurtulalım” yaklaşımında olanlar varsa, tartışmaların süregitmesi kaçınılmaz hale gelir.<br />
+Tablo bu. Tartışmalar bu olaylarla sürüyorsa bu kenti yönetme talip olanları “Bu kentte birliktelik yok” diyebilme lüksü da olmaz.<br />
+Bu birlikteliğin neden oluşturulamadığı konusunu siz değeli okuyucularımın değerlendirmesine bırakıyorum.<br />
+Samsun önemli bir kenttir. Bu kente kavga yakışmaz. Ya seçilmiş veya atanmış bir en üst düzey yöneticisi bu ayırımcılığa son verecek girişimleri başlatmalı ve Samsun’un sorunları hep birlikte nasıl aşılır bunun hesabı yapılmalıdır.<br />
+Hiçbir şey için geç değildir diye düşünüyorum.<br />
+İyi haftalar..26 Temmuz 2009</p>
+<p>SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0428-samsun-adina-kutlanacak-bir-guzellik.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0430-dunun-cocuklarinin-dunyasindan-gunuz-cocuklarinin-dunyasina-bir-gezinti.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

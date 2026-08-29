@@ -1,0 +1,314 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Atatürk Heykel Çevresi Yeniden Düzenlenmelidir.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Atatürk Heykel Çevresi Yeniden Düzenlenmelidir.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2024
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+1097
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>ATATÜRK HEYKEL ÇEVRESİ YENİDEN DÜZENLENMELİDİR.</p>
+<p>Kentleri tanımlayan önemli simgeler vardır. Samsun’un en önemli simgesi ise, Cumhuriyet Caddesi üzerinde bulunan Atatürk Heykelidir.<br />
+Bilindiği gibi 1. Dünya Savaşından da yenik çıkarak tüm topraklarını kaybeden Osmanlı imparatorluğu tarihin derinliklerine gömülürken, son vatan toprağı Anadolu’da galip devletler tarafından işgal edilmişti.<br />
+Mustafa Kemal bu işgale son vermek için dava arkadaşları ile 19 Mayıs 1919 sabahı Bandırma Vapuru ile Samsun’a çıkarak Millî Mücadelenin ilk adımını atmıştı.<br />
+Samsun’da yaktığı Millî Mücadele ateşi ile Anadolu’yu düşmanlardan temizleyerek bugün üzerinde özgürce yaşadığımız, Türkiye Cumhuriyeti’ni kuruyordu.<br />
+Samsun Halkı’da Samsun’a böylesine önemli bir onuru armağan eden Atasına saygısını göstermek için Mustafa Kemal ve silah arkadaşlarının Samsun’a çıktığı noktaya, Türkiye’deki en görkemli Atatürk Heykeli’ni yaptırmıştı.<br />
+Samsun halkı tarafından Avusturyalı heykeltıraş H. Kriphel’e yaptırılarak Samsun’a getirilen Atatürk Heykeli, 15 Ocak 1932 Cuma günü büyük bir kalabalığın katılımıyla açılmıştı.</p>
+<p>Türkiye Cumhuriyeti’nin kuruluşunu tanımlayan bir heykel olarak kabul edilen Atatürk Heykeli, çeşitli kentlerden gelen konukların en çok ziyaret ettiği yerdir.<br />
+Ne var ki, Samsun’a gelen turist kafilelerin çoğu kez Samsun’a uğramadan transit geçiş yapmasına neden olan sorunların bir kısmı yıllardır bir türlü çözülememiştir.<br />
+Bir Samsunlu olarak Samsun turizmine zarar veren aşağıda belirteceğim sorunların bir an önce giderileceğini umuyorum.<br />
+1- “Atatürk’ün Şehri” Diye tanıtılan Samsun’a gelen gezginler için gezilecek en önemli yerler olan Atatürk Heykeli, Gazi Müzesi ve Kent Müzesi birbirlerine yakın bir üçgende bulunmaktadır.<br />
+Gezgin otobüslerinin ilk geldiği yer, Atatürk Heykelinin bulunduğu Atatürk Parkıdır. Gezginlerin durakladığı yerde ilk aradıkları tuvalettir.<br />
+Geçtiğimiz yıllarda nedendir bilinmez bu parkta hizmet veren tuvalet kaldırılmıştır.<br />
+Heykele gelen konuklar tuvalet bulamayınca çevre de ki restoranları kullanmak zorunda kalmakta, bu da zaman zaman işyerlerinin tepkisine neden olmaktadır.<br />
+2- Tur şirketlerinin en çok şikâyet ettiği diğer konu, oto park edecek yer bulamamalarıydı.<br />
+Bu konu büyük ölçüde çözülmüş gözüküyor. Eski Büyük Otel’in yan tarafında tur otobüsleri için tahsis edilmiş bulunuyor. Atatürk Heykel’i, Gazi Müzesi ve Kent Müzesi’ne yürüme mesafesindeki bu otoparkı düzenleyenlere teşekkür ediyorum.<br />
+3- Atatürk Heykeli ile söyleyeceğim en önemli şey, bu heykelin ışıklandırmasının ve çevre düzenlemesinin Atamıza ve Samsunumuza yakışmadığıdır.<br />
+Led aydınlatmanın fark yarattığı günümüzde, çevresindeki tüm iş yerlerinin renkli görüntüleri yanında Samsun’un simgesi dediğimiz Atatürk heykeli, çok sönük kalmaktadır.<br />
+Heykel çevresinin peyzaj mimarları tarafından yeniden düzenlenmesi ve Heykelin heybetli görünüşünü ortaya çıkaracak bir ışıklandırmanın yapılması, Samsun için önemi büyük olan Atatürk Heykeli böylece çok daha görünür hale gelecektir.<br />
+4- Tur şirketlerinin Samsun’da konaklama yapmalarını sağlayacak gerekli girişimler yapılmalıdır. Bu bölgeye tur düzenleyen önemli tur firmaları ile görüşülerek onların beklentilerine çözüm bulunmalıdır.<br />
+5- Samsun Turizminin gelişmesi için çaba gösterenlerin, tur şirketlerinin Amisos Hazinelerinin de bulunduğu yenilenen Samsun Etnografya Müzesini, Vezirköprü Kanyonu, Tekkeköy Mağaralarını, Bafra Asarkale Mezarlarını da programlarına almasını sağlamalıdır.<br />
+Bu konuda Turizm İl Müdürlüğü özel bir çaba göstermelidir.<br />
+Son Yerel Seçimlerle göreve gelen Büyükşehir Belediye Başkanımız Sayın Halit Doğan’ın gerekli ilgiyi göstereceğine inanıyorum.<br />
+Turizm Derneği’nin ve turizm işletmelerinin katkıları da bu sorunların kısa sürede giderilmesine yardımcı olacaktır, diye düşünüyorum.<br />
+Sorumsuz ve keyifli bir hafta sonu diliyorum. 15.08.2024</p>
+<p>Ecz. SADİ SUBAŞI<br />
+e- http://www. hedefhalk. com</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="1096-samsunumuza-bu-ayibi-yasatmayalim.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="1098-samsunspor-kulup-dernek-yonetim-kuruluna-cagri.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

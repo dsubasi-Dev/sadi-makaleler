@@ -1,0 +1,321 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>IŞİD ile PKK Arasına Sıkıştırılan Türkiye</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+IŞİD ile PKK Arasına Sıkıştırılan Türkiye
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2014
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0714
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>İŞİD Mİ? PKK MI? TERCİHİNE ZORLANAN TÜRKİYE.</p>
+<p>Bugün sizlerle “Güzellik” Konusunu değişik boyutları ile paylaşacak ve Samsun’da ki çok güzel bir yapıttan söz edecektim. Ancak ülkemizin kan gölüne döndüğü, sokak çatışmalarının çok sayıda kentimize yansıdığı günümüzde, o konuyu haftaya ertelemek zorunlu hale geldi.<br />
+Hatırlayacağınız gibi bugüne kadar “Çözüm süreci” İle ilgili olarak yazı yazmış ve bugünkü olayların bağıra bağıra geldiğini çok kez hatırlatmış bir kişiyim.<br />
+Ülkemizi büyük bir karmaşanın ve hem iç, hem de Ortadoğu bataklığının içine sokacak bir savaşın eşiğine gelmiş bulunuyoruz.<br />
+Derinliği henüz netlik kazanmayan İŞİD ve PKK olaylarının, “Bu ülkeye bir şey olmaz” Diyerek kendilerini avutanların başına balyoz gibi indiğini sanıyorum.<br />
+Ülkemiz insanlarını kaderci olmaya yönelten ve bir benzeri çağdaş hiçbir ülkede görülemeyecek halk deyimlerinden birisi olan, ”Bana dokunmayan yılan bir yaşasın” Anlayışı ile vurdumduymazlığını sürdürenler de bu karmaşanın sorumlularındandır.<br />
+Bugün yaşanan savaş ortamının siyasi sorumluları kadar, ülkemizin başına örülmekte olan felaketi görmezden gelerek sömürgeci güçlerin örgütlediği ve komşularımızı yakıp yıkan bu pis savaşa ülkemizi adım adım sürükleyen siyasi iradeye oyları ve yazıları ile destek veren insanlarımız da en az onlar kadar sorumludur.<br />
+Umarım bizi ilgilendirmeyen bu pis mezhep savaşından gelecek şehit haberleri ile yapılan yanlışın faturasını ağır şekilde ödemek zorunda kalmayız.<br />
+Başta dünyanın en büyük sömürgeci ülkesi konumuna gelen Amerika olmak üzere, ona destek çıkarak kendilerine düşecek payın peşinde olan batılı ülkelerin Ortadoğu’yu yeniden düzenleme politikası, belki onların da beklemedikleri bir çıkmaza girmiş bulunuyor.<br />
+Artık bilinen bir gerçek var ki, bu bölgede ki tüm terör örgütlerinin (PKK, İŞİD, HİZBULLAH ve EL-KAİDE) yaratıcısı, bu bölgede ki çıkarlarını gerçekleştirmek uğruna her şeyi yapabilecek olan Amerika’dır.<br />
+Üzülerek söylemek gerekirse, bu bölgenin coğrafyasını ve bölgede petrol yatakların varlığını ve önemini bilen herkesin çok iyi görebildiği bu gerçekler, ülkemizi yöneten siyasi irade tarafından hafife alınmıştır.<br />
+BOP ( Büyük Ortadoğu Projesi) Adı ile tüm bölgenin kendi çıkarları doğrultusunda yeniden yapılandırılmasını amaçlayan Amerika ve yandaşlarının desteği ile bölge ülkelerinin rejimleri çökertilmiş, Irak, Libya, Mısır ve Suriye iç savaş bataklığına sürüklenmiştir.<br />
+Bu operasyonun adım, adım ülkemize sıçrama işaretleri yaşanırken, bizi hiç ilgilendirmemesi gereken Suriye’de ki Esat’ın yıkılması için Suriye’de ki mezhep çatışmalarında taraf haline gelme yanlışına düşülmüştür.<br />
+Bu yanlış politika sonucu, bir buçuk milyonu aşkın Suriyeli mültecinin ülkemize dağılması ile iç barışın bozulması ve zaten yoksulu çok ülkemizin öz kaynaklarının bu mültecilerin barındırılmasına ayrılması, kabul edilebilir bir yanlış değildir.<br />
+Yine bu yanlış dış politikalar sonucu, Türkiye tüm sınır komşularının en büyük düşmanı haline gelmiştir.<br />
+Şimdi bir yıl öncesine dönerek ülkemize dayatılan Kürt sorunun çözümüne yönelik siyasi iradenin başlattığı bir uygulamayı hatırlayalım.<br />
+Adına “Çözüm süreci” Denilen bu projenin anlatılması için de, siyasi iradeye destek veren bazı sanatçılar, bilim adamları ve medya mensuplarından oluşan “Akil adamalar” görevlendirilmişti.<br />
+Kürt sorununda Kürtlerin istediği asıl amacın, “Özerklik- Ayrı Bayrak ve Kürtçe Eğitim” esasına dayalı ayrı bir devlet olduğunu bilen hiç kimsenin inanmadığı bu süreç sonunda çöktü.<br />
+Bu arada elinde 40.000 insanın kanı bulunan “İmralı’da ki katil Öcalan, hatta “Kandil” siyasi taraf haline getirildi. Bunlar, güçlü bir devlet anlayışı ile bağdaşmayan bir zaaftır.<br />
+Hatta ülke içerisinde ki kanlı ayaklanmanın durdurulması için Öcalan’dan medet umulur hale gelinmesi ülkemiz adına yaşanan aczin de ifadesidir.<br />
+Gelinen bu karmaşa ortamının nerede duracağı bilinmezken, tüm bu olayların geliştiği süreci tek başına yöneten siyasi iradenin, her olumsuz gelişmeden muhalefeti sorumlu tutarak yaşananlardan sıyrılmak istemesi ise, ülkemizin siyaseti adına son derece düşündürücüdür.<br />
+Kim aksini savunursa savunsun, Güneydoğu Bölgemizi de içerisine alan bir Kürt Devleti’nin kurulmasının son aşamasına gelinmiştir.<br />
+Önce, “Daha çok özgürlük- Daha çok demokrasi” iddiaları ile yapılan “Anayasa Referandumu” ile “Yargı, Basın ve Üniversiteler” susturularak yandaş haline getirildi. Cemaatte, yargı ve emniyette ki birçok sorunun aşılması aşamasında taşeron olarak kullanıldı.<br />
+Böylece siyasi iradenin, TBMM’ de ki sayısal üstünlüğünü de kullanarak her türlü kararı tek başına alarak uygulamasının yolu açıldı.<br />
+İşte bu nedenlerle, bugün iç ve dış siyasette yaşanan tüm sorunların ve yapılan yanlışların tek sorumlusu ülkeyi on iki yılı aşkın süredir bu anlayışla yöneten siyasi iktidarındır.<br />
+Sonuç olarak yaşanan süreci çok güzel anlatan bir tehdit ve bir köşe yazısında vurgulanan iddiayı paylaşarak yazımı tamamlamak istiyorum.<br />
+Tehdit söylemi, Kürt tarafının tek temsilcisi ve söz sahibi haline getirilen Öcalan’a ve O’nun destekçisi Kandil sözcülerine aittir. Bu söylem, “Çözüm sürecinin” gerçekleşebilmesi için siyasi irade ile anlaştıklarını söyledikleri her neyse, onların verdikleri tarihe kadar (Sanırım 15 Ekim) gerçekleşmemesi halinde Türkiye’yi ateş çemberine döndürecekleri tehdididir.<br />
+Her şeyi ve asıl amaçlarını açıkça anlatan bu tehdit, neden ve nasıl gereken cevabı bulmamıştır?<br />
+Diğer iddia ise, sanıyorum 1973 veya 1974 yıllarında o tarihlerin popüler dergisi AKİS’ de yayınlanan bir yazıda geçiyordu. Yazarı eski Amerika Milli Savunma Bakanlığı görevlilerinden olan istihbarat kökenli bir askerdi. O yazar özetle şunları yazıyordu; “Amerika artık sahip olduğu uzay teknolojinde ki üstünlüğü ile dünyanın hangi coğrafyasında hangi yer altı kaynağı var, bunu biliyor. Amerika’nın geleceğinde en çok ihtiyaç duyacağı petrol ise, Irak, İran, Türkiye ve Suriye topraklarında yer alıyor. Özellikle Irak, Suriye ve Türkiye topraklarında ki petrolü rahat kullanabilmesi için bölgede güçlü bir Türkiye, Amerika çıkarlarına aykırıdır. Bu nedenle önümüzde ki süreçte, Türkiye, Suriye ve Irak üçgeninde Amerika’nın güdümünde bir Kürt Devleti kurulması kaçınılmazdır.”<br />
+Sanıyorum bu yazı, 40 yıl öncesinden bugün bölgemizde oynanan oyunu çok güzel anlatıyor. Eğer bu gerçekleri bizim ülkemizin istihbarat örgütleri önceden öğrenememişlerse, bugün yaşadıklarımızı çok da yadırgamamak gerekir diye düşünüyorum.<br />
+Artık ülkemizin karşı karşıya kaldığı tehlikeli bir süreç başlamıştır. Bu süreci başından beri yöneten siyasi irade, bu sürecin sonuçlarının vebalini de üstlenmek zorundadır.<br />
+Umarım ülkemiz bu beladan çok daha büyük kayıplara uğramadan sıyrılır ve ülkemiz beklenmedik oldubittilerle karşı karşıya kalmaz.<br />
+Yeni olayların yaşanmayacağı bir hafta dileğiyle.. 13. 10. 2014</p>
+<p>Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0713-bir-valimizi-daha-yolcu-ediyoruz.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0715-uyusturulan-toplum-ve-cevap-bekleyen-sorular.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

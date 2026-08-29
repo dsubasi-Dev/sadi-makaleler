@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Kendi İnsanlarını Harcayan Kent Samsun.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Kendi İnsanlarını Harcayan Kent Samsun.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2009
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0406
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>KENDİ İNSANINI HARCAYAN KENT, SAMSUN.</p>
+<p>Geçtiğimiz hafta içersinde köşe yazılarında ve internet gazetelerinde yer alan mesajlarda hiç de hak etmediğim yargısız infaz ve acımasız suçlamalar yer aldı. Yüreğimi dağlayan bu yazılar nedeniyle, bugün köşemi bu yazıya ayırmak zorunda kaldığım için, okurlarımın hoşgörüsünü diliyorum.<br />
+İnanın, bu kentte neler oluyor artık bende anlayamıyorum. 40 yıldır bu kent için hiçbir şey talep etmeden doğru bildiklerimi yapıp, gücümün yettiği kadar maddi ve manevi hiçbir çabayı esirgemeyen bana, son bir hafta da reva görülen saldırıları gördükten sonra söyleyecek bir şey bulamıyorum.<br />
+Geçen hafta sonu yapılan Samsunspor Genel Kurulunda çok önemli şeyler söylendi. Salonda onlarca deneyimli gazeteci ve köşe yazarı vardı. Bu genel kurulda kürsüden söylenenleri sütunlarına taşıyan ve sorgulayan tek köşe yazısı göremedim. Ama genel Kurulun son anında, hiçbir ön görüşme yapılmadan benimle birlikte yönetim kuruluna yazılıp usule aykırı bir şekilde açık oylama ile seçilenlerin 8 tanesi yapılan saygısızlığa ve dayatmaya tepki gösterip istifa etti. Bu 8 kişiden sadece beni hedef tahtası yapıp saldıranları vicdanları ile baş başa bırakıyorum.<br />
+Neden? Diye kendi kendime soruyorum.<br />
+Tabii, sen Samsun’da yaşadığını unutup içki masalarında, kahve köşelerinde Samsunspor’u kurtarma söyleşileri ile rahatlayıp ucuz kahramanlık yapmak yerine, çıkarda Genel Kurul Kürsüsünden ciddi şeyler söylersen, bunları hak edersin.<br />
+Sana ne! İki yıl önce Samsunspor’u küme düşüren oyuncuların başında gelen Mehmet Polat’ı tüm uyarılara rağmen Samsunspor’a getirip borca borç katanlara soru sormak.<br />
+Sana ne! Son Genel Kurul öncesi Samsunspor Kulübü Başkanlığını almaya talip olan işadamının önünü kesen temlik sahiplerini gündeme taşımak?<br />
+Sana ve Başkanı olduğun SAM-SEV’E mi kaldı, Samsunspor Başkanı ve Yönetim Kurulu Üyelerini Protokol Tribününe almayan mağrur Fenerbahçe’ye özür diletmek?<br />
+400 altın adam cebimde deyip, “Altın Adam Kampanyası” başlatan vekiline kürsüden ilk desteği verip altın adam olan ilk altı kişiden birisi olursan, SAM-SEV Yönetim Kurulu Üyelerine kendi ceplerinden para koydurup SAM-SEV’İ ve üyelerini teşvik edip 10–15 SAM-SEV üyesini altın adam yaptırırsan, sana hesap sorarlar.<br />
+Gelir sağlamak için taş ocaklarını Samsunspor’a vermek üzere formül arayan Valimizi, ”suç işlemekle suçlayan gazeteci başka hangi kentte var?” Diye sorarsan, onların değil senin Samsunluğunu tartışmaya açarlar.<br />
+Hızlarını alamazlar, senin üzerinden SAM-SEV’İ de linç ederler. Bugüne kadar binin üzerinde ekonomik durumu iyi olmayan öğrenciyi karşılıksız burs vererek topluma kazandıran SAM-SEV’E ne yapmış ki? Diye sorarlar.<br />
+Tek tanıtım ürünü olmayan Ondokuzmayıs Kenti Samsun’un bu ayıbını, piyasaya sürdüğü Samsun’un simgesi Atatürk Anıtı ve Bandırma Vapuru maket ve anahtarlıkları ile bir nebze olsun giderdiği için yargılarlar.<br />
+Samsun’u teşvik dışı bırakanları alkışlayanları görmezden gelenler, kahve köşelerinde kahrolan işsiz gençlerimiz adına “Teşvik İhanetine” isyan bayrağını açan SAM-SEV’İ ne yapmış? Diye suçlarlar.<br />
+Bunları söylemek zorunda bırakılmak gerçekten üzüntü veriyor. Birçok dostumun ne gerek vardı? Bilen biliyor diyeceğini de biliyorum. Keşke birileri bunları söyleseydi de bana gerek kalmasaydı.<br />
+Yağmur çamur demeden tribünleri dolduran ve Samsunspor’un sahipsiz kalmasına isyan eden taraftarlarımızın internet gazetelerinde benim için sarf ettikleri ağır sözleri dahi bir yere kadar hoş görü ile karşılarım, ama Samsunluluğumu tartışma hakkını kimseye vermem. Keşke benimle konuşsalardı, istifa dilekçemi iyi okusalardı ve geçici dönem için önerimi de değerlendirselerdi.<br />
+Yazdıkları köşelerinde, bu işin önünü arkasını benim ile görüşüp anlamadan eleştiri sınırlarını aşarak, kalemlerini acımasızca kullanıp hançere çevirenleri, vicdanları ile baş başa bırakıyorum.<br />
+İnternet gazetesinde yapılan yargısız infazlara isyan ederek moral desteği veren Yener Cabbar ve Erdinç Şenel’e teşekkürlerimi sunuyorum.<br />
+Samsunspor’un ciddi sıkıntılar yaşadığı bir dönemde bu kısır tartışmaların yapılması ve konuşan az sayıda ki insanın da susturulmaya çalışılması Samsunspor’un yararına değildir.<br />
+Gönül isterdi ki, geçmiş dönem Denetleme Kurulu Başkanı AV. ATA GİRİTLİ’NİN kürsüden gündeme getirdiği, rakamlarla oynanarak yapılan ciddi suiistimal iddiaları tartışılabilseydi. Benim söylediğim temlik konusu sorgulanabilseydi. Samsunspor’u yönetmeye talip olan işadamının önünün neden ve nasıl kesildiği tartışılabilseydi.<br />
+Artık herkesin şunu çok iyi bilmesi ve görmesi gerekir. Bu takım geçici önlemlerle ayakta duramaz. Kulübe Trabzonspor örneğinde olduğu gibi kalıcı gelir kaynakları sağlanmazsa yönetime kim gelirse gelsin işimiz zor.<br />
+Genel Kurulda da söylediğim gibi uçurumun kenarındayız. Spora siyaseti sokup takımın küme düşmesine neden olanlar, tüm uyarılara rağmen yanlış transfer hovardalığı ile borçlara borç katanlar, birileri ile hesaplaşmak adına kulübü vergi denetçilerinin kucağına atıp kulübün borcunu ikiye katlayanları sorgulamaktan kaçmayı sürdürerek bir yere varamayız.<br />
+Gerekirse, artık sıkça gündeme gelen “KAYYUM’U” dahi tartışmamız gerekir diye düşünüyorum. Ölümden ötesi var mı? Ancak her şeyin eğrisi doğrusu o zaman anlaşılır. Sadece bazı Samsunspor sevdalılarının geçmişte yönetimlerde yer aldığı ve banka kredilerine imza attığı için canı yanacak diye korkarım.<br />
+Son dönem de görevde olan Sayın Fuat Köktaş Başkanlığında ki Yönetim Kurulunu kutluyorum. Bu kent, bu yönetime dahi sahip çıkamadı. İlk kez bir kulüp başkanı eyyamcılık yapmadan, dobra dobra her şeyi açıkça haykırdı.<br />
+Konuşmasında çok tartışılan bir konuya cesaretle açıklık getirdi. Samsunspor’a destek vermemenin gerekçesi olarak gündeme getirilen A-Takımı Operasyonu için de, “Samsunspor bu davanın ne başında, ne sonunda ne de içinde, hiçbir yerinde yoktur” Dedi.<br />
+Başkanlığı sırasında kulübe verdiği paraları da bağış makbuzu ile verdiğini ve bir kuruşunu dahi istemeyeceğini söyledi.  Sayın KÖKTAŞ’I bu dik duruşu ve cesur tavrından ötürü kutluyorum.<br />
+Son söz olarak şunu bir kez daha vurgulamak istiyorum. Bu kent artık bu kente gönül veren az sayıda ki insanını kökenine bakarak yargılamasın. Asıl sorgulanması gerekenlerin, doğum yeri Samsun dahi olsa, Samsun için tek bir iş yapmayanların ve seçim zamanları “Samsunluluğu” aklına gelenlerin olduğunu sanıyorum.<br />
+Ben bu kente yıllar önce gelin gelen ve eşini kaybettiğinde, Samsun’la hiçbir organik bağı kalmamasına ve çocukları da Samsun dışında yaşıyor olmasına rağmen tüm çağrıları ret ederek, “Ben artık Samsunluyum, benim dostlarım burada” diyerek Samsun’da yaşamayı sürdürenlerin Samsunluluğunu çok daha fazla önemsiyorum.<br />
+Trabzon ile hiçbir köken ilişkim olmamasına rağmen, Samsunu öylesine benimsemiş ve tüm Samsunspor maçlarına gelip ve ben Samsunsporluyum diyebilen öylesine Trabzonlu dostlarım var ki, bu insanları bu tür tartışmalarla üzmeye hakkımız olmamalı diye düşünüyorum.<br />
+Doğum yeri neresi olursa olsun, Samsunluyum diyebilen, bu kent için çaba harcayan, en azından Samsun düşmanlığı yapmayan herkes Samsunludur. Bunun tartışılacak bir tarafı da olamaz, olmamalıdır.</p>
+<p>ADAM GİBİ BÜROKRAT MUZAFFER ÇELİK’İ KAYBETTİK.</p>
+<p>Samsun’a atandığı günden beri düzgün bir insan ve bürokrat olarak tanıdığım Muzaffer Çelik’i çok genç yaşta kaybettik. Adamı sırf kendi görüşlerini benimsemediği ve kadrolaşma amaçlarını yerine getirmediği için yanılmıyorsam beş bu kentten uzaklaştırdılar. Hiçbir suçu olmadığı için de her defasında yargı yolu ile görevine döndü. Ama yapılan baskılar bir türlü bitmedi. Sonunda çektirilen eziyete kalbi 53 yaşında pes etti.<br />
+Bu tayinleri düzenleyen çok değerli siyasetçilerimizin gözü aydın. Onların beceremediklerini Azrail becerdi ve önlerini açtı.<br />
+Cenaze töreni ise tam bir ibretlikti. Bu bürokrat geçtiğimiz yaz aylarında emekli olan eşine bir “YUVA” açtı. Bir insanın en mutlu gününde orada olamayan (bir iki bürokrat dışında) mesai arkadaşları bürokratların ve amiri konumunda ki kent yöneticilerinin cenaze törenine katılımları ve tavırları nasıl bir toplumda yaşadığımızın en yalın göstergesiydi.<br />
+Bir iktidar yanlısının açtığı işyerinin çapı ne olursa olsun, tüm siyasilerin ve il yöneticilerinin saf tuttuğunu hatırlayınca insanın içi burkuluyor.<br />
+Bu ülkeyi böylesine bölük pörçük hale getiren siyasi anlayışa yazıklar olsun.<br />
+Haftaya Pazar günü çok önemli yerel seçim var. Tüm samsunluların vatandaşlık görevi olan oylarını kullanmalarını diliyor ve seçim sonuçlarının Samsunumuz ve Ülkemiz için hayırlı olmasını diliyorum.<br />
+İyi haftalar. 22 Mart 2009<br />
+SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0405-samsun-kotu-gidisini-nasil-durdurabilir-3-bolum.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0407-i-ki-sorun-ve-samsun-un-sahipsizlik-gercegi.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

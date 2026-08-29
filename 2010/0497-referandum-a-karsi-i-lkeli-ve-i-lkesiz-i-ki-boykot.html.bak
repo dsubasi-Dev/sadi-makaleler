@@ -1,0 +1,378 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Referandum&#x27;a Karşı İlkeli ve İlkesiz İki Boykot</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Referandum&#x27;a Karşı İlkeli ve İlkesiz İki Boykot
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2010
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0497
+
+</div>
+
+
+<div class="article-content">
+
+<p>e-posta, sadisubasi@denizeczaneoptik. com                                      SUNUŞ</p>
+<p>REFARANDUM’A KARŞI İLKELİ VE İLKESİZ İKİ BOYKOT</p>
+<p>Yaklaşan Referandum sürecinde son haftaya girilirken hemen her şey birbirine girmiş durumda. Zamanlaması ve içeriği ile aldığı tepkiler bir yana, geniş bir uzlaşı ortamı sağlanmadan halkın onayına sunulan bir “Anayasa Değişikliği Referandumu” ile karşı karşıyayız.<br />
+Toplumun tüm kesimlerini yakından ilgilendiren bu değişikliklerin iyi anlatılamadığı veya anlatılmadığı da bir gerçek.<br />
+Üzülerek söylemek gerekirse, iktidar partisi tamamen kendi isteklerini gerçekleştirecek bir değişiklik paketini önce TBMM’de ki sayısal üstünlüğünü kullanarak TBMM’den geçirmiş, sonra da toplumsal hiçbir uzlaşıya gerek duymayan bir dayatmayla Referandum’a sunmuş bulunuyor.<br />
+İşte bu ortam da, Referandum asıl amacından uzaklaşarak iktidar ve muhalefet tarafından bir seçim havasına sokulmuş ve toplumda ciddi bir kamplaşma yaratılmış bulunuyor.<br />
+Muhalefet sürekli olarak bazı endişeleri dile getirirken, iktidar sözcüleri içeriğini anlatmaya gerek duymadan, geçmişte yaşanmış dramatik olayları gündeme taşıyarak evet oylarını artırmayı düşünüyor.<br />
+TV mikrofonlarına konuşanların büyük bir kısmı, referandum’da oylanacak değişiklik metninin neler olduğunu bilmediğini söylüyor.<br />
+Buna rağmen içeriğini bilmediği Referandum’da “Evet veya Hayır” oyu kullanacağını da söyleyebiliyor.<br />
+Böylesine bilinmezlerin ve dayatmaların cirit attığı bir Referandum’dan çıkacak sonucun, topluma nasıl yararlı olacağı da ayrı bir bilmece.<br />
+Neden “Evet veya Hayır “ Diyeceğini bilmediğini söyleyenler dahi, neticede sandığa gidecek ve geleceğini kendisi belirleyecek, en azından bu sorumluluğu taşıyarak vatandaşlık görevlerini yerine getireceklerdir.<br />
+Ya sandığa gitmeyecekler?<br />
+Peki, kim bunlar?<br />
+Bunlar, Türk demokrasi tarihine “Referandum Boykotçusu” olarak geçecek olanlardır.<br />
+“EVET” ve “HAYIR’CILARIN” dışında ki bu “BOYKOTÇU GRUP“ ikiye ayrılıyor ki, bence Referandum’un da sonucunu bu gruplar belirleyecek gibi gözüküyor.<br />
+Bu iki gruptan ilkini, Kürt kökenli vatandaşlarımızın bir bölümü oluşturuyor. Bu grup, biraz da PKK ve onların legal kuruluşu BDP’nin yönlendirmesi ile Referandum’u bir pazarlık konusu haline getirmiş ve boykot kararı almıştır.<br />
+Son zamanlarda artık açık açık seslendirmekten çekinmedikleri “ÖZERKLİK VERİLMESİ ve KÜRTÇE’NİN RESMİ DİL” yapılması taleplerinin karşılığında “EVET” verebileceklerini, aksi halde BOYKOT kararlarını sürdüreceklerini söylüyorlar.<br />
+Bir şantaj anlamına gelse de, temelinde hiçbir haklılık payı bulunmasa da, sonuçta kendilerine göre bir nedenleri var.<br />
+Yıllardır sürdürdükleri terörist eylemleri artık siyasi alana da taşıyarak sergiledikleri ve arkasında durdukları, hatta Türkiye Cumhuriyeti Hükümeti ile pazarlık yapma cesaretini bulabilecekleri bir ilkeleri var.<br />
+İkinci BOYKOTÇU GRUP ise, “zevk ve keyfi” Referandum’a tercih etmiş olan, “GEZGİNLERDİR.”<br />
+Bu grup, Referandum’da oy kullanmak yerine, 3-5 günlük bayram tatilini yurt dışında veya Türkiye’de ki tatil beldelerinde geçireceklerdir.<br />
+Bu konularda son bir ay içersinde 4 köşe yazısı yazarak kendi adıma referandum sürecine katkıda bulunmaya çalıştım.<br />
+O nedenle de, başkaca bir yorum yapmak yerine bu yazılarımın başlıklarını hatırlatarak ve Referandum ile ilgili sorunları gündeme taşıyan yaygın basın ile yerel basında ki bazı köşe yazarlarının yazılarından alıntılar yaparak, yazımı noktalamak istiyorum.<br />
+İşte son haftalarda yazdığım köşe yazılarının bazılarının başlıkları;<br />
+“Aydınların yarın eyvah! Yanıldım deme hakkı olamaz”…<br />
+“Bu ülkenin bölünme korkusu yaşamasının sorumlusu siyasetçilerdir”.<br />
+“Referandum’da oy kullanmanın sorumluluğu”<br />
+“Devlet nedir? Neden ve nasıl çökertilir?..<br />
+“Referandum toplumda onarılmaz kamplaşmalara yol açıyor.”<br />
+Ve yaygın medyanın köşe yazarlarından ilk alıntı, GÜNGÖR MENGİ’NİN “Kazanmak İçin” Başlıklı köşe yazısından.<br />
+Bakın neler söylüyor Sayın Mengi;<br />
+…… Yapılan araştırmaların ortaya koyduğu acı bir gerçek var; seçmenlerin yüzde 28’i ne için oy kullanacaklarını hâlâ bilmiyor.   Anahtar kararsızlarda…   ……Sandığa iki hafta bile kalmadı; böyle bir aşamada yüzde 11’e varan bir kararsız kitle var.    ……Demokrasiye ve cumhuriyete bağlı hiçbir vatandaşın sandığa gitmemek gibi bir lüksü yoktur.<br />
+…... Çocuklarını özgürlüğü ve adaleti olmayan bir ülkede yaşatmanın günahına batmaktan korkan herkes, dünyanın öteki ucunda bile olsa o gün Türkiye’ye gelmeli ve oyunu kullanmalıdır.<br />
+……. Saddam’ın Irak’ına benzer bir zulüm rejiminin oluşması tehlikesine kim bile bile katkıda bulunmak ister?<br />
+..……. Bir taraf mezardaki ölülerini bile kaldırırken, Atatürk’ün Cumhuriyeti emanet ettiği yığınlar, “Yaşayan ölüler” konumuna sürüklenecektir.  ....…. Demokrasiye gerçekten bağlı olanların borcu, sandığa gitmek ve mümkünse kararsızları da gitmeye ikna etmektir.<br />
+……. Demokrasi yaşarsa bir referandum daha yapar, gerekirse bugün Hayır dediğimize yarın Evet diyebiliriz.<br />
+Ama tersi olursa, bir daha böyle bir şansı kullanıp kullanamayacağımızı bilemeyiz.<br />
+Ve Sayın MUSTAFA MUTLU’DAN bir alıntı;<br />
+Sahil şeridinde ki otellerde yer kalmamasından belli ki, milyonlarca kişi 12 Eylül de yapılacak Referandum’da oy kullanmaktan vazgeçmiş durumda.<br />
+Sözüm onlara:<br />
+Türkiye Cumhuriyeti, 12 Eylül’de belki de tarihin en önemli “halk oylamasını” gerçekleştirecek...<br />
+Eğer bu ülkenin geleceği sizi gerçekten ilgilendiriyorsa…<br />
+Her fırsatta ülkede olup bitenlerden yakınıyorsanız…<br />
+Endişeleriniz varsa…<br />
+Ve sürece müdahil olmak istiyorsanız…<br />
+Alın size fırsat!<br />
+Tatilinizi iki gün eksik yapın ve oyunuzu kullanın…<br />
+Yok, “Tatilimden vazgeçemem, oturma organımı şezlongumdan kaldıramam” diyorsanız, unutmayınız ki, yakınmak için hakkınız kalmaz.<br />
+Unutmayınız ki, hiç kimse sizin babanızın uşağı değil…<br />
+Onlar özveride bulunup tatillerini kesecekler, siz keyif çatacaksınız…<br />
+Ve bir de…<br />
+Kaygılarını gidermek için harekete geçmeyen insana…<br />
+İnsan denemez…<br />
+Sayın Reha Muhtar ise köşesinde,<br />
+Kamuoyu yoklaması yapan bir firmanın açıklamasına şu sözlerle cevap veriyor. İlgili anket firmasının yetkilisinin, “Referandum’un sonucunu yüzde “10 oranındaki kararsızlar belirleyecek” sözlerine, hayır ”kararsızlar” değil, “Hayırsızlar” belirleyecek diyerek farklı bir yorum getiriyor.<br />
+Son alıntı da deneyimli yerel gazeteci ve köşe yazarı Sayın HAYATİ KAYNAR’DAN;<br />
+Otuz yıldır bu ülkede darbe olmadı…<br />
+Darbe’ciler oldu!...<br />
+Söylentisi oldu!...<br />
+Özellikle AKP İktidarından sonra;<br />
+Sonucunda da;<br />
+“Suç” gerçekleşmeden, “Suç’lular” Ergenekon adı altında yargı sürecine alındı.<br />
+Ama darbe olmadı!... “Suç” gerçekleşmeden, “Suçlu” yakalandı!...<br />
+….. Hükümet, “Darbe Anayasası’na” Karşı alternatif yeni bir paketle “Referandum’un” yolunu tuttu.<br />
+Bir kısım aydının, “EVET” Çıkması halinde Türkiye’nin birazcık daha demokratikleşeceğini,<br />
+Ülkemin insanına azıcık daha “İnsan” gözüyle bakılacağını söylüyor…<br />
+Ancak hepsinden önemlisi, “Darbe” ve “Darbeci” kelimesinin Türk lügatinden kaldırılacak olması…<br />
+Ülkeyi askeri otoritenin gölgesinden çıkartıp, sivillere teslim etmek!.<br />
+İşte;<br />
+Referandum ile demokrasinin gelişi böyle bir şey!..<br />
+Bu aziz milletin,<br />
+Köylüsüne,<br />
+İşçisine,<br />
+Memuruna,<br />
+Emeklisine ne kadar “Demokrasi” düşer, ben onu bilmiyorum.<br />
+Bilenler yok mu?..<br />
+Elbette, VAR!...<br />
+Mesela Karadeniz’de ki ”Demokrasi neferi” 300 hukukçu bunu biliyor…<br />
+Hukukçular Vakfı’da biliyor…<br />
+Peki;<br />
+Bu demokrasi neferleri” Hukukçu ağabeylerim, ablalarım;<br />
+“Bu ülkede hukuk yok mu?” Diye bağıran,<br />
+Suçu ispatlanamadığı halde süründürülen,<br />
+“Darbeci” yakıştırması ile hayatları söndürülen insanlar için;<br />
+Neden?  Karadeniz’e geldikleri otobüsleri ile Ergenekon’un kapısına dayanmadılar!..<br />
+Neden?..<br />
+O insanlar için;  Kendi söylemleri ile birazcık “Demokrasi ve birazcık “Hukuk” istemediler?..<br />
+Yazılı basında ki yansımaların bazıları bunlar.<br />
+Evet, sonunda referandum kapıya dayandı. Birçok sorunun boşlukta kaldığı bir konuda hafta sonu Referandum sandığına gidiyoruz.<br />
+Umarım, korkanların korkuları doğru çıkmaz ve bu endişeyi taşıyanlar yanılır.<br />
+Referandum’un Ülkemiz için hayırlı sonuçlar vermesi dileğiyle, iyi haftalar.                             05 Eylül 2010<br />
+SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0496-kpss-sinavinda-yasananlar-ve-atama-nedeniyle-parcalanan-aileleri-sorunu.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0498-referandum-sonrasi-beklenen-muhtemel-gelismeler-ve-artik-oh-be-diyebilecek-miyiz.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Samsun Geçmişini Yaşadı</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Samsun Geçmişini Yaşadı
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2006
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0218
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>SAMSUN’UN GEÇMİŞİNİ YENİDEN YAŞADI..</p>
+<p>Cuma akşamı Atatürk Kültür Merkezine gelenler inanıyorum ki unutulmaz bir gece yaşadılar. Samsun’da bulunan 4 Rotary Kulübü (Samsun, Atakum, Karadeniz ve İlkadım ) , gelirini Göğüs Hastalıkları ve Cerrahisi Hastanesinde düzenledikleri 8 adet hasta odasında kullanmak üzere ortak bir proje ile geçmişin anılarını yeniden yaşamak ve yaşatmak amacı ile bir ‘’Nostalji Gecesi ‘’ düzenledi. Özellikle yaşı 50 nin üzerinde olanların çocukluk günlerini yeniden yaşama ve gençlerin de kitaplarda okudukları ve çoğu kez abartılı buldukları , anlatılan o eski Samsun’u gerçek yüzü ile tanıma fırsatı buldular.<br />
+‘’Kendilerinden önce topluma hizmet’’ amacı ile kurulmuş bulunan Rotary Kulüpleri bir kez daha güzel bir olay gerçekleştirdi. Gece, AKM ‘nin fuayesinde eski günleri yaşatan görüntü ve sunumlarla başladı. Artık unutulan gramafonda dönen taş plaklardan gelen eski şarkıların melodileri eşliğinde, eski dönemlerin yiyecekleri, kullanılan eşyaları, mankenlere giydirilmiş eski Samsun giysileri, masalara serpiştirilmiş o dönemlere ait dergiler ve gazeteler, antikacı reyonunda eski Samsun takıları, eskinin şam tatlısı, gençlerin çektirdiği şans- kader , bir köşede ayakkabı boyayan yaşayan en eski boyacısı  ilgiyle izlendi. Daha sonra salonda eski, hatta çok eski Samsun’dan çoğu bugüne kadar görülmemiş resimlerin ve görüntülerin yer aldığı bir sinevizyon sunumu vardı. O yılları yaşayan Ankara Olgunlaşma Enstitüsü öğretim üyesi hemşehrimiz Füsun Hazneci’nin harika anlatımı ile seyredilen görüntüler, bizlere 1950 li,1960 lı yılları yeniden yaşattı.  Bence görüntülerde yaşanan en büyük gerçek , o günleri yaşayamayanların  bir türlü inanamadıkları çağdaş kent görüntüleriydi. Gerek öğrenci, gerekse yetişkin insanların o yıllarda ki giyim ve kıyafetlerinin çağdaş şekli bu günkü anlayışımızın ne kadar yozlaştığının en çarpıcı örneğiydi. Hemen her ev de bulunan büyüklerimizle çekilmiş aile fotoğraflarından verilen örnekler, nerelerden nerelere geldiğimizi çok güzel anlatıyordu. Erkeklerin hemen hepsinin fotör şapkalı ve bayanların da modern döpiyesli çağdaş kıyafetleri ilgi ile izlendi.<br />
+Eski Samsun mimarisinin en güzel evlerini seyrederken , ah bunlar keşke korunabilseydi diye düşünmemek elde değildi. Eğer bunlar korunabilseydi, inanıyorum ki Samsun bugün bir açık müze konumun da olurdu. Herkesin içini sızlatan dünkü Samsun’dan, bugünkü çarpık kentleşme örneği  Samsun’a gelişimizin belki de en güzel açıklaması sunucunun ‘’bu,  ne yazık ki geçmişte bu kenti uzun süre yöneten yöneticilerin sorumsuzluğudur ‘’sözleriydi. Anılarda da olsa o günleri yeniden yaşamak unutulmaz bir duygu seli oluşturdu.<br />
+Daha sonra Ankara Olgunlaşma Enstitüsü’nün hazırlayıp sunduğu muhteşem bir defile izlendi. Çoğu kez yurt dışında sunulan  ve ‘’ Fatih Sultan Mehmet ‘’  adına hazırlanmış eski Türk motiflerinin en seçkin ve en görkemli modellerinden oluşan defile soluksuz izlendi. Defilenin son bölümünde çağdaş giysilerden oluşan defile, bir mankenin kelebek gibi açılan pelerininde ki ‘’Atam sen bizim her şeyimizsin’’ yazısının yarattığı coşku ve hep birlikte söylenen 10. yıl marşı ile tamamlandı.<br />
+Gecenin son bölümünde ise yılların eskitemediği 1960 lı yılların popüler TSM  sanatçısı Gönül Yazar vardı. Kendine özgü esprileriyle süslediği geçmişin en sevilen şarkılarına bütün salon eşlik etti.<br />
+Böylesine güzel bir olayın yaşatılmasına en büyük pay Samsunlu dostumuz Füsun Hazneci’nin  bu defilenin getirilmesindeki desteğiydi. Programın sonunda kendisini kutlarken, bana söyledikleri gerçek Samsunlunun nasıl olması gerektiğinin bir göstergesiydi. ‘’Samsun’a bir Atatürk defilesi çok yakışır ‘’sözleriyle başlayan diyaloğun sonu, benim kendisinden bu sunumu 19 mayıs’ta Samsun’da yapmamızın sağlanması sözünü alışım ile noktalandı.<br />
+Geceyi yaşayamayanların çok şey kaybettiği bu muhteşem geceyi hazırlayan ve bu konuda emeği geçen tüm dostlarıma kucak dolusu teşekkürler. AKM ‘nin tahsisindeki destekleri için  Vali Vekilimiz Sayın Raif Özener’e şükranlarımızı sunuyorum. Tüm olumsuzluklara rağmen salonun ısıtılması için gösterdiği çaba için AKM sorumlusu Sayın Ömer Pamuk da teşekkürden pay alanlardandı.  Bu sunumun başarı ile geçmesine büyük destek veren, Klas TV genel yayın yönetmeni sayın Kenan Engizli, sanıyorum ki bu sunumu TV de yayınlayarak izleyemeyen Samsunlulara da bu unutulmaz görüntüleri yaşatacaktır. Ayrıca ‘’anılarda ki Samsun’’ sunumunun SAM-SEV ‘in veb sayfasında da yayınlanması için hazırlıkları başlattığımızı duyurmak istiyorum.<br />
+Bir dip not olarak da , AKM’nin  İlkadım Belediye Başkanlığına devredildiğini duyurmak istiyorum. Başkan Sayın Erdoğan Tok’un ilk mesajı olan salonu Samsunlulara yakışır hale getireceğiydi. Umuyorum başta ısıtma ve asansör ve personel sorunu olmak üzere eksiklerinin giderilmesi Samsunluların en büyük beklentisidir. Samsun için vazgeçilmez olan AKM’nin kültürel alanda daha iyi şartlarda hizmet vereceği umuduyla kararın Samsun için hayırlı olmasını diliyorum. Sayın TOK’a da umut verici açıklaması için teşekkür ediyorum.<br />
+İyi haftalar.. 26-ŞUBAT-2006</p>
+<p>SADİ  SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0217-yozlasan-toplum-manzaralari.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0219-mobil-santralin-sonu-ve-stk-larin-zaferi.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

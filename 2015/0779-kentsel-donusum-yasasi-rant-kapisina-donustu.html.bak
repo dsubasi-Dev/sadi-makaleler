@@ -1,0 +1,309 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Kentsel Dönüşüm Yasası Rant Kapısına Dönüştü</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Kentsel Dönüşüm Yasası Rant Kapısına Dönüştü
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2015
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0779
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>KENTSEL DÖNÜŞÜM YASASI RANT ARACINA DÖNÜŞTÜ.<br />
+Bilindiği gibi 17 Ağustos 1999 da Sakarya ve Gölcük’te yaşanan büyük deprem felaketinin yaraları henüz sarılmadan, bu kez üç ay kadar sonra Düzce merkezli yaşanan iki büyük depremde çok büyük can kaybı yaşanmıştı.<br />
+Bu depremin ülkemizde yarattığı korku ve panik devam ederken, İstanbul merkezli çok büyük bir depremin beklendiği haberleri bir anda, riskli binaların iyileştirilmesi, mümkün olmayanlarında yıkılmasını gündeme getirdi.<br />
+Bu kararın alınması sonrası binasını riskli görenler biraz da panik halinde, ne kadar yararlı olacağı dahi tartışmalı olan güçlendirme işlemi yaptırmak için bu işi yapan firmaların kapısını çalıyordu.<br />
+Bu güçlendirme furyası,16.05.2012 de çıkartılan 6306 Sayılı “Afet Riski Altında ki Alanların Dönüştürülmesi” İsimli yasanın çıkartılması ile hızını kesti.<br />
+Bu yasanın en önemli vurgusu, “Riskli yapıların tespiti, Çevre ve Şehircilik Bakanlığı tarafından hazırlanacak yönetmelikte belirlenen çerçevede, öncelikle yapı malikleri veya kanuni temsilcilerince, masrafları kendilerine ait olmak üzere bakanlıkça lisanslandırılan kurum ve kuruluşlara yaptırılacaktır” Şeklinde ki maddesiydi.<br />
+Üzülerek söylemek gerekirse, yasanın bu maddesin de belirtilen binaların riskli olduğuna dair kararları vermeye yetkili kılınan  “Yapı Denetim Firmalarının “ Kurulması sonrası, bunlardan bazıları bu yasanın ranta dönüştürülmesinin aracı haline geldi.<br />
+Bu kanımı doğrulayan en büyük gösterge, gerçekten afet riski altında olan bölgelerde ki binalardan önce, kent merkezlerinde getirisi yüksek olan eski binaların, bu yasaya dayanarak bir oldubittiyle yıkılarak aynı yerlere getirisi yükseltilmiş yeni binaların yapılmasıdır.<br />
+Bu tür getirim amaçlı uygulamalar, böyle bir yasanın çıkartılmasının amacına da aykırıdır. Çünkü bu yasa, 1999 da yaşanan büyük deprem felaketi ve olası İstanbul depremi öncesi, toplum ve kamu çıkarlarını korumak amacıyla, riskli alanların dönüştürülmesi ve riskli binaların belirlenerek yıkılması için çıkartılmıştı.<br />
+Bu uygulamanın düşündürücü yanı, riskli alanlarda ki insanlarımızı korumak amacıyla çıkartılan bir yasanın, nasıl olurda böyle amacı dışında kullanılmasına göz yumulur? Anlamak mümkün değildir.<br />
+Olası İstanbul Depreminde büyük can ve mal kayıplarının kaçınılmaz olduğu söylenen semtler dururken, haklarını savunacak gücü dahi olmayan yoksul vatandaşların sahip oldukları Sulukule gibi getirisi yüksek olan semtlerdeki binaları riskli gösterip, sahipleri sağa sola dağıtıldıktan sonra yıkılarak yerlerine çok katlı rezidanslar yapmak, bu yasaya ve hangi vicdan ölçüsüne sığar? Bilemiyorum.<br />
+Aynı çerçeve de kendi kentimiz Samsun’a baktığımızda da benzer garip işleri görmek mümkündür. Samsun’un heyelan riski bulunan ve olası bir deprem de büyük bir felaketin kaçınılmaz olduğu belirtilen Fatih Mahallesi ve Barış Bulvarı Çevresinde ki yapılar dururken, getirisi büyük olan Lise Caddesi ve İstiklal Caddesinde ki 56’lar bölgesinde ki binaların riskli ilan edilerek yıkılmasıyla, yerlerine yeni binaların yapılması nasıl açıklanabilir?<br />
+Ekonomik değerini yitirmiş eski binaların, sahipleri tarafından yıkılarak yenilerinin yapılmak ekonomik açıdan doğru bir karardır. Ancak bu binaların yerine yenisini yapabilmek için bina sahiplerinin kat artırımı istekleri kesinlikle kabul görmezken, nasıl oluyorsa riskli bina kararı aldırarak yıkan müteahhitler, binanın getirisini yükseltecek değişimleri yaptırabiliyorlar.<br />
+Nitekim bu yasanın bir maddesine dayanarak, getirisi yüksek eski bir binayı gözüne kestiren bir müteahhidin, o binadan bir daireyi satın alması sonrasın da, kat sahibi olarak riskli bina başvurusu yapmasıyla, o binada oturan kat sahiplerinin bir anda bir yıkım kararı ile karşı karşıya bırakılması, kabul edilebilecek bir iş midir?<br />
+Bu konuda bir başka çarpıcı örnek de, Mecidiye Caddesinde Konak Sineması’nın da bulunduğu SGK’ a ait İŞKUR Han’dır. Bu İşhanı, 8-10 ay önce satılmış ve satış sırasında da yeni yapılan binaları bitene kadar ( Üç yıl) SGK’nın binada oturmayı sürdüreceği satış senedine ve tapuya şerh olarak konmuştur.<br />
+Binayı satın alan firmanın, bu binayı yıkarak yeni bir bina yapması nasıl en doğal hakkıysa, buna karşılık satış senedine koyduğu süreyi beklememek ve binada ki 50 civarında ki işyerini tahliye etmekle uğraşmamak için kentsel dönüşüm yasasının ile ilgili maddesini devreye sokarak bina için riskli bina ve yıkım kararı aldırması, bir o kadar yanlıştır.<br />
+Nitekim ilgili firma, bağlantılı olduğu Yapı Denetim Firması’ndan “Riskli Bina” Raporu çıkartarak, yapılırken görenlerin Samsun’da yıkılacak en son bina dedikleri SGK Binasının yıkım kararı çıkartılmıştır.<br />
+Depreme dayanıksız binaların yıkılabilmesi ve riskli alanların dönüştürülmesine yönelik çıkartılan bir yasanın böylesine çıkar sağlamaya yönelik kullanılması, ülkemizde yasaların dahi nasıl kötüye kullanılabildiğinin sadece bir örneğidir.<br />
+Olası bir depremde doğacak kayıpları önlemek için çıkartılmış bu yasanın, özellikle haklarını savunamayacak yoksul insanların ellerinde ki tek varlıkları olan evlerini alarak, o bölgelerden büyük bir çıkar sağlayan bu tür fırsatçılara dur diyecek şekilde, yeniden düzenlemesi zorunlu hale gelmiştir.<br />
+Aksi halde, getirisi yüksek bölgelerde oturan insanların, bir gün yıkım kararı ile karşı karşıya kalması kaçınılmazdır.<br />
+Güzel ve sorunsuz bir hafta diliyorum. 29.11.2015<br />
+Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0778-cocuklarimizin-ve-torunlarimizin-gelecegi-yok-ediliyor.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0780-rusya-ile-yasanan-ucak-krizi-ve-ab-nin-rusveti.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

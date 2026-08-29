@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Siyasetin Tükendiği An…</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Siyasetin Tükendiği An…
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2006
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0250
+
+</div>
+
+
+<div class="article-content">
+
+<p>SİYASETİ TÜKENDİĞİ AN..</p>
+<p>SAMSUN Türkiye medyasında olumsuz haberlerle yer almaya devam ediyor. Bunların bir kısmı polisiye olaylar. Hemen il de olabilecek sıradan olaylar nasıl oluyor bilmiyorum, İstanbul medyasına anında servis ediliyor. Bu haberleri yaygın medyadan izleyenler de Samsun ne biçim kent! diye düşünüyorlardır. Hadi polisiye olaylar neyse de, Samsun’un imajını sarsacak şansız olaylar da zaman, zaman gündeme oturuyor. Daha 19 Mayıs Üniversitesi Samsun Milletvekili tarafından açtırılan meclis araştırmasının etkisi geçmeden, bu kez de iki Samsun milletvekilinin karşılıklı suçlamaları gündeme geldi. Bunun ardından, muhalefet partisinin grup başkan vekili olarak görevini yapan CHP Samsun milletvekili Sayın Prof. Dr. Haluk Koç’a, iktidar partisi AKP ‘nin  genel başkan yardımcısı Mir Mehmet Fırat Dengi’nin , densiz ! sataşmaları kamuoyunu meşgul etmeye başladı.<br />
+Bu kentin yetiştirdiği  kendi branşında en kıymetli bilim adamı olan ve Samsun’u da mecliste çok güzel temsil ettiğine partili partisiz herkesin hem fikir olduğu Sayın Koç’a sahip çıkmak, tüm Samsunluların görevi olmalıdır diye düşünüyorum. Sayın Koç partisinin en önemli sorumluluklarından birisini alan ve grup başkan vekili olarak partisinin iktidarı denetlemek gibi asli görevini çok güzel yapan bir milletvekilidir. Siyasi geçmişinin çok eskilere dayanmamasına rağmen, neredeyse partisinin konuşan tek sözcüsü haline gelmiştir. Hemen her konuya olan yaklaşımı ve bilgi birikimi ile kendisini siyasette de çok iyi yetiştirmiş görünüyor. Kendi partilileri tarafından dahi yeterli muhalefet yapamadığı için eleştirilen CHP de dik durabilen birkaç milletvekilinden birisidir. Biraz da yalnız kalışı ve çok sık partisi adına açıklama yapıyor olması onu iktidarın hedefi haline getirmiştir.<br />
+Görülen o ki, geçmişte ki DP nin tek başına iktidarını sürdürdüğü son yıllarında, muhalefete karşı yürüttüğü sabırsızlık ve onu göz ardı ederek yürüttüğü politika anlayışı, günümüz iktidarına da sıçramıştır. İktidar mecliste ki gücünü de kullanarak yapılacak eleştirileri önemsememektedir.<br />
+Sayın Koç meclisteki çalışmaları ve Türkiye sorunlarına gösterdiği duyarlılığı ve sorumluluk anlayışını Samsun’un çıkarları içinde başarı ile sergilemektedir. Samsun’un her sorununda ilk önce onun sesi duyulmaktadır. Başarılı milletvekili çıkartma konusunda çok da başarılı olamayan Samsun’un başarılı olmuş milletvekillerinden birisi olan Sayın Koç’a belden aşağı yapılan saldırı, işte bu nedenle Samsun’un her kesiminden tepki almıştır. Altın leke tutmaz. Yapılan çirkinlik yapana yakışmıştır. Feodal bir yapıdan gelmenin tüm fütursuzluklarını siyasete  taşıdığı anlaşılan adı uzun, politikası kısa boyutlu bu siyasetçi, kendi partisinin yara almasına neden olmuştur. En azından Sayın Koç’a ve Samsunlulara karşı bir özür borcu doğmuştur.<br />
+Kamuoyu yoklamalarında siyasetçiye duyulan güvenin sürekli düşmesi ve sıralamada en son yerlerde yer almasının ne kadar haklı olduğunu bu belden aşağı ifadeler adeta kanıtlamıştır. Sevgili Ertuğrul Çepni geçen hafta Cuma günü bu gazete de yayınlanan köşe yazısında, eleştiri hakkı ile ilgili yazdığı yazıda çok güzel bir tespit yapmıştır. Sayın Çepni diyor ki; eleştiri hakkının kullanılabildiği tek rejim demokrasidir. Bu hak kullanılamayacaksa padişahlık, krallık, diktatörlük rejimlerini neden terk ettik? Yerinde bir soru değil mi? Ama kafalarda demokrasi dışı rejimlerin özlemi varsa, bu varsayım da tüm anlamını yitiriyor.<br />
+Bu tatsız tartışma başlayınca hep aklımdan, bu konuda bari tüm Samsun milletvekilleri ortak tavır koyabilse diye geçti. Tam umutsuzluğa kapılırken Samsun’un iki iktidar milletvekili ile muhalefet partisinin diğer milletvekilinden destek geldi. Özellikle Sayın Musa Uzunkaya ve Mustafa Çakır’ı kutluyorum.<br />
+Sayın Koç; bu kentin hemen her kesimi sizi seviyor ve size inanıyor. Bunu bilmenizin sizin üzüntünüzü azaltacağına inanıyorum. Tüm Samsunlu  milletvekillerimizin birliktelik sergilemesi ve topluma örnek olacak politikalar sergilemesi tüm Samsunluları mutlu edecektir. Haftanızın güzelliklerle dolu geçmesini diliyorum.. 27-Ağustos-2006</p>
+<p>NOT: Sevgili okurlarım izin yapacağımdan iki hafta sizlerle beraber olamayacağım. Anlayış göstereceğinize inanıyorum.<br />
+SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0249-samsunspor-da-neler-oluyor.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0251-30-agustos-ve-hatirlattiklari.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

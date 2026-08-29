@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Butlan Sonrası Diğer Muhalefet Partilerinin Tavrı</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Butlan Sonrası Diğer Muhalefet Partilerinin Tavrı
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2026
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+1141
+
+</div>
+
+
+<div class="article-content">
+
+<p>.</p>
+<p>BUTLAN KARŞISINDA DİĞER MUHALEFET PARTİLERİNİN<br />
+TAVRI.</p>
+<p>24 Mayıs 2026 tarihi, Türkiye Cumhuriyeti’nin 103 yıllık demokrasi tarihine indirilmiş darbe ve kapkara bir leke olarak geçmiştir.</p>
+<p>Bu devletin kurucu partisi CHP’nin, Genel Başkanı olarak girdiği 13 genel ve yerel bütün seçimleri kaybetmiş ve sonunda da kendi başkanlık döneminde seçilmiş kurultay delegelerinin oyları ile genel başkanlık seçimini de kaybetmiş olan Kemal Kılıçdaroğlu, “Butlan Kararını” kabul etmekle büyük bir siyasi suç işlemiştir.</p>
+<p>Kılıçdaroğlu Genel Başkanlık seçimini de kaybettikten sonra bir kenara çekilip, partinin gerek duyulduğunda başvurulacak bir büyüğü konumuna geçerek itibar görmeyi de becerememiştir.</p>
+<p>Buna karşın kendisini kurultayda yenerek Genel Başkan seçilen Sayın Özgür Özel liderliğindeki CHP, yapılan yerel seçimlerde büyük bir başarı göstererek 47 yıl sonra CHP’ni birinci parti konumuna getirmiştir.</p>
+<p>2024 yerel seçim sonuçlarına göre CHP oyların %37,81’ni alırken, Türkiye nüfusunun %74’ nü yönetecek duruma gelmiştir. İllerin nüfusunun ekonomik yapısı açısından ise, Gayri Safi Gelirinin %73,4’ nü yönetecek kadar büyük bir başarı yakalamıştır.</p>
+<p>Böylesine büyük bir başarı yakalamış yeni yönetime destek verilmesi gerekirken, eski bir belediye başkanının Kurultayı dava konusu yapması ve Kılıçdaroğlu’nun da destek vermesi ile CHP’ nin başarı ile yürüttüğü iktidar mücadelesine büyük bir darbe vurulmuştur.</p>
+<p>Bir mahkemeden alınan “Mutlak Butlan” Kararının uygulanması için bir sabah polis baskını ile CHP Genel Merkezi’ne kapıları kırılarak girilmiş ve Kemal Kılıçdaroğlu’nun ekibi Genel Merkez’e yerleşmiştir.</p>
+<p>Bu eylem, her türlü demokratik kurala aykırı olup tam anlamıyla iktidar destekli yargı kararı ile CHP’ne çökmektir. Bu yaşananlar, eminim ki K. K’ na destek verenlerin de çoğunun vicdanında yer bulmamıştır.</p>
+<p>Bu akıl dışı olay, Türk demokrasisine ve siyasi yaşamına indirilmiş kalleş bir darbedir. Bu olaylar, iktidara zarar vereceği gibi K. K ve yandaşlarını da Türk siyasi tarihine en hafif deyimiyle demokrasimize yapılmış ihanet olarak geçirecektir.</p>
+<p>Bu komplo nasıl gelişirse gelişsin, sonunda bunun tek kazananı Sayın Özgür Özel ve ekibi olacaktır.</p>
+<p>Gelinen bu nokta da yapılması gereken ilk iş, 45 gün içinde bir Kurultay yapılması ve son sözü CHP kurultay delegelerinin söylemesidir. Eğer bu gerçekleşirse, inanıyorum ki CHP delegesi gerekeni yapacaktır.</p>
+<p>Ne var ki, 09 Haziran Salı günü yaşanan CHP Gurup Toplantısı tartışmaları ve çarşamba günü CHP Genel Başkanlığına seçilerek değil, yargı kararı ile oturan Kemal Kılıçdaroğlu’nun CHP tarihine kara bir sayfa olarak geçecek konuşması ile Kurultay yapılması olasılığı ortadan kalkmış gözüküyor.</p>
+<p>İşleri bu noktaya getiren “Mutlak Butlan” Kararı konusunda ise hemen herkesin ortak kanısı, bu kararın siyasi bir komplo olduğu yönündedir.</p>
+<p>24 yıldır iktidarda olan AKP’ ne karşı ilk kez seçim kazanarak 47 yıl sonra CHP’ni birinci parti yapan Sayın Özgür Özel ve CHP’ne yapılan “Mutlak Butlan” isimli siyasi darbe, bundan sonra hangi muhalif siyasi parti seçim kazanacak duruma gelirse, onun da başına geleceği endişelerini artırmıştır.</p>
+<p>Üzülerek söylemek isterimki, İYİ PARTİ Genel Başkanı Sayın Müsavat Dervişoğlu ile Türkiye İşçi Partisi Genel Başkanı Sayın Erkan Baş dışındaki diğer muhalefet partileri, CHP’nin başına örülmeye çalışılan bu komploya ilk anda birlikte gerekli tepkiyi koyamamıştır.</p>
+<p>Bu tepkisizlik, Butlan Kararı’nın uygulamaya konulmasının önünü açmıştır.</p>
+<p>Hele de Butlan konusunun dillendirilmeye başladığı günlerde, diğer muhalefet partilerinin suskunluğu ve Deva Partisi Genel Başkanı Ali Babacan’ın “Ülke yönetimini CHP’ne bırakmak istemiyoruz” Sözleri, Türk siyaset tarihine kara leke olarak geçecektir.</p>
+<p>Görünen o ki, İyi Parti ve Türkiye İşçi Partisi dışında kalan muhalefet partileri suskun kalarak, CHP’nin Butlan Darbesi ile bocalamasını fırsata çevirip ana muhalefet partisi konumuna gelmeyi hesaplıyorlarsa, sonlarının Türk Siyaset tarihinden silinmek olacağını göreceklerdir.</p>
+<p>SONUÇ; Her şeye rağmen, Kılıçdaroğlu’na destek veren demokrasi ve ülke çıkarlarını göz ardı etmeyen CHP’lilerin de desteği ile yasal en kısa sürede Kurultay çağrısı yapılacağına inanmak istiyorum.</p>
+<p>Ancak, 10.06.2026 tarihinde yapılan CHP MYK toplantısında CHP’ nin en başarılı milletvekillerinin de yer aldığı 9 ismi için kesin ihraç kararı almış olması, tüm köprülerin yakıldığının ve CHP tarihine ihanet edildiğinin kanıtıdır.</p>
+<p>CHP’ de işlerin hiç de istenmeyen bu duruma gelinmiş olması, farklı çözüm yollarını da gündeme getirecektir.</p>
+<p>Bu konuda benim önerilerim;</p>
+<p>Ülkemizin demokratik rejime ve parlamenter sisteme yeniden dönmesinin tek şartı yapılacak ilk seçimde muhalefetin bir şekilde seçimi kazanmasından geçmektedir. O nedenle,</p>
+<ol>
+<li>YOL;</li>
+</ol>
+<p>İyi Parti, Türkiye İşçi Partisi ve Özgür Özel etrafında kenetlenmiş CHP’lilerin, bu üç partinin onaylayacağı seçimi kazanması en güçlü CHP adayı ile seçime girmesidir.</p>
+<ol>
+<li>YOL:</li>
+</ol>
+<p>“Olağan Kurultay yapılacak” oyalaması oyununa gelmeden, bir an önce kurulacak yeni bir parti etrafında kenetlenerek toplumda Özgür Özel çevresinde oluşan güven ve rüzgârla olası baskın seçime hazırlanmaktır.</p>
+<p>İnanıyorum ki, Türk Halkı Türkiye’nin kurucu partisine yapılan bu haksızlığa sandıkta gereken cevabı verecektir.</p>
+<p>CHP Yönetiminin, 2015 de oyalanarak yapılan hatayı bir kez daha yapma hakkı yoktur. Şu an da CHP’ni siyaseten devre dışı bırakma komplosunu iç siyasetin de ötesinde değerlendirmek gerekir.</p>
+<p>Çünkü Ortadoğu ülkelerinin sınırlarını ABD çıkarları doğrultusunda yeniden belirlemek amacı ile uygulamaya konulan BOP Projesi’nin (Büyük Ortadoğu Projesi) ülkemiz üzerinde devreye sokulmaya çalışılmasının karşısında dik duran CHP, zaten ABD’nin tercihi olamazdı.</p>
+<p>Nitekim son zamanlarda ülkemize yönetim biçimi belirleyecek kadar çizgisini aşan sözleri ile büyük tepki alan ve sömürge valisi yakıştırması yapılan, ABD‘nin Ankara Büyükelçisi Tom Barrack’ın hala “İstenmeyen adam” ilan edilerek ülkesine gönderilememiş olması, bu endişeleri doğrulamaktadır.</p>
+<p>Yalnız CHP’ nin değil ülkemiz adına da son derece zor ve sıkıntılı geçen bu sürecin, en az hasarla atlatılacağı umuduyla güzel bir hafta sonu diliyorum.<br />
+24.06.2026<br />
+Ecz. Sadi Subaşı</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="1140-butlan-sonrasi-samsunlu-siyasetcilerine-uyari.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

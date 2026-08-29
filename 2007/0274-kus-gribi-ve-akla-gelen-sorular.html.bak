@@ -1,0 +1,300 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Kuş Gribi ve Akla Gelen Sorular…</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Kuş Gribi ve Akla Gelen Sorular…
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2007
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0274
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>KUŞ GRİBİ TEHLİKESİ VE BAZI SORULAR..</p>
+<p>Bir yanda sık, sık tekrarlanan Sağlık Bakanlığı açıklamaları, diğer yandan Samsun Sağlık Müdürü Sayın Dr. Mehmet Kılınç’ın “ Samsun’un kuş gribi açısından risk taşıyan iller arasında olduğu” yönündeki açıklaması insanı ürkütüyor. Her işi olduğu gibi millet olarak bu salgın tehlikesine de aynı umursamazlıkla yaklaşıyoruz. Hiç kimsenin bu işi ciddiye aldığı yok. Daha doğuştan itibaren kötü hijyen ortamında büyüdüğümüz için midir? Bilmiyorum, bu tehlikelerden çok fazla da etkilenmiyoruz. Herhalde her türlü mikropla iç içe büyüdüğümüz için olsa gerek, doğal bir bağışıklık kazanıyoruz.<br />
+Geçen kış mevsiminde de böyle bir kuş gribi salgını korkusunu münferit vakalarla atlattık. Bu yıl havaların mevsimine göre çok sıcak gitmesi ve bu hastalığın en çok yayılmasına neden olan kuş göçlerinin gecikmesi, belki de bu hastalığın ortaya çıkmasını da geciktirmiş olabilir. Ancak son günlerde Orta Avrupa da kuş gribi vakalarının görüldüğü haberleri, tehlikenin yaklaştığının ilk işaretleridir.<br />
+Sağlık Bakanlığının işi ciddiye aldığı açıklama ve uyarılardan anlaşılıyor. Ancak bu konuda alınan önlemlerin bu söylemlerle örtüştüğünü söylemek doğru olmaz. Ağustos ayı sonlarında başlatılan “grip aşı olunuz” kampanyası dışında çok önemli bir uygulamayı ben hatırlamıyorum. Bu konuda bilgisine başvurduğum ziraat mühendisi ve veteriner hekimi dostlarımda beni doğruladı.<br />
+Kuş gribi olayı bence iki yönden değerlendirilmelidir. Birisi hastalığın yarattığı sağlık sorunu, diğeri de bu riskten en fazla etkilenen kırsal kesimdeki vatandaşlarımız ( köylümüz ) ile bu işi bir sanayi kolu olarak yapan yatırımcılarımızdır. Hastalığın patlaması ile karantina alınan bölgedeki kanatlı hayvanları hasta, sağlam ayırımı yapmadan, hatta canlı, canlı imha etmek hem çözüm, hem de insani bir uygulama değildir. Kırsal kesimde yaşamını kendi olanakları ile yetiştirdiği hayvan ve ekip biçtiği tahıl ile güçlükle sürdürebilen köylümüze bu uygulama ile büyük bir darbe vurulmuştur. Ayrıca bu imha işleminde de, her yere yeterince ulaşılabildiği de tartışmalıdır.<br />
+Türkiye de yumurta ve kanatlı hayvan eti sektörü 3,5 milyar dolarlık bir büyüklüğe ulaşmıştır. Türkiye üretilen 14 milyar adet sofralık yumurta ile Dünya 4. , kanatlı eti üretimi bakımında da Dünya 10. konumuna ulaşmıştır. Ancak bu konuda önemli yatırımlar yapan ve üretimde sağlanan bu başarı, ne yazık ki iç pazara mahkûm edilmiştir. Yumurta ve tavuk eti üreticisi tüm ülkeler, dış satım yaptıklarında devletlerinden sübvansiyon aldıkları halde, bizde böyle bir destek olmadığı için dış pazarlarla rekabet ederek dış satım da da yeterli seviyeye ulaşamıyoruz.<br />
+Yeterli önlemleri almayarak işte böylesine önemli bir sektörü ciddi boyutta riske atıyoruz. Kuş gribi tehlikesinin yaşandığı bir dönemde bu konuda aşı üreten tek tesis olan Manisa’ da ki aşı yapım laboratuarı kapatılıyor. Gerekçe, yurt dışından daha ucuz alınabileceği varsayımı. Aynı konu beşeri ilaç üretiminde de yaşanmış ve yerli üretilen ilaç oranı % 40 a ulaştığı günlerden bir anda tümüyle dışa bağımlı hale gelinmiştir. Dış borçla ayakta durabilen bir ülkenin, daha pahalı olsa dahi dış borcu artırma nedeni olmayacak ve iç pazarda kalacak bu para hesabını doğru yaparak, yerli üretimi desteklemesi bir vatanseverliktir. Bunun aksi uygulamalar, ancak ekonomik bağımsızlığını yitirmiş ve ülke yönetimin de kendi ülkesinin çıkarları doğrultusunda karar verebilme yetisi kalmamış, sömürge düzeyine düşmüş ülkelerde görülebilir.<br />
+Yukarı da belirttiğim gibi yaz sonlarında başlayan büyük bir reklam kampanyası ile grip aşı yaptırılması önerisi dışında alınmış bir önlem gözükmüyor. Bu aşının da kuş gribini kesin önleme gibi bir özelliği de yok. Olsa, olsa gribe karşı sağlanacak vücut direnci artışı ile, bir ön güvence sağlanmış olabilir. Ayrıca grip aşı kampanyalarını da çok abartılı bulduğumu söylemeliyim. Bu, ilaçta kaldırılan reklam yasağı sonucu doğan fırsatı çok iyi değerlendiren çok uluslu ilaç tekellerinin tüketimi körükleme çabasından öte bir şey değildir. Bir eczacı olarak bu yıl hastalarımızın,  ”grip aşısı olduktan sonra çok ağır grip oldum, hala kendimi toparlayamıyorum” şeklinde ki yakınmalarına sıklıkla tanık oldum. Bilindiği gibi aşının özü, hangi hastalık için hazırlanmışsa, o hastalığın etkisi çok düşürülmüş mikrobunun uygun bir vasatta hazırlanarak canlıya verilmesidir. Böylece o mikroba karşı vücudun savunma gücü ( antikorları) artırılarak mikrobun kendisi ile karşılaştığında direnmesi kolaylaştırılır. Acaba bu yıl dozları artırıldığı için bu ters etkilerle karşılaşılmış olabilir mi? Bunlar incelemeye değer sanıyorum.<br />
+Akla gelen bir başka soru da Tarım Bakanlığının köylüyü korumak adına herhangi bir önlem alıp almadığıdır. Kuş gribi özellikle göçmen kuşlar aracılığı ile, yani hava yolu ile bulaştığına göre yapılacak en önemli iş, beslenen kümes hayvanlarının bu dış bulaşmalardan korunması  olmalıdır. Acaba kırsal kesimdeki kümes hayvanı besleyicisi bu konuda yönlendirildi mi* veya bu konuda desteklendi mi? Örneğin köylümüz kümes hayvanlarını üstü ve yanları kafes tellerle kapatılmış geniş kümeslerde beslemesi için uyarıldı mı? Kümes hayvanlarının beslendiği alanların ilaçlanması ve hayvanların aşılanması teşvik edildi mi? Ve bu konular da mali bir destek sağlandı mı? Bunlar yapılmadı ise, yarın çıkacak bir salgında geçen yıl olduğu gibi bunları canlı, canlı imha edip sahibine tazminat ödemek çok akıllıca ve çağdaş bir devlete yakışan bir yöntem midir?<br />
+Bunlar yapılmadan, yapılanlar ve yapılmaya çalışılanlar göz boyamaktan öteye geçmez. Bu işi sanayi haline getirerek ülkemize büyük bir iş gücü ve ekonomik katma değer kazandıran, binlerce aileye geçim kaynağı sağlayan entegre tesis yatırımcılarına ve çoluğunun, çocuğunun günlük rızkını kazandıran köylümüze büyük kötülük yapılmış olur.<br />
+Hiçbir ülkenin yaşamadığı paniği bu ülke insanına yaşatmaya kimsenin hakkı yoktur. Sağlıklı ve güzellikler dolu bir hafta dileğiyle..<br />
+28-OCAK-2007<br />
+SADİ  SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0273-manset-gazetesinde-cikan-soylesi.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0275-samsunlu-olmanun-zorlugu-ve-sorumlulugu.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

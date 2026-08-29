@@ -1,0 +1,334 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Güç Kimdeyse Düdük de Onda…</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Güç Kimdeyse Düdük de Onda…
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2012
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0579
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>GÜÇ KİMDEYSE DÜDÜK DE ONDA...</p>
+<p>Çok partili rejime geçtiğimiz 1950 yılından beri ülkemizde yaşanan güç denemeleri, demokrasiyi tam özümseyememiş tüm toplumların kaderidir.<br />
+Genç Türkiye Cumhuriyeti ilk darbeyi 1960 yılında yaşamış, bunu 12 Mart 1971 askerİ Muhtırası, 12 Eylül 1980 askeri darbesi, 28 Şubat 1997 da irtica tehlikesine karşı yapılan ve daha sonra post modern darbe olarak adlandırılan askeri müdahaleler izlemiştir.<br />
+Bu arada sonuçsuz kalan birkaç darbe ve ayaklanma denemelerini de unutmamak gerekir.<br />
+Evet, bu darbelerin hepsi de askerler tarafından seçimle gelmiş sivil iktidarlara karşı yapılmıştır ve bu müdahaleler sonrası iktidarda olan siyasi irade görevden uzaklaştırılmıştır.<br />
+Peki, bu ülkede iktidarları görevden uzaklaştıran başka güçlerin müdahaleleri olmamış mıdır? Olmaz olur mu? Onları da unutmamak gerekir.<br />
+Bu ülke de kendini 4. güç olarak tanımlayan basının bu gücünü kanıtladığı planlı yıpratma yayınları nasıl göz ardı edilir? Zaman zaman basının güçlü kalemleri ve manşetleri ile iktidarda ki partiler yıpratılmadı mı? Bu baskılara dayanamayan iktidarlar değişmedi mi?<br />
+Başka, başka..<br />
+Demokrasilerin sağladığı özgürlük ortamında gelişen ve demokrasiye en çok ihtiyaç duyan özel sektör de bu oyunda rol almadı mı?<br />
+1977 Seçimleri sonrası iktidara gelen Ecevit Hükümeti’nin uygulamaya koyduğu reformları çıkarlarına uygun bulmayan İş dünyasının, TÜSİAD öncülüğünde başlattığı yapay ekonomik kriz ve yaratılan benzin, zeytinyağı vs. kuyrukları, gazetelere verilen ve günlerce süren tam sayfa hükümeti yıpratma ilanları, o dönemin reformlarına imza atmaya çalışan Karaoğlan Ecevit Hükümeti’ni dağıtmadı mı?<br />
+Yukarıda da değindiğim gibi askeri ve sivil darbe veya müdahalelerin hepsi de iktidarda ki sivil hükümete karşı yapılmıştır.<br />
+O zaman, ülke yönetimi için toplumun görev verdiği siyasi iktidarların da bir şeyleri iyi yapamadığı sonucu çıkmaz mı?<br />
+Darbe zeminlerinin oluşmasında, siyasetçilerin beceriksizliğinin ve kendi aralarında ki uzlaşmazlıklarının ve inatlaşmalarının hiç mi sorumluluğu yoktur?<br />
+Toplumun sorumluluk verdiği siyasi liderler bırakın darbeleri, muhtıralara dahi direnme gücünü gösterebildiler mi? Şapkasını alıp gidenler ve bir iki gün direnip sonra da muhtıralara imzayı basanlar onlar değil miydi?<br />
+Dün güç askerdeydi. Basında ve iş dünyasındaydı. Onların istediği oluyordu.<br />
+Bugün güç siyasi iktidarın elindedir ve o güç geçmişin güç odaklarını sorguluyor. Son dönemlerde yaşanan olayların özeti de bu olsa gerek…<br />
+Arada bir fark vardır. Gücü elinde bulunduran askerin gerekçesi laik düzeni korumak veya ülkede ki akan kardeşkanını durdurmaktı. Her defasında da darbe gerekçelerini ortadan kaldırıp, en fazla 3-4 yıl içersinde yönetimi sivillere devrediyordu.<br />
+Bugün ise tartışmasız tek güç sivil otoritenin elindedir. O’nun yapacağı yanlışı giderecek tek güç ise seçmenlerdir.<br />
+Ancak sivil otoriteyi denetleyecek tüm güçler pasifize edilmiştir.<br />
+Türkiye’de artık denetim yapabilecek özgür ve güçlü bir basın yoktur.<br />
+Sivil toplum kuruluşları “Arka bahçe” haline getirilmiştir.<br />
+Bir kişi hariç İş dünyası gelecek kaygısı ile sinmiştir.<br />
+Uygulamaları nedeniyle yargı da tartışılır hale gelmiştir.<br />
+Basının güdümlü hale gelmesi ile muhalefet de sesini yeterince duyuramaz hale gelmiştir.<br />
+Artık siyasi gücü demokratik yoldan denetleyecek ve onu yanlışlardan koruyacak demokratik bir baskı gücü kalmamıştır.<br />
+Türkiye bugün demokrasi adına çok önemli bir sınavdan geçmektedir.<br />
+O nedenle siyasi otoritenin yanlış yapma lüksü kalmamıştır. O’nun yapacağı hata veya tercih yanlışları, Türkiye’de çağdaş demokrasinin sonu olur.</p>
+<p>Bu toz duman arasında Türkiye’de çok önemli gelişmeler olmakta ve çok sayıda yasal düzenlemeler birbirini kovalamakta ve çoğu da sık sık değiştirilen gündemlerle gözden kaçırılmaktadır.<br />
+İşin düşündürücü yanı, Türkiye’nin geleceğini de şekillendirecek değişimi sağlayacak düzenlemeler, hiçbir uzlaşma zemini sağlanmadan, hatta gerek duyulmadan iktidarın sayısal üstünlüğü kullanılarak yapılmaktadır.<br />
+Bir başka dikkati çeken konu ise, bu karmaşa arasına sıkıştırılan ve toplumun günlük yaşamını daha da zorlaştırılacak zamların, bir biri ardı sıra uygulamaya sokulmasıdır.<br />
+Bu tür yaptırım ve dayatmaların, çağdaş demokrasilerde yerinin olduğu söylenebilir mi?<br />
+Yazımın sonunu, usta kalem değerli dostum Erdem Erol’un önceki günkü köşesinden bir alıntı ile bağlayayım. Sevgili Erdem Erol bakın bugünü ne de güzel anlatmış;<br />
+Şubat, Eylül, Mart.. Tarihiyle belirtilen tüm operasyonlara<br />
+bir göz atın!<br />
+Ne zaman millet gerçek gündeme doğru yönelecek...<br />
+"Ya ! Biz nereye gidiyoruz, ne oluyoruz böyle!" diyecek!<br />
+Pat! Raftan inen yeni bir dosya gündemde...<br />
+Bakalım bu millet ne zaman sesini yükseltip...<br />
+"Yeter kardeşim, artık gerçek gündeme bakalım, açın şu  pencereyi, ülkeyi nereye götürdügünüzü görelim!" diyecek?</p>
+<p>Sahi.. Biz nasıl uyanacağız? Bizi kim uyandıracak? Günümüzün sorusu da bu olsa gerek.. Bugün sorgulanan 1982 Anayasasına % 92 oy veren bu toplum, umarım sonraki yıllarda da bugün yapılanları sorgulamak zorunda kalmaz...<br />
+İyi haftalar.. 15 Nisan 2012</p>
+<p>Ecz. SADİ SUBAŞI</p>
+<p>Sayın Subaşı, Degerli Dostum,<br />
+Size de Sayin ERDEM’e de katılıyorum.<br />
+Eskiyle uğraşmayı bıraksak önümüze bakacağız ve hızla gelen bölünmeyi, Kürt devletinin kaçınılamaz gelişini görecegiz.<br />
+Saygilarımla.<br />
+BEŞTEPE</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0578-12-sorgulanmali-ama-asil-kimler-sorgulamalidir.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0580-egitim-camiasi-kendini-sorgulamalidir.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

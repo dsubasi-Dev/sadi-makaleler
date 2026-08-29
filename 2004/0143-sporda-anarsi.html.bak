@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Sporda Anarşi</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Sporda Anarşi
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2004
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0143
+
+</div>
+
+
+<div class="article-content">
+
+<p>e-mail: sadisubasi@ttnet. net.                                                                   SUNUŞ</p>
+<p>SPORDAKİ ANARŞİ VE BASIN</p>
+<p>İki hafta önce İstanbul İnönü Stadınmda yaşanan stad anarşisi Türkiye’de hemen her kesimi ayağa kaldırdı. Bir yandan yapılan sürekli toplantılar, bir yandan yasaların daha sert uygulanacağı mesajları, bir anda stadları boşalttı. Yetkili kulüp ve emniyet yetkililerinin bu güne kadar olayları ciddiye almaması ve yaygınlaşan küfür, zaten son yıllarda seyirci sayısını önemli ölçüde  düşürmüştü. Sayıları çok olmayan, sporla çokta ilgisi bulunmayan bazı gruplar, bu işi geçim kaynağı haline getirmişti. Bunlar spor sevgisi ile oluşan gerçek takım fanatiklerinide rahatsız etmeye başlamıştı. Samsun’daki yaralama olayıda, uyarıda bulunan taraftar gurubuyla kendi aralarında çıkan tartışmada meydana gelmiştir. Son zamanlarda stadlarda, özelliklede üç büyük takımın maçında küfürlü slogan yarışı had safhaya çıkmış, stada maç zevkini gidermek için gidenleri bu çirkinlikler kaçırmaya başlamıştı. Civarınızdaki küfürbazları uyarmak bile başlı başına sorun olmaya başlamıştı. Bir avrupa ligi maçını TV de izlerken gördüğümüz  taraftar manzaraları insanı imrendiriyor. En güzel kıyafafetleri ile tribünde yer alan taraftarlar bir spor şöleni yaratıyorlar. Bizde ise şeref tribünlerinden dahi zaman zaman küfür işitmek çok olağan bir şey. Küfür bizim adeta kültürümüze girmiş. Küfür  kelime haznesi darlığı ve  kültürsüzlüğün doğal sonucu olarak neredeyse konuşmalarımızda bağlaç ve cümleyi tamamlayan sözcükler haline gelmiş. Sokakta yürürken yanlarında veya civarlarında kadınlar bulunurken dahi , iki kişinin kendi aralarında bile bol küfürlü konuşmasını duymayanınız yoktur. İşin bir boyutu bu. Bir diğer boyutu da son yıllarda gençler arasında hızla yayılan uyuşturucu ve tiner kullanımıdır. Olaylara neden olanların büyük bir kısmı bunlar. Geçen akşam bir TV kanalında yayınlanan ve deplasmana giden sözde taraftarların otobüs içindeki insanı ürperten ve düşündüren görüntüleri ve mola verdikleri benzinlikteki yağma ve talan bunun en açık örneğidir. Ne yazıkki yıllarca özellikle büyük takım yöneticileri bunların desteğini almak için bilet sağlayarak ve deplasmana taşıyarak adeta palazlandırdı. Bu taraftar gruplarının içine sızan bu sakıncalı tipleri görmediklerini söyliyemezler. Yöneticilerin bunu bilmemesi mümkün değil. Yıllardır herkes üç maymunu oynadı. Biz toplum olarak bir türlü olay olmadan tedbir almayı öğrenemedik. Bu alışkanlığımızı mazur göstermek için olacak, çok sık kullandığımız ‘’bir musibet bin nasihattan daha evladır’’diye bir deyişimiz vardır.<br />
+Olayın bir başka boyutu da yazılı ve görsel  basındaki üç büyüklerin kalemşörlerinin sorumsuz yazıları ve yorumlarıdır. Bunlar birbiri ile yarışma ve reyting kapma uğruna işi okadar çok rayından çıkardılar ve ileri götürdüler ki , sonunda hiçte onaylanmayacak dayak ve tehdit yaramaları bizzat kendi başlarına geldi. Şimdi herkesten çok olayları kınayan yazıları, timsahın gözyaşlarını andırıyor. Toplumu tahrik edici , fütursuz , yorum bile diyemiyeceğim bir konuşmayı geçtiğimiz Pazartesi akşamı NTV deki spor proramında üzüntüyle dinledim. Ünlü spor yorumcusu güya Samsun-Beşiktaş maçında Tümer’e  yapılan , bizcede kabul edilemiyecek küfürü bahane edip Samsunspor’a ve Samsunluya ileri geri laflar sarfetti. Bu konuda kendisine bir kınama yazısı gönderdim. Bir suretini de Samsunspor’a gönderdiğim yazıda , küfürü hiçbir zaman onaylamadığımızı ancak Tümer olayının öncesi incelenmeden bu olayı bahane edip bu tür yorumu yapamayacağını önemle belirttim. Bu oyuncunun Samsun’dan ayrılırken yaptığı terbiyesizliği ve son maç öncesi yedek kulübesinin arkasında ısınırken kapalı tribündeki izleyicilere yaptığı el kol hareketlerini hatırlatmak zorunda kaldım. Samsun’dan ayrılan eski sporcularımızın her Samsun’a geldiklerinde taraftar tarafından alkış aldığı bir gerçek. Ekonomik ve yaşam şartlarının ağır sorunları altında ezilen ve barut fıçısı haline gelen insanımızı, gerecek tavırlardan kaçınmak, en başta bu toplumu yönlendirecek basın mensuplarımızdan beklenmelidir. Aksi halde yasaların zorlayıcı kuralları dahi yeterli olmayabilir. Her kesim üzerine düşeni yapmalıdır. Gerçek sporsever taraftar gurupları kendilerini de sıkıntıya sokan , çarpık alışkanlıkları olanları aralarına sokmamalıdır.<br />
+Eşimizle, çocuklarımızla bir şölen havasında maçları izleyebilmek özlemimizin, son günlerde ortaya konan kararlı tutumla son bulacağını umut etmek istiyorum. İyi haftalar dileğiyle..04-aralık-2004</p>
+<p>SADİ  SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0142-samsunlular-olarak-ozelestiri-zamani.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0144-milletvekilleri-ve-yerel-yoneticilere-cagri.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

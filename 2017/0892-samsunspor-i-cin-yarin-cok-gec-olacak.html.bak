@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Samsunspor İçin Yarın Çok Geç Olacak</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Samsunspor İçin Yarın Çok Geç Olacak
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2017
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0892
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>SAMSUNSPOR İÇİN YARIN ÇOK GEÇ OLACAK.<br />
+Bilindiği gibi Samsunspor Yönetim Kurulu 05.12.2017 tarihinde yaptığı toplantıda Olağanüstü Genel Kurul kararı almış, bunu da resmi kulüp sitesinden ve basın aracılığı ile duyurmuştur.<br />
+Buna göre Genel Kurul 20 Aralık 2017 Çarşamba günü, bu toplantıda çoğunluk sağlanamazsa çoğunluk aranmaksızın 28 Aralık Perşembe günü yapılacaktır.<br />
+Genel Kurul büyük bir olasılıkla 28 Aralık Perşembe günü yapılacak olan Genel Kurula sizler bu yazıyı okuduğunuzda sadece sekiz gün kalmış olacaktır.<br />
+Bu yazıyı kaleme aldığım 18 Aralık Pazartesi akşamına kadar Sayın Erkut Tutu Başkanlığında ki yönetimin istifa edeceği yönünde ki duyumlar da gerçekleşmemiştir.<br />
+Çok kısa bir zaman kalmasına rağmen Genel Kurulda ne olacağı ve kimlerin kulübe sahip çıkacağının belirsizliği, Samsunspor adına tam bir belirsizlik ortamı yaratmıştır.<br />
+Görülen o ki, Samsun’un en büyük markası dediğimiz ve tüm Samsunluların göz bebeği Samsunspor büyük bir uçurumun kenarına gelmiş bulunmaktadır.<br />
+Samsunspor’u tek takımı olarak belirlemiş ve Samsunspor yönetimlerinin hemen her kademesinde görev yapmış bir Samsunspor sevdalısı olarak, “UYARI” anlamında ki bu yazıyı kaleme almayı kendi adıma görev kabul ettim.<br />
+LÜTFEN BU YAZIMI DİKKATE ALINIZ.<br />
+Samsun’u yöneten başta Sayın Valimiz ve Sayın Büyükşehir Belediye Başkanımız olmak üzere, Samsun’a ve bugüne kadar Samsunspor’a destek ve gönül vermiş iş adamlarımız ile bu kent için sorumluluk duyan tüm kent bileşenlerine sesleniyorum.<br />
+Evet, bu yönetim ciddi hatalar yapmıştır. Son Genel Kurul öncesi dönemde iki yıl bu kulübün Divan Kurulu Başkanı olarak görev yapmış birisi olarak bu yönetimin önemli hatalar yaptığını ben de kabul ediyorum.<br />
+Ama bunların hiç birisi yeni bir yönetim alternatifinin bulunmadığı bir ortamda bu yönetimi istifaya davet etmek, hele de Başkana, ailesine ve yönetim üyelerine küfre varan sözlerle hakaret etmek, doğrulanmadan iftiralar atmak, bu camianın kabul edebileceği bir durum değildir.<br />
+Bu karşı çıkışlardan tek doğru olanı, yıpranan bu yönetimin tartışılan konulara açıklık getireceği ve kadrosunu yenileyerek güvenoyu isteyeceği bir Genel Kurul çağrısı yapmak olmalıydı.<br />
+Samsunspor’un en üst kurulu olan Divan Kurulu Başkanlığını yaptığım iki yıllık görevim sırasında, Divan Başkanlık Kurulunda ki yedi arkadaşımla birlikte Samsunspor tarihinde görülmemiş bir çaba gösterdiğimize inanıyorum.<br />
+Ancak tüm ısrarımıza rağmen, aldığımız çok önemli bazı kararların uygulanmadığını da üzülerek gördük.<br />
+Bu nedenle, son Genel Kurul’da yeniden göreve talip olacak Sayın TUTU Yönetimin benim Başkanlığımda ki Divan Başkanlık Kurulu ile çalışmaya istekli olmadığını gördüğümüz için son Genel Kurul’da ben ve bazı arkadaşlarımız kendi isteğimizle göreve talip olmadık.<br />
+Tüm bunlara rağmen Samsunspor’un kişilerin üzerinde olduğunun bilinci ile Sayın TUTU ve Yönetimine karşı son dönemlerde söylenenlerin ve yapılan hakaretlerin deSamsunspor’un bugünkü karmaşaya sürüklenmesine zemin hazırladığını gördüğüm için yukarıda ki açıklamayı yapmayı gerekli gördüm.<br />
+İşte bu sorumlulukla on gün önce aşağıda anlatacağım para konusunun doğru olup olmadığını bir yöneticiye sordum. Bu konuşmamın Sayın Tutu’ ya iletilmesi üzerine de Başkan beni aradı.<br />
+Ben detam bir hafta önce kamuoyunda konuşulan para konusunu sordum ve oluşan kara tablo ve karamsarlığın giderilmesi açısından Sayın TUTU’YAdüşüncelerimi ve önerilerimi ilettim.<br />
+Tüm gelişmeleri Sayın Valimize ve Sayın Büyükşehir Belediye Başkanımıza aktardığını söylemesi üzerine de, “Çık kamuoyunun önüne bunları Samsunspor Camiasına da açıkla” Dedim.<br />
+Söylediklerimin hemen hemen çoğunu kabul ederek bunları yarın kamuoyuna açıklayacağım ve de istifa edeceğim demesine rağmen, aradan geçen bir haftaya rağmen bu açıklamalar yapılmadı.<br />
+Bu nedenle kendisine ilettiğim önerilerimi, Samsunspor kamuoyunun da bilmesi ve kim veya kimler ne yapabilecekse, yarın çok geç olmadan yapması gerektiğini yüksek sesle duyurmak istiyorum.<br />
+Kendisine, “Sayın Başkanım, öncelikle sana ve ailene yapılan hakaretleri şiddetle ret ediyorum. Ama ne yazık ki, ülkemizde ki spor anlayışı bu ve tüm başkanların başına gelen de aynı. Ancak siz de gereken konularda kamuoyunu bilgilendirmediğiniz için bu tepkilere zemin hazırladınız.<br />
+Bana açıkladığınız, Kazım Yılmaz döneminde alınan ve kulübü büyük bir borç batağına sürükleyen oyunculardan Bahia ve Fink’e ödenmesi gereken ve ödenmediği takdirde puan silme cezalarının geleceği için bu parayı son gününde onlara ödemek zorunda kaldığınızı kamuoyuna da açıklayınız.<br />
+Gördüğüm kadarıyla tek başına kalmışsınız. Sanırım yönetimden de yeterince destek alamıyorsunuz. İstifa etmediğiniz için kamuoyunda devam edeceğiniz şeklinde yorumlar da yapılıyor.<br />
+Ancak böylesine kritik bir dönemde yerinize bir alternatif hazırlamadan son anda yönetimi bırakırsanız ve de bir yönetim çıkmazsa Samsunspor’un içine düşeceği kara tablonun sorumlusu ilan edilirsiniz.<br />
+Yine biliniz ki bu camia, kulübü bugünkü ekonomik çıkmaza sürükleyen Kazım Yılmaz’a gösterdiği hoşgörüyü size göstermeyecektir. Bunca yıl sağlığınızı riske sokarak ve ailenizi ihmal ederek verdiğiniz emeğinize rağmen, çok daha büyük tepkilerin hedefi olacak ve üzüleceksiniz.” Dedim.<br />
+Evet, Sayın Tutu ile bu çerçeve de önerilerimi içeren bir görüşmem oldu. O’na söylediklerimin bir özetini de sizinle paylaştım.<br />
+SONUÇ;<br />
+Önümüzde ki tablo gerçekten de ürkütücü. Yönetimin Genel Kurula gitmesi, yeniden görev alıp almayacaklarının belirsizliği, şu ana kadar ciddi bir alternatifin de ortaya çıkmamış olması nedeniyle, parasını alamayan tüm oyuncular TFF’ e başvurmuştur.<br />
+Eğer 03 Ocak 2018 tarihine kadar yani 15 gün sonra 3,5 milyon olduğu söylenen bir para bu oyunculara ödenemezse, tüm futbolcular serbest kalacaktır. Kısacası, Genel Kurul da bir yönetim çıkmaz veya çıksa da bu yeni gelecek yönetim bu kadar kısa sürede bu parayı bulamazsa, Samsunspor’un kadrosu boşalacaktır.<br />
+Oluşacak bu karamsar tablonun sonu, Samsunspor Kulübünün kapanarak tarihe karışması demektir.<br />
+Şimdi tribünlerden Başkana küfür eden ve istifa diye bağıran, yönetimler varken birtakım kişileri göreve davet etme yanlışına düşen bazı taraftarlarımız ve yönetimin suskun kalması nedeniyle ağır eleştiriler yapan bazı köşe yazarları da dâhil, herkes şapkasını önüne koyup düşünmelidir.<br />
+Sayın TUTU Başkanlığında ki yönetim, bundan beş yıl önce uzun bir aradan sonra Samsunspor’u Süper Lig’e çıkartma başarısı gösterdiği halde, akıl almaz bir şekilde yönetimi bırakmak zorunda bırakılırken, kent yöneticileri ve Samsun’un siyasi iradesi neden sessiz kaldı?<br />
+O Genel Kurul’da benden başka, “Bu nasıl iş?” Diye soran oldu mu?<br />
+Borcu 24 milyon civarına düşürmüş ve takımı Süper Lig’e çıkartarak Futbol Federasyon’dan 30 milyon civarında bir paranın alınmasını sağlamış başarılı bir Yönetim varken, son iki maçta stat ’da poster açarak kulübe başkan davet edenler, bugün neden susuyorlar?<br />
+İşte zorla yaptırılan o Genel Kurul, Samsunspor’un son kurtuluş şansını yok ederken, bugün oluşan kara tablonun da asıl nedeni olmuştur.<br />
+Bu kötü tablodan hiç kimse kendisini sıyıramaz.<br />
+Bu kent yönetimi ve kentin siyasi iradesi, bu kulübü acemilik ve yanlışları ile bugünkü ekonomik çıkmaza sokarak bırakıp giden, giderken de alacağını dövize bağlayarak temlik koyan ve adeta kulübü para kazanılan borsa gibi gören geçmiş dönem başkanına “Ne yapıyorsun?” Diyebilmiş midir?<br />
+Bu kent son sekiz yılda üst üste iki Spor Bakanı çıkartmıştır.<br />
+Söyler misiniz? Bu iki Bakanımız Samsunspor’un ekonomik sorununa deva olacak bir çözüm üretmek yerine, Samsunspor için komada ki hastayı bir süre daha yaşatmak anlamında oksijen vermek gibi günü kurtaracak para bulmaktan başka ne yapabilmiştir?<br />
+Art arda puan silme cezaları gelirken, Futbol Federasyonu’nun tarafsız sahada ceza uygulayarak seyircimizi zorla sahadan çıkartıp Süper Lig’e çıkma hakkımızı gasp ederken yaptığı akıl almaz kural hatasını, engelleyebilmiş midir?<br />
+Artık uçurumun kenarına gelmiş bulunuyoruz.<br />
+Ya kent olarak ortak bir bilinçle bu takıma sahip çıkacağız, ya da gözümüzün önünde yok olup tarihe gömülmesine tanıklık edeceğiz.<br />
+Üzülerek söylüyorum ki, durum bu kadar kötüdür ve<br />
+SAMSUNSPOR ADINA YARIN ÇOK GEÇ OLACAKTIR.<br />
+Sayın Valim,<br />
+Sayın Büyükşehir Belediye Başkanımız,<br />
+Sayın Samsun Milletvekillerimiz,<br />
+Sayın İş adamlarımız,<br />
+Sayın Sivil Toplum Kuruluşları Başkanları,<br />
+Çok değerli Samsunspor Sevdalıları, inanız ki yarın çok geç olacaktır. O nedenle, yapabileceğiniz ne varsa Lütfen bugün yapınız. 18.12.2017</p>
+<p>Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0891-lutfen-elde-kalan-son-marka-okullara-bari-kiymayin.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0893-samsun-giderek-kan-kaybediyor.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

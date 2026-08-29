@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Hızla Yükselen Turizmin Yeni Yıldızı Sinop.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Hızla Yükselen Turizmin Yeni Yıldızı Sinop.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2014
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0711
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>HAYALİ DEĞİL, GERÇEK TURİZMİN YENİ YILDIZI SİNOP.<br />
+BÖLÜM<br />
+Sinop, yıllardır Samsunluların kafa dinlemek için sık sık kaçtığı bir komşu ilimiz olarak bilinirdi.<br />
+Özellikle de Karadeniz’in hırçın ve can alan dalgalarından kaçan Samsunluların hafta sonların da denizden korkusuzca faydalanabilmek için tercih ettikleri bir yerdi.<br />
+Tanrı’nın cömertçe sunduğu coğrafi konumu ve sahip olduğu doğal liman yapısı ile Karadeniz’in en hırçın günlerinde dahi, korkusuzca denize girilebilen bir cennettir Sinop.<br />
+Sinop’ta sanayi yoktur. Sinop’u yıllarca iyi kötü orada ki Şişe ve Cam Fabrikası ayakta tutmuştu. Onun da kapanması ile Sinop, ciddi ekonomik sıkıntılar yaşayan bir kent haline gelmişti.<br />
+Ancak yukarıda özellikle altını çizdiğim coğrafi özellikleri ile yaz aylarında, çoğunluğunu Samsunluların oluşturduğu yerli turistler tarafından tanınırdı.<br />
+Bu doğal güzelliği zaman zaman kitap ve dergilerle yazılı ve görsel basında yer alsa da, Sinop’a ulaşımın zor olması nedeniyle turizm açısından çok fazla tercih edilen bir yer değildi.<br />
+Kabul etmek gerekirse, mevcut iktidarın on iki yılda yaptığı belki de en yararlı iş olan, “Duble yollardan” Sinop’ta payını aldı.<br />
+Samsun Sinop yolunun tünel ve deniz dolgusu ile yapılan duble yollarla kısalması ve can sıkıcı virajlardan kurtulması ile Sinop’un turizmden aldığı pay ciddi boyutta artmaya başlamıştır.<br />
+Küresel ısınma ile Ege ve Akdeniz Bölgelerinin önemli tatil beldelerinde ki nüfus yoğunluğunun aşırı artması ile o bölgelerde ki çirkin yapılaşma ve doğanın hızla taş yığınlarına dönmesi sonucu, turizmciler gözlerini Karadeniz Bölgesine çevirmeye başlamıştır.<br />
+Zaten yıllardır henüz yeterli seviyede olmasa da, Doğu Karadeniz Bölgesi sahip olduğu yaylalar ve Sumela Manastırı ile turist çekmeye başlamıştı. Ancak Doğu Karadeniz Bölgesi’nin deniz turizmi açısından şansı yoktu.<br />
+İşte oralarda olmayan deniz turizmi şansını Sinop yakalamış, daha doğrusu Sinop’u yöneten kent iradesi bunu görmüş ve gereğini yapmaya başlamıştır.<br />
+Kent yönetimi ile birlikte Sinoplular da bu gerçeği görmüş ve Sinop’a gelenlerin mutlu dönmesini sağlayacak işleri yapmayı başarmışlardır.<br />
+Sinop halkının gelen konuklara olan tavırları ve yaklaşımları, son derece sevecen ve yardımsever bir konumda. Caddeler tertemiz. Her tarafta çöp kutuları var ama Samsun’da ki gibi laf olsun diye konmamış, insanlar en ufak çöpünü dahi yerlere değil bunlara atıyor. Yerlerde sigara izmariti ve çöp görmek mümkün değil.<br />
+İnsanlar çağdaş giyimli, Samsun’da ki gibi son dönemin yaygınlaşan giyimleri, henüz Sinopluları etkilememiş.<br />
+Deniz kıyıları yapılaşmadan korunmuş, sahilde çok sayıda kafe ve çay bahçesi var. Önlerinde ki kumsala ise, denize girenler için şemsiye ve şerlonglar serpiştirilmiş.<br />
+Sahil bandında bir Aşıklar Caddesi var. Bu cadde halkın tur attığı ve aradığı her şeyi bulabileceği gece gündüz canlı bir cadde. Ön tarafı yukarıda anlattığım güzellikte, halka açık ama orada kimsenin aklına denize taş doldurayım da, iki yönlü araçlar gezip seyir keyif yapsın gibi bir garabeti yaratmamış. Hemen arkasından geçen Aşıklar Caddesi’nin bu görevi yaptığını göz ardı ederek böyle bir yanlışa kalkışmamış.<br />
+Aşıklar Caddesin de gezerken, insan kendini henüz bugünkü kadar yoğunlaşmamış eski dönemlerin Marmaris veya Bodrum Caddelerinde sanıyor.<br />
+Bu cadde de çok kaliteli lokantalar, barlar, dondurmacı ve pizzacılar, Sütaş gibi marka pastaneler, içerisinde yöresel hediyelikler satılan küçük parklar, çocuk oyun parkları bulunuyor. Sinop Yelken Kulübü de bu güzel sahilde kendisine yer bulmuş. Bütün sahiİ kumsal ve halka açık.<br />
+“Yenge’nin”, “Hala’nın”, “Teyze’nin Yeri” Gibi isimlerle açılmış Mantıcılar var. Emin olun, buralarda yiyeceğiniz çok farklı sunumlarda ki “Mantıyı” başka hiçbir yerde yememişsinizdir.<br />
+Kentin diğer sahilinde ise, deniz üzerinde yüzen balık lokantaları Sinop’un diğer güzel yüzünü gösteriyor.<br />
+Otel sayısı da artmış ama gözüken o ki, artık özellikle sahilde ki bu oteller Sinop’a yetmeyecek. On gün önceden aradığımız halde hiçbir otelde yer bulamadık. Sorduğumuz tarihte hemen her otelden aldığımız cevap, “01 Eylül’e kadar yerimiz yok” oldu. Ancak bir arkadaşımın özel dostu ve çabası ile yer ayırtabildik. Kaldığımız Otel sahilde ve çok güzel planlanmıştı. Önünde ki kumsalda denize girme olanağı var. Hemen önünde ki zemin kısmında kafeteryası ve denizi seyrederek yemek yeme şansı veren lokantası ile tam bir tatil oteli. Buna benzer, hatta daha güzel oteller mevcut.<br />
+Özet olarak söylemek gerekirse, kısalan ve kolaylaşan ulaşımı ile Sinop Samsunluların yeni cazibe merkezi olmuş. Eğer Sinop’u İstanbul’a bağlayacak sahil yolu yapılırsa, Sinop’ta kısa sürede Marmaris ve Bodrum gibi bir turizm cenneti olur.</p>
+<p>HAYALİ DEĞİL, GERÇEK TURİZMİN YENİ YILDIZI SİNOP.<br />
+2. BÖLÜM</p>
+<p>Denize girilebilen tek sahili olan Atakum-Taflan arasında ki dünyanın en güzel kumlarından birisine sahip sahili kayalarla doldurularak katledilen Samsunlular için Sinop artık denize girebilmek için gidilebilecek en büyük alternatif olacaktır.<br />
+Nitekim bu yıl Sinop’u yeni haliyle keşfeden çok sayıda dostumdan en çok duyduğum söz, ”Burnumuzun dibinde Sinop gibi bir tatil beldesi varken, artık Bodrum ve Marmaris’e gitmek hiç de akıl işi değil” Oldu. Son gidişimden sonra bende bu sözlere aynen katılıyorum. Zaten bildiğim birçok aile, hafta sonlarını artık Sinop’ta geçirmeye başladı.<br />
+Sinop’un tarihi güzellikleri de görmeye değer. Yıllar önce gezdiğim, geçmişinde acı bir tarih barındıran ve bir çok ünlünün özgürlüklerinin ellerinden alındığı, bugün müze haline getirilmiş ünlü Sinop Cezaevi mutlaka görülmelidir. Orada yatan ünlülerin anıları yaşanmalıdır diye düşünüyorum.<br />
+Sinop Kalesi, Hamsiloz Koyu ve Akliman da görülmeli, tekne turları ile Sinop’un güzelliği denizden de seyredilmelidir.<br />
+Bunlar Sinop’un güzellikleriydi. Eksikleri yok mu? Tabii ki var. Dikkatimi çeken şey neredeyse çoğu ilin yaşadığı trafik karmaşası ve trafik lambalarının eksikliği ile ana kavşaklarda ve cadde girişlerinde cadde isimlerini ve önemli adresleri gösteren tabelaların olmamasıydı.<br />
+Samsun’a dönükten sonra cazibe merkezi Sinop’a kısa sürede önemli katkılar yapan Belediye Başkanı Sayın Baki Ergül’ü aradım ve kendisini öncelikle kutladım.<br />
+Bilindiği gibi Sayın Baki Ergül yıllarca Samsun DSİ 7. Bölge Müdürlüğünde çalışmış ve daha sonra da DSİ 7. Bölge Müdürlüğü yaparak DSİ’ nin önemli yatırım planlarına imza atmış bir mühendistir.<br />
+Samsun’da görev yaptığı yıllardan tanıdığım, dürüstlük ve çalışkanlığı ile tanınan bu dostum, 2009 Belediye Seçimlerinde CHP’ den Sinop Belediye Başkanlığı seçimlerine katılmış ve yapılan itirazlar ve birkaç kez sayılan oylar sonrası, bir oy farkla seçimi kazanmıştı.<br />
+Bu yıl yapılan Belediye seçimlerini de daha farklı bir sonuçla kazanan Sayın Ergül’ü, Samsun dönüşü aradığımda gördüğüm iki önemli eksiği kendisiyle de paylaştım.<br />
+Her türlü eleştiriye açık olduğunu ve özelliklede eksik yönlerini öğrenmek istediği mesajını tüm dostlarıma da iletmemi istedi.<br />
+Trafik lambaları konusunda, “Daha önce denediklerini ama dar sokaklarda trafiğin daha da içinden çıkılmaz hale geldiğini ve Sinopluların karşılıklı saygısı ile trafiğin daha düzenli aktığını ve bu konunun üzerinde çalıştıklarını” söyledi..<br />
+Cadde ve kavşak tabelalarının ise hazırlanmakta olduğu bilgisini aldım. Kendileri de benden bir istekte bulundular. Elçiye zeval olmaz diyerek sizlerle de paylaşıyorum.<br />
+Temizliğe çok dikkat ettiklerini, ekiplerin sürekli çalıştıklarını ve (Ki, bu da zaten çıplak gözle de görülüyor) Sinopluların kurallara uyduğunu ve kesinlikle yerlere çöp atmadıklarını, bu nedenle özellikle kent dışından gelen konuklardan da bu konuda aynı hassasiyeti göstermelerini beklediklerini ilettiler.<br />
+Son dört ay içerisinde bir kez daha gidip gezme şansını bulduğum Sinop, Eskişehir, Amasra ve Ayvalık’ta ki çağdaş yaşam ve kentsel değişim ile güzelleşme beni etkiledi.<br />
+Hepsinde de konuştuğum hemen herkesin başkanlarının dürüst, çalışkan olduklarını ve hepsinden de öteye belediye başkanlarının halk ve sivil toplum kuruluşları ile kent sorunlarını paylaştığını söylemesiydi. Sanırım bu yaklaşım, bu kentlerde ki değişimin nedenini anlatmaya yetiyordu.<br />
+Çarpıcı olan şey, bu dört belediye başkanının da CHP’ li olmaları ve paranın her şey demek olmadığını göstermeleriydi. Bu dört il ve ilçenin hem belediye başkanlarını, hem de halkını kutluyorum.<br />
+Sinoplular adına en çok üzüldüğüm şey, bu güzel turizm beldesine “Nükleer Santral” Yapılacak olmasıydı. Gerçi Sinoplular bu santrali yaptırmamaya kesin kararlı ama mevcut iktidarın da, verdikleri kararlardan kolay kolay geri adım atmadıklarını bilen birisi olarak içim yanıyor.<br />
+Hadi, bu yazımı tatsız bir espri ile noktalayayım.<br />
+Ölüm kusacak “Mobil Santrali” davet eden bir belediye başkanına, bu kenti enerji koridoru yapacağız diye halkı yanıltan ve başta kömürle çalışacak termik santraller birbiri ardına gelmeye başlayınca ayaklanan Termeliler karşısında susan milletvekillerine sahip Samsun, zaten bu gidişle bir süre sonra yaşanmaz hale gelecektir.<br />
+Gelin bu “Nükleer Santrali de” Samsun’a yapın ve hiç olmazsa Sinop’a bir güzellik yaparak onları bu beladan kurtarın. Ne dersiniz? Uyar mı bilmem?<br />
+Güzel bir hafta dileğiyle..07. 19. 2014</p>
+<p>Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0710-termik-ve-mobil-santraller-geliyor-samsun-u-yonetenler-seyrediyor.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0712-chp-kendisini-ozune-uygun-yeniden-yapilandirmalidir.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

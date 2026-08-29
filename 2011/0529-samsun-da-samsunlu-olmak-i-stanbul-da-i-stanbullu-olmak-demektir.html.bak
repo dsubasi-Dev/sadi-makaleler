@@ -1,0 +1,360 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Samsun&#x27;da Samsunlu Olmak, İstanbul&#x27;da İstanbullu Olmak Demektir…</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Samsun&#x27;da Samsunlu Olmak, İstanbul&#x27;da İstanbullu Olmak Demektir…
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2011
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0529
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>SAMSUN’DA SAMSUNLU OLMAK,<br />
+İSTANBULDA İSTANBULLU OLMAK DEMEKTİR.</p>
+<p>İstanbul şoförleri aracına binenlerle sohbet etmeyi severler. Geçtiğimiz gün bir TV kanalında söyleşiye katılan Gazeteci Ali Sirmen’de, bindiği bir taksi de şoförle arasında geçen ilginç konuşmayı anlattı.<br />
+“Nerelisin hemşerim?” Sorusuyla karşılaşan Ali Sirmen “İstanbulluyum” Diye cevap verir.<br />
+Şoför bir iki kez daha ısrarla aynı soruyu sorar. Her defasında İstanbulluyum diyen Ali Sirmen son defasında birazda kızarak,<br />
+“İstanbulluyum dedim ya” Diye çıkışır.<br />
+Bu kez Şoför kızarak, “Onu anladık, aslen nerelisin onu söyle” Der.<br />
+Ali Sirmen çaresiz, “Kardeşim benim bildiğim tek şey ailemin 300 yıldır İstanbul’da yaşadığı, benim de İstanbul’da doğduğumdur” Diye cevaplar.<br />
+Bu kez şoför anlamıştır. Kararını da vermiştir. Başını iki yana sallayarak, “Desene siz Ermenisiniz.”<br />
+Ali Sirmen TV kanalında gülümseyerek bu konuşmayı aktarırken,<br />
+“Bir türlü doğduğumuz İstanbul’da İstanbullu olamadık“ Diye yakınıyordu.<br />
+Bu ilginç söyleşiyi dinlerken, gözümün önüne Samsun’un sosyal ve demografik yapısı geldi. Ne yazık ki, çok göç alan büyük kentlerde bunları yaşamak olağan hale geldi. Kendi kentinizde adeta yalnız kalıyorsunuz.<br />
+Samsun’da son kırk yılda aldığı göçlerle böyle bir sorun yaşıyor. Aslında değişik yörelerin insanlarından oluşan toplumların, kültürel zenginliğe de ulaşması gerekir.<br />
+Ancak, büyük kentlere göç edenler genellikle eğitim seviyesi düşük, kentinde iş bulamamış, hiçbir mesleki beceriye sahip olmayan insanlardan oluştuğu için, o yörelerin üst düzey kültürlerini de taşıyamamaktadırlar.<br />
+Bu da, onların gittikleri yerlerin kültürel ve sosyal yapısına adapte olmasını zorlaştırmakta, yalnızlıklarını gidermek için kendi yöresi insanı ile çok daha fazla dayanışma içine girmesine ve kenetlenmesine neden olmaktadır.<br />
+Aynı yanlışı Devlet olarak Türkiye de yapmış ve işsiz, kültürel anlamda en düşük, eğitimsiz insanları işsizlik sorununa çözüm bulmak üzere Almanya’ya göndermiştir.<br />
+Önce Almanya, sonrada diğer Avrupa ülkelerine giden lisan bilmeyen insanlarımız, belki iş sahibi oldular ama sosyal açıdan perişan oldular. Horlandılar, en pis işlerde çalıştırıldılar, yaşadıkları topluma adapte olmak yerine, kendi aralarında ki bağlılığı şovenizme dönüştürüp, Gettolaştılar.<br />
+Avrupa ülkeleri dahi böyle bir yapıyı kendi dokularına adapte edemedi. Zorlamalar da, iki kültür arasında bocalayan bir başka ikinci kuşağın oluşmasına neden oldu.<br />
+Büyük kentlerin de sorunu budur. İstanbul’da doğup büyüyenler nasıl kendi kentlerinde azınlıkta kaldı ise, Samsun’da da aynı şeyler olmuştur.<br />
+Samsun Osmanlı öncesi dönemlerde de çok değişik kavimlerin etkisinde kaldığı ve çok değişik kültürlerle yoğrulduğu için, 1970’lere kadar sosyal yaşamı, kültürel ve ekonomik yapısı ile Türkiye’nin en çağdaş, en güçlü kentleri arasında yer almıştır.<br />
+Benim çocukluk yıllarımda Samsun insanı giyim ve konuşma dili ile eski İstanbul insanına benzetilir, onlarla kıyaslanırdı. Çok köklü, sosyal ve kültürel zenginliğe sahip aileler vardı.<br />
+Ne yazık ki, Samsun’un ticari yönden güçlü olduğu yıllarda Samsun’da belli bir ekonomik güce ulaşan bu aileler, Samsun’a göçlerin başlaması ile birer ikişer Samsun’u terk ederek çoğu İstanbul’a yerleştiler.<br />
+Kısacası Samsun dışarıdan işsiz, eğitimsiz, önceleri ailelerini de getirmeyen bir göç alırken, Samsun’un köklü, zengin ve eğitimli ailelerini göç olarak gönderdi.<br />
+Son dönemlerde de, işsiz kalma korkusu ile Samsun’a gelemeyen iyi eğitimli genç kuşağını da kaybetti.<br />
+Samsun adına şanssız bu değişim, Samsunda yeni yapıların oluşmasına neden oldu. Siyasi beklentiler uğruna göz yumulan kural dışı uygulamalar, Samsun’u bugünkü haline getirdi.<br />
+Samsun artık bazı bölgelerin insanlarının oluşturduğu lobilerin denetimine girdi.<br />
+Samsunlunun en büyük derdi olan “Birliktelik” sağlanamamasına zemin yaratı.<br />
+Yeni ticari bir dal olarak büyüklü, küçüklü “İşportacı” Esnafını yarattı. Tüm ticari ve sosyal yaşam kurallarını yok eden bu grup, Samsun’un en köklü ticarethanelerini dahi ezdi geçti. Samsun işportacı cennetine dönüştü.<br />
+Bölgesel lobiler artık Samsun’un ticari ve siyasi yapısına sahip olmuştu. Yeni düzeni bu lobiler belirliyordu. Belediye başkanları da bu yanlışa çanak tutuyordu.<br />
+Siyasi partiler de bu lobilerin etkisinde kalıyor, Samsun adına seçilen milletvekilleri, hatta belediye başkanları çoğunlukla, “Başka illeri asıl illeri olarak kabul eden” İnsanlardan oluşuyordu.<br />
+Büyük kentlerde ki bu olumsuzluğu aşmanın tek yolu, herkesin kendi özünü ve kültürlerini koruyarak, yaşadıkları ve karınlarını doyurdukları ili, kendi ili olarak kabullenmesidir.<br />
+Hedef yaşadığımız ili benimsemek orayla bütünleşmektir. İkinci, hatta üçüncü kuşak Samsun doğumluların dahi Samsunluyum diyememesi yadırganacak bir şeydir. Bunun ötesi şovenizme kayar ki, o kentlerde ortak yaşam ve dayanışma kültürü gelişemez.<br />
+Sonuçta orada yaşayan herkese yarayacak ortak projeler üretilemez, başarı için gerekli olan birliktelik sağlanamaz.<br />
+Samsun’da, bu sıkıntıyı en derinden duyan kentlerin başında gelmektedir.<br />
+Eğer geriye dönerek geçmişimizi incelersek, hepimizin ama erken, ama geç bir yerlerden geldiğimizi görürüz. İşin temeli Türklerin 1071 de Orta Asya’dan Anadolu’ya göçüne kadar dayanır.<br />
+Bu lobileşme hareketi, sonunda hiç de doğru bulmadığım şekilde kendi ilçelerimizin dahi ayrıca lobileşmesine zemin hazırlamıştır.<br />
+Amaç, enerjimizi kendi başımıza bir şeyleri başarmak için harcamak yerine, yaşadığımız bu kenti tüm ilçeleri ile birlikte kucaklayacak “Ortak çıkar birlikteliğinin” Sağlanması olmalıdır.<br />
+Aksi halde, bölünüp parçalanıp, hepimizin zarar göreceği yalnızlığa mahkûm oluruz.<br />
+Aksi halde, bugünkü gibi TBMM’de bizi başka illerin milletvekillerinin savunmasına razı oluruz.<br />
+Kentli olmak, yaşadığı kenti ve oradaki insanları sevmektir. Karnını doyurduğu, para kazanıp çocuklarını büyüttüğü il ile bütünleşmektir.<br />
+Yaşadığı kentte mutlu olabilmenin tek yolu da budur..<br />
+İyi haftalar..17 Nisan 2011</p>
+<p>SADİ SUBAŞI<br />
+S. Şahin [ 21 Nisan 2011 Perşembe 23.15 ]<br />
+Samsun<br />
+Sayın Subaşı Samsun için çok elzem bir konuya temas etmiş ve nazikâne bir üslupla özetlemiştir. Samsun'da yasayanların biraz da bu gözlem doğrultusunda...</p>
+<p>Merhaba Sadi Abi<br />
+Yaşadığı ketin kültürünü benimsemeyen insanların oluşturduğu kalabalık, hiçbir zaman o kentte, kendisini ev sahibi olarak hissedemez. Bunun sıkıntısını yaşıyoruz biz Samsun’da da.<br />
+Bir eski Samsun ev harap halde yıkılırken içi sızlamıyorsa, kentin kültürel dokusunu oluşturan kavramlar yok edilirken yüreği yanmıyorsa, buna kent halkı da denemez artık. Amaçsızca yaşayan ve sadece kişisel çıkarlar peşinde koşan insan kalabalığı dolaşır durur ortalıkta.<br />
+Ne yazık ki; günümüz hükümeti de böyle insanların olmasını istiyor kentlerde. Sorgulamayan, sahip çıkmayan, karşı duruş göstermeyen insanlar istiyorlar.<br />
+Bu gidişatın değişmesi şart.12 Haziran tarihi, kesinlikle göz ardı edilebilecek bir tarih değildir.<br />
+Güzel yazınız için teşekkürler.<br />
+Saygılarımla.<br />
+Nural ÖZCAN</p>
+<p>Merhaba Sadi Bey, merhaba Arif,</p>
+<p>Beni sanırım hatırlarsınız.  Saffet  Atik. Şehir Plancısıyım, 1976–1984 yılları arasında Samsun'da görev yaptım. Nazım  Plan Bürosu kanalı ile ben, Arif, Erkan Uçkun ve diğer arkadaşlarımızla Samsun Nazım Planı'nı hazırlamıştık.</p>
+<p>Sevgili Arif sağ olsun, bazı ilginç konuları bana iletiyor.   Biraz evvel de yine bir yazınızı iletti.</p>
+<p>Sadi Bey, Görüşlerinize katılmamak mümkün değil. Sizi içtenlikle kutluyorum, son derece isabetli saptamalarınız var.</p>
+<p>Ben de görüşlerimi sizle paylaşmak isterim.</p>
+<ol>
+<li>Her göç alan kent gibi, Samsun'lular giderek aidiyet duygusunu kaybetmiştir.</li>
+<li>Giden göçün entelektüel düzeyi yüksek,  buna karşılık gelen göçün eğitim, gelir  ve toplumsal gelişmişlik düzeyi düşüktür.  (bir genel gözlem olarak)</li>
+<li>Gelen göçün  ekonomik kazanç için pek çok şeyi olabilir gördüğünü söylemek olanaklıdır.</li>
+<li>Samsun’un yerel yöneticileri, bir dönem Samsun'a  hakim olan ekonomik ve politik gücü yüksek kesimlerce, Samsun halkına dikte ettirilmiştir.  Bunun sonuçları ağır olmuştur. Özetle, entelektüel ve hoşgörü düzeyi düşük kadroların  Samsun ve Samsunlulara  verdiği zarar büyük olmuş ve yıllar kayıp edilmiştir.</li>
+<li>Verilen göçle, girişimcilik  gücü kaybolmuş,  ekonomi ve istihdamda daralmalar yaşanmıştır.  Samsun'u Samsun yapan, ekonomisine güç katan sektör ve kullanımlar elden çıkarken, Samsun tepki vermemiştir.  Bunlara sahip olabilmek için ortak girişimde bulunamamıştır. Sonuç, giderek  azalan milli gelir payı, yıllar itibarı ile düşen istihdam, nüfus ve kentleşme hızıdır.</li>
+<li>İki büyük nehri üzerinde dört baraj kurulmuş iken, iki büyük ovasında sulamanın 40 yıldır neden  tamamlanamadığını Samsun sorguluyamamıştır.</li>
+<li>Samsun'a  yeni gelenler, ne yazık ki Samsun'lu olamamıştır.  Gelenin  geldiği yer , yaşadığı, çalıştığı ve kazandığı kentten önemli olmuştur.</li>
+</ol>
+<p>Yazdığım gibi bir Samsun'lu olarak bunları size  iletmek istedim.</p>
+<p>Görüşmek dileği ile,</p>
+<p>Selam ve saygılarla,</p>
+<p>A. Saffet Atik</p>
+<p>BELDA LTD Kuşkondu Sokak 20/6 Çankaya 06540 Ankara TurkeyTel:    + 90 312  439 22 10 (pbx)Fax:   + 90 312  439 21 10</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0528-olusan-guven-ile-gelen-basari-i-ste-samsunspor-gercegi.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0530-cumhuriyet-donemi-kazanimlari-ve-ataturk-gercegi-i-nkar-edilemez.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

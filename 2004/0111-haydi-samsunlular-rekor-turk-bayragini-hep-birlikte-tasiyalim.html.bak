@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Haydi Samsunlular Rekor Türk Bayrağını Hep Birlikte Taşıyalım</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Haydi Samsunlular Rekor Türk Bayrağını Hep Birlikte Taşıyalım
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2004
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0111
+
+</div>
+
+
+<div class="article-content">
+
+<p>HAYDİ SAMSUNLULAR REKOR TÜRK BAYRAĞINI HEP BİRLİKTE TAŞIYALIM</p>
+<p>Bilindiği gibi geçtiğimiz yıl cumhuriyetimizin 80. yıl kutlamaları için Şişli Belediye başkanı sayın Mustafa Sarıgül 4km. uzunluğunda bir Türk bayrağı yaptırmış be bu bayrak 29-ekim-2003 günü Şişli'den açılarak 100.000 i aşkın İstanbullunun elleri üzerinde taksim meydanına kadar taşınmıştı. Daha sonra bu bayrak Guınes rekorlar kitabına girme başarısını göstermişti. O gece Kanal-D deki Genç Bakış programına konu olmuş ve bu bu program sırasında sorulan bir soru üzerine sayın Sarıgül ''bu bayrak bundan sonra cumhuriyetimizin kuruluşuna öncülük eden SAMSUN'a yakışır ''diye bir açıklama yapmıştı. Gece geç saatlerde canlı yayınlanan programa telefonla katılarak rekor bayrağı Samsunlular adına istemiştim. Daha sonra Samsun'dan giden basın mensuplarının huzurunda bu bayrağın 19 mayıs 2004 te Samsun'a götürülmesi bir protokola bağlanmıştı. Bu satırları bayrağı Samsun'a uğurlamak üzere bulunduğum İstanbul'dan yazıyorum. Rekor bayrak artık Samsunluların.<br />
+Vali yardımcısı sayın Mustafa İngenç'in başkanlığındaki SAM-SEV başkanı olarak benimde içinde bulunduğum 19 Mayıs Kutlama Komitesi bu bayrağın Samsun'a geliş ve bayrak yürüyüşünü 19 Mayıs kutlama proramına aldı. Yapılan Programa göre 19Mayıs sabahı saat 09,30 da yapılacak BANDIRMAVapurundan ATATÜRK'ün Samsun'a çıkış töreni sonrası Sayın Mustafa Sarıgül  rekor bayrağı Samsun Valisi sayın Mustafa Demir'e teslim edecektir. Yine programa göre  rekor bayrak !9 mayıs çarşamba günü saat 18,00 de Uğur Mumcu Parkı önünde üzerine bulunduğu tırdan açılmaya başlanarak öğrenci, öğretmen, asker, polis okulu öğrencileri ve Samsun Halkının ellerinde taşınarak istiklal (çiftlik )caddesini takiben Cumhuriyet meydanına getirilecektir. O gece cumhuriyet meydanında yapılacak Ulu önder Atatürk'ün anısına kesilecek pasta kesim töreni ve havai fişek gösterilerininde içinde bulunduğu müzik şölenine katılınacaktır. Bayrağın boyu 3600 metre, genişliğl 4 metre ağırlığı ise 4 tondur. Bayrağı taşımak üzere 10000 kişi görevlendirilmiştir. Ancak bu bayrak SAMSUNLULAR'ın katılımı ile gerçek şölene dönüşecektir. İnanıyorumki Çiftlik  caddesi ve 56 lardan itibaren şanlı Türk Bayrağına Samsunlular büyük bir katılımla destek verecektir. Roter ajansı ve ulusal basın ile çok sayıda TV kanalı bu büyük yürüyüş ve şöleni Dünyaya ve tüm Türkiye'ye yayınlayacaktır. Samsun için büyük bir onur ve tanıtım fırsatı yaratacak olan bu bayrak yürüyüşüne destek vermeye tüm Samsunluları bekliyoruz. Bu bayrak artık Samsunlulara emanet edilmiştir. Bayrak Samsun'da uygun görülecek bir yerde Halkımızın ziyaretine açılacaktır. Bu rekor bayrağı Samsun'a veren sayın Mustafa Sarıgül'e bir kez daha teşekkür ediyorum.<br />
+Tüm Samsunluların bu yıl farklı bir anlam kazanan 19 mayıs Gençlik ve Spor Bayramını kutluyorum. İyi haftalar dileğiyle..</p>
+<p>SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0110-toplum-i-cin-caba-harcayanlari-yureklendirmeliyiz-1.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0112-tesekkurler-samsun.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

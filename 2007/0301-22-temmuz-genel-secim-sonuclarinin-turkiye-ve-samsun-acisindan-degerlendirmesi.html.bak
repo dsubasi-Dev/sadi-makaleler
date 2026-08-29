@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>22 Temmuz Genel Seçim Sonuçlarının Türkiye ve Samsun Açısından Değerlendirmesi.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+22 Temmuz Genel Seçim Sonuçlarının Türkiye ve Samsun Açısından Değerlendirmesi.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2007
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0301
+
+</div>
+
+
+<div class="article-content">
+
+<p>22 TEMMUZ GENEL SEÇİM SONUÇLARININ TÜRKİYE<br />
+VE SAMSUN AÇISINDAN İLK DEĞERLENDİRMELERİ:</p>
+<p>Herkesin her türlü düşüncesini serbestçe söyleyebildiği demokratik rejimlerde halkın konuştuğu yer seçim sandıklarıdır. Halkımız ise tavrını net bir şekilde ortaya koymuş ve 4,5 yıldır ülkemizi yöneten AKP iktidarından memnun olduğunu verdiği destek oyları ile göstermiştir. Demokrasi inancı içersinde bu vurgulamayı yaptıktan sonra, bir durum değerlendirmesi yapmakta fayda vardır.<br />
+Siyasetin kendine özgü kuralları her ülke için değişiklik göstermektedir. Eğer siz, bu kuralları toplumun beklentileri ve özellikleri doğrultusunda uygulamaya koyamıyorsanız sonuç almanız mümkün değildir. Kabul etmek gerekir ki, AKP tüm olumsuzluklara rağmen halkın beklentilerini çok iyi tespit etmiş ve oyunu kuralına göre oynamıştır. Uygulanan yolların ne kadar etik olup olmadığını da bu noktada tartışmak istemiyorum. Siyasi mücadele, emekle ve uzun zamana yayılan bir çalışmayla sonuç veriyor. AKP yılardır iktidar olmanın tüm olanaklarını da kullanarak, birebir kişilere ulaşarak yoğun bir çaba harcamıştır. Bu çalışmalar öylesine bir etki dalgası yaratmıştır ki, toplumun en büyük sorunu haline gelen işsizlik ve dar gelirliyi inim inim inleten gelir adaletsizliği dahi, ezilen toplum katmanları için öncelik alamamıştır. Fındık, tütün, şeker pancarı ve buğday üreticisi yediği darbeyi tepkiye dönüştürmemiştir. Ordu’nun fındık, Samsun’un teşvikte uğradığı büyük haksızlığa rağmen AKP’ye % 60 civarında destek vermesi, her türlü mantıksal hesabın ötesindedir.<br />
+Olayı ülke boyutunda incelediğimiz de gördüğümüz tablo çok da şaşırtıcı değildir. İktidar partilerinin doğal olarak yıpranarak oy kaybetmesinin çok doğal olması gereken bir ortamda, AKP’nin % 47 e yaklaşan bir oy alması tam anlamı ile bir seçim zaferidir. Bu sonuçtan sonra hiç kimsenin yakınma hakkı yoktur. Bu sonucun çıkmasında iktidar partisinin ne kadar katkısı olmuşsa, özellikle ana muhalefet partisinin de bir o kadar beceriksizliği ve yeteneksizliğinin etkisi olmuştur.<br />
+Bir yanda yıllardır halkı yakından ilgilendiren çalışmalar sürdürerek yaklaşan seçime yatırım yapan bir iktidar partisinin, diğer yanda yapılan yanlışları tekrarlamaktan öteye hiçbir ciddi politika üretemeyen, sürekli şikâyet edip iddia ettiklerini belgeleme becerisini gösteremeyen bir ana muhalefet partisinin var olduğu bir yarışmadan, böylesine bir sonucun çıkması kaçınılmaz olmuştur. MHP beklenen, alması gereken oyu alarak bir anlam da kendisini kurtarmıştır. Ama başta DP olmak üzere diğer muhalefet partileri de bu sonuca gereken desteği vermişlerdir. Yıllardır yenilgiye doymayan, bin bir türlü delege oyunları ve kendisine şartsız biat etmiş genel başkan yardımcıları, genel sekreter, parti meclisi ve il yönetimleri ile partisinin önünü tıkayan, partiye oy vereceklerin dahi çoğunun “çaresizlikten istemeye istemeye vereceğim” dediği Sayın Deniz Baykal gibi bir Genel Başkan’a sahip ana muhalefet partisi ile bundan fazlası olamazdı. Tam seçim arifesinde, ANAP ile birleşme sürecine girip bunu beceremeyen, parti ekolünün hiçbir duayeninin desteğini alamayan Sayın Mehmet Ağar ile DP de, kendi tabanında yarattığı güvensizlikle AKP’nin başarısına gereken katkıyı vermiştir.<br />
+İlk Sonuçların alınması ile istifa eden DP Genel Başkanının davranışı ne kadar onurlu bir davranış ise, yazımı yazdığım şu ana kadar ( pazartesi saat 17.00 ) sesi soluğu çıkmayan Sayın Baykal’ın tavrı da o kadar düşündürücüdür. Dün akşam seçim sonuçlarını birlikte izlediğim CHP’ nin saygın isimlerinden bir arkadaşımla aramızda şöyle bir diyalog geçti. Sayın Ağar’ın istifasından sonra,” birazdan Sayın Baykal’ın da istifası gelir” dediğimde, arkadaşım “ Çok beklersin. Benim tanıdığım Baykal gecenin ilerleyen saatlerinde ya genel sekreterini veya bir genel başkan yardımcısını konuşturur ve o da oyumuzu yükselttik, halkımız bize muhalefet görevi verdi der. Sonra tepkileri bekler, ertesi gün konuşur ve topu parti meclisine atar” demişti. Gerçekten de saat 24.00 sularında CHP Genel Sekreteri aynı şekilde bir açıklama yaptı. Üzerinden 17 saat geçti, hala ses yok. Toplumun çok büyük kesiminin verdiği desteği de bozuk para gibi harcayan Sayın Baykal’a ve onun uzantılarına CHP seçmeni daha ne kadar dayanacak merak ediyorum.<br />
+Seçim sonuçlarını Samsun bazında incelediğimizde de, Türkiye geneli için yaptığım değerlendirmeden farklı şeyler söylemek mümkün değildir. Yaklaşan seçimler için uzun vadeli hiçbir çalışma yürütmemiş, bırakın köyleri Samsun merkezde dahi hiçbir etkinliği duyulmamış, sivil toplum kuruluşları kadar bile Samsun sorunlarına sahip çıkıp tavır sergileyememiş CHP il yönetimleri bu yenilgiye ortam hazırlamıştır. Aday listesinde yapılan yanlış tercihlerde bu sonuçta etkili olmuştur.  Sayın Prof. Dr Haluk Koç’un tek başına gösterdiği inanılmaz çaba da bu olumsuzlukları kapatmaya yetmemiştir.<br />
+DP ise yukarıda sözünü ettiğim nedenlere ilave olarak aday listesinde yapılan tercih hataları, yıllardır partiye emek verenlerin göz ardı edilmesi sonucu, her zaman Türkiye ortalamasından çok oy aldığı Samsun’da dahi 2002 seçimlerinde aldığı oyun yarısına düşmüştür.<br />
+AKP için söylenecek hiçbir şey yoktur. Kazanan her zaman haklıdır. Milletvekili sayısı bir eksilmesine rağmen oyunu artırarak % 60 sınırına dayanmıştır. İlk kez bir bayan milletvekilini de meclise taşımışlardır.  Umuyorum ki, geçen dönem söz verilip yapılamayanlar bu dönem yapılır. Yine umuyorum ki, Sayın Recep Tayip Erdoğan partisine Türkiye ortalamasının üzerinde bir oy desteği veren Samsun’a bu kez haksızlık yapmaz ve gereken önem ve desteği verir.<br />
+Sözün özü, Samsunlu için ne işsizliğin, ne teşvik dışı bırakılmanın ne de verilen sözlerin tutulmamasının önemi yokmuş. Samsunlu, tüm Türkiye’de olduğu gibi diğer partilere ve liderlerine olan güvenini yitirmiş ve onları siyasetten silmiştir. Sayın Başbakan’ın dün akşam geç saatlerde yaptığı konuşma gerçekten gelecek açısından umut verici olmuştur. Kazanılan seçim zaferinin etkisinde kalmadan herkesi kucaklayan konuşmasının, yeni bir dönemin başlayacağının işareti olmasını umuyorum.<br />
+Yeniden seçilenlerle, Samsun’u temsil hakkı kazanan yeni milletvekillerimizi kutluyor ve Samsun için güzel projelere imza atmalarını diliyorum. Seçim sonuçlarının ülkemiz ve Samsun’umuz açısından güzellikler getirmesi dileğiyle, iyi haftalar.. 23. Temmuz.2007<br />
+SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0300-1920-ile-2007-arasinda-samsun-un-tbmm-de-temsili.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0302-22-temmuz-secimleri-sonrasi-beklentiler.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

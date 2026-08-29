@@ -1,0 +1,332 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Samsunspor Felakete Sürüklenirken Son Çağrı.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Samsunspor Felakete Sürüklenirken Son Çağrı.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2014
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0717
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>SAMSUNSPOR FELAKETE SÜRÜKLENİRKEN SON ÇAĞRI</p>
+<p>Samsunspor, sevdalılarının yardım feryatları arasında geciktirilen kötü sona, yani uçuruma hızla yuvarlanıyor. Artık bu işin şakası kalmamıştır.<br />
+Bu kez, bırakın ortaya çıkacak bazı fedailer tarafından düzlüğe çıkartılması, belki de “KAYYUM” yolu dahi çözüm olmayacaktır.<br />
+Samsun’u seven birisi olarak böylesine iç burkan bir yazıyı yazmak istemezdim ama Samsunluların yüzünü kızartacak bu kötü sonla buluşmadan yapılacak son bir çağrının cevap bulacağı umudumu tüm Samsunlularla paylaşmak istedim.<br />
+Yapılacak bu çağrının adresini bulacağına ve Samsunspor’un içerisine düştüğü bu ekonomik çöküşün asıl sorumluları olarak bugüne kadar duyarsızlıklarını sürdüren kent yöneticilerinin ve eski yöneticilerin artık bazı gerçekleri kabul edeceklerine inanıyorum.<br />
+Samsunspor’un kısa bir geçmişinden söz edip, son onbeş yıllık yönetimlerinde yaşananları anımsamakta yarar görüyorum.<br />
+1965 de kurulan ve 3. Yılında şimdiki adıyla Süper, o günkü adıyla 1. Lig’e çıkan Samsunspor 1984-1989 yılları arasında ki beş yıllık Hasbi Menteşoğlu döneminde en parlak dönemini yaşıyordu.<br />
+1992- 2005 yılları arasında onüç yıl ( Arada bir yıllık Yusuf Ziya Yılmaz’ın Başkanlık dönemi hariç.) Başkanlık yapan İsmail Uyanık döneminde de Samsunspor son parlak dönemini yaşamış ve sonunda O’nun da 2005 sezonu sonunda pes etmesi ile Samsunspor’da yönetim krizlerinin yaşandığı dönemler başlamıştır.<br />
+2005 sonrası yönetimi alacak başkanların bulunamaması üzerine biraz da siyasi iradenin iteklemesi ile zoraki görev alan başkanlar dönemi başlıyor ve daha ilk sezon sonunda, uzun bir aradan sonra ( 2005-2006) Samsunspor bir kez daha Süper ligden düşüyordu.<br />
+2006 yılında düştüğü PTT Liginde de bir alt lige düşme tehlikeleri yaşanarak geçirilen beş yıllık bu süreçte, beş değişik başkan görev üstleniyordu.<br />
+Bugün yaşanan ekonomik felakete doğru hızla gidişin en önemli yanlışları da bu dönemde yapılıyordu. Bu dönemde kötü gidişi önlemek için büyük çaba harcayarak kulüp muhasebesine çekidüzen veren Fuat Köktaş ve Hakkı Tomaç’ı ayrı tutmak istiyorum.<br />
+2005- 2010 arası hızla büyüyen borcun en büyük nedeni ise, yönetimlerin yaptığı transfer yanlışlarından kaynaklanıyordu. Çoğu kiralık alınan, ne vereceği belli olmayan çok fazla sayıda futbolcu transfer ediliyor ve bol keseden çekler ve senetler veriliyordu.<br />
+Bu oyuncular aldıkları paranın karşılığını vermedikleri gibi sezon sonlarında kulübe para getirmeden ellerinde ödenmemiş çek ve senetlerle kulüpten ayrılırken, Samsunspor elinde futbolcusu kalmadığı için her sezon bir o kadar yeni oyuncu daha transfer etmek zorunda kalıyordu.<br />
+Kulüpten ayrılan oyuncuların alacakları için federasyona ve UEFA’ ya yaptıkları şikâyetler sonucu borçlar katlanarak büyürken, kulüp yönetilemez hale geliyordu.<br />
+İsmail Uyanık’ın görevi bıraktığı 2001 yılında bir sezon Samsunspor Başkanlığı yapan Sayın Yusuf Ziya Yılmaz döneminde İsmail Uyanık dönemi ile ilgili olarak yapılan bir şikâyetle başlayan mali denetimde, Samsunspor’a 7,5 Milyon ( O günkü para ile 7,5 trilyon) TL. Ceza kesiliyordu.<br />
+Bütün lig kulüplerinde de zaman zaman yapılan bir yanlış olan biri resmi, diğeri açık olarak takip edilen hesaplara ait tüm evrakların denetçilere teslim edilmesi ile Samsunspor bu büyük cezaya çarptırılıyordu.<br />
+Bu cezanın ödenememesi sonucu yaklaşık 13 Milyon TL. Gibi büyük bir rakama ulaşan ceza ile başlayan ekonomik çöküş, sonraki dönemlerde yapılan yanlışlarla hızla büyümeye devam ediyordu.<br />
+2005 yılına kadar on üç yıl Samsunspor’u yöneten İsmail Uyanık’ın kentten hiçbir destek alamamasına rağmen, Samsunspor’un O’nun dönemde önemli başarılara imza atmış olması da, son dönemlerde yaşanan ekonomik çıkmazın ve başarısızlığın gerçek nedenini de açıklıyor sanıyorum.<br />
+2010’ a kadar PTT Liginde zor günler yaşayan Samsunspor, Erkut Tutu Yönetiminin göreve gelmesi ile başarılı bir dönem geçiriyordu. Samsunspor’u ekonomik krizlerden de kurtaracak bir başarıya imza atılıyor ve kulübün borcu beş milyon TL. Düşürülürken, aynı sezonun sonunda da Süper Lig’e dönülüyordu.<br />
+Süper Lig’e çıkacak Samsunspor’un kasasına Türkiye Futbol Federasyonundan ve diğer bazı kaynaklardan 20 Milyon (20 trilyon) TL. Civarında para girecekti.<br />
+Ancak, bu kez de Samsunspor tarihinin en şanssız olaylarını yaşıyordu. Takımı şampiyonluğa taşımasına iki maçı kalan Erkut Tutu Başkanlığında ki Yönetim Kurulu, dayatılan bir olağanüstü kongre ile görevi bırakmak zorunda kalıyordu.<br />
+Kongreyi dayatan iradenin desteği ile iş adamı Kazım Yılmaz Başkanlığında oluşan bir yönetim göreve geliyordu. Bir yanda Süper Lig’e çıkılması ile gelecek büyük bir para, diğer yanda yeni yönetimin vereceği parasal destekler, Samsunspor camiasını sevince boğmuştu.<br />
+Ancak işler hiç de umulduğu gibi gitmiyor ve kısa süre sonra kendisine destek veren irade ile arası açılan Kazım Yılmaz yalnız kalıyordu.<br />
+Kendisini yanlış yönlendirenlerinde etkisi ile kulübün başına getirilen profesyonel bir menajerin yüksek paralarla sakat ve yanlış oyuncuları transfer etmesi ile hiç de beklenmeyen bir kâbus yaşanıyor ve önemli bir para sıkıntısı olmamasına rağmen Samsunspor, Süper Lig’e çıktığı yıl veda ediyordu.<br />
+Samsunspor küme düşmekle kalmıyor, Kazım Yılmaz istifa ediyor ve Genel Kurula dahi katılmazken, bıraktığı elli milyon TL.(Elli trilyon) dayanmış borçla, kulübü de uçuruma itiyordu.<br />
+Kendisinden sonra büyük bir cesaretle kulübü başkansız bırakmayarak görevi üstlenen Emin Kar Yönetimi ise görev yaptığı sürece Kazım Yılmaz’ın koyduğu temlikleri ödemekten ve O’nun ve ondan önceki dönemlerin yaptığı transfer yanlışlardan gelen oyuncu alacaklarına para aramaktan bitkin düşerek istifa etmek zorunda kalıyordu.<br />
+Bir yanda takımın kadrosunda ki oyuncuların alın teri olan paralarının verilememesi, diğer yanda federasyon ve UEFA kanalıyla kapıya dayanan geçmiş dönemlerde transfer edilmiş oyuncuların alacakları ile ödenmesi gereken diğer borçlar, kulübü de geri dönüşü çok zor bir dar boğaza sokuyordu.<br />
+Kulüp yönetimleri bu borçlarla boğuşurken, Spor Toto ve federasyondan gelen paralar da Kazım Yılmaz ve diğerlerinin temlikleri nedeniyle alınamıyordu.<br />
+Bu özeti yapmamın nedeni, bugün gelinen noktanın tam bir felaketin eşiğinde olmamızın ve kötü sonucu yaratan yönetimsel hataların bir kez daha hatırlanması içindi.<br />
+Çünkü hastalığın nedeni bilinmeden tedavisi de yapılamaz. Eğer kulüp son on yılını zar zor da olsa geçirebilmişse, bununun en büyük nedeni sayısı 2-3 ü geçmeyen işadamımızın ve iktidarın İl Başkanı Fuat Köktaş ile önceki Spor Bakanı Suat Kılıç’ın sağladığı kaynaklardır. Bugünkü Spor Bakanı Çağatay Kılıç’ın da gereken desteği verdiğini sanıyorum.<br />
+O HALDE ÇÖZÜM VAR MIDIR? NELER YAPILMALIDIR?<br />
+Hastalığın nedeni, özellikle 2005 sonrası yapılan akıl almaz yönetimsel hatalar ve sonucu da, çok kısa sürede ödenmesi gereken büyük boyuttaki borçlardır.<br />
+ÇÖZÜM;<br />
+Eğer Samsunspor bu kent için bir anlam taşıyorsa ve Samsunspor’un bu uçurumdan kurtulması isteniyorsa,<br />
+Bu kenti yönetenlerin ve siyasi iradenin bir şekilde acil ödemeler için önemli parasal kaynak sağlaması gereklidir.<br />
+Kent yönetenleri artık diğer kentlerde olduğu gibi kulübe ciddi gelirler sağlayacak bazı uygulamaları başlatmalıdır.<br />
+Kendi işlerinde son derece başarılı olan geçmiş dönem başkan ve yöneticileri, aynı başarıyı Samsunspor’da ki görevleri sırasında gösterememiş ve kulübün uçurumun eşiğine gelmesinde de en büyük rolü oynamışlardır. Kendi hataları sonucu kulübü borç batağına sokanlar, bunun cezasını da alacaklarına temlik koyarak Samsunspor’a ödetmektedirler. Bu yanlışa son vererek koydukları temlikleri, en azından Samsunspor düzlüğe çıkana kadar kaldırmaları zorunlu hale gelmiştir. Bilmelidirler ki, eğer Samsunspor “Kayyum’a” gider veya kapanmak zorunda kalırsa, bu paralarını zaten alamayacaklardır. İflas eden bir tüccardan hiç kimsenin alacağını alabildiği görülmemiştir.<br />
+Samsunspor’un ayakta kalmasını isteyen herkes bu konuda destek sağlamalı ve kent Yönetimi, Samsunspor’u bu dar boğazdan çıkaracak, konularına hâkim bir yönetim kurulunun oluşturulmasına öncülük etmelidir.<br />
+Samsunspor’un çıkışı, alt yapıdan gelecek sporcularımızdır. Emin Kar yönetiminin başlattığı bu alt yapıdan oyuncu kazandırma uygulaması ısrarla sürdürülmelidir.<br />
+Bunlar yapılamazsa, başta bu kenti yönetenler ve kent adına siyaset yapanlar olmak üzere, Tüm Samsunlular utanç verecek kötü sona hazırlıklı olmalıdırlar.<br />
+Böylesine sıkıntılı bir dönemde paralarını alamamalarına rağmen, maçlara çıkarak bütün güçlerini ortaya koyan ahlak ve namus abidesi sporcularımızı, teknik kadromuzu ve idari personelimizi kutluyorum.<br />
+En kısa sürede öncelikle bunların ekonomik sorunlarının giderilmesi umuduyla, Samsun’da yaşayan, Samsun’da kazanan, Samsun’da siyaset ve yöneticilik yapan herkesi el uzatmaya davet ediyorum..<br />
+İyi haftalar..27. 10. 2014</p>
+<p>Ecz. SADİ SUBAŞI<br />
+Not: Tüm yazılarımı http://www. hedefhalk. com. tr internet gazetesinden takip edebilirsiniz..</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0716-dogal-guzellik-mi-yapay-guzellik-mi-ve-kuresel-isinma.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0718-bu-kafalarla-nukleer-enerji-santrali-yapmak-toplumsal-cinayet-i-slemek-demektir.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

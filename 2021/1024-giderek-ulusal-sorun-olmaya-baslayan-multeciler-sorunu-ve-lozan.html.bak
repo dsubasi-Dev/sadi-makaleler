@@ -1,0 +1,323 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Giderek Ulusal Sorun Olmaya Başlayan Mülteciler Sorunu ve Lozan</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Giderek Ulusal Sorun Olmaya Başlayan Mülteciler Sorunu ve Lozan
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2021
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+1024
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>ULUSAL SORUN OLMAYA BAŞLAYAN MÜLTECİLER<br />
+VE LOZAN.</p>
+<p>Öncelikle son yıllarda giderek sayıları ve ülke çeşitliliği artarak devam eden mültecilerin, toplumsal bir tepkiye neden olduğunu ve bu tepkinin giderek tehlikeli bir şekilde arttığının altını çizmek istiyorum.<br />
+Amerika’nın Ortadoğu ve Orta Asya ülkelerinin sınırları değişecek diyerek başlattığı ve Büyük Ortadoğu Projesi (BOP) doğrultusunda işgal ettiği Irak, Libya, Mısır’da liderler devrilirken, çıkartılan iç savaşlar sonucunda bu ülkeler kan gölüne dönmüştür.<br />
+Ülkelerinin ulusal çıkarları doğrultusunda petrollerine sahip çıktıkları için ülkeleri işgal edilen ve liderleri Saddam ile Kaddafi’nin öldürülmesi sonrası Irak ve Libya iç savaşlara mahkûm edilerek paramparça edilirken, bu iki ülkenin petrolü artık Amerika’nın denetimine girmiştir.<br />
+Sıra Suriye’ye gelmişti. O güne kadar dostumuz olan Suriye’de de Esat’ın devrilmesi için başlatılan sürece anlaşılmaz şekilde Türkiye’de dâhil oluyor ama hesaplar tutmuyor ve Esat devrilemiyordu. Ama çıkan iç savaşta yüzbinlerce kardeşkanı dökülürken, ülkelerinden kaçan milyonlarca Suriyeli Türkiye sınırını geçerek kontrolsüz bir şekilde ülkemizin dört bir tarafına dağılıyordu.<br />
+Bunlar yetmezmiş gibi son günler de başımıza bir de Afganistan olayı ve oluk oluk Türkiye sınırlarına dayanan Afgan mülteciler çıktı.<br />
+2001 yılı Eylül tarihinde Amerika’da yaşanan terör olayı sonrası Amerika’nın terörden sorumlu tuttuğu Taliban Örgütüne karşı Afganistan’ı işgal etmişti. Bu işgal ile başlayan savaş 20 yıla yakın sürerken yüzbinlerce Afganlı ile 2500 de Amerikan askeri ölüyordu.<br />
+Afganistan’a da demokrasi getireceğiz iddiası ile giren Amerika, bırakın demokrasi getirmeyi, Taliban’ı da yok edemediği gibi Afganistan’ı da iç savaşa mahkûm ettikten sonra,  geçtiğimiz aylarda askerini Afganistan’dan çekmeye başlamıştır.<br />
+Bu açıklama ile birlikte Kabil Havaalanının kontrolünün Türk askeri tarafından yapılacağı ve bu amaçla Afganistan’a ek askeri birliklerin gönderileceği gündeme gelmiştir.<br />
+Bu karar halen ülkemizin en büyük tartışma konusudur. Türk askerinin hangi nedenle Afganistan’a gideceği net bir şekilde açıklanamazken, Taliban sözcüleri Türk askerini de Afganistan’da asker bulunduran diğer devletlerin askerleri gibi işgalci olarak tanımlayarak düşman muamelesi yapacaklarını açıklamıştır.<br />
+Ekonomimizin son derece bozuk olduğu bir dönem de, yeni bir cepheye asker sürmenin getireceği maddi kayıplar bir yana, hiçbir şekilde bizi ilgilendirmeyen sınırlarımız ötesinde olası askerlerimizin can kayıplarını kim nasıl açıklayacaktır?</p>
+<p>Bunları anlatmamın nedeni, son onbeş yılda o güne kadar iyi ilişkiler içerisinde olduğumuz tüm komşularımızla kavgalı hale gelmemiz yanında, bu ülkelerde ki iç savaşlardan kaçarak yurdumuza sığınan mültecilere dikkat çekmek içindi.<br />
+Mültecilerin yarattığı ve yaratacağı sorunlar nelerdir?<br />
+Ülkemizi yöneten siyasi irade tarafından kendi insanımıza karşı adeta ayrıcalıklı hale getirilen bu mültecilerin açıkça kollanması ve onlara tanınan hakların kendi insanımıza tanınmaması ve mültecilerin işsizlik sorunu yaşamamasının toplumumuz da yarattığı tepkinin giderek artması ile toplumsal barışımız endişe verici duruma gelmiştir. Bu konuyu biraz daha açarsak;<br />
+a-Ülkemizde ki gençlerin işsizlik oranının % 25’leri aştığı ve üniversite mezunlarının dahi iş bulamadığı bir ortamda, Suriyeli, Iraklı ve diğer ülkelerden gelen mültecilerin rahatlıkla iş bulması, işyeri açanlara büyük kolaylıklar sağlanması, üniversitelere bizim çocuklarımız dershanelerde ter dökerek girebilirken, mültecilerin sınavsız üniversitelere girebilmesini, bu ülke insanlarının kabullenmesi düşünülemez.<br />
+b-Kendi insanımız sağlık hizmetini prim ve tedavi ile ilaç bedelinin belli bir kısmını ödeyerek alabilirken ve bazı ilaçları da hiç alamazken mültecilerin her türlü ilacı, hatta her türlü sağlık malzemesini bedelsiz alıyor olması, benim insanımı kendi ülkesinde 2. Sınıf vatandaş durumuna düşürmüştür.<br />
+c-Mülteci ailelerine fert ve çocuk başı para verilmesi ile 5-6 kişilik ailelerin eline kendi ifadelerine göre 15.000.00 TL. na yakın para geçmesi, işsizlik ve açlıkla mücadele eden benim vatandaşımı rencide etmektedir.<br />
+Sınırlarımızı kevgire çevirerek Anadolu içlerine kadar ulaşan ve yakalanamayanların ülkemizin içlerine dağılıp, kentlerde koloniler oluşturarak mahallelerde kendi insanımızı huzursuz ettikleri bir gerçektir.<br />
+Başlangıçta 5-6 milyon Suriyeliden söz edilirken, bugün Iraklılar, Afganlar ve diğer ülkelerin mültecileri ile birlikte mültecilerin ulaştığı sayı tam bilinemezken, bu sayının 10 milyonu bulduğu tahmin edilmektedir. Bu ülkelerde sınırlarımızı tehdit eden PKK, PYD, İŞİD ve EL-KAİDE militanları cirit atmaktadır. Sınırlarımızdan geçenler içinde bu terör örgüt üyelerinden bulunup bulunmadığının sağlıklı bir şekilde kontrol edilebildiğini sanmıyorum. Nitekim Samsun’da dahi sık sık DEAŞ militanı şüphesi ile Iraklı mültecilerin yakalandığı yerel basında yer almaktadır.<br />
+Asıl büyük sorun, mültecilerin sahip oldukları olanakların da rahatlığı ile geri dönmeyi düşünmedikleri gibi doğumlarla sayılarının hızla artmasıdır. Ülkemizde ayrılıkçı Kürt nüfusu yanında, şimdi de sayıları 10 milyonu bulan bu mültecilerle toplamları Türkiye nüfusunun ¼’ üne yaklaşmış bulunmaktadır.<br />
+SONUÇ:<br />
+98. Yıldönümünü kutladığımız bugünlerde LOZAN ANTLAŞMASI’NIN önemi çok daha anlam kazanmıştır. Bilindiği gibi Osmanlı Devleti, 1. Dünya Savaşında kaybeden blokta yer alarak Asya, Avrupa ve Afrika’da ki tüm topraklarını kaybetmiş ve son vatan toprağı Anadolu’nun büyük bir kısmının da işgal edilmesi ile yıkılarak tarihte ki yerini almıştır.<br />
+Savaşı kazanan devletler son vatan toprağı Anadolu’yu da paylaşmak üzere son Osmanlı Hanedanına SEVR ANTLAŞMASINI imzalatmışlardı. Bu antlaşma Milli Mücadeleyi kazanarak Anadolu’yu düşmanlardan temizleyen Mustafa Kemal Paşa tarafından yırtılıyor ve imzalanan Lozan Antlaşması ile Misak-İ Milli Sınırlarımız çiziliyordu.<br />
+O gün Lozan Antlaşmasını imzalamak zorunda kalan Avrupa Devletleri, Lozan’da verdiklerini yeni kurulmuş Türkiye Cumhuriyeti Devleti’nden teker teker geri alacaklarını daha o gün söylemişlerdi.<br />
+Şimdi bu olanların ışığında bir gerçeği görmek zorundayız. Amerika, Büyük Ortadoğu Projesi’nin Suriye ayağında başarılı olamaması nedeniyle BOP’UN son halkası olan Türkiye üzerinde bir başka planı uyguluyor olmasını yadırgamamak gerekir.<br />
+Irak’ın işgali, Suriye’de çıkarttığı iç savaş ve şimdi de işgal ettiği Afganistan’dan çekilerek bu ülkeyi Taliban’a teslim etmesi ile bu ülkelerden başlayan kaçışla on milyona yakın mültecinin planlı bir şekilde Türkiye’ye yönlendirilmiş olması da göz ardı edilmemelidir.<br />
+Böylece sağ-sol ve mezhep çatışmaları ile parçalayamadıkları Türkiye’nin demografik yapısının bozulması sonucu önemli sayıya ulaşan mültecilerle bu ülkenin asıl sahipleri arasında çıkacak çatışmaların sonrasında bir iç savaşa dönüşebilme olasılığı korkutucu değil midir?<br />
+Demografik yapısı bozulmuş bir Türkiye’nin, ileride Avrupa Birliği’nin de desteği ile referanduma zorlanıp eyalet sistemine geçirtilerek parçalanmanın yolunu açmak hiç de uzak bir olasılık değildir diye düşünüyorum.<br />
+Şimdi soru şu;<br />
+Bu kadar mülteci bu ülkeye kabul edilirken, ülkemizi yönetenler olabilecek bu olumsuzlukları görememiş olabilirler mi? Buna ihtimal dahi vermek istemiyorum.<br />
+O zaman da bu mültecilerin ülkemize yönlendirilmesi, bizlerin bugün bilmediği bir dış baskı sonucu mu kabul edilmiştir?<br />
+Bu soruların cevabını öğrenmek, ülkemizin geleceğinin garanti altında olduğunu görebilmemiz adına zorunlu hale gelmiştir?</p>
+<p>Turizm mevsiminin açılması ile “Maske-mesafe ve temizlik” Kuralları gevşemiş, aşı yapımının da yavaşlaması ile hızla artan Covid-19 vakaları yeniden toplumsal yaşamımızı tehdit etmeye başlamıştır. Aşısını yaptırmayanların bir an önce aşılarını yaptırmaları yanında, Pandemi koşullarına sıkı sıkıya uymak zorunlu hale gelmiştir.<br />
+Aman dikkat diyor, sağlıklı bir hafta diliyorum. 26.07.2021</p>
+<p>SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="1024-baskanlik-modeli-neden-tutmadi.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="1025-samsunspor-bu-sahipsizligi-hak-etmiyor.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

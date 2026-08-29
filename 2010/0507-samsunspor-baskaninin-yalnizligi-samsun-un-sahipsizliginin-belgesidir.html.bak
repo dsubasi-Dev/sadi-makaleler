@@ -1,0 +1,351 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Samsunspor Başkanının Yalnızlığı, Samsun&#x27;un Sahipsizliğinin Belgesidir.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Samsunspor Başkanının Yalnızlığı, Samsun&#x27;un Sahipsizliğinin Belgesidir.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2010
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0507
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>SAMSUNSPOR BAŞKANI’NIN YALNIZLIĞI,<br />
+SAMSUN’UN SAHİPSİZLİĞİNİN BELGESİDİR.</p>
+<p>Önceki Pazar günü Samsunspor’un İzmir’de Karşıyaka Kulübü ile oynadığı maç sırasında, Samsunspor Başkanı Sayın Erkut Tutu Karşıyaka Kulübü 2. Başkanı ve kardeşi tarafından önce sözlü, devamında da yumruklu saldırıya uğramıştır. Olay, hem de protokol tribünü denen kent yöneticilerinin ve seçkinlerinin oturabildiği şeref tribününün de yaşanmıştır.<br />
+Futbolda ilgisi olmasa da, hiçbir Samsunlunun bu olayı görmezden gelmesi olağan karşılanamaz. Çünkü Sayın TUTU, taşıdığı unvan ve görev nedeniyle Samsun’u temsil ediyordu. Sayın Tutu’ya yapılan saldırı, O’nun şahsında tüm Samsunlulara yapılmış bir saldırıdır.<br />
+Üzülerek söylemek gerekirse, spor anlayışının olduğu yerde olmaması gereken bu tür çirkinlikler, Türk futbol yaşamında zaman zaman rastlanan olaylar haline gelmiştir.<br />
+Buraya kadar yazdıklarım bilinen şeyler. Ancak olayın Samsunspor açısından yadırganan tarafı, bu tür olaylara Samsunluların tüm kesimleri ile olan duyarsızlığıdır.<br />
+Son olay sonrası Sayın TUTU’NUN şikâyetçi olması nedeniyle olay polise intikal ediyor ve adli kovuşturma başlatılıyor. Bunlar Sayın Tutu’nun ve Samsunspor Yöneticilerinin kişisel çabası ile oluyor.<br />
+Bu çaba, Sayın Tutu’nun ve O’nun şahsında Samsunspor’un incinen onurunun onarılması için o anda yapılabilecek ilk şeydi. Bu da yapılmıştır.<br />
+Siyasetin elinin sporun içersinde oluşu beni hep rahatsız etmiş, hatta Samsunspor’da ki çöküşün ve yanlış yönetim biçimlerinin oluşmasının, siyasetin spora karışması ile başladığını düşünmüşümdür.<br />
+Ancak, sporun içersinden gelen bir kişi olması ve bugüne kadar Samsunspor’a gösterdiği ilgi nedeniyle bir siyasetçiye farklı bakmış ve O’nun, bir Samsunspor Yöneticisi gibi davranmasını, açıklamalar yapmasını dahi hoş görmeye çalışmışımdır.<br />
+Bu kişi, bir siyasetçi olan Samsun Milletvekili Sayın Fatih Öztürk’tür. Sayın Fatih Öztürk o gün maçtadır ve olay gözlerinin önünde olmuştur.<br />
+Bu olay, aslında Samsun’a nasıl sahip çıkılması gerektiğini göstermek için Sayın Öztürk için bir şanstır. Ama Samsunspor’un O’na en çok ihtiyaç duyduğu anda, kendisinden beklenen tavrı gösterememiştir.<br />
+Sayın TUTU’NUN adli işlemleri sırasında yanında yer almayarak, iktidar partisinin en güçlü olduğu illerden birisinin milletvekili olan Sayın Öztürk, bu fırsatı iyi kullanamamıştır.<br />
+Sayın Milletvekilimiz olayın sonrasında ki gelişmelerin tüm safhalarında Sayın TUTU’NUN yanında olmalı, siyasi gücünü Samsun’dan ve Samsunspor’dan yana koyabilmeliydi.<br />
+Üzülerek söylemek gerekirse, siyaset cephesinden tek açıklama, AKP Genel Başkan Yardımcısı konumunda ki Milletvekilimiz Sayın Suat Kılıç’tan gelmiştir.<br />
+Sayın Kılıç olay sonrası bir açıklama yaparak, “Samsun ve Samsunspor sahipsiz değildir” demiş ve Futbol Federasyonunu uyarmıştır. Kendilerine teşekkür ederim. Ama federasyonun verdiği cezaya bakınca, çok da yararı olmamış diye düşünüyorum.<br />
+Sayın Valimizin ve İl emniyet Müdürümüzün olay sonrası bir girişimi olmuş mudur? Bilmiyorum. Bu konuda kamuoyuna yansıyan bir haber de duymadım. Oysa en azından İzmir Valisi ve İzmir Emniyet Müdürü aranarak olayı daha ciddi takip etmeleri talep edilebilir ve Samsunspor başkanı ile Yönetimi’ne yalnız olmadıkları hissettirilirdi.<br />
+SAM-SEV’İN 1988 yılından beri söyleye geldiği, “Sahipsiz Kent Samsun” söyleminin geçerliliği bu olay ile bir kez daha perçinlenmiştir.<br />
+Aslında Sayın Suat Kılıç’ta, yukarıda ki açıklaması ile Samsun’un sahipsizliği gerçeğine vurgu yapmaktadır.<br />
+Benim köşe yazılarımda altını çizdiğim ve TV söyleşilerinde sık sık vurguladığım “Bu kentte siyaset çökmüştür” tezi de, ne yazık ki doğrulanmıştır.<br />
+Samsun olarak senin altısı iktidar partisinden olmak üzere dokuz milletvekilin olacak,  üstüne üstlük bir de bakanın bulunacak ve birisi hariç hiç birisinden ses çıkmayacak.<br />
+Cumartesi Günü internet gazetelerinde, Pazar Günü de bazı yerel gazetelerde Bayındırlık ve İskân Bakanı, Samsun Milletvekili Sayın Mustafa Demir’in bir “ Artık Samsun Sahipsiz Değil” başlıklı açıklamasını okudum. Sekiz yıldır tek başına iktidar olma şansını yakalamış bir partinin Samsunlu Bakanı olarak Sayın Demir, hükümetin gecikmeli olarak yaptığı işleri anlatıyor ama Samsunspor’dan tek söz etmiyordu. Söylenecek tek söz  bulamıyorum.<br />
+Eğer bunlara bu kent adına siyaset yapmak deniyorsa, böyle bir siyasete ve siyasetçiye bu kentin ihtiyacı da, onlardan bir beklentisi de olamaz.<br />
+Bu olay, Samsunlu kent yöneticileri ile sivil toplum kuruluşlarının da Samsun’a sahip çıkma noktasında nasıl duyarsız olduğunu göstermiştir.<br />
+Hele de, Türkiye’de ki konum ve yapıları nedeniyle çok etkin gözüken Ticaret ve Sanayi Odası Başkanlığı ile Baro Başkanlığı’ndan hiçbir ses çıkmaması düşündürücüdür.<br />
+Bugüne kadar Samsun’a sahip çıkılması konusunda en duyarlı kuruluş konumuna gelmiş olan SAM-SEV’İN de gecikmiş tepkisi, hafta sonunda yerel gazetelerde ilan olarak yayınlanmıştır. Metin içeriği doyurucu olsa da, hem geç kalınmış, hem de çok ses getirmemiştir.<br />
+Oysa hatırlanacaktır, bundan 4–5 yıl önce Sayın Adnan Ölmez Başkanlığında ki Samsunspor Yönetim Kurulu Üyeleri bir Fenerbahçe maçında Şükrü Saraçoğlu Stadı Protokol Tribününe alınmamış ve Fenerbahçe taraftarlarının arasında maç izlemek zorunda bırakılmışlardı.<br />
+Olay vahimdi. Sayın Ölmez’in şahsında hem Samsunspor Camiası ve yöneticileri aşağılanmış, hem de Yöneticilerimiz muhtemel saldırının hedefi haline getirilmişlerdi. Açıkçası can güvenlikleri tehlikeye atılmıştı.<br />
+SAM-SEV, anında Futbol Federasyon’una sert bir yazı yazmış ve Fenerbahçe Kulübü’nün gösterdiği sorumsuzluğun cezalandırılması gerektiğini, aksi halde bundan böyle olabilecek olayların sorumlusunun Futbol federasyonu’nun olacağını bildirmişti.<br />
+Fenerbahçe Kulübü Başkanlığı’na yazılan bir başka yazı ile de Samsunspor’dan özür dilenmesi istenmişti.<br />
+Sonuçta, Fenerbahçe Kulübü gibi bir kulüp, Samsunspor yönetiminden özür dilemiş ve bunu da kendi internet sitesinden yayınlamıştı.<br />
+Aynı şeylerin bu kez yapılmayışını ciddi bir eksiklik olarak gördüğümü söylemek isterim.<br />
+Şampiyonluk iddiasında ki bir takımın bundan böyle başına gelebilecek diğer olaylarda da, Samsun adına söz sahibi olan tüm kurum ve kuruluşların aynı duyarsızlığı göstermeyeceğini umuyorum.<br />
+Her Pazartesi günü “SUNUŞ” adıyla bu gazete de yayınlanan köşemi bu konuya ayırmış ve yukarıda ki yazımı Cuma akşamı kaleme almıştım.<br />
+Ancak Cumartesi akşamı “Gazetem Halk’ın” Spor sayfasına baktığım da, bir dost olarak bildiğim Sevgili Resul Akçay’ın aynı konuyu işleyen yazısını okudum.<br />
+Gece kendisini cep telefonundan aradım ama telefonu kapalıydı. Araması için mesaj gönderdim. Ancak, yazıma bu ilaveleri yaptığım Pazar günü saat 15.00’e kadar herhangi bir cevap alamadım.<br />
+Açıkçası kendi adıma üzüldüm. SAM-SEV’İ savunmak bana düşmez ama kurucusu olmakla onur duyduğum, 14 yıl Başkanlığını yaptığım SAM-SEV ile ilgili yazdıklarını okuyunca üzüntüm çok daha arttı.<br />
+Özellikle de, SAM-SEV için kullandığı, “Hele hele pek çok konuda her şeye maydanoz! ( ne demekse?) olan SAM-SEV bile kabuğuna çekildi” cümlelerini, beni ve SAM-SEV’İ çok iyi tanıdığını sandığım yılların deneyimli gazetecisi Sevgili Resul Akçay’a hiç yakıştıramadım.<br />
+Ayrıca SAM-SEV’İN Cuma Günü yerel gazetelerde yayınlanan kınama ilanını da okumamış olduğunu anladım.<br />
+Kendi adıma üzüntüm ise bir süre sonra yerini başka duygulara bıraktı. Aynı gazete de köşe yazan birisi olarak, Sevgili Resul Akçay’ın yazmadan önce beni aramış olmasını beklerdim.<br />
+Bunların hepsi bir yana, daha sonra ben Sevgili Akçay’ın bu yazısına bir başka açıdan bakmayı ve olayı farklı algılamayı uygun gördüm.<br />
+Eğer bu kentte benim gibi iddiaların sahibiyseniz, bir başka deyimle kentin kanaat önderlerinden birisi olarak görülüyorsanız, şartlarınız ve konumunuz ne olursa olsun, tepkinizi çok daha erken göstermeniz gerekiyor.<br />
+O nedenle olsa gerek, Sevgili Akçay’da bana böyle bir misyon biçmiş olmalı ki, eleştirileri oklarını bana da çevirmiştir. Üslup ve yöntemlerine katılmamakla birlikte bana yönelttiği eleştirileri bir uyarı olarak kabul ediyorum.<br />
+Ama SAM-SEV hakkında söyledikleri için aynı şeyleri söyleyemem.<br />
+Ancak, o yazıdan üzüntü duyduklarına emin olduğum Sevgili SAM-SEV Başkanı ve Yönetim Kurulu Üyesi dostlarımı da şunu hatırlatmak istiyorum.<br />
+SAM-SEV Samsun’un tüm konularında kuruluşundan bugüne kadar geçen 22 yılda sergilediği tavır ve projeler ile Samsun’un tartışılmaz en önemli sivil toplum kuruluşu olmuştur.<br />
+Bu özelliği nedeniyle de, SAM-SEV’DEN beklentiler artmıştır. Bu, SAM-SEV adına gurur duyulması gereken bir konumdur.<br />
+Keşke Samsun’un hemen her sorununda önderlik yapan SAM –SEV, bu konuda da STK’LARI bir araya toparlamış olsaydı.  Olaya birde bu pencereden bakmalılar diye düşünüyorum.<br />
+Keşke, bir gazeteciye hiç de yakışmayan o ifadeler hiç kullanılmamış olsaydı.<br />
+Keşke, aynı tepkiler bu kentte büyük olduğu iddiasında olan diğer yetkili kişi, kurum ve kuruluşlara da yöneltilebilseydi. Keşkeleri artırmak mümkün ama uzatmaya gerek yok.<br />
+Umarım bundan böyle herkes daha etkin ve erken bir şekilde sorunlara eğilirler.<br />
+Samsunspor’umuza bu akşam oynayacağı çok önemli Denizli maçında başarılar diliyorum. Dileğim sizler bu yazıyı okurken, Samsunspor puan hanesine üç puanı yazdırmış olsun.<br />
+İyi haftalar.. 14 Kasım 2010</p>
+<p>SADİ SUBAŞI</p>
+<p>Sadi BEY,<br />
+Samsun konularına duyarlılığınıza hayranım.<br />
+Bu olayı da çok güzel değerlendirmişsiniz.<br />
+Umarım anlaması gerekenler anlamıştır.<br />
+İyi dileklerimle.<br />
+Naci BEŞTEPE<br />
+14 Kasım 2010 23.00 tarihinde Sadi SUBAŞI</p>
+<p>Dursun Arslan [ 18 Kasım 2010 Perşembe 16:22 ]<br />
+Samsunspor un yalnızlığı<br />
+Siyaset iki tarafı b. klu değnek misali iktidar milletvekillerimiz hem İzmir i hem Samsun u küstürmeyelim anlayışıyla suskun kalmışlardır ya da aldıkları talimat gereği zannediyorum. Ama unuttukları Samsunspor bizim markamız ve onu savunmak onların görevi gün gelecek birileri bu takıma ölümüne sahip sıkacak o zaman ayrılmayacaklar arkasından 100. yılına kadar inşallah şampiyon oluruz süper ligde biz görmezsek de torunlarımız anlatır mezarımız basında.. Sevgi ve saygılar.</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0506-chp-de-ki-son-darbe-umutlari-ve-beklentileri-artirmistir.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0508-hangi-i-si-yaparsan-yap-ama-severek-yap.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

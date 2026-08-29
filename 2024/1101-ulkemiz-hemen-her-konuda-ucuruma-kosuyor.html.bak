@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Ülkemiz Hemen Her Konuda Uçuruma Koşuyor.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Ülkemiz Hemen Her Konuda Uçuruma Koşuyor.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2024
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+1101
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>ÜLKEMİZ HEMEN HER KONUDA HIZLA SONU KARANLIK</p>
+<p>BİR UÇURUMA KOŞUYOR.</p>
+<p>Ülkemizi yöneten siyasi irade artık işin ucunu öylesine kaçırdı ki, ülkemiz adeta suç işlemenin serbest olduğu bir ülke haline geldi.</p>
+<p>Denetimli serbestlik diye adeta bir nevi af ile suçlular aramızda gezip, suç işlemeyi sürdürüyor.</p>
+<p>Dünyanın en tehlikeli uyuşturucu mafyaları ülkemizi mesken tuttu.</p>
+<p>İlkokul çocuklarımız dahi uyuşturucu satıcılarının hedefinde. Sokaklar uyuşturucu satıcısı canilerle ve onların zehirlediği biçare insanlarla dolu.</p>
+<p>Genç kızlar ve kadınlar acımasız ve korkusuzca katlediliyor. Bebeklere dahi tecavüz eden iğrenç yaratıkların sayısı artıyor.<br />
+Din öğreteceğiz diye kurulan ve her türlü kontrolden uzak tarikat yurtları ve Kur’an kurslarında erkek-kız demeden ortaya çıkan tecavüz olayları, tam anlamı ile ahlaki bir çürümüşlüğün göstergesidir.</p>
+<p>Hakimler ve savcılar bağımsız karar veremez hale getirildi. Siyasi iradenin beklentisi dışında vicdanı ve yasaların gereğini yerine getiren hakimler, baktıkları davalardan alınarak başka illere gönderilirken, davaya isteneni yapacak hakimler atanıyor.<br />
+, ile<br />
+Bu ülkenin bağımsızlığını savunan Uğur Mumcu, Ahmet Taner Kışlalı, Abdi İpekçi, Muammer Aksoy, Org. Eşref Bitlis, Toryumdan nükleer enerji üretimi üzerinde çalışırken Isparta’da düşen uçakta kuşkulu bir şekilde can veren Prof. Dr. Engin Arık ve arkadaşları ile geleceğin yıldızı olacak genç siyasetçi Adnan Kahveci gibi nice vatansever insanımız bu ülkeye ihanet edenler tarafından yok edildi.</p>
+<p>Bu ülkenin gerçek vatansever subayları bir şekilde ordudan kopartılmış ve onların yeri tarikat yanlısı subaylarla doldurulurken,<br />
+Atatürk ilkelerine inandıkları için yemin töreninde bunu haykıran genç subay adayları ordudan ihraç ediliyor.</p>
+<p>22 yıldır bu ülkeyi tek başına yöneten siyasi parti ve tüm yetkileri kendisinde toplayarak tek başına siyasi iradeyi temsil eden genel başkanı, şimdi milli savunmayı güçlendirmek için vatandaşından akıl ve mantık dışı vergiler almak istiyor. Bunun açıklaması, ordumuzun yeterli düzeyde güçlü olmadığının itirafı değil midir?</p>
+<p>Peki, o zaman “Bu orduyu kim zayıflattı” Diye sormazlar mı?</p>
+<p>Sağlık sektörü alarm veriyor. Kamu hastaneleri kanser kuşkusu olan hastaya altı ay sonraya MR randevusu veriyor.<br />
+Son günlerde ortaya çıkan ve para hırsının gözlerini kararttığı doktorlar ve sağlık personeli ile siyasetçilerden oluşan “Yenidoğan Çetesinin” İşlediği bebek cinayetlerinin beş yıldır gizlenmesi ve bu cinayetlerin işlendiği bir hastane gurubunun, bu dönemde sağlık bakanlığı yapmış bir kişiye ait olduğunun ortaya çıkması, sağlık alanındaki çöküşün hangi boyutlara ulaştığını gösteriyor.</p>
+<p>Hastanelerdeki deneyimli doktorların, özlük haklarını ve hak ettikleri ücretleri alamadıkları için yurt dışına gitmelerini, “Giderlerse Gitsinler” Diye adeta destekleyen ve onların yerine diplomaları dahi tartışmalı Suriyeli doktorları göreve getiren siyasi irade, bu olumsuzlukların baş sorumlusu değil midir?<br />
+1995 yılında Çiller Hükümeti’nin, zamansız ve yeterli geçiş süresi kullanılmadan yerli ilaç sanayisinin gelişmesini sağlayan, “İhtira Beratı Kanunundan” Vaz geçilerek, 556 sayılı Kanun Kuvvetinde Kararname ile “İlaçta Patent Yasasını” Kabul etmesi ile büyük bir gelişme içinde olan yerli ilaç fabrikaları, ya kapandı ya da uluslararası tekellerin eline geçti.<br />
+Artık büyük çapta rakipsiz kalan uluslararası ilaç firmaları, dayattıkları fiyatları alamadığı zaman Türkiye’ye ilaç vermiyor.<br />
+Bu nedenle de bugün hayati önem taşıyan çok sayıda ilaç eczanelerde bulunamıyor.</p>
+<p>Artık tüm bu olumsuzlukların sadece beceriksizlik ve çıkar sağlamak için yapıldığını söyleyemeyiz.<br />
+O nedenle ülkemizin bilinçli bir şekilde çökertilmeye çalışıldığını ve bu yapılırken, birilerinin de bunu fırsat bilip ülkemizin milli kaynaklarını sömürdüğünü görmeliyiz.<br />
+Bu işin özeti, ülkemizi haritadan silmek için asırlardır uğraşan sömürgeci “Batının”, Dış ve iç destekli Büyük Ortadoğu Projesi ile Sevr’de yapamadıklarını yürürlüğe koymuş olmalarıdır.</p>
+<p>Bu ülkeyi seven ve Türk olmakla gurur duyan herkesin, artık bu gerçekleri görmesi ve çocuklarımız ile torunlarımızın geleceği için kaygılanmasının ve tehlikenin boyutlarını görmesinin zamanı gelmiştir.</p>
+<p>Hepimizin silkinerek, ulusal değerlerimize ve geleceğimize sahip çıkmamız gerektiği günlerden geçtiğimizi göz ardı etmemiz gerektiğinin altını çiziyorum.</p>
+<p>Hukukun öncelikli olduğu ve tam demokratik ortamın sağlandığı günleri görmek dileğiyle, sorunsuz haftalar diliyorum.<br />
+21.10.2024</p>
+<p>Ecz. SADİ SUBAŞI<br />
+e- http://www. hedefhalk. com</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="1100-bu-kadar-kotu-yonetime-hata-yapiliyor-denemez-2.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="1102-halkin-i-radesini-temsil-etmesi-gereken-tbmm.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

@@ -1,0 +1,333 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Bu Benim Ülkem Olamaz</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Bu Benim Ülkem Olamaz
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2022
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+1061
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>BUNLAR BENİM ÜLKEM DE OLAMAZ, OLMAMALIDIR.</p>
+<p>Bugün sizlerle ülkemizin içine düştüğü ve sonuçları çok ağır olacak sorunlardan sadece üçünü paylaşacağım.<br />
+Hızla yoksullaşma:<br />
+Ülkemiz, Cumhuriyet döneminin en ağır ekonomik krizi ile boğuşuyor. 2. Dünya savaşı sonrası ülkemizde yaşanan yokluk dönemini her yönüyle yaşamış birisi olarak, bugün yaşananları anlayamıyorum.<br />
+Devletin bir kurumu olan TÜİK’ in dahi, düşük göstermeye çalışsa da %83 olarak açıkladığı enflasyonun oranı, gerçekte % 150’nin üzerinde olduğu biliniyor.<br />
+Böylesine bir enflasyon sarmalında asgari ücret ne kadar artırılırsa artırılsın, sabit gelirlilerin bu enflasyonun altında ezilmesi önlenemez.<br />
+Böyle bir ortamda siyasi irade sorunu çözmek yerine, “Dünya ülkelerinde de yüksek enflasyon var, insanlar marketlerin raflarında alacak ürün bulamıyor.” Gibi gerçek dışı açıklamalarla, yoksulluk içinde inleyen halkımızın tepkisini gidermeye çalışıyor.<br />
+Benim ülkem bu kadar kötü yönetilmeyi hak etmiyor.</p>
+<p>Gençliğin Uyuşturulması:<br />
+Ülkemiz son yıllarda uyuşturucu merkezi haline gelmiş bulunuyor. Emniyet güçleri hemen her gün onlarca uyuşturucu satıcısı yakalıyor.<br />
+Ama henüz bu uyuşturucuları ülkemize getiren uyuşturucu baronlarından yakalanan olduğunu duymuyoruz.<br />
+Kolombiya’da Türkiye’ye gönderilen beş ton kokain, Mersin Limanın da uyuşturucu yüklü bir gemi yakalanıyor. Bu kadar büyük miktarda ki uyuşturucu, gençliğimiz adına korkunç bir tehlikedir.<br />
+Ülkemizin geleceği olan çocuklarımızın, daha ilkokul seviyesinden başlayarak her türlü uyuşturucu ile gelecekleri yok edilmektedir.<br />
+Gençlerimizin uyuşturucu belası ile geleceği adeta yok edilirken, bu sorunun bir türlü kökünden kazınamaması düşündürücüdür.<br />
+Eğer bu sorun kısa sürede çözülemezse, ülkemizin en dinamik beyinleri, daha da açıkçası ülkemizin geleceği büyük bir tehlike altına girmiş olacaktır.<br />
+Benim ülkem bunları hak etmiyor.</p>
+<p>Toplumsal Ahlakın Çöküşü:<br />
+Bir ülkeyi çökerten en önemli sorunlardan birisi de ahlakın yozlaştırılmasıdır. Ne yazık ki, ülkemizde son yıllarda hız kazanan cinsiyet ayırımı sonucu, çok sayıda kadın vahşice katledilmiştir ve eli kanlı katillere caydırıcı cezalar uygulanmadığı için bu vahşet hala devam etmektedir.  .<br />
+Siyasi yönetimin kadın haklarına bakışı, kadını korumaktan uzaktır. Cinsiyet farklılıklarının güvencesi olan “İstanbul Sözleşmesi” Hiçbir neden yokken kaldırılmıştır.<br />
+Ülkemizin ahlaken yozlaşmasının bir başka nedeni de, tarikatlarda ortaya çıkan iğrenç olaylardır.<br />
+Osmanlının zayıflamasında da etkileri olan tarikatlar, son dönemlerde iyice kontrolden çıkmış ve dallanıp budaklanarak sayıları hızla artmıştır.<br />
+Bilindiği gibi Osmanlının çökertilmesinde de önemli rol oynayan İngilizler, bu yıkımın en kolay yolunun bu tarikatlar yolu ile halkın cahilleştirilmesi olacağını görerek, tarikatların güçlenmesi için büyük destek sağlamıştır.<br />
+Dinimizi öğretmek adına neredeyse her sokakta açılan kuran kurslarında ve tarikat yurtlarında, küçük yaşta çocuklar Devletin okullarına gitmekten alıkonulmaktadır.<br />
+Bu tarikatlarda süregelen tecavüz olayları ise yüzümüzü kızartmakta, vicdanlarımızda derin yaralar açmaktadır.<br />
+Cesur gazetecilerin çabası ile ortaya çıkarılan Erzurum’da ki tecavüz olayı henüz sonuçlanmadan, bu kez de gazeteci Timur Soykan, İstanbul’da ki İSMAİLAĞA Tarikatının bir kolunun şeyhinin 6 yaşında ki kızını 29 yaşında ki müridine teslim etmesi, toplumu isyan ettirmiştir.<br />
+Bu baba ile anne nasıl bir insandır ki, 6 yaşında ki öz kızlarının yaşamını karartmaktan çekinmemiştir. Bu kızın ifadesini okurken midem bulandı.<br />
+Kamuoyuna yansıdığı için toplumun haberi olan bu iğrenç olay ve öncekiler, acaba bunlarla sınırlı mıdır? Hiç sanmıyorum ki, hepsi bu olsun.<br />
+Özellikle yoksul ailelerin hem dinini öğrensin, hem de barınsın diye bu tarikat yurtlarına emanet ettikleri çocuklar, bu yurtlarda çağdaş eğitimden kopartıldıkları gibi iğrenç sapıklar tarafından tacize uğrayabilmektedir.<br />
+Asıl iğrenç olan şey, bir tarikat şeyhinin altı yaşında ki kendi öz kızını 29 yaşında ki müridine teslim edebilecek kadar vicdanını karartmış olmasıdır.<br />
+Yazılı ve görsel medyada konuşulmasına rağmen, Devleti temsil eden siyasi iradenin ve ilgili bakanlar ile Diyanet İşleri Başkanının ancak beş gün sonra açıklama yapmaları ve yapılan açıklamaların zora ki yapılmış, inandırıcılıktan uzak olması dahi, tarikatların nasıl bir koruma altında olduğunu göstermektedir.<br />
+Şimdi soruyorum;<br />
+Şu ana kadar hiçbir tarikattan bir kınama gelmemesinin anlamı, bu iğrenç olayın onlar için normal olduğu anlamına mı gelmektedir?<br />
+Aileden sorumlu Bakanın TBMM’ de yaptığı açıklama da, olayın 2020 yılında yargıya taşınması ile bilgi sahibi olduklarını ve mağdureyi koruma altına aldıklarını söylemesi, o günden bugüne kadar olayın kamuoyundan saklandığının da itirafı değil midir?<br />
+2020’de yargıya intikal eden bu olayın, o günden bu yana sonuçlanmaması bir yana, bu iğrenç olayın duyulması üzerine kamuoyunda ki çok büyük tepkiye rağmen, iğrenç olayın suçlusu baba, anne ve müridin hala serbest olması ve davanın mayıs ayına ertelenmiş olması, öncekiler gibi bu olayında örtbas edileceği kuşkusunu yaratmıyor mu?<br />
+Artık üstü örtülemeyecek kadar ülkemize zarar veren ve kontrolden çıkan bu tarikatların sınırlanması, hatta gerekiyorsa kapatılması için tüm partiler bir araya gelerek ne zaman ortak karar alacaktır? Hele de bu Devletin kurucu partisi CHP, bu konuda hala kararlı bir çıkış yapmayacak mıdır?<br />
+Bu devlet, isteyen ailelerin çocuklarına dinini öğretmek için çok sayıda İmam hatip Okulu açmıştır. Buna rağmen her geçen gün sayıları artan bu tarikatlara neden ihtiyaç duyulmaktadır? Bu tarikatlara bu kadar göz yumulmasının tek nedeni, özellikle sağ partilerin oy alabilecekleri arka bahçeleri olarak görmeleri midir?<br />
+Bu tarikatların asıl amacı Türkiye’yi Araplaştırmak ve şeriat düzenini getirmek midir? Öyleyse, bunu kimler ve hangi ülkeler desteklemektedir?<br />
+SONUÇ: 1- Bu ülkenin hem bu tarikatlara ihtiyaç duymaması, hem de halkın dinimizi kendi lisanından öğrenebilmesi için hepimizin ortak paydası olan Kur’an, Türkçe olarak okutulmalı ve bu camilerde ki vaazlarda da uygulanmalıdır. Bu yapılmadığı sürece, eğitimsiz din adamlarının dinimizi kendi yorumları ile öğretmelerine mahkûm olacağımız bilinmelidir.<br />
+Ülkemiz, halkına dinini kendi lisanından öğretmeyen tek ülke olmaktan kurtarılmalıdır.<br />
+2-  Yukarıda üç ana başlıkta özetlediğim sorunlar eğer giderilemezse, Türkiye Cumhuriyeti’nin sonunun da, Osmanlı Devleti gibi olacağı göz ardı edilmemelidir.<br />
+Osmanlı’da ilk matbaayı kuran İbrahim Müteferrika, Osmanlı’nın gerilemesinin nedenlerini bakın nasıl açıklamış;<br />
+Kanunların uygulanmaması, b- Adaletsizlik, c- Devlet işlerini ehliyetsiz kişilere bırakılması, d- Bilim adamlarının uyarılarının dikkate alınmaması, e- Askerlikte modernleşmenin sağlanamaması, f- Orduda disiplini zayıflaması, g- Rüşvetin olağanlaşması ve Devlet gelirlerinin kötüye kullanılması, h- Dünyadan uzak kalınması.<br />
+İşte bunları yapamayan koca bir İmparatorluk tarihin karanlık sayfalarına gömülmüştür.</p>
+<p>Ülkemizde ki bu sorunların giderildiği günleri görmek dileğiyle sağlıklı ve güzel haberler duyacağımız bir hafta diliyorum. 13.12.2022<br />
+Ecz. SADİ SUBAŞI<br />
+e- http://www. hedefhalk. com</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="1060-samsun-buyuksehir-belediye-baskanligi-hizmet-yeridir.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="../2023/1056-ulkemizin-durumu-ve-altili-masanin-degerlendirmesi.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Papa&#x27;nın Densizliği ve Bizim Aymazlığımız.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Papa&#x27;nın Densizliği ve Bizim Aymazlığımız.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2006
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0253
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>PAPA‘NIN DENSİZLİĞİ VE BİZİM AYMAZLIĞIMIZ…</p>
+<p>Geçen haftanın en önemli olayı, Papa Benedictus’ un tüm Müslüman dünyasını rencide eden açıklamasıydı. Papa’nın bu açıklamaları, adeta son dönemlerde yoğunluk kazanan dinler ve kültürler arası yakınlaşma çabalarına da darbe vurmuştur. Papa bir din adamından çok, densiz bir siyasetçinin üslubunu kullanmış ve kolay, kolay onarılamayacak bir yara açmıştır. Aslında, bir din devleti konumunda olan Vatikan’ın Devlet Başkanı unvanını da taşıyan Papa’nın, bu konuşma tarzını çok da yadırgamamak gerekir diye düşünüyorum. Anlaşılan, Papa’nın asırlar önce Müslüman Türkleri Anadolu’dan çıkartmak için  haçlı seferlerini düzenlemiş bir dünyanın başı olarak, kini depreşmiştir.<br />
+Müslüman dünyası bu konuda  en üst düzeyde tepkisini ortaya  koymuştur. Sonuçta, bu açıklamaların bizim açımızdan uyarı niteliğinde bir yararı olacağına  inanıyorum. AB ye giriş yolunda önemli bir süreçten geçen Ülkemize yapılan dayatmaları bir türlü algılayamayanlara, bunun  bir tokat gibi çarpmış olması gerekir diye düşünüyorum. AB  ye  girebilme sevdamız uğruna, bir çok değerimizi kapitülasyon niteliğin de, AB devletlerine sunduğumuz bir dönem de ki bu çıkış , umarım bizi daldığımız derin uykudan uyandırır. Çünkü AB bize çok pahalıya mal olacak gibi gözükmektedir. Papa’nın hemen ardından bu defa da AB Komisyonu Türkiye Delegasyonu Başkanı Hansjörg Kretschemer, Ülkemizin göz bebeği silahlı kuvvetlerimize dil uzatmıştır. Sayın Başkan  Türk Ordusunu kastederek,  Türkiye’de güvenlik kuruluşlarının yasal v e kurumsal düzene saygı duymadıklarını söyleyebilmektedir. Oysa Türk Ordusu, dört tarafı topraklarında gözü olan,  laik ve çağdaş rejimine kasteden ülkeler tarafından kuşatılmış olan bu ülkenin insanlarının tek ve son güvencesi olarak, diğer ülkelerden farklı bir misyon ve ek sorumluluklar üstlenmiştir. Silahlı kuvvetleri  daha çok demokratikleşme adına etkisiz hale getirme çabasını, bu toplumun anlaması ve kabullenmesi düşünülemez.  SEVR’ in  hortlatılmaya çalışıldığı bir dönem de, bu gerçeği göz ardı ederek bu toplumun değer verdiği şeylere dil uzatanlara ne yazık ki, hak ettikleri cevap dahi verilememektedir. Bir toplumun bu derece aymazlık içersinde olması insanı korkutmaktadır. Demokrasi ile yönetilen bir ülkede, askerden medet ummanın, çağdaş demokrasi  anlayışı ile bağdaşır yeri olmadığı bir gerçektir. Ancak hiçbir çağdaş demokrasi ülkesinde, siyaset bizde ki kadar yozlaşmamıştır.  Üzülerek söylemek gerekirse, son kırk yıl da  iktidar olanların, ülkeyi iyi yönetemediği ve toplumu kaosa sürüklediği, ülkeyi üç kuruşa muhtaç ettiği, bugün de İMF denen yeni sömürü düzeninin kucağına oturttuğu bir gerçektir.  Bunun sonucu olarak zaman, zaman yaşanan  askeri müdahalelerin dahi, sonradan yaptıklarını unutarak demokrasi havarisi kesilen  bir çok kişi tarafından desteklendiği hatırlardadır.<br />
+AB yolunda askerin bugünkü kadar etkin olması gerçekten de kabul edilebilir bir şey değildir. Ancak bunun yolu siyasi ahlakı  ve kuralları çağdaş anlayışa çekmekten geçmektedir. Siyasetçi, yapılan anketlerde hala güven duyulan kurumlar listesinin en sonlarında yer alıyorsa, bu acı gerçeği göz ardı edemeyiz. Yasaları işine geldiği gibi yaz boz tahtasına çeviren, hukuku ve kurumlarını hala tam bağımsız hale getiremeyen, çağdaşlığın ön şartı olan laik düzeni yozlaştırmaya ve yıkmaya çalışanların bulunduğu bir ülkede, ister istemez  bozulmadan dimdik ayakta duran asker,  en büyük güvence olarak görülmektedir.<br />
+Gerek Papa’nın ve gerekse AB temsilcisinin açıklamalarının izi dahi silinmeden, bazı kesimlerin gösterdiği sorumsuzluk, ne yazık ki toplumun bir kesiminin hala, büyük bir aymazlığın içinde olduğunun işaretidir. Dünyanın son efendisi Amerika’nın, sanırım son dönemlerde artan şehit tepkilerinin önünü kesmek için şehit ailelerinin haklarına sahip çıkmak adına kurulan bir sivil toplum kuruluşuna 10.000 dolar bağışlamış ve bu bağış kabul görmüştür. Bunun üzerine oluşan büyük kamuoyu tepkisi sonucunda bu bağışın iade edildiği duyulmuştur. Bölgemiz üzerinde ki çıkarları doğrultusun da, acımasızca planlar uygulayan, PKK nın Güney Doğu Bölgemizde ki Irak destekli kan döküşüne ve Büyük Orta Doğu Projesi uğruna Lübnan’da çocuk, kadın demeden masum kanı dökülmesine göz yuman  bir yabancı gücün, miktar olarak da gerçekten komik bir yardımının, kabul görmesi son derece düşündürücüdür. Bu olay uğradığımız ahlaki ve milli duygularımızda ki yozlaşmasının boyutlarını bir kez daha ortaya koymuştur.<br />
+Buna benzer bir yanlışlık da Samsun’da yaşanmış ve Samsun’a yeni atanan papaz ve eşi aracılığı ile  Kiliseler Birliğinden tekerlekli sandalye bağışı istendiği basına yansımıştır. Türkiye Sakatlar Derneği Samsun Şubesi  Başkanı Sayın Yakup Beyaz’ı ve yaptığı güzel işleri bilen birisi olarak,  bu işte bir yanlış anlama olabileceğini sanıyorum. Ama ne olursa olsun ilgili dernek ve Samsun adına şanssızlık olmuştur.<br />
+Bölgemiz de büyük oyunların tezgahlandığı bir dönem de, Ulus olarak daha duyarlı olmalı ve polemiklere ortam yaratmamız gerekir diye düşünüyorum. Büyük Önder Atatürk’ün binlerce şehit kanı ile yarattığı laik ve çağdaş yaşamı benimsemiş Ülkemize dünden daha çok sahip çıkmamız gereken bir dönemden geçiyoruz. Böyle bir dönemde, başta siyasi sorumluluğu olanlar olmak üzere, toplumun ve onun temsilcisi kuruluşların<br />
+hata yapma hakkı olamaz. Ulus olarak uyanık ve daha duyarlı olmaya mecburuz diye düşünüyorum.<br />
+Kutsal Ramazan ayını yaşamaya başladık. Toplum olarak sağlıklı ve huzurlu bir ramazan ayı geçirmemiz umuduyla, Tanrı’dan Ulusumuzu korumasını diliyorum. İyi haftalar.. 24- EYLÜL-2006  SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0252-dunden-bugune-samsun-dan-kesitler.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0254-sevgi-uzerine-cesitlemeler.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

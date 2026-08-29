@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Kitap Hediye Edelim</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Kitap Hediye Edelim
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2005
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0204
+
+</div>
+
+
+<div class="article-content">
+
+<p>e-mail; sadisubasi@denizeczaneoptik                                         SUNUŞ</p>
+<p>YILBAŞINI KİTAPLA KUTLAMAYI DÜŞÜNMEZMİSİNİZ?</p>
+<p>İyi ve kötü anılarıyla bir yılı daha bitirmek üzereyiz. Yıl içersinde bazı  dostlarımızı öbür dünyaya yolcu ederken aramıza yeni doğanlar katıldı. Dünya dönüyor. Hepimiz bu dünyada uzun veya kısa zaman dilimi içinde olsa misafiriz. Kalıcı olan yaşarken kazanılan dostluklardır. İşte yılbaşı gibi bazı anlamlı günler dostları hatırlamak ve onlarla sevgi bağını güçlendirmek için fırsattır. Önümüzde böyle bir özel gün var. 2005 i yolcu ederken yeni umutlarla 2006 yılını karşılayacağız. Biliyorum ki çok kişi yakınlarına hediyeler alacak. Geçtiğimiz günlerde okuduğum bir köşe yazısı da bu yazıma zemin hazırladı.<br />
+Gelin bu yıl başında dostlarımıza, özellikle de çocuklara kitap hediye edelim.<br />
+Ben kendi adıma yakın dostlarıma bu tür hediye almaya karar vermiş bulunuyorum. Bunu bir adım daha ileri götürerek başkanlığını yaptığım Rotary kulüp üyelerinin çocuklarına da kitap hediye alınmasını yönetim kurulum ile paylaştım. Onların da destek vermesi ile kitabın adını dahi belirledik.<br />
+Kitap konusunda Samsunlu yazarların kitaplarını da değerlendirilmesinde yarar görüyorum. Geçtiğimiz günlerde elime Samsunlu bir yazarın kitabı geçti. Yazarı sayın Cemalettin Kavaklıgil emekli öğretmen. Uzun süredir özellikle çocuk öyküleri yazıyor ve kitapları Milli Eğitim Bakanlığınca okullara önerilen kitaplar arasında yer alıyor. Son eseri çocuklara göre hazırlanmış çizgili  ‘’Atatürk Orotoryosu ‘’. Biz bu kitabı çocuklarımıza yılbaşı hediyesi olarak belirledik. İşin bir başka güzel yanı da bu kitabın gelirinin Samsunlu görme özürlülere destek veren bir kuruluşa bağışlanmış oluşu. Böylece bir taşla iki kuş vurmuş hemde bir yazarımızın kitabının tanınmasına katkı sağlamış olacağız.<br />
+Buradan duyarlı dostlarıma çağrı yapıyorum. Gelin çocuklarımızı ve dostlarımızı bu yılbaşında kitap ile hatırlayalım. Daha güzel ve isteklerimize cevap veren yeni bir yıl dileğiyle, iyi haftalar..25-ARALIK-2005</p>
+<p>SADİ  SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0203-gazi-muzesi-yenileniyor.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="../2006/0206-basin-adina-yapilan-cirkinlikler-vakit.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

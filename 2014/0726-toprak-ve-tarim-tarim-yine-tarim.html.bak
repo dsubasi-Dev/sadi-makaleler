@@ -1,0 +1,320 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Toprak ve Tarım. Tarım Yine Tarım…</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Toprak ve Tarım. Tarım Yine Tarım…
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2014
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0726
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>TOPRAK VE TARIM. TARIM, TARIM YİNE TARIM…</p>
+<p>Son zamanlarda sık sık tarım konusuna değiniyorum. Bıkmadan usanmadan yazmaya da devam edeceğim. Çünkü aklıma geldikçe içimde fırtınalar kopuyor.<br />
+21. Yüzyılın ortalarından itibaren tüm dünyada sonuçlarının çok ağır şekilde yaşanacağı küresel ısınma, adım adım geliyor. Tüm dünya, küresel ısınmanın yaratacağı etkileri en aza indirmek üzere önlemler alıyor ve yaşanacak büyük kıtlık ve açlığa çözüm arıyor.<br />
+Küresel ısınma sonucu su kaynaklarının yok olması ile tarım alanlarında üretim yapma şansı azalacaktır. Bu konuda en şanslı ülkelerin başında gelen ülkelerden birisi de Türkiye’dir.<br />
+Değişik mevsimleri bir arada yaşayan bir coğrafyada bulunmamız ve akarsu kaynaklarımızın birçok ülkeden daha zengin olması, tarım üretimde ki şansımızı artırıyor. Nitekim bundan çok değil 15-20 yıl öncesi, Türkiye tarım üretimi açısından kendi kendine yeten yedi ülkeden birisiydi.<br />
+Anadolu’nun topraklarından fışkıran buğdayları TMO’NUN siloları almadığı için açık alanlarda üzerleri naylon ile kaplanarak depolanırdı. Oluşturulan buğday tepeleri henüz unutulmadı.<br />
+O dönemlerde tatil için güneye doğru karayolunda ilerlerken, Anadolu’nun verimli tarlalarında hasat yapan biçerdöverleri ve akşama doğru ise, karayolunda seyreden traktörleri görürdük. Römorklarına yükledikleri günün hasatının mutluluğu yüzlerinden okunan köylümüzün doluştuğu traktörleri bugün görebiliyor muyuz?<br />
+Ne oldu bu tarlalara ve nereye gitti tarlalarda çalışan köylümüz? Artık bırakın buğday ihracatını, kendi ihtiyacımız olan buğdayı dışardan ithal ediyoruz. Tarlalarımızın boş kalışını ve köy gençlerimizin iş bulmak için gittiği büyükşehirlerin karanlık sokaklarında perişan oluşunu içimiz yanarak izliyoruz.<br />
+Ne yazık ki, dünyanın en verimli topraklarına sahip bir ülkeyken, Amerikan tütünü piyasaya hâkim olsun diye dünyaca meşhur kendi tütün ekimine, Amerika’nın şeker kamışından ürettiği Cagril’in şekeri pazarlansın diye, şeker pancarı ekimine kısıtlamalar getirilen bir ülkede yaşıyoruz.<br />
+Gerek destekleme yapmayarak ve gerekse tarım ürünlerinin ithalini kolaylaştırarak, tarım üretimini köylümüzün geçim kaynağı olmaktan çıkartan uygulamalar, köylümüzü tarlasından soğutmuş ve köylerin genç nüfusu köylerinden kopartmıştır.<br />
+Üretimden kopuşun çok ağır sonuçları olacaktır.<br />
+Bir süre de olsa toprağından koparak büyük kentlerin cazibesi ile tanışan köylümüzü köyüne döndürmek artık kolay olmayacaktır.<br />
+Bundan çok ağır bir başka sonuç, uzun süre üretimi yapılmayan ürünlerimizin yerli tohumlarını kaybetmekte oluşumuzdur.<br />
+İthali daha ucuz oluyor diye yerli üretime devlet desteğini kesmek, yapılan en büyük yanlıştır. Çünkü daha pahalıya mal olsa dahi, sonuçta kazanan köylümüz ve dolayısı ile ülkemiz olacak ve para içeride kalacaktır.<br />
+Tarım ürünlerini ithal ettiğimiz için hem yerel üretim baltalanmakta, hem de dış borcu tavan yapmış ülkemizin milyonlarca dolar döviz kaybı olmaktadır.<br />
+Bu gidişin yanlışını gören bazı tarım sevdalıları, yerli tohum üretimini yeniden canlandırmak için özellikle Ege Bölgesi’nde kooperatifler kurmaya başlamışlardır.<br />
+Hatta çeyiz sandıklarında tohum saklama geleneğine sahip yörelerde eski tohumlar ortaya çıkartılarak, “Yerli Tohum Üretim ve iyileştirme Merkezleri” oluşturulmaya başlamıştır.<br />
+Tarım alanlarına sahip olan ülkeler en önemli ihracat gelirini, tarım ürünlerinden sağlamaktadır. Bir tarım ülkesi olan ülkemizde tarımı bu günkü haline düşürmek, akıl alacak iş değildir.<br />
+Tarım ürünleri ülkeler için son derece stratejik önem taşır. O nedenle, Türkiye gibi stratejik önemi büyük bir bölgede bulunan bir ülke için tarım ürünlerini dış ülkelerden sağlamak, ülkenin geleceğine ipotek koymakla eş anlam taşır.<br />
+Bölgemizde çıkabilecek bir savaşta uygulanacak bir ambargo, küresel ısınmayı beklemeden ülkemizi açlığa mahkûm edebilecektir.<br />
+Bu nedenlerle, tarım alanlarını enerji koridoru haline getirecek “Termik Santral” Yatırımlarına açmak, bu ülkeye yapılacak en büyük kötülüktür.<br />
+Bu yatırımların, büyük bir kısmının kendi topraklarında kirli yatırım istemeyen Avrupa ülkelerinin ortaklığı ile yapılıyor olması ise, son derece düşündürücüdür.<br />
+Sömürgeci ülkelerin, “Size yatırım getiriyoruz” Yutturmacasına aldanarak tarım alanlarına bu kirli yatırımların kurulmasına izin veren ülkelerin, bugün açlık tehlikesi ile boğuştuklarını göz ardı etmemeliyiz.<br />
+Yakın geçmişte Afrika ülkelerinin buğday deposu olarak bilinen Somali’nin, bugün neden açlığa ve biz dâhil diğer ülkelerin yardımına muhtaç kaldığını, lütfen Google’a Somali yazarak okuyunuz.<br />
+Tarım konusunda CNN’ de çok cesur programlar sunan ve tarım alanlarına giderek sorunları gündeme taşıyan Sayın Cem Seymen’in, Pazar akşamları 21.00 de sunduğu tarım programını izlemenizi öneririm.<br />
+Bir yanda adım adım yaklaşan küresel ısınma tehlikesi, diğer yanda tarımın çökertilmesine yönelik uygulamalar, nasıl yapılır anlamak mümkün değil.<br />
+Siyasi iradenin tarım konusunda ki uygulamalarını aklım almıyor. Bu konuda ulusal yazılı ve görsel basında da çokça yorum, yazı ve programın yer almaya başlaması tehlikenin daha iyi anlaşılması için umut vericidir.<br />
+Tehlikeyi görmek, çözüm aramanın ilk adımıdır.<br />
+Bu pencereden bakarak, Çarşamba ve Terme Ovası’na kurulmasına çalışılan termik santraller dizisine suskun kalan Samsun il yöneticilerine ve milletvekillerine bir kez daha sesleniyorum;<br />
+Lütfen sessiz kalarak, bu ülkenin geleceğinin katledilmesinin vebaline ortak olmayınız.<br />
+Samsun tarihine, “ Çarşamba Ovası’nın yok edilmesine göz yuman yönetici” Damgası ile geçmeyiniz..<br />
+Okuduklarınızdan sonra iyimser olma şansınız olamayacağını bilmeme rağmen, yine de güzel bir hafta diliyorum. 29. 12. 2014<br />
+Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0725-i-sraf-rusvet-ve-savurganligi-i-slam-dini-ile-nasil-bagdastiracaksiniz.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="../2015/0609-samsunspor-a-yapilanlar-ayiptir.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

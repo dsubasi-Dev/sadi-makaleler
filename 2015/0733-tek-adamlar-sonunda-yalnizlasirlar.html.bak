@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Tek Adamlar Sonunda Yalnızlaşırlar…</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Tek Adamlar Sonunda Yalnızlaşırlar…
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2015
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0733
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>TEK ADAMLAR SONUNDA YALNIZLAŞIR.</p>
+<p>Türkiye son derece değişik ve sonunun nereye varacağı belli olmayan bir süreçten geçiyor. Yıllarca iyi kurgulanamayan ve istikrarı sağlayamayan koalisyon dönemlerinden bunalan toplumun verdiği oylarla tek başına iktidara gelen bir siyasi irade, ondört yıldır bu ülkeyi yönetiyor.<br />
+Bu siyasi iradenin ilk dönemlerinde önemli sorunları çözen projelere imza attığını göz ardı edemeyiz. Bu bir gerçek..<br />
+Ama sonra ki yıllarda yapılan bazı uygulamalar ve TBMM’ de ki sayısal üstünlüğe dayanarak çıkartılan ve her türlü uzlaşıdan uzak dayatmacı yasalar, ülkeyi hızla polis devletine doğru sürüklemeye başlamıştır.<br />
+Lütfen son beş altı yılda olanları hatırlayınız. Ben bazılarını hatırlatmakla yetiniyorum.<br />
+Önce 2011 Referandumunda, “Daha çok demokrasi” Yutturmacası ile Anayasa’da yapılan değişikliklerle, yargı bağımsızlığı çökertildi.<br />
+Demokrasinin vaz geçilmez kuruluşları olan yargının üst kuruluşları çıkartılan özel yasalarla kuşatılarak siyasi iradeye bağımlı hale getirildi.<br />
+Gençlerin Taksim Park’ında ki çevreye sahip çıkma direnişi, güvenlik güçlerinin sert müdahalesi sonrası patlayan Gezi Parkı Olayları bir anda toplumsal bir tepkiye dönüşerek Türkiye geneline yayıldı. Bu toplumsal gösterilerde güvenlik güçlerinin acımasız ve orantısız güç kullanımı sonrası gencecik çocuklarımız öldü, çok sayıda sakat kalanlar oldu.<br />
+Bakanların ve işadamlarını karıştığı ve bugüne kadar ülkemizde yaşanmamış boyutta ki rüşvet ve yolsuzluk olayları yine bir gecede çıkartılan özel yasalarla örtbas edildi.<br />
+İktidarın başlangıçta çok başarılı olduğu ve kendisine en fazla oy getiren sağlıkta yapılan dönüşüm ve özelleştirme de, sonunda çökmeye başladı. Artık tedavileri için hastanelere ve eczanelere başvuranlar, ciddi boyutlarda para ödemeye başladı.<br />
+Tüm komşu ülkelerle siyasi ilişkilerimiz bozuldu. Daha da kötüsü dış ticaretimizin önemli bir bölünü tutan Ortadoğu ve komşu ülkelerle olan dış ticaretimiz bitti.<br />
+İçişlerine karıştığımız bu ülkelerden ki savaşlardan kaçan ve sayısı iki milyonu bulan mülteciler ülkemiz içlerine dağılarak hem iç güvenliğimizi tehlikeye soktu, hem de işsizliğin giderek arttığı ülkemizde kendi işsizlerimizin iş bulma şansını daha da azalttı.<br />
+Bu mültecilere yapılan çok büyük harcamalar genel bütçeyi sarstığı için karşılığı yüksek vergilerle halkımıza ödetilmeye başladı.<br />
+Güneydoğu Bölgemizde ki kanayan yarayı çözmek üzere başlatılan “Çözüm Süreci” Topluma açıklanmayan yönleri ile gizemini sürdürürken, bu ülkeye nelere mal olacağı soruları ile doğan endişeleri de artırdı.<br />
+İşçiler siyasi iradenin kontrolünde ki sendikalara üye olmaya mecbur bırakılarak, sendikal faaliyetler ve olası demokratik örgütsel tepkiler susturuldu.<br />
+Sadece bazılarının altını çizdiğim bu sorunlar, toplumda ki gerginliği ve umutsuzluğu her geçen gün artırırken, toplumsal tepkilere de zemin hazırladığı bir gerçek.<br />
+Bunun doğal sonucu olarak oluşan toplumsal tepkileri gündeme taşımak için yapılan en küçük hak arama gösterisi dahi biber gazı, cop, gözaltı ve tutuklamalarla sonuçlanmaya başladı.<br />
+Artık bunlar da yeterli olmadığı için özgürlüklere son verecek yeni düzenlemelere gidiliyor.<br />
+“İç Güvenlik Paketi” Adı altında çıkartılmaya çalışılan özgürlükleri tamamen kısıtlayacak yasa ile “İnternet ve sosyal paylaşım sitelerini” Mahkeme kararını beklemeden yasaklama yetkisini Başbakan ve bakanlara veren düzenlemeler, özgürlükleri kökünden yok edecek düzeyde olup, baskıcı bir rejimin kuruluşunun ayak sesleridir.<br />
+Bu zorlayıcı ve kısıtlayıcı yasaları çıkartma telaşının altında yatan en büyük neden, yukarıda altını çizdiğim yanlışlar sürecinin varacağı toplumsal tepkinin yarattığı korkudur..<br />
+Yazıma, yukarıda sadece bir kısmının altını çizdiğim ve demokratik bir ülke olan Türkiye’nin hak etmediği uygulamalarla başlamamın nedeni, bu baskıcı uygulamaların altında yatan nedenleri irdelemek içindi. Şimdi bu konuda ki kişisel düşüncelerimi paylaşmak istiyorum.</p>
+<p>2002’ den günümüze kadar geçen, onüç yıllık sürecin tartışmasız lideri dünün Başbakanı, bu günün Cumhurbaşkanı olan Sayın R. Tayyip Erdoğan’dır.<br />
+Yukarıda anlattığım tüm uygulamaların ve çıkartılan yasaların altında imzası olan tek kişi de, AKP’ i kuran ve tek başına iktidara taşıyan, Sayın R. Tayyip Erdoğan’ındır<br />
+Bu nedenle, bir kaç konunun altını önemle çizmek istiyorum.<br />
+Son onüç yılda yaşanan böylesine tek adama dayalı kararlar ve baskıcı uygulamalar, ilk yıllarda parti içinden ve A takımından aldığı desteği de azalttığı anlaşılıyor..<br />
+Korku düzeyine ulaşan baskı, insan yapısına aykırıdır. En sadık insanı dahi bir yerden sonra korkutur.<br />
+Yine tamamen kendi izlenimim odur ki, Sayın Erdoğan’ın Cumhurbaşkanlığı Makamına çıkışına bir kısım yakın çalışma arkadaşı dahi, parti içi özgürleşme ve baskıdan kurtuluş şansı olarak bakmıştır. Hatta daha ileri giderek söylemeliyim ki, parti içerisinde ki çok sayıda milletvekili de, “Başkanlık Sistemine” çok da sıcak bakmamaktadır. Zaman zaman partinin A takımının bazı yöneticilerinin açıklamalarının arasında da bu yönde ifadeler yer almaktadır.<br />
+Zaten Sayın Cumhurbaşkanı’nın da Başkanlık konusunda ki ısrarının altında yatan asıl neden de, yetkilerini dün olduğu gibi tek başına kullanabilmesi içindir.<br />
+Ancak görünen tablo bu beklentiyi çok da doğrulamamaktadır. Sayın Başbakan Davutoğlu ve bazı Başbakan yardımcıları ile partinin bazı A takımı yöneticilerinin yaptığı açıklamalardan anlaşıldığına göre, hükümetin seçim bildirgesinde “Başkanlık“ Sistemi olmayacaktır.<br />
+Hükümet sözcüsü Sayın Bülent Arınç’ın karşı çıkan sözleri ve Başbakan Yardımcısı Sayın Ali Babacan ile Maliye Bakanı Sayın Mehmet Şimşek’in, Merkez Bankası Başkanı Sayın Erdem Başçı’ya sahip çıkan ve doların hızlı artışından Sayın Cumhurbaşkanı’nın son açıklamalarına üstü örtülü vurgu yapan, yine Başbakan Yardımcısı Sayın Beşir Atalay’ın benzer açıklamaları ile MİT Müsteşarı Sayın Hakan Fidan’ın istifa olayının arkasında ki sır perdesi, Sayın Erdoğan’ın belirleyici gücünün azaldığı savını güçlendirmektedir.<br />
+Görünen o ki, artık bir takım korku hedefleri yaratarak ve her sorunu cemaate fatura ederek, toplumu sindirmek eskisi kadar kolay olmayacaktır. Zaten, Sayın Cumhurbaşkanı’nın “Tek başıma kalsam da paralel ile mücadelemi sürdüreceğim” Sözleri de yalnızlık hissettiğinin bir göstergesidir.<br />
+Bu güne kadar kendi iradelerine karşı çıkabilecek askeri vesayeti yok eden ve yargıyı kendi siyasi iradelerine bağımlı hale getirirken kol kola hareket eden Cemaatle karşı karşıya gelmeleri de ciddi sorunlar yaratmaya başlamıştır.<br />
+Gerek AKP içerisinde ki bir kesim, gerekse Cemaat denen yapının içerisinde ki samimi inançlı ve siyasi iradeye oy veren insanlar da 17 Aralık sürecinde ortaya çıkan rüşvet ve yolsuzluk olayları ile Deniz Feneri soygununun örtbas edilmesini içlerine sindirememektedir.<br />
+Sonuç olarak söylemek gerekirse, İktidar Partisi’nin içerisinde ağırlığı olan bir kesim, yapılan yolsuzluklardan ve dayatmacı tek adam uygulamalarından rahatsızdır.<br />
+Bu da, kısa bir süreçte, “Başkanlık Sisteminin“ Gerçekleşmesinin zor olduğunu ve Sayın Erdoğan’ın yetkilerinin, Cumhurbaşkanlığının mevcut yasaları ile sınırlı kalacağını göstermektedir.<br />
+Sonuç da Cumhurbaşkanı’nı yalnızlaşırken, hükümetin eli çok daha rahatlayacak ve toplumsal beklentilere daha duyarlı bir politika izleme şansı bulabilecektir.<br />
+İyimser bu öngörülerim gerçekleşirse, bundan kazançlı çıkan ülkemiz olacaktır.<br />
+Umarım önümüzde ki günler beni haklı çıkartır ve toplumda bir rahatlama olur.<br />
+Umut dolu güzel günler dileğiyle, iyi haftalar.. 15. 02. 2015</p>
+<p>Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0732-halkin-parasi-ile-yapilan-yolu-halka-kapatamazsiniz.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0734-tecavuzler-ve-kadin-cinayetleri-i-grenclesti.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

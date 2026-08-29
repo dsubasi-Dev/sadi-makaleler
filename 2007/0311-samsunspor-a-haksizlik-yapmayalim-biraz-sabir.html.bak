@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Samsunspor&#x27;a Haksızlık Yapmayalım. Biraz Sabır…</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Samsunspor&#x27;a Haksızlık Yapmayalım. Biraz Sabır…
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2007
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0311
+
+</div>
+
+
+<div class="article-content">
+
+<p>SAMSUNSPOR’A HAKSIZLIK YAPMAYALIM.</p>
+<p>Pazartesi günü yerel gazetelerde ki, “REZALET”, “EZİLDİK”,” KÂBUS GİBİ GECE” gibi başlıkları görünce, acaba ben başka bir maçı mı? seyrettim diye kafam karıştı. Beyler, lütfen biraz insaf..<br />
+Yukarıda ki başlıkları hak edecek iki sezon geçirmişsin. İlkinde süper ligden düşmüşsün. İkincisinde bir alt lige düşmekten kıl payı kurtulmuşsun. Sezonun bitimi ile birlikte istifa eden başkan ve bazı yöneticilerin ardından başlayan kongreler serisinde, kulübü taşıyacak bir yönetim kurulu dahi oluşturamamışsın. Kayyumdan kurtarmak için kongrelerde akıl almaz cambazlıklar yapmışsın. Koskoca transfer ayını belirsizlikler içersinde harcamışsın. Geçen sezon içinde yapılan hatalar sonucu alınan ve sağlam sözleşmelerle kulübe bağlanamayan oyuncuların, kulübe beş kuruş kazandırmadan birer ikişer kaçmış. Geleceği belirsiz olmasına rağmen, özveri ile takımı ayakta tutmaya çalışan Hakkı Hoca ve ekibi ile elinde kalan çoğu alt yapı oyuncunla göstermelik bir kamp süreci geçirmişsin. Valimiz Sayın Hasan Basri Güzeloğlu’unun sahiplenmesi de olmasa, kapıya kilit vuracak noktaya gelmişsin. Tüm Samsunluların çaresizlik içersinde kıvrandığı ve umutların azaldığı bir anda, Samsunlu işadamı Sayın Galip Öztürk’ün perde arkasında kalarak da olsa destek verdiği, genç işadamı Sayın Sezgin Gümüş’ün kulübe sahip çıkması ile soluk almışsın. Bu arada teknik kadron değişmiş, Samsunspor’u yakından tanımayan ve transfer sezonunun bitmek üzere olduğu sırada takımın başına getirilen yeni bir teknik kadro ve bulunabilen birkaç oyuncu ile lige başlamışsın. Bence asıl kâbus budur.<br />
+İşte böyle bir ortamda Sayın Sezgin Gümüş başkanlığında ki yönetim, aranan güven ortamını sağlamış, iki sezondur bir tek maçta olumlu hiçbir hareketi olmayan Samsunspor takım haline gelmiş. Sürekli git geller yaşayan Celil’i ve iki sezondur ortada gözükmeyen, kimine göre futbol yaşamı bitti denen Serkan’ı sahaya çıkartabilmiş ve onlara top oynatabilmişsen, bu dahi başarıdır ve bu takım adam olacak demektir. Bu aşamada alınan sonuçlar da hiç mi hiç önemli değildir.<br />
+Yukarıda “acaba ben başka bir maç mı seyrettim?” dememin sebebi, o başlıkları atanlar gibi düşünmüyor olmamdandır. Son iki maçını seyrettiğim Samsunspor’un iyi yolda olduğunu söylüyorum. Son iki sezonda, pazar günü seyrettiğimiz oyunun dörtte birini bir kez olsun seyredemedik. İki sezondur kimin ne oynadığı belli olmayan, laf olsun diye sahaya çıkmış, amaçsız takım gitmiş, sahada en azından pas yapan, belli bir oyun düzenini uygulamaya çalışan bir takım vardı. Bana umut veren bir başka şey de, takıma bir inanç ve oynama hırsının gelmiş olmasıdır.<br />
+Yanlışlar ve tenkit edilecek şeyler yok muydu? Tabii ki vardı. Ama bunlar aşılamayacak sorunlar değildir. Benim dikkatimi çeken en önemli yanlış, geri dörtlüye son dakika da alınan Hakkı’nın monte edilmesidir. Futboldan anlayanların bana katılacağını sanıyorum. Geldiği günden beri defansın en devamlı ve takıma en çok katkı sağlayan oyuncusu olan Kenan, son iki sezondur inanılmaz derece de kötüydü. Süper ligden düştüğümüz yıldan itibaren yapılan yanlış transferlerle, Kenan’ın yanına alınan Tufan, Evren gibi oyuncularla Kenan uyum sağlayamamış ve savunma da büyük hatalar ortaya çıkmıştı. Ta ki, sezonun sonuna doğru Hakkı Hoca’nın yıllardır genç milli takımda oynayan Emre Balak’ı Kenan’ın yanında oynatmaya başlaması ile Kenan toparlanmıştı. Çok düz, kontrolsüz ve ağır bir oyuncu olan Hakkı gelmesi ile Kenan yine zorlanmaya başlamıştır. Hava topu hâkimiyeti dışında fazla özelliği olmayan Hakkı ile oluşan bu ikili başarılı olamayacak gibi gözükmektedir.<br />
+Savunmanın sağına alınan Murat Duman da henüz uyum sağlayamamıştır. Savunmanın solundaki Sinan Demircioğlu da henüz form tutamamıştır. Beni asıl hayal kırıklığına uğratan Caner oldu. Sakatlığı geçmesine rağmen isteksiz ve çok ağır buldum. Bu görüntüsü ile oynaması çok zor görünüyor. Bence pazar günü ileri ikiliden Kemal değil Caner çıkarılmalıydı. Buna karşı Celil sezon başı olmasına rağmen beklendiğinden daha iyiydi. Bitti denen Serkan’ı da beğendim ve umutlandım. Türkiye liglerinin tartışmasız en büyük golcülerinden birisi olan Serkan iyi çalışır ve form tutarsa gol sorunu çözülür. Aslında iyi bir golcümüz olsa, Serkan ileri ikilinin arkasında pasör ve golcü olarak da yararlı olabilir diye düşünüyorum. Oynadıkça daha da kendisine olan güveni artacak genç Ercüment’le kaleci sorunu da yaşamayacağımızı sanıyorum. Bulup getirene teşekkürler.<br />
+Zafer biraz daha hızlı olur ve biraz daha çalışırsa çok yararlı olacak ve uzun yıllardır eksikliği çekilen oyunu yönlendiren bir oyuncumuz var diyebileceğiz. Gittikçe takıma ısınan Sefa ve yetenekleri bilinen Can’ın kendini bulması ile bu takımın bizlere güzel maçlar seyrettireceğine inanıyorum. En büyük sorunlardan birisi de, iyi bir oyuncu olan Feridun’un dağınıklıktan nasıl kurtulacağıdır.<br />
+Bu nedenlerle pazar günkü sonucu ise hiç önemsemiyorum. Hiç olmazsa sahada futbol oynamaya çalışan ve futbolun gereklerini yapan bir takım vardı. İlk yarıda ve ikinci yarının ortalarında bir türlü kaleye girmeyen toplar gol olsaydı, hakem hataları olmasaydı maçı alabilirdik de. Son iki gol, zaten gol atabilmek için oyun düzeninin bozulması ve Hakkı’nın dağınıklığı sonucu geldi. Bu takımı seyreden hiç kimsenin umutsuz olmaması gerekir.  Yoktan var edilen bu takıma ve yeni bir teknik kadro ile büyük bir yükün altına giren yönetime zaman tanımalıyız. En azından artık güven veren bir yönetimimiz ve sahaya çıkabilen bir takımız var. Bizlere düşen görev, sabırlı ve her konuda destek vermek olmalıdır. Burada cefakâr taraftarımızı da alkışlıyorum. Maçın başından sonuna kadar destek veren ve yenilgiye rağmen takını alkışlayan taraftarımız bu övgüyü hak etmiştir.<br />
+Zaman bu takıma sahip çıkma zamanıdır. Yanılmamış olmayı diliyorum. İyi haftalar.. 12 Eylül 2007<br />
+Ecz. SADİ SUBAŞI<br />
+SAM-SEV BAŞKANI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0310-kendi-degerlerimize-de-sahip-cikamiyoruz.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0312-yeni-anayasa-uzerine-i-lk-degerlendirmeler.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

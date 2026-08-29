@@ -1,0 +1,308 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Bu Toplumu Siyasetçiler Bile Bölemeyecek.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Bu Toplumu Siyasetçiler Bile Bölemeyecek.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2022
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+1043
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>BU TOPLUMU SİYASETÇİLER DE BÖLEMEYECEK.</p>
+<p>Yılda en az iki değişik ürün verebilen ovaları, dört bir tarafında topraklarımıza can veren akarsuları ve üç tarafını kuşatmış denizleri ile dört mevsimi yaşayabilen dünyanın en güzel ve en bereketli ülkesine sahibiz.<br />
+Bu şanslı coğrafi durumunun yanında, Asya ile Avrupa’yı ayıran bir konumda olmasının yarattığı stratejik konumu ve sahip olduğu yer altı kaynakları nedeniyle, ülkemizin sömürgeci ülkelerinin iştahını kabarttığı da bir gerçektir.<br />
+Eğer böyle bir ülkeye sahipseniz, düşmanlarınızın da çok olacağı bir gerçektir. Bu nedenle de, başta İngiltere, İsrail, Amerika ve Rusya ve Yunanistan olmak üzere çok sayıda ülkenin istihbarat örgütlerinin, ülkemizin geleceğini tehdit edecek çalışmalar yapıyor olması da büyük olasılıktır.<br />
+Bu konuda ABD’ nin, desteklediği ve ülkesinde barındırarak yönlendirdiği FETÖ Örgütü aracılığı ile ülkemizin dış tehlikelere karşı en büyük güvencesi olan Türk Silahlı Kuvvetlerinin tüm üst komutanlarının, uydurma Ergenekon ve Balyoz davaları ile cezaevlerine mahkûm edildiğini,<br />
+Sonrasında da, bu komutanların yerlerine yerleştirdikleri FÖTÖCÜ subayların öncülüğünde, ülkemizin yönetimini ele geçirmek için darbeye kalkıştıklarını nasıl unuturuz?<br />
+Yine bilinen bir başka gerçekte, yaptıkları yanlışlarla ve “Türkiye, Türklere bırakılmayacak kadar önemli bir ülkedir.” Gibi amacını aşan yanlış söylemlerle, dış düşmanlarımızın amaçlarına hizmet eden içimizde de birilerinin de bulunmasıdır.</p>
+<p>Günümüzde ülkemiz adına yaşanan dış kaynaklı bu tehditlerin yanında, bir de bu ülkenin siyasetçilerinin uzlaşma kültüründen uzak inatlaşmaları ile toplumu ayrıştıracak noktaya gelmesi de endişe vericidir.<br />
+Çünkü bu ülkeyi çok daha güzel günlere taşıma, halkına güven ve huzur dolu bir yaşam sağlama görevini üstlenmiş iktidar siyasetçileri ile bu göreve talip olan muhalif siyasetçilerinin sözleri, toplumu ayrıştıracak kadar sertleşmiştir.<br />
+Hepimizin bu ülkede yaşadığını ve Kurtuluş Savaşı ile işgalden temizlediğimiz Anadolu’nun elimizde kalan son vatan toprağı olduğunu hiç kimse unutmamalıdır.<br />
+Yine 1923 de kurulmuş olan Türkiye Cumhuriyeti Devleti’nin, yüzünü batıya ve çağdaşlaşmaya çevirdiğini de kimse göz ardı etmemelidir.<br />
+Bu ülkede yaşayan insanlarımızın büyük bir çoğunluğunun siyasi görüşü ne olursa olsun, yaşadığı özgürlük ve demokratik rejimin sağladığı hukuk ve güven temelinde kurulmuş Laik düzeni ile bir sorunu olmadığı gibi bu kazanımlarından ödün verebileceğini de hiç kimse aklına getirmemelidir.<br />
+Laik düzenin sağladığı güvence ile bu ülke de isteyen istediği şekilde ibadetini yapmaktan ve demokrasinin sağladığı güven ortamında istediği şekilde yaşamaktan da mutludur.<br />
+Ancak günümüzde ki en büyük sorun, siyasetçilerin ayrıştırıcı tavır ve söylemlerinin, bu ülkede mevcut olan toplumsal barışı bozabilecek seviyeye gelmiş olmasıdır.<br />
+Bu ülkenin insanları en büyük umutsuzluğu, Osmanlı’nın 1. Dünya Savaşından yenik çıkarak Avrupa’da ki tüm topraklarını kaybettiği gibi elinde kalan son vatan toprağı Anadolu’nun da, işgal edildiği günlerde yaşamıştır.<br />
+İşgal altında ki Anadolu insanı, yoksulluğun diz boyu olduğu, ayağına giyecek çarığı dahi olmadığı ortamın karamsarlığı ile yaşadığı büyük bir çaresizlik sonucu, umutsuzluğa kapılmıştı.<br />
+Böyle bir ortamda dahi, onlara umut aşılayan Mustafa Kemal Paşa’nın liderliğinde ayağa kalkan Anadolu insanları, tüm işgalcileri Anadolu’dan kovmayı başarmıştır.<br />
+Bugünün son derece gergin siyasi ortamında dahi, siyasi görüşleri taban tabana zıt olan bu ülkenin insanları, hala birlikte oturup sohbet edebilmekte ve kahvehanelerde oyun oynayabilmekte ise, umutsuzluğa yer yok demektir.<br />
+O nedenle de, bu ülke insanlarının umutsuzluk diye bir sorunu olamaz. Böyle bir umut ortamı yaratan bir toplum, ülkenin geleceğinin karartılmasına da izin vermeyecektir.<br />
+Her şeyi ile çok güzel olan ülkemizde, bunu önemseyen insanlarımızın siyasi görüşlerinin etkisinde kalmadan el, ele vererek hep birlikte ülkemizi eşit hukuk düzeninde, laik ve özgür bir ortama yeniden taşıyacakları inancıyla, güzelliklerle bezenmiş haftalar diliyorum. 31.02.2022<br />
+Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="1042-multeciler-ve-tarikatlar-turkiye-nin.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="1044-samsunlular-bu-utanci-hak-etmediklerini-haykiriyor.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

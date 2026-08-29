@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Hızlı Tren Fiyaskosu</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Hızlı Tren Fiyaskosu
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2008
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0319
+
+</div>
+
+
+<div class="article-content">
+
+<p>HIZLI TREN HABERİ VE SAMSUN ADINA YENİ BİR HÜSRAN.</p>
+<p>Geçtiğimiz bayramın arife günü benim de köşe yazıları yazdığım HALK GAZETESİ’NDE Samsun adına sevindirici bir haber yer aldı. Haberi okuduğumda öğle saatleriydi ve kamu kuruluşları için bayram tatili başlamıştı. Haber kaynağından daha detaylı bilgi alma şansım yoktu. Haberin başlığı “ HIZLI TREN İDDİALI GELİYOR”.<br />
+Bütün dünyanın ülkelerini demiryolu ağı ile donattığı bir dönemde Türkiye Atatürk döneminden sonra hiçbir ciddi demiryolu hattı yapmamıştı. Dört tarafı denizlerle çevrili Türkiye en güvenceli ve toplu taşımacılık adına en ekonomik ulaşım yollarından bir diğeri olan deniz yolunu da demiryolu ulaşımını gibi değerlendiremiyordu. Tüm ülkelerin tercih ettiği bu iki ulaşım yolu yerine Türkiye, kullanılan akaryakıt yönünden dışa bağımlı ve yapımı çok pahalı olan ve sürekli onarım gerektiren karayolu ulaşımına teslim olmuştu.<br />
+Her tatil döneminde yüzlerce cana mal olan trafik kazaları da göz önüne alınınca, neden hala daha ekonomik ve güvenli bu iki ulaşım yolu yerine karayoluna ağırlık verilir anlamakta sıkıntı çekmişimdir. O nedenle de, yeni bir demiryolu yapım haberi duyduğumda heyecanlanırım.<br />
+Tüm Samsunlular gibi Karadeniz Bölgesini Ankara’ya bağlayacak demiryolu benimde hayalim olmuştur. İşte bu nedenle 11 Ekim 2007 tarihli Halk gazetesinde ki “ HIZLI TREN İDDİALI GELİYOR” haberini bir solukta okudum. Samsun Gar Müdürü Sayın Necmi Yiğit’in verdiği bilgilere dayanarak yazılan haberde özet olarak, Ünye’den başlayacak güzergâh Samsun, Çorum üzerinden Ankara’ya bağlanacaktı. Bu hızlı tren projesi ile Samsun-Ankara arası üç saate iniyordu. Projenin ihalesi yapılmış, Dünya Bankasından kredisi de temin edilmişti.<br />
+Haber müthişti. Samsun’un kaderi mi değişiyordu diye düşünürken içime de bir kuşku düştü. Böylesine müthiş bir yatırım haberi, müjde vermek için birbiriyle yarışan milletvekillerimizin gözünden nasıl kaçmıştı? Bir yandan seviniyor, bir yandan da bayramdan sonra yetkililerden detaylı bilgi almayı ve haberi doğrulatmayı hesaplıyordum.<br />
+Akşamüzeri eczaneme gelen lise dönemi arkadaşım sevgili Selçuk Özgürdal elinde ki kâğıtları uzatarak, “bunları eniştem İstanbul’dan gönderdi ve birileri bu işle ilgilensin” diyor, bende sana getirdim dedi. Kâğıtlar bir elektronik posta alıntısıydı. Okuyunca bir yandan bu kadar rastlantı olur mu? Diye düşünürken, bir yandan da gazete haberlerinde ki kuşkularım doğrulanıyordu. Sevgili Selçuk kâğıtları bırakıp giderken, eniştesinin İstanbul Teknik Üniversitesinden emekli, demiryolu yapımı konusunda uzman olan Prof. Dr. Güngör Evren olduğunu ve Samsunluluk ruhu ile konuya dikkatimizi çekmek istediğini söylüyordu.<br />
+Elektronik postayı inceleyince Sayın Evren’e bu iletiyi göndereninde bir Samsunlu olduğunu ve 19 Mayıs Lisesinden sınıf arkadaşım Doç. DR. Nevzat Erselcan olduğunu gördüm. Nevzat’ta İstanbul Teknik Üniversitesi İnşaat Fakültesi Ulaştırma Ana Bilim Dalı öğretim üyesiydi. Sayın Prof. Dr. Güngör Evren’de aynı ana bilim dalı başkanlığından emekli olmuştu.<br />
+İleti de özet olarak şunlar yazıyordu; TCDD ( Devlet Demir Yolları ) önümüzdeki beş yıl içinde Türkiye’yi hızlı tren rayları ile donatmak için kolları sıvamıştı. Yapılan planlamaya göre temeli atılan Ankara-İstanbul ve Ankara-Konya güzergâhını Ankara-İzmir, Ankara-Sivas, Ankara-Kayseri, Ankara-Afyon, Bursa-Osmaneli hatları takip edecekti. Görüldüğü gibi Samsun’un adı dahi yoktu. Beş yıl içinde tamamlanacak bu hatlar için 4,8 milyar dolarlık kaynağa ihtiyaç vardı. Habere göre bu kaynakta, özelleştirilecek Samsun, İzmir, Bandırma ve Derince limanlarından sağlanacaktı. Yine aynı habere göre beş yıl içersinde tamamlanacak bu hızlı tren hatlarının işletme hakları devredilerek özelleştirilecek ve buradan gelecek gelirlerle de Eskişehir-Antalya, Konya-Karaman-Mersin, Isparta- Antalya ve Bodrum-İzmir hızlı tren hatları yapılacaktı. Samsun ileri vadeli projelerde dahi yoktu.<br />
+Buyurun bu haberi nasıl değerlendirirseniz öyle değerlendirin. Ama açık seçik gözüken o ki, hükümet için Karadeniz Bölgesi diye bir bölge yok. Sanki Karadeniz Bölgesi Türkiye’nin bir parçası değil. Yazıklar olsun. Benim limanım özelleşecek ve bu limanın kaymağını başka iller yiyecek. Biz de bu kentin seçilmiş dokuz vekili var diye umut içinde bekleyeceğiz. Ben zaman zaman Samsun siyaseten bitmiş diyordum, ama anlaşılan yalnız Samsun değil, tüm Karadeniz bölgesinin hiçbir siyasi ağırlığı kalmamış.<br />
+Geçen yıl meydana gelen hızlı tren faciasında ki kaza raporunu hazırlayan bilirkişinin de arkadaşım Nevzat Erselcan olduğunu biliyordum.<br />
+Aynı gece Sevgili Nevzat Erselcan’ı arayarak, iletinin kendisinden çıktığını, yerel bir gazetede de tam tersine bir haberin yer aldığını söyleyerek bilgi istedim. “Yapımı süren Ankara-Konya hızlı tren projesini kendisinin hazırladığını, Samsun ile ilgili bir hazırlık olsa haberim olurdu” dedi. Bu konuları çok iyi bildiğini söylediği hocası Sayın Güngör Evren’i de arayabileceğimi söyledi. Daha sonra aradığım Sayın Evren ile yaptığım görüşmede aynı doğrultuda bilgiler aldım. Sayın Evren ertesi akşam tekrar arayarak TCDD Müsteşarı ile de görüştüğünü, ne yazık ki Samsun programda yokmuş dedi. Eşinin Samsunlu olması nedeniyle Samsun konusunda çok duyarlı olduğunu ve bu konuda güçlü bir kamuoyu yaratarak Samsun’u da programa aldırabileceğimizi, bu yönde çaba harcamamızı önerdi.<br />
+Bayram sonrası işin aslını öğrenmek için Demiryollarının bağlı olduğu Samsun Liman İşletmesi Müdürü Sayın Temel Demir’i ziyaret ettim. Sayın Demir benim yanımdan Genel Müdürlüklerini arayarak haberin doğru olmadığını ve Samsun için böyle bir projenin gündemde olmadığını öğrendi. Daha sonra da Gar Müdürü Sayın Necmi Yiğit’i ziyaret ettim. O da çok üzgün olduğunu, böyle bir açıklama yapmadığını, gelen muhabire bayram öncesi yolcu yoğunluğu ile bilgiler verdiğini ve haberin kendisini de sıkıntıya soktuğunu anlattı.<br />
+Evet dostlar! Üzülerek söylemek gerekirse, Samsunluyu mutlu edecek şeyler olmuyor. Şimdi bir an için 2010 yılına gidelim. 2010 yılında TCDD’nin uygulamaya koyduğu hızlı demiryolu projeleri ile Türkiye hızlı demiryolu ağı ile donatılmış olacaktır. Ne yazık ki her zaman olduğu gibi böyle bir tabloda Karadeniz Bölgesi ve Samsun yine olmayacaktır.</p>
+<p>Köşemden haykırıyorum. NEDEN? NEDEN? NEDEN?  Biz Türkiye’nin bir kenti değil miyiz? Bu kadar mı önemsiz bir kentiz? Bu kadar yalnızlığı ve dışlanmayı içimize nasıl sindireceğiz?</p>
+<p>TCDD bu projeleri yaparken 9 milletvekilimiz neredeydi? Biz Samsunlular hep iş işten geçtikten sonramı haberdar olacağız?<br />
+Artık olan olmuş. Hiç olmazsa bundan sonrası için ne yapabiliriz?, Onu değerlendirelim diye düşünüyor ve Sayın Evren’in önerisi doğrultusun da başta sayın milletvekillerimiz olmak üzere, Kent yöneticilerini ve tüm sivil toplum kuruluşlarını bu yönde bir kamuoyu oluşturmaya davet ediyorum. İyi haftalar…21 Ekim 2007<br />
+SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0153-samsun-tesvik-hakkindan-vazgecemez.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0334-emo-bulten-samsun-a-yapilmasi-planlanan-bu-yanlis-yatirimlar-mutlaka-durdulmalidir.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

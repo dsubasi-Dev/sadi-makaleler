@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Diyanet İşleri Başkanının Açıklaması ve Haç Faciası.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Diyanet İşleri Başkanının Açıklaması ve Haç Faciası.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2015
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0768
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>DİYANET İŞLERİ BAŞKANI MEHMET GÖRMEZ’İN DUASI,<br />
+HAC FACİASI VE CHP İL BAŞKANINA KISA YANIT</p>
+<p>Bu yıl hac da iki büyük facia yaşanırken, Türk hacı kafilesi ile Mekke’de bulunan Diyanet İşleri Başkanı Sayın Mehmet Görmez Vakfe Duasın da bir Türk din adamının söylemesi gerekli şeyleri söylemiş.<br />
+Bu duasını sizlerle de paylaşarak bir şeyler eklemek istiyorum. Sayın Görmez;<br />
+“İslâm’ı hakkıyla temsil edemedik. Kur’an-ı Kerimi anlamadık, meramını doğru anlatamadık. Böldük, bölündük, kendimizi tek hakikat yolcusu ilan ettik, birbirimizi küfürle itham ettik. Kendimizi, düşüncemizi, mezhebimizi, meşrebimizi kutsadık. Şiddetin adını cihat, zulmün adını zafer koyduk. Senin rahmet dinini, “korku dini” zannedenler varsa, sorumlusu biziz.”</p>
+<p>“Kendimiz için istediğimizi mümin kardeşimiz için isteyemedik. Haset ettik. Gıybet ve iftiraya bulaştık. Kul hakkına girdik. Kardeşimizden hoşgörüyü dahi esirgedik. Kusurumuz boyumuzu aşmış, günahımız asırlara taşmış. Söz veriyoruz. Açgözlüler yüzünden çocukların aç kalmadığı, Aylan bebeklerin minik bedenlerinin deniz kıyılarına vurmadığı bir dünyada yaşamayı, o dünyayı kurmayı bizlere lütfeyle Ya Rabbi!”</p>
+<p>“Kandırılmış, beyinleri yıkanmış, dağlara çıkmış, kendi halkına ihanet ettiğini, kendi milletini arkadan vurduğunu fark etmeden eli silaha sarılmış insanlarımızı uyandır Allah’ım. Onları hain emellerine alet eden, huzurumuzu pusuya düşürmeye, vicdanımızı köreltmeye, beraberliğimizi sona erdirmeye çalışan cinayet şebekelerinin oyunlarını başlarına çevir Allah’ım.”</p>
+<p>“Dünyaya aldandık, hırs ve tamahın girdabında boğulduk. Kendimize yabancılaştık, iffetin kıymetini, önemini anlayamadık, anlatamadık. Zulme seyirci olduk, mazluma hak ettiği desteği veremedik. Malımızı, makamımızı, her türlü imkânımızı senin rızana uygun bir biçimde kullanamadık. Cimriliğin, bencilliğin, çıkarcılığın karanlığında kaybolduk. Rızkına karşı nankörlük ettik, verdiğine rıza göstermedik, kısmetimizi kabullenmedik.”</p>
+<p>“Omuzlarımızda kimlerin hakkı var, dilimizle kimleri ezdik, elimizle kimleri incittik? Senin evin gönüllerdi, biz nice gönüller yıktık. Senin rızan bir yetimin başını okşamakta, bir öksüzü sevindirmekte gizliydi. Biz bilerek ya da bilmeyerek kim bilir kaç yetimi yalnızlığa terk ettik, kaç öksüzü gizli köşelerde ağlattık. Komşumuz aç yatarken ondan habersiz kendimizi ağırladık. Sen muhtaçlara yardım için bizleri vesile kılmışken, biz sadece sana “Muhtaçlara yardım et Ya Rabbim!” diye dua etmekle yetindik. Şimdi hepsini burada sana itiraf ediyoruz. Zulme uğrayan kardeşlerimize el uzatamadık, onları çoğu zaman  yalnız bıraktık, gözyaşlarına ortak olamadık. Peygamberimizin emrettiği üzere, bir vücudun uzuvları, bir binanın tuğlaları gibi olamadık. Kardeşlerimizin halleriyle hâllenemedik, dertleriyle dertlenemedik, acılarını acımız, sevinçlerini sevincimiz bilemedik. Ne yazık ki bizler, zihinleri bir, yürekleri bir, gayeleri bir, sevgileri bir, hüzünleri bir, kederleri bir, acıları bir kardeşler topluluğu olamadık.”</p>
+<p>Söyler misiniz? Bu sözlerin altına imza atmayacak kimse çıkar mı? Bu sözleri duyduktan sonra benim üzüldüğüm şey, kutsal topraklarda Allah’ın huzuruna çıkınca başta ülkemizi bölük bölük bölen siyasetçiler olmaz üzere, vicdanları kararmış güç ve makam sahipleri ile parayla oynayan yandaş işadamlarına ders ve uyarı anlamında ki sözlerden birisini dahi kendi topraklarında ve kendi halkı önünde söylememiş olması.<br />
+Şimdi bu sözlerin altına imza atacak birisi olarak beklentim, özellikle siyasetçi, makam sahibi ve kolay yoldan çok büyük paralar kazanmış türedi işadamlarını ilgilendirecek uyarı ve telkinleri kendi ülkesinde de sıkça tekrarlamasıdır.<br />
+Çünkü çığırından çıkmış siyaset ve makam sahiplerinin ortamı her geçen gün daha çok gerdiği, saygı ve sevginin yerlerde süründüğü günümüz Türkiye’sinin, bu sözleri duymaya her zamandan çok daha fazla ihtiyacı vardır.<br />
+Aksi halde, kutsal topraklarda bunları söyleyen Diyanet İşleri Başkanı’nın bu sözleri buza yazılmış yazı gibi eriyip kaybolacak ve en yüce makamda ki din adamımızın da siyasi irade karşısın da düzene ayak uydurduğu kanısı hâkim olacaktır.</p>
+<p>HAC’DA FACİALAR ZİNCİRİ</p>
+<p>Daha hac ibadetinin ilk günlerinde devrilen dev bir vinç kazasında onlarca hacı adayı yaşamını yitirdi. Bunun acısı unutulmadan bu kez yaşanan çok daha büyük faciada, şeytan taşlama sırasında çıkan izdiham ve panikte yediyüz elli kişinin üzerinde hacı adayı ölürken, sekizyüzü aşkın hacı da yaralanıyordu.<br />
+Bu olayın gündeme gelmesi ile birlikte geçmişte yaşanan ölüm olayları da televizyon kanallarında sıralanmaya başladı. Bunları da hatırlayınca, Hac’a gidenlerin ne kadar büyük bir risk altında bu dini vecibeyi yerine getirdiğini düşünerek açıkçası ürktüm.<br />
+Bu ölümleri kader olarak geçiştirmek en azından ölenlere saygısızlıktır. Neredeyse bir iki yıl arayla çok ölümlü bir facia yaşanmış. Buna nasıl kader dersiniz?<br />
+Petrolün paraya boğduğu bir toplum, yıllardır bir ailenin hükümdarlığına teslim olmuş, halk eğitimsiz bırakılmış.<br />
+Kraliyeti elinde tutan Suud Ailesi de Amerika’nın himayesinde, ülkesinin sömürülmesine çanak tutarak gücünü sürdürüyor.<br />
+Teknoloji ve organizasyon gücü hemen hemen hiç gelişmemiş bir ülkenin böylesine zor bir organizasyonu sağlıklı düzenlemesi düşünülemez. Zaten sıkça olan akıl almaz facialarda bunu kanıtlıyor. Gerçekten yazık.<br />
+Hac organizasyonuna mutlaka yeni bazı düzenlemeler getirilmesi şarttır. Böylesine ulvi bir görev, böylesine cehalete teslim edilemez.</p>
+<p>CHP İL BAŞKANINA KISA YANIT</p>
+<p>Bu köşeden bir tartışma açmak istemediğim için geçen hafta ki köşe yazıma bir internet gazetesinde cevap vererek beni ve diğer köşe yazarı Ragıp Göker’i cezalandıracağını söyleyen CHP İl Başkanı ile şimdilik bir tartışmayı sürdürmek istemiyorum.<br />
+Ancak şunları söylemek zorundayım;<br />
+Kendisini sosyal demokrat bir partinin il başkanı olduğunun farkında değil ki, bu tip partilerde eleştiri yapılabileceğini ve siyasi partilerde bu işlere bakan disiplin kurullarının varlığını yok saymış.<br />
+Bu kadarla da yetinmeyerek ve haddini aşarak beni kendisini partinin üstünde gören ve partilik konularında ahkâm kesen birisi olarak tanımlamış. Bu sözleri parti toplantılarında söylememiz gerektiğini söylemiş ki, bu doğrudur.<br />
+Ben o yazımda yazdıklarımdan çok daha fazlasını o toplantılarda zaten dile getiriyorum. En son İlkadım İlçe Başkanlığı’nın düzenlediği Danışma Kurulunda kürsüden dile getirdim. Konuşmamı bitirince de, “Bu sözlerimin bazı arkadaşlarımı üzdüğünü biliyorum. Eğer söylediklerimde bir yanlış varsa, benden sonra çıkıp bu kürsüden söyleyin hatalıysam çıkıp özür dileyeceğim” Dedim. Herkes oradaydı çıkıp hiç kimse yanlış diyemedi.<br />
+Toplantılarda yapılan yanlışları anlatıyorsunuz, görev de olan kimse dikkate almıyor. Zaten bunlar dikkate alınsaydı bu kadar yanlış sürekli yapılır mıydı?<br />
+Benim o yazımı dikkatle bir kez daha okumalarını öneriyorum. Çünkü o yazımdan olmayan anlamlar çıkartılarak açıklamalar yapılmış.<br />
+Ben il yönetiminin sıraları kaydırdığını söylemiyorum. Ben, aday adayı başvuru listesini dokuz kişiye tamamlayamadan Genel Merkez’e göndermelerinin büyük bir hata ve ayıp olduğunu söylüyorum.<br />
+Genel Merkez’in listeye müdahale etmek zorunda bırakıldığını ve sıraların kaymasına da bu yanlışın neden olduğunu söylüyorum.<br />
+Bunun neresi yanlış?<br />
+Gerçekleri yamultarak kimse kendisini haklı çıkartamaz. Benim verdiğim emeğin ve ürettiğim raporların tekini dahi üretmeyenlerin beni suçlaması anlaşılır gibi değil.<br />
+Benim yazdıklarım partiye zarar vermez ama temeli olmayan suçlamalarla uzatılacak tartışmalar zarar verir diye düşünüyor ve şimdilik seçim sonrasına kadar bu konuya burada nokta koyuyorum.<br />
+Umarım seçimlerde İl Yönetimi büyük bir başarıya imza atar ve üçüncü milletvekilini çıkartılır, bende il Yönetimi ile ilgili sözlerim için özür dilerim.<br />
+Güzel bir hafta dileğiyle. 27.09.2015</p>
+<p>Ecz. SADİSUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0767-chp-samsun-i-l-orgutu-siyaseten-cokmustur.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0769-demek-ki-boyle-kentler-de-kurulabiliyormus-1-bolum.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

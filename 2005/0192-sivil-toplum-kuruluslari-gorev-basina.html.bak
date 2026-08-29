@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Sivil Toplum Kuruluşları Görev Başına…</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Sivil Toplum Kuruluşları Görev Başına…
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2005
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0192
+
+</div>
+
+
+<div class="article-content">
+
+<p>SİVİL TOPLUM KURULUŞLARI<br />
+GÖREV BAŞINA</p>
+<p>Üzülerek söylemek gerekirse, son yıllarda bayramları anlamına yakışır bir şekilde kutlayamıyoruz. Dini bayramlar dinlenmek ve tatil yapmak için bir fırsat olarak değerlendirilmekedir. Milli bayramların kutlama törenleri ise insanı düşündürecek kadar sönük geçiyor. Halkın katılımının hemen hemen yok denecek seviyeye düştüğü törenlere , zorunlu olarak katılan kamu yöneticilerinin sayısı da her geçen gün azalıyor. Bu gün sizlerle milli bayramlarda yaşanan bu olumsuzluğun nedenlerini paylaşmak istiyorum.<br />
+Osmanlı’dan kalan Anadolu toprakları üzerinde kurulmuş olan , son Türk Devletinin kanla yazılmış şanlı tarihinin yıl dönümleri olan milli bayramlarımızın, böylesine heyacansız ve katılımsız kutlanmasının altında yatan nedenler çok iyi irdelenmelidir.<br />
+Herşeyden önce genç kuşaklara tarihimizin iyi öğretilemediği gerçeğinin altını çizmek istiyorum. Türkiye Cumhuriyetinin kuruluşundaki olayları en güzel anlatan  “  nutuk “dahi okullarımızda öğretilmemektedir. Türk toplumunu tarihinden kopartmak isteyen dış güçlerin uyguladıkları senaryolar, ne yazık ki meyvasını vermeye başlamıştır. Atatürk fotoğraflarının duvarlardan indirilmesinin ve Atatürk ilkelerini terketmemizin öğütlenmesi birer tesadüf değildir.<br />
+Bu gerçeklerin dışında, son yıllarda bayram kutlama törenleri için yapılan ciddi uygulama hatalarıda vardır. Bayramlara heyecan getirecek hiçbir yenilik katılamamıştır. Tam tersine geçtiğimiz yıllarda yapılan ve halkın katılımını sağlayan etkinlikler de her nedense terkedilmiştir. Bunların yerini belediyelerin düzenlediği müzik şölenleri almıştır. Günün anlamını hatırlatmaktan çok uzak , sadece gençleri eğlendirmeye yönelik bu aktiviteler milli bayramları kutlamak için yeterli olmamaktadır. Eskiden milli bayram akşamları, askeri bando  eşliğinde, askerlerimizin ellerinde taşıdığı meşalelerle düzenlenen fener alayları kentin tüm  ana caddelerini  yürüyüş korteji ile renklendirirdi.<br />
+Bu heyecan verici korteje cadde kenarlarında toplanan halkda katılırdı. Hatta bazıları araçlarına aldıkları çocukları ile Türk bayraklarını sallayarak yürüyüşe renk katarlardı. Sonraki yıllarda az sayıda ki asker ile meşaleler tırların üzerine bindirilmeye başladı. Ana caddelerde bu tırlarla yapılan fener alayları da sonraki yıllarda anlaşılmaz bir  şekilde terkedildi.<br />
+Halkı katamadığınız hiçbir bayram amacına ulaşamaz ve heyecan veremez. Bunun en güzel örneği geçtiğimiz yıl kutlanan “19 Mayıs Atatürk’ü Anma Gençlik ve Spor Bayramın da” kanıtlandı. Uzun yıllardır görülmemiş bir halk katılımı ve doruktaki heyecanla kutlanan  19 MAYIS  ATATÜRK’Ü ANMA GENÇLİK VE SPOR BAYRAMI muhteşem oldu. Nedeni ise bu bayrama eklenen bir aktiviteydi. Şişli Belediye Başkanı sayın Mustafa Sarıgül tarafından  cumhuriyetimizin 80. yıl kutlamaları için yaptırılan ,3600 metre uzunluğundaki rekor Türk Bayrağının, SAM-SEV tarafından Samsun’a getirilerek “19 Mayıs Atatürk’ü Anma Gençlik ve Spor Bayramında “ Samsun’da 100,000 i aşkın Samsunlunun katılımı ile açılmasıydı. O günkü coşku uzun yıllar unutulmayacaktır.<br />
+Milli bayramlarda yaşanan bu ilgisizlik son “30 Ağustos Zafer  Bayramında” had safhaya çıkmıştır. O günlerde göreve yeni başlayan garnizon komutanı sayın tüm general Naci Beştepe, bu durumdan duyduğu rahatsızlığı , aynı akşam verilen “Zafer Bayramı “ resepsiyonunda yaptığı konuşmada açık bir şekilde belirtmişti.<br />
+Sanıyorum yaşanan bu ilgisizlik nedeniyle, Samsun Valiliği kurum ve kuruluşlar ile sivil toplum kuruluşlarına bir yazı göndererek 29 Ekim Cumhuriyet Bayramı resmi geçitine katılmalarını önermiştir. Bu konuda bazı sivil toplum kuruluşlarının çalışmalara başladığını biliyorum.<br />
+Günümüzün vazgeçilmez kuruluşları arasında önemli yeri olan STK ların bu çağrıyı fırsat bilerek, varlıklarını kanıtlamaları ve geniş katılımlarla bu bayramda , oluşan olumsuz havayı dağıtmaları çok yerinde olur diye düşünüyorum. Bu çağrı cevapsız bırakılmamalıdır.<br />
+Özellikle son aylarda Atatürk’e ve İlkelerine karşı  bir takın odaklarca artarak sürdürülen saldırı ve yıpratma söylemlerine karşı bu katılım, en güzel cevap olacaktır. Bu konuda STK lar ortak çalışmalara başlayarak, bu bayramın  görkemli bir şekilde kutlanmasına katkı vermeleri , STK ların önemini de bir kez daha ortaya çıkartacaktır.<br />
+Bu konuda yetkililerin de başta fener alayları olmak üzere halkın katılımının sağlanabileceği etkinlikleri öne çıkartmasında yarar vardır.<br />
+Türkiye Cumhuriyetinin tüm dünyaya ilanının 82. yılında tüm STK lara sesleniyor ve “haydi görev başına” diyorum. İyi haftalar..  09-EKİM-2005</p>
+<p>SADİ  SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0191-ulusal-basin-da-ne-demek.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0193-samsun-uzerine-cesitlemeler.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

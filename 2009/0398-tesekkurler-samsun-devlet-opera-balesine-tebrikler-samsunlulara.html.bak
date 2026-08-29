@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Teşekkürler Samsun Devlet Opera Balesine, Tebrikler Samsunlulara</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Teşekkürler Samsun Devlet Opera Balesine, Tebrikler Samsunlulara
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2009
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0398
+
+</div>
+
+
+<div class="article-content">
+
+<p>e-posta; sadisubasiqdenizeczaneoptik. com                                   SUNUŞ</p>
+<p>TEŞEKKÜRLER SAMSUN DEVLET OPERA BALESİNE,<br />
+TEBRİKLER SAMSUNLU SANATSEVERLERE.</p>
+<p>Samsunlu sanatseverler uzun yıllardır bekledikleri SAMSUN DEVLET OPERA BALESİ’NE kavuştu. Yerleşik kadro atamaları tamamlanan Samsun Devlet Opera Balesi Sanatçıları, önceki hafta sonu düzenlenen açılış konseri ile Samsunlularla buluştu.<br />
+Kuruluş kararı çıkmasına rağmen yıllardır kadro atamaları yapılmadığı için faaliyete geçmeyen Samsun Devlet Opera Balesi, Kültür ve Turizm Bakanı Sayın ERTUĞRUL GÜNAY’IN birkaç ay önce AKM’ de Samsunlulara verdiği müjde ile gerçekleşti. Müdür ve Genel Sanat Yönetmenliğini Sayın KERİM SOYSAL’IN yaptığı ekip tek kelime ile harikaydı. MARKUS BAISCH’IN Orkestra şefliğini yaptığı ekipte ŞAHAN KALKAN’DA koro şefi olarak görev almıştı.<br />
+Konserde sunulan birbirinden güzel ünlü yerli ve yabancı yorumcuların eserleri sanatseverleri doyurdu. Açılış konserinde W. A. Mozart, G. Verdi, A. Vivaldi’nin yanında Ferit Tüzün ve Selman Ada’nın tanınmış eserlerine ağırlık verilmişti.<br />
+Geçtiğimiz Cumartesi günü de çocuklara yönelik “ KARAGÖZ VE HACİVATLA CUMHURİYETE YOLCULUK” isimli oyun sunulduğunu duydum. Bunlar Samsun adına gerçekten sevindirici gelişmeler. Bu arada konserlerin halka açık olduğunu ve isteyen tüm Samsunluların bu konserlerini izleyebileceğini duyurmak isterim.<br />
+Samsun’un bölgenin kültür merkezi olduğunun aksini kimse söyleyemez. Bu özelliği tarihin çok eski dönemlerine dayanır. Samsun tarihin hemen her döneminde çok değişik kültürlerin etkisinde kalmıştır. Bu kültürlerin sanatsal birikimlerinin izlerini yakın geçmişimizde görebiliyoruz. Samsunlu da, sosyal yapı olarak bu etkinliklere her zaman açık olmuş ve hemen her dönem çeşitli kuruluşların çabası ile Samsun’da sergilenen sanatsal etkinliklerde salonları doldurmuştur.<br />
+Samsunlu bu sanatsever özelliğini ve birikimini bu konser de bir kez daha kanıtlamıştır. Buna benzer klasik müzik konseri sunulan ve konser sonrası beğendiniz mi? diye sorulan sorular üzerine, izleyicilerin “ ….. olalı böyle zulüm görmedi” diyebildiği illerin bulunduğu Anadolu’da Samsunlu izleyiciler alkışı hak etmiştir. Salonu tıka basa dolduran, bu tür klasik müzik konserinde nerede alkışlayacağını bilmek, konser sonrası biran önce çıkıp eve gitmek yerine dakikalarca alkışlarla sanatçıları tekrar tekrar sahneye davet etmek Samsunluya ayrıcalık getirmektedir. O nedenle de SAMSUNLU, başlıkta ki “TEBRİKLER SAMSUNLULULARA” başlığını hak etmiştir.<br />
+İşte bu nedenle ATATÜRK KÜLTÜR MERKEZİ Samsun için çok büyük önem taşımaktadır. Bir ara siyasi bir tercihle Kültür ve Turizm Bakanlığı’ndan alınarak bir yerel belediyemize verilmesi sanatseverleri endişelendirmişti. Sonunda doğrusu yapıldı ve AKM asli işlevini yapar hale geldi. Bu güzel sanatsal yapının oluşmasında katkısı olan herkese, başta Kültür ve Turizm Bakanı Sayın Ertuğrul Günay olmak üzere teşekkürlerimi sunuyorum.<br />
+Yukarıda da belirttiğim gibi AKM Samsun için çok önemli bir yer. Bu kültür merkezinin bitirilmesi ve açılması da tam bir yılan hikâyesine benzer. Sayın Mesut Yılmaz’ın çiçeği burnunda bir siyasetçi olarak Kültür Bakanlığı yaptığı ( sanırım 1986) dönemde temelini attığı Samsun Atatürk Kültür Merkezi, tam 15 yıllık bir uğraşı sonucu hizmete açılabildi. Bu konuda büyük çaba harcayan sayısını unuttuğum geçmiş dönem valilerimize ve İl Kültür Müdürlerimize teşekkür ediyorum.<br />
+Samsun için böylesine önemli bir kültür merkezinin tam 15 yıl süreyle tamamlanamaması dahi, her zaman vurguladığım Samsun olarak siyasi gücümüzün olmadığı gerçeğinin bir başka örneğidir. Bu merkezin tamamlanması için çok büyük çaba harcamış bir sivil toplum kuruluşu olan SAM-SEV’İN Başkanı olarak bugünleri görmek beni de çok mutlu ediyor. Geçmişte bir dönem Kültür Bakanlığı yapan Sayın Fikri Sağlar’ı AKM’nin tamamlanmasını görüşmek üzere Samsun Şehir Kulübünde düzenlediğimiz bir yemekte konuk etmiştik. Valimiz, yerel yöneticilerimiz ve üyelerimiz ile Samsunlu işadamlarının da katıldığı yemekte Sayın Sağlar, o gün orada olanların hatırlayacağı gibi, “Gelecek yıl 19 Mayıs’ta açılışı yapmak üzere burada olacağım” sözünü vermişti. Ne var ki, ne O’nun bakanlık süresi buna yetti, ne de ondan sonra ki çok sayıda bakana kısmet olmayan açma şansını, 2001 yılında o dönemin Kültür Bakanı Sayın İstemihan Talay yakaladı.<br />
+ATATÜRK KÜLTÜR MERKEZİ’N de Samsun Devlet Tiyatrosu’nun da oyunlar sunduğu günleri görmek en büyük dileğim. Bu konuda tüm yetkililerin yoğun çaba harcaması için açık çağrı yapıyorum.<br />
+Böyle güzel bir olayı işlediğim günde, gündemde ki gerginliklere girmeden yazımı güzel birkaç olaya değinerek bitirmek istiyorum.<br />
+TEŞEKKÜRLER METİN TÜRK İMREN.<br />
+Toplum olarak sahip olduğumuz yetenekleri ve birikimlerimizi geniş kesimlerle paylaşmayı çok iyi beceremiyoruz. Kimimiz bu konuda tembellikten, kimimiz de anlaşılmaz bir çekingenlikle, aydın olarak asli görevimiz olması gereken aydınlatma görevimiz de eksik kalıyoruz. Bu nedenle, yazma yeteneği olanın yazmasından, yapabilme yeteneği olanın resim yapmasından, çalabilenin bir müzik aleti çalmasından, söyleyebilenin söylemesinden yana tavır içinde oldum. Son dönemlerde açılan resim sergilerinde resimlerini gördüğüm arkadaşlarımın, resim atölyelerine devam ederek Resim çalışması yapmalarını büyük takdirle karşılıyorum.<br />
+İşte bu anlayışla, Sevgili Dostum ve Halk Gazetesi’nin topluma tanıttığı yeni köşe yazarı METİN TÜRK İMREN’İ candan kutluyorum. Tüm dostlarıma da yazılarını okumalarını öneriyorum. 1970’ li yılları yaşayanların “ KARTUR METİN” olarak daha rahat hatırlayacakları Metin Erhamza, Samsun’un ilk turizm firması olan KARTUR’u kurmuş ve Samsunluyu turizmle tanıştırmıştı. Daha sonra Amerika’ya yerleşen Sevgili Metin aileden kalan miras işleri için uzun bir süredir Samsun’da. Açıkçası artık tek ayağı Samsun’da.<br />
+Sözünü ettiğim o dönem Samsun’un en renkli dönemiydi. YOSUN KAFE, VİDİNLİ ROOF gibi seçkin eğlence yerleri ile trompet ve piyano da YETKİN, saksafonda GÜVEN, bateride Mayk RAMİZ ile BÜLENT TUHTA, TARIK BAŞOĞLU, ERTUĞRUL BAYRAKTARKARTAL ve adını hatırlayamadığım genç müzisyenler Samsun’un unutulmazları arasında yer almışlardır. İşte METİN ERHAMZA’DA entelektüel yanı ile bu dönemin hatırlanan isimlerinden birisidir.<br />
+O zaman ki adıyla Samsun Maarif Koleji mezunu olup, en sadık mezunlarından birisidir. Amerika’da yaşarken dahi Kolejin kuruluş yılı yemeklerine her yıl aksatmadan katılmıştır.<br />
+Bu dostum birikimlerini, zaman zaman Türkiye-Amerika izlenimleri ile harmanlayarak akıcı bir üslupla HALK’TA yazıyor. Yürekten kutluyorum.<br />
+TEŞEKKÜRLER ANADOLU FOLKLAR VAKFI.</p>
+<p>Yıllardır bir avuç Samsun sevdalısı insan sessiz, reklâmsız yürüttükleri çalışmalarla Samsun’un folklorik değerlerini ilçe ilçe, köy köy gezerek derleyip Samsunlulara sunuyorlar.<br />
+Yıllarca Samsun’un folklor oyunu olmadığını iddia ederek açılış ve törenlere Samsun’a ait olmayan folklorik gösteri sunanlara karşı sürdürdüğüm tavır, nihayet amacına ulaştı. Son dönemlerde törenler Anadolu Folklar Vakfı Samsun Şubesi’nin derlediği oyunlarla başlıyor. Sonra da ülkemizin her yöresi oyununa yer veriliyor. Bu konuda destek veren Anadolu Folklar Vakfı Samsun Şubesi Başkanı değerli dostum Sayın Hikmet Gürcan ve yönetimine teşekkürlerimi sunuyorum.<br />
+Tabii en büyük teşekkürümü ise, Samsunluluk bilinci ile hareket ederek bu konuda ki yanlış uygulamaya son veren, başta Büyükşehir Belediye Başkanımız Sayın Yusuf Ziya Yılmaz olmak üzere tüm yerel yönetici ve sivil toplum kuruluş başkanlarımıza sunuyorum.<br />
+İyi ve güzel günler dileğiyle.. 01 Şubat 2009<br />
+SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0397-buyuk-ortadogu-projesi-ve-turkiye.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0399-chp-nin-siyasi-i-ntihari-ve-ozune-i-haneti.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

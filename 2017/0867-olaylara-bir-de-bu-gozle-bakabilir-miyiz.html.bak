@@ -1,0 +1,323 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Olaylara Bir de Bu Gözle Bakabilir miyiz</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Olaylara Bir de Bu Gözle Bakabilir miyiz
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2017
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0867
+
+</div>
+
+
+<div class="article-content">
+
+<p>e-posta; denizeczaneoptik. com                            SUNUŞ</p>
+<p>OLAYLARA BİR KEZ DE BU GÖZLE BAKAMAZ MIYIZ?</p>
+<p>Son referandum bir kez daha göstermiştir ki, ülkemiz birbirini kesinlikle anlamayan, anlamaya da hiç istekli olmayan iki ayrı cepheye ayrılmış bulunuyor.<br />
+Üzülerek belirtmek gerekirse, referandum sonrası ortamın yumuşayacağı ve zamanla endişe verici bu durumun giderek azalacağı umutları da yerle bir oldu.<br />
+Bu durumun sürmesi, korkarım ki ülkemizin iç barışını geri dönülemez hale getirecektir.<br />
+Ülkemiz de seçimler bitiyor fakat bir türlü seçim ortamı bitmiyor. Bunun en büyük sorumlusu, sürekli konuşan ve birbirlerini suçlayan siyasetçiler olup, toplumu da karşı karşıya getirmeyi sürdürüyorlar.<br />
+Ülkemiz de zaten çok sevilmeyen ve güven duyulmayan Türk siyasetçi kimliğini giderek daha da yıpratılması kime ne yarar sağlayacaktır.<br />
+Dünyanın demokrasi ile yönetilen hiçbir ülkesi seçimle yatıp seçimle kalkmaz. Seçimler biter, toplum günlük yaşamına döner.<br />
+Oysa bugün ülkemiz, çok ciddi dış sorunlar ve komplolarla karşı karşıya bulunuyor.<br />
+Ülkemizin bu sıkıntılı dönemi kazasız belasız atlatması için ülkemizde ki kamplaşmanın sona erdirilmiş, iç barışın mutlaka sağlanmış olması ve ülkemizin tek yumruk haline gelmiş olması şarttır.<br />
+Ancak bundan sonra dış politikamızı eleştirebilir, ne yanlışlar yaptığımızı konuşabiliriz.<br />
+Oysa yukarıda altını çizdiğim gibi özellikle siyasi ortam bunu sağlamaya hiç de istekli görünmüyor.<br />
+Önümüzde ki aynaya baktığımızda şu manzarayı görüyoruz. Ülkemizde ki siyasi iradeyi mutlak sayısal üstünlükle elinde tutan iktidar, hemen hemen tüm idari ve hukuki kurumları kontrolü altına almış olmanın da güvencesi ile medyayı hiçbir sınır tanımaksızın kullanıyor.<br />
+Siyasi iradenin sözcüleri, içerisinde bulunduğumuz Ramazan ayının dini olanaklarını da kullanarak, gece gündüz TV ekranlarında günde birkaç kez yer alarak konuşuyorlar.<br />
+İş öylesine abartıldı ki, gecenin ilerleyen bir saatinde heyecanlı bir tartışma programı izlerken dahi bir an da tartışma programı kesiliyor ve aynı siyasetçiler karşınıza çıkıyor. Bu tür kesintiler artık spor programlarında dahi görülmeye başladı.<br />
+Dakikalarca izlemek zorunda kalınan bu konuşmalar, siyasi iradenin yanında olan ülkenin bir yarısını rahatsız etmeyebilir ama bir de bu ülke de siyasi irade gibi düşünmeyen diğer yarısının olduğu unutulmamalıdır.<br />
+Bu tablonun çok daha iyi anlaşılabilmesi için bu tablodan rahatsız olmayanlar, bir de aynanın arkasından bakmalıdırlar.<br />
+Bir an için o hergün, her dakika TV ekranlarında gördükleri konuşmacıların yerini muhalefet partisi sözcülerinin aldığını görseler ne düşünürler?<br />
+Ülkemizi yönetenler ile ülke siyasetinde rol oynayan herkesin en önemli görevi, bir an önce ülkemizi seçim ortamından çıkartarak bu ayrışmayı giderecek önlemleri almalarıdır.<br />
+Çünkü bu ayrışma, en çok da ülkemiz üzerinde hesabı olan dış güçlerin işini kolaylaştırmaktadır.<br />
+Ülkemizde ki iç barışı tehdit eden bir diğer neden de, işsiz eğitimli genç insan sayımızın giderek artmasıdır.<br />
+O nedenle, ülkemizin gündemi bu ayrışmaların körüklenmesi değil, bir an önce üretime nasıl geçerizin konuşulması olmalıdır.<br />
+Tarımın yeniden canlandırılması, yeni işletmelerin kurulması, işsiz insan sayımızın nasıl azaltılacağı tartışılmalıdır.<br />
+Bilinen en geçerli kural olan, “Üretmeyen toplumların huzurununda, geleceğinin de olmadığı” Unutulmamalıdır.<br />
+İyi haftalar. 18.06.2017<br />
+Ecz. SADİ SUBAŞI<br />
+SAMSUNLULAR, LÜTFEN! UNUTMAYINIZ.<br />
+HAVA ALANIMIZ TEMMUZ SONUN DA ÜÇ AYLIĞINA KAPATILACAKTIR.<br />
+Asma köprüler, Boğazının altından tüp yollar ve kilometrelerce otoyol yapabilen bir Hükümet döneminde, altı üstü 3,5 Km. Uzunluğunda ki 2. Pistin maliyeti nedeniyle Havaalanımız kapatılarak onarılacak olması inandırıcı değildir.<br />
+En az dört yıldır bilindiği için acil bir durum olmadığı ve kapatmanın asıl nedenin bu olmadığı anlaşılmaktadır.<br />
+Bu, bir kez daha Samsun’a yapılan bir dayatmadır.<br />
+Soru şu; Neden bu dayatmaya sessiz kalınıyor?<br />
+Havaalanı bir kent için can damarıdır.<br />
+Bu kente sahip çıksınlar diye seçtiğimiz milletvekillerimiz, bu kapatmadan en çok zarar görecek olan iş adamlarımız, sanayicilerimiz, turizm firmalarımız,<br />
+Sizler ne zaman konuşacaksınız? Neden susuyorsunuz?<br />
+NEDEN? NEDEN? NEDEN?<br />
+e-</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0866-uyusturucu-ve-turkiye-uzerinde-oynanan-oyun.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0868-turk-tarimina-darbe-vuruluyor.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

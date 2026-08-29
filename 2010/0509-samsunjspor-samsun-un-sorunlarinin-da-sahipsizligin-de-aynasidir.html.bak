@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Samsunjspor, Samsun&#x27;un Sorunlarının da Sahipsizliğin de Aynasıdır.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Samsunjspor, Samsun&#x27;un Sorunlarının da Sahipsizliğin de Aynasıdır.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2010
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0509
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>SAMSUNSPOR, SAMSUN’UN SORUNLARININ DA<br />
+SAHİPSİZLİĞİNİN DE AYNASIDIR.</p>
+<p>Yıllardır Samsun’un sahipsizliğinden yakınan ve bu olgu değişmedikçe Samsun’un sorunlarının çözülemeyeceğini söyleyen birisiyim.<br />
+Yine üzülerek söylemek isterim ki, Samsun’un bu sorununu gidermek sorumluluğunu taşıyan kent yöneticilerimiz ve milletvekillerimiz de bunu kabullenmiş gözüküyor. Bu gerçek Samsun adına son derece düşündürücü ve bir o kadar da umut kırıcıdır.<br />
+Bayram öncesi iktidarın Samsunlu önemli iki isminden gelen açıklamalar da bu söylemimi kanıtlar nitelikte olmakla birlikte, ilk kez karşı çıkışın da işaretleri olmuştur.<br />
+Şu sözler de, sizce bunu anlatmıyor mu?<br />
+İmar ve İskân Bakanı Sayın Mustafa Demir, önceki hafta Hükümetin yaptığı rutin işleri sıralarken “Samsun artık sahipsiz değildir” sözlerini kullanmıştır.<br />
+AKP Grup Başkan Vekili Sayın Suat Kılıç’ta, Samsunspor Başkanı Sayın Erkut Tutu’nun İzmir’de şeref tribünün de yumruklanması üzerine, “Samsunspor ve Samsun sahipsiz değildir” Diyerek Samsunspor’a sahip çıkmıştır.<br />
+Bu sözler de bir anlamda Samsun’un sahipsiz olduğu gerçeğini kabullendiklerini ve buna karşı sahiplenme çabasına girdiklerinin vurgulanması anlamına gelmektedir.<br />
+Yıllardır bu olguya karşı çıkılmasını bekleyen birisi olarak bu söylemleri umut verici bir gelişme olarak görüyor ve Sayın Demir ile Sayın Kılıç’a teşekkür ediyorum.<br />
+Konu Samsun’un sahipsizliği olunca, bu eksiklikten en büyük payı alan Samsunspor’dan söz etmemeye imkân yoktur.<br />
+Sevsek de sevmesek de, futbol günümüzde insan ve kent yaşamında çok önemli rol oynamaktadır. Bu konu öylesine önem kazanmıştır ki, Süper Lig’de futbol takımı bulunan kentler hemen her gün yazılı ve görsel basında yer almaktadır.<br />
+Böylesine bir reklâmı çok büyük harcamalarla dahi yapmaya olanak yoktur. Kaldı ki, futbolun kentlere taşıdığı heyecan birleştirici anlamda da rol oynamakta ve kent ekonomisine de tahminlerin ötesinde katkı yapmaktadır.<br />
+İşte böylesine önemli bir gücü yıllardır Samsun’u yönetenlerin bir kısmı ile Samsun’u temsil eden siyasetçiler ya göz ardı etmişler veya siyasi gelecekleri için basamak yapmışlardır.<br />
+Bu ilgisizlik, taraftarlarımıza ve Samsun’a hiç yakıştıramadığım şekilde siyasetçilerin ve bazı kent yöneticilerinin stadyumda protesto edilmelerine neden olmuştur.<br />
+Son günlerde özellikle AKP Grup Başkan Vekili ve Samsun Milletvekili Sayın Suat Kılıç’ın girişimleri ve sağladığı destekler, her türlü alkışı ve takdiri hak etmiştir.<br />
+Bilindiği gibi iki hafta önce Samsunspor Başkanı Sayın Erkut Tutu Karşıyaka maçı sırasında yumruklanmıştı. Olay sonrası gerek davacı olmak için gittiği karakolda ve devamında yaşadığı yalnızlık, Sayın Tutu’yu üzmüş ve isyan ettirmişti.<br />
+İşte bu olayın hemen ertesi günü Sayın Suat Kılıç, Başkan Erkut Tutu ve Samsunspor’a sahip çıkmış ve Futbol Federasyonu’nu uyararak gerekenin yapılmasını sağlamıştı.<br />
+Bu olayın ardından Samsunspor açısından çok daha ağır sonuçlar getirecek 450.000 USD’LİK bir ceza kulübe tebliğ edilerek hemen ödenmesi istenmişti. Zaten para sıkıntısı çeken kulübün bu parayı 15 gün gibi kısa bir sürede bulması ve ödemesi mümkün gözükmüyordu.<br />
+Ceza 2000 yılında alınan Brezilya’lı bir futbolcuya ve geldiği kulübe olan borçların ödenmemesi nedeniyle FİFA tarafından kesilmişti. Yaptırımı da 9 puanın silinmesi, yine ödenmemesi halinde bir alt lige düşürülmesi olarak yansıyacaktı.<br />
+Sayın Suat Kılıç bu konuda da hemen devreye girmiş ve önce bir miktar avans ödenmesini sağlayarak süreyi 30 Kasıma kadar uzattırmıştı. Ardından da kalan miktarın ödenebilmesi için herkesin elini taşın altına konması gerektiği çağrısını yapmıştı.<br />
+Başta Başkan Sayın Erkut Tutu olmak üzere Yönetim Kurulu kaynak bulabilmek için gerek Samsun içinde ve gerekse Samsun dışında büyük bir çaba harcamış ancak, sonuç alamamıştı.<br />
+Bu çalışmalardan olumlu sonuç alınamaması üzerine Sayın Suat Kılıç yeniden devreye girmiş ve yaptığı girişimlerle borcun tamamının ödenmesini sağlayarak Samsunspor’u çok büyük bir sıkıntıdan kurtarmıştır.<br />
+İktidar Partisi’nin Grup Başkan Vekili olan Milletvekilimiz Sayın Suat Kılıç, bu kez gerçekten de Samsunlular olarak siyasetçilerimizden beklediğimiz bir tavrı sergilemiştir. O nedenle de takdir ve alkışı hak etmiştir.<br />
+Ancak bu alkış bazı gerçekleri de yok etmeye yeterli değildir. Bu ve benzeri konularda da bu tür desteklerin sürmesi ve tüm siyasetçimizin de bu anlayışı göstermesi gereklidir.<br />
+Yine bu olay sırasında yaşananlar, bazı şeylerin de sorgulanmasında yarar olduğunu göstermiştir.<br />
+Evet! Son olayda Sayın Suat Kılıç kent olarak yapamadığımızı tek başına kotarmıştır. Bu işin doğru yanıdır ama bir siyasetçimizi parasal bir sorunu çözmek zorunda bırakmak da bu kentin, yani hepimizin ayıbıdır.<br />
+Samsunspor’un düzenlediği bayramlaşma törenine Sayın Suat Kılıç’ın dışında diğer Milletvekillerinin, Belediye Başkanları’nın ve eski kulüp başkanları ile Sivil Toplum Kuruluş Başkanlarının katılmaması da ayıp olmuştur. Samsunspor’un sahipsizliğinin bir göstergesi de olan bu ilgisizlik, zamanlaması ile de düşündürücüdür. Uzun bir süreden sonra şampiyonluk şansı yakalanmışken ve morale en çok ihtiyaç duyulan bir dönemde olması ise Samsun’a hiç yakışmamıştır?<br />
+Bayramlaşma sırasında Sayın Suat Kılıç’ın bir sözü Samsunspor’un içinde bulunduğu ekonomik sorunların nedenini çok güzel özetlemektedir. Sayın Kılıç, “Günlük ekonomik sorunları çözmeye çalışırken, geçmiş yılların yönetimsel yanlışlarından kaynaklanan bir takım eski borçların sürpriz şekilde ortaya çıkması büyük sorunlara neden olmaktadır “ demektedir. Son derece doğru bir tespit olan bu sözlere ben de şunları eklemek isterim. Son on yıldır Samsunspor Başkanlığı biraz da siyasi baskılarla bazı işadamlarına yüklenmiştir. Çoğunun sporla da çok yakın ilişkide olduğu söylenemeyecek bu işadamlarımızın hepsi de kendi işlerinde son derece başarılıdırlar. Ancak bu başarılarını nedense Samsunspor’da gösterememişlerdir. Paralar hesapsızca harcanmış ve oyuncu geliş gidişlerinde yapılan ödemelerde büyük bir sorumsuzluk yaşanmıştır. Oyuncu sözleşmeleri iptal edilirken verilen çek ve senetler alınmamış veya fesih işlemleri haksız yapılarak kulüp ileriki yıllarda büyük borç ödemeleri ile karşı karşıya bırakılmıştır. Son ödenen 750.000 USD’ de bunlardan birisidir. Bu tür yönetimsel hatalara dayalı borçların Samsunspor’un üzerine yıkılmasını işadamlığı etiği ile bağdaştıramıyorum. Sanırım bu işin doğrusu, daha sonra ortaya çıkan bu tür sürpriz borçların bir şekilde o dönemin yönetimleri tarafından çözüme ulaştırılmasıdır.<br />
+Sayın milletvekillerimizin Samsun’un çok önemli diğer sorunlarında da Sayın Suat Kılıç’ın son olayda yüklendiği sorumluluğu göstermesi bu kentin en büyük beklentisidir.<br />
+Samsunspor’umuz uzun bir aradan Süper Lig yolunda önemli bir yere gelmiştir. Samsunspor’un Süper Lige çıkması demek her maçta çok önemli bir paranın kasasına girmesi demektir. Bu da Samsunspor’un ekonomik sorunlarının çözümü için büyük bir şans yaratacaktır.<br />
+O nedenle, gelinen bu noktada tüm Samsunluların kenetlenmesi ve elinden gelen desteği vermesi kaçınılmazdır.<br />
+Bu konuda cefakâr taraftarlarımız öncülük yaparak büyük bir çaba harcamakta ve tribün şovları ile takıma büyük bir moral desteği sağlamaktadırlar.<br />
+Bu satırların yazıldığı sırada ordu maçı henüz oynanmamıştı. Umuyorum ki bu maçı da alıp, artık Süper Lig hesaplarını daha güçlü yapmaya başlayacağız.<br />
+Taraftarlarımızın bu akşam ki maç için muhteşem bir şov hazırladıklarını biliyorum. TRT’NİN yayınlayacağı maç ile Samsun’un adını tüm Türkiye’ye bir kez daha duyuracaklar ve yukarıda özellikle belirttiğim gibi Samsun’un en güzel reklâmını yapacaklardır. Kendilerini şimdiden kutluyorum.<br />
+Söz taraftarlarımızdan açılmışken, geçtiğimiz hafta uğradıkları adli soruşturma nedeniyle kendilerine geçmiş olsun diyorum.<br />
+Bu olayın altında bir takım nedenler arayarak camianın zarar görmesine fırsat verilmemesini diliyorum. Ancak taraftar derneklerinin de kendi aralarına sızan yanlış kişileri ayıklayarak, bu tür sıkıntılara ortam bırakmamalarının doğru olacağını söylemek istiyorum.<br />
+Tüm Samsunluları Cadde ve sokakları, hatta evleri Samsunspor Bayrakları ile donatmaya davet ediyorum.<br />
+İyi haftalar…28 Kasım 2010</p>
+<p>SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0508-hangi-i-si-yaparsan-yap-ama-severek-yap.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0510-wikileaks-i-nternet-sitesi-dedigin-ne-ki-ne-yazar-bu-ulkeye.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Kamu Kurumları Halkın Yanında Olmak Zorundadır.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Kamu Kurumları Halkın Yanında Olmak Zorundadır.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2009
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0436
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>KAMU KURUMLARI<br />
+HALKIN YANINDA OLMAK ZORUNDADIR.</p>
+<p>Geçtiğimiz hafta 27 Ağustos 2009 Perşembe günü son derece ilginç ve bir o kadar da düşündürücü bir toplantıya katıldım. Toplantının nedeni, Tekkeköy yöresinde yapılacak olan bir sanayi kuruluşunun yapım izni alabilmesi için gerekli olan “ÇED Raporu” öncesi yöre halkını bilgilendirmekti.<br />
+ÇED Raporu ( Çevre Etkileri değerlendirme), bir sanayi tesisinin yapım öncesi çevreye olumsuz bir etkisinin olup olmadığı, eğer varsa vereceği zararların nasıl giderileceğinin değerlendirildiği teknik bir belgedir. ÇED Raporu hazırlığının bir evresi de, tesisin yapılacağı yöre halkına tesisi her yönü ile tanıtıp, onlardan gelecek soruları ve tepkileri Ankara’da yapılacak son değerlendirme ve karar toplantısına taşımaktır.<br />
+Perşembe günü yapılan da işte böyle bir toplantıydı. Bu toplantıyı Çevre İl Müdürlüğü yetkilileri düzenliyor ve önceden yöre halkı ile öncelikli olarak yörenin en büyük mülki amiri ve belediye başkanları olmak üzere konuyla ilgili kamu kurumu yöneticileri ve sivil toplum kuruluşlarının yöneticilerine duyurulması gerekiyor.<br />
+Duyurular genellikle bir gazetede yayınlanan ilanla ve kamu kurumlarına da yazı ile yapılıyor. ÇED Raporlarının, “göstermelik” ve bir formalitenin tamamlanması için yapıldığı daha bu aşamada görülüyor. Neden mi? Çünkü ne yörenin mülki amiri, ne de halkına hizmet için seçilen belediye başkanları, yöre halkının toplantıdan haberdar olması için hiçbir çaba sarf etmiyor. Bu nedenle de çok önemli olan bu toplantılara yeterli katılım sağlanamıyor. Çoğu kez toplantıdan haberdar olan sivil toplum kuruluşlarının çabaları ile yöre halkı haberdar ediliyor.<br />
+Gelelim insanı üzen ve Devletine olan güvenini sarsacak bir anlayışın hâkim olduğu son “Halk’ı Bilgilendirme” toplantısına. Tekkeköy Selyeri Mevkiinde yapılması planlanan ETİ BAKIR A. Ş ELEKTROLİZ TESİSİ için alınacak ÇED Belgesi öncesi, tesisin halka anlatılacağı toplantıya az sayıda yöre halkı ile onların temsilcisi olarak kurulmuş olan “ÇEVRE KONSEYİ” Temsilcileri katıldı. Burada bir noktaya da açıklık getirmek istiyorum. Çevre Konseyi ile Mobil Santrallerin yapımı sırasında Sivil Toplum Kuruluşlarının oluşturduğu ve halen görevini sürdüren “ ÇEVRE BİRLİLTELİĞİ’NİN“ Bir ilgisi yoktur.<br />
+İlgili firma adına projeyi hazırlayan “ENÇEV LTD. ŞİRKETİ” Temsilcisi olan iki kişi ile “ÇEVRE İL MÜDÜRÜĞÜ” Yetkilisi üç kişi yerlerini almışlardı. Toplantı da ne bir kamu kurumu yöneticisi, ne de bir tek sivil toplum kuruluşu temsilcisi gözükmüyordu. Çevre Birlikteliği’nin aynı saatte önceden belirlenmiş, termik santrallerle ilgili önemli toplantısı olduğunu bilmeme rağmen, özellikle de Çevre Mühendisleri Odası ile Kimya Mühendisleri Odası ve Çevre Birlikteliği Yöneticilerini gözüm aradı. Bu eksiklikte, Halkı Bilgilendirme Toplantılarının duyurularının yetersizliğinin etkisinin olduğu da unutulmamalıdır. ENÇEV yetkilisi ekranda sunum yaparak projeyi anlattı ve sonrasında da yöre halkına söz verildi.<br />
+Sorulan sorulara katılımcıları ikna edecek cevaplar verilemedi. Ben de söz isteyerek yedi tane soru sordum. Eczacı olmam nedeniyle, bakırın saflaştırılması sırasında kullanılacak elektroliz yöntemi hakkında en azından soru sorabilecek kadar kimya bilgisine sahibim. Ben de sorularıma yeterli cevapları alamadım.<br />
+Proje sahibi ENÇEV LTD. ŞTİ yetkilileri, toplantı öncesi projeyi tanıtan bir de broşür dağıttılar. Broşür de 150 personelin çalışacağından söz ediliyordu. Sorularımdan birisi, bu 150 işçinin dışarıdan mı alınacağı, yoksa ETİ BAKIR AŞ. de çalışan personelden mi karşılanacağıydı. Cevap tam da tahmin ettiğim gibi, mevcut personelden karşılanacağıydı. Samsunlunun en büyük sorunun işsizlik olduğunu bilen firmalar, tanıtım broşürlerine işçi konusunu özellikle koyuyorlardı.<br />
+Yapılacak işlemin kimyasal bir olay olması ve elektroliz atığı çamurun asitle yıkanacağının söylenmesi, atık asitli suların ne olacağı konusunu önemli kılıyordu. Gerçi bu suyun arıtılacağı söylendi ama yinede ikna edici değildi. Hele de tesiste çalışanlardan kaynaklanan evsel atıkların biyolojik arıtma sonrası ETİ BAKIR AŞ’NİN bünyesinde bulunan atık su kanalı ile denize deşarj edileceğinin broşürde yazılı olması düşündürücüydü. Çünkü ülkemizde en kötü işleyen sistemin denetim sistemi olduğunu biliyoruz.<br />
+Aslında asıl sorun da burada ortaya çıkıyor. ETİ BAKIR AŞ. NİN  çalıştığı ortamda bakır izabe tesisi o kadar da kirletici olarak görülmeyebilir. Ne var ki, sayıları her geçen gün artan bu tür tesisler, denetimin de yeterli olmaması ve geçmişte Bakır ve Azot Sanayilerinin neden olduğu olaylar nedeniyle bu hassasiyet ortaya çıkıyor.<br />
+Toplantının son bölümlerinde yöre insanlarının hava kirliliği nedeniyle yaşadıkları sağlık sorunları için anlattıkları olaylar ise hüzün vericiydi.<br />
+Daha da berbatı, toplantının sona ermesi sırasında yaşananlardı. Katılımcıların, “Bir firma yetkilisi dahi yok ki, sorularımızı yanıtlasın” şeklinde ki tepkileri üzerine, o ana kadar ENÇEV LTD. ŞTİ’NİN masasında oturan ve hiç konuşmayan birisi “Ben varım” dedi. Ama ardından da sorulan bir soru üzerine, “Toplantıdan bir saat önce haberim oldu, o nedenle benim söyleyebileceğim bir şey yok” demesi, ortamı bir an da gerginleştirdi.<br />
+Ben de toplantının başından beri dikkatimi çeken bir konu nedeniyle, toplantıyı düzenleyen ve yöneten ÇEVRE İL MÜDÜRLÜĞÜ Yetkilisine bir soru yönelttim. Verilen cevap ise, iki buçuk saat süren toplantının, yasak savmak için yapılmış, göstermelik bir toplantı olduğunu tüm açıklığı ile gözler önüne seriyordu. Sorum, Ankara’da ki toplantıya buradan hangi soruları ve hangi itirazları götüreceksiniz? Örneğin yedi konuda sorduğum sorularımı ve itirazlarımı kayıta aldınız mı? Okur musunuz? Oldu. Ses kayıt cihazı kullanmadıkları ve izlediğim kadarı ile anında not da tutmadıkları için sorum cevapsız kaldı. Bu yetmiyormuş gibi, Çevre İl Müdürlüğü masasından kendini kimya mühendisi olarak tanıtan birisi, tesisin ne kadar zararsız ve temiz olduğu konusun da beni ikna etmeye kalkışmaz mı? Söyleyecek bir şey bulamadım ve “siz diğer masada oturmalıydınız” diyebildim.<br />
+Olmaz böyle şey. Anlaşılan her konuda olduğu gibi bu konuda da iş Ankara’da kitabına uyduruluyor, yöre halkı da boşu boşuna oyalanıyordu.<br />
+Olayı, Çevre İl Müdürlüğü’nün koordinasyonundan sorumlu Vali Yardımcısına ileterek, Devlete olan güvenin nasıl ayaklar altına alındığını, buna kimsenin hakkının olamayacağını anlattım. Umarım bu yanlış uygulamaya son verilir.<br />
+Anlaşılan göstermelik toplantı sonrası birileri gerektiği gibi bir rapor hazırlayıp Ankara’ya gönderecekti. Açık bir şekilde gözüktü ki, iki buçuk saat havanda su dövmüştük. Bir kamu kurumu nasıl olurda, Devlet adına böylesine yanlış bir iş yapar anlayamıyorum.<br />
+Bu bölgede yaşayan insanların hassasiyetini ve tepkilerini artıran neden,  biraz da böylesine kirlilik yaratabilecek tesisler için Samsun’un ve bu ovanın seçilmesidir. İtirazların odağın da bu soru yatmaktadır. Yöre insanı kenti yönetenlerin ve siyasetçilerin kendilerine sahip çıkmamasını kabullenememektedirler. Bölgede yalnız bırakılmanın tepkisi git gide artmaktadır. Yöre halkının güven duygusu alt üst olmuştur. Mobil Santral’in yapımı sırasında yaşanan olaylar, kent yöneticilerinin ve siyasetçilerin takındığı tavır, verilen sözlerin tutulmaması, buna karşılık sivil toplum kuruluşlarının yargı yolu ile bu santrali durdurması halkın değer yargılarını değiştirmiştir. Üzülerek söylemek gerekirse, ne kent yöneticileri, ne de siyasetçiler sarsılan güven duygusunun farkında dahi değiller.<br />
+Hiç kimse, yöre insanlarının en doğal hakları olan sağlıklı bir ortamda yaşama taleplerini görmezden gelemez. Hiç kimse, sağlıklarını korumak için koydukları tepki nedeniyle böyle düşünen insanları, yatırım düşmanı olarak ilan edemez, etmemelidir.<br />
+Geçen hafta köşe yazım da Milletvekillerimize, Kent Yöneticilerimize ve Kamu Kurumu Müdürlerine kimin yanında olduklarını sormuştum. Bir tercih yapmaları gerektiğini de vurgulayarak, ya bu ovanın önemli olmadığını ve bu bölgenin kirli yatırımlar için pilot bölge seçildiğini açıklayınız, yöre halkı da başının çaresine baksın veya bu yanlışlara hep birlikte dur diyelim demiştim.<br />
+Bir haftadır ses çıkmadı. Anlaşılan ne yöre halkının, ne de sivil toplum kuruluşlarının ve ne de basının tepkisi onlar için bir şey ifade etmiyor.<br />
+Cumartesi günü yerel gazetelerde bir milletvekilimizin, bazı ilçe belediye başkanları ile çevre sorunları için Çevre Bakanı Veysel Eroğlu ile görüştüğünü okuyunca bir an için umutlandım. Ne var ki, yazının devamını okuyunca Tekkeköy ve Çarşamba Ovası ile ilgili yaşanan kirlilik sorununu paylaştıklarına ait bir bilgiye rastlayamadım.<br />
+Kapalı alanlarda ki sigara yasağı ile birlikte kentin ana caddelerinde ki bilbordlar da, Sayın Başbakan’ın, Sayın Valimizin ve Sayın Büyükşehir Belediye Başkanımızın resimlerinin yanında “Dumansız Hava Sahası” duyurularını görüyoruz.<br />
+Sormak lazım, Tekkeköy ve Çarşamba ovasına salınan zehirli gazların sigara kadarda mı etkisi yok ki, bu değerli yöneticilerimiz bu bölge söz konusu olunca suskunluğa gömülüyorlar.<br />
+Anlaşılan bu suskunluk, biz bildiğimizi yaparız anlamına geliyor ki, bu da bu kentin tartışmasız yalnız bırakıldığının, sahipsiz kaldığının tescilidir.<br />
+Yazık, hem de çok yazık.<br />
+İyi haftalar. 06 Eylül 2009<br />
+SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0435-sorum-sizlere-sayin-milletvekilleri-sayin-belediye-baskanlari-sayin-kent-yoneticileri.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0437-kurt-acilimi-ulkemizi-bolunmeye-goturecek-yeni-bir-oyun-olmasin.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

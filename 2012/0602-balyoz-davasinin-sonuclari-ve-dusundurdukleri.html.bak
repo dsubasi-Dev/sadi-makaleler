@@ -1,0 +1,346 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Balyoz Davasının Sonuçları ve Düşündürdükleri.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Balyoz Davasının Sonuçları ve Düşündürdükleri.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2012
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0602
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>BALYOZ DAVASININ SONUÇLARI VE<br />
+DÜŞÜNDÜRDÜKLERİ.</p>
+<p>Darbe hazırlığı anlamında seminer yaptıkları iddiası ile gözaltına alınarak tutuklanan ordunun en üst kademelerinde ki komutan ve bazı sivillerin yargılandığı “Balyoz Davası’nın” sonuçları geçtiğimiz hafta sonu açıklandı.<br />
+Açıklanması ile de bugüne kadar hiçbir yargı sonucunun tartışılmadığı kadarda tartışmayı peşinden getirdi.<br />
+3 orgeneral 20 yıl, 78 sanık 18 yıl, 214 sanık 16 yıl, 28 sanık 13 yıl 4 ay,1 sanık da 15 yıl hapis cezası aldı.<br />
+Çoğu muvazzaf toplam 324 ordu mensubunun askeri yaşamları sona erdirildi.<br />
+Özel Yetkili Mahkemeler kapatılmasına rağmen, Balyoz Davası’nın sonuçlanmasına kadar göreve devam ettirilmesi bu ağır cezaların çıkacağının ilk işaretiydi.<br />
+Ağır cezalık bir davanın sonucu hiçbir tartışmaya zemin yaratmamalıdır. Ancak böyle alınacak bir karar vicdanları sızlatmaz.<br />
+Ne yazık ki, bu davanın başlangıcından karar noktasına gelene kadar birçok soru ve itiraz yeterince karşılık bulmadı. Ö nedenle bu dava, basit bir darbe soruşturmasının dışında anlamlar kazandı.<br />
+Dava boyunca davalı avukatları sürekli olarak suç unsuru olarak gösterilen CD’lerde ki elektronik bilgilerin düzmece olduğunu iddia ettiler.<br />
+Hatta bu CD’lerin düzmece olduğu ve virüs yolu ile zanlıların bilgisayarlarına eklendiği söylendi. Bazı CD’lerde tarihlerin suç unsurunun oluştuğu tarihlerle uyuşmadığı da belgelendi. Yurt dışında yaptırılan bilirkişi raporları değerlendirilmedi.<br />
+Kısacası bu konuda ki itirazlar yeterince önemsenmedi.<br />
+Tüm bunların dışında da bazı iddialar da açıklık kazanmadı. Örneğin, Başbakan Yardımcısına suikast yapılacağı iddiası da ispatlanamadığı gibi altından hiciv konusu yapılan olaylar çıktı.<br />
+Bu davalar bir gazetecinin adliyeye getirdiği bir çuval evrak üzerinden açıldı. Bu evraklar o gazeteciye nasıl ve kimden geldi? Açıklık kazanmadı.<br />
+Bu ve buna benzer soru işaretleri nedeniyle henüz Yargıtay safhası başlamayan kararlar çok yönlü olarak tartışılıyor.<br />
+Bu davada 18 yıl ceza alan Em. Org. ERGİN SAYGUN’UN cezaevinde yazdığı, “Türk Ordusuna Balyoz” isimli kitabında sorduğu, “Bu yüzlerce düzmece CD’leri kim hazırladı?” sorusu cevap bulmadıkça, bu kararlar vicdanları kanatmaya devam edecektir.<br />
+Benim de yorumlamakta zorlandığım şey, bu davanın bir darbe hazırlığının sorgulanması ve darbe dönemlerine son vermekle sınırlı olup olmadığıdır.<br />
+Eğer amaç darbe dönemlerine son vermekle sınırlı tutulsaydı, üst düzey birkaç subay cezalandırılırdı. Bu daha anlaşılır olur ve kamuoyunca da daha kolay kabul edilebilirdi. Böylece darbe girişimi cezalandırılmış olurdu.<br />
+Oysa cezalar verilebilecek en üst sınırdan verildi.<br />
+Her mahkemenin dikkate aldığı “ iyi hal indirimi” uygulanmadı.<br />
+Emir komuta sıralaması dikkate alınmadı. Hatta masa görevlisi sivil memure de aynı büyüklükte cezaya çarptırıldı. Oysa askerlikte astların üstlerinin emirlerini yerine getirmesi esastır. Alt rütbelilerin üstlerinin verdiği görevleri reddedebilmek gibi bir şansları yoktur.<br />
+Mahkeme kararında, mahkûm edilenlerin babalık ve eş sorumluluklarının da kalmadığı vurgulandı. Yasa ile zaten belirlenmiş bu durumun özellikle vurgulanması dahi bir hesaplaşma görüntüsü yaratmıştır.<br />
+Tüm bunlar benimde mantığıma ters düşüyor. Ordunun neredeyse tüm üst komuta kademesi ordunun dışına itildi. Cezaların süresine bakınca, akıllara acaba siyasi iktidarın hedef gösterdiği 2023 e kadar bu insanlar içeride mi tutulmak istendi? Sorusu geliyor.<br />
+Bu nedenlerle, davanın açılmasının altında ki nedenler ve zamanlaması iyi değerlendirilmelidir.<br />
+Bu konuda yazılı yaygın basının önemli gazetelerinden birisinde geçen Salı günü çıkan “Çuval-Bavul-Balyoz” başlıklı yazı, yukarıda sözünü ettiğim soru işaretlerine kendince bir açıklama getirmiş.<br />
+O yazıdan derlediğim satırlarda 2002’den başlayarak günümüze kadar olan süreç çok güzel anlatılmış. Unuttuğumuz çok şey hatırlatılmış. Anlatılanların hangisi olmamıştır veya yanlıştır diyebilirsiniz? Çoğu soru bu yazıda cevap bulmuş..<br />
+İşte o yazıdan alıntılar; 2002 de AKP iktidara geliyor. O tarihten beş ay önce yapılan Genel Seçimlerde adaylığı yasaya aykırı diye reddedilen Sayın R. Tayyip Erdoğan, devlet adına hiçbir resmi sıfatı yokken Amerika’ya gidiyor. Amerika Başkanı George W. Bush tarafından kabul ediliyor ve Beyaz Saray’da baş başa tutanaksız bir toplantı yapıyorlar.<br />
+Sayın R. Tayyip Erdoğan buna benzer tutanaksız ve baş başa bir görüşmeyi de sonraki yıllarda Dolmabahçe Sarayında Genel Kurmay Başkanı Sayın Yaşar Büyükanıt ile yapacaktır.<br />
+Bu iki özel toplantının içeriği konusunda hiçbir açıklamanın yapılmadığı ortamda, Türk Silahlı Kuvvetleri’nin başına gelenleri bu açıdan gözden geçirmek gerekir.<br />
+O dönemki CHP Genel Başkanı Sayın Deniz Baykal’ın desteği ile Siirt’te yapılan ara seçimle milletvekili sıfatı kazanan Sayın R. Tayyip Erdoğan hükümetin başına geçer ve ilk açıklamasında da Büyük Ortadoğu Projesi’nin<br />
+( BOP)Eşbaşkanlığı görevini de üstlendiğini açıklar.<br />
+Bu görevin çerçevesi ise, Amerika Dışişleri Bakanı Bayan Rice tarafından 07 Ağustos 2003 tarihinde Washington Post gazetesinde “Ortadoğu’nun siyasi haritası değişecektir” şeklinde açıklanıyordu.<br />
+TSK böyle bir değişikliğin ucunun gelip bizim sınırlarımıza dayanacağını çok iyi bildiği için tedirgindi.<br />
+TSK’ya ilk ihtar, “Gölge etmeyin yoksa” şeklinde Amerikalı askerlerce Kuzey Irak’ta görevli Türk Subaylarının başına çuval geçirilerek veriliyordu.<br />
+Çuval geçirme emrini veren Amerikalı General David Petreaus ise, sonraki yıllarda CIA’ NIN Başkanlığına getiriliyordu.<br />
+Artık ABD’NİN hedefinde BOP Projesine sıcak bakmayan ve ayakbağı olacağından endişelendiği TSK’İ hizaya getirmek vardır. Bu anlamda ABD ile AKP’NİN hedefleri örtüşüyordu.<br />
+AKP’NİN Türkiye’de kurmak istediği, ABD ise Ortadoğu’da oluşturacağı yeni düzenin önünde TSK en büyük engel olarak görülüyordu.<br />
+“Meşruiyet içersinde çare tükenmez” vecizesin de Meşrutiyet,  “şartların, şeriatın izin verdiği” anlamına geldiği için AKP tarafından da kabul görüyordu.<br />
+“Şeriat’ın” gerçekleşme şartlarını ve şeklini de ABD belirleyeceği için iki taraf için de sorun yoktu.<br />
+“Kitle imha silahı var” diye dünyayı inandırarak Irak’ı işgal eden ABD için “TSK darbe yapacaktı” adlı planla halkı aldatmaktan ve böylece TSK’NIN komuta kademesinin tasfiyesinden kolay bir şey olamazdı.<br />
+Kozmik oda aramaları, Başbakan Yardımcısına suikast yapılacak iddiası, savcılığa götürülüp bırakılan faili meçhul bir bavul dolusu belge ve CD’ler ile “Yetmez ama evet” sloganı ile yapılan Referandumla halledilen yargı ile gerisi tıkır tıkır geliyordu.<br />
+Artık Türkiye ABD için de, AKP içinde dikensiz gül bahçesine dönüyordu.<br />
+Evet,  bu yazılanlara itiraz yoksa Balyoz Davası ile Ordunun sindirildiğine de diyecek bir şey kalmaz.<br />
+Böylesine geniş kapsamlı yürütülen Balyoz ve Ergenekon davalarının ışığında PKK’YI da, Suriye olaylarını da, gerginleşen İran ilişkilerini de, hatta Sayın Deniz Baykal ile son seçim öncesi MHP Milletvekillerinin başına gelenleri de bu açıdan değerlendirmek gerekir.<br />
+Bu pencereden bakınca, son on yılda yaşananların öylesine sıradan ve basit bir senaryo ile yapıldığı söylenemez.<br />
+Umarız tüm bu olanların altında yatan nedenler gün ışığına çıkar ve ülkemizin geleceği olumsuz gelişmelere tanıklık etmez.<br />
+İyi haftalar…30.09. 2012</p>
+<p>Ecz. SADİ SUBAŞI</p>
+<p>Sevgili Sadi, yazinin üslubunu ve içerigini çok begendim. Günün konusunu birçok köse yazarindan daha okunabilir kilmissin. Yalniz bir konuda hatirlatma yapmak istedim.<br />
+Mesrutiyet ile mesruiyet kelimelerini karistirmissin gibime geldi. Bilerek mi karistirdin, tereddüt ettim. Mesrutiyet 'hükümdarla yönetilen bir ülkede hükümdarin baskanligi altinda parlamento yönetimine dayanan hükümet biçimi' dir. Mesruiyet ise 'yasanin, dinin ve kamu vicdaninin dogru buldugu durumlar'dir.(Türk Dil Kurumu Sözlügü)<br />
+Yanlis hatirlamiyorsam bahsettigin vecize: 'mesruiyet içinde çare tükenmez' olacakti.<br />
+Bundan da anlasilacagi gibi yazilarinin daimi okuyucusuyum. Yüregine ve kalemine saglik.<br />
+Selam ve sevgiler.</p>
+<p>Merhaba Sadi,<br />
+Fatih Süne senin durumuna yorum yapti.<br />
+Fatih: "düsünürken düsündürüyorsun sadi abi çok tesekkür ederiz ; ne idügü belirsiz dijital kurgularla yillarca ceza almalari saglanan pasalar silivride , barzani akp genel kurulunda türkiye seninle gurur duyuyor nidalari ve alkislariyla kürsüde bu nasil olacak sadi abi ..."</p>
+<p>Merhaba Sadi,<br />
+Mete Kilic senin durumuna yorum yapti.<br />
+Mete: "Cok guzel ve aciklayici bir yazi olmus Sadi Amcacim. Beynine, eline saglik! Aynen yazdiklarin gibi gelisti hersey. Icimiz aciyor icerde yatan degerli askerlerimiz keza gazetecilerimiz icin. Insanlarin bir bolumu de "cezalandirilsinlar, oh olsun" anlayisi icinde... Neler olabileceginin farkinda olmayan zavalli cahiller bunlar. Turkiye ye bicilen roller degisti, bunun uygulamasi bittiginde Turkiye artik cok farkli olacak. O zaman geldiginde AK ile KARA anlasilacak ama hersey icin cok gec olacak. Olan bizim gibi idealist insanlara olacak! Digerlerinin umurnda degil! Saygilar ve Sevgiler / Sezil"</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0601-dun-sustuk-bugun-de-susuyoruz-ya-yarin.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0603-toplumsal-yozlasma-ve-kulturel-erime.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

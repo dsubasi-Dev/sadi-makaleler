@@ -1,0 +1,336 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Amerika&#x27;nın Ortadoğu Politikaları ve Türkiye&#x27;nin Kırılma Noktaları.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Amerika&#x27;nın Ortadoğu Politikaları ve Türkiye&#x27;nin Kırılma Noktaları.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2012
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0599
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>AMERİKA’NIN ORTADOĞU PROJELERİ<br />
+VE TÜRKİYE’NİN KIRILMA NOKTALARI</p>
+<p>Amerika’nın gelecekteki petrol ihtiyaçları ile uzun vadeli çıkarları doğrultusunda dünyanın birçok bölgesinde ki ülkelerin yönetimlerine yönelik müdahalelerde bulunduğu bilinmektedir.<br />
+Eğer çıkarı söz konusu ise, Amerika dünyanın en uzak köşelerinde ki ülkelerin dahi siyasi yapısını yönlendirmekten ve gerektiğinde de, ya direkt veya bir başka ülkeyi kullanarak silahlı müdahale etmekten kaçınmaz.<br />
+Özellikle de Rusya’nın gücünden çok şey kaybetmesi ve denge unsuru olmaktan çıkması ile tek güç haline gelen Amerika daha da cüretkârlaşmıştır.<br />
+Çıkar alanında gördüğü ülke nerede olursa olsun, istediği yönetimlerin görevde olmasını ana ilke olarak belirlemiştir.<br />
+Aksine davranan veya Amerika’nın çıkarları doğrultusunda yeterli desteği vermekten uzaklaşan ülkelerde ki yönetimleri bir şekilde değiştirmekten, hatta rejimlerini devirmekten çekinmemektedir.<br />
+O ülkeler de hangi rejimin iş başında olmasının Amerika için çok da önemi yoktur. Bu iktidarların askeri veya sivil diktatörlük ile dinsel ağırlıklı olması da hiç önemli değildir.<br />
+Önemli olan hükümetlerin Amerika’nın çıkarları doğrultusunda görev yapmasıdır.<br />
+Amerika’nın bu anlayışı, O’nun çıkarı olan bölge ülkelerinin yönetimlerin de ciddi sıkıntılara neden olmakta ve iç karışıkları da peşinden getirmektedir. Bizim bölgemizde ki ülkeleri belirtmek gerekirse Irak, Mısır, İran, Libya, Suriye bunun en somut örnekleridir.<br />
+Bu ülkelerde ki iktidarlar veya liderleri Amerika’nın çıkarlarına karşı koyduğu için ya baskı ile veya kanlı olarak devrilmiş ve yerlerine Amerika’nın güdümünde ki rejimler iktidara getirilmiştir.<br />
+Bunları yazmamın nedeni, bu ülkelerle çok yakın ilişkileri olan Türkiye’nin de bu değişimlerde rol üstlenmesi veya bu ülkelerle olan ekonomik ilişkilerinin bozulmuş olmasıdır.<br />
+Hatta daha da ileri gidilerek söylenen, “Arap Baharı” adı ile yürütülen bu operasyonlarda sıranın Türkiye’ye de geleceğidir.<br />
+Bölgemizde yürütülen bu operasyonlarda Türkiye için de önemli kırılma noktaları vardır. Bu konuda alınan kararlar ve uygulamalar ülkemiz insanlarını da korkutmaktadır.<br />
+Kırılma Noktası 1:<br />
+Bu, Türkiye’de her şeyin bir anda değiştiği bir sürecin başladığı en önemli kırılma noktasıdır.<br />
+Amerika Irak’da ki rejimi değiştirmeyi kafasına koymuş ve Bush Yönetimi Türkiye’yi sıkıştırmaktadır. Ne var ki, O dönemlerde iktidarda olan Ecevit Başkanlığında ki koalisyon hükümeti Irak’a müdahaleye karşı çıkmaktadır. Bu konuda Rahmetli Bülent Ecevit çok kararlıdır.<br />
+Amerika düğmeye basar ve o günlere kadar adı Türkiye’de çok duyulmamış bir ekonomist kurtarıcı olarak Türkiye’ye gelir ve hükümete girer. Görevi ekonomiyi düzenlemek olan bu ekonomist, bir süre sonra erken seçimden dem vurmaya başlar. İktidar sevdasına kapılan MHP Genel Başkanı Sayın Devlet Bahçeli’de bunu fırsat bilerek erken seçime yeşil ışık yakar. Erken seçim zemini yokken ve koalisyon hükümeti uyum içersinde çalışırken bir anda seçim atmosferine girilir.<br />
+DSP’den ayrılan İsmail Cem önerliğinde yeni bir sol parti (Yeni Türkiye Partisi) kurulur. DSP parçalanır.<br />
+Yapılan erken seçimde altı aylık mazisi olan AKP tek başına iktidara gelirken, o dönemin güçlü partileri ANAP, DYP ve DSP paramparça olur.<br />
+Amerika’nın Irak’a müdahale için Türkiye’nin desteğine ihtiyacı vardır. AKP iktidarı da destekten yanadır. Ancak buna izin verilmesi için TBMM’ne sunulan tezkere 01 Mart 2003 de reddedilir. Bu karar da, muhalefet partileri yanında bazı AKP milletvekillerinin de ret oyu vermesi etkili olur.<br />
+Tek başına Irak’a müdahale etmek zorunda kalan Amerika Irak’da büyük sıkıntılar yaşar ve 1.000.000 Müslüman katledilir. Kadınlara ve genç kızlara tecavüz edilir.<br />
+Tüm dünya gibi Türkiye dâhil diğer İslam ülkeleri de,<br />
+“Barış ve özgürlük getiriyorum” kandırmacısı adıyla yapılan bu vahşete seyirci kalır.<br />
+Irak’da büyük kayıplar veren Amerika tezkerenin reddedilmesinden, yeterince destek vermediği gerekçesi ile Türk Silahlı Kuvvetlerini sorumlu tutar. Irak’ta Türk askerinin başına çuval geçirilmesi ile başlayan süreç, hepimizin gözü önünde gelişir. Ergenekon ve balyoz davaları ile Türk Silahlı Kuvvetleri’nin komuta kadroları darmadağın edilir.<br />
+Kırılma Noktası 2:<br />
+Amerika’nın desteği ile Mısır’a hükmeden Mübarek, “Arap Baharı” adı verilen proje ile alaşağı edilir ve Mısır’da Amerika güdümünde bir yeni bir dönem başlar.<br />
+Kırılma Noktası 3:<br />
+Sıra Libya’ya gelmiştir. Sürekli olarak Amerika’ya kafa tutan Kaddafi uzun bir uğraşıdan sonra çıkarılan iç savaş sonrası devrilir ve oğulları dâhil hepsi katledilir. Libya’da da artık Amerika yanlısı bir düzen kurulmuştur. Kıbrıs Savaşında bize büyük destek vererek Türkiye’nin sempatisini kazanan Libya’ya karşı uygulanan bu operasyona Türkiye’de destek verir.<br />
+Kırılma Noktası 4:<br />
+Şimdi sıra Suriye’dedir. İran’ın da desteği ile Amerika’nın korumasında ki İsrail’in başına dert olan Suriye’de de iktidarda ki Esat’ın gitmesi gerekmektedir. Ancak Esat dirençli çıkmış ve Esat’ın direnmesi ile Suriye iç savaşa dönüşen kanlı çatışmaların içine düşmüştür.<br />
+Gündem de artık İran vardır. Amerika Irak’a müdahale ederken, kimyasal silah depolarının varlığını söz konusu etmiş ve Irak’a barış getirileceğini söyleyerek dünyanın ve bizim gözümüzün önünde açık bir katliam yapmıştır.<br />
+Benzer söylemler bu kez de atom bombası yaptığı iddiası ile İran üzerinde yapılmaktadır.<br />
+Açıkçası bölgemiz yeniden dizayn edilmektedir. Türkiye’ye biçilen rol nedir? Bunu bilen kimse yok. Bu belirsizlik, sürecin Türkiye’yi içine alacağı endişelerini giderek artırmaktadır.<br />
+SONUÇ:<br />
+Amerika’nın müdahalesi ile yönetimleri devrilen Irak, Mısır ve Libya ile devrilmeye çalışılan Suriye ve İran’ın ortak noktası, bu beş ülke liderinin de ülkelerinin ulusal çıkarlarına sahip çıkmalarıdır.<br />
+Ecevit Koalisyonu’nun dağılmasından günümüze kadar geçen süreçte, Türkiye’de de ulusal çıkarlarımıza sahip çıkmanın öncülüğünü yapan çok sayıda gazeteci, bilim adamı, asker ve öğrenci tutuklu olarak yargılanmaktadır.<br />
+Rejimleri ve liderleri değiştirilen bu ülkelerin Türkiye açısından çok önemli bir yeri vardır. Türkiye’nin bu dört ülkeyle çok önemli bir iş ve ticaret ilişkisi bulunmaktaydı. Ayrıca bu dört ülkenin lideri ile kardeşlik seviyesine varan bir dostluğumuz vardı.<br />
+Bugün bu dört ülkede ki iş hacmimiz bitmiştir. Bu ülkelerde iş yapan müteahhitlerimiz işlerini kaybetmiştir.<br />
+Düne kadar sıfır sorunla yaşadığımız komşularımızla ilişkilerimiz bozulmuş ve dört tarafımız bizi bir kaşık suda boğmak için fırsat kollayan ülkelerle çevrilmiştir.<br />
+Irak, Suriye, Türkiye üçgeninde bir Kürt Devleti kurulması çabaları her geçen gün daha da güç kazanmaktadır.<br />
+Kürt sorunun barışçıl yöntemlerle çözülmesi şansı gittikçe azalmaktadır. Bu çözümsüzlük bazılarının ekmeğine yağ sürmektedir. En büyük tehlike, bu kargaşa ortamının Türkiye’yi de sonu kestirilemeyen bir bataklığa sürüklemesidir.<br />
+Tüm bu olayları yaşayarak izliyoruz. Bu tablonun Türkiye’nin geleceği açısından endişe yaratıyor olması çok<br />
+da yanlış bir öngörü olmasa gerekir.<br />
+Yukarıda belirttiğim dört kırılma noktasının Türkiye için<br />
+uyarıcı bir örnek olmasını diliyorum.<br />
+Ortadoğu’yu kasıp kavuran bu ateş çemberinden kazasız çıkmamız umuduyla, iyi haftalar diliyorum..<br />
+02.09.2012</p>
+<p>Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0598-turkiye-cumhuriyeti-ne-vurmak-moda-oldu.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0600-samsun-kendi-avmni-yaratmalidir.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Bir Virüs Ülkemizdeki Tüm Yanlışların Ayıracı Oldu.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Bir Virüs Ülkemizdeki Tüm Yanlışların Ayıracı Oldu.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2020
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0979
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>BİR VİRÜS ÜLKEMİZDE Kİ TÜM YANLIŞLARIN AYIRACI OLDU.<br />
+Tüm dünya gibi ülkemizde de Covid-19 salgını tüm yaşamsal düzenimizi alt üst etti. Tek güzel şey, konuya hâkim bir Sağlık Bakanımızın olması ve O’nun Başkanlığında kurulan Bilim Kurulu ile ilk günden itibaren yapılabileceklerin en iyisini yapma çabaları ve canları pahasına gece gündüz görev yapan tüm sağlık çalışanlarımızın olmasıdır.<br />
+Bu virüs, ekonomisi iyi ve yaşam düzeyi yüksek ülkeleri de vurdu. Onlarında böylesine bir felakete hazırlıklı olmadığı görüldü. Hatta hemen her konuda bize göre çok daha eğitim ve teknolojik düzeyi yüksek olan İtalya ve İspanya bu salgında Çin’den sonra şimdilik en büyük darbeyi yemiş gözüküyor.<br />
+Ama Çin ile başlayan bu felaketi eminim ki çok büyük izler bırakarak da olsa, İtalya ve İspanya’da atlatacaktır. Şu anda onlara göre çok daha iyi durumda gözüken ve son iki günlük sokağa çıkma yasağı uygulamasında ki basiretsizliklerin yenilerini yapmazsak, çok daha az hasarla da atlatacağımızı sanıyorum.<br />
+Ne var ki, bu salgın sonrası normal yaşamımıza dönebilsek dahi, sonrasında yaşanacak çok ciddi sorunları aşmakta çok zorlanacağız.<br />
+Çünkü Cumhuriyet dönemi ile başlayan aydınlanma sürecini iyi yönetememiş olmamızın sonucu olarak çok çalkantılı geçen son altmış yıl (1950-2020), ülkemizin sosyal yaşam, eğitim, hukuk ve ahlaki yapısında onarılması zor hasarlar yaratmıştır.<br />
+Ülkemizin milli kaynaklarını hoyratça tüketen, hukuk ve güven duygusunu yok eden bir yönetim anlayışının sonucu olarak toplum, büyük bir ayrışma ve güven sorunu ile baş başa kalmış bulunuyor.<br />
+“Nuh Tufanı sırasında Nuh Peygamber’in oğlu ile cep telefonu ile konuştuğunu” Söyleyebilecek kadar akıl dışı sözleri ve toplumsal inançları zedeleyecek buna benzer sözleri sarf edebilen ve içlerinde din adamlarının da bulunduğu onlarca kişinin her hangi bir soruşturmaya uğramadığı gibi çok önemli görevlerde bulunmayı sürdürmesi de, oluşan toplumsal çöküşü artırdı.<br />
+Toplumun bir yarısı, diğer yarısının bildiğini bilmiyor. Hangisinin bildiği doğru, onu da her iki tarafta da bilmiyor. Corona Virüsü nedeniyle eve kapanınca NTV, H. T, CNN, Global Haber gibi siyasi iradeyi destekleyen kanallarla Halk TV, Tele-1 ve KRT TV gibi muhalif TV kanalları arasında geziniyor, akşamları da mutlaka FOX TV Kanalının haberlerini izliyorum.<br />
+Bu kanalları izlerken gördüğüm kamplaşmanın üzüntüsü ile yukarıda ki satırları kaleme aldım. Çok önemli bir Pandemi dönemi yaşıyoruz. Bu salgını en az hasarla atlatmak için her türlü akla, birlikteliğe ve desteğe ihtiyacımız var.<br />
+Covid-19 Salgınında neden bazı kurumların yardım toplayarak halka destek olmasına izin verilirken, neden bazı kurumların bu çabası engellenir? Anlamak mümkün değil.<br />
+Yaşananların ne kadarını biliyoruz? Bilmediklerimiz var mı? TBMM’ de, Cezaevlerinde ki yığılmayı azaltmak için bazı hükümlülere ceza indirimi getirecek yeni “Ceza İnfaz Yasası” ve “Sağlık Çalışanlarına Karşı Yapılan Saldırıları Önleme Yasası” var. Bu konularda dahi,  muhalefetin hangi önerileri ve iddialarının olduğunu HALK, TELE-1 ve KRT TV Kanallarını izlemeyenler bilmiyor. Sadece bu kanalları izleyenlerde, diğer yaygın kanallarda neler konuşulduğunu bilmiyor.<br />
+Bu akşam öğrendiğim bir bilgi ise, çok şeyi açıklıyor sanırım. O bilgi, FOX TV de Cumartesi ve Pazar günleri hariç Fatih Portakal’ın sunduğu akşam haberlerinin izleyici sayısının, diğer tüm TV kanallarının sunduğu haberleri izleyenlerin toplamından fazla olduğu gerçeğidir.<br />
+Bu sonucun yorumunu sizlere bırakıyorum ama ülkesini seven bizleri böylesine birbirimizden ayrıştıran siyaset anlayışına da yazıklar olsun diyorum.<br />
+Evlerimizde kalarak Covid-1 salgınını kısa sürede atlatmak umuduyla, güzel haberler alacağımız bir hafta diliyorum. 12.04.2020<br />
+Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0978-covid-19-salgini-dahi-ulkemizdeki.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0980-yardimlasma-ve-bir-dogru-bir-yanlis-uygulama.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

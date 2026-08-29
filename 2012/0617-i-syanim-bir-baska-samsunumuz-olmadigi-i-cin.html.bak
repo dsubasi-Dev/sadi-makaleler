@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>İsyanım Bir Başka Samsunumuz Olmadığı İçin.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+İsyanım Bir Başka Samsunumuz Olmadığı İçin.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2012
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0617
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>İSYANIM, BİR BAŞKA SAMSUNUMUZ OLMADIĞI İÇİN..</p>
+<p>Son üç hafta da yazdığım köşe yazılarım “SUNUŞ” ile bazı dostlarımızı üzdüğüm konusunda yakınmalar olduğu, direkt veya dolaylı yoldan bana iletildi.<br />
+Öncelikle şunu belirtmek isterim ki, benim yaşam felsefem, bilerek kimseyi üzmeme izin vermez.<br />
+Hiç bir yazımda kişisellik yoktur. Yazdıklarımın temeli, ya ülkemin Laik, Çağdaş düzeninin olmazsa olmazına veya Samsun’un uğradığı haksızlıklara isyanıma dayanır.<br />
+Belki de çok kişinin söylemeye çekindiği yanlışları düzelmesi için cesaretle gündeme taşımam, bazıları tarafından yanlış algılanmış da olabilir.<br />
+Ancak şunu da belirtmek isterim ki, bu yazılarım için çok sayıda Samsunludan da destek mesajları alıyorum.<br />
+Yazdıklarımın da her zaman arkasında durdum. Bugün de duruyorum.<br />
+Sanıyorum, Samsun’un uğradığı haksızlıklara ve Samsun’da olan yanlışlara değinen köşe yazarının sayısının az olması da, bu konuda duyarlılık göstererek tavrını açıkça ortaya koyanları hedef haline getirmektedir.<br />
+İsyanım, yeri gelince yapılan az sayıda ki bazı güzel şeyleri sürekli gündem de tutarak, Samsun’u “Kuzey Yıldızı”, “Karadeniz Bölgesi’nin lideri” diye tanımlamalar veya<br />
+“Samsun uçuyor“ diye cilalamalar ile bu kentin gittikçe artan sorunlarının göz ardı edilmesinedir..<br />
+İsyanım, Samsunlunun geçmişi arar duruma düşürülmesinedir.. Çünkü bir kent sürekli geçmişini arıyorsa, o kentte sorunlar var demektir..<br />
+İsyanım, bir kentin kalitesinin bir göstergesi olan eğitim de Türkiye sıralamasında 30. sıraların altına düşmesinedir..<br />
+İsyanım, bu kentte işsizliğin sürekli artmasınadır..<br />
+İsyanım, bu kentte sayısı zaten az olan ve önemli istihdam alanı yaratan tesislerin özelleştirme adı altında kapatılarak insanların sokağa dökülmesine ve işsiz sayısının artırılmasınadır..<br />
+İsyanım, kapanan tesislerin yerine 500 ve üzeri işçi çalıştıracak yeni tesislerin kurulmamasınadır.<br />
+İsyanım, Samsunlu yatırımcıların adeta Samsun’a yatırım yapmasını imkansız hale getiren, “Teşvik Yasasının” genişletilmesi sırasında sadece Samsun’un bu yasa kapsamına dışına itilmesinedir..<br />
+İsyanım, devletimizin gelir kaynağı olan çok sayıda tesisin küreselleşme ve özelleştirilme adı altında yabancı tekellere teslim edildiği gibi Samsunluyu ayakta tutan tek gelir kaynağı olan ticareti de çökertecek dev market zincirlerinin ve Büyük İş Merkezlerinin gelişine alkış tutulmasınadır..<br />
+İsyanım, bu İş Merkezlerine yerel firmaların alınmamasına karşı koymayan ve bu konumda ki üyesi yerel firmalara sahip çıkmayan ticaretten sorumlu sivil toplum kuruluşlarına, sahip çıkmayan siyasetçilerimiz ve yerel yöneticilerimizin duyarsızlığınadır..<br />
+İsyanım, bu kente alkışlayacağımız tesisler yerine hiçbir ilin kabul etmediği, istihdama hiçbir katkısı olmayan “Mobil Santral”, “Termik Santral” veya hava kirliliğini artıran yatırımların dayatılmasına, hatta “Gelin Samsun’a yapın” denmesinedir..<br />
+İsyanım, Samsun’un her kötü konuda olduğu gibi hava kirliliğinin en yüksek iller sıralamasında 2. lik gibi bir ayıba mahkûm edilmesinedir.<br />
+İsyanım, siyasilerin verdiği tüm sözlere rağmen Samsun’un “Cazibeli İller” kapsamı dışında bırakılmasınadır..<br />
+İsyanım, bu kentin adının ekonomik ve sosyal sorunlar nedeniyle gittikçe artan cinayet, tecavüz, hırsızlık, organize suç çeteleri ile ulusal basında haber olması ayıbınadır..<br />
+İsyanım, çok sayıda kurumun bölge müdürlüklerinin başka illere kaydırılmasına, Teşvik Yasasında olduğu gibi Samsun’u yönetenlerin ve temsil eden siyasetçilerinin suskun kalmasınadır..<br />
+İsyanım, Samsun’da ölümle sonuçlanan şüpheli vakaların otopsi incelemesini yapacak Bölge Adli Tıp Merkezinin bir başka ilde olması nedeniyle doku örnekleri yanında, zaman zaman da olsa cenazelerin bu merkezlere gönderilmesi ile acılı ailelere bu ayıbın reva görülmesinedir..<br />
+İsyanım, son kırk yılda onlarca tarihi yapının kitabına uydurularak yok edilmesine de katkısı olan “Kültür ve Tabiatı Koruma Kurulları” karar yeri olan “Röleve ve Anıtlar Müdürlüğü’nün”, Samsun yerine bir başka bölge kentinde oluşunadır..<br />
+İsyanım, tarihi Ondokuzmayıs Misyonuna dahi yeterince sahip çıkamayışımızadır..<br />
+İsyanım, ilçe takımları Süper Lig’de yer alırken, Samsunspor’un bir alt lig olan PTT Liginden de düşmemeye oynamasına ve Samsun’u bu ayıpla baş başa bırakan kent yöneticilerinedir..<br />
+İsyanım, böylesine sorunlarla bölgemiz de bırakın lider kent olmayı, her geçen gün sıradan bir kent olmaya sürüklenirken kendi içimizde anlaşılmaz ilişkileri güçlendirerek bu çöküşe çanak tutulmasınadır..</p>
+<p>Benim yazılarımdan dolayı üzdüğüm dostlarımın, bana bu pencereden bakması için yazdım bunları.<br />
+Bu yazdıklarımı, bu kentte yaşamaktan mutlu olan ve Samsun’dan bir hafta uzak kalınca bu kenti ve insanlarını özleyenlerin çok iyi anlayacağını biliyorum.<br />
+Köşe yazarı, “Şakşakçılık yapmaz.. Bozuk giden işlerin düzeltilmesi için eleştiri yapar ve yol gösterir” ilkesine inanan birisi olarak köşe yazıları yazıyorum.<br />
+Şu konuyu da belirtmekte yarar görüyorum.<br />
+Bir Samsunlu olarak ve kentsel sorunlarının azaltılması için çaba harcamış birisi olarak, Samsun’un güzelleşmesi için çaba gösterilmesinden tabii ki ben de mutlu oluyorum.<br />
+O nedenle de, Büyükşehir Belediye Başkanımız Sayın Yusuf Ziya Yılmaz’a ve kendi çaplarında da bu yönde çaba harcayan, yanlışları söyleyen, projeler sunarak cesur tavır sergileyen sivil toplum kuruluşlarına teşekkür ediyorum.<br />
+Git gide daha da sıradan bir kent olmaya doğru sürüklenen Samsun için hala bölgenin lideri olduğu söylenebiliyorsa, bu yazdıklarım ve vurguladığım önceliklerim yanlış demektir.<br />
+Eğer gerçek bu ise, yanlış yapmış ve boşuna kürek çekmişim demektir.<br />
+O zaman, bir Samsunlu olarak bugüne kadar beni anlayan ve destek verenlerin affına sığınarak, üzdüklerimden özür dilemek boynumun borcudur.<br />
+Ne yapalım ki, bu kentte yaşıyor ve bu kenti seviyoruz. Bunlarda bu kentin gerçekleri..<br />
+Her şeye rağmen iyi haftalar.. 23.12.2012</p>
+<p>Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0616-bir-baska-acidan-samsunspor-da-ki-cokusun-nedenleri.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="../2013/0479-bir-samsunlu-olarak-i-syan-ediyoruz.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

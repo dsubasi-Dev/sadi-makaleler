@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Büyük Ortadoğu Projesi Meyvelerini Vermeye Başladı…</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Büyük Ortadoğu Projesi Meyvelerini Vermeye Başladı…
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2014
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0698
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>BÜYÜK ORTA DOĞU PROJESİ MEYVELERİNİ VERİYOR..</p>
+<p>Çok değil 3- 4 sene öncelerde gündeme gelen en popüler söylem, Büyük Orta Doğu Projesiydi ( BOP ). Amerika’nın kendi çıkarları doğrultusun da Ortadoğu’nun haritasını yeniden düzenleme planı olarak özetlenebilecek bu proje de, Türkiye’ye de önemli bir rol biçilmişti.<br />
+O günlerde çok kullanılan ve Sayın Başbakan’ın da büyük bir gururla her platform da gündeme taşıdığı bu görev, BOP’ un Eş Başkanlığıydı.<br />
+Bu proje tamamen Amerika’nın bölgede ki çıkarlarını hem garantiye almak ve genişletmek hem de kendisine sorun çıkaran bölge devletlerini hizaya getirmeyi amaçlıyordu. Bu projenin açıkça söylenmese de bir diğer amacı da, İsrail’in güvence alınmasıydı.<br />
+Bölgede ki devletlerin çoğu diktatörlükle yönetiliyor ve bu diktatörler ülkelerinin ulusal çıkarlarına öncelik tanıyorlardı. Aslına bakarsanız, bu diktatörlerin hemen hepsi de bir şekilde Amerika’nın desteği ile yönetimi ele geçirmişlerdi.<br />
+BOP Projesinin uygulama detayına girmeden, Amerika’da meydana gelen bir saldırıya dikkat çekmek istiyorum.<br />
+Amerika,11 Eylül 2001 de New York’ da ki Dünya Ticaret Merkezine yapılan bu hava saldırısından El-Kaide militanlarını sorumlu tutarak Müslüman ülkeleri İslami teröre destek vermekle suçlamaya başlamıştır. Hemen ardından da Ekim 2011 de El-Kaide militanlarının bulunduğu Afganistan’ a askeri müdahale başlamıştır.<br />
+Amerika 2004 yılında yapılan G 8 toplantısında, BOP Projesini resmen ilk kez gündeme taşıyordu.<br />
+Olasıdır ki, 2001 de ki 11 Eylül saldırısı Amerika’nın bu projeyi öne almasını tetiklemiştir.<br />
+Bu gelişmelere değindikten sonra yeniden BOP’ a dönelim.<br />
+Dünyanın en zengin petrol rezervlerine sahip bu ülkelerin kendi çıkarlarına sahip çıkan ulusalcı yönetim anlayışı, zaten büyük petrol üreticisi İran ile sorun yaşayan Amerika’yı harekete geçirmiş ve BOP Projesini uygulamaya koymuştu.<br />
+Projenin uygulama amacı olarak da çok masum bir gerekçe yaratılmıştı. Bölge ülkelerine demokrasi getirilecekti.<br />
+İlk hedef önce Irak’tı. Saddam yok edilerek Irak’da ki rejim çökertilecekti. Ancak Amerika’nın Irak’a asker sokabilmek için Türkiye topraklarını kullanmasına ihtiyacı vardı.<br />
+Söz buraya gelmişken o günlerde Türkiye’de olanlara da kısaca değinmek istiyorum. Çünkü bu aşama da Irak’ın Amerika tarafından işgali öncesi, en büyük üstü kapalı önemli bir dönüşüm de Türkiye’de yaşandı.<br />
+Irak’ın toprak bütünlüğünün korunmasını ülkemiz için önemli olduğunu belirterek bu işbirliğine direnen dönemin Bülent Ecevit Başkanlığında ki koalisyon hükümeti darmadağın ediliyor ve erken seçimle iktidar değişiyordu.<br />
+2003’ de de Amerika Irak’ı işgal ediyordu.<br />
+O günden sonra ki on iki yılda yaşananlar ise hepimizin gözleri önünde gelişti. Amerika, Irak teskeresinin TBMM’den geçmemesinde etkisi olduğu gerekçesi ile faturayı Türk ordusuna çıkartmıştı.<br />
+Türk Ordusu’nun bölgede uygulayacağı projelerde de ayak bağı olacağı öngörüsü ile Amerika düğmeye basmıştı.<br />
+Amerikan askerlerinin Irak’ da görevli Türk askerilerinin başına çuval geçirmesi ile başlayan sürecin devamında, Türk Ordusu’nun komuta kademesi tartışmalı belge ve CD’ lerle tutuklanarak devre dışı bırakılıyordu.<br />
+Ardı ardına gelen akıl almaz rüşvet ve yolsuzluk suçlamaları ile başlayan ve paralel devlet iddiaları devam ile eden karmaşık süreçte ise, emniyet ve yargı da alt üst edilmişti.<br />
+Burada bir nokta koyarak Türkiye’de olanlara tekrar dönmek üzere, Orta Doğu’da olanlarla devam ediyorum.<br />
+Irak’tan sonra Amerika’nın azılı düşmanı Kaddafi’nin kafası kopartılıyor ve Kaddafi sonrası Libya iç savaşla boğuşuyordu.<br />
+Ardından aynı şeyler Mısır’da yaşandı. Sıra Suriye’ye gelmişti. Ne var ki, Esat beklenmedik şekilde dirençli çıkmıştı. Her türlü hesap Esat’ın devrilmesine göre yapılmış, mezhepçilik desteklenmiş ve sonunda iç savaş çıkmış ve Esat karşısında ki tarafa Amerika ve onun eşbaşkanı Türkiye’de destek vermişti.<br />
+Ancak Esat’ın devrilememesi sonrası Amerika Suriye politikasında değişikliğe gitmiş ve Türkiye bir komşusuyla daha açmaza düşmüştür.<br />
+BOP Projesi ile tüm Ortadoğu ülkelerinde iç savaş ve karmaşa yaşanır hale gelmiştir. Bu açıdan bakılınca projenin amacına ulaştığı ve ayakta duracak bir ülke kalmadığı anlaşılmaktadır. Zaten iç savaşlarla kamplara bölünmüş bu ülkelerin parçalanması ile yeni bir Ortadoğu haritasının çizilmesinin de önü açılmış oluyordu.<br />
+Ancak eğer bölgenin yeniden düzenlenmesi projesin de Amerika’nın yeni bir oyunu değilse, bölgede Amerika dâhil herkesi korkutacak gelişmeler yaşanmaya başlamıştır.<br />
+Esat’ın devrilmesi için mezhep ayırımcılığına destek verilmesi ile bölgede hâkimiyeti ele geçiren radikal İslamcı güçler, El-Kaide ve onunla bağlantılı İşid militanları çok ciddi potansiyel bir tehlike haline gelmiştir.<br />
+Suriye’de ki mezhep kökenli iç savaş nedeniyle Türkiye’ye iltica eden bir milyona yakın Suriyeli ile El kaide ve İşid militanları da Türkiye’ye sızmışlardır.<br />
+Bu radikal İslamcı militanlar en çok da bizim ülkemiz için sorun olacak gibi gözükmektedir.<br />
+Belki BOP Projesi ile Amerika bölgenin haritasını istediği gibi oluşturma amacına ulaşmıştır ama Türkiye’nin Güney Doğu Bölgesinde ki Kürt sorununa, bir de radikal İslamcı militanlar sorununu eklenmiştir.<br />
+Mavi Marmara Gemisi olayı ve “ One minüte” çıkışı ile bölgede iyi ilişkilerimiz olan İsrail başta olmak üzere, Eş Başkanlık sayesinde tüm komşularımızla kavgalı olan bir ülke durumuna düştük.<br />
+Ülkemizin ihracat rakamlarında çok önemli yeri olan Doğu ve Güneydoğumuzda ki komşularımızla olan ticaretimiz de çökme noktasına geldi.<br />
+Artık dolambaçlı yollardan olsa da, BDP ve Kürt liderlerinin istediği ve “Çözüm Süreci” olarak adlandırılan proje ile gözüken o ki Irak, Suriye, Türkiye üçgeninde bağımsız bir Kürt Devleti gerçekleştirilmektedir..<br />
+Sonuç olarak söylenecek şey, ilmek ilmek örülen Büyük Orta Doğu Projesi ( BOP ) meyvelerini vermiştir.<br />
+Bu meyvelerden sonuncusu da ne yazık ki, Türk Toprakları olmaktadır. Şehit kanları ile sulanarak işgalden kurtarılmış olan ve 1071’den beri Türklerin yaşam alanı olan Anadolu toprakları, Sevr’den sonra bir kez daha parçalanma tehlikesi ile karşı karşıyadır.<br />
+Çok daha fazla söz etmeden, tüm soruların cevabını bulmak için Amerika’ nın BOP Projesini gündeme taşıyan o dönemin Dışişleri Bakanı Condolezza Rice’nin 07 Ağustos 2003 de Washington Post Gazetesinde çıkan yazısını okumak yeter diye düşünüyorum.<br />
+C. RİSE (ABD Eski Dışişleri Bakanı)Washington Post Gazetesinde ki röportajında şunları söylemiştir; "Başta Türkiye olmak üzere Fas'tan Basra Körfezine kadar Ortadoğu da bulunan 22 Ülkenin sınırlarının değişmesi gereklidir."<br />
+Ayrıca Rice, konuyu daha da açarak Güneydoğu'da Kürt isyanı ihtimalini de gündeme getiriyordu. Rice'a göre, Kürtler Suriye'den koptuktan sonra Türkiye'deki kardeşlerini de aynısını yapmaya teşvik edebilirler…<br />
+Sanırım başka söze gerek yok. Bunların hepsinin birer hayal olarak kalması dileğiyle iyi haftalar…15. 06. 2014</p>
+<p>Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0697-samsun-daki-trafik-karmasasinin-nedenleri-ve-yayalarin-sorumsuzlugu.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0699-surpriz-cumhurbaskani-adayi.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

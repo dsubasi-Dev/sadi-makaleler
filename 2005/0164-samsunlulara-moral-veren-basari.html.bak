@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Samsunlulara Moral Veren Başarı</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Samsunlulara Moral Veren Başarı
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2005
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0164
+
+</div>
+
+
+<div class="article-content">
+
+<p>a-mail: sadisubasi@denizeczaneoptik. com                      SUNUŞ</p>
+<p>SAMSUNLULARA MORAL VEREN BAŞARI</p>
+<p>Bir haftadır katıldığım bir genel kurul nedeniyle  Samsun<br />
+dışında bulunuyorum. Ama Samsun ile haber iletişimim devam ediyor. Tabii bu haftanın belkide en önemli konusu Samsunspor’un Futbol federasyonu tarafından ceza kuruluna gönderilmesiydi. Nitekim Çarşamba günü kötü haber ulaştı. Fedrasyon ceza kurulu Malatya maçı nedeniyle Samsunspor’un sahasını bir maç kapatmış ve orta sahanın en çalışkan futbolcusu  Adnan’ı da 1+3 maç cezalandırmıştı. Malatya maçındaki hakemin hatalı kararları ile çığrından çıkan maç, kritik bir durumda bulan Samsunspor’a çok pahalıya mal olmuştu. Samsun’dan gelen haberler moral bozucu boyuttaydı. Ancak Samsunspor yönetimi anında bu karara itiraz etmiş ve dosya tahkim kuruluna gönderilmişti. Durum hiçte umut verici görünmüyordu. Nevar ki Cuma gecesi telefonla arayan bir dostum ‘’Tahkim Kurulunun’’ kararı bozduğunu ve saha kapatmasının para cezasına çevrilerek kaldırıldığını, Adnan’ın cezasının da bir maça indirildiğini müjdeliyordu. Gerçektende her şeyin ters gittiği bir ortamda bu haber tam bir moral kaynağı olmuştu. İki gün önce maçın Ordu’da oynanmasına dahi razı olan Samsunlular şimdi Cumartesi günü stadı tıka basa doldurup takımına sahip çıkmanın hesabını yapıyordu. Samsunlu uzun zamandır hasret kaldığı bir başarıyı yakalamıştı.<br />
+Bundan bir yıl kadar önce federasyon seçimleri yenilendiğinde federasyon kurullarına Samsunspor da aday göstermiş ve sevgili dostum avukat Refik Moral ‘da ‘’Tahkim Kurulu’’ yedek üyeliğine seçilmişti. Mesleki deneyim ve birikimlerini  maçla ilgili  Samsunspor’un hakem tarafından mağdur edildiğini kanıtlayan belgelerle birleştirerek, Samsunspor’un haklarının korunması noktasında iyi değerlendiren sayın Moral’ın bu sonuçtaki katkısı sanıyorum çok büyük olmuştur. Kendisine tüm Samsunlular ve Samsunsporlular adına teşekkür ediyorum. Bence bu işin bir başka önemi daha vardır. O da bu kentin bugüne kadar ihmal ettiği bir konunun su yüzüne çıkması ve belirli yerlerde gerçek Samsun sevdalıları görevlendirildiğinde nasıl olumlu sonuçların alınabileceğin açık bir şekilde görülmesidir. Aslında bu başarı önemli kuruluşlarda görev alma şansını yakalamış tüm Samsunlulara örnek olmalıdır. Seçildikleri mevkileri  Samsun’un  ve Samsunluların çıkarlarını korumak yerine başka amaçlarla kullanan veya gereken cesur tavrı sergileyemeyenlerde bundan gerekli dersi çıkartmalıdır. Bu Kentin her kesimden ve her seviyede Samsun lobisini oluşturacak insanlara ihtiyacının olduğu gerçeği bu son olayla bir kez daha ortaya çıkmıştır.<br />
+Bu yazıyı yazdığım sırada Samsunspor-Denizli maçı henüz oynanmamıştı.. Yazımı tamamlamama rağmen katıldığım toplantı nedeniyle gazeteye Pazar günü gönderirim diye bekletmiştim. Cumartesi günü oynanan maç bu motivasyon ve moral gücünün de etkisi ile 4-0 gibi müthiş bir skorla Samsunspor’un lehine sonuçlanınca yazıma bu bölümü eklemek zorunluluğu doğdu. Umuyorumki bu sonuçla Samsunspor sıkıntılı ortamdan da uzaklaşmış oldu. Malatya maçında yaşanan hakem hataları sonucu taraftarın hiçte haklı karşılanamayacak centilmenlik dışı tepkisi, bir hafta boyunca başta yöneticiler olmak üzere tüm Samsunluları hem üzmüş, hemde verilen cezanın haksızlığını kanıtlamak için büyük çapta uğraştırmıştır. Kapama cezası kaldırılmış olsada ekonomik sıkıntı çeken kulübümüz 70-80 bin YTL. gibi bir para cezası ödemekle karşı karşıya kalmıştır. İnanıyorum ki bu olay sevgili taraftarlarımıza ders olmuştur ve bundan sonraki maçlarda takıma sahip çıkarken Samsunlulara yakışan bir tavır sergilerler diye düşünüyorum<br />
+‘’Bir musibet  bin nasihatten makbuldur’’   diye özdeyişimiz vardır. Bir haftadır yaşanılan bu sıkıntı, umarım Samsunluların bazı gerçekleri daha iyi görmesine ve anlamasına yardımcı olacaktır. İyi haftalar dileğiyle..15-nisan-2005<br />
+Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0163-celiskiler-kenti-samsun.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0165-bu-kez-guc-birligi-yapalim.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

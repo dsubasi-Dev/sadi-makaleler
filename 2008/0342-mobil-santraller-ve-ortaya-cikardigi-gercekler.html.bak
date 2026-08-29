@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Mobil Santraller ve Ortaya Çıkardığı Gerçekler</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Mobil Santraller ve Ortaya Çıkardığı Gerçekler
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2008
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0342
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>MOBİL SANTRAL ZAFERİ VE ORTAYA KOYDUĞU GERÇEKLER.</p>
+<p>2001 yılında Dalaman ve Bartın’a kurulması kararlaştırılan “MOBİL SANTRALLER”, o yöre insanlarının başlarında belediye başkanları, milletvekilleri ve sivil toplum kuruluşları olmak üzere kentleri adına koydukları ortak tepki ile bu bölgelerden kovulmuşlardı. Bu aşama da nasıl olmuşsa, bu çevre ve canlı düşmanı santraller Samsun Büyükşehir Belediye Başkanlığınca Samsun’a davet edilmişlerdi. Samsun kamuoyundan saklanarak Tekkeköy Selyeri’n de konuşlanma işlemleri de bitirilmişti. Samsunlular yaklaşık üç ay sonra, SAM-SEV tarafından düzenlenen KENT KURULTAY’I sırasında, Ticaret ve Sanayi Odası Başkanı Sayın Adnan Sakoğlu’nun gündeme getirmesi ile haberdar oluyordu.<br />
+Kurulacak santraller ile ilgili yukarıda ki bilgiler Samsun kamuoyuna yansıyınca, gerekli araştırmalar yapılmış ve bu santrallerin dünya da ölüm santrali olarak anıldığı öğrenilmiş, tehlikenin boyutları da çok iyi anlaşılmıştı.<br />
+Bunun üzerine ilk etapta Kent Kurultayının katılımcısı olan sivil toplum kuruluşları olayı tüm boyutları ile incelemeye başlamıştır. Bu konuda santrallerin yapımcı firmaları da boş durmuyordu. Firmaları adına görev üstlenen bir özel şirket başında ki Doç. Dr. Coşkun Yurteri ile aklama turlarına başlamışlardı. Ticaret ve Sanayi Odası salonunda yapılan bir toplantıya Coşkun Yurteri’ de katılmıştı. O toplantı da, Samsun’un bu beladan nasıl ve kimlerle kurtarılabileceğinin de belirginleştiği ortaya çıkıyordu.<br />
+Toplantıya sivil toplum kuruluşlarını bilgilendirmek üzere katılan Doç. Dr. Coşkun Yurteri katılımcıları ikna edemeyince belki de hayatının en büyük hatasını yapıyor ve saygı sınırlarını aşan bir kendini bilmezlikle “bu iş bitmiş, Samsun golü yemiştir” diyordu.<br />
+Bu sözler sivil toplum kuruluşlarını ateşlemeye yetiyordu. Ama Samsun’un kronik hastalığı bir kez daha ortaya çıkıyor ve başlangıç noktasında birlikte olduğumuz bazı sivil toplum kuruluşları cepheyi terk ediyordu.<br />
+Samsunlunun sağlıklı yaşama hakkına, toprağına, suyuna ve çevresine sahip çıkma noktasında kararlı olan sivil toplum kuruluşları kenetleniyor ve oluşturdukları Çevre Birlikteliği ile bir hukuk savaşı başlatıyordu.<br />
+Çevre Birlikteliği Yürütme Kurulunda yer alan Samsun Baro Başkanlığı, Elektrik Mühendisleri Odası, SAM-SEV Başkanlığı, Çevre Mühendisleri Odası, Ziraat Mühendisleri Odası, Tabipler Odası ve KESK altı yıl sürecek bir mücadeleyi büyük bir inatla sürdürüyordu.<br />
+Bir yanda Samsunludan yana bu davaya baş koyan Çevre Birlikteliği, diğer yanda o dönemin Koalisyon Hükümetinin bir kanadı, o partinin milletvekilleri, Büyükşehir Belediye Başkanı, Tekkeköy Belediye Başkanı ve bu işten ticari çıkarı olanlar yer alıyordu. Bir yandan yöre halkı bilgilendiriliyor, diğer yandan mitinglerle tepkiler ortaya konuyordu.<br />
+O dönem muhalefette olan milletvekilleri Tekkeköy Mitingin de bizlerden çok olaya tepki koyuyor ve iktidara gelince kapatacakları sözünü veriyorlardı. Ne var ki, iktidara geldiklerinde tam tersini yapıyor ve bu santrallerin zararsız olduğunu savunabiliyorlardı.<br />
+Tepki çalışmaları sürerken Samsun Barosu da Çevre Birlikteliği adına hukuk mücadelesini başlatıyordu. Ankara 10. İdare Mahkemesi 15.05.2003 de yürütmeyi durdurma, 05.11.2003 de santrallerin sözleşmesini iptal kararı veriyordu. Firmaların yaptığı itirazlar da ret ediliyor ve Danıştay 10. dairesi 25.01.2006 da Ankara 10. İdare Mahkemesinin iptal kararını onaylıyordu.<br />
+Yasal hiçbir dayanağı kalmayan Mobil Santraller kapatılıyor, ama bu kez de bu santrallere sözleşmeye uyma gerekçesi ile bu fakir halkın parasından her ay iki milyon dört yüz bin dolar para ödeniyordu. Çevre Birlikteliği bu işin de peşini bırakmıyor ve Yargıtay Başsavcılığına başvurarak ödenen paraların hazineye geri verilmesi ve sorumluların cezalandırılması isteniyordu. Yargıtay Başsavcılığı davayı açıyor ama Enerji Bakanı soruşturma izni vermeyerek bürokratlarını koruma altına alıyordu.<br />
+Samsun Valiliğinin o bölgede ki kirlilik oranının yüksek olduğunu belirterek olumsuz görüş bildirmesine rağmen, 22 Temmuz 2007 Genel seçimleri sonrası ise anlaşılmaz bir bakanlık kararı ile santraller yeniden çalışmaya başlıyordu. Samsun Barosu yeniden dava açıyor ve bu dava da Ankara 10. İdare Mahkemesi tarafından 22 Ocak 2008 tarihin de karara bağlanıyor ve bir kez daha yürütmeyi durdurma kararı veriyordu. Hem de öyle bir karar ki, karar metninin ilk bölümünde açıkça yasaları uygulamakla yükümlü idareyi sorguluyor ve açıkça “Biz bu dosyayı karara bağlayarak sözleşmesini iptal etmiştik. İptal edilen bir şey hiç doğmamış demektir. Buna rağmen çalıştırıldığı anlaşılan bu santraller için aynı gerekçelerle bir kez daha yürütmeyi durdurma kararı veriyoruz” diyordu.<br />
+Bu karar üzerine Samsun Valiliği gerekeni yapıyor ve bu santrallerin 16 Şubat 2008 Cumartesi günü saat 01.00 de durdurulması talimatını veriyordu. 7 günlük itiraz süresinden sonra kesinlik kazanacak ve bu santraller umuyorum ki bir kez daha çalışamayacaktır.</p>
+<p>Gelinen nokta Sivil Toplum Kuruluşlarının zaferidir. Bu zafer Samsun’un gerçek yüzünü de ortaya koymuştur. Altı yıllık bu mücadele de bizleri yalnız bırakan sivil toplum kuruluşları bunu üyelerine anlatmakta zorlanacaktır.<br />
+Samsun’a sahip çıkmak sözü ile seçilen yerel yöneticiler ve Samsun Milletvekilleri bu çelişkilerini seçmenlerine nasıl anlatacaklar merak ediyorum.<br />
+Bu karar Samsun için bir milattır. Mobil Santrallerin kapatılma süreci Sayın Metin Telatar ve Elektrik Mühendisleri Odası tarafından kitap haline getirilmiştir. Bu kitap bu tür yanlış yatırımlar için bir rehber niteliği taşıyacaktır.<br />
+Umuyorum, bu mücadele Termik Santral yatırımcılarının bir kez daha değerlendirme yapmalarını sağlayacaktır.</p>
+<p>Umarım artık hiç kimse Samsun’un sandıkları kadar kolay teslim olacağını düşünemeyecektir.</p>
+<p>Umarım, Samsunlular kimlerin yanlarında, kimlerin karşılarında olduğunu daha iyi anlamışlardır.</p>
+<p>Umarım her fırsatta “sivil toplum kuruluşları ne yapıyor? “ diye küçümseyenler de mahcup olmuşlardır.</p>
+<p>Ve son sözüm de, daha ilk gün “ Samsun Golü yedi” diyebilme saygısızlığını gösteren Doç Dr. Coşkun Yurteri’ye; Sayın YURTERİ, gol öyle atılmaz, böyle atılır.</p>
+<p>Samsun Halkı adına verdiğimiz mücadele ve kazanılan zafer, yöre halına hayırlı olsun.<br />
+Mobilsiz ve Termiksiz haftalar dileğiyle…17 Ocak 2008<br />
+Sadi Subaşı</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0341-kazanilan-zaferi-de-kutlamayi-becermedik.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0343-askerimiz-irak-ta-her-donemin-hastaligi-i-kiyuzluluk.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

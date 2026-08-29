@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Sabek Aş ve Hatırlattıkları</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Sabek Aş ve Hatırlattıkları
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2005
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0202
+
+</div>
+
+
+<div class="article-content">
+
+<p>e-mail; sadisubasi@denizeczaneoptk. com                                   SUNUŞ</p>
+<p>SABEK AŞ VE HATIRLATTIĞI BAZI GERÇEKLER</p>
+<p>Geçtiğimiz hafta gerçekleştirilen bir dizi toplantılarla Samsunlu ile tanışan SABEK AŞ, Samsun’un 18 yıl sonrasının vizyonunu belirleme çalışmalarının bir ürünüdür. Çizilen vizyon gelecek için umut vericidir. Eğer bu oluşum tutar ve yaşama geçerse Samsun’un yeni kalkınma modeli ve şansı olacaktır. Bu şirketin kurulması düşüncesinin ilk temellerinin atıldığı yer SAM-SEV tarafından düzenlenen SAMSUN KENT KURULTAYLARIDIR. Bu gün gelinen noktadan SAM-SEV’İN başkanı olarak mutluluk duyuyorum.<br />
+Bu konunun bu şekilde gündeme gelmesi geçmişte yaşanan bazı şansız olayları da akla getirmektedir. SAM-SEV tarafından düzenlenen ve Samsun’daki 15 sivil toplum kuruluşunun sorunları ve çözüm önerilerini sundukları, buna karşılık  milletvekilleri, Samsun Valisi, Büyük Şehir Belediye Başkanı ile 19 mayıs Üniversitesi Rektörünün sorunlara yönelik değerlendirmelerinin sunulduğu SAMSUN KENT KURULTAYLARININ amacı  bugün gelinen ortamı hazırlamaktı. En son 2004 de yapılan kent kurultayı sonuç bildirgesini hatırlayanlar, bugün kurulan şirketin Samsun için önerilen çözüm yolu olarak önerildiğini göreceklerdir. Hatta o sonuç bildirgesinde ‘’ Samsun’un kalkınmasının yolu  tarımsal sanayi olarak belirlenmiş ve bu karar doğrultusunda 2004 ün eylül ayı içersinde bir değerlendirme paneli düzenlenmesi’’ karar altına alınmıştı. Panelin konusu da Samsun’da TARIMSAL SANAYİ NASIL KURULUR? olarak belirlenmişti. Hazırlıklar son noktasına gelmiş, tarımsal sanayi kuruluşlarını gerçekleştiren iş adamları ve bu tesislerin kuruluşunu yapanlar konuşmacı olarak belirlenmişti. Samsunlu yatırımcılar ile konuya ilgi duyan herkes bu panele devet edilecekti Konuşmacılardan ikisi belirlenmişti. Bunlardan birisi DİMES’İN kurucuları , diğeri de Tamek tesislerini de kurmuş olan ve Bursa’da yaşamını sürdüren bir Samsunlu hemşerimizdi. Anahtar teslimi tesis kuran bu Samsunlu dostumuz Samsun’da yatırımı düşünenlere çok önemli mesajlar verecek ve işin mali çerçevesini sunacaktı. Hatta kurultay katılımcıları olan sivil toplum kuruluşları bu panel sonrası geniş tabanlı bir anonim şirket kurarak üreticilerinde katılımını cesaretlendirmeyi planlamıştı.<br />
+Yukarıda anlattığım kent kurultayı kararı bu gün gerçekleştirilmeye çalışılan modelin aynısıdır. Ancak bu model o gün halka sunulma noktasına gelindiğinde birileri düğmeye bastı ve anlaşılmaz bir şekilde panel sabote edildi. Akıl almaz işler oldu. Kurultayların ana katılımcıları olan bazı sivil toplum kuruluşları da bu verilen işaretler doğrultusunda güdümlü hareket ederek SAMSUN KENT KURULTAYLARININ sonunu hazırladı. Olayların bu şekilde gelişmesi üzerine daha fazla sürtüşmeye meydan vermemek ve Samsun’un zarar görmemesi için SAM-SEV yönetim kurulu bir süre SAMSUN KENT KURULTAY’INI düzenlemeyi bıraktığını kamuoyuna açıklamıştı. Bu gün gelinen nokta KENT KURULTAYLARININ ne kadar önemli bir işlev yaptığını bir kez daha gözler önüne sermiştir. Bu, kurultayları acımasızca eleştirenlere verilen en güzel cevaptır.<br />
+İşte bu nedenle SABEK AŞ’nin kuruluşundan sevinç duyduğumu söyledim. O gün hiçte yakışık almayacak şekilde engellenen bir uygulamanın bu gün o kişilerce gündeme taşınması çok anlamlıdır. Olayları birebir yaşayanların bu tablo karşısında vicdanları ile gerekli muhasebeyi yapacaklarını sanıyorum.<br />
+Şimdide bir üzüntümü belirtmek istiyorum.4 gün süren bu toplantılara SAM-SEV’İN  bırakın  katılımcı olarak çağrılmasını davet dahi edilmemesini anlamakta sıkıntı çekiyorum. Samsun’un her sorununda öne çıkan ve Samsun’un çıkarlarını savunan SAM-SEV i göz ardı etmek kimseye bir şey kazandırmaz Buna seyirci kalmakta hiç bir kuruluşa yakışmaz. Bu kent bizim Bizler bu kentin kalıcılarıyız. Sel gider kum kalır Günlük çıkar hesapları ile hiç bir kişi  ve kuruluş Samsun’a yararlı olamaz. Bunlar Samsun’a yarar getirmez. 35 yıldır bu kentte sorumluluk üstlenen birisi olarak yaşadıklarımı şöyle gözümün önüne getirdiğimde, sayısını hatırlamadığım siyasinin ve kent yöneticisinin gelip geçtiğini, ancak bu gün bunların hemen hiç birisinin Samsun’da olmadığı ve hatırlanmadığı gerçeğini görüyorum.<br />
+Amaç Samsun’a hizmet ise hiç kimsenin desteği reddetme lüksü olmamalıdır. Bu birlikteliklere çomak sokanlar ve buna zemin hazırlayanlar bu kente en büyük kötülüğü yapmaktadırlar. Bunu bir güç gösterisi gibi algılayanlar ise yanıldıklarını gördüklerinde çok geç olacaktır..<br />
+Samsun’un bu gün halkaları giderek genişleyen beraberliklere ihtiyacı vardır. Bunu hiç kimse göz ardı etmemelidir.. İyi haftalar..11-ARALIK-2005</p>
+<p>SADİ  SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0201-lider-egitim-semineri.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0203-gazi-muzesi-yenileniyor.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

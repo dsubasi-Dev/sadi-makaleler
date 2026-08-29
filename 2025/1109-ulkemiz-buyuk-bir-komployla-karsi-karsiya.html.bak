@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Ülkemiz Büyük Bir Komployla Karşı Karşıya.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Ülkemiz Büyük Bir Komployla Karşı Karşıya.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2025
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+1109
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>ÜLKEMİZ BÜYÜK BİR KOMPLO İLE KARŞI KARŞIYA.</p>
+<p>Ülkemizde giderek artan hukuk dışı gözaltı ve tutuklamalar, kabul edilemez bir hal almış bulunuyor. Bunların hiç birisinin hukuk düzeni ile yönetilen bir ülkede olması mümkün değildir.<br />
+Bu tür hukuk dışı uygulamaların ülkemizi yöneten siyasi iradeye bir şey kazandırması da düşünülemez.<br />
+O nedenle, bu hukuku katleden göz altı ve tutuklamaların ülkemizi sonu belirsiz bir kaosa sürüklemek amacı ile adını koyamadığım bir güç tarafından planlandığı endişesini taşıyorum.<br />
+Bu projenin asıl hedefinin, siyasi irade olabileceği de göz ardı edilmemelidir.<br />
+Çünkü eğer bu uygulamalar Siyasi İrade ’nin bilgisi dışında yapılıyorsa, korkarım ki 15 Temmuz öncesi kendilerine biat etmiş yargı mensupları aracılığı ile ülkemizi kaosa sürükleyerek, çok sayıda vatanseveri ceza evlerine mahkûm eden hain FETÖ Örgütü benzeri bir yapı ile karşı karşıyayız demektir.<br />
+Ne var ki, şu ana kadar bu yönde bir açıklama yapılmadığı gibi gözaltı ve tutuklamaların devam ediyor olması, adı konmamış bir yapının uygulamalarının Siyasi İradenin de önüne geçtiği kuşkularını artırmaktadır.<br />
+Son aylarda giderek artan göz altı sonrası tutuklamalar ile sonuçlanan olayları hatırlarsak, önce Esenyurt Belediye Başkanı Ahmet ÖZER, sonra Beşiktaş Belediye Başkanı Rıza AKPOLAT, Zafer Partisi Genel Başkanı Prof. Dr. Ümit ÖZDAĞ tutuklanarak susturuldular.<br />
+Ardından sanat dünyasının önde gelen isimlerinden başta sanatçıların menajeri Ayşe BALIM tutuklanırken, Halit ERGENÇ gibi halkın çok sevdiği bazı sanatçılarında tanıklık için çağrıldıktan sonra, yıllar öncesi olmuş GEZİ OLAYLARI nedeniyle suçlanması,<br />
+Son olarak da gazetecilik görevleri gereği haber yapan HALK TV programcıları Barış PEHLİVAN, Serhan ASKER ile haber sunucusu Seda SELEK’İN göz altına alınmış ve ardından Seda SELEK ile Serhan ASKER şartlı salınırken, Genel Yayın Yönetmeni Suat TOKTAŞ ve Kürşat Oğuz göz altına alınıyordu.<br />
+Suat Toktaş’ın tutuklanması ve geçtiğimiz günlerde ev hapsine mahkûm edilen Özlem Gürses’in yeniden ifade vermeye çağrılmasının arkasında hangi gücün olduğu kısa sürede açığa çıkartılmalıdır.<br />
+Aksi halde, bu hukuk dışı olaylar ülkemizde bir kargaşanın çıkmasına neden olabilecektir.<br />
+Bu da topraklarımız üzerinde gözü olan ülkelerin, son Osmanlı Hükümeti’nin imzaladığı ve Millî Mücadele sonrası yırtıp attığımız SEVR Antlaşması hükümlerini, uygulamaya kalkışacaklarından kimsenin kuşkusu olmamalıdır.<br />
+Toplum olarak dik durarak ve sakin kalarak bunları da atlatacağımıza inanıyor ve eninde sonunda ülkemizin, hukukun hâkim olacağı demokratik düzene ulaşacağına inanıyorum.<br />
+Ancak asıl korkum, yaşanan büyük ekonomik krizin yarattığı yoksulluk sonucu insanlarımızın içine düştüğü karamsarlıkla, intihar olaylarının artarak devam edebilecek olması,<br />
+İçlerinde çok sayıda üniversite mezunlarının da bulunduğu iş bulamayan gençlerin, mafya örgütlerinin eline düşmesi,<br />
+Moral olarak büyük bir boşluğa düşen gençlerin giderek uyuşturucu bağımlısı olması,<br />
+Sadece son bir hafta da eşini ve çocuklarını katlederek kendi canına kıyan anne ve babaların sayısının artması,<br />
+Hukukun bağımlı hale gelmesi ve ekonomik çöküşün yarattığı umutsuzluğun, toplumdaki ahlaki değerleri de yok etmesi,<br />
+Toplumda aile, ticari ve de siyasi ahlakın anlamını yitirmesi ile toplumsal ahlakın da yerle bir olması,<br />
+Sömürgelerde yaşanması olağan olan fuhuşun artması, nasıl düzeltilecektir?<br />
+SONUÇ;<br />
+Ülkemizde tek karar verici olan SİYASİ İRADE, ülkemizi uçuruma götürmekte olan adı konmamış yapıyı ortaya çıkartarak gerekli yasal işlemleri başlatmalıdır.<br />
+Aksi halde, şu an için gerekli yasal işlemler yapılmazsa, tarih bugün yaşananları kapkara bir sayfa olarak kayıtlarına geçirecektir.<br />
+Dünyanın en verimli topraklarına ve akar sularına sahip ülkemizin, tohum ithal eden değil, kendi tohumları ile üreten, sanayisini güçlendirerek işsiz gençlerini topluma kazandıran, uyuşturucu baronlarını yok etmiş bir ülke özlemi ile umutlarımızı korumamızı diliyorum.<br />
+Unutulmasın ki, Türkiye hiçbir zaman bir Ortadoğu Ülkesi olmamıştır. Olmayacaktır da.<br />
+Sağlıklı ve sorunsuz bir hafta diliyorum. 29.01.2025<br />
+Ecz. SADİ SUBAŞI<br />
+e- http://www. hedefhalk. com</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="1108-samsun-un-tesvik-yasasi-disinda-birakilma-drami.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="1110-buyuksehir-belediyesinin-artilari-ve-oneriler.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

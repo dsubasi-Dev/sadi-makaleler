@@ -1,0 +1,309 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Referandum Sonrası Beklenen Muhtemel Gelişmeler ve Artık Oh Be! Diyebilecek Miyiz.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Referandum Sonrası Beklenen Muhtemel Gelişmeler ve Artık Oh Be! Diyebilecek Miyiz.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2010
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0498
+
+</div>
+
+
+<div class="article-content">
+
+<p>www. sadisubasi@denizeczaneoptik. com                                               SUNUŞ</p>
+<p>REFERANDUM SONRASI BEKLENEN MUHTEMEL GELİŞMELER VE ARTIK OH BE! DİYEBİLECEK MİYİZ?</p>
+<p>Pazar günü bu satırları kaleme aldığım sıralarda, ordu.<br />
+Bu Referandum öylesine bir önem taşıyor ki, sonuç “EVET”  de çıksa, “HAYIR” da çıksa 13 Eylül de ve sonrasında Türkiye’de bazı taşlarından yerinden oynayacağı kesin.<br />
+Toplum olarak buram buram yaşadığımız Referandum Kampanyasına şöyle bir göz atarsak, dCumhuriyet tarihinin belki de en önemli “Referandum” oylaması devam ediyemokratik yaşamımız adına hiçte umut verici şeyler söyleyemeyiz.<br />
+Son derece kırıcı, hatta hakarete varan söylemlerin ortalıkta uçuştuğu, çoğunluğun neyi neden oylayacağını bilemeden sandığa gittiği bu “Referandum”, toplumumuzda öylesine bir kamplaşmaya neden oldu ki, korkarım gelecek günlere yansıyacak olan etkisi, Referandum’un sonucundan çok daha fazla konuşulacaktır.<br />
+Kampanya sırasında Referandum’un içeriği topluma çok fazla anlatılamadı veya özellikle anlatılmadı.<br />
+Özellikle de tasarıyı hiçbir uzlaşma zeminine taşımadan, TBMM’de ki sayısal üstünlüğünü kullanarak yasalaştıran iktidarın sözcüleri ve Sayın Başbakan da, EVET verilmesini isterken dahi, yasa içeriğini anlatmak yerine başka yöntemleri kullandı.<br />
+Sayın Başbakan’ın meydanlarda ki topluluklardan referandum’da “EVET” vermelerini isterken, daha çok 12 Eylül Darbesi veya 27 Mayıs İhtilalinde yaşanan acıları gündeme taşıyarak destek araması da bunu kanıtlıyordu.<br />
+Artık bunları konuşmanın bir yararı kalmadı. Sizler bu yazıyı okurken nasıl olsa sonuçlar belli olmuş olacak ve yaratacağı sonuçlar çok daha önem kazanacaktır.<br />
+Şu anda sonucun EVET mi? HAYIR MI? Olduğunu bilmiyorum. Ama sonuçlar ne olursa olsun yaratacağı bazı gelişmelerin bu sonuçlarla değişmeyeceğine inanıyorum.<br />
+Ama bunların hepsinden çok daha önemlisi, siyasi söylemlerin toplumda yarattığı gergin ortamın bir an önce dağıtılması ve toplumun büyük bir kesiminde oluşan “KORKU” ortamının giderilmesidir.<br />
+Şimdi Referandum sonrasında oluşacak bu muhtemel gelişmeleri sizlerle paylaşmak istiyorum.<br />
+Referandum’dan EVET çıkarsa, Sayın Başbakan’ın da belirttiği gibi çok daha geniş kapsamlı bir “Anayasa Değişikliği Paketi” gündeme getirilecektir. Değiştirilemez ilk dört maddesi dışında ki tüm Anayasa’nın tamamının yeniden düzenlemesine kimsenin bir itirazı olacağını da sanmıyorum. Ne var ki, EVET sonucu, İktidarın yeni düzenlemeyi de uzlaşma zemini aramadan dayatmayla kabule zorlayacağı endişesini güçlendirmektedir.<br />
+Referandum’dan “HAYIR” çıkarsa, daha geniş kapsamlı bir anayasa değişikliği gündeme gelebilecektir. Ama farkı, tüm siyasi partilerin destek vereceği ve gerçek bir uzlaşmanın sağlanacağı, AB kıstaslarına uygun, toplumun tüm kesimlerince kabul görecek yeni bir “Anayasa Taslağı” olacak olmasıdır.<br />
+Bu Referandum Türk Demokrasi’sine yeni ve umut veren bir lider kazandırmıştır. Bu yeni lider Sayın Kemal Kılıçdaroğlu’dur. Sayın Kılıçdaroğlu, biraz da şansın ve olağanüstü şartların oluşması, daha da önemlisi topluma korku salan yasadışı bir dinleme olayı ve iğrenç bir şantaj sonrası Sayın Baykal’ın istifası ile bu şansı yakalamıştır. Bu Referandum ise O’na Liderlik özelliklerini kanıtlama olanağı sağlamıştır. Artık Halkın benimsediği ve sahiplendiği kendinden birisi olarak kabul ettiği yepyeni bir Lider vardır. İnanıyorum ki, Sayın Kılıçdaroğlu önümüzde ki döneme imzasını atacaktır.<br />
+Referandum’un bir başka önemli sonucu da, CHP’NİN küllerinden yeniden doğması ve siyasi arena da alternatif haline gelmesi olmuştur. Böylece, Türk siyasi yaşamı adına büyük bir tehlike olarak gösterilen “Alternatifsizlik” ortadan kalkmıştır. Sayın Kılıçdaroğlu’sun Başkanlığında ki CHP, gündeme getirdiği yeni projeler, cesur açılımlar, halkın ayağına götürülen siyaset anlayışı, toplumsal sorunlara yaklaşımı, gençleri ve kadınları hatırlaması ile umut haline gelmiştir. Kısacası Referandum en çok CHP’ye yaramış ve yaklaşan Genel Seçimler öncesinde AKP’ye karşı ciddi bir rakip doğmuştur.<br />
+Bu Referandum’un sonuçları arasında, bir de demokrasimiz adına oluşan iki “Ayıplılar Grubu” vardır. Birincisi, etnik hesaplarla Referandumu boykot edeceğini açıklayan BDP, ikincisi de benim “GEZGİNLER GRUBU” olarak adlandırdığım, bir gün daha fazla tatil yapmak adına sandığa gitmeyecek olanlardır. Bu grup, çocuklarının, torunlarının yarınlarda yaşayacakları muhtemel olumlu veya olumsuz gelişmelerde rol almaktan kaçınmışlardır. İleride yaşanabilecek olumsuzluklarda, bunun vicdani sorumluluklarına katlanmak zorunda kalacakları da, bir başka “Referandum” gerçeği olarak belleklerde kalacaktır.<br />
+Yazımın son bölümünde ise, son günlerde gündeme oturan bir dizi açıklamanın, önümüzde ki günlerde de çok tartışılacağını ve bunun ne anlama geldiği sorularına cevap aranacağının altını çizmek istiyorum.<br />
+Referandum’dan 3–4 gün önce Hükümetin dört önemli Bakanı’nın, “Referandum’dan HAYIR” çıkmasının sonucu KÂBUS olacaktır” şeklinde ki sözler, açıklamayı gerektirmektedir.<br />
+Yoruma açık bu sözlerin önümüzde ki günlerin gündemini oluşturacağı da bir gerçektir.<br />
+Referandum sonrası günlerin korkuları dağıtması ve tüm ulusumuz açısından güzellikler getirmesi dileğiyle… 12 Eylül 2010<br />
+SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0497-referandum-a-karsi-i-lkeli-ve-i-lkesiz-i-ki-boykot.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0499-12-eylul-darbesinin-oncesi-ve-sonrasi-ile-dunun-darbe-saksakcilarinin-bugun-ku-sahte-demokratligi-1-bolum.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

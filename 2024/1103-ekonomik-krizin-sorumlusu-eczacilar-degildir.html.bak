@@ -1,0 +1,344 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Ekonomik Krizin Sorumlusu Eczacılar Değildir.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Ekonomik Krizin Sorumlusu Eczacılar Değildir.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2024
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+1103
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>EKONOMİK KRİZİN FATURASI ECZACILARA KESİLEMEZ<br />
+Bugün iktidarda olan AKP’ ne ilk iki seçimi kazandıran en önemli şey, sağlık alanının tamamında olmasada, önemli düzeltmelerin yapılmasıydı.<br />
+Ne var ki, 22 yıllık iktidarlarının son on yılında uyguladıkları yanlış ekonomik politikalar sonucu, ülkemizin milli kaynakları büyük bir savurganlıkla yok edildi.<br />
+Bunun yanında iktidarın siyasi tercihi önceleyerek liyakati dışlaması sonucu, ülkemiz önceki krizlerle kıyaslanamayacak derece de çok daha büyük bir ekonomik çıkmaza girdi.<br />
+Tüm bu nedenlerle sağlık alanına da yeterli destek verilemedi.<br />
+Siyasi İrade, ekonomiyi düzeltmenin yolu olarak bugün yaşanan ekonomik krizin sorumlusu olmadığı halde, faturayı halkımıza keserek onları daha da yoksullaştıracak uygulamaları gündeme getirdi.<br />
+Yoksullaşan halk yaşam kavgası verirken, siyasi irade ve çevresindekilerin savurganlığı önleyici bir çabasının olmaması da, ekonomik krizi körüklemiştir.<br />
+Devletin ve ailelerinin büyük bir emek vererek yetiştirdiği doktorlarımıza “Giderlerse gitsinler” Diyerek adeta ülkemizden kovan siyasi irade, şimdi de halkın en kolay hizmet aldığı eczaneler ve aile hekimlerini yaşamsal sorunlarla baş başa bırakacak uygulamalara yönelmiştir.<br />
+Bu yazımda ilaç yokluğu ve eczacıların sorunlarına değineceğim. Sonraki yazımın konusu ise, aile hekimleri olacaktır.<br />
+ECZACILAR SAĞLIKTA HALKIMIZIN EN BÜYÜK GÜVENCESİDİR.<br />
+Eczacılara ve aile hekimlerine yapılan her haksız uygulama, aslında halkımızın tedavi olma hakkına darbe vurmaktır.<br />
+Son bir ayda eczacılar ve aile hekimleri, yapılan haksızlıklara tepki göstererek kendilerine yapılan haksızlıkları kamuoyu ile paylaştıkları için bunlara girmeyeceğim.<br />
+Ama eczacıların toplum için ne kadar önemli olduğunu anlatmaya çalışacağım.</p>
+<p>Bu konuya değinmeden önce iki önemli ismin tarihe geçen sözlerini hatırlatmak istiyorum.<br />
+Bunlardan ilki, ülkemizin kurucusu Mustafa Kemal Atatürk’e aittir. Atatürk diyor ki, “Ekonomik bağımsızlığını kaybeden ülkelerin, bağımsız yaşaması mümkün değildir.”<br />
+Bir diğeri ise, ilaç krizleri konusunda ülkemizin en büyük ilaç sanayisi olan Eczacıbaşı İlaç AŞ. Başkanına aittir. 1980’ li yıllarda yaşanan ilaç krizlerinden birisinde Eczacıbaşı, “İlaçta sorun yoktur, sorun sağlık bakanlarıdır.” Demişti.<br />
+56 yıllık bir eczacı olarak üzülerek söylemek isterim ki, eczacılar sağlık bakanlığı tarafından her zaman üvey evlat muamelesi görmüştür.<br />
+Görevleri olmadığı halde, angarya sayılacak hasta katılım paylarını eczacılara aldıran Sağlık Bakanlığı, eczacıların en haklı taleplerini kulak ardı etmektedir.<br />
+İlaçta sorunlar 1980 de ki 12 Eylül darbesi sonrası başlamıştır. 1980 öncesi yürürlükte olan İlaç Fiyat Kararnamesine göre, ilaç fiyatları dünyadaki en düşük ilaç hammaddesi fiyatı esas alınarak belirlendiği için yerli ve ithal ilaçların fiyatı bakanlığın belirlediği aynı fiyatlarla satılmaktaydı.<br />
+Bu uygulama ile yerli ilaç sanayi giderek gelişmekte ve çok sayıda yerli ilaç fabrikası ilaç üretmekte, Gebze’de kurulan ANSA AŞ. İse, ürettiği önemli antibiyotikler dahil birçok ilaç hammaddesini ihraç etmekteydi.<br />
+ANSA’NIN ürettiği ilaç ham maddelerinin de katkısı ile yerli ilaç üretimi, ülkemizin ihtiyacının %40’ nı karşılar hale gelmişti.<br />
+O yıllarda ülkemiz, henüz “Patent Yasasını” kabul etmediği için yerli ilaç sanayimizde ve hammadde üretiminde büyük bir gelişme yaşanmaktaydı.<br />
+Ne var ki hızla gelişen yerli ilaç sanayimize ilk darbeyi,1980 sonrası iktidara gelen ANAP Hükümetinin atadığı ekonomist kökenli Sağlık Bakanı Mehmet Aydın vuruyordu.<br />
+Sağlık Bakanı ilk iş olarak yürürlükteki İlaç Fiyat Kararnamesini kaldırarak, ilaç fiyatlarının ilaç firmalarının beyanları esas alınarak belirlenmesini yürürlüğe koyuyor ve yabancı ilaç tekellerinin istedikleri yüksek fiyatlarla ilaç satmalarının yolunu açıyordu.<br />
+Bu karar, uluslararası ilaç tekellerinin aldıkları yüksek fiyatlarla, yerli ilaç üreten firmaların rekabet gücünü de kırmıştı.<br />
+Yerli ilaca 2. Darbeyi, 1995’ de kabul edilen “Patent Yasası” vuruyor ve yerli ilaç fabrikalarının büyük bir kesiminin kapanmasına zemin hazırlıyordu.<br />
+Patent yasası nedir ve yerli ilaç sanayimizi nasıl etkilemiştir?<br />
+Patent Yasası, büyük ARGE harcamaları ile yeni bir ilaç bulan firmaları koruyan bir yasadır.<br />
+Bu nedenle, buldukları yeni bir ilaç için patent alan firmalara belli bir patent hakkı ödemeden, hiçbir firma bu ilaç hammaddelerini içeren ilaç üretemez ve satamaz.<br />
+Uluslararası ilaç tekellerinin büyük ARGE harcamaları ile buldukları yeni ilaçlar için patent hakkı istemeleri, bir noktaya kadar haklarıdır.<br />
+Ancak, dünya da “İlaçta Patenti” kabul edecek ülkelere, 4-5 yıl gibi bir geçiş süresi tanınıyordu.<br />
+Sorunda buradaydı.<br />
+Çünkü o yılarda Türkiye yine büyük bir ekonomik krize girmiş ve Tansu Çiller’in Başbakan olduğu hükümet, IMF’den borç alarak ülkemizi yönetmektedir.<br />
+Ne yazık ki ekonomik direncimizin kalmadığı bu sırada, İMF destekli uluslararası ilaç tekellerinin bastırması ile Tansu Çiller Hükümeti, ülkemize tanınması gereken 4-5 yıllık geçiş süresini göz ardı ederek, bir kapitülasyon anlamındaki “İlaçta Patent Yasasını” Kabul ediyordu.<br />
+Oysa, o yıllarda Avrupa’nın en büyük ilaç hammaddesi üreticilerinden olan İspanya’nın beş yıllık geçiş süresini tamamlayarak patent yasası kabul etmesi ile ilaç hammaddesi pazarında Türkiye büyük bir şans yakalamıştı.<br />
+Eğer Türkiye’de bu geçiş süresi hakkını kullanabilseydi, yerli ilaç sanayimiz güçlenecek ve patent yasasından fazla etkilenmeyecekti.<br />
+Ne yazık ki, ekonomik bağımsızlığını yitiren ülkemiz, İMF’ e boyun eğerek ilaçta patenti koşulsuz kabul etmek zorunda kalmıştı.<br />
+Sonuçta halkımıza daha düşük fiyatlarla ilaç sağlayan çok sayıda yerli ilaç fabrikasının kapanması ile uluslararası ilaç tekelleri rakipsiz kalmıştı.<br />
+Patent Yasasının kabulü sonrası Genel Sağlık Sigortası kapsamında hizmet veren SGK, altından kalkamayacağı büyük ödemelerle karşı karşıya kalmıştır.<br />
+SONUÇ;<br />
+Yerli ilaç sanayimizin bırakın gelişmeyi, büyük çapta yok olması sonucu, ülkemiz uluslararası ilaç tekellerine mahkûm olmuştur.<br />
+Bu arada Sağlık Bakanlığı, ekonomik krizin etkisi ile yabancı ilaç firmalarının dayattığı ilaç fiyat endeksini, günlük döviz fiyatlarının altında belirleyerek, ilaç fiyatlarını kontrol etmeye çalışmıştır.<br />
+Başlangıçta ilaç tekelleri 85 milyon tüketiciyi kaybetmemek için piyasaya ilaç dağıtımını sürdürmüştür.<br />
+Yerli ilaç üreten firmaların birbiri ardına kapanması sonucu karşısında direnecek yerli ilaç firması kalmayan uluslararası ilaç tekelleri, istedikleri fiyatları alamadığı zaman ilaç dağıtımını durdurmaya başlamıştır.<br />
+Bu nedenle, bugün ülkemizde sık sık ilaç bulamama krizi yaşanmakta ve hastalar bazı hayati ilaçlara ulaşamamaktadır.<br />
+Hastaların ihtiyacı olan ilaca ulaşmasındaki son nokta olan eczacılar, hiçbir sorumlulukları olmadığı halde halkımızla karşı karşıya kalmaktadır.<br />
+Eczacılar asıl görevleri olan hastaların ilaç ihtiyacını karşılarken, halkımızın sağlığı konusunda da en güvenilir danışmanlarıdır.<br />
+2023 yılı ocak ayında ülkemizde yaşanan ve 11 ilimizi yerle bir eden deprem felaketinde, 11 ilimizin ve ilçelerinin yardıma ilk koşan eczacılardı.<br />
+Depremin ertesi sabahından itibaren altı ay süre ile deprem bölgesindeki il ve ilçelerde seyyar eczaneler açıp, tüm bölgelerden eczacı meslektaşlarımızı nöbetleşe bu eczanelerde görevlendirerek depremzedelere ücretsiz ilaç temin eden de, Türk Eczacıları Birliği ve bölge eczacı odalarıydı.<br />
+Özet olarak söylemek gerekirse,<br />
+Ülkemizde yaşanan ilaç bulunmaması krizinin baş sorumlusu eczacılar değil, tutarlılığı olan ve değişmez bir ilaç politikası oluşturamamış olan tüm dönemlerin siyasi iktidarlarıdır.<br />
+Bu nedenlerle, ülkemizde sık sık yaşanan ilaç ve ekonomik krizlerin bedelini her defasında eczacılara ödetmek, asıl sorumlu olan Sağlık Bakanlığı’nın hedef şaşırtmasıdır.<br />
+Yeterli akademisyen öğretim üyesi ve laboratuvarları olmayan eczacılık fakülteleri açılmasına onay vererek, eczacı olabilme donanımına sahip olmayanlara diploma verilmesi ile eczacılık mesleğinin yıpratılmasına zemin hazırlayanda, ülkemizin sağlık politikalarını belirleyenlerdir.<br />
+Türk Eczacılar Birliği, Bölge Eczacı Odalarının da desteği ile yapılan bu haksızlıklara dün olduğu gibi bugün de gerekli direnişi gösterecektir.<br />
+Ülkemiz çıkarlarının öncelik aldığı uygulamaları görmek dileğiyle iyi haftalar…04.12.2024<br />
+Ecz. SADİ SUBAŞI<br />
+e- http://www. hedefhalk. com</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="1102-halkin-i-radesini-temsil-etmesi-gereken-tbmm.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="1103-samsunspor-alt-yapisina-haksizlik-yapmayalim.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

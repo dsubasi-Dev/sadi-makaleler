@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Türkiye&#x27;de Türk, Samsun&#x27;da Samsunlu Olmanın Zorluğu</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Türkiye&#x27;de Türk, Samsun&#x27;da Samsunlu Olmanın Zorluğu
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2008
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0392
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>TÜRKİYE’DE TÜRK, SAMSUN’DA SAMSUNLU<br />
+OLMANIN ZORLUĞU.</p>
+<p>Türkiye’yi ve Samsun’u anlamak gerçekten zor iş. Geçen akşam bir dost meclisinde son günlerin olayları üzerine sohbet ederken, aramızda bulunan önemli konumda ki bir dostumuz çok fazla üzerinde durmadığımız ve belki de çok farkında olmadığımız bir gerçeği dile getirdi. Dostumuz, Osmanlıdan başlayarak Cumhuriyet Türkiye’sinde de süren bir kimlik belirtme çarpıklığına açıklık getirerek, “bu ülkede yaşayan insanlara nereli olduğunu sorduğunuzda en az söyledikleri kimliğin, TÜRK olduğudur” Diyordu. Sözlerini, “Çünkü bu soru sorulduğunda alacağınız cevap genellikle, ya Çerkez’im, Laz’ım, Kürt’üm, Gürcü’yüm veya Mübadil’im olacaktır” diye sürdüren dostumuz, Atatürk işte bu nedenle “NE MUTLU TÜRKÜM DİYENE “ deyimi ile bu ülke insanına “TÜRK’ÜM diyebilme” özgüvenini yerleştirmeyi amaçlamıştır, diyordu.<br />
+Gerçekten de dünyanın hiçbir yerinde kendi öz ve üst kimliği ile sorunu olan bir başka ülke yoktur. Son dönemlerde bir takım odaklarca bilinçli olarak Türk kimliği yerine Türkiyeli kimliği yerleştirilmeye çalışılmaktadır. Fransa’da, Fransalıyım, Almanya’da Almanyalıyım veya İngiltere’de İngiltereliyim diyen duydunuz mu?  Oysa sayısını artırabileceğimiz bu ülkelerin hiçbirisinde yaşayanlar, bizim gibi ortak bir kökenden gelmeyip, bir kısmı çeşitli sömürgelerden gelmiş değişik kökenli insanlardır. Ama bu ülke insanları sorulduğunda Fransız’ım, Alman’ım, İngiliz’im cevabını verir.<br />
+Bu çarpıklığın altında yatan en büyük neden, Ülkemiz üzerinde oynanan oyunun bir sonucudur. Batı dünyası, tarihin hiçbir döneminde Orta Asya’dan Anadolu’ya geçen Türkleri sevmemiştir. Haçlı seferleri ile başlayan bu Türk düşmanlığı değişik rollerle sürdürülmektedir. Amaç bu son Türk Devleti’ni de bölüp parçalamaktır.<br />
+Oynanan oyunun bir sonucu olarak bu ülkeyi aşağılamak veya gerçekleri çarpıtarak kendi ülkesini zan altında bırakmak, ödül kapısı olmuştur. Son günlerde kendilerini “Aydın!” olarak ilan eden bir grup, yeni bir ihanet oyununu sahneye koymuştur. Oyunun adı “Ermenilerden özür diliyorum” kampanyasıdır. Ruslarla olan savaş ve işgal dönemlerinde tamamen savaş koşullarında Ermeni milislerin Türkleri, Türklerin de Ermenileri öldürdüğü olaylar olmuştur. Bu konuda kesinleşmiş bir hüküm yokken, tarihin karar vermesi gereken bir olayı, kendi ülkesini mahkûm edecek bir imza kampanyasına dönüştürmek bu ülkeye ihanettir, bu ülke üzerinde hesabı olanların amaçlarına servis yapmaktır.<br />
+Ey! İmza sahibi aydın! Eğer senin ailende bu pis işe bulaşmış birisi varsa, kendi adına özür dile. Yoksa sana benim ve milletim adına özür dileme hakkını kim ve nasıl verdi? En azından ben kendi adıma böyle bir hakkı sana ve senin yandaşlarına vermiyor ve bu imza sahiplerini şiddetle kınıyorum.<br />
+Haklarında, “Yahudi Soykırımı” suçlaması kesinleşmiş Almanya’da dahi, ülkesini açıkça suçlayan hiçbir Alman göremezsiniz. En azından susma hakkını kullanırlar.<br />
+Diyecek söz bulamıyorum. En çok üzüldüğüm de bunların kendilerini “ Aydın” olarak tanımlaması. Yazıklar olsun.<br />
+Türkiye için geçerli olan başlıkta ki tanımlama, Samsun içinde geçerlidir. Samsun metropol bir kenttir. Çok değişik illerden göç almış ve çok değişik kültürleri bünyesinde toplamıştır. Bu kentte yaşayan ve Samsun’da yaşamaktan mutlu olan herkes, doğum yeri neresi olursa olsun Samsunludur. Bu konuda hiç kimsenin farklı bir bakış açısı olamaz ve olmamalıdır. Ancak hala nerelisin sorusuna, üç nesildir Samsun’da yaşayan ailelerin Samsun’da doğmuş çocuklarının dahi zaman zaman Samsunluyum yerine bir başka il veya ilçenin adını verdiği görülmektedir. Bu çarpıklığın sorumluları ise, geçmişte siyaset yapmayı bölgecilik anlayışına dayandıran yerel yöneticiler ve siyasetçilerdir.<br />
+Son dönemlerde bir başka kabullenilmesi güç yaklaşımlara şahit oluyoruz. Bazı köşe yazarı arkadaşlarımız, bu kent adına çaba harcamış, bu kentin çıkarlarını korumak adına risk üstlenmiş insanların birikimlerini yok sayan tavırlar ve yorumlar yapabilmektedir. Bu en azından bu insanlara haksızlıktır.<br />
+Bu kentin geçmişinde yaşananları, kimlerin bu kent için neler yapıp, neleri yapmadığını dahi doğru dürüst araştırmadan ve öğrenmeden olaylara yorum getirip bu insanları zan altında bırakılması kabul edilemez.<br />
+Bunları yazmamın nedeni geçtiğimiz hafta içersinde gündeme oturan “ DOĞAL GAZ ÇEVRİM SANTRALİ” Yapımı ile ilgili gelişmelerdir. Bilindiği gibi daha önce Çarşamba’nın  “Durusu” yöresinde kurulmaya çalışılan, ancak yöre halkının tepkisi ve yasal sorunlar çıkması nedeniyle Terme’ye kaydırılan doğalgaz santralinin yapımcısı olan BORASCO Firması sahibi, geçtiğimiz hafta içersinde Samsun’da bir dizi tanıtım ziyaretleri yaptı. Yine geçen hafta bu santralle ilgili “ ÇED RAPORU” için gerekli olan “HALKI BİLGİLENDİRME TOPLANTISI” yapıldı.<br />
+Bu gelişmeler yaşanırken Samsun’un önemli iki yerel gazetesinin genel yayın yönetmeni bu santrali köşe yazılarına taşıdı. Her iki gazeteci dostum da bu santrali Samsun için bir şans olarak vurgularken, işadamının çevreci olduğunu ve tarımsal sanayi yatırımı da yapacağını yazdı.<br />
+Ancak, her iki yazar da yazılarının sonunda yaptıkları, “Tabii ki birileri çıkıp ta şevkini kırmazsa” ve “Bakalım; üzerine en son vazife olanlardan kimler isyan bayrağı açıp konuşmaya başlayacak hemen?” yorumları amacını aşmıştır.  Bu yorumlar en azından Samsunlunun sağlığı ve Türkiye’nin geleceği olan Çarşamba Ovası’nın zarar görmemesi uğruna yıllarını verenlere karşı yapılmış en büyük haksızlıktır.<br />
+Kim bu şevki kıracaklar? Kim bu en son konuşması gerekenler acaba?<br />
+Bunlar, gazetecilikte duayen konumunda olan ve Samsunluya dayatılan dünyanın terk ettiği MOBİL SANTRAL olayını başından beri izleyen gazeteci dostumun da yakından tanıdığı, ÇEVRE MÜHENDİSLERİ ODASI, ZİRAAT MÜHENDİSLERİ ODASI, ELEKTRİK MÜHENDİSLERİ ODASI, TABİPLER ODASI, BARO, SAM-SEV ve KESK Başkanlarından oluşan “ÇEVRE BİRLİKTELİĞİDİR”. Bunlarsa şevk kıracak ve en son konuşması gerekenler, söyleyecek söz bulamıyorum.<br />
+Üzülerek söylemek gerekirse bu kente sahip çıkmak, bu kent insanın sağlığını, çocuklarımızın geleceğini korumak suç haline geldi. Eğer böylesine ağır ve bilimsellikle bağdaşmayan yorumlar yapılabiliyorsa, benim de içinde olduğum ÇEVRE BİRLİKTELİĞİ adına bizim de aşağıda ki sorulara cevap beklemek hakkımızdır. Bu yazar arkadaşlardan birisinin gençleri eleştiren bir yazısında kullandığı, “Bilgi sahibi olmadan fikir sahibi olmak” söylemini de hatırlatarak soruyorum;<br />
+Daha 15–20 gün önce Elektrik Mühendisleri Odası’nın düzenlediği toplantıya katılmadan ve o gün açıklanan “SAMSUN’UN ENERJİ SORUNU VE TRAFO YETERSİLİĞİ” raporunu okumadan, nasıl Samsun’a gelecek yatırımcıların “enerji yetersizliği” sorunundan bahsedilebiliyor?<br />
+Bu kurulun, Samsun’a ve Samsunluya zarar vereceği bilimsel raporlarla kesinleşmiş ve yargı kararı ile perçinlenmiş kirli yatırımlar dışında bir yatırıma engel olduğunu söyleyebilirmisiniz?<br />
+ÇEVRE MÜHENDİSLERİ ODASI’NIN 15.12.2008 tarihinde, SAMSUN TABİPLER ODASI’NIN 19.12.2008 tarihinde yayınladığı bilimsel verilere dayalı basın açıklamasını okusaydınız da bu yorumu yapar mıydınız?<br />
+Bundan 20 gün önce TMMOB tarafından düzenlenen “KENT SEMPOZYUMUNDA”, Samsun’un geleceğine ışık tutacak 36 adet bildiri sunan bu kuruluş temsilcilerinin Samsun sevgisinden şüphe duyuyor musunuz?<br />
+Tam yedi yıldır Samsunluya dayatılan kirli yatırımlara karşı bu kuruluş başkanlarının bilimsel ve hukuki yoldan yılmadan sürdürdüğü mücadeleyi yakından izleyen ve her platformda destek veren yerel basınımız, bu kuruluş temsilcilerinin herhangi bir yanlışına şahit olmuş mudur?<br />
+ÇEVRE BİRLİKTELİĞİ bugüne kadar, “DOĞRU YATIRIMIN ANCAK DOĞRU YER SEÇİMİ ” mümkün olduğunu savunmuştur. O nedenle bu santrale de yer seçimi açısından itiraz etmektedir.<br />
+Bu santrallerin işsizlik sorununa çözüm olacağı söylemi, ilgili firmanın kendi tanıtım broşüründe de belirtildiği gibi en fazla 100 kişi ile sınırlı olsa da, ovaya vereceği zarara değer diye düşünüyor musunuz?<br />
+ÇED raporu için gerekli olan “Halkı bilgilendirme toplantısını” tesisten ve asıl zarar görecek yöreden 18 Km. uzakta yapılmasını ve muhtarların gerekli duyuruları yapmadığını neden sorgula mıyorsunuz?<br />
+Bu gerçekler ortadayken bu insanların suçlanması insafla bağdaşmamıştır.<br />
+SAMSUN HALKINA ZARAR GELMESİNİ ÖNLEMEK, GELECEĞİMİZ OLAN OVA VE AKARSULARIN KORUNMASI ÇABASI İLE 8 YILDIR EĞİLMEDEN BÜKÜLMEDEN, TAMAMEN YASAL ÇERÇEVEDE DİRENEN VE RİSK ÜSTLENEN BU KURULUŞLARI YATIRIM KARŞITI GÖSTERMEYE KİMSENİN HAKKI YOKTUR.<br />
+Bu kent bizimse, bu kentte yaşamayı sürdüreceksek, bu kente sahip çıkmak herkesin, en başta da kenti yönetenlerin görevidir diye düşünüyorum.<br />
+Aksi halde, MOBİL SANTRALLERİN Samsun’a konuşlandırıldığı dönemde ki senaryoları yeniden yaşamaya mahkûm olmamız kaçınılmazdır. Samsunumuz adına en doğru işleri yapmak için bir arada olmak ve bilgi paylaşımında bulunmak yapılacak en doğru iş olmalıdır.<br />
+İyi haftalar. 20 Aralık 2008<br />
+SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0391-i-ste-size-pembe-samsun.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0394-subasi-dan-salvo.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

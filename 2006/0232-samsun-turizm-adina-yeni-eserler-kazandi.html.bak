@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Samsun Turizm Adına Yeni Eserler Kazandı</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Samsun Turizm Adına Yeni Eserler Kazandı
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2006
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0232
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>SAMSUN TURİZMİ ADINA İKİ ÖNEMLİ KAZANÇ..</p>
+<p>Karadeniz bölgesi son zamanlarda turizm firmalarının önem vermeye başladığı bir bölgemiz. Deniz mevsiminin kısa olmasına rağmen, özellikle Doğu Karadeniz Bölgesi, yaylaları ile önem kazanmaya başladı. Trabzon’da ki  Sümela Manastırı ise yabancı turistlerin yeni cazibe merkezlerinden birisi haline geldi. Batımız da ki  Sinop da doğal ve rüzgar almayan plajları ile Samsun’dan dahi yerli turist alabiliyor.<br />
+Turizm ülkelerin bacasız fabrika olarak tanımlanan en önemli döviz kaynağı haline geldi. Son yirmi yılda verilen teşvikler ve yer konusunda sağlanan kolaylıklarla da Ülkemiz önemli bir turizm gelirine sahip oldu. Her yıl artan bu turizm gelirleri Ege ve Akdeniz Bölgesi illerini, başta Antalya olmak üzere çok geliştirdi.<br />
+Üzülerek söylemek gelirse turizmin böylesine geliştiği, Karadeniz Bölgesinin dahi bu gelirden pay almaya başladığı bir dönem de, çoğu konuda olduğu gibi Samsun hemen, hemen hiç yararlanamayan kent olma şanssızlığını sürdürüyor. Turizm  firmalarının düzenlediği Doğu Karadeniz gezi programlarının karayolu ile yapılıyor olması  ve  bu turların Samsun’dan geçmek zorunda olmasına rağmen  ne yazık ki, Samsun tur programları içersinde yer almıyor. Bilindiği kadarı ile tur otobüsleri kent dışında bir otelde konaklıyor ve sabah erkenden Doğu Karadeniz bölgesine doğru yola çıkıyorlar. Bu firmaların haklı olabilecek gerekçeleri de, Samsun da gezdirebilecekleri önemli bir yerin olmayışıdır.<br />
+Samsun olarak ilimiz de bulunan önemli ören yerlerini düzenleyerek, yollarını yaparak bir türlü öne çıkartıp adını duyuramıyoruz. Hiçbir kente kısmet olmayacak 19 MAYIS kenti olma şansımızı dahi kullanamıyoruz. Havza gibi Tanrının bir armağanı olan termal enerjiyi yeterince değerlendiremiyoruz. Teşvik alma şansını da kaçırınca  sanayi yatırımlarının gelişme olanağı da kalmayan Samsun’umuzun, gelişmekte olan Karadeniz turizminden mutlaka pay alması gerekmektedir. İşte bu konuda son bir yılda önemli kazanımlar ortaya çıktı. Bunları çok iyi değerlendirmeli ve Karadeniz Turizm rehberine sokabilmeliyiz. Tur programları içersine Samsun’u aldırabilmeliyiz. Buraları gezdirmeden ve meşhur Samsun pidesini yedirmeden tur otobüslerini Samsun’dan geçirtmemenin yollarını bulmalıyız.<br />
+Nedir bu yenilikler? Biraz bundan söz etmek istiyorum.<br />
+Büyük Önder Atatürk’ün , laik ve çağdaş Türkiye Cumhuriyetinin kuruluşu ile sonlanan milli mücadeleyi başlatmak üzere ilk adımı 19 Mayıs sabahı  Samsun’a çıkarak atması, Samsunlulara büyük bir onur kazandırmıştır. Böylece Samsun çok önemli de bir konum kazanmıştır. 19 Mayısta Samsun’a çıktığında konakladığı ve milli mücadelenin ilk planlarını yaptığı o zaman ki adıyla Mantika Palas oteli, daha  sonra Samsunlular tarafından satın alınarak 1940 yılında müze haline getirilmiştir. Uzun yıllar Büyükşehir Belediyesi  bünyesinde hizmet veren GAZİ MÜZESİ 1994 de Kültür Bakanlığına devredilmiştir. Oldukça yıpranan ve bakımsızlık nedeniyle ziyaret edenleri üzen Gazi Müzesi Samsun Valiliğinin çağrısı üzerine Atakum Rotary Kulübü tarafından yeniden yaratılmıştır. 22-Mayıs 2006 pazartesi günü saat 16.00 da yapılacak törenle hizmete açılacaktır. Samsun da ki diğer Atatürk müzesi de buraya taşınarak ve alt katta bulunan salon da müze bünyesine katılarak Samsun’a ve Ata’mıza yakışır bir hale getirilmiştir. Atatürk  ve 19 mayısta Samsun’a birlikte çıkan  18 silah arkadaşına ait mum heykeller de bulunması gereken yere, yani bu müzeye getirilmiştir. Kapı öne alınmış ve modern bir dış aydınlatma ile GAZİ MÜZESİ artık turist çekecek bir müze haline getirilmiştir..<br />
+19 Mayıs tarihine anlam kazandıracak 2. kazanım ise Bandırma Vapuru Açık Hava  Müzesi “ dir. Geçmiş dönem Valilerimizden İlyas Aksoy tarafından gündeme getirilen ve Valiliğimiz ile Büyükşehir Belediyemiz tarafından yaptırılan Bandırma Vapurunun birebir aynısı Doğu parkta konuşlandırılmıştı. Bu yıl içersinde Büyükşehir Belediyemiz burayı bir açık hava müzesi haline getirdi. Çevre tamamen perforje malzeme ile koruma altına alındı. Gemi içerisi yeniden düzenlendi. Çevre düzenlemesi yapıldı. Kurtuluş Savaşında bu topraklar uğruna şehit verdiğimiz Samsunlu gençlerimizin isimlerinin de yer aldığı, kurtuluş savaşının anlatıldığı 60 metre boyunda  seramik bir pano yaptırıldı. Burası da artık yerli ve yabancı  turist çekebilecek bir merkez haline geldi.<br />
+Büyükşehir Belediye Başkanlığı Kalkanca sırtlarında bulunan kral mezarlarının olduğu yeri gezi alanı haline getirdi. Batı parktan buraya  bir teleferik bağlantısı kuruldu.<br />
+En azından bu üç eser dahi, artık turizm firmalarının  Samsun’u gezi programına almak için yeterli olmalıdır. Yapılacak iş bunları Türkiye’ye ve turizm firmalarına tanıtabilmektir. Bu konuda Samsun Kültür ve Turizm İl Müdürlüğüne ve Samsun Turizm Derneğine büyük görev düşmektedir. Sayın müdüre Yüksel Ünal ve sevgili dernek başkanı Mustafa Yavuz’un gereken desteği vereceğine inanıyorum. Buraları her iki kurumun tanıtım broşürlerine girmeli ve tüm Türkiye’ye dağıtılmalıdır.<br />
+Samsun çevresinde bulunan önemli ören yerleri mevcuttur. Bundan sonra buralara da önem verilmeli ve sorunlu olan  yolları yapılarak buraları da öne çıkartılmalıdır.<br />
+Bu güzel eserlerin Samsun’a kazandırılmasın da katkısı ve emeği olanlara teşekkürlerimi sunuyorum.<br />
+Dünyanın en güzel insanları olan tüm annelerimizi bu özel günlerinde kutluyor ve onlara saygılarımı sunuyorum.<br />
+Bu gün benim ve meslektaşlarımın da  “  14 Mayıs Eczacılık Bayramı “ Çok büyük özveri ile çok zor koşullarda halkımıza sağlık hizmeti veren sevgili meslektaşlarımı  kutluyor, onlara da sevgilerimi sunuyorum.<br />
+İyi haftalar.. 14-MAYIS-2006</p>
+<p>SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0231-bilimsel-gozle-samsun-gercekleri-2bolum.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0233-19-mayistan-gunumuze-turkiye-ve-samsun.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

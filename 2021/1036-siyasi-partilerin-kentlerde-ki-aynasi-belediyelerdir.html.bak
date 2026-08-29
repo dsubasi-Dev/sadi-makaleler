@@ -1,0 +1,320 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Siyasi Partilerin Kentlerde ki Aynası Belediyelerdir.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Siyasi Partilerin Kentlerde ki Aynası Belediyelerdir.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2021
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+1036
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>SİYASİ PARTİLERİN KENTLERDE Kİ AYNASI BELEDİYELERDİR.</p>
+<p>İster erken yapılsın, isterse normal tarihi olan 2023 de yapılsın, Türkiye Seçim ortamına girmiş gözükmektedir. Bu seçimler Türkiye adına her zamankinden çok daha büyük anlam taşımaktadır.<br />
+Çünkü ülkemiz son iki yılı “Başkanlık Sistemine” geçilmesi ile tek başına her türlü kararı alabilme yetkileri ile Cumhurbaşkanı olan Sayın Recep Tayyip Erdoğan olmak üzere, 20 yıldır O’nun Genel Başkanı olduğu AKP İktidarı tarafından yönetilmektedir.<br />
+Bu seçimlerin çok büyük önem taşımasının nedeni de ise, 20 yıldır süren bu yönetim kadroları ile ülkemizin Türkiye Cumhuriyet tarihinin en büyük ekonomik çöküntüsü ile karşı karşıya kalmış olmasıdır.<br />
+Yoksulluk, yolsuzluk ve işsizlik rakamları, Cumhuriyet döneminin en yüksek seviyesine ulaşmıştır. Muhalefet bu olumsuzlukların sorumlusu olarak AKP iktidarını ve Devlet Başkanlık Modelini göstermekte ve yeniden ama güçlendirilmiş parlamenter Sisteme geçilmesini önermektedir.<br />
+Bunun cevabı, seçmen oyları ile belirlenecektir. Ya, iktidarın yaptıklarını tüm olumsuz gelişmelere rağmen onaylayacak veya iktidarı değiştirecektir.<br />
+Bu seçim bir anlamda, “Başkanlık Modelinin” devamı veya “Güçlendirilmiş Parlamentere” geçişin oylanması anlamına da gelecektir.</p>
+<p>Bu açıklamadan sonra başlıkta vurguladığım yapılacak seçimlerde belediyelerin önemi konusunda ki düşündüklerimi paylaşmak istiyorum.<br />
+Bilindiği gibi AKP’ nin son yıllarda büyük illerde oy kaybının artması üzerine 2014 yılında Büyükşehir Yasası çıkartılmıştır.<br />
+Bu yasa ile 30 ilin “Büyükşehir” yapılması sonucu, 16220 köy ve 1050 beldenin illere ve ilçelere bağlanması ile yapılacak yerel seçimlerde kırsalda ki seçmenlerin de Büyükşehir Belediye Başkanı seçimi için oy kullanması sağlanmıştır.<br />
+Böylece o günden bu yana Büyükşehir Belediye Başkanlığı seçimleri özel bir anlam kazanmış ve siyasi partilerin ilk hedefi büyükşehir başkanlıklarını kazanmak olmuştur.<br />
+Nitekim 31 Mart 2019 tarihinde yapılan son yerel seçimlerde 30 büyükşehrin en büyük 11’ inde Büyükşehir Başkanlıklarını CHP adayları kazanması ile önümüzde ki seçimlerin önemi daha da artmıştır.<br />
+Çünkü Türkiye’nin 2020 sayımlarına göre nüfusu 83 milyon 614 bin, CHP’ nin kazandığı 11 Büyükşehrin (İstanbul, Ankara, İzmir, Antalya, Adana, Mersin, Aydın, Eskişehir, Hatay, Muğla, Tekirdağ) nüfusu da, 37 milyon 944 bindir.<br />
+Bunun açıklaması, CHP’ nin kazandığı 11 Büyükşehrin toplam oy oranının, tüm Türkiye nüfusunun % 45 gibi büyük bir orana ulaşmış olmasıdır.<br />
+İşte bu nedenle yerel seçim sonuçları bir anlamda genel seçimlerin sonuçlarını da etkileyecektir.<br />
+2019’da ki yerel seçim sonuçları iyi analiz edildiğinde, çoğu zaman eleştirilen Türk seçmeninin CHP’ nin kazandığı 11 büyükşehirde oyunu son derece akıllıca kullandığı görülecektir.<br />
+Gerçek demokrasilerde, muhalefette en az iktidarlar kadar yönetimlerde sorumludur. Yani demokrasiler, iktidarı bir parti veya partilere verirken, muhalefete de iktidarları denetleme hakkı ve görevi vermiştir.<br />
+Türkiye’nin eğitim düzeyi daha yüksek bu 11 Büyükşehrin bilinçli seçmeni, Başkanlıkları CHP’ ne verirken, Belediye Meclis Üyeliklerinin çoğunluğunu da İktidarda ki AKP ve MHP üyelerine vererek, Başkanların çalışmalarının denetlenmesini sağlamıştır.<br />
+Demokrasimin gelişimi açısından bakınca seçmenin bu tercihi çok doğru olmuştur.<br />
+Ne var ki, seçmenin bu demokrasi anlayışı ile bu 11 Büyükşehirde meclis çoğunluğunu verdiği AKP ve MHP Meclis Üyeleri bunu denetim amaçlı değil, bu Büyükşehirlerin Belediye Başkanlarını engelleme amaçlı kullanmaya başlamıştır.<br />
+Çünkü bu 11 Büyükşehir Belediye Başkanının çok başarılı çalışmalara imza atmasının, o kentlerin halkında yaratacağı olumlu etkilerin bir sonra ki seçimlerde de bu Büyükşehir Başkanlarının ve onların bağlı olduğu partilerin oylarını daha da artıracağı görülmüştür.<br />
+Bu da, İktidar kanadını Büyükşehir Belediye Başkanlarının başarılı olmaması için belediye meclislerinde özel çaba harcamaya itmiştir.<br />
+Bu amaçla Büyükşehir Belediye Başkanlarının halkının beklentilerine cevap verecek çok sayıda projesini başlatabilmesi için gereken onay, belediye meclislerinde ki iktidar partilerinin çoğunluk oyu ile ret edilerek engellenmektedir.<br />
+CHP’ nin Büyükşehirleri kazanması sonrası o güne kadar geçerli olan UKOME Yönetmeliği değiştirilmiş ve Siyasi İradenin emrinde ki bakanlıklara ait üye sayısı artırılarak, UKOMELERDE’ de projeler engellenmeye başlamıştır.<br />
+Örnek olarak, İstanbul halkı taksi bulmakta zorlanırken, mevcut taksi sayısını artırmaya çalışan İstanbul Büyükşehir Belediyesinin “5000 yeni taksi” projesi UKOME 11 birleşimdir de onaylanmamaktadır.<br />
+Metro hatlarını genişletebilmek ve sayısını çoğaltmak için gerekli krediler siyasi irade tarafından verilmezken, belediyelerin dış ülkelerden sağladığı kredilere de onay verilmemektedir.<br />
+SONUÇ:<br />
+Yapılacak yeni Genel ve Yerel seçimlerde başta büyükşehir belediye başkanları olmak üzere, tüm belediye başkanlarının, hem belediyelerinin başkanlığını kazanmak, hem de üyesi oldukları partilerinin Genel Seçimlerden başarılı çıkmasını sağlamak için çok başarılı olmaları şarttır.<br />
+Ülkemizi yöneten Siyasi İradenin, gerek belediye meclisleri ve gerekse UKOME aracılığı ile muhalefet partilerine ait belediye başkanlarını çalıştırmamaya yönelik demokrasiye aykırı çabaları, özellikle eğitim ve demokrasi anlayışı daha üst seviyede olan CHP’li 11 Büyükşehirde ki seçmen tarafından tepki göreceği bilinmelidir.<br />
+Belediye başkanlarının, yönettikleri kentin halkının beklentilerini onlarla görüşerek ve onların önceliklerini dikkate alarak çalışması ve toplumun sözcüsü anlamında ki sivil toplum kuruluşları ile yakın temasta olması, artık eskisinden çok daha fazla önem kazanmıştır.<br />
+Yaklaşmakta olan genel ve yerel seçimlerde, yukarıda özetlemeye çalıştığım sorunları giderenler ile görevlerini demokrasinin ve genel ahlakın kurallarına uyarak dürüstçe yapanlar, başarılı olacaktır diye düşünüyor ve sizlerin değerlendirmesine sunuyorum.<br />
+Güzel ve keyifli geçecek bir hafta dileğiyle… 15.11.2021<br />
+Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="1035-osmanlidan-cumhuriyete-giden-surec.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="1037-turkiye-egitim-modelini-mutlaka-yenilemelidir.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

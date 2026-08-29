@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>12 Eylül Askeri Darbesinin Öncesi ve Sonrası ile Günümüzün Darbe Karşıtı Demokratların Geçmişleri - 2. Bölüm</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+12 Eylül Askeri Darbesinin Öncesi ve Sonrası ile Günümüzün Darbe Karşıtı Demokratların Geçmişleri - 2. Bölüm
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2010
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0500
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>12 EYLÜL 1980 ASKERİ DARBESİ’NİN ÖNCESİ VE SONRASI<br />
+İLE DÜNÜN DARBE ŞAKŞAKÇILARININ<br />
+BUGÜN KÜ SAHTE DEMOKRATLIĞI.<br />
+2. BÖLÜM</p>
+<p>Yazımın dün yayınlanan 1. bölümünde 12 Eylül Darbesi’nin öncesini sizlerle paylaşmıştım. 1980 öncesinde olanlar ne kadar ağıra patlamış olursa olsun darbeye destek vermek kimsenin onaylayacağı bir şey değildir. Darbe sonrası yaşananlarda bu savı doğrulamıştır.<br />
+Ancak, 12 Eylül Askeri darbesi’nin sonrasında Ülkemiz üzerinde oynanan oyun çok daha net görüldü. Bu sonucun doğmasında büyük bir uzlaşmama inadı ve aymazlığı bulunan siyasetçiler bir süre siyaset dışına itilseler de, siyasi yasakların kaldırılması ile yeniden siyasi arena ki yerlerini aldılar.<br />
+Üzülerek söylemek gerekirse, Onlar döndükleri siyasette geçmişte olanlardan hiç ders almadıkları için aynı yanlışları sonraki yıllarda da sürdürdüler.<br />
+Ancak darbe yasaları ile ülkede ki anarşiyi önleyelim denirken, ülkemizin tüm dinamikleri yok edildi. Üniversite hocaları ve öğrencilere getirilen kısıtlamalar sonucu, geleceğimiz olan üniversite öğrencileri ülke sorunlarını tartışamaz hale getirildi.<br />
+Yetişmiş siyasi kadrolara getirilen yasaklarla da siyasi bir boşluk yaratıldı. Bu boşluk yurt dışından getirilen prenslerle dolduruldu. Ülke banka soygunları ile tanıştı. Dini cemaatlerin önü açıldı.<br />
+Çıkartılan antidemokratik yasalarla ülkede yeni bir siyasi yapı oluşturuldu. Her şey, ülkemiz üzerinde oynanan oyuna uygun düzenlemelerle sürdü.<br />
+Ülkemizin çıkarları yanında yer alanlar birer birer tasfiye edilmeye başladı. Sonunda iktidarda ki koalisyon hiçbir sorun yokken, Amerika’dan gönderilen “Kurtarıcının!” Özel çabaları ile dağıtıldı.<br />
+Sonra ki gelişmeleri ise, son on yılda hep birlikte yaşadık ve izledik. Her şey Amerika’nın Orta Doğu’da ki projesi ( BOP) doğrultusunda gelişti.<br />
+Ülke çıkarlarını koruyan tüm kurumlar, “Daha çok demokrasi adına” devre dışı bırakılırken, ayakta kalan son kurum olan “Yargı da”, Referandum ile oylanan “Anayasa Değişiklik Yasası” ile vesayet altına alınma noktasına getirildi.<br />
+Tüm bunlar yaşanırken ülkemiz bu kez de “Laik düzenden yana olanlar” ve “Dindarlar” olarak ayrıştırılma noktasına getirildi.<br />
+İnsanların yatak odalarına kadar dinleme olayları yaşanmaya başladı. Telefonla konuşmak dahi korkulur hale geldi.<br />
+En azından bir kesim korku toplumu haline getirildi. Tüm bu yapılanların ise, “Daha çok demokrasi ve daha çok özgürlük” gibi çok masumane bir gerekçe ile toplumun önüne kondu.<br />
+İşte son Referandum’da, 12 Eylül Darbesi’nin getirdiği kısıtlayıcı yasalar öne çıkartılarak toplumun önüne koz olarak sürüldü.<br />
+Tüm bunlar olurken, dün darbeye alkış tutan bir kısım sahte demokrat yazar ve gazeteci, gazetelerde ve her akşam çıktıkları TV kanallarında dünü bilmeyenlerin beynini yıkamayı sürdürüyor.<br />
+Geçmişte yazdıklarını unutarak ve toplumu aptal yerine koyarak, demokrasi havariliğine soyunuyorlar. Ancak arşivleri unuttukları gibi, o dönemi birebir yaşamış olanların da bir kısmının hayatta olduğunu unutuyorlar.<br />
+Yazımın bugünkü 2. bölümünde, günümüzde toplumu yanlış yönlendiren hidayete! ( Doğru yolu bulmuş) ermiş, anlı şanlı köşe yazarlarının 12 Eylül öncesi yazdıklarından alıntıları sizlere sunuyorum. Değerlendirmesini sizlere bırakıyorum. Buyurun okuyalım;<br />
+NAZLI ILICAK; O dönemlerde köşe yazısı yazdığı gazetede,<br />
+“Komutanların verdiği muhtıra antidemokratik bir olaydır, Fakat kapsamı itibariyle birçok kişinin özlemini dile getirmiştir. Türkiye'de buhran had safhaya erişmişti." Diyor.<br />
+Yine aynı Nazlı Ilıcak:<br />
+Bir başka yazısında; "Kamuoyu anarşiden yılmıştır. Laik bir kısım aydının ihanetini görmüş, Türkiye'yi bekleyen büyük tehlikelerin farkına varmıştır” diyordu. Bir diğer yazısında ise;<br />
+"Atatürk bu toprakları 'Ne mutlu Türküm' diyenlerin yurdu yapmak istemişti. Laik bir Cumhuriyetin temellerini atmıştı. Bugün Atatürk'ün hayal ettiği noktadan çok uzaktayız. Sadece demokrasi değil, vatanın bölünmez bütünlüğü de tehlikede. Devlet sahipsizdir. Memleket uçuruma sürükleniyor. Bu gidişin sonu; iç savaştır." Diyor ve adeta askeri darbenin bağıra bağıra geldiğini duyuruyor.<br />
+Yine aynı Nazlı Ilıcak, 12 Eylül sonrası yıllarda şöyle yazıyor:<br />
+"12 Eylül memleketin birlik ve beraberliği için yapılan bir harekâttır. Felsefesi Türkiye'yi çıkmaz sokaktan kurtarmak, yozlaşmış demokrasiyi yeniden kurarak iktidarı en kısa zamanda milletin temsilcilerine devretmek olmuştur. 12 Eylül felsefesinde milli irade düşmanlığı yoktur. Sayın Evren ilk günden itibaren milli iradeye duyduğu inancı tekrarlamıştır. 12 Eylül'ün temelinde demokrasiye inanç yatıyor."<br />
+Aynı Nazlı Ilıcak günümüzde neredeyse hemen her akşam bir başka kanalda ve yazdığı Sabah Gazetesi’nde ki köşesinde, 12 Eylül Darbesini yapanların yargılanmasının bayraktarlığını yapıyor ve yukarıda ki yazılarında övgüler dizip davetiye çıkarttığı 12 Eylül Darbesi’ni tu kaka ilan ediyor! Evren’in yargılanması çağrıları yapıyor.</p>
+<p>Nice devrimcilerin peşine takılıp can verdiği bir zamanların ünlü devrimci ve solcusu ÇETİN ALTAN, darbeden hemen sonra köşesinde şunları yazıyordu:<br />
+Ordu yönetime geldiği sabah ben Montpellier'de (Fransa'da) bir dostumun evinde misafirdim. Olayı ajans haberlerinden duyan O bana bildirdi. Ağzımdan çıkan söz şu oldu: “Başka çaresi yoktu” Diyor ve ekliyor. Oysa bir hafta önce L'express dergisinin muhabiri, “Sence ordu iktidara gelir mi?” Diye sormuştu. Ben de, “Herhalde gelmeyecek. Gelse, şimdiye kadar yüz kez gelmesi gerekirdi” Demiştim."<br />
+Her dönem iktidarda olanlarla kol kola olmayı becermesi ile ünlü MEHMET BARLAS, bakın o günlerde neler yazmış;<br />
+"Ey dünya kamuoyu... Gerçekten tükenmişti nefesimiz. Ne can, ne mal güvenliği kalmıştı ülkemizde. Silah sesleri, barut kokusu ve akan kanlar adeta bir iç savaş görüntüsü veriyordu. Ey dünya kamuoyu... Türkiye'de Devlet, vatandaşlarını kurtarmaya çalışıyor."<br />
+Aynı Mehmet Barlas, 12 Eylül'ün birinci yıldönümünde coşuyor: "En yüksek rütbeli komutanından en kıdemsiz erine kadar Türk Silahlı Kuvvetlerine şükranlarımız sonsuzdur. Kendilerine gösterilen geleneksel özene layık olduklarını bir kez daha kanıtlamışlardır. Kaybolan can ve mal güvenliğini yeniden sağlamışlar, tehlikeye düşmüş olan ülke bütünlüğünü tekrar tartışılmaz bir kavram haline getirmişlerdir. Devlete ve ulusa bundan büyük bir hizmet olur mu? Diyor ve ekliyor, “Aradan bir yıl geçmiş, devlet kurtarılmıştır. Bu yüzdendir ki, 12 Eylül'ün birinci yılı dolarken, öncelikle şükran duygularımızı seslendiriyoruz.<br />
+Yine Mehmet Barlas yazıyor: "12 Eylül yönetiminin siyasal başarısının sebepleri sayılamayacak kadar çoktur. Halk 12 Eylül öncesindeki kargaşadan bıkmıştı. 12 Eylül bunu sona erdirdiği için kamuoyunun duygularına tercüman oldu."<br />
+Mehmet Barlas, bir başka yazısında yine döktürüyor: "12 Eylül'ü Türkiye'yi kana boğulmaktan ve iç savaştan kurtardığı için yürekten destekliyoruz. 12 Eylül'ün başarısı, demokrasinin başarısı olacaktır."<br />
+Mehmet Barlas, bu kez 12 Eylül'den üç yıl sonra yazıyor: "14 Eylül 1980 günkü yazımda, 12 Eylül'ün başarısı demokrasinin zaferine dayanacak” demiştim. Türk Silahlı Kuvvetleri'nin 12 Eylül'ü mecbur kaldığı için yaptığını biliyorduk. 12 Eylül'ü yapanlar sözlerini tutmuşlardır."<br />
+Mehmet Barlas, bakın 12 Eylül'den altı yıl sonra da neler yazmış:<br />
+"12 Eylül kaba bir rejim olarak değil, yangını söndürmeyi amaçlayan bir hareket olarak geldi. Amacına ulaştı ve şimdi yok artık."<br />
+Ve bir yıl sonraki yazısında: "Aradan yedi yıl geçti. Bir bugünün Türkiye'sine, bir de o günlere bakın. Ve lütfen, Allah rızası için, o günlerin yeniden geri gelmesine çanak tutmayın.<br />
+Breh breh, iltifatlara bakar mısınız?<br />
+Bu Mehmet Barlas geçen hafta içersinde, bugün yargılanmasını istediği Kenan Evren’i Boğazda ki villasında ağırladığını kabul etmek zorunda kaldı.<br />
+Geçmişte bunları döktüren Mehmet Barlas’ın bu yazılarını okuyanların, günümüzde yazdığı Sabah Gazetesi’nde ki köşesinde yazdıklarını ve TV kanallarında ki konuşmalarını izleyenlerin neler düşüneceğini, doğrusu çok merak ediyorum.<br />
+O dönemlerin ünlü solcusu Cumhuriyet Gazetesi yazarı,<br />
+HASAN CEMAL bakalım o dönem de neler döktürmüş;<br />
+12 Eylül'den dört yıl sonra yazıyor: "Şimdi getirelim 12 Eylül öncesini gözümüzün önüne. Diyalog ve uzlaşmanın, hoşgörünün ve demokrasinin buna benzer kavramlarının politika sahnemizde kapladığı yer ne kadardı? Ne yazık ki o dan-dunlu ortamda esamesi bile okunmuyordu bu kavramların."<br />
+Bu yazarların hepsi o günlerde askeri yönetime alkış tutmak için sıraya girmişti. Hepsi övgüler düzüyordu. Şimdi koşullar değişti, iktidar değişti, gazetecilerin çoğu da günün modasına uyup değişti ve dönüştü!<br />
+Şimdi hep birlikte yeni önderlerine(!) övgüler düzüyorlar. Dün ak deyip göklere çıkardıklarını, bugün hiç utanıp sıkılmadan yerin dibine batırıyorlar.<br />
+Günümüzde bu gibilerin yazılarının etkisinde kalanlar da savcılıklara başvurup "Darbe yapan Evren yargılansın" diye 30 yıl sonra dilekçeler yağdırıyorlar.<br />
+Biraz gerilere dönüp arşivler karıştırılsa, kim bilir geçmişin o tozlu arşivlerinde daha ne yazılar çıkar? Evren ve ekibine destek yazıları yazan daha nice yazarlara ve yazılara rastlanır!<br />
+İşte size günümüzde demokrasi havarisi geçinen ve o dönemleri yaşamayan genç kuşağın beynini yıkayan bazı "Gazeteci (!)" manzaraları. Ne diyelim? Yazıklar olsun geçmişini unutanlara.<br />
+Bir yazıklar! Olsun da, o dönemi yaşayıp o günün koşullarını bildikleri halde, hala bu yazarları okuyup, dinleyip onlara destek veren aymaz aydınlara!<br />
+Dilerim ki, Tanrım bu ülkeye bir daha darbe yaşatmaz ve bu tür yeni aymazların ortaya çıkmasına izin vermez.<br />
+İyi haftalar. 26 Eylül 2010                                               SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0499-12-eylul-darbesinin-oncesi-ve-sonrasi-ile-dunun-darbe-saksakcilarinin-bugun-ku-sahte-demokratligi-1-bolum.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0501-bilgi-kirletilmesi-ve-degisen-degerler.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

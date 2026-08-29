@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Haddimi Bilmem Gerekiyormuş…</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Haddimi Bilmem Gerekiyormuş…
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2017
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0610
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>HADDİMi BİLMEM GEREKİYORMUŞ..</p>
+<p>Böylesine tatsız bir konuya köşemi ayırmak zorunda kaldığım için siz değerli okuyucularımdan öncelikle özür diliyorum.<br />
+Geçen hafta yazdığım köşe yazım “Sunuş’un” başlığı “Samsunspor’a Ayıp Ediliyordu”<br />
+Köşe yazımda önceki hafta Büyük Samsun Oteli üzerinden başlatılan polemikte Samsunspor’a haksızlık edilmiş ve bu yönde köşe yazıları yazılmıştı.<br />
+Ben de bu konuyu köşemde işleyerek, bu köşe yazılarından alıntılar yaparak taraf dahi olmadığı bir konuda Samsunspor’un eleştirilmesini ve konuyla hiç ilgisi olmayan şeylerin de Samsunspor’a zarar verecek şekilde gündeme taşınmasını bir Samsunlu olarak içime sindiremediğimi vurgulamıştım.<br />
+Yazım da isim dahi kullanmamıştım. Ertesi gün, yazımda ki sözleri kullanan iki gazeteci arkadaşım cevap haklarını kullandı. Buna kesinlikle itirazım olamaz.<br />
+Ama bu arkadaşlardan Sayın İsmail Başaran, sanıyorum yazımı tersten okumuş olmalı ki, sözünü dahi etmediğim şeylerden bahsederek hakaret etmiş ve hedef göstererek” Haddimi bildirmekten” Söz etmiş.<br />
+Benim yazımda, iki kent arasına nifak soktuğumu belirten bırakın tek bir cümle, bunu çağrıştıracak tek kelime yoktur.<br />
+Yazımda, Sayın İsmail Başaran’nın Trabzonlu olduğuna dair de tek cümle yoktur. Kaldı ki, Trabzonlu olmak o kentin insanları için bir onurdur.<br />
+Yazmadıklarımı yazmışım gibi yazarak ve gerçek dışı konuları öne çıkartarak yazısını bu çarpıtmanın üzerine kurgulamak gazetecilik etiğiyle nasıl bağdaşır anlamak mümkün değildir. Yapılan en hafif deyimle insafsızlıktır.<br />
+Benim anlayış tarzım, bu tür bir yazıya aynı uslupla cevap vermeye izin vermez.<br />
+Ben elini sıkıp birlikte çay içtiğim, aynı gazete de köşe yazısı yazdığım kişiye hakaret edemem, tehdit de etmem.<br />
+Benim için, yaptığımın doğru olduğunu söyleyerek “Yazdıklarının altına ben de imza atıyorum” diyenler, çok daha önemlidir. Hele de için de gazeteciler de varsa...<br />
+Ben bu kentin insanıyım. Bu kentte Sadi Subaşı oldum. Bu kente ve gözbebeği olan Samsunspor’un eleştirilmesine değil, haksızlık yapılmasına sessiz kalamam, kalamazdım da.<br />
+Benim bugüne kadar neler yapıp, neler yapmadığım konusunda da kişiler değil, ancak toplum karar verir.<br />
+Önceki köşe yazılarıma kendisine ait “Kuzey Haber” internet gazetesinde yer verdiğini yazan bu arkadaş, keşke söz edilen bu yazıma da yer verseydi de okuyucular iki yazıyı arka arkaya okuyup değerlendirme şansı bulsaydı. Bunu yapmaktan neden kaçındığının yorumunu da siz okuyuculara bırakıyorum...<br />
+Not: Yazımı okumayanların değerlendirme yapabilmeleri için www. hedefhalkgazetesi. com. veya www. denizeczaneoptik. com sitelerinden yazımı okumalarını öneririm.</p>
+<p>HARİKA BİR ORATORYO GÖSTERİSİ</p>
+<p>Bildiğiniz gibi geçtiğimiz 10 Kasım’da ülkemizin kurucusu Büyük Önder Mustafa Kemal Atatürk’ün aramızdan ayrılışının 74. yılıydı.<br />
+O’na duyulan özlemin her geçen gün biraz daha artması nedeniyle bu yıl çok daha anlamlı törenlerle anıldı. Bunlardan birisini de, kurulalı daha iki yıl olan 19 Mayıs Rotary Kulübü tarafından düzenlenen anma töreniydi.<br />
+Tören de, kulüp üyelerinden oluşan bir grup, “Ulusunu Tutsaklıktan Kurtaran Mustafa Kemal’in Destanı” isimli Oratoryoyu sundular.<br />
+Sanki hepsi birer profesyoneldi. Şener Aksu’nun yazdığı oratoryayı Hasbi Ocaktan yönetiyordu.<br />
+Dedem Korkut rolünü oynayan Volkan Ateş oyunu başından sona kadar sürükleyen kişiydi.<br />
+Atatürk rolünde Onur Çubukçu oynarken, şiirleri okuyan Mine Türkoğlu, Nurten Hun, Engin Tanrıverdi, Selda Gençdur, Ali Serkan Bilgin, Aytaç Havuk, Gökhan Öcal oratoryoya can veriyordu.<br />
+Trampeti ile Oya Kademoğlu, türküleri ile Bahçeşehir Koleji müzik öğretmeni Begüm Akaç, bağlaması ile Şahin Gümüş oratoryoya renk katıyordu.<br />
+Meslekleri doktor, avukat, eczacı, eğitmenlik olanlarla işadamlarından oluşan grup, muhteşem sunumdan sonra ayakta alkışlanıyordu.<br />
+O gece orada olup bu güzelliği izleme ve bu sunum eşliğinde Büyük Önder Mustafa Kemal Atatürk’ü anma fırsatını bulan birisi olarak bu arkadaşlarımı yürekten kutluyorum. Bir teşekkürde kulüp Başkanı Oya Kademoğlu’nun şahsında, 19 Mayıs Rotary Kulübü’nün tüm üyelerine. İyi ki, varlar..<br />
+İyi haftalar.. 18. 11. 2012</p>
+<p>SADİ SUBAŞI</p>
+<p>Sayın Subaşı, daha doğrusu Sadi Ağabey, Bu ülke karsısındakine haddini bildirmekle kendisini yükümlü sayan densizlerle dolu değil mi? Bu isi kendisine görev addedenler etrafımızda çokça yok mu? Gayet güzel yazılar yazıyorsun. Zevkle okuyorum. "Ayinsi İştir Kişinin Lafa Bakılmaz". Öncelikle sen kiralık kalemşor değilsin. Haddim olmayarak " It Ürür Kervan Yürür." Devam. Saygılar selamlar. Atilla Usta</p>
+<p>Değerli Sadi Ağabey,<br />
+Her iki yazınızı da okudum. Yazınızdan alınganlık gösteren gazeteci dostların Samsunun sorunlarına sahip çıkan bir anlayışa sahip olmadıkları belli.<br />
+Yaşadıkları, ekmeğini kazandığı şehre sahip çıkmak yerine samsunda doğsa dahi hala baba memleketine sahip çıkma saplantısından kurtulamamışlar.<br />
+Samsunlu kendi şehrine ve takımına sahip çıkmazsa gelir Trabzonlusu, Rizelisi ahkâm keser. Samsunluların şehrine sahip çıkma temennisiyle saygılarımı sunarım.<br />
+Em. Kd. Kur. Dz. Alb. RAGIP VARAN</p>
+<p>Dermansız 19.11.2012<br />
+Sn Sadi Subaşı’nın yazdıklarına sonuna kadar katılıyorum, az bile yazmış.  Zaten yaranız olmasa bu kadar gocunmazdınız. Sadi beyin Samsun ve Samsunspor için yaptıkları ortada, ya siz burada ona buna sataşmak dışında ne yaptınız, birde gazeteciyim diye geçiniyorsunuz.</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0547-evet-hayir-ugruna-harcanan-degerlerimiz.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0754-baba-olarak-anilmak-herkesin-harci-degildir.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

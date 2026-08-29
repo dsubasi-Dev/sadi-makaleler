@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Aziz Şehitlerimiz ve PKK Terörünün Gölgesinde Cumhuriyetimizin 84. Yılı</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Aziz Şehitlerimiz ve PKK Terörünün Gölgesinde Cumhuriyetimizin 84. Yılı
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2007
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0321
+
+</div>
+
+
+<div class="article-content">
+
+<p>PKK TERÖRÜ VE AZİZ ŞEHİTLERİMİZİN GÖLGESİNDE<br />
+CUMHURİYETİMİZİN 84. YILI</p>
+<p>Ramazan Bayramını ulusumuza zehir eden PKK terörü, geçen hafta içersinde de bir sınır birliğimizi basarak daha hayatının baharını yaşamamış 12 Mehmetçiğimizi şehit etti. Son bir ayda 40’ın üzerinde sivil ve askerimizin canına kıyan hain PKK militanları 84. yılını kutlayacağımız CUMHURİYET BAYRAMI’NA da gölge düşürdü.<br />
+Seksenli yıllarda üç beş çapulcunun işi diyerek olayları küçümseyen o dönemin siyasetçilerinin basiretsizliği ile azan ve son 20 yılda kundakta ki bebeleri dahi katleden PKK 35.000’i aşkın sivil ve asker vatandaşımızın canına kıymıştır. Amerika’nın çıkarları doğrultusunda uygulamaya koyduğu Büyük Orta Doğu Projesinin bir ayağı olarak Irak’ı işgal etmesi ile Kuzey Irak’ta doğan otorite boşluğundan yararlanan, hatta gizli Amerikan desteğini de arkasına alan PKK son bir yılda iyice azgınlaşmıştır.<br />
+Son baskın olayı bardağı taşırmış ve Genel Kurmay’ın aylardır talep ettiği sınır ötesi operasyon için siyasi irade nihayet düğmeye basmış ve hükümete yetki veren teskere TBMM’de kabul edilmiştir. Orta Doğu’da büyük bir oyun oynanmaktadır. Bölgede sadece Amerika’nın değil İngiltere’nin, Fransa’nın hatta Rusya’nın da dâhil olduğu birçok ülkenin ince çıkar hesabı vardır. Irak yeni bir Vietnam bataklığına dönmek üzeredir. Bu ortamda dünyanın en büyük ordularından birisi olan ordumuzun Irak topraklarına girerek PKK’nın kökünü kazıması işten bile değildir. Ancak orada bizi neyin beklediğini de görmemeye imkân yoktur. O nedenle, sivil otoritenin o bölgeyi işgal altında tutan kâğıt üzerinde ki müttefikimiz Amerika’yı, baskı altına alarak PKK temizlemeye zorlaması ve diplomatik yolları denemesi yadırganmamalıdır. Ancak, olumlu bir sonuç vermeyeceği oyalama taktiklerinden belli olmaktadır. Sayın Başbakan’ın son günlerde ortaya koyduğu sert tavır boşlukta kalmamalı ve bu diplomasi arayışları daha da uzamamalı ve kesin çözüm için askerin önü açılmalıdır.<br />
+Toplum artık gencecik çocuklarını adı konmamış bir gerilla savaşında kaybetmek istememektedir. 25 yıla varan çözümsüzlük toplumu tehlikeli bir noktaya getirmiştir. Artık şehit cenazelerinde yüreği yanık analar ve babalar isyan etmektedirler. Cenazeleri gelen şehitlerin hemen hepsinin kırsal kesimden olması, acılı insanların tepkisine neden olmaktadır. Siyasi ve maddi gücü olanların askerliği gelen çocuklarını Doğu ve Güneydoğu’ya göndermediği tartışılır hale gelmiştir. Özellikle de ülkeyi idare eden üst kademede ki siyasilerin çocuklarına “askerlik yapamaz” raporları alması ve bunların kamuoyunda tartışılması, insanların güven duygusunu sarsmaktadır. Savaşçı bir millet olan ve askerine tüm kesimlerden daha çok güvendiğini anketlerde ortaya koyan halkımızın bu inanç ve güveninin zedelenmesine izin verilmemelidir.<br />
+Büyük acılar yaşadığımız bir dönemde Cumhuriyetimizin 84. yılını içimiz buruk kutlayacağız. 10 gündür ülke ayağa kalkmış, ellerde Türk Bayrağı ile Ülkenin her tarafında düzenlenen yürüyüşler, mitingler, gazete ilanları ile hain PKK ve onun içeride ki ve dışarıda ki işbirlikçileri lanetlenmektedir. Samsun’da da sivil toplum kuruluşları ortak basın açıklamaları ile Üniversite çok büyük bir katılımla yerleşke içersinde düzenlediği yürüyüşle aziz şehitlerimizi anıyor ve PKK terörünü lanetliyor. Zaman zaman okullarından çıkan orta öğretim öğrencilerinin oluşturduğu küçük gruplar halinde terörü lanetliyor.<br />
+İşte böylesine hassas bir ortamda Valiliğimiz, 29 Ekim 2007 Pazartesi günü saat 18.00 de Uğur Mumcu parkından başlayacak ve Çiftlik Caddesi yolu ile Cumhuriyet Meydanında topluca söylenecek İstiklal marşı ile noktalanacak “ ŞEHİTLERİMİZİ ANMA VECUMURİYETİMİZİN 84. YILINI KUTLAMA YÜRÜYÜŞÜ” düzenlemiştir. Ellerimiz de sadece Türk Bayrakları ve Atatürk Posterleri olmak üzere tüm Samsunlular olarak eş ve çocuklarımızla bu yürüyüşe katılacağız. İlkadım Kenti Samsun’a yakışacak bir coşku ve kalabalıkla katılacağımıza inanıyorum. Marşlar söyleyerek, aziz şehitlerimizi anacak ve Büyük Önder’imiz Atatürk’ün 84 yıl önce kurarak bizlere emanet ettiği Laik ve Çağdaş Cumhuriyetimize nasıl sahip çıktığımızı dost, düşman herkese göstereceğiz.<br />
+Samsunlular 4 gün öncesinden yapılan çağrılara uyarak astıkları ay yıldızlı bayraklarla tüm cadde ve sokakları şehitlerimizin kanının rengine boyamıştır. Pazartesi gününe kadar asılan bayrak sayısının daha da artacağını sanıyorum. Teşekkürler Samsun.<br />
+Saygıdeğer okuyucularım, sizlerle “DÜNYA REKORUNA SAHİP DEV BAYRAĞIMIZ” ile ilgili son gelişmeleri paylaşmak istiyorum. Hatırlanacağı gibi, Cumhuriyetimizin 80. yıl kutlamaları için Şişli Belediye Başkanlığı 3.600 metre boyunda, 4,5 metre eninde Dünya Guinness Rekorlar kitabına giren bir Türk Bayrağı yaptırarak İstanbulluların katılımı ile Şişli meydanın da açmışlar ve Taksim kadar ellerde taşımışlardı. Aynı akşam Kanal D’ de canlı yayınlanan “Genç Bakış” programında rekor bayrağın o günden sonra ne yapılacağı tartışılırken canlı yayına bağlanarak, “bu şanlı rekor Türk Bayrağının Cumhuriyete giden yolun başlangıç noktası olan İlkadım Kenti Samsun’a yakışacağını” söylemiş ve Samsunlular adına bayrağı istemiştim.<br />
+Çok sayıda ilin de talebi olmasına rağmen başkanı olduğum SAM-SEV Vakfı olarak Şişli Belediyesi ile bir protokol imzalayarak bayrağı İstanbul’da teslim almıştık. Samsun’a getirerek, o yıl ki 19 Mayıs Atatürk’ü Anma ve Gençlik Spor Bayramında Uğur Mumcu Parkında açmış ve 100.000 kişiyi aşkın Samsunlunun katılımı ile Cumhuriyet Meydan’ına kadar ellerimizin üzerinde taşımıştık. Samsun ilk kez böyle bir kalabalık görüyordu. Rekor Bayrak daha sonra kentimizin en büyük mülki amiri olarak o dönem ki Valimiz Sayın Mustafa Demir’e teslim edilmişti. Rekor Bayrak daha sonra Etnografya Müzesinin bir köşesinde cam kabin içersinde muhafaza altına alınmıştı. Bu bayrak daha sonra sanıyorum Ankara Harp Okulu tarafından kullanılmış ve tekrar yerine konmuştur.<br />
+Bu bayrağı bir daha da bu kabinden çıkartmak mümkün olmamıştır. Geçtiğimiz yıllarda bugünkü gibi anlamlı bir günde bu bayrak kullanılmak istenmiş ancak, “çıkrığı kırık” gibi gerekçelerle verilmemiştir. Geçen hafta içersinde Valilikte toplantıya çağrılan çok sayıda ki sivil toplum kuruluşuna 29 Ekim Cumhuriyet Bayramı hazırlıkları ile bilgi verilmiştir. Toplantının son bölümünde söz alarak “bu bayramın şehitlerimiz ve PKK terörü nedeniyle çok büyük önem kazandığını” belirttim. Düzenlenen yürüyüşün çok daha görkemli olması için rekor bayrağımızı açmak üzere talep ettim. Daha sonra yerel basınımızda bu yönde çağrılar yapmaya başladı. Toplantıyı yöneten Vali Yardımcısı Sayın Raif Özener, konuyu Valimiz Sayın Hasan Basri Güzeloğlu’na götüreceğini, ancak çıkrığında problem olduğunu söyledi. Bunun üzerine toplantıya katılan Makine Mühendisleri Odası Samsun Şubesi Başkanı Sayın Kadir Gürkan bu konuda ki sorunu kendilerinin gidermeyi üstleneceğini söyledi. Ben de “eğer sorun giderilemezse hiç olmazsa 500 metresini kesip çıkartalım ve yürüyüşü onunla yapalım, sonrada yerine dikelim” diye ek bir öneri getirdim.<br />
+Toplantı sanırım Salı günü yapıldı. O günden sonra sonuncusu Cumartesi akşam saat 18.00 de olmak üzere en az 4 kez Sayın Özener ile görüştüm. Ne yazık ki olumlu bir sonuç alamadım. Verilmeme gerekçesini bir türlü anlamış değilim. Bu bayrak artık Samsunlularındır. Kimin verdiği, kimin getirdiği de artık hiç önemli değildir. Harp Okulu isteyince veriliyorsa bizlere neden verilmiyor? Teknik eksiklerinin rahatça giderilebileceği 5 gün kaybedilmiştir. Bundan sonra ancak kesilerek bir kısmı kullanılabilir.<br />
+Bu bayrak zaman zaman açılarak havalandırılmazsa ve koruyucu tedbirler alınmazsa ciddi hasar göreceğinden endişeliyim. Büyük bir olasılıkla bu bayrak böylesine anlamlı bir günde açılamayacak ve tüm Türkiye’ye İlkadım Kenti Samsun’da ki yaşanacak coşkuyu gösterebilme şansını kaçıracağız.<br />
+Bu Rekor Türk Bayrağını Samsun’a kazandıran SAM-SEV’in Başkanı olarak, bu bayrağın hapsedildiği yerden neden çıkartılmadığının nedenlerinin açıklanmasını ve kamuoyunun aydınlatılmasını talep ediyorum. Nedenler belli olursa, hiç olmazsa bundan sonrası için kullanılacak hale getirilebilir diye düşünüyorum.<br />
+Sizler bu yazıyı okuduğunuz da Cumhuriyet Bayramını kutluyor olacağız. Son dönemlerde sağından solundan yıpratılmaya çalışılan Laik ve Çağdaş Cumhuriyetimize nasıl sahip çıktığımızı bu bayramda göstereceğimize inanıyor ve tüm Samsunluları bayram etkinliklerine katılmaya davet ediyorum. İyi haftalar.. 28 Ekim 2007<br />
+SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0320-gerileyen-samsun-ve-siyasetteki-yeri.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0322-yerel-yoneticilerin-sorumlulugu-ve-samsun.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

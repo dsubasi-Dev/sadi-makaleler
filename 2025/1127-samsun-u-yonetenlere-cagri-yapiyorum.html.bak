@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Samsun’u Yönetenlere Çağrı Yapıyorum.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Samsun’u Yönetenlere Çağrı Yapıyorum.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2025
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+1127
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>SAMSUN’U YÖNETENLERE ÇAĞRI YAPIYORUM.</p>
+<p>Bu çağrım, Samsun’u çok daha güzel günlere taşısın diye atanmış başta Valimiz Sayın Orhan Tavlı olmak üzere, bu konuda sorumluluğu olan tüm bürokratlara, Samsunluların oyları ile seçilmiş milletvekillerimiz ile Samsun Büyükşehir Belediye Başkanımız Sayın Halit Doğan ve başta Tekkeköy Belediye Başkanı olmak üzere tüm ilçe belediye başkanlarımızadır.</p>
+<p>Sizler bu kentin sorunlarını çözmek ve Samsun’u çok daha yaşanır bir kent yapmak için görevlendirildiniz ve seçildiniz.</p>
+<p>Sayın Valim, dönemin özellikleri nedeniyle çok etkin olamayacağınızın bilincindeyim. Ama en azından bu kentin en önde gelen mülki amiri olarak üst makamlara bu yapılanların Samsunlular tarafından tepki gördüğünü iletmenizi bekleriz.</p>
+<p>Sayın Halit Doğan, Siz Büyükşehir Belediye Başkanı olarak eskilerin deyimi ile “Şehri-Emin” Olarak seçildiniz. Göreve başladığınız günden itibaren geçmiş dönemin yanlışlarını gidermeye çalıştığınızı ve şehircilik adına da olumlu işler yaptığınızı Samsunlular olarak görüyor ve takdirle izliyoruz.</p>
+<p>Bunlar için size teşekkür ediyorum. Ancak biz Samsunlular, BŞB Başkanı olarak sizden güncel belediyecilik çalışmaları yanında, bu kente sahip çıkmanızı, bu kentin geleceğini yok edecek seviyedeki yanlışlara karşı Samsun Halkını da arkanıza alarak karşı koymanızı bekliyoruz.</p>
+<p>Tekkeköy’deki yerleşim bölgesini de kapsayan Çarşamba Ovası’nın geleceği büyük bir tehditle karşı karşıya bulunmaktadır. Küresel ısınmanın giderek arttığı günümüzde, tüm dünya ülkeleri gelecekte en fazla ihtiyaç duyulacak şeylerin su ve tarım ürünleri olacağını açıklamaktadır.</p>
+<p>Su ve tarımın böylesine önem kazandığı bir ortamda Çarşamba Ovası sadece Samsun için değil, Türkiye’nin geleceği açısından da hayati bir önem taşımaktadır.</p>
+<p>Bu gerçeklere rağmen, bu ovamız kural tanımayan sanayi kuruluşları tarafından özellikle geceleri salınan SO2 ve H2S gazlarının çok yüksek olan nem ile sülfürik asit yağmuruna dönüşerek hem ovamızın geleceğini yok etmekte hem de bölgede yaşayan çok sayıda vatandaşlarımızın kansere yakalanmasına neden olmaktadır.</p>
+<p>Şimdi de yapılan bir yönetmelik değişikliği ile bu bölgedeki bir sanayi kuruluşunun deniz dolgusu yaparak içine zehirli atıklarını depolamasının önü açılmıştır. Bu uygulama eğer gerçekleşirse, deniz suyunun zehirli atıklarla kirletilerek her türlü canlı yaşamı bitirilecektir. Samsunlular olarak bu yanlışı mutlaka durdurmalıyız.</p>
+<p>Buna, OMÜ Çevre Mühendisliği Dekanlığı, Tabipler Odası, TMMO Çevre ve Kimya Mühendisleri Odası ile Samsunluya hizmet için kurulmuş tüm STK’lar sessiz kalamaz.</p>
+<p>Samsun Baro Başkanlığı’nın da bu yönetmelik değişikliğinin mümkünse iptali için girişimde bulunması gereklidir.</p>
+<p>Sayın dokuz milletvekilimiz, bu kente ve ülkemizin geleceğine kalıcı kötülükler bırakacak bu uygulamanın önlenmesi için en büyük sorumluluk sizlerindir.  Bu kentin ve ülkemizin geleceği için tüm kurum ve kuruluşlar bir an önce ortak güç oluşturarak, ülkemizin geleceği olan bu ovayı ve Samsun’u korumaya davet ediyorum.</p>
+<p>Eğer bugün bu direnci gösteremezsek, bu yanlışın vebali hepimizin boynunda asılı olacaktır. Ve gelecek kuşaklar, bu yanlışı önleyemeyen bizleri lanetle anacaktır.</p>
+<p>LÜTFEN HERKES ÜZERİNE DÜŞENİ YAPSIN VE BU YANLIŞI DURDURSUN. 07.11.2025</p>
+<p>Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="1126-samsun-a-yeni-bir-stat-yapimi-sart-olmustur.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="1128-cumhuriyet-ve-ataturk-sevdalisi-samsunlu-bir-ogretmen.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

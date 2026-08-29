@@ -1,0 +1,321 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Kuşatılmış Kent Samsun</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Kuşatılmış Kent Samsun
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2020
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0990
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>KUŞATILMIŞ KENT SAMSUN<br />
+Aile kökeni Samsun olmamasına rağmen, bu kentte doğmuş, üniversite ve askerlik dönemi hariç tüm yaşamını Samsun’da geçirmiş ve bu kenti seven bir Samsunlu olarak bu başlığı yazmak gerçekten çok acı.<br />
+Ne yazık ki bu acı tablo, Samsun’un yaşamakta olduğu bir gerçek. Bu başlıkla neleri anlatmaya çalışıyorum? Yazımın ilerleyen bölümlerinde bunları okuyacaksınız.<br />
+Şimdi uzun bir süredir yazılarıma neden ara verdiğimi sizlerle paylaşmak istiyorum.<br />
+Mart ayından bu yana dünya boyutunda yaşanan Cocid-19 Virüs salgınının yarattığı toplumsal moral bozukluğu ve ekonomik çöküş yanında, ben de yaz başından bu yana bazı sağlık sorunları yaşadım.<br />
+Bir yandan yaşadığım sağlık sorunları ve diğer yandan sonra ki bölümlerde anlatacağım Samsun adına yaşanan olumsuz değişimler nedeniyle, benim de direncim kırılmaya başlamış ve yazı yazma isteğimi kaybetmeye ve yazılarımı da aksatmaya başlamıştım. Bu süreçte bir anlamda da kendimle yüzleşmeye çalıştım.<br />
+Açıkçası, “Yazsam ne olacak? Kim bunları dikkate alıyor ki?” soruları kafamda uğulduyordu. Yazılarıma ara verdiğim günden beri, bu deli sorulara cevap arıyor ve yazılarıma devam edip etmeme konusunda kendimle mücadele ediyordum.<br />
+Bu süreçte, yazılarımın yayınlandığı Hedef Halk Gazetesi’nin Genel Yayın Yönetmeni Sayın Yener Cabbar, yazılarımın Samsun için önemli olduğunu belirterek yazılarımı sürdürmem yolunda telkinlerde bulundu.<br />
+Yine yazılarımı takip eden değerli okuyucularım ile Samsun adına çaba harcayan ve uzun süredir dava arkadaşlarım olan sivil toplum kuruluş yöneticilerinin de beni yüreklendiren sözleri sonucu, yeniden yazma kararı aldım.<br />
+Umarım oluşan yılgınlığı üzerimden çabuk atar ve sağlık sorunları yaşamadığım sürece yazılarımı sürdürürüm.</p>
+<p>Şimdi beni yazmaktan soğutan konulara değinmek istiyorum.<br />
+Öyle bir kentte yaşıyoruz ki, 1965 sonrası özellikle Doğu ve İç Karadeniz Bölgesi’nin kırsalından aldığı göçler sonrası Samsun, zaten zayıf olan kentlilik kimliğini giderek kaybetmiş ve sahip olduğu ekonomik ve kültürel zenginliğini de yitirmiştir.<br />
+Bu süreçte Samsun’un atanmış ve seçilmiş yöneticileri, değişik yörelerden gelerek Samsun’a yerleşen bu insanların kente uyum sağlaması yönünde hiç bir çabanın içinde olmamıştır.<br />
+Bunun da ötesinde, kentin bu göçlerle sosyal yapısı giderek bozulurken bu değişimden rahatsız olan Samsun’un varlıklı ve seçkin çok sayıda ailesi de, Samsun’a sahip çıkmak yerine, büyük bir yanlışla kentini terk ederek evlerini ve işyerlerini İstanbul’a ve tatil beldelerine taşımıştır.<br />
+Tüm bu gelişmeler sırasında çeşitli siyasi kimlikler altında 20 yıla yakın bir süreçte Samsun Belediye Başkanlığı yapan Kemal Vehbi Gül’de, Belediye Başkanlığını kaybetmemek için Doğu Karadeniz kökenli insanların oluşturduğu hemşeri derneklerine destek vererek Samsun’da ciddi anlamda bölgecilik anlayışının ve kentin sosyal yapısında ki ayrışmanın temellerini atmıştır.<br />
+İşte o günlerde temelleri atılan bölgecilik anlayışı, zaman içinde Samsun’a egemen olmuştur. Son yıllarda bu bölgecilik anlayışının Samsun’da siyaset yapabilmenin ve iş kapısının anahtarı haline gelmesi sonucu, bazı ilçelerimiz dahi kurdukları hemşeri dernekleri ile kendi ilçesinin insanlarının da söz sahibi olması ve iş bulabilmesi için kent yönetimlerine seçilebilmesi yönünde lobi çalışmalarına hız vermiştir.<br />
+Bu gelişmeler olurken Samsun adına çaba harcamak ve kentlilik bilincini oluşturma çabasına girenler, ne yazık ki Samsun halkından yeterince destek bulamamıştır. Bu nedenle Samsun’a sahip çıkmak isteyenlerin sayısı, diğer lobilere göre azınlıkta kalmıştır.<br />
+Bu olumsuzluklar sonucu, Samsun’un ve Samsun halkının çıkarlarını korumak için çaba harcayan meslek kuruluşları ile sosyal amaçlı vakıf ve derneklerde yalnız bırakılmıştır.<br />
+Son elli yılda yaşanan bu değişim ve oluşan yeni sosyal yapı, Samsun’u çıkar odaklı kuşatmış ve Samsun’u tam anlamı ile sahipsiz bir kent haline getirmiştir.<br />
+Kentin siyasi yapısı ile yönetim kadrolarını eline geçiren fanatik bölgecilik anlayışına sahip bu lobiler, kişisel zenginleşme ve siyasi çıkarlarını ön plana aldıkları için Samsun’un hiçbir sorununa duyarlı olmamışlardır.<br />
+Özellikle 1950 den bu yana hep sağ partilere oy vermiş olan Samsunlu, seçtiği ve iktidar yaptığı milletvekillerinden ve hükümetlerinden hiçbir ciddi destekte alamamıştır.<br />
+Kısacası, Samsun adeta gelişmesini engelleyen bir kuşatma altına girmiştir.</p>
+<p>Örnek mi? İşte size birkaç örnek;<br />
+1999 da Samsunlunun oyları ile seçilen Büyükşehir Belediye Başkanı, kendi ilçesi olan Çarşamba Ovası gibi “5403 Sayılı Toprak Koruma ve Arazi Kullanımı Kanunu’nu ile koruma altına alınarak Tarımsal Sit Alanı ilan edilmiş” bu ülkenin en verimli alüvyon ovasının enerji koridoru haline getirilmesinin yolunu açmıştır.<br />
+O günden sonra da onlarca zehir saçan termik santral bu ovaya doluşmuştur. Hatta Samsun’un sahipsiz bir il olduğunu anlayan yeni santral yapımcıları da hala bu ovaya yerleşmeyi sürdürmektedir.<br />
+Bu süreçte hiçbir milletvekilimizden karşı çıkışını veya “Ben bunların zararsız olduğuna kefil oluyorum” sözlerini duyanınız oldu mu? Tüm bunlar kafaları karıştırmıyor mu?<br />
+Özellikle iktidar milletvekillerinin müjdesini vermek için yarıştığı Samsun’un teşvikli iller kapsamına alınacağı haberleri de boş çıktı.<br />
+Son 50 yıllık dönemde Samsun, siyaset adına tam bir tükenmişlik yaşadı. Samsun’un “Teşvikte Öncelikli İller” kapsamına alınması gerektiğini, TBMM’de Samsun milletvekillerinin değil de, başka illerin milletvekillerinin savunduğuna tanıklık etme acısını yaşamadı mı?<br />
+İçim sızlayarak söylemek isterim ki, bugün gelinen nokta da Samsun’un 1988’den bu yana (SAM-SEV’ in Kurucu Başkanı olarak) Dillendirdiğim “Sahipsiz Kent Samsun” Sözlerim artık kesin bir anlam kazanmış bulunuyor.<br />
+Ne yazık ki, 50 yıllık mücadelem de bu imajın yıkılması konusunda ne ben, ne de benim gibi düşünenler başarılı olamadık.<br />
+Tüm bunların yanında, 50 yıldır bu kentin hak ettiği konuma gelmesi için çaba harcayan, gerek sivil toplum kuruluşlarının ve gerekse kişisel olarak STK’lar ile harcadığım büyük çabaların boşa gittiğini görmenin yarattığı hayal kırıklığını yaşıyorum.<br />
+Samsun’da yaşanan bu olumsuzlukların sorumlusu kim diye sorarsanız verilecek cevap, “Bu kent adına seçilmiş ve hiçbir sözünü tutamamış iktidar milletvekilleri ve iktidarda ki sağ siyasi partilerdir”, olacaktır.<br />
+Samsun adına her şeyin güzelleşeceği bir sürecin başlaması umuduyla güzel bir hafta diliyorum. 25.10.2020<br />
+Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0989-biyokutle-enerji-santrali-hakkinda-ki-goruslerim.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0991-deprem-felaketleri-ve-siyasi-yanlis-tercihler.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

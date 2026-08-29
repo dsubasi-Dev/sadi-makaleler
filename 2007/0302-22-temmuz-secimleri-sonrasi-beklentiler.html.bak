@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>22 Temmuz Seçimleri Sonrası Beklentiler</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+22 Temmuz Seçimleri Sonrası Beklentiler
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2007
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0302
+
+</div>
+
+
+<div class="article-content">
+
+<p>22 TEMMUZ SEÇİMLERİ SONRASI BEKLENTİLER..</p>
+<p>22 Temmuz seçim sonuçları çok şeyin yeniden değerlendirilmesine neden olacaktır. Özellikle muhalefette kalan ve meclise giremeyen siyasi partilerin yeni programlar belirlemesi ve bundan sonraki hedeflerini yepyeni bir çerçeveye oturtması gerekecektir. Tabii buna, genel başkanlık makamı da dâhil olmak üzere, tüm üst yönetimlerinde değişikliğe gitmesi ve Türkiye’nin hızla kabuk değiştiren yeni siyasi yapılanmasını iyi okuyacak genç siyasi beyinlere yer açması zorunluluğu da dâhildir. İlk değişiklik işareti de seçim sonuçlarının alınmaya başladığı ilk dakikalarda gelmiş ve DP Genel Başkanı Sayın Mehmet Ağar, ağır yenilginin sorumluluğunu üzerine alma erdemini göstererek genel başkanlıktan istifa etmiştir.<br />
+Çok partili demokrasiyi ülkemiz de uygulamaya sokan Türkiye Demokrasisinin en eski ve köklü partisi CHP’de ise, son seçimde oylarını bir miktar artırmış olsa dahi, umulan oy oranına ulaşamamıştır. 4,5 yıllık iktidar döneminde, AKP’nin zaman zaman laik düzenle ilgili olarak yarattığı endişelerin desteğini ve Cumhuriyet Mitinglerinde ki coşkulu kalabalığın oylarını arkasına almasına rağmen, CHP’nin oy oranı %20,8’de kalmıştır. Buna karşılık, AKP’nin CHP’nin iki katından çok oy alması, CHP içersinde yıllardır süren güven sorununu iyiden iyiye ortaya çıkartmıştır. Seçim öncesi CHP’ye oy vereceğini söyleyen seçmenin neredeyse yarısının, Sayın Deniz Baykal nedeniyle oylarını istemeye istemeye ve sırf laik düzene sahip çıkmak adına, biraz da zorunlu olarak vereceğini söylemesi, genel başkanlık makamı ile ilgili olarak çok ciddi bir sorunun bulunduğunu göstermeye yeter sanıyorum. Ancak, hiç kimse CHP’nin seçim yenilgisini sadece Deniz Baykal’a bağlayama yanılgısına düşmemelidir. CHP, yıllardır ana muhalefet partisi olarak iktidarların yanlışlarını iyi değerlendirerek karşı çözüm yolları üretememenin ve halka umut verecek alternatifleri sunamamanın sıkıntısını yaşamaktadır. Tabii bunun sorumlusu da, genel başkan ile birlikte yıllardır partinin üst yönetimlerini elinde tutan ve genel başkan etrafında adeta bir zırh ören, üretkenliğini ve siyasi vizyonunu yitirmiş kadrolardır. Ayrıca, buna genel başkan ve çevresinde ki kemikleşmiş kadroların, konumlarını koruma uğruna mahalle delegelerinden başlayarak, il ve ilçe teşkilatlarını kendilerinin kurşun askerlerinden oluşturması gibi parti içi demokrasiyle bağdaşmayan uygulamaları da eklenince, CHP de parti içi siyaset tıkanmıştır. Kendini yenileyemeyen, halkın beklentilerini algılayamayan ve asıl sosyal demokrat partilerin söylemi ve uygulamaları olması gereken birçok konuyu sağ partilere kaptıran CHP, sosyal demokrat kimliğini de anlatamaz hale düşmüştür. İktidarda ki AKP’de, halkın bu beklentilerini hükümet olmanın avantajlarını da kullanarak peş peşe uygulamaya koyunca, seçmenin kendisine sağlanan onlarca kolaylığa sahip çıkması ve onu korumak için oyunu riske sokmayarak iktidarda ki partiyi desteklemiş olması doğal karşılanmalıdır. Belki de AKP’ye oy verenlerin de bir kısmı, CHP seçmeni gibi istemeye istemeye oy vermiş olabilir. Son günlerde sokakta ki insanların birbirlerine en çok sorduğu ve cevap bulamadığı,          “Her iki kişiden birisi AKP’ye oy verdi, ama hiç kimse ben verdim demiyor. O halde bu oyları kim verdi? “ sorusunun cevabı da sanıyorum burada gizlidir.<br />
+Ülkemizde halk siyasetçinin önüne geçmiştir. Seçimleri bir alışveriş olarak görmekte ve kar zarar hesabı yapmaktadır. Kendisine kim yarar sağlarsa ona destek vermektedir. Doğrusu da budur. Bu seçimde de muhalefet partilerine güvenememiş, onları çözüm yolu olarak görmemiş ve elindekini de kaybetmek istememiştir. İşin özü budur. Seçim sonuçlarını muhalefet partilerinin bu pencereden görmesi ve kendi özeleştirilerini cesaretle yapması gereklidir. Aksi halde, liderleri gibi partileri de siyaseten  yok olmaya mahkûmdurlar. Artık, halkımız takım tutar gibi parti tutmamakta ve eskiden kalma, ailece bir partiye bağlı olma ve ona şartsız destek verme geleneğini terk etmiş görünmektedir.<br />
+Bu değerlendirmeler doğrultusunda DP’de lider ve kadrolarının değişim arayışları başlamıştır. Bu partide Samsun adına da sevindirici gelişmeler olmaktadır. Eski DYP Samsun İl Başkanı ve AP ve DYP misyonunu taşıyan bir aileden gelen Sayın Erdem Demirdağ DP Genel Başkanlığına aday olmuştur. İl başkanları arasında önemli bir desteğe sahip olduğu duyumlarını aldığım Sayın Demirdağ’ı, üstlendiği bu önemli sorumluluk ve cesareti için kutluyor, başarılar diliyorum.<br />
+MHP oylarını önemli ölçüde yükselterek meclise girdiği için, şimdilik sorunsuz gözükmektedir. Tek başına iktidar sloganı ile yola çıkıp % 14,5 oya razı olan MHP’de de, bir kısım partilinin genel başkanlarını hala eleştirdiği gözden kaçmamaktadır.<br />
+CHP’de ise sorun çok daha büyüktür. Kendisini genel başkandan başlayarak tepeden tırnağa yenilemek, halktan yana projeler üretmek, tabanı olması gereken işçi, köylü, öğretmen ve memurların güvenini yeniden kazanmak zorundadır. Hepsinden de önemlisi, desteğini kaybettiği ve hiç ilgilenmediği başta üniversite öğrencileri olmak üzere gençliği kazanması ve onlara yönelik söylemler geliştirmesi gereklidir.<br />
+Yaklaşık %47 gibi çok yüksek bir oy oranı ile tek başına iktidar olan AKP’nin, ilk günlerde verilen uzlaşmacı mesajlara sadık kalarak ülkeyi yönetmesi herkesin en büyük beklentisidir. İç ve dış bir yığın sorunla karşı, karşıya bulunduğumuz bu dönemde birlik ve beraberliğe her zamankinden çok ihtiyacımız vardır. Özellikle seçimler öncesi tırmanan laik düzenden uzaklaşma endişeleri, yeniden öne çıkarsa bu hem iktidar için, hem de ülkemiz için hiç beklenmedik olumsuzluları peşinden getirir. Geçtiğimiz günlerde AKP’nin yeni isimlerinden anayasa profesörü olarak tanıtılan Sayın Zafer Üskül’ün, daha hükümet dahi kurulmadan ortaya attığı “laik düzen karşıtı söylemleri ve Atatürk ilkelerinin anayasadan çıkartılması gereklidir” gibi açıklamaları, çok kişinin kafasında soru işaretleri yaratmıştır. AKP kurmaylarının, AKP’ne oy verenlerin hepsinin kendileri gibi düşündüğü şeklinde bir yanılgıya düşerek laik düzene müdahale etmeleri halinde, bilmelidirler ki, kendilerine oy veren çok sayıda seçmen de tedirgin olacak ve tür uygulamalara destek vermeyecektir.<br />
+Bu seçim, seçimlere iki ay kala başlayan kampanyalarla seçim kazanılamayacağını bir kez daha göstermiştir. AKP dışında hiçbir partinin geriye dönük uzun bir çalışma yaptığı söylenemez. Yaklaşan yerel seçimlere de şu anda AKP’den başka hiçbir parti hazır gözükmemektedir.<br />
+Ülkemizde çağdaş anlam da demokrasinin yerleşmesi açısından, başarılı olamayanın ve kaybedenin koltukları boşaltması geleneğinin yerleşmesi şarttır. Aksi halde, bugün olduğu gibi, belli bir siyasi görüşe destek verenlerin sadece kendileri değil, çocuklarının da, değişim ve şans yakalamak için liderlerin yaşlanıp ölmesini beklemesi kaçınılmaz olmaya devam edecektir.<br />
+Ülkemizin hak ettiği siyasi olgunluk seviyesine ve anlayışına erişmiş siyasetçiler tarafından yönetilmesi dileğiyle, iyi haftalar.. 29 Temmuz 2007-</p>
+<p>SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0301-22-temmuz-genel-secim-sonuclarinin-turkiye-ve-samsun-acisindan-degerlendirmesi.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0303-mobil-santraller-ve-samsun-un-sahipsizligi.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

@@ -1,0 +1,329 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Dünya Dev Ekonomik Krizle Boğuşuyor. Ya Türkiye</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Dünya Dev Ekonomik Krizle Boğuşuyor. Ya Türkiye
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2008
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0380
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>DÜNYA DEV EKONOMİK KRİZLE BOĞUŞUYOR.<br />
+YA TÜRKİYE!</p>
+<p>Köşe yazarları vardır, namları yazdıklarından önde koşar. Bunlar her dönemin nabzını iyi tutan, toplumun çoğunluğunun beklentileri doğrultusun da yazan, ekonomik krizlerin tavan yaptığı veya laiklik ilkesinin ciddi tehdit altında olduğu dönemlerde dahi “, bu ülkeye bir şey olmaz” diyecek kadar aşırı iyimserleri mutlu eden köşe yazarlarıdır. Bunların en büyük özelliği, nasıl becerebiliyorlarsa, iktidarda kim varsa onlara her daim yakın olmalarıdır.<br />
+Büyük çoğunluğunun ülke gerçekleri ile ilgilenip keyiflerini kaçırmak veya “çözüm için ben ne yapabilirim” gibi sorumluluk isteyen sorgulamalar yerine, kendilerini pembe TV dizilerinin gizem ve tutkusuna kaptıranların oluşturduğu ülkemizde, bu köşe yazarları geçerliliğini her dönem de koruyacaktır.<br />
+Bu yazarları okuduğunuzda, hem yaşama hep pozitif bakmayı ilke edinmiş dostlarınızın mutluluğunu, hem de onlar tarafından, “yaşanan ve yaşanacak sorunları” kendinize dert edindiğiniz için neden karamsar damgası yediğinizi çok iyi anlarsınız.<br />
+Bu yazar gurubu dışında bir de sayıları az da olsa, ülke gerçeklerini tarafsız ve bilinçli bir vatandaş olarak algılayıp, kalemini toplumu uyarmaya adamış köşe yazarları vardır. Bu köşe yazarları hiçbir dönem de diğerleri kadar ün kazanamamıştır. Bunların en büyük mutluluğu sanıyorum ki, yazdıklarının bir süre sonra doğrulandığını görmeleridir.<br />
+Geçmişte de basının kamplara ayrıldığı ve toplumları aydınlatma konusunda sorumluluğu çok büyük olan basının da yara aldığı dönemler olmuştur. Ne var ki, son dönemlerde bu işin ucu iyice kaçmış ve basın hızla inandırıcılığını kaybetmeye başlamıştır.<br />
+Böylesine karmaşık bir ortam da, kalemlerini patronlarının veya onların çıkarları için siyasi iktidara ram etmemiş saygın köşe yazarlarını gösterdikleri sorumlu gazetecilik anlayışı için kutluyorum. Üzülerek söylemem gerekirse bu hastalığın yerel basınımıza da sızdığını görmek beni üzüyor ve korkutuyor. Umarım yerel seçimler öncesinde bu tür yanaşmalar daha da artmaz.<br />
+Dünya çok büyük bir ekonomik krizin girdabına düşmüş bulunuyor. En güçlü ekonomiler çatırdıyor. Ülkeler ( İzlanda gibi ) çöküyor. Bir yıl öncesinden işaretleri görülen bu kriz geliyorum diyerek geldi. Bizi yönetenlere bakarsak o meşhur, “ Bize bir şey olmaz!” deyimi geçerli. Hadi hayırlısı diyelim ve bir köşe yazarından alıntılarla bazı şeyleri paylaşalım istiyorum.<br />
+Uzun zamandır yazılarını zevkle okuduğum, tarafsız ve cesur yorumları ve söylemlerinin tutarlılığı ile ekonomi yazarları içersinde öne çıkan YİĞİT BULUT’UN yazılarından ( Vatan Gazetesi köşe yazarı ) bazı alıntıları aktarıyorum.<br />
+Henüz ekonomik krizin patlamasından uzunca bir süre önce yazdığı köşe yazısının son bölümünde şunları yazmıştı;<br />
+Türkiye Cumhuriyeti’nin tarihin en ağır “ bölücü, gerici, küresel” tehdidi altında olduğunu düşündüğüm bir ortamda, Cumhuriyet tarihinde hatalar yapıldığını da kabul ederek, Cumhuriyeti eleştirenlere şunu söylemek istiyorum;<br />
+Türkiye 1923–2001 arasında “ her alanda esir alınma denemelerine” rağmen “ayakta kalmayı” başardı. 2001–2008 arasında ise “ elinde ne varsa sattığı gibi”, bırakın ayakta kalmayı, “ 1923–2001 arasında ki esir almak isteyenler” tarafından “ her alanda yönetilir” hale geldi. Olaya bu açıdan bakınca, özellikle “ yapılan toplam borcun”, 2001 sonrasında Cumhuriyet tarihinden fazla arttığı da düşünülünce ortaya çıkan çok net; Cumhuriyet’in değerlerini satıp, yok edip, ülkeyi borç batağına saplayıp sonrada “ eleştirmek”,<br />
+“ işte sizin Cumhuriyetiniz” demek çok ama çok kolay!</p>
+<p>AYNI YAZARIN SON KRİZ KARŞISINDA Kİ DEĞERLENDİRMESİ.</p>
+<p>Bir yıla yakın zamandır defalarca uyarı anlamında yazılar yazan YİĞİT BULUT, 10 Ekim Cuma günü köşesinde patlayan krize olan tepkisini  “ HANİ BİZLER ZAVALLI, SİZLER LİBERALDİNİZ! ” başlığı ile köşesine taşıyordu. (Arzu eden dostlarım yazarın bu yazısının tamamını ve önceki yazılarını “ www. vatangazetesi. com. tr “ adresinden yazarlar linkine girerek okuyabilirler. )<br />
+YİĞİT BULUT köşesinde şunları sorguluyordu;<br />
+Hani kamu bankalarını da satacaktınız?,<br />
+Hani “ özelleştirme ve liberalleşmenin” gereği kamunun küçülmesi gerekiyordu!<br />
+Hani devlet bankacılık dâhil bütün alanlardan çekilmeliydi!<br />
+Hani bunun olması gerektiğini anlamayanlar “çağdışı” kalmışlardı!<br />
+Hani “Halk Bankası’nı da kesinlikle satmak” gerekiyordu! Hatta Amerika’da son krizde batan iki banka dâhil birçok istekli vardı!<br />
+Hani “özel sektörde bankalarını” yabancılara devrederse iyi olurdu!<br />
+Hani “ Türkiye ekonomi de mucize yaratmıştı! “<br />
+Hani “borsa endeksi 55.000” idi!<br />
+Hani faizin 13’lere gerilemesi “mucizenin” ürünüydü!<br />
+Hani  “liberal sistem” mükemmel bir “süreç sonu” gerçekleşen “ eksiksiz” bir yapıydı!<br />
+Hani “Türkiye’ye giren yabancı bankalar” bir şey bildikleri için geliyorlardı!<br />
+Daha fazlasını yazmaya utanıyorum diyen YİĞİT BULUT,<br />
+bunları söyleyenler acaba şimdi “ kafalarını” kuma gömüp, şu<br />
+günler geçsin diye “dua etmiyorlar mı!” diye soruyordu.<br />
+O günlerde, bankalar satılırken, devletin kamu değerleri 3 yıllık karları karşılığı devredilirken, Halk Bankası’nın satılması gündemdeyken, “ yanlış” diye yırtınan YİĞİT BULUT’UN yazılarını hatırlıyorum.<br />
+YİĞİT BULUT yazısının son bölümünde haklı çıkmanın da verdiği güçle şöyle isyan ediyor ve,<br />
+O dönemde, “liboş” takımından birçok ekonomi bilgini arkadaş da beni, “çağdışı kalmış, küreselleşmeyi ve liberalleşmeyi anlamamış zavallı adam!” olarak nitelediler diyor. Şimdi çok gülüyorum;  Halk Bankası’nı almaya talip iki Amerikan bankası da battı! Türkiye’de banka alıp, “ Bir şey biliyoruz da geliyoruz” diyen FORTİS ve DEXİA da “ devletleştirilmedi mi?”<br />
+YİĞİT BULUT, devam ediyor; ey can dostlar, güzel “liboşlar” ; ne oldu liberal sisteme! “ yaratılan suni değeri “ kendilerinden menkul sayanlar ve bunlara gaz verenler, şimdi “ Ne oldu ” diyorlar!<br />
+Bir şey olduğu yok; sizin gibi salaklar “uçuyordu”, yere indiler!<br />
+Ve isyanını doruk noktaya çıkarıp vuruyor; HAYDİ SATIN HALK BANKASI’NI DA! NE DURUYORSUNUZ! SATIN BİR BAŞKA DEVLETİN KONTROLÜNDE Kİ YABANCI BANKAYA! TÜRK DEVLETİNDEN GİTSİN DE KİME GİDERSE GİTSİN, NE ÖNEMİ VAR! Haydi, “mükemmel” liberal sistemin gereği  “özelleştirin” !<br />
+Değerli okurlarım, bir ekonomi yazarının değerlendirmelerini ve tepkisini sizlerle paylaştım. Tabii ki yorumu size ait. Ancak benim ekleyebileceği tek şey, başımıza bugüne kadar ne geldiyse,<br />
+“ Türkiye’ye bir şey olmaz! ” saplantılarından geldi. Ülkemize güvenmemiz tabiî ki hem güzel, hem de gerekli. Ama tedbiri elden bırakmanın da çok iyi sonuçlar vermediği son krizde görüldü.<br />
+Son Söz; Türkiye gerçekten güçlü bir ülke. Yeter ki, Mustafa Kemal Atatürk’ün kurduğu Laik ve Çağdaş Hukuk Devleti ilkelerine sıkı sıkıya bağlı, namuslu, halkının çıkarlarını korumaya azimli siyasetçiler tarafından yönetilsin.<br />
+İyi haftalar. 12 Ekim 2008<br />
+SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0379-her-gecen-gun-azalan-guven-duygusu-ve-kirilan-umutlar.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0381-okuyucu-nesajlari.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

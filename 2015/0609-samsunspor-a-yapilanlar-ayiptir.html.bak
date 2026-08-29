@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Samsunspor&#x27;a Yapılanlar Ayıptır.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Samsunspor&#x27;a Yapılanlar Ayıptır.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2015
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0609
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>SAMSUNSPOR’A YAPILANLAR AYIPTIR..</p>
+<p>Bazıları için Samsunspor’u her şekilde ve her konuda acımasızca eleştirmek, onu motive etmekten daha kolaydır. Bunun son örneği de geçtiğimiz hafta içersinde yaşanmıştır.<br />
+Geçmişte de örnekleri olan acımasız bu tür eleştiriler, son günlerde Samsunspor’a sportif anlamda yapılan eleştirilere eklenince çok daha anlam kazandı. Bugün, son günlerde ki tüm hoşgörü sınırlarını zorlayan eleştirilere değinmek istiyorum.<br />
+Samsunspor’un yıllardır kalıcı bir gelire kavuşturulması düşünülür. Düşünülürde, ne zaman böyle bir konu konuşulsa birileri çıkar, varsa dahi olabilirlik şansını yazdıkları yazılarla yok ederler..<br />
+Geçtiğimiz günlerde böyle bir konu bir kez daha gündeme geldi. Özel İdare’nin bir türlü çözemediği Büyük Samsun Oteli sorunu, bu kez de “Büyük Oteli Samsunspor’a verelim” çağrısı ile tartışmalara sahne oldu.<br />
+Öncelikle şunu belirtmek isterim ki, Büyük Otel’inin kiralandığı Kuraş AŞ tarafından işletilmeye devam edilmesi ayrı bir konudur, gerekli ortam oluşursa Samsunspor’a verilmesi ayrı bir konudur.<br />
+Bu otel’in müsteciri Kuraş AŞ. tarafından işletilmesi ile ilgili olarak Özel İdare ile mahkemelik olması ve yıllardır yargının da çözememesi Devlet adına şaşılacak bir şeydir.<br />
+Bu otelin Samsun adına en azından şimdilik önemi büyüktür. Otelin kapatıldığı tarihlerde bu otelin açılmasını isteyen ve bu yönde girişimlerde bulunmuş birisi olarak bu sorunun hala çözülememiş olmasını çok yadırgıyorum.<br />
+İşin bu tarafı artık beni çok da ilgilendirmiyor. Ama geçen hafta bu otel üzerinden Samsunspor’un adı kullanılarak yapılan eleştirilerin amacını aşarak Samsunspor’a zarar vermeye başlamasını, bir Samsunlu olarak içime sindiremiyorum.<br />
+Otelin kiracısının haklı olduğu yerlerde onu savunmak ne kadar doğru ise, böyle bir talebi olmayan Samsunspor Camiasını rahatsız edecek şeylerin söylenmesi de bir o kadar yanlıştır.<br />
+Bir İl Genel Meclisi üyesinin, kiracısı ile olan sorunları bir türlü çözülemeyen Büyük Samsun Oteli’nin Samsunspor’a verilmesini önermesi ile her kafadan bir ses çıkmaya başladı.<br />
+Bazı köşe yazarları, Özel İdare ile kiracı Kuraş AŞ. Arasında yıllardır yaşanan sorunu sorgulamadan, kiracı firmayı kollamak adına, Samsunspor’un adı üzerinden Samsunspor Camiasını rencide edecek şeyler yazdılar.<br />
+Her şeyden önce Büyük Samsun Oteli’nin Samsunspor’a verilmesi önerisi Samsunspor veya Samsunspor adına konuşan birisinden gelmedi. Öneri, Büyük Samsun Oteli’nin sahibi konumunda ki İl Özel İdaresi adına İl Genel Meclisi’nin bir üyesinden geldi.<br />
+Ben olaya şöyle bakıyorum. Belli ki, İl Özel İdaresi bu sorunda çaresizlik yaşıyor. Bu çaresizlik içersinde bir meclis üyesi de, “Madem kira alamıyoruz, bu gelirden Samsunspor yararlansın “ Diye düşünmüş olabilir. Bu açıdan bakınca yasal zemini varsa öneri destek bulur.<br />
+Şartlar uygun mudur? Yasal olabilirlik var mıdır?  Bunlar tabii ki tartışılabilir. Yanlış varsa, bunlar da söylenebilir. Ama bu olayda taraf olmayan Samsunspor’a, sanki bir şeyleri peşkeş çekiliyormuş gibi göstermek veya böyle görmek en azından ayıptır.<br />
+Geçen hafta yerel gazetelerde yer alan bazı köşe yazılarında, “Kimin malını kime veriyorsunuz?”, “Karlı dağdan kar mı bağışlıyorsunuz?” gibi yorumlarla konu çarpıtılmıştır.<br />
+Hele, hele bu konuyu ele alıp, Samsunspor tesislerinin bulunduğu alanla olan sözleşmesini gündeme taşıyarak, sanki birilerini göreve davet etmenin kabul edilebilir veya hoşgörü ile karşılanacak tarafı yoktur.<br />
+Buna benzer bir köşe yazısı da, 3–4 yıl önce yayınlanmış ve Valiliğin Samsunspor’a kazandırmaya çalıştığı bir arazi için “Kimin malını kime veriyorsun” Diye yazılıp, ilgili üst makamlara duyurulunca, dönemin valisi zor durumda kalmış ve proje iptal edilmişti.<br />
+Lütfen! Bu kent sahipsiz diye, bu kadar acımasız vurmayınız. Yazıktır, ayıptır.<br />
+Bu otel de, o gün Samsunspor’a kazandırılmasına çalışılan arazide Samsun Halkı adına İl Özel İdare’nin malıdır. Samsun’un tek tanıtım aracı olan Samsunspor’da Samsun’un en önemli kurumlarından birisidir.<br />
+Şimdi bu arkadaşlara soruyorum. Eğer Trabzon’da yaşıyor ve Trabzon’da gazetecilik yapıyor olsalardı, bu yazıları Trabzonspor için yazabilirler miydi?<br />
+Bu soruya evet diyebilirler mi?<br />
+Bu arkadaşlara bir soru daha soruyorum; 3-4 yıl kadar önce Trabzon Liman İşletmesi’nin ihalesini Samsunlu bir işadamının şirketi olan Yıldırımlar AŞ. Kazanmıştı. Sonrasında olanları hatırlıyor musunuz? Ben söyleyeyim. Yıldırımlar zorlanarak kazandıkları ihaleden vaz geçirilmiş ve bu Liman’ın işletmesi 49 yıllığına Trabzonspor’a kiralanmıştı.<br />
+Yine yakın bir tarihte, bir Hidro-elektirik santral yapım ihalesi de Trabzonspor’a verilmişti. Trabzonspor bu işletmelerden sağladığı gelirlerle, kimseye muhtaç olmadan ayakta duruyor.<br />
+Amacım bu uygulamayla Trabzonspor’u eleştirmek değil. Tam tersine, hem Trabzonspor Yönetimini, hem de bu olanağı sağlayan Trabzonlu yerel yönetici ve siyasetçileri kutluyorum.<br />
+Peki, bu güzel uygulamalar yapılırken Trabzon basınında da bizimkilere benzer, “Kimin malını kime veriyorsunuz” diye bir eleştiri yazısı yazılmış mıdır? Veya yazılabilir miydi?<br />
+İşte Trabzon ile Samsun arasında ki fark bu. Trabzon her yıl Süper Lig’de şampiyonluğa oynarken, canımız Samsunspor Süper lig ile bir alt lig arasın da gidip geliyor. Ligden düşme ve çıkma rekorları kırıyor.<br />
+Ne kadar onur kırıcı bir tablo. Yazıklar olsun.<br />
+Olağanüstü zor şartlarda takım olmaya çalışan Samsunspor takımı ile onları ayakta tutmaya çalışan teknik kadro ile büyük bir cesaret ve sorumluluk örneği sergileyen Sevgili Emin Kar Başkanlığında ki Yönetim Kuruluna her koşulda destek olmak varken, her gün bir başka konuda Samsunspor’a vurmak insafsızlıktır.<br />
+Biraz daha gayret edersek, Samsunspor’u üzerinde oturduğu dolgu sahasından da attırırız.<br />
+Keşke, Samsunspor’un elinden otopark alınırken de bu kadar kararlı yazılar yazabilseydik. Top yekûn sesimizi yükseltebilseydik.<br />
+Keşke, sezon sonunda, 24 milyon TL borçla devir aldıkları kulübü federasyondan gelen 25-30 milyon TL gelirlere rağmen bir asil bir yedek oyuncu ve 50 milyon TL. Varan bir borçla terk edenler de en azından bu kadar sorgulanabilseydi?<br />
+Bu arada, Samsunspor’a ve yönetime destek vererek yaşadıkları moral bozukluğunda güç veren spor yazarlarımıza da teşekkürü borç biliyorum.<br />
+İşte “Sahipsizlik” budur.<br />
+Bu yaşananlar, bir kentin her sorununu çözebilecek “Yerel ve siyasi iradesinin” olmayışının en somut göstergesidir..<br />
+Ey! Samsun sevdalısı hemşerilerim.. Ey! Samsunspor sevdalıları.. Neredesiniz.. Nedir bu vurdumduymazlık..<br />
+Bir Samsunlu ve Samsunsporlu olarak yüreğim sızlıyor..<br />
+Ya, sizlerin? Yazık.. Hem de çok yazık..</p>
+<p>12.11.21012</p>
+<p>Fatih: "Sadi Abi yüregine saglik ellerin dert görmesin . Malesef biz memlektimizi savununca adi kafatasçilik , sovenistlik oluyor baskasi yapinca bunun adi milliyetçilik oluyor . Bu kente atanan bir tane Samsunun öz evladi bürokrat var midir Allah askina ? Kendi sehrimizde ezilen , hor görülen haksizliga ugrayan hep biz olmak zorunda miyiz ? Bu kentin en büyük markasi Samsunsporu muhtaç hala düsürenlere , elindeki tek geliri otoparki acimadan sinsice elinden alanlara , bu kentin ekmegini yiyip yillarca burada gazetecilik yapan bu kente yapilan her güzelligi oralara buralara sikayet edip Samsunun önüne engel olan , millet denizi doldurup stat yaparken burada kiyi kenar çizgisi eyyamciligini yapip oradaki stattan övgüyle bahseden , gözümüzün içine baka baka Samsuna ihanet eden herkese yaziklar olsun</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="../2014/0726-toprak-ve-tarim-tarim-yine-tarim.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0727-cocuk-can-demek-torun-i-se-yeni-yasam-demektir.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

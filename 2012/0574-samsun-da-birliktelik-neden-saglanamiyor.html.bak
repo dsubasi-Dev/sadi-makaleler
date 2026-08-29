@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Samsun&#x27;da Birliktelik Neden Sağlanamıyor.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Samsun&#x27;da Birliktelik Neden Sağlanamıyor.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2012
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0574
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>SAMSUN’DA BİRLİKTELİK NEDEN SAĞLANAMIYOR?</p>
+<p>Samsun’da yerleşmiş bir kanı vardır. Samsun’un iki yakasının bir araya gelmemesinin tek suçlusu, Samsun’da istenen birlikteliğin sağlanamamış olmasıdır.<br />
+Bu ortamın sağlanamamasının nedeni olarak da, çoğu zaman Samsun’un kozmopolit yapısı gösterilir. Ancak durum gerçekten bu kadar basit midir? Bir de bu pencereden bakalım ve birlikteliğin sağlanamamasının gözden kaçırılan nedenlerini inceleyelim.<br />
+Eğer bir kentte birliktelik sağlanması isteniyorsa, bu zemini hazırlamak ve buna öncülük etmek de birilerinin görevi olmalıdır.<br />
+Peki, kimdir bunlar?<br />
+Öncelikle kentin Valisi ve Büyükşehir Belediye Başkanıdır. Çünkü birincisi atanmıştır, devlet adına görev yapar, tüm kurum ve kuruluşların en üst noktasındadır, hepsinden önemlisi de tarafsız olmak konumundadır.<br />
+İkincisi, kentin insanlarının oyuyla seçilmiştir. Hem siyasi gücü vardır, hem de yönettiği halkın desteğini almıştır.<br />
+Sonra ki sorumlularda, halkın sözcülüğünü de yapması gereken sivil toplum kuruluşlarıdır.<br />
+Samsunumuza baktığımız da geçmişten günümüze kadar böyle bir organizasyonun öncülüğünü yapmış bir üst düzey yönetici hatırlıyor musunuz?<br />
+Zaman zaman bazılarının önemli girişimlerde bulunmaları nedeni ile sivil toplum kuruluşlarını çokta suçlayamayız.<br />
+Bu tespitleri yaptıktan sonra sıra, bu birlikteliğin sağlanamamış olmasından en çok kimlerin yakındığına ve en çok kimlerin eleştirdiğine geliyor.<br />
+İşte işin çok çarpıcı ve şaşırtıcı yanıda burada ortaya çıkıyor. Çünkü yakınanların ve bu eleştirileri yapanların başında bu ortamı sağlamakla yükümlü olanlar geliyor.<br />
+Fakat en düşündürücü olanı da, bu yakınmaların odağında bazı sivil toplum kuruluşlarının bulunmasıdır.<br />
+Söz buraya gelince sivil toplum kuruluşları konusuna daha geniş açıdan bakmak gerekir diye düşünüyorum. Çünkü birlikteliğin sağlanamamasının sorumlusu olarak  hep onlar gösterilmektedir.<br />
+Oysa, geçmişten günümüze birliktelik adına bir şeyler yapılmışsa veya en azından bazı girişimler olmuşsa, bunları yapanlarda sivil toplum kuruluşlarıdır.<br />
+Samsun’da birlikteliğin sağlanması yönünde sivil toplum kuruluşları çok önmeli projeleri gündeme taşımışlardır.<br />
+Bunların başında SAM-SEV gelmektedir. “SAMSUN KENT KURULTAYLARI” adıyla oluşturdukları platform ile Samsunlulara umut ışığı olmuşlardır.<br />
+Bir gün süren Kurultaylar da, Kentin sorunları ve çözüm önerileri platformun ortağı 15 sivil toplum kuruluşu tarafından gündeme getiriliyordu.<br />
+Kurultayların daimi üyeleri Vali, Büyükşehir Belediye Başkanı ile Ondokuzmayıs Üniversitesi Rektörünün yerel bazda değerlendirmelerini yapıyor, Samsun milletvekilleri de gündeme gelen sorunlara TBMM çatısı altında çözüm arıyorlardı. Yerel bir TV kanalı da kurultayı canlı olarak yayınlıyordu.<br />
+Her yıl eksiklerini giderek bu kurultaylar tam dört kez yapıldı. Önceleri herşey çok güzel gitti. Ancak ilerleyen yıllarda kentin eksikleri ve sorunları en üst düzeyde gündeme gelmeye başlayınca, bazı kent yöneticileri ile siyasetçiler rahatsız olmaya başladılar.<br />
+Ne acıdır ki, dördüncüsünün yapılacağı yıl Kent Kurultayları birilerinin telkinleri sonucu, bu kurultayların başından beri içinde olan bazı sivil toplum kuruluşları tarafından sabote edildi.<br />
+İşin çok daha üzücü yanı ise, Samsun’da birlikteliğin sağlanamamasından yakınanların da bu sivil toplum kuruluşlarının olmasıdır.<br />
+Sivil toplum kuruluşlarının en başarılı birlikteliği, Samsun’un başına bela edilen “Mobil Santrallerin” yapılmasına karşı oluşturulan sivil toplum platformu ve onun yürütme kurulu olan  “Çevre Birlikteliğidir.”<br />
+Bu platform başını TMMOB’NİN çektiği Samsun’un en önemli sivil toplum kuruluşlarından oluşmuştu. Uzun bir mücadeleden sonra birlikteliğin üyesi Samsun Barosu’nun çok başarılı girişimleri ile bu santrallere Danıştay kararı ile kilit vurulmuştu.<br />
+Bir başka önemli birliktelikte Samsun’a verilen bir hükümet sözünün yerine getirilmeyişi üzerine oluşturulan birliktelikti.<br />
+Yıl 2004. Tüm Karadeniz Bölgesi illeri teşvik yasasının kapsamına alınırken, sadece Samsun bu kapsam dışına itilmiş ve Samsun adeta cezalandırılmıştı. Samsunlu işadamları yatırımlarını komşu illere kaydırmaya mecbur bırakılmıştı.<br />
+SAM-SEV’İN öncülüğünde başlatılan ve 81 sivil toplum kuruluşunun katıldığı “Teşvik Birlikteliği” çok büyük kampanyalar düzenlemiş, Samsun’un neden Teşvik Yasası kapsamına girmesi gerektiğini verilerle gösteren çok detaylı bir rapor  ve Samsun’un adeta cezalandırılışını sergileyen teşvik haritası hazırlanarak Samsun Halkına ve tüm yetkililer ile TBMM’nin tüm milletvekillerine teslim edilmişti.<br />
+Bu birliktelikteliğin daha ikinci toplantısnda Samsun ticaret dünyasının düzeninden sorumlu dört sivil toplum kuruluşu birliktelikten ayrılmıştı. Ayrılma gerekçeleri ise çok çarpıcıydı.<br />
+Samsun’un yerel medyasının önemli isimlerinin de bulunduğu ikinci toplantıda, “Büyüklerimizin desteklemediği bir talebin içinde olamayız“ Diyorlardı.<br />
+Kimdi bunlar sorusunun cevabını bulmak için kimlerin son zamanlarda birliktelik olunamamasından yakındıklarına bakmanız yetecektir.<br />
+Cevabı, Devlet Bakanı Nazım Ekren’in Samsun cazibeli kent olacak sözlerini ve beklentilerini hem de Samsun’da ki bir toplantıda söndürürken, o salonda bulunma şansı verilen ve ağzını dahi açamayan sivil toplum kuruluşlarında aramak gerekir.<br />
+Kısacası, Samsun’da birliktelik oluşturulması adına sivil toplum kuruluşları hiç olmazsa bu girişimleri yapmışlardır. Başarılı olamadılarsa, bunun sorumlusu onlar değildir.<br />
+Samsun’da gerekli birlikteliğin sağlanamamasını tartışırken yerel medyanın yaklaşımına da göz atmak gerekir.<br />
+Yerel medya özellikle Mobil Santal sorununda çevre birlikteliğine destek vermiş ve sorunu sürekli gündem de tutarak sorunun çözümlenmesinde önemli rol oynamıştır.<br />
+Ancak gündeme taşımalarına rağmen Samsun’un “Teşvik Yasası” ve “Cazibeli Kentler” dışında bırakılmaları konusunda çok etkin rol oynadıkları söylenemez.<br />
+Bu arada, yerel medyanın en deneyimlisinden en amatörüne kadar kadar köşe yazarlarından gelen eleştirilere de ayrı bir yer açmak gerekir diye düşünüyorum.<br />
+Basında sık sık sivil toplum kuruluşlarının eleştirilişine rastlarsınız ama sivil toplum kuruluşlarının ne zor şartlar ve baskılar altında çalıştığına değinildiğini göremezsiniz.<br />
+SAM-SEVİN düzenlediği Kent Kurultaylarını sona erdirme kararını aldığı gün yaptığı basın açıklaması hiç bir köşe yazarımzın köşesinde yer bulamamıştır. Hiç bir gazeteci tarafından bu olay sorgulanmamıştır. Hiç bir gazete ve köşe yazarı tarafından neden? Diye sorgulanmamıştır.<br />
+Sonuç; Siyaset, sivil toplum kuruluşlarını arka bahçe yapma sevdasından vaz geçmediği, kendinden olmayanların hiç bir sözüne değer vermeyen tavrını değiştirmediği sürece, bu olumsuz görüntüyü değiştirmek zor gözülmektedir.<br />
+Toplumu yönlendirmek ve onların haklarını savunmak sorumluluğunu taşıması gereken sivil toplum kuruluşlarını yönetenler, kişisel ve siyasi beklentilerini öne çıkardığı sürece sivil toplum kuruluşlarının bırakın birliktelik sağlamayı, kendi aralarında dahi bir araya gelmeleri dahi zor gözükmektedir.<br />
+Çözüm; Samsun’un ve Samsunlunun çıkarlarının ortak payda alındığı bir ortamın sağlanması için Sayın Valimiz ve Sayın Büyükşehir Belediye Başkanımızın her türlü ön yargıyı bir yana iterek bu buluşmaya öncülük etmeleri gerekmektedir.<br />
+İyi haftalar.. 10 Mart 2012</p>
+<p>Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0573-samsun-ankara-hizli-tren-bilmecesi.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0575-19-mayis-samsunlular-tarafindan-mutlka-kutlanmalidir.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

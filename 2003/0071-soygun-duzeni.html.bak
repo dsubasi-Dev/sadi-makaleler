@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Soygun Düzeni</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Soygun Düzeni
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2003
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0071
+
+</div>
+
+
+<div class="article-content">
+
+<p>SOYGUN DÜZENİ VE ÇARESİZLİK</p>
+<p>1980 Askeri müdahalesinden sonra yeniden demokratik düzene  dönülmesi ile başlayan liberal ekonomiye geçiş dönemi gerçektende ülkemize çok önemli açılımlar getirdi. Bir çok konuda dünya ülkelerini yakaladık, hatta iletişim ve teleminikasyon konusunda olduğu gibi öne dahi geçtik. Ancak bu hızlı değişim ülkemizde ogüne kadar görülmemiş ölçüde rüşvet ve soygunların yaşanmasını gündeme getirdi. Son yirmi yılda devlet ihalelerinde ve bankalarda korkunç boyutlara ulaşan soygunlar yaşandı. Hayali ihracatlarla yapılan talanda bu işin başka bir boyutuydu. Ülkemizin dünya görüşü  değişmiş ve vizyonunu yenilemişti ama bedelini de çok ağır ödenmişti. Bu süreçte zaman zaman suçlu ilan edilerek yargı karşısına çıkanlar oldu. Ama soygunlar bütün hızı ile sürdü. Çünkü yapanın yanına kalıyordu. Hayali ihracatla vebanka hortumları ile bu fakir ülkenin öz kaynaklarını cebe indiren insanlara hesap sorulamadı. Çünkü siyaset çok kirlenmişti. Bu ülkeyi yönetenlerle yönetmeye talip olanlar, halkımızın haklarını gaspederek zenginleşen  insanların özel uçakları ile seçim gezilerine çıkabildiler. Bunda bir sakınca görmediler. Adeta bu soygunlar devlet tarafından kollanır hale geldi. Tüm bunları önlemek iddiası ile tek başına iktidara gelen bugünkü hükümette henüz bunları engelleyebilmiş değil. Bugüne kadar bu ülke insanının daha iyi şartlarda yaşamasını önleyen, çocuklarımızın geleceğini çalan bir avuç insana hesap sorulamadı. Katrilyonlarca TL. lik banka hortumlarını ödeyen devlet suçluları cezaevinde dahi tutamadı. Mal varlıklarına el koyup bu borçları onlardan tahsil edemedi. Artık bu konuda edilemedi diye de düşünemiyorum. Düpedüz bu insanlar kollandı. Bu soyguncular hala yatlarını ve uçaklarını kullanabiliyorsa , diyetini ödeyen bu millete bunu kimse anlatamaz. Neyazıkki ülkemizi soyguncuların ve adi suç işleyerek kahraman olan insanların davul zurna ile karşılandığı ülke haline getirdiler. Bugün milyonlarca genç işsiz ve çaresiz geziyorsa, işçi, memur, emekli hakettikleri ücreti alamıyorsa bunun sorumlusu bu yanlışlara siyasi, kişisel çıkar  ve hemşehrilik ilişkileri ile göz yumarak ülkemizi yönetenlerdir.<br />
+Bugün meclis gücünü eline geçirmiş ve her istediği kanunu çıkarabilecek güçlü bir hükümet var. Eğer bu suçlulara bugünde hesap sorulamazsa umudu iyice tükenen bu toplumun bir gün patlayacağını hiç kimse gözardı etmesin. Toplumun artık beklemeye tahammülü kalmadı. İşyerlerimize para istemeye gelen insanların yapısı değişti. O bilinen dilencilerin yanında gerçekten insanın içini parçalayan tipler oluştu. Kılığı kıyafeti düzgün ve dilenci olmadığı her halinden belli olan çaresiz insanlar gelip , utana sıkıla kulağımıza ''üç gündür eve ekmek dahi götüremedim, çocuklarım aç ''diye aman diliyorlar. Aç insan herşeyi yapar. Bu toplum artık hiç bir fazla yükü kaldıramıyacak hale gelmiştir. Çok şey umut edilen bu hükümet bu umutları boşa çıkartmamalıdır.<br />
+Son birbuçuk yıldır Samsun da yukarıda sözü edilen halkımızın paralarının çarçur edildiği yanlış bir yatırıma tanıklık ediyor. Bu işin altındaki çıkar ilişkilerini artık herkes çok iyi biliyor. Devlet bu yanlış yatırımı durdurup para ödemelerini kesemez ve suçluları ortaya çıkartamazsa bu işlerin düzeleceği umudumuzu da silip götürecektir.<br />
+Yazıkki bu toplum haketmediği bir yaşam biçimine mahkum edildi. Umarım çocuklarımız bu acıları daha da artarak yaşamazlar. İyi haftalar dileğiyle.<br />
+Sadi Subaşı</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0070-orman-katliami.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0072-globallesme.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

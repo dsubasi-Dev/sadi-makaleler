@@ -1,0 +1,323 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>19 Mayıs Samsunlular Tarafından Mutlka Kutlanmalıdır…</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+19 Mayıs Samsunlular Tarafından Mutlka Kutlanmalıdır…
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2012
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0575
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>SAMSUNLULAR 19 MAYIS’I KUTLAMALIDIR.</p>
+<p>Bilindiği gibi bir süre önce Milli Eğitim Bakanlığınca yayınlanan bir genelge ile 19 Mayıs kutlamaları alanlardan kaldırılarak okulların içine hapsedildi.<br />
+Bu karar ülke genelinde büyük tartışmalara neden oldu. Ama her olayda olduğu gibi zamanla bu konuda ki tepkiler azaldı ve iş kendi haline bırakılmış bir görüntü sergilemeye başladı.<br />
+Gerçi, Spor Bakanımız Sayın Suat Kılıç bir Samsun Milletvekili olarak bu bayramın Samsun’da çok daha görkemli kutlanacağını duyurdu ve bir anlamda da bu konuda ki tepkilerinde önünü kesti.<br />
+19 Mayıs’a şunun şurasında 60 gün kaldı. Henüz ortaya konmuş bir proje yok. SAM-SEV’İN önderliğinde otuzu aşkın sivil toplum kuruluşunun ortak bir çabaya girdiği biliniyor ama çok kısa sürede proje belirlenemezse, kalan altmış günlük sürenin yeterli olmayacağı endişesi yaşanıyor.<br />
+Bu arada, geçtiğimiz Cumartesi günü İl Özel İdare Genel sekreteri Sayın Aslan Karanfil bir açıklama yapmış ve bu yıl 19 Mayıs’ın eski yıllardan çok daha kapsamlı kutlanacağını söylemiştir. Bu kutlamaların bir parçası olması gereken gençlerimiz ve okullarımız bu programlarda olacak mıdır? Bundan söz edilmemektedir.<br />
+Bu açıklamaların hükümet onayı olmadığı ve 19 Mayıs Kutlama Komitesi Başkanı olarak Valilik Makamınca resmileştirilmediği sürece geçerliliği olamaz. Tam tersine sivil toplum kuruluşlarının yaptığı hazırlıkların da önünü keser diye düşünüyorum.<br />
+Siyasi otorite tarafından bu genelge ortadan kaldırılmadığı sürece, Millieğitim Bakanlığının genelgesinin belirlediği çerçeve dışında valiliğinde içinde olacağı resmi bir programın uygunabileceğini sanmıyorum.</p>
+<p>O nedenle, bu bayramı en üst düzeyde kutlamak Samsun Halk’ı için vazgeçilemez bir görev haline gelmiştir.<br />
+Çünkü, 19 Mayıs tarihi Samsun için bir markadır.<br />
+Çünkü, 19 Mayıs tarihi bir ulusun tutsak edilmeye baş kaldırışının ilk adımının atıldığı gündür ve bu adım Samsun’da atılmıştır.<br />
+Çünkü, 19 Mayıs Türk Toplumun ümmetlikten ulus olmaya geçişinin yolunun açıldığı gündür.<br />
+Çünkü, 19 Mayıs Türklerin ellerinde kalan son vatan toprağı Anadolu’yu sömürgeci ülkelere teslim etmeyeceğini tüm dünyaya haykırdığı gündür.<br />
+Çünkü, 19 Mayıs çağdaş eğitimin, laik düzenin, milli ekonominin, milli sanayinin kısacası özgür bir ulus olmanın ilkadımının atıldığı gündür.<br />
+Çünkü, 19 Mayıs, 20. yüzyılın tartışmasız en büyük lideri Mustafa Kemal Atatürk’ün çöken bir imparatorluğun kalıntılarından çağdaş Türkiye Cumhuriyetini yaratmak için işgal güçlerine karşı Kurtuluş Savaşını başlatmak üzere Samsun’a çıktığı gündür.<br />
+Kısacası, 19 Mayıs Samsunlular için onur günüdür. Samsun 19 Mayıs kentidir. O nedenle de, 19 Mayıs en kapsamlı ve en görkemli bir şekiide Samsun’da Samsun Halkı tarafından kutlanmalıdır. Bu Samsun Halkı için görev haline gelmiştir..<br />
+O halde ne yapılmalıdır? Neler yapılabilir?<br />
+1- Bu şartlarda etkinliğin sivil toplum kuruluşları şemsiyesi altında yapılması gerekebilir. Zaten bu amaçla otuzu aşkın sivil toplum kuruluşu SAM-SEV’İN öncülüğünde bir araya gelmiştir. Bu sivil toplum kuruluşları yapılacak etkinliğin liderliğini üstlenebilir. Bu amaçla “19 MAYIS’I KUTLAMA BİRLİKTELİĞİ” oluşturmalı ve de bir yürütme kurulu belirlenmeli ve öncelikle bu bayram için Samsun Halkı’nın her kesitinde yer alacağı bir program hazırlanmalıdır.<br />
+2- Program, 19 Mayıs’ın anlam ve tarihi sürecini anlatan kültürel bir sempozyum, görsel sunumlar, müzik şölenleri ve sportif etkinlikleri içerebilir.<br />
+3- Toplumu etrafında toparlayacak bir dizi etkinlik yapılabilir. SAM-SEV, 19 Mayıs kutlamaları çerçevesinde 19 Mayıs 2004 de Guinnes Rekorlar Kitabına giren 4000 metrelik Rekor Türk Bayrağını Samsun’a getirerek dev bayrak ve marşlar eşliğinde bir “Bayrak yürüyüşü” gerçekleştirmişti. Uğur Mumcu Parkından başlayan halk yürüyüşüne 100.000’ü aşkın her yaş ve her kesimden Samsunlu katılmıştı. Yerel ve ulusal basın tarafından da izlenen bu muhteşem yürüyüş Cumhuriyet Meydan’ın da hep bir ağızdan söylenen İstiklal Marşı ile noktalanmıştı.<br />
+Bu etkinliğe Samsunlu sahip çıkmış ve benim bilebildiğim süreler içersinde ki en büyük katılımlı etkinlik olarak kayıtlara geçmişti.<br />
+Bu bayrak Etnoğrafya Müzesinin bir köşesinde ki cam kabininden çıkartılarak bakımı yapıldıktan sonra programa dahil edilebilir. Bu bayrak Samsunluya emanet edilmiştir. Şimdi bu bayrağı çıkartmanın tam zamanıdır.<br />
+4- 19 Mayıs akşamı saat 20.00 de Samsun’un bir ucundan başlayarak diğer başına kadar devam edecek bir fener alayı düzenlenebilir. Bu etkinlik, Samsunlu gençlerin taşıyacağı meşaleler ve çocuk büyük her yaş ve her kesimden Samsunlunun marşlarla katılımı ile gerçekleştirilebilir.<br />
+5- Bu programın giderlerini karşılamak üzere önemli bir “Hami” sponsor belirlenmelidir. Bunun için kurulacak bir komite en kısa sürede Koç, Sabancı, Doğuş veya bir başka grupla görüşülerek böylesine onurlu bir görevi üstlenmeleri konusunda ikna edilebilir. (Bu kuruluşlar kültürel etkinliklere destek vermektedir).<br />
+Kısacası bir an önce bir yerlerden başlanmalıdır. Eğer siyasi ve yerel otoritelerin desteği ve kararı beklenirse geç kalınacak ve Samsunlu böylesine önemli bir sorumluluğun gereğini yerine getirememiş duruma düşecektir. Umarım Samsunlu böyle bir ayıbı yaşamak zorunda bırakılmaz.</p>
+<p>Bu arada bir dostuma da teşekkür etmek istiyorum. 19 Mayıs kutlamaları ile ilgili tatırtışmaların başladığı andan itibaren Sevgili Nusret Sağlam Arena’da ki köşesinin en üst kısmına her gün özel bir bölüm açtı. Bu bölümde Mustafa Kemal Atatürk’ün söylem ve öğretilerinden alıntılara yer verirken, hemen altında da 19 Mayıs’ın kutlanması çağrısını yineledi. Bir Samsunlu duyarlılığı içindeki bu sorumlu ve anlamlı desteği için kendisini kutluyor ve teşekkür ediyorum...<br />
+Haydi! Samsunlu ses ver ve bu anlamlı gününe sahip çık.. İyi haftalar.. 18 Mart 2012</p>
+<p>ÇANAKKALEYİ KANLARI VE CANLARI PAHASINA GEÇİLMEZ YAPAN ÇANAKKALE ŞEHİTLEİMİZİ ŞÜKRANLA VE MİNNETLE ANIYORUM. RUHLARI ŞAD OLSUN..</p>
+<p>Ecz. SADİ SUBAŞI</p>
+<p>Sadi Bey,<br />
+Bir kez daha tesekkür ediyorum.<br />
+19 Mayis'ta büyük olasilikla Samsun'da olacagim. Büyük bir grup olarak gelecegimizi saniyorum.<br />
+Biz de yürüyüslere katilacagiz. Bayragin altina girecegiz.<br />
+Törenleri izleyecegiz.<br />
+19 MAYIS MILLI BAYRAMI TÜRK MILLETININ ONUR GÜNÜDÜR, UNUTTURMAYIZ.<br />
+BESTEPE</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0574-samsun-da-birliktelik-neden-saglanamiyor.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0576-112-acil-servis-amacindan-uzaklasiyor-mu.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

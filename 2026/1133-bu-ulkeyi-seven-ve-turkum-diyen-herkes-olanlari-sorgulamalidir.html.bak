@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Bu Ülkeyi Seven ve Türküm Diyen Herkes Olanları Sorgulamalıdır</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Bu Ülkeyi Seven ve Türküm Diyen Herkes Olanları Sorgulamalıdır
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2026
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+1133
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>ÜLKESİNİ SEVEN VE TÜRKÜM DİYEN HERKES, ÜLKEMİZİN<br />
+İÇİNDE BULUNDUĞU DURUMU SORGULAMALIDIR.</p>
+<p>Üniversite eğitimi 1963-1968 Yılları arasında İstanbul Üniversitesi’nde  yapmış 68 kuşağından ve “Tam bağımsız Türkiye” Eksenli öğrenci olaylarını birebir yaşamış birisi olarak günümüzde yaşadıklarımızı sorguladığımda, bu noktaya nasıl ve neden geldiğimizi anlamakta zorluk çekiyorum.<br />
+Aslında bugün olanları anlayabilmek için Osmanlı İmparatorluğu’nun giderek zayıflayıp, sonunda da girmeye zorlandığı 1. Dünya Savaşında kaybeden İttifak Devletleri bloğunda yer alarak yıkılış sürecini iyi bilmek gerekir diye düşünüyorum.<br />
+Çünkü 1. Dünya Savaşı sonrası Osmanlı Devleti tarihe karışırken, imzaladığı SEVR Antlaşması ile elinde kalan son vatan toprağı Anadolu’nun da galip devletler tarafından paylaşılmasını kabul ettiğini unutmamak gerekir.<br />
+Bunun anlamı, Türklerin Orta Asya’dan çıkarak Anadolu topraklarına girdiği andan itibaren, Avrupa Devletlerinin düzenledikleri Haçlı Seferleri ile yok etmeye çalıştıkları ama başaramadıkları son TÜRK DEVLETİNİN, bu antlaşma ile yok edilmesiydi.<br />
+Bundan sonrasının detaylarına girmeyeceğim. Ama kısaca özetlemek gerekirse, bir mucize olmuş ve bir Osmanlı subayı olan Mustafa Kemal Paşa ile dava arkadaşları, başlattıkları Millî Mücadele ile Anadolu’yu düşmandan temizlemiş, Sevr’i yırtıp atmış ve 1. Dünya Savaşı’nın kazanan devletlere Lozan Antlaşmasını imzalatarak, bugün üzerinde özgürce yaşadığımız Türkiye Cumhuriyeti’ni kurmuşlardı.<br />
+Mustafa Kemal Atatürk’ün Türkiye Cumhuriyeti’ni kurduktan sonraki 15 yıl gibi kısa Devlet Başkanlığı sürecinde, Osmanlı’nın 1. Dünya Savaşından kalan borçlarını son kuruşuna kadar ödenmiş, halkının temel gıda maddelerini karşılamak üzere şeker ve un fabrikaları kurulmuştu. Demir çelik tesislerinin kuruluşu gerçekleştirilmiş, çağdaş eğitim konusunda reformlar yapılmış, köylümüz modern tarıma yönlendirilmiş, ülkede büyük bir kalkınma süreci başlatılmıştı.<br />
+Laik ve çağdaş hukuk düzenindeki tam bağımsız Türkiye Cumhuriyeti, çevresindeki ülkelere de örnek olmuş, onlara da bağımsızlık yolunu açmıştı.<br />
+Eğer bunları hatırlamaz veya bilemezsek, Türkiye Cumhuriyeti Devleti’nin biz Türklerin son şansı olduğunu ve o nedenle, her şartta ülkemize sahip çıkmamız gerektiğinin önemini de bilemeyiz.<br />
+Ne yazık ki, Mustafa Kemal Atatürk’ün zamansız ölümü sonrası, bu topraklarda gözü olanların bu ülkeyi rahat bırakmayacaklarını da göremedik.<br />
+Bunun sonucu olarak, 1950 yılında Marshall Yardımı ile borçlanarak ülkemizi yönetme süreci başlatılıyordu.<br />
+Böylece başlayan borçlanma süreçleri sonrası, günümüzde ülkemizin en büyük gelir kaynakları olan tütün ekimi sınırlanarak bitirilirken, geçmişte silolarda yer kalmadığı için brandalar altında depolamak zorunda kaldığımız buğday, arpa mısır ile ana gıda maddelerimiz olan pirinç, mercimek ve nohutu bile dışardan almak zorunda kaldığımız günlere gelmiş bulunuyoruz.<br />
+Tekel gibi en büyük gelir kaynağımız ve stratejik bakımdan en önemli kuruluşumuz olan Telekom, yabancılara satılmış bulunuyor. Pamuk ve fındık üreticisi zorlanırken, fındık piyasasının kontrolü Ferroli isimli bir İtalyan firmasına bırakılmış, ülkemizin en önemli ihracat kalemi olan tekstil firmaları başka ülkelere taşınmış ve neredeyse yarattığımız tüm önemli firmalar yabancılara satılmış bulunuyor.<br />
+İşte bu nedenlerle, yaşadığımız bu olumsuzlukları, hepimizin çok iyi analiz etmesi ve nedenleri ile olumsuz sonuçlarını görmesi gerektiğinin altını çiziyorum.</p>
+<ol>
+<li>Dünya Savaşından sonra Avrupa ülkelerinin bir kısmında yönetimi ele geçiren gözü dönmüş diktatörlerin dünyayı sürüklediği 2. Dünya Savaşı, 60 milyon insanın ölümü ve kentlerin harabeye dönmesi ile sonuçlanmıştı.<br />
+Büyük can kayıpları ve kentlerin yerle bir olması, tüm ülke halklarında sıcak savaşlara karşı büyük bir tepki oluşturmuştu.<br />
+Ne var ki, başka ülkeleri sömürerek ayakta kalmayı seçmiş sömürgeci devletler, sömürü düzenlerini sürdürmek üzere yeni bir savaş modeli yaratmıştı.<br />
+Çok kez yazdığım bu konuyu üzülerek bir kez daha hatırlatmak zorundayım.<br />
+Bu yeni savaşın adı, SOĞUK HARPTİ.<br />
+Soğuk harbin kuralları ise;<br />
+Sömürülecek ülke yönetimine kendilerine yakın isimleri getirmek,<br />
+O ülkeyi, daha düşük fiyatlarla tarım ve sanayi ürünleri vererek üretimden kopartmak,<br />
+Satın aldıkları medya aracılığı ile toplumu tüketime alıştırmak,<br />
+Böylece ekonomik olarak çökertilen ülkeye borç vererek destek olmak,<br />
+Yüksek faizler ödeyerek aldıkları dış borçlara mahkûm olan ülke, artık sömürülmesine direnemez hale geldiği için öz kaynaklarının elinden alınmasına rıza göstermek zorunda kalacaktır.</li>
+</ol>
+<p>Şimdi bu yazdıklarımı okuyacak herkesin, başını iki eli arasına alarak bugün ülkemizde yaşananları, ülke sevgisi ve vicdanı ile bir kez daha değerlendirmesini diliyorum.<br />
+Bağımsızlığını yitirmiş hukuk ortamında eline silah almamış, ölümcül sağlık sorunu olan, sırf muhalif oldukları ve kanıtlanmış suçları bile olmayan ve henüz mahkemeleri dahi yapılmamış insanlar aylardır ve yıllardır cezaevinde tutulurken, 50.000’i aşkın hüküm giymiş mahkûmun, denetimli serbestlik adı ile serbest bırakıldığı günleri yaşıyoruz.<br />
+Medyası bölünmüş, toplumu kamplara ayrışmış, yaşanan ekonomik krizin bedelinin toplum tarafından ödendiği, çalışan ve emeklilere açlık sınırı altında ücret verildiği ortamın yarattığı toplumsal tepkiler, giderek artmaktadır.<br />
+Dünya olarak da çok tehlikeli bir dönemden geçiyoruz. Dünyanın en büyük devletleri başta olmak üzere çok sayıda ülkede acımasız diktatörler görev almış bulunuyor.<br />
+ABD ile onun koruması altındaki İsrail ve Rusya gibi güçlü devletler, öz kaynaklarına göz koydukları bağımsız devletlere çöküyor.<br />
+Geçmişi sömürgecilik suçları ile dolu olan İngiltere, Fransa, İtalya, Hollanda ve 2. Dünya Savaşındaki Hitler utancını taşıyan Almanya’nın, dünya barışını da tehdit eden bu eşkıyalığa sesi çıkmıyor.<br />
+Uluslararası barışı tesis etmek üzere kurulmuş olan NATO ve BİRLEŞMİŞ MİLLETLER adeta yok oluşlarına imza atıyor.<br />
+Çevremizdeki ülkelerden Suriye’deki belirsizliklerden sonra İran’da rejime karşı başlayan toplumsal tepkiler, bölgemiz adına çok dikkatle takip edilmelidir.<br />
+Böyle bir ortamda, tam bağımsız bir ülke olmak çok daha fazla önem kazanmış bulunuyor. Bunun için ise, güçlü bir ordu ile ekonomik bağımsızlığa sahip olmak gereklidir.<br />
+Yazımı bir kez daha Türkiye Cumhuriyeti’nin, son Türk Devleti olduğunun unutulmamasını ve hepimizin ülkemize sahip çıkmasının zorunlu olduğunu hatırlatarak noktalıyorum.<br />
+Ülkemizde iç barışın sağladığı, dünyada da sınır tanımayan devletlere dur dendiği günleri görmek dileğiyle, güzel bir hafta diliyorum. 14.01.2026<br />
+Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="1132-atakum-ve-samsun-sevdalisi-i-cimizden-birisi.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="1134-samsunlularin-korkusu-deprem-degil-heyelendir.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

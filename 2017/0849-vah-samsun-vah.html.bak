@@ -1,0 +1,347 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Vah Samsun, Vah!</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Vah Samsun, Vah!
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2017
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0849
+
+</div>
+
+
+<div class="article-content">
+
+<p>e-posta; denizeczaneoptik. com                            SUNUŞ<br />
+VAH SAMSUNUM, VAH!<br />
+SANA NELERİ KABULLETTİRMEDİLER Kİ..<br />
+Samsun Havalimanı’nın kapatılarak onarılacağının ilk gündeme geldiği andan itibaren, bu uygulamanın Samsun’a yapılacak en büyük kötülük olacağını söylüyor ve yazıyorum.<br />
+Bunları söylerken bir adım daha ileri giderek, bunun Samsun’a yapılan yeni bir dayatma olduğunu da sıkça vurguladım.<br />
+Böylesine iddialı bir söylemde bulunurken, tabii ki dayandığım bazı şeyler vardı.<br />
+Bunların ilki, özellikle DHM Genel Müdürü’nün açıklamalarından anlaşıldığına göre, pistin ilk bölümünde ki çökmenin dört yıldır bilinmesine rağmen hiçbir işlemin yapılmamış olmasıydı. Bu sözlerden anlaşılan, pistin başlangıç kısmında ki çökmenin bugünden yarına acil bir tehlike oluşturmadığı gerçeğiydi.<br />
+İkincisi, bu pistin onarımının havalimanının kapatılmadan bir yıllık bir süreçte tamamlanması şartı ile ihalesinin yapılması ve sonuçlanan ihalenin de onaylanmasına rağmen, havalimanımızın üç ay kapatılarak onarılacağının açıklanmasının inandırıcı olmamasıydı.<br />
+Üçüncüsü ise, Havalimanının kapatılacağının açıklandığı ana kadar ihalesinin dahi yapıldığının Samsun kamuoyundan gizlenmiş olmasıydı.<br />
+Dördüncüsü ise, kapatma haberinin duyulması üzerine alelacele Samsun’a gelen Ulaştırma ve Habercilik Bakanı Sayın Ahmet Aslan düzenlediği basın toplantısında kendisine sorulan bir soru üzerine, “Evet, onaylanan ihaleye göre havaalanı kapatılmadan bir yıllık bir süreçte yapılacaktır. Ama ben o sözleşmeye uymayacağım ve alanı 3 ay kapatarak onarımı yaptıracağım” Diyebilmesinin altında yatan, mutlaka çok başka nedenler olması gerektiğini düşünmüş olmamdı.<br />
+Nitekim daha bu kararın açıklanması ile başlayan tartışmalar sürerken, Ordu-Giresun ( ORGİ) Havaalanı ile ilgili olarak kulislerde konuşulan ve benim de endişelerimi doğrulayan enteresan açıklamalar birbirini kovaladı.<br />
+Ordu Milletvekili, Başbakan Yardımcısı ve Hükümet sözcüsü olan Sayın Numan Kurtulmuş’un Maliye Bakanı’na rica ederek ORGİ havaalanına inecek uçaklar için özel yakıt desteği çıkarttığı ve ORGİ Havaalanı’nın genişletileceği haberleri de bunlardan birisiydi.<br />
+Bir diğeri de, bu onarımın üç ayda bitirilmesinin mümkün olmadığı ve sürenin uzayabileceğiydi.<br />
+Nitekim son erteleme kararının nedenleri açıklanmasa da biz biliyoruz ki, onlarda üç ayda bitmeyeceğini ve Engelliler Olimpiyatlarında sıkıntı yaşanacağını gördükleri için bu ertelemeyi yapmak zorunda kaldılar.<br />
+İşte bu nedenlerle her hafta ki köşe yazımın son bölümüne,<br />
+LÜTFEN! UNUTMAYINIZ..<br />
+HAVA ALANIMIZ ÜÇ AYLIĞINA KAPATILACAK..<br />
+Uyarısını eklemeyi sürdürdüm.<br />
+Ancak son an da ortaya çıkan erteleme kararı da, yeni soru işaretlerine kapıyı açmış bulunuyor. Hiç kimse ortaya çıkıp da, amma da kuşkucusun diye suçlamasın.<br />
+Bu tür soruların sorulacağı adres, böylesine akıl dışı uygulamaları Karadeniz Bölgesi’nin en büyük kenti Samsun’a dayatan yetkililer ve bu dayatmalara sesi çıkmayan Samsunlu il yöneticileri ve Samsun’un haklarını savunmak üzere seçilmiş milletvekillerimizdir.</p>
+<p>VE HAVALİMANI’IN ONARIM İÇİN KAPATILMASI ERTELENDİ.<br />
+Samsun gerçekten de akıl ve mantık dışı işlerin olduğu ve sanırsınız ki, bir yap- boz oyunun oynandığı bir kent. İsteyen istediği gibi oynuyor ve “Ne oluyor?”  Diye soran dahi yok.<br />
+Önce pistte 19 Cm. çökme var deyip ihaleye çıkartıyorlar. Bir yılda tamamlanması için yapılan ihaleyi aynen onaylıyorlar.<br />
+Sonra da çıkıp, yasayı yok sayıyor ve suç işlemeyi de göze alarak “Ben ihaleyi tanımıyorum, üç ay kapatıyorum ve onarıma başlıyorum” Diyorlar.<br />
+Şimdi de, hiçbir gerekçe açıklamadan onarım için kapatma işlemini üç ay erteledik diyorlar.<br />
+Çünkü nasıl olsa bu nedenle kimsenin onları sorgulamayacağını onlarda çok iyi biliyorlar.<br />
+Kentin yönetenlerinden ve siyasetçilerinden, “Ne oluyor? Nereden çıktı bu kapatma?” Diye soran yok.<br />
+Yakın geçmişin yanlışları sorgulayan sivil toplum kuruluşları nerede diye sorsan, son on yılda zaten onlar yok olmuş.<br />
+Onların yerlerini, her koşulda siyasi iradeye destek vermek ve kendilerine çıkar sağlamak amacıyla bir araya gelmeyi, STK sanan kuruluşlar almış. Onların ses çıkartması zaten beklenen bir şey değil.<br />
+Ama anlaşılmayan ve kabul etmekte zorlandığım, bu işten en büyük zararı görecek turizm firmaları ile iş bağlantılarının aksayacak olması nedeniyle işadamlarının dernek ve odaları olan Ticaret ve Sanayi Odası, Borsa ile Samsiad ve diğerleri nerede? Niye susarlar?<br />
+Samsun Teşvik Yasası dışında bırakılırken de tüm çabalarımıza rağmen sustular da ne oldu? Bugün teşvik dışında bırakıldık diye ağlaşmıyorlar mı?</p>
+<p>BİR KEZ DAHA UMUTLAR YIKILDI..<br />
+İlk başta koca kent böyle sıradan bir onarım için havaalanımızın kapatılmasına karşı çıkar ve çözüm üretir diye düşündüm.<br />
+Çünkü dört yıldır bilindiği halde tedbir alınmamış. Şimdi de bir süre daha erteliyorlar. Demek ki acil bir durum yok. Uçaklar inip kalkıyor. Dolayısı ile 2. Pisti yapmak için yeterli zaman var demektir.<br />
+Ne yazık ki, bir kez daha yanıldım. Boşa umutlanmışım.<br />
+Şimdi de yeni bir yanlış yapıyor ve ertelemeyi alkışlıyor ve teşekkür ediyorlar.<br />
+Kime, ne diye teşekkür edeceğiz? Ne değişmiş? 2. pist yapım kararı çıkmış da onun için mi teşekkür edeceğiz?<br />
+Bu kentin bakanı ve dokuz milletvekili bu kent için seçildiklerini hatırlayıp da, "Koca kente nasıl böyle bir yanlış yaparsınız?" diyerek arızayı, alanı kapattırmadan yaptırmak için bir çözüm üretmişler de mi teşekkür edeceğiz?<br />
+Bu kent aldatıla aldatıla kaybetmeye alıştı nasılsa. Onlarda biliyor ki, bu kentin yapılacak haksızlıklara karşı duracak güveneceği bir lobisi yok.<br />
+Gerçek şu ki, Samsun'u yönetenler ve temsil edenler bir kez daha bu kentin sahipsizliğini kanıtlamıştır.<br />
+Eğer bizim de, uçakların Ordu' ya inmesini teşvik etmek için uçak başına 5 milyon yakıt özel teşviki çıkartan Ordu milletvekili ve Başbakan Yardımcısı Sayın Numan Kurtulmuş gibi bir milletvekilimiz olsaydı, bu havaalanı kapatılmadan onarılırdı.<br />
+Kentine sahip çıkmak böyle olur. O milletvekiline de bütün kent yüksek sesle teşekkür eder, ayakta alkışlar.</p>
+<p>Artık bu iş çok sulandı. Hiç bir tutar yanımız kalmadı. Samsunspor'un yaşadığı yalnızlık ve içine düşürüldüğü perişanlık ve art arda vurulan darbeleri görünce insanın aklına çok daha başka şeyler geliyor.<br />
+Gerçek şu ki, Samsun'u yönetenler ve temsil edenler bir kez daha bu kentin sahipsizliğini kanıtlamıştır.<br />
+Tüm bunlara rağmen bu sorunu çözebilecek iki kişi, Sayın Gençlik ve Spor Bakanımız Akif Çağatay Kılıç ve Valimiz Sayın İbrahim Şahin’dir.<br />
+Sayın Bakanımız ve Sayın Valimiz, bu Havaalanı Samsun'un olmazsa olmazıdır.<br />
+Lütfen bu sorunu, alanı kapatmadan çözünüz.<br />
+Bir Samsunlu olarak artık bu kente yapılan haksızlıklara dayanamıyorum. İsyanım ve itirazlarım ondandır.<br />
+Son sözüm de, Samsunlulara. Eğer Samsunlular kararlı bir şekilde bu kenti yönetenlerden bu sorunu çözmelerini isterse, bu sorun çok kolay çözülür. Saygılarımla..26.02.2017</p>
+<p>Ecz. SADİ SUBAŞI</p>
+<p>e- http://www. hedefhalk. com/<br />
+Kiymetli dostum Sadi,<br />
+Samsun Hava Alani ile ilgili yazinizi ilgiyle okudum.<br />
+Cok hassas ve kritik noktalara dokunduğunuz için ve yalnizligimizi ve unutulmuşluğumuzu dile getirmeniz, gerçekleri bir daha hatirlatmaniz , ilimizin geleceği için bir umut oldu.<br />
+Teşekkür ederim.<br />
+Ayrica Ilimiz hava limaninin VIP salonu değiştirildi veya buyutuldu. Bu konu sayin Valimiz tarafından ilgiyle takip edildi.. VIP salonu yapildi ama halkimizin yolculari için yani bizler için en ufak bir iyileşme yapilmadigi gibi düşülmemektedir de. Iki veya uc uçak ayni anda veya kisa araliklarla kalkacagi zaman yolcu salonu karisiyor ve hic hos olmuyor.<br />
+VIP salonuyla olduğu  gibi bu konuyla da ilgilenilmesini gerekliliğini düşünüyorum.<br />
+Anayasa Oylamasi asamasinda iktidarin tutumu gözlendiğinde her konuyu oya çevirmek istediği gozlenebiliyor. Bu konu da onlar için ilgic, bizler için hava alanimizin kazanimi olabilir.<br />
+Sagilikli mutlu günler dileriz.<br />
+Sevgilerimizle<br />
+Kemalettin Erbilgin</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0848-turkiye-nin-ekonomik-cikis-yolu-tarimdadir.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0850-giderek-kaybolan-guven-duygusunun-yerini-paranoya-aliyor-1-bolum.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

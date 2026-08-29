@@ -1,0 +1,297 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Çanakkale Zaferi ve Şehit Ailelerinin İsyanı</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Çanakkale Zaferi ve Şehit Ailelerinin İsyanı
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2006
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0222
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>ÇANAKKALE ZAFERİ VE ŞEHİT AİLELERİNİN İSYANI..</p>
+<p>Cumartesi günü Çanakkale zaferinin 91. yılını andık. Bir milyona yakın düşman askerine karşı 250 bin civarındaki, her türlü silah ve techizattan yoksun askerimizin 160 bin şehit vererek kazandığı bu muhteşem zafer, bizlerin bu coğrafya da özgür bir devlet olarak yaşamamızı sağlamıştır. Bu ülkenin geleceği için canlarını veren aziz şehitlerimizin manevi huzurunda saygıyla eğiliyorum.<br />
+03-kasım-1914 de İngiliz Bahriye Nazırı Churchill’in öncülüğünde Rusya’nın desteğini almak ve Balkan Devletlerini İtilaf Devletleri yanında savaşa zorlamak amacı ile İngiliz’lerin Seddül-bahir ve Kumkale Tabyalarını topa tutması ile başlayan tarihin belki de en kanlı savaşı 8,5 ay sürdü.<br />
+Çoğu kez ekmek dahi verilemeyen ve  üç öğün üzüm hoşafı içerek savaşan Anadolu’nun yağız delikanlıları, gövdelerini siper ederek tarihe altın harflerle kazınan bir tarih yazdılar. Her metrekaresinde bir şehidin yattığı Gelibolu yarımadasını gidip görmeden ve orada yazılan tarihi yerinde yaşamadan, bu Ülkenin geleceğinde söz sahibi olunacağına inanmıyorum.<br />
+‘’ Sizlere savaşmayı değil, ölmeyi emrediyorum. Bizler ölürken göstereceğimiz direniş , yeni kuvvetlerin gelmesini ve savaşın kazanılmasını sağlayacaktır’’ diyebilecek kadar kararlı ve inançlı bir komutandır, tüm olanaksızlıklara rağmen bu zaferi kazandıran. Böylesine inançlı Mustafa Kemal Paşa ve komutasında ki vatan savunması için köylerinden kopup gelen mehmeçiklerin amacı ve inancı, toplama düşman güçlerininkinden o kadar farklıdır ki.. Ellerinden alınmak istenen son vatan topraklarına sahip çıkmak gibi bir inanca sahip Türk askeri, tabii ki bu topraklara niçin geldiğinin cevabını bugün dahi veremeyen, dünyanın dört bir tarafından getirilmiş paralı askerleri ve onları bu serüvene sürükleyen sömürgeci ülkeleri Çanakkale’de denize gömecekti. İşte bu nedenle Çanakkale savaşı Türk tarihinin en şanlı sayfasıdır. Tanrım bu milleti bir daha böyle bir ülke savunması yapmak zorunda bırakmasın.<br />
+Cumartesi günkü bazı yerel gazetelerde çıkan bir isyan ve yakarış içimi sızlattı. Özellikle sivil toplum kuruluşlarına karşı gösterilen tepki ve ‘’ sivil toplumdan bir şey olmaz ‘’ sözleri açıkçası beni hem çok üzdü, hem de korkuttu. Çocuklarını bu ülkenin savunması ve geleceği için feda etmiş bir insanın tepkisi , çaresizliği ve feda ettiği canların bir anlamının olmadığı gibi bir kanıya kapılmış olması, gerçekten herkesi ürkütmelidir. Hele de bu insan bir şehit annesi, ve ‘’ Şehit , Gazi Anneleri ve Yardımlaşma Derneği ‘’ Başkanı ise çok önemlidir sanıyorum. Dernek başkanı Sayın Saadet Var, hiçbir sivil ve resmi kuruluşun kendileri ile ilgilenmediğinden, hatta siyasi parti ve yerel yöneticilerinin randevu dahi vermediğinden yakınarak, kendilerine sadece askeri kesimin ilgi gösterdiğini söylüyorsa çok ciddi bir noktaya gelmişiz demektir.<br />
+İki sivil toplum kuruluşunun başkanı olarak , sivil topluma karşı gösterilen bu tepki ve sivil toplumdan umut kesen yorumlara çok üzüldüm. Ancak bu açıklamayı  amacını aşan bir konuşma olarak algılamak istiyorum. İnanıyorum ki, bir şehit annesi olarak hak etmedikleri bu ilgisizlik, Sayın Var’ı fazlasıyla üzmüştür. Bu konuda ki ilgisizliğe yürekten katılıyorum. Gerçekten de son yıllarda şehitlerimizin ailelerine yeterince sahip çıkılamadığı , hatta çocuklarını bu Ülke için feda eden ailelerin ekonomik güvenceye alınamadığı sık, sık gündeme gelmeye başladı. Ailelerinin  geleceği olan bu çocukları, genç yaşta yurt savunması için feda ediyorsak, eşlerine, çocuklarına, anne ve babalarına Devlet olarak güvence sağlamak zorundayız. Yüzlerce milyon YTL. nin talan edilişine seyirci kalınan bir ülkede, bir avuç şehit ailesine sahip çıkamıyorsak tarihimize ve geçmişimize ihanet ediyoruz demektir. Kendi adıma ve başkanı olduğum sivil toplum kuruluşları adına şehit ailelerinden özür diliyorum. Devletimizden de, bu insanların yakındıkları ortamı bir an önce düzeltmesini diliyorum.<br />
+Sayın Var’ın dediği gibi, bu gün çoluk çocuğumuzla huzur içinde yaşıyorsak ve tüm olumsuzluklara rağmen hala özgür bir ülkeyiz diyebiliyorsak, bunu genç yaşlarında şehit düşen gençlerimize borçluyuz. Onları yattıkları yerde rahat yatırmak, bizlerin en büyük görevi olmalıdır diye düşünüyorum.<br />
+İyi haftalar..   19-MART-2006<br />
+SADİ  SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0221-gazi-muzesi-yeniden-sekilleniyor-2.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0223-otopark-sorunu-ve-bir-oneri.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

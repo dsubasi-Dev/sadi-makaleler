@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Örnek Bir Dava Adamı Av. Arif Yılmaz Üney</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Örnek Bir Dava Adamı Av. Arif Yılmaz Üney
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2026
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+1136
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>ÖRNEK BİR DAVA ADAMI AV. ARİF YILMAZ ÜNEY.</p>
+<p>Son zamanlarda birisinden övgü ile söz edilecekse. “Çok iyi insan” Deyimi kullanılıyor. Oysa bu özellik insan olmanın ön şartı olup, bu sözcük bir övgü aracı olamaz. Övülecek insanın, iyi insan olmanın ötesinde çok daha başka özellikleri de olmalıdır.</p>
+<p>Bugün köşemde, iyi bir insan olmanın ötesinde özellikleri de olan güzel bir insandan söz edeceğim.</p>
+<p>Bu insan, öncelikle İÜ Hukuk Fakültesi’nde okurken tanıyıp sevdiği ve evlendiği eşi ile olan yaşamını öylesine içselleştirmiş ki, adeta çok erken kaybettiği eşi ile yaşıyor.</p>
+<p>Oğlunun ısrarı ile onun yanındaki daireye taşınıyor ama kısa bir süre sonra kendi evine geri dönüyor.</p>
+<p>Çünkü eşi ile son günlerini o evde yaşamış ve eşini o evde kaybetmiş. O ev eşinin hatıraları ile dolu. Kendisi ile konuşurken, Arif Ağabeyi sanki eşi ile yaşıyormuş gibi hissediyorsunuz.</p>
+<p>Bu ne büyük bir sevgi? Bu ne büyük bağlılık? İşte bu dahi, iyi insan olmanın ötesinde bir başka özellik.</p>
+<p>Ama ben sizlere Av. Arif Yılmaz Üney’i, toplumsal sorunlara yaklaşımlarını özetleyecek bir başka yönü ile tanıtacağım.</p>
+<p>Toplumsal sorunların çözümünde rol almak ve gereğini yerine getirmek, günümüzde herkesin yapacağı iş değildir.</p>
+<p>Av. Arif Yılmaz Üney, ülkemizin en önemli meslek kuruluşlarından birisi olan Samsun Barosu’nun 1998-2002 arasında Başkanlığını yapmış başarılı bir avukattır.</p>
+<p>Yılların verdiği deneyimimle söylemek isterim ki, sivil toplum kuruluşları ile meslek kuruluşlarında görev alan başkanların, başarılı olması için iki özelliğe sahip olması gerekir.</p>
+<p>Birincisi, yanlışlara karşı çıkabilmeli ve üyelerinin haklarını savunabilmek için korkacak hiçbir açığı olmamalıdır.</p>
+<p>İkincisi ise, sorunları çözebilmek için donanımlı ve konulara hâkim olmalı, üstlendiği sorumluğu sonuna kadar sürdürebilecek kararlılığa yani, “DAVA ADAMI” Kimliğine sahip olmalıdır.</p>
+<p>Bunları, sivil toplum kuruluşlarına yaşamının 50 yıldan fazlasını vermiş ve SAM-SEV gibi Samsun’un sorunlarının çözümü için marka olmuş bir sivil toplum kuruluşunun kurucu Başkanı olmanın onuru ile mücadele etmiş, bu süreçte çok sayıda insan ile tanışmış ve omuz omuza mücadele etmiş birisi olarak söylüyorum..</p>
+<p>2000’li yıllarda SAM-SEV’İN her yıl düzenlediği Kent Kurultaylarının birincisinde, o güne kadar Samsunlulardan gizlenmiş ve daha sonraki tarihlerde “Zehir Santrali” adı ile anılan kirli bir tesisin Samsun Tekkeköy’de kurulacağı bilgisi, Kurultayı’nın gündemine bomba gibi düşmüştü.</p>
+<p>İddialar korkutucuydu. İktidarda, Mesut Yılmaz Başkanlığındaki ANA-SOL Hükümeti vardı.</p>
+<p>Alınan bilgilere göre, Mesut Yılmaz’ın iş insanı olan kardeşi Turgut Yılmaz’ın da desteklediği öğrenilen ve günde 1000 ton 6 numaralı Fuel-Oil yakarak elektrik üretecek olan iki MOBİL SANTRAL, ülkemizin en verimli ovasının yer aldığı Çarşamba Tekkeköy’de kurulacaktı.</p>
+<p>O dönemin yetkili kurumu TEAŞ’IN kararı ile önce Dalaman’a kurulması planlanan bu iki santral, 10.10.2001 tarih, 3-6 ve 3-7 numaralı kararları ile “İlk açıklanan yere kurulmaması yönünde oluşan kamuoyu tepkisi sonrası Bartın’da kurulması kararlaştırılmıştır. Bartın Valiliği’nin de Mobil Santrallerin il sınırları içerisinde kurulmaması yönündeki olumsuz görüş bildirmesi”, Nedeniyle bu illerde kurulamamıştı.</p>
+<p>Ne yazık ki bu illere sokulmayan MOBİL SANTRAL, alınan bilgiye göre, o dönemki Samsun Büyükşehir Belediye Başkanı tarafından Samsun’a davet edilmişti.</p>
+<p>Bartın gibi küçük bir ilin Valisi’nin karşı çıkarak uygun görmemesi dikkate alınırken, bölgenin en büyük ili olması yanında geleceğimiz olan Türkiye’nin en verimli ovasına sahip Samsun Vali’sinin karşı çıkmaması ve Büyükşehir Belediye Başkanı’nın bu zehir üretecek santrali Samsun’a davet etmesi, Samsun adına kabul edilemezdi.</p>
+<p>İlerleyen günlerde, 100’er MB’lık bu iki santralin, her gün yakacağı 1000 ton 6 numaralı Fuel Oil ile doğaya ve çevreye yayacağı zehirli CO2 ve NOx isimli gazlar nedeniyle, toprağı ve o yörede yetiştirilen tüm tarım ürünlerini yok edeceği gibi başta insanlar olmak üzere tüm canlılara büyük zarar vereceği, kanser vakalarının patlayacağı bilimsel raporlarla açıklanıyordu.</p>
+<p>Küresel ısınmanın tüm dünyada önem kazandığı bir dönemde, ülkemiz ve gelecek kuşaklarımız için de çok önemli olan ve çeşitli tarım ürünlerinin yetiştirildiği Çarşamba Ovası’nın yok edilmesine izin verilemezdi.</p>
+<p>Nitekim SAM-SEV ve TMMOB Samsun Şube Başkanlıklarının öncülüğünde bu konuda tavır koyan 80 civarında sivil toplum kuruluşunun katılımı ile oluşturulan “ÇEVRE BİRLİKTELİĞİ” İle büyük bir karşı koyma eylemi başlatılmıştı.</p>
+<p>Bu arada bu santralin kapatılması hukuki bir süreç gerektireceği için Samsun Baro Başkanlığı ’da Çevre Birlikteliğine dahil olurken, “Çevre Birlikteliği” Sözcülüğüne de Elektrik Mühendisleri Odasının dönem Başkanı Metin Teletar getirilmişti.</p>
+<p>Bir yandan Ondokuzmayıs Üniversitesi Çevre Mühendisliği Fakültesi Dekanı Sayın Prof. Dr. Osman Nuri Ergun ile Kimya Mühendisleri Odası Başkanı Sayın Osman Pilgir aracılığı ile bilimsel raporlar hazırlanıyor ve kamuoyu bilgilendiriliyordu.</p>
+<p>Bu konuda en çok zararı görecek olan Tekkeköy’de yaşayanların dahi gerekli desteği vermemesine ve bazı önemli STK’ların siyasi iktidarla ters düşmemek adına desteğini çekerken, bir kamu kurumunda çalışan Metin Teletar, büyük bir cesaretle “Çevre Birlikteliğimiz” ile birlikte büyük bir direniş sergiliyordu.</p>
+<p>Son ana kadar çevre halkının dahi destek vermediği Mobil Santrallerin deneme çalışmalarına başladığı günlerde, Çevre Birlikteliği öncülüğünde Tekkeköy’de bir miting düzenlemiştik.</p>
+<p>Santrallerin deneme çalışmalarına başlaması ile tarladaki lahana gibi sebzeler yanmış ve bizim yıllarca anlatamadığımız zararları gören Tekkeköylüler, miting sonrası Santralleri yakmaya kalkmıştı.</p>
+<p>İşte böylesine zorluklarla direnişi sürdürdüğümüz süreçte, Baro Başkanlığının o dönemki Başkanı Sayın Arif Yılmaz Üney’i bu konuda yetkili kılması ile yasal süreçte başlatılmıştı.</p>
+<p>Uzunca bir süre devam eden hukuki süreçte, Samsun Bölge İdare Mahkemesi yetkisizlik kararı ile dosyayı Ankara Bölge İdare Mahkemesine göndermişti.</p>
+<p>Baro Başkanı Sayın Arif Yılmaz Üney’in ilk günden itibaren sürdürdüğü sıkı takip sonucu, Ankara 10. Bölge İdare Mahkemesi 05.11.2003 tarihinde Samsun Barosu’nun açtığı davayı kabul ediyor ve görülen dava sonunda Mobil Santrallerin ruhsat işlemlerini de iptal ediyordu.</p>
+<p>Ancak, TEDAŞ ve yapımcı Firma AKSA AŞ. Tarafından karar temyize taşınmıştı. İlgili kurumların temyiz talebi, bu kez de DANIŞTAY 10. Dairesi’nin 25.01.2006 tarih ve 2004/9540 kararı ile reddedilmiş ve<br />
+Mobil Santrallerin ruhsatının iptal edilmesi kararı kesinleşmişti.</p>
+<p>Bu karar, ülkemizde devlet kurumlarının da arkasında olduğu bir santralin ruhsatının iptal edilerek kapatılmasının sağlandığı ilk davaydı.</p>
+<p>Eğer Samsun adına bu dava kazanılmış ve Devletin de arkasında durduğu bu kirli yatırımın ruhsatı iptal edilmişse, bu başarının en büyük mimarı Baro Başkanlığı görevi sona erdiği halde, dava sürecini inatla takip ederek Danıştay’ın ruhsat iptal kararının onaylanarak sonuçlandırmasını sağlayan kişi, Çevre Birlikteliği ’nin fedakâr savunucu, Av. Arif Yılmaz Üney’dir.</p>
+<p>Davanın sonuçlanmasına kadar uzunca bir süreçte her türlü harcamayı kendi cebinden yaparak Ankara’da davayı takip eden Av. Arif Yılmaz Üney, bu kentin çok şey borçlu olduğu gerçek bir DAVA ADAMIDIR.</p>
+<p>Ne yazık ki, ruhsatı iptal edilen bu santraller için yapılan sözleşme gereğince ilgili mahkeme sürecinde çalışmış gibi kabul edilerek, yapımcı firmaya bu yoksul halkın kesesinden her ay 2,4 milyon dolar ödenmiştir.</p>
+<p>Bu ülkede “Dava Adamı” olmak, yürek ister.</p>
+<p>Üstlendiği sorumluluğu sonuna kadar kovalayacak, olası maddi ve manevi tüm engellemelere boyun eğmeyecek kararlılık ister.</p>
+<p>İşte tüm bunları başaran Av. Arif Yılmaz ÜNEY, iyi bir hukukçu olmanın ötesinde benim tanıdığım ülkemizde zor bulunan tam bir DAVA ADAMIDIR.</p>
+<p>Doksanı aşkın yaşına rağmen hala bilgisine baş vurulan bir hukukçu olan Sayın Av. Arif Yılmaz Üney’e sağlıklı nice yıllar diliyorum.</p>
+<p>Ülkemizin düzlüğe çıkması ve demokratik kuralların tam uygulandığı dönemleri yeniden yaşaması için davasına sahip çıkan insanların sayısının çoğalması umuduyla, sorunsuz bir hafta diliyorum. 16.02.2026</p>
+<p>Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="1135-demek-ki-para-her-sey-demek-degilmis.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="1137-turkler-ve-benim-ulkem-bu-yapilanlari-hak-etmiyor-1-bolum.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

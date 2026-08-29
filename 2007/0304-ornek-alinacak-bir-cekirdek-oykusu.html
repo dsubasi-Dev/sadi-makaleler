@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Örnek Alınacak Bir Çekirdek Öyküsü</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Örnek Alınacak Bir Çekirdek Öyküsü
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2007
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0304
+
+</div>
+
+
+<div class="print-button-container">
+    <button class="print-button" onclick="window.print()">
+        <span class="print-icon">🖨️</span>
+        Yazdır
+    </button>
+</div>
+
+<div class="article-content">
+
+<p>ÖRNEK ALINACAK BİR ÇEKİRDEK TOPLAMA ÖYKÜSÜ..</p>
+<p>Geçen hafta bir iş seyahati nedeniyle Antalya’ya doğru özel aracımla yol alırken, dinlemekte olduğum TRT FM radyosunda ilginç bir söyleşiye tanık oldum. Sunucu ile adının Dr. Fahrettin olduğunu söyleyen kişi arasında geçen öykü benim de ilgimi çekti. O nedenle bu öyküyü sizlerle de paylaşmak istedim.<br />
+Dr. Fahrettin Bey anlattığı öyküyü Manisa’da uygulamaya koymuş ve son derece çarpıcı bir destek görmüş. Şimdi destek verenlerin Dr. Fahrettin Beye ulaştırdığı çuvallar dolusu çekirdek ile Manisa ve yöresinde ağaç dikilecek boş alan bırakmamışlar.<br />
+Asıl öyküyü okuyunca, sizlerden de çok kişinin çekirdek toplayacağına inanıyorum. Öykü Amerika’nın Florida bölgesinde bir kasaba da geçer. Kasabanın Şerifi John, asayiş sorununu çözdükten sonra, önceleri hobi olarak başladığı çekirdek toplama tutkusunu öylesine yaygınlaştırır ki, John’un adı kasaba için sembol olur. John önceleri yediği meyvelerin çekirdeklerini kurutup saklamaya başlar. Topladığı ilk çekirdekler elma çekirdekleridir. Tohum ekme zamanı gelince, bu çekirdekleri kasabanın boş bir arazisine gömer. İlkbahar ile birlikte ektiği bütün elma çekirdekleri birer fidan gibi topraktan fışkırmaya başlar. Şerif John çok mutludur.<br />
+Bu kez kasaba halkını da meyve çekirdeklerini saklamaları ve rutubetsiz bir yerde kurutmaları için ikna eder. Tüm kasaba halkının yapacağı tek iş, yedikleri meyvelerin çekirdeklerini ayrı kavanozlarda kurutarak şerife vermektir. İlk yıllarda şerif John tek başına kendisine getirilen çekirdekleri gördüğü her boş alana gömmeyi sürdürür. Kasaba halkı bu işi o kadar ciddiye almıştır ki, toplayıp götürdükleri çekirdeklerin miktarı şerifin tek başına bu işi sürdürmesini olanaksız hale getirir. Bu aşamadan sonra, şerif kasaba halkını da topladıkları çekirdekleri boş arazilere ekmeye alıştırır.<br />
+Kasabanın şerifinin hobi olarak başladığı iş artık tüm kasabalının da tutkusu haline gelmiştir. Kasaba da 40 yıl şeriflik yapan John bir mucize gerçekleştirmiştir. 40 yılın sonunda sadece kasabanın çevresi değil yakın çevresi de çoğunluğu elma ağacı olmak üzere ağaçlarla kaplanmıştır. Gözü tırmalayan boş araziler yemyeşil olmuş, toprak erozyonu önlenmiştir. Zaman içersinde kasabaya büyük bir ekonomik gelir kapısı da açan uygulama, öylesine ün salar ki, artık kasabanın girişinde Apple City yani Elma Kent yazmaktadır. John ise kasabanın sembolü olmuştur.<br />
+Manisa’lı Fahrettin Bey bu öykünün onda yarattığı kıvılcımla iki yıl kadar önce bu işe soyunmuş ve sesini duyurabildiği herkesten destek almaya başlamıştır. Radyo söyleşisinde Dr. Fahrettin Bey, her gün kilolarca çekirdeğin kendisine ulaştığını, bu işi artık tek başına yapamadığını, birçok insanın da onun yolundan yürüyerek kendi çevrelerini ağaçla donattığını anlatıyordu. Dr. Fahrettin beyi en mutlu eden şey de, çekirdek gönderenlerin kargo ücretlerini ödemesiymiş. TRT FM’in canlı yayına katılan Fahrettin Bey, tüm Türkiye’ye sesleniyor ve herkesin yedikleri meyvelerin çekirdeklerini saklamalarını, isterlerse kendisine göndermelerini, ama daha doğrusu kendi yörelerine gömmelerini rica ediyordu. Bu arada, “yörenizde hangi meyveler yetişiyorsa onları toplayınız” demeyi de ihmal etmiyordu.<br />
+Millet olarak ağaç dikmeye çok meraklı değiliz. TEMA’NIN yıllardır sürdürdüğü ağaç dikme kampanyaları dahi, henüz bu alışkanlığı kazandıramadı. Samsun’dan Antalya’ya giderken Anadolu’yu kuzeyden güneye baştanbaşa geçtik. Yol boyunca çok güzel dinlenme tesisleri görüyorsunuz. Birkaç örnek tesis hariç, çoğunun dört tarafı çıplak. 37 derece ısıda mola vereyim diyorsunuz, bu tesislerde gölgesinde oturacağınız tek ağaç yok. Milyonlarca YTL harcanmış, çok güzel tesisler yapılmış, ama anlaşılmaz şekilde kimsenin aklına hiç olmazsa çevresini ağaçlarla donatmak gelmemiş.<br />
+Bu öykü ve Manisa’da ki uygulaması doğrusu beni heyecanlandırdı. Samsun hemen, hemen her türlü meyvenin yetiştiği bir yer. Çekirdekten çıkan ağaç belki meyve vermez ama yetişecek ağaçların yaratacağı yeşillik yeter. Ayrıca toprak erozyonun önlenmesi açısından getireceği yararlar nedeniyle bu kampanyanın Samsun’da da başlatılması gerekir diye düşünüyorum. TEMA Samsun şubesinin de bunun öncülüğünü yapabileceğini sanıyorum.<br />
+Ben bu köşeden sevgili ilköğretim okulu öğretmenlerine sesleniyorum. Neden sizlerde birer Fahrettin Bey, birer John olmayasınız. Öğrencilerinize hem meyve yeme konusunda alışkanlık kazandırmış olursunuz, hem de çekirdeklerini saklama konusunda yönlendirebilirsiniz. Tohum ekme zamanı da hep birlikte boş bir araziye giderek bunları gömebilirsiniz. Bunu çocuklar arasında bir oyun haline getirip onları yarıştırabilirsiniz. Bu iş için piknik alanları karayolu yanları hazır mekânlardır.<br />
+Ben kendi adıma bu öyküyü çok sevdim ve dünden itibaren çekirdek biriktirmeye başladım. Umarım bu tutku, Samsunlular tarafında da ilgi görür. İyi haftalar dileğiyle..   11 AĞUSTOS 2007<br />
+SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0303-mobil-santraller-ve-samsun-un-sahipsizligi.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0305-mobil-santraller-ayiplidir.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

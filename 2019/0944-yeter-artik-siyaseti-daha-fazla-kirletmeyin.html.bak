@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Yeter Artık! Siyaseti Daha Fazla Kirletmeyin</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Yeter Artık! Siyaseti Daha Fazla Kirletmeyin
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2019
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0944
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>YETER ARTIK! SİYASETİ DAHA FAZLA KİRLETMEYİN.</p>
+<p>Sanki gizli bir el ülkemizde ki siyaseti ve demokrasiyi çirkinleştirmek için özel çaba sarf ediyor.<br />
+Çok sık yapılan seçimler nedeniyle siyasetçilerin aslı astarı olmayan ve seçim sonrası unutulan vaatleri,<br />
+Dün söylediklerinin kısa bir süre sonra tam tersini söyleyerek halkını aptal yerine koymaları,<br />
+Daha da kötüsü yalanların birbiri ardı sıra sıralanması,<br />
+Siyasetçilerin rakiplerini çok aşağılayıcı kelimelerle suçlayarak sokaktaki insanların dahi kullanamayacağı üslubu, bu dönemin klasiği haline getirmesi,<br />
+Siyasetçileri halkın gözünden düşürmesi ve siyasetçi denince akla itibarsızlığın gelmesi bir yana, çok daha kötüsü temsil ettikleri halkın kendi kendisini yönettiği bir rejim olan demokrasiye olan inanç ve güveni de sarsmaya başladılar.<br />
+Özet olarak söylemek gerekirse, sanıyorum tarihler bu dönemi “yolsuzluk, hukuksuzluk, baskı ile yaratılan korku ve yalanın gerçek gibi sunulduğu “ Bir dönem olarak yazacaktır.<br />
+Yukarıda yazdıklarıma bazı örnekler vererek açıklık getirmek istiyorum.<br />
+Günümüz siyasetinde bir Genel Başkan var ki, Referandum öncesi mitinglerde ve partisinin meclis gurubunda yaptığı konuşmalarda benim burada yazmaya kalemimin izin vermediği cümlelerle başlayıp “Senden her şey olur ama Cumhurbaşkanı olmaz” Diye noktalayarak yeri göğü inletiyordu.<br />
+Aynı Genel Başkan, Haziran 2018 Cumhurbaşkanlığı ve Genel seçim öncesi tam tersine bir dönüşle yarattığı bir “Beka sorunu” Gerekçesi ile seçilmesi için bütün gücünü kullanarak Sayın Recep Tayyip Erdoğan’ın Cumhurbaşkanı olmasını sağlıyordu.<br />
+Söz ettiğim kişi, MHP’ nin Genel Başkanı Sayın Devlet Bahçeli’dir.<br />
+İnanıyorum ki, zaman Sayın Bahçeli’nin bu dönüşlerinin nedenine açıklık getirecektir.<br />
+Ama toplumun çok şaşırdığı, benim ise ülkemizin siyasi yapısı adına çok üzülerek izlediğim şey, Sayın Bahçeli’nin dün söylediklerini ayağa kalkarak büyük bir heyecanla alkışlayanların, Sayın Bahçeli’nin bugün o söylediklerinin tam tersini söylediğinde de avuçlarını patlatırcasına alkışlayarak destek vermeleridir.<br />
+Belli bir siyasi konum kazanmış bu insanların, birbirinin tam tersi her iki konuşmayı da alkışlarken çekilmiş fotoğraflarına bakıp, kişiliklerini sorgulamaları gerekir diye düşünüyorum. Siyasi koltukların, saygınlıktan daha değerli olması gerçekten çok üzücü.</p>
+<p>Bu dönemin bir başka önemli olgusu ise, çok sayıda yalanın tekrarlanmasıdır. Yalan söylemek zekâ ve güçlü bir hafıza gerektirir. Bu iki temele dayanmayan yalanlar, belki ilk etapta söyleyene kazandırır ama yalanlar doğrulanmazsa veya söylenenlerin bu kez tam tersi yalanlar söylenirse, kişiye güven ve itibar kaybettirir.<br />
+Almanya’nın Hitler döneminde ki Propaganda Bakanı olan Joseph Goebbel’in tarihe geçen yalan konusunda ki yorumuna göre, “Yeterince büyük bir yalan söyler ve bu yalanı sürekli tekrar ederseniz, insanlar sonunda buna inanmaya başlayacaktır. Devleti yönetenlerin muhalefeti bastırmak için tüm güçlerini kullanması açısından, yalan hayati bir önem taşımaktadır; çünkü gerçekler doğru olandır ve bu da iktidarların en büyük düşmanıdır. “<br />
+Bugün ülkemizde olanlar da budur. Onlarca yolsuzluk iddiası ortalara dökülürken ve bu iddiaların Sayıştay raporları ile belirlenmesine rağmen her defasında tüm bunların yalan olduğu en yetkili ağızlardan sık sık tekrarlanıyor. Sonunda çok eğitimli insanlar dahi gördüklerine değil, yalanlamalara inanır hale geliyor.</p>
+<p>İktidarların süreklilik sağlamak için en çok kullandıkları bir başka şey ise, hukuku kendi istedikleri gibi kararlar verecek şekilde bağımlı hale getirmektir. Bir diğer deyişle, hukukun bağımsızlığını elinden almaktır.<br />
+Hukukun bağımsızlığını yitirmesinin en büyük olumsuz etkisi toplumlar üzerinde olur. Yargının talimatla karar vermeye başlaması, toplumda yargıya olan güvenin kaybolması sonucu korku ortamı yaratır. Toplumsal korkunun yaygınlaşması ve toplumda ki güven duygusunun kaybolması ise, o ülkede bir korku devletinin oluştuğunu gösterir.<br />
+Ne var ki tarih, yolsuzluk, yalan ve hukuksuzluğa dayalı korku toplumu yaratmanın, hiçbir iktidara sonsuza kadar iktidarda kalabilme olanağı tanıdığını yazmamıştır.<br />
+Son vatan toprağı üzerinde kurulmuş son Türk devleti olarak ayakta kalabilmek için bir ve beraber olmaya mecburuz. Birliğimizin sağlanması ise adil bir yargı, hakça paylaşım ve toplumda güven duygusunun yerleşmesi ile mümkündür. Bunu sağlamakta, en başta ülkemizi yönetenler ve yönetmeye talip olanların görevidir.<br />
+Halkımız bugün kendisine layık görülen bağımlı hukuku, gücü elinde bulunduranlar hızla zenginleşirken, kendisinin büyük bir kesiminin fakirleşmesini ve güvenini yitirerek korku kıskacına sokulmasını hak etmemektedir.<br />
+Ülkemizi yöneten ve yönetmeye talip olanlar,<br />
+Lütfen ama Lütfen!<br />
+Siyasi kültürümüze ve demokrasimize daha fazla zarar vermeyiniz.<br />
+İmam-Cemaat benzetmesini bu halka yaşatmayınız.<br />
+Her şeye rağmen, umutlarımızı ve ülkemizin huzur ortamına ulaşması beklentisini koruyarak güzel bir hafta diliyorum. 09.06.2019<br />
+Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0943-vah-samsun-um-vah.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0945-abd-nin-i-slam-i-i-slamla-vurma-projesi.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

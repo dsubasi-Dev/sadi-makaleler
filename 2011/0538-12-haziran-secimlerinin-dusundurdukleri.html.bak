@@ -1,0 +1,360 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>12 Haziran Seçimlerinin Düşündürdükleri</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+12 Haziran Seçimlerinin Düşündürdükleri
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2011
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0538
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>12 HAZİRAN SEÇİMİNİN DÜŞÜNDÜRDÜKLERİ..</p>
+<p>Ülkemizin önümüzdeki süreci açısından çok önemli bir seçimi geçen Pazar günü gerçekleştirdik. Çok sert, hatta oy uğruna küfüre varan söylemler miting alanlarını çınlattı.<br />
+Seçimlerden ezici bir oy oranı ile başarılı çıkan Sayın Erdoğan, meşhur balkon konuşmasında rakiplerine zeytin dalı uzatarak helallik istedi.<br />
+MHP’NİN cevabı, helalleşmenin o kadar kolay olmadığı, önce hesaplaşılması gerektiği şeklindeydi. CHP ise, önce özür bekliyordu.<br />
+Anlaşılan, seçim sonrası çok önemli gündem maddelerinin konuşulacağı ülkemizi yeni bir gerilim bekliyor.<br />
+Herşey bir yana seçimin belki de sevinilecek en önemli yanı, korkulan hiç bir terör ve polisiye olayının yaşanmamış olmasıdır.<br />
+Seçimin sonuçlarının en kısa analizi ise,<br />
+AKP’NİN neredeyse tüm partilerin aldığı toplamı kadar oy alarak bir kez daha tek başına iktidar olması,<br />
+CHP’NİN değişen ve yenilenen yeni yapısı ile beklenen oy patlamasını yapamamasına rağmen, ilerisi için umutları artırması,<br />
+MHP’NİN ise, özel yaşamları ihlal eden rezil ve bir o kadar da siyasi rekebete darbe vurarak haksız rekabete zemin hazırlayan şantaj kasetlerine rağmen, barajı aşma başarısını göstermesiydi.<br />
+Sonuç olarak söylemek gerekirse seçimlerin tek bir kazananı vardır, O da AKP’DİR.<br />
+Seçim sonuçlarına Samsun açısından bakınca da durum Türkiye genelinden farklı değildir. Samsun’da partilerin milletvekili dağılımı 2007 de ki gibi 6-2-1 olarak gerçekleşmiştir.<br />
+Samsun’da AKP 7 ve üzerinde, CHP’de en az 3 milletvekili çıkartma iddiası ile seçim kampanyasını yürütmüştür. Sonuçta her iki parti de mevcut sayıları ile yetinmiştir.<br />
+MHP’de ise hava bulanıktı. Adaylar belli olunca ilk sıra adayı nedeniyle kendi tabanından büyük tepki aldı ve açıkça milletvekili dahi çıkartmaları zor gözüküyordu. İşte bu sırada, ilk sıra adayı ile ilgili olarak yaşanan şantaj kaseti olayı, bir anda sıralamayı değiştirdi ve bu değişim tabanın yeniden toparlanmasını ve bir milletvekili çıkartmalarını sağladı.<br />
+Seçim sürecinde Samsun’da çok iddialı olan CHP de ise, seçim sonuçları ile hayal kırıklığı yarattı. Aslında CHP’ni yakından bilenler için bu sonuç çok da şaşırtıcı olmamalıdır. Bu konuyu ileride daha detaylı olarak değerlendirmek üzere bugünlük kısaca bir kaç tespitimi aktarmak istiyorum.<br />
+CHP Samsun’da  2007 de %17.6 olan oy oranını, 2011 de %21.6 çıkartarak dört puanlık bir başarı sağlamasına rağmen, yine de Türkiye ortalamasının beş puan altında kalmıştır.<br />
+Bence en çarpıcı sonuçlar, ilk sıralarda yer alan adayların kendi seçim çevrelerinde CHP’NİN oy artışına paralel bir oy artışı dahi sağlayamamış olmasıdır.<br />
+Hemen her ilçede oy oranı az da olsa yükselirken, en büyük yükseliş Alaçam’da olmuş, Vezirköprü ise, düşündürücü bir şekilde düşmüştür.<br />
+Seçim bitmiştir. Artık önemli olan önümüzde ki süreçte ülkemiz de nelerin olacağıdır.<br />
+Umarım ki, bu seçim sonrası ortaya çıkan tablo, bazı beklentileri karşılarken yeni korkulara zemin yaratmaz.<br />
+Nedir bu beklentiler?<br />
+Öncelikle tamamen yenileneceği söylenen ANAYASA’nın, halkımızı rahatlatacak ve geleceğe daha güvenli bakmasını sağlayacak bir uzlaşma ortamında hazırlanması konusunda özen gösterilmesidir.<br />
+Yeni yapılanması nedeniyle bir kesimi tedirgin eden “Yargının”, tarafsızlığı ve güveninirliliği inandırıcı hale getirilmesi bir başka beklentidir.<br />
+Ergenekon Davası çok kısa sürede tamamlanmalıdır.  Dört yıla yakın süredir haklarında ki dava sonuçlandırılmadığı için tutuklu bulunanların durumu aydınlatılmasıdır.<br />
+Çünkü en ağır adi suçlulara dahi uygulanmadığı halde, haklarında kesinleşmiş bir yargı kararı bulunmayan Ergenekon Davasından tutuklu bazı gazetecilerin, bir-iki metrekarelik hücrelerde yaşamaya mahkum edilmesinin kabuledilecek bir tarafının olmamasıdır.<br />
+Daha doğru düzgün kanıtlanabilmiş bir delil olmamasına rağmen, Silahlı Kuvvetlerin üst kademelerinde ki subayların tutuklanmaya devam etmesi, Ağustos ayı sonunda yapılacak Askeri Şura öncesi ayrı bir önem kazanmıştır.<br />
+Tam bu sırada yurt dışında ki cemaat liderinin Türkiye’de ki sözcüsü olduğu bilinen bir köşe yazarının köşe yazısında vurguladığı bazı tespitler kuşkuları artırmaktadır.<br />
+Yazar, seçimde büyük bir başarı sağlayan AKP’NİN bu başarısının, sadece AKP’NİN bir başarısı olmadığını söyleyerek belli bir odağın da bu başarıda ki desteğinden söz etmektedir.<br />
+Yine aynı yazıda daha da ileri giderek, Sayın R. Tayyip Erdoğan’ı ustalık dönemin de iki önemli sınavın beklediğini yazmıştır.<br />
+İlk testin Bakanlar Kurulunun kimlerden oluşacağının, ikinci testin ise Yüksek Askeri Şura’da ki atamaların nasıl oluşacağının belirlenmesinde yapılacağını yazmaktadır.<br />
+Bunun anlamı hükümetin de dışında bir gücün etkisini açığa vurmaktır.<br />
+O zaman ordunun üst kademesindeki generallerle, özellikle generalliğe yükselmesi muhtemel kurmay albayların ardı ardına tutuklanması, “Acaba ordunun üst kademesinde yeni bir ekibe yer mi açılıyor” gibi sorularını akla getirmektedir. Bu soru işaretleri ve endişeler giderilmelidir.<br />
+Yine geçtiğimiz hafta içersinde bir TV kanalında, program yapımcısının aynı düşünce de olmadığı birisini Başbakan’ı ziyaretinden sonra tutuklattıracağını  söylemesi ve sıra da başka tutuklamaların olacağı tehdidini savurması gerçekten ürkütücüdür.<br />
+Toplumun beklediği, AKP’NİN kazanılan bu başarısını ve TBMM’ de ki sayısal gücünü toplumu daha da gerecek ve korkutacak uygulamalar yerine toplumu rahatlatacak ve geleceğe daha güvenle bakacak projeleri hayata geçirmesidir.<br />
+Seçim sonuçlarının ülkemiz için daha huzurlu ve güvenli bir ortam sağlaması  dileğiyle, iyi haftalar..18 Haziran 2011</p>
+<p>SADİ SUBAŞI</p>
+<p>e-posta; sadisubasi@denizeczaneoptik. com                              SUNUŞ</p>
+<p>12 HAZİRAN SEÇİMİNİN DÜŞÜNDÜRDÜKLERİ..</p>
+<p>Ülkemizin önümüzdeki süreci açısından çok önemli bir seçimi geçen Pazar günü gerçekleştirdik. Çok sert, hatta oy uğruna küfüre varan söylemler miting alanlarını çınlattı.<br />
+Seçimlerden ezici bir oy oranı ile başarılı çıkan Sayın Erdoğan, meşhur balkon konuşmasında rakiplerine zeytin dalı uzatarak helallik istedi.<br />
+MHP’NİN cevabı, helalleşmenin o kadar kolay olmadığı, önce hesaplaşılması gerektiği şeklindeydi. CHP ise, önce özür bekliyordu.<br />
+Anlaşılan, seçim sonrası çok önemli gündem maddelerinin konuşulacağı ülkemizi yeni bir gerilim bekliyor.<br />
+Herşey bir yana seçimin belki de sevinilecek en önemli yanı, korkulan hiç bir terör ve polisiye olayının yaşanmamış olmasıdır.<br />
+Seçimin sonuçlarının en kısa analizi ise,<br />
+AKP’NİN neredeyse tüm partilerin aldığı toplamı kadar oy alarak bir kez daha tek başına iktidar olması,<br />
+CHP’NİN değişen ve yenilenen yeni yapısı ile beklenen oy patlamasını yapamamasına rağmen, ilerisi için umutları artırması,<br />
+MHP’NİN ise, özel yaşamları ihlal eden rezil ve bir o kadar da siyasi rekebete darbe vurarak haksız rekabete zemin hazırlayan şantaj kasetlerine rağmen, barajı aşma başarısını göstermesiydi.<br />
+Sonuç olarak söylemek gerekirse seçimlerin tek bir kazananı vardır, O da AKP’DİR.<br />
+Seçim sonuçlarına Samsun açısından bakınca da durum Türkiye genelinden farklı değildir. Samsun’da partilerin milletvekili dağılımı 2007 de ki gibi 6-2-1 olarak gerçekleşmiştir.<br />
+Samsun’da AKP 7 ve üzerinde, CHP’de en az 3 milletvekili çıkartma iddiası ile seçim kampanyasını yürütmüştür. Sonuçta her iki parti de mevcut sayıları ile yetinmiştir.<br />
+MHP’de ise hava bulanıktı. Adaylar belli olunca ilk sıra adayı nedeniyle kendi tabanından büyük tepki aldı ve açıkça milletvekili dahi çıkartmaları zor gözüküyordu. İşte bu sırada, ilk sıra adayı ile ilgili olarak yaşanan şantaj kaseti olayı, bir anda sıralamayı değiştirdi ve bu değişim tabanın yeniden toparlanmasını ve bir milletvekili çıkartmalarını sağladı.<br />
+Seçim sürecinde Samsun’da çok iddialı olan CHP de ise, seçim sonuçları ile hayal kırıklığı yarattı. Aslında CHP’ni yakından bilenler için bu sonuç çok da şaşırtıcı olmamalıdır. Bu konuyu ileride daha detaylı olarak değerlendirmek üzere bugünlük kısaca bir kaç tespitimi aktarmak istiyorum.<br />
+CHP Samsun’da  2007 de %17.6 olan oy oranını, 2011 de %21.6 çıkartarak dört puanlık bir başarı sağlamasına rağmen, yine de Türkiye ortalamasının beş puan altında kalmıştır.<br />
+Bence en çarpıcı sonuçlar, ilk sıralarda yer alan adayların kendi seçim çevrelerinde CHP’NİN oy artışına paralel bir oy artışı dahi sağlayamamış olmasıdır.<br />
+Hemen her ilçede oy oranı az da olsa yükselirken, en büyük yükseliş Alaçam’da olmuş, Vezirköprü ise, düşündürücü bir şekilde düşmüştür.<br />
+Seçim bitmiştir. Artık önemli olan önümüzde ki süreçte ülkemiz de nelerin olacağıdır.<br />
+Umarım ki, bu seçim sonrası ortaya çıkan tablo, bazı beklentileri karşılarken yeni korkulara zemin yaratmaz.<br />
+Nedir bu beklentiler?<br />
+Öncelikle tamamen yenileneceği söylenen ANAYASA’nın, halkımızı rahatlatacak ve geleceğe daha güvenli bakmasını sağlayacak bir uzlaşma ortamında hazırlanması konusunda özen gösterilmesidir.<br />
+Yeni yapılanması nedeniyle bir kesimi tedirgin eden “Yargının”, tarafsızlığı ve güveninirliliği inandırıcı hale getirilmesi bir başka beklentidir.<br />
+Ergenekon Davası çok kısa sürede tamamlanmalıdır.  Dört yıla yakın süredir haklarında ki dava sonuçlandırılmadığı için tutuklu bulunanların durumu aydınlatılmasıdır.<br />
+Çünkü en ağır adi suçlulara dahi uygulanmadığı halde, haklarında kesinleşmiş bir yargı kararı bulunmayan Ergenekon Davasından tutuklu bazı gazetecilerin, bir-iki metrekarelik hücrelerde yaşamaya mahkum edilmesinin kabuledilecek bir tarafının olmamasıdır.<br />
+Daha doğru düzgün kanıtlanabilmiş bir delil olmamasına rağmen, Silahlı Kuvvetlerin üst kademelerinde ki subayların tutuklanmaya devam etmesi, Ağustos ayı sonunda yapılacak Askeri Şura öncesi ayrı bir önem kazanmıştır.<br />
+Tam bu sırada yurt dışında ki cemaat liderinin Türkiye’de ki sözcüsü olduğu bilinen bir köşe yazarının köşe yazısında vurguladığı bazı tespitler kuşkuları artırmaktadır.<br />
+Yazar, seçimde büyük bir başarı sağlayan AKP’NİN bu başarısının, sadece AKP’NİN bir başarısı olmadığını söyleyerek belli bir odağın da bu başarıda ki desteğinden söz etmektedir.<br />
+Yine aynı yazıda daha da ileri giderek, Sayın R. Tayyip Erdoğan’ı ustalık dönemin de iki önemli sınavın beklediğini yazmıştır.<br />
+İlk testin Bakanlar Kurulunun kimlerden oluşacağının, ikinci testin ise Yüksek Askeri Şura’da ki atamaların nasıl oluşacağının belirlenmesinde yapılacağını yazmaktadır.<br />
+Bunun anlamı hükümetin de dışında bir gücün etkisini açığa vurmaktır.<br />
+O zaman ordunun üst kademesindeki generallerle, özellikle generalliğe yükselmesi muhtemel kurmay albayların ardı ardına tutuklanması, “Acaba ordunun üst kademesinde yeni bir ekibe yer mi açılıyor” gibi sorularını akla getirmektedir. Bu soru işaretleri ve endişeler giderilmelidir.<br />
+Yine geçtiğimiz hafta içersinde bir TV kanalında, program yapımcısının aynı düşünce de olmadığı birisini Başbakan’ı ziyaretinden sonra tutuklattıracağını  söylemesi ve sıra da başka tutuklamaların olacağı tehdidini savurması gerçekten ürkütücüdür.<br />
+Toplumun beklediği, AKP’NİN kazanılan bu başarısını ve TBMM’ de ki sayısal gücünü toplumu daha da gerecek ve korkutacak uygulamalar yerine toplumu rahatlatacak ve geleceğe daha güvenle bakacak projeleri hayata geçirmesidir.<br />
+Seçim sonuçlarının ülkemiz için daha huzurlu ve güvenli bir ortam sağlaması  dileğiyle, iyi haftalar..18 Haziran 2011</p>
+<p>SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0537-secim-surecinde-akillarda-kalanlar.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0539-chp-neden-26-da-kaldi.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

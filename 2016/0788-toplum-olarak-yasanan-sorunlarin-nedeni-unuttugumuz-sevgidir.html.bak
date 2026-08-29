@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Toplum Olarak Yaşanan Sorunların Nedeni Unuttuğumuz Sevgidir.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Toplum Olarak Yaşanan Sorunların Nedeni Unuttuğumuz Sevgidir.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2016
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0788
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>ULUS OLARAK YAŞADIĞIMIZ SORUNLARIN<br />
+NEDENİ UNUTTUĞUMUZ SEVGİDİR.</p>
+<p>Son yıllarda ülkemiz de siyaset öylesine çirkinleşti ve ülkemizin geleceği açısından endişe duyulan noktaya geldi ki, destek vereni de, karşı çıkanı da, siyasetle yatar kalkar hale geldi.<br />
+Bugün biraz olsun kısır siyasetten uzaklaşarak, sizlere çoktandır unuttuğumuz “SEVGİ’ den” Söz etmek istiyorum.<br />
+Sevgi, Tanrı’nın insanlara verdiği belki de en yüce duygudur. Sevgi, insanlar arası dostluğu sıkılaştıran ve birlikte mutlu olmalarını sağlayan en önemli araçtır diye düşünüyorum.<br />
+Ama bu güzel duygunun, bugün insanlarımız arasında yeterince yer bulduğunu söylemeye de olanak yok. Sevginin yaşandığı ortamlarda ki insanların yüzü ne kadar gülüyorsa, sevginin yer almadığı ortamlarda da yüzü gülen insana rastlamak bir o kadar güç.<br />
+Yurt dışı seyahatlerde sokaklarda görülen insan manzaraları, bu ülkenin bir insanı olarak beni üzüyor. Çünkü oralarda insanların gülen yüzlerinin tersine, benim ülkemde gülümseyen yüzlere hasretiz.<br />
+Sevgi, toplumların huzurunu sağlayan “Saygı ve Hoşgörünün de” Yapı taşıdır.<br />
+Sevginin olmadığı toplumlarda saygıdan söz edilemez. Saygının kaybolduğu yerde de hoşgörü ve uzlaşı beklenemez.<br />
+Son zamanlarda sevgi ve saygının görüntülerine o kadar özlem duyar bir hale geldik ki, toplumda hemen hergün yaşanan insanlık dışı olaylar da bunun en büyük kanıtıdır.<br />
+Sevginin insanlara aşıladığı mutluluk ve huzur ortamı dışa o kadar güzel yansıyor ki, onların ışıltısı karşısında ki insanları da etkiliyor.<br />
+Yaz aylarında sahilde gezintiye veya sabah sporu için yürüyüşe çıkanların karşılaştıkları insanlarla gülümsemeyle de olsa selamlaşmamaları düşündürücü değil midir? Oysa yolda veya bir asansörde rastlaşan iki kişinin, sevgi ve saygının bir göstergesi olan en azından bir “Gülümseme” veya “İyi günler dilemesi” Çok zor değildir.<br />
+Çağdaş ülkeler de, sokakta, asansörde veya bir başka yerde karışılacağınız bir yabancı, mutlaka mimikle de olsa selam verecek veya kendi lisanı ile size “İyi günler” Dileyecektir.<br />
+Üzülerek söylemek gerekirse, ülke olarak bu güzel duyguyu yeterince yaşayamaz hale gelmemizin çok önemli de nedenleri olduğu kanısındayım. Bunu söylememin nedeni, yazımı okuyacak bazılarının ”Bu ülke de, sevgi nasıl yeşersin?” Diye tepki koyacaklarını biliyorum.<br />
+Yukarıda da söylediğim gibi bunun cevabı, sevgiyi yeşertecek ortamın ülkemizde ne kadar sağlandığı sorusudur. Sevgiyi yeşertecek en önemli ortam, ailedir. Çocuklukta tadılacak ve aşılanacak sevgiyi yeterince yaşama şansı bulamayan çocukların, yetişkinlik dönemlerinde bilmedikleri bu duyguyu karşılarındakilere göstermesi beklenemez.<br />
+Birbirlerini severek evlenen çok sayıda çiftin, çok kısa bir süre sonra ayrılık noktasına gelmesi ve bu oranın son yıllarda tavan yaptığını gösteren anketler de yatan asıl neden, ülkemizde giderek ağırlaşan ekonomik sıkıntıların, çiftler arasında ki sevgiyi dahi yok edecek seviyeye gelmiş olmasıdır.<br />
+Sevginin köreldiği ortamlarda ne saygı, ne de hoşgörü kalır ki, bunların olmadığı ortamlarda mutluluktan söz edilemez.<br />
+Bu arada ülkemiz de yerleşmiş eski bir geleneğin de, geçmişte sevgi denen güzel duyguya çok da yer vermediğini söylemeliyiz.<br />
+Geleneğimiz de, zorlama bir saygı, her zaman sevginin önüne geçmiştir. Büyüklerin yanında, korkuya dayalı saygının özgürlükleri kısıtladığı ailelerde sevginin önemi olmamıştır. Oysa sevgi ile saygının kol kola olmadığı yerde mutlu bir yaşam düşünülemez. Mutluluğun olmadığı yerde ise, huzur olması düşünülemez.</p>
+<p>NİHAYET TOPLUM OLARAK YAŞANAN BİR SEVGİ GÖSTERİSİ.<br />
+Son günlerde ülkemiz de yaşanan büyük bir acı, sevginin ne yüce bir duygu olduğunu hepimize yaşatmıştır. Bu şanssız olay, sevgiyi kazanmanın çok da zor olmadığını göstermiştir.<br />
+Böylesine bir sevgiyi hak ettiğini belki kendisi de beklemeyen bir işadamının beklenmedik ölümü ile tüm ülkemiz, “Sevginin” Nasıl bir yankı yapacağının en canlı örneğini yaşadı.<br />
+Ülkemizin en eski ve en güçlü, geleneklerine bağlı bir sanayici ailesinin üçüncü kuşağından olan ve devraldığı holdingi iki kat büyüten, ekmek verdiği çalışanlarının sayısını iki katına çıkartan KOÇ Grubunun Yönetim Kurulu Başkanı, Rahmetli Mustafa Koç ani ölümü ile toplumumuza “SEVGİ” Dersi vermiştir.<br />
+Ülkemiz de son zamanlarda iş adamı denilince, maddi çıkarları adına halkına küfür edecek kadar seviyesizleşen, hatta çalışanlarının haklarını vermedikleri için personeli ile sorunlar yaşayan ve siyasi iktidara biat edenlerin akla geldiği bir dönem de, bir işadamının ölümü ile unuttuğumuz birçok duyguyu Türkiye olarak yaşadık.<br />
+Koç Grubu ile hiçbir ilişkisi olmayan çok sayıda insanı, hatta başka kentlerde ki çalışanlarını cenaze törenine koşturan tek neden, Mustafa Koç’a olan sevgi ve sevginin getirdiği saygı ile güvendi.<br />
+Böyle bir ölüm erken olması nedeniyle ne kadar üzücü ise, bir o kadar da anlamlıydı.<br />
+Cenaze töreninde konuşan çalışanlarının söyledikleri ve duydukları saygının temelinde, Mustafa Koç’un çevresine aşıladığı sevgi yatıyordu. Benim için bir işadamının en büyük kazancı, saygıdan önce çalışanlarının sevgisini kazanmasıdır.<br />
+Rahmetli Mustafa Koç’un ölümünün arkasından gündeme düşen bazı davranışlar öylesine anlamlı ki, bunları başarmış olan KOÇ Gurubuna topluma verdikleri bu güzel mesajlar için bu ülkenin bir insanı olarak teşekkür ediyorum.<br />
+Gazetelerin sanırım hepsine verilen mesajlarda ki sadelik ve özen her türlü alkışı hak etmiştir.<br />
+Bir baba olarak hiçbir babanın yaşamasını dilemeyeceğimiz acısı ile Sayın Rahmi Koç’un, cenaze töreninin ardından Rahmetli Mustafa Koç’un en yakın hastane olarak kaldırıldığı ve ilk müdahalesinin yapıldığı Beykoz Devlet Hastanesi Başhekimine yazdığı teşekkür yazısı ve yapılan masrafın ödeneceğine dair mesajı da çok anlamlıdır.<br />
+Bu ailenin, sevgiyi nasıl dolu dolu yaşadığını ve sevgiyle hangi sorunları nasıl aştığını gösteren geçmiş de yaşanan bir başka hikâyesi de, Mustafa Koç’un ölümü sonrası sosyal medyada yer aldı.<br />
+Rıdvan Akar’ın yayına hazırladığı ve Suna Kıraç’ın, ”Beni yaşatan İpek’e” Atfıyla başlayan "Ömrümden Uzun İdeallerim Var!" Adlı kitabından yapılmış ve benim de paylaştığım bu hikâyeyi internetten arayıp mutlaka okumanızı diliyorum.<br />
+Vehbi Koç’un kızı Suna Kıraç ile eşi İnan Kıraç’ın yaşadığı çocuk edinme hikâyesini ve çağın belki de en kötü hastalığı olan ALS’ e (Bütün organları çalışamaz hale getiren bir hastalık) Yakalanan Suna Kıraç’ın, sevgiyle yoğrulmuş yaşama direnme hikâyesini okuyunca, bu ailenin sevgiyi boşuna kazanmadığını bir kez daha anladım.<br />
+Rahmetli Mustafa Koç’un, hepimizi duygulandıran ölümü ve yarattığı sevgi çemberi bir kez daha göstermiştir ki, ülkemizin huzura kavuşması için toplumumuza SEVGİYİ yeniden yeşertmemiz gerekmektedir.<br />
+Ailede başlayan ve eğitim sırasında sürdürülecek sevginin çocuklarımızı geleceğe çok daha iyi hazırlayacağı kesindir.<br />
+Tabii, ülkeyi yöneten siyasetçilerin de, terbiyeden ve etik kurallardan, hoşgörü ve uzlaşıdan uzak söylem ve tavırlarını bir an önce terk ederek, topluma örnek olmaları kaçınılmaz hale gelmiştir.<br />
+Sevginin değerini bilerek ona sarılan bir toplum olmamız dileğiyle, iyi haftalar diliyorum.. 31.01.2016</p>
+<p>Ecz. Sadi Subaşı</p>
+<p>http://www. hedefhalk. com/)</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0787-chp-ye-yapilan-haksizliklar-i-nsaf.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0789-turkiye-sonu-felaket-olacak-bir-savasa-i-tiliyor.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Savaş Felaket, Sonrası da Sefalettir.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Savaş Felaket, Sonrası da Sefalettir.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2016
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0828
+
+</div>
+
+
+<div class="article-content">
+
+<p>e-posta; denizeczaneoptik. com                            SUNUŞ</p>
+<p>SAVAŞ FELAKET, SONRASI SEFALETTİR.<br />
+DAHA SONRASI DA, ACILARLA DOLU ANILARDIR.</p>
+<p>Geçtiğimiz Cumartesi günü bu ulusun yeniden var olmayı sağladığı, bir anlam da doğum günü olan 29 Ekim 1923 de ilan edilen Cumhuriyetimizin 93. Yıldönümünü kutladık.<br />
+Bu bayramı çok önemli kılan şey nedir sorusunun cevabı,<br />
+1. Dünya Savaşını kaybeden ittifak içerisinde yer aldığı için bütün topraklarını kaybeden, son vatan toprağı olan Anadolu’nun da işgal edildiği Dev Osmanlı İmparatorluğunun küllerinden yepyeni bir devlet kuran Mustafa Kemal Paşa ve arkadaşlarının, kurdukları Devletin çağdaş devletler gibi yönetilmesi için yönetim biçimini Cumhuriyet olarak ilan etmesidir.<br />
+Savaşın nasıl yıkımlara neden olduğunu yakın tarihimizi okuyanların çok daha iyi bildiğine inanıyorum 1. Dünya Savaşının yok ettiği bir imparatorluğun elinden çıkan topraklarında kalan Türklerin nasıl acılarla dolu bir süreçten geçmiş olabileceğini düşünebiliyor musunuz?<br />
+Sevinmemiz gereken şey, Türkiye Cumhuriyeti’nin Mustafa Kemal Atatürk’ün benimsediği “Yurtta Sulh, Cihan da Sulh”  İlkesine yakın zamana kadar sadık kalarak sıcak bir savaşın içerisinde yer almaması ve komşuları ile seviyeli bir ilişkiyi sürdürebilmiş olmasıdır.<br />
+Bu ilke doğrultusun da, 1939 yılında patlayan ve bütün Avrupa’yı kan gölüne çevirdikten sonra 1945 yılında biten 2. Dünya Savaşı’nın da içerisinde olmadık.<br />
+Ne var ki, 35 yıldır sömürgeci güçlerin destekleri ile Güneydoğu Bölgemizde bağımsız bir Kürt Devleti kurmaya yönelik PKK’ nın öncülük ettiği adı konmamış bir terör savaşı devam ediyor.<br />
+Bu bölgemizde yaşayan Kürt, Türk ve diğerlerinin hepsi bu ülkenin vatandaşıdır. Şimdi, o bölgeler de yaşayan bu insanların can güvenliğinin kalmadığı, sosyal yaşamlarının yok olduğu, 35.000 civarında can kaybının yaşandığı, ekonomik yapısının sıfırlandığı bir ortam var.<br />
+Bir an için hemen her gün çatışmaların olduğu böyle bir ortam da yaşadığımızı düşünürsek, savaşın o korkutucu yüzünü görmüş oluruz.<br />
+Üzülerek söylemek gerekirse, Atatürk’ün yerleştirdiği komşularla iyi ilişkileri sürdürme geleneği, Amerika’nın Ortadoğu’nun haritasını yeniden düzenlemeye yönelik “Büyük Ortadoğu Projesini-BOP” Uygulamaya koyması ile terkedilmiş gözüküyor.<br />
+Güneydoğu sınırlarımızın ötesinde süren iç savaşlara yavaş yavaş bizim de girmeye başlamamız, savaş karşıtı herkesi korkutmaya başlamıştır.<br />
+Savaş, kan demektir. Yoksulluk demektir. Yetim kalmış çocuklar demektir. Dul kalmış kadınlar demektir. Özgürlüklerin yok olması demektir. Kaybedersen de esaret demektir.<br />
+Bu gün ülkemizin çoğunluğunu oluşturan 50 yaşın altında olanların, savaşın getireceği yıkımı ve savaş sonrasın da yaşananları bilmesi mümkün olmadığı için barışın değerini anlamaları da kolay değildir.</p>
+<p>SAVAŞ SONRASININ ACI ANILARI.</p>
+<p>Ben 2. Dünya Savaşı’nın son günlerinde (Temmuz 1945) Dünyaya gelmişim. Bilindiği gibi Türkiye, 2. Dünya Savaşına o dönem ülkemizin başında olan İsmet İnönü’nün dikkatli dış politikası ve biraz da şartların ülkemiz lehine gelişmesi sonucu katılmamıştı.<br />
+1. Dünya Savaşından yenik çıkan Osmanlı İmparatorluğu’nun borçlarını da ödemek zorunda kalan Türkiye Cumhuriyeti’nin, tam kendisini toparlamak üzere olduğu bir ortam da, 2. Dünya Savaşına girmesi felaketi olurdu.<br />
+Ben işte böyle bir savaşın bittiği günlerde dünyaya gelmiş ve savaşa girmemiş bir ülke de olmama rağmen, aklımın erdiği ve gördüklerimi algılayabildiğim andan itibaren ülkemizde çekilen sıkıntılar beni öylesine etkilemiş ki, onlar hala gözlerimin önünden filim şeridi gibi geçiyor.<br />
+Evet, Türkiye 2. Dünya Savaşına girmemişti ama her an sıcak savaşın içerisine girmek zorunda kalınması ihtimaline karşı çok sıkı önlemler alınmıştı.<br />
+Bugün dahi, o günün şartlarında muhtemel bu savaşa girmek zorunda kalınması halinde halkının aç kalmaması için yapılan kısıtlamalar, hala kısır siyasetin aracı olarak kullanılmaktadır.<br />
+İşte o savaş döneminin sonrasında yaşanan bir kısmı gözlemime dayanan bir kısmı da evde konuşulanlardan aklımda kalan acı anılarımdan bir demeti sizlerle paylaşmak istiyorum.<br />
+Savaşın sürdüğü sırada ekmeğe getirilen karne ile satışın etkisinden olmalı ki, biz ekmeğin ziyan edilemeyecek bir nimet olduğu anlayışı ile büyüdük. Bayatlayan ekmek kızartılır ve biraz yağ, varsa biraz kıyma ilavesi ile adına “Papara” denen bir yemek yapılır ve tek lokma ekmek dahi ziyan edilmezdi.<br />
+Yemek tabağa yenilebilecek kadar alınır ve kesinlikle tabakta yemek artırılmazdı.<br />
+Ayakkabı ve kıyafet bir kez alınır ve altı delinen ayakkabıların altı değiştirilir (Pençe yapma), kolay eskimesin diye ayakkabının ökçesine ve burun kısmına birer metal çakılırdı.<br />
+Ceketlerin uzun süre giyildiği için rengi solarsa ters yüz edilirdi.     (Tornistan yapmak). Büyüyen çocuğun giysisini kardeşi giyerdi.<br />
+Delinen çorapların yamanması için çorabın içine, “Çorap yumurtası” Denilen yumurta şeklinde sert bir cisim sokulur ve bu yumurta ile gerdirilen delikler yamanırdı.<br />
+Hatırladığım bir diğer şey de, sanırım muhtemel hava saldırı tehlikesine karşı, geceleri pencerelerden dışarı ışık sızmasını önlemek için siyah stor perdeler sıkı sıkı kapatılırdı.<br />
+Bugün savurganlık dediğimiz israf, en büyük ayıp sayılırdı.<br />
+Bu nedenle olsa gerek, lise yıllarında bize okutulan Askerlik ders kitabında ki bir konu ve o konunun bir maddesi beynime çakılmış. Askerlik dersinin “Soğuk Savaş” Başlıklı konusunun bir maddesinde, “ Soğuk savaşta ele geçirilmek istenen bir ülkenin halkı tüketime alıştırılarak önce ekonomisi çökertilir ve ekonomik bağımsızlığı yok edilir” Diye yazıyordu;<br />
+Bugünün kuşağı bunları yaşamadığı için soğuk savaşın yukarıda anlattığım maddesine uygun olarak aşırı tüketime alıştırılırken, üretimden de kopartılmıştır. Bugün lokantalarda ve evlerde artan yemekler ve ekmekler çoğu kez çöpe atılmaktadır.<br />
+Evet, bunlar benim savaş döneminde yaşamadığım halde, büyük bir savaşın sonrasında ki dönemde gözlemlediğim acı anılardır.<br />
+Bugün bunları hatırlatmamın nedeni ise, Güney komşumuz Suriye’de yaşanan iç savaşta milyonlarca insanın öldüğü, taş üstünde taşın kalmadığı yıkılmış kentler, ekonomisi çökmüş ve ülkesinden kaçmak zorunda kalan milyonlarca insanın mülteci olarak yaşadığı dramı göre göre, savaş çığırtkanlığı yapanların aklını başına toplaması içindir.<br />
+Sınırlarımıza sahip çıkmak için ne gerekiyorsa yapılmasından yana bir kişi olarak, bizimle direk ilişkisi olmayan ve sömürgeci gözü dönmüş devletlerin çıkar savaşına bulaşmanın, bu ülkeye kan ve gözyaşı getireceği endişesini taşıyorum.<br />
+Çünkü savaş, sonunun nereye varacağı belli olmayan bir bilmece, açlık, sefalet ve ülkenin yıllardır biriktirdiği ulusal kazanımlarının yok olduğu, özgürlüğün kaybedilmesi ile sonlanabilecek bir felakettir.<br />
+Tanrım bu ülkemizi böyle acılardan korusunn. Gönlünüzce bir hafta dileğiyle.. 30.10.2016</p>
+<p>Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0827-i-nsaat-sektorune-yapilan-yatirimlar-tartisilmalidir.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0829-asil-simdi-samsunspor-a-sahip-cikmanin-tam-zamanidir.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

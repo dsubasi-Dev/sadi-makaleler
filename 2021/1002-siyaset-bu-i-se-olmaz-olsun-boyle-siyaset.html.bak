@@ -1,0 +1,320 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Siyaset Bu İse, Olmaz Olsun Böyle Siyaset.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Siyaset Bu İse, Olmaz Olsun Böyle Siyaset.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2021
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+1002
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>SİYASET BU İSE, OLMAZ OLSUN BÖYLE SİYASET.</p>
+<p>Yaşım 75. Bu ülkenin son 60-65 yılında olanları birebir yaşadım. Bu dönemlerde 2 darbe, iki darbe denemesi ve iki muhtıraya canlı tanıklık ettim. Bunu benim yaşıtlarım olanlarda yaşadı.<br />
+Çocukluğumda her gün evimize Milliyet Gazetesi alınırdı. Babam ajans ( Haber) Tutkunuydu.<br />
+İlkokul ve ortaokul yıllarım (1951-1960 arası) Demokrat parti dönemiydi. Yukarıda belirttiğim gibi babam her akşam mutlaka TRT haberlerini dinler ve yorumlar yapardı. Dinlerken de haberlerin tek yanlı verildiğinden yakınırdı.<br />
+Ülkemiz ile ilgili daha doğru haberleri dinlemek için olmalı ki, kısa dalgadan BBC ve Moskova’nın Sesi radyolarını bulur ve cazırtılar cızırtılar arasında onları da dinlerdi.<br />
+Ben de o sıralarda ilkokul son sınıflardaydım. Dersim yoksa babamla haberleri dinler ve anlamadıklarımı babama sorardım.<br />
+Gerek BBC ve gerekse Moskova’nın Sesi radyoları haber saatlerinde Türkiye’de olup bitenleri çok daha farklı açıdan anlatırdı.<br />
+TRT’ de her akşam haberlerinden sonra “Radyo Gazetesi” Diye bir haber programı başlardı. Bu saatte Demokrat Parti’nin oluşturduğu Vatan Cephesi’ne katılanlar açıklanırdı. Tam bir saat, her gün binlerce ismin Vatan Cephesi’ne katıldığını açıklayarak Demokrat Parti’nin güçlendiği anlatılırdı. Ki, sonra ki yıllarda ölmüş insanların dahi Vatan Cephesine katıldı diye isimlerinin okunduğu anlaşılmıştı. (Bu gün de üye olmayanların iktidar partisinde üyeliklerinin çıktığını okuyoruz.)<br />
+Demokrat parti iktidarının son yıllarında, muhalefet parti liderinin illere sokulmadığına, taşlarla yaralandığına, bir başka ilimizin (Kırşehir) Osman Bölükbaşı’nın partisine oy verdi diye ilçe yapıldığına tanık olduk.<br />
+1980 Darbesi ile çok sayıda bilim adamının üniversitelerden kopartıldığına, gazetecilerin cezaevlerine kapatıldığına, ülkemizin geleceği olan önemli siyasetçilerin siyasetten dışlandığına, daha da acısı anarşist damgası vurulan gençlerin geleceğinin karartılmasına tanıklık ettik.<br />
+Hatta yaşı tutmadığı için 17 yaşında tam bağımsız Türkiye talebinden ve vatanını sevmekten başka suçu olamayan bir gencimizin düzen yanlısı yargı aracılığı ile yaşı büyütülerek idam edilmesini çaresizlikle izledik.<br />
+On yıl sonra bu kez laik düzen karşıtlığının arttığı günlerde, 28 Şubat olayları ve ardından da Muhtırası yaşandı. O gün yaşananların, bugün din düşmanlığı olarak çarpıtılarak siyasi çıkar sağlanmaya çalışılması da düşündürücüdür.<br />
+Demokratik sistemimize yapılan diğer müdahalelerden söz dahi etmeyeceğim.<br />
+Siyaset adına yaşanan bu kadar olumsuzluklardan sonra 2002 de, yeni kurulmuş ve tüm bu yanlışları gidermek, özgürlükleri genişletmek, eşit adalet sağlayarak huzurlu bir Türkiye vaatleri ile AKP iktidara geliyordu.<br />
+İlk yıllarında beğeni alan işlerde yapan iktidarda, Başkanlık Sistemi ile birlikte giderek önceki iktidarların yaptığı yanlışlardan daha büyüklerini yapmaya başladı.<br />
+Hukuk tarafsızlığını yitirerek iktidara bağımlı hale getirildi. Yazılı ve görsel basının %90’ı yandaşlaştırılarak iktidarın sözcülüğünü yapmaya başladı. İktidarı eleştiren yazılı ve görsel basın organları ise çeşitli yaptırımlarla ve sözcüleri yargılamalarla susturulmaya çalışılıyor.<br />
+Geriye dönüp ülkemizin geçmiş 70 yıla baktığımda siyasette yanlışlar adına değişen bir şey olmadığını görmenin üzüntüsünü yaşıyorum.<br />
+Yine muhalefet lider ve sözcüleri linç edilmeye çalışılıyor, gazeteciler dövülüyor ve iktidar ise adeta seyrediyor. Kısacası yine geçmiş dönemlerin yanlışları yaşanıyor. Yazık ki, çok yazık.<br />
+Demokrasinin bu kadar kötüye kullanıldığı çağdaş bir ülke olamaz. Ne yazık ki, eğitim seviyemizin giderek düşmesi, daha doğrusu düşürülmesi ile cahil bir toplum yaratılmaya çalışılıyor.<br />
+Bazı üniversite akademisyenlerinin de itiraf ettiği gibi adeta cahilleştirilmiş bir toplumdan medet umuluyor.<br />
+Nitekim yüzyıllar önce demokrasinin ilk uygulandığı Roma’da ünlü düşünür Aristo’nun demokrasiler için söylediği, “Demokrasiler, eğitimli toplumların rejimidir. Eğitimsiz toplumlarda yapılan seçim ortamlarında demagoglar çıkar ve seçmeni etkiler. Sonuçta,  demokrasinin sağladığı özgürlükler ortamında seçim yapılırsa, eğitimsiz (Cahil) toplumlar kendi zorba yönetimlerini yaratır.” Tezini doğruluyor.<br />
+Üzülerek söylemek gerekirse, tarihe karışan bir imparatorluktan yeni ve çağdaş bir devlet yaratan Mustafa Kemal Atatürk’ün gösterdiği hedeflerden uzaklaştıkça yanlışlar yapmaya başladık.<br />
+Onun kurduğu Laik ve Hukuk düzeninde ki Çağdaş Türkiye Cumhuriyetiyle getirilen demokrasinin sağladığı özgürlükler, ünlü düşünürün de söylediği gibi ne yazık ki kötüye kullanılmaya başladı.<br />
+Lütfen! Herkes Atatürk sonrası aradan geçen 80 yılı gözden geçirsin. 1940 sonrası Cumhuriyet döneminde ne yanlışlar yaptıkta bu günkü üretmeyen, elinde ki milli değerleri yabancılara satan ve en temel gıdasını dahi yabancılardan almak zorunda kalan bir ülke haline geldik?<br />
+Lütfen, şimdi siyasi şapkalarınızı çıkartarak bunları bir düşünün.<br />
+Eğer başta ülkemizi yöneten siyasetçiler olmak üzere, tüm yetkililer yanlışlarını görerek bunlardan kurtulmadıkça ve iktidarda kalabilmek için demokratik haklarımızı kısıtlamaktan vaz geçmedikçe, ülkemizi gelecekte çok daha zor günler bekleyecektir.<br />
+Hiç unutulmasın ki, ülkelerin geçmişini doğruları ve yanlışları ile tarih yazmaktadır. Tarih affedici değildir. Gerçekleri yazar.<br />
+Sanıyorum tarihler ülkemizin Cumhuriyet sonrasını yazarken, Atatürk’ün kurduğu Laik, Çağdaş Hukuk düzenini sonuna kadar savunanları alkışlarken, laik ve hukuk düzenini yozlaştırarak ülkemizi Orta Doğu’nun karanlığına sürüklemek isteyenleri suçlu ilan edecektir.<br />
+Konfüçyüs derki; Bir yerde küçük insanlarin büyük gölgeleri varsa, o<br />
+yerde gün batıyor demektir. MÖ: 551-479<br />
+Tüm halkımızın Covit-19 aşılarını yaptırdığı günleri görmek umuduyla,<br />
+sağlıklı ve Covitsiz bir hafta diliyorum. 117.01.2021</p>
+<p>Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="1001-turk-futbolu-yok-ediliyor.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="1003-samsun-ile-i-lgili-i-yi-haberler-ne-zaman-duyacagiz.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Etik Değerlerini Yitiren Siyaset Anlayışı Ülkemizin Geleceğini Karartıyor.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Etik Değerlerini Yitiren Siyaset Anlayışı Ülkemizin Geleceğini Karartıyor.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2009
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0396
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>ETİK DEĞERLERİNİ YİTİREN SİYASET,<br />
+ÜLKEMİZİN GELECEĞİNİ KARARTIYOR.</p>
+<p>Siyasetçinin amacı, siyaseti toplumların daha iyiye gitmesi, yaşam kalitesinin yükseltilmesi için kullanmak olmalıdır. Çünkü siyaset sosyal bir olaydır, iletişim becerisi ister. Siyasetin etiğinde kişisel çıkar ve beklentilere yer yoktur. Bu anlayışta ki siyaset özveri ister. Bu anlayışta ki siyasette bencilliğe de yer yoktur. Çağdaş anlamda ki siyasette almak değil vermek vardır.<br />
+Eğer doğru siyaset bu ise, bizim ülkemizde yapılanın adı siyaset olamaz. Bunun adı olsa olsa, kısa yoldan köşeyi dönmedir. Çevresine çıkar sağlamaktır. Ne yazık ki, bu çarpık siyasi anlayışın sürgit devam etmesinde ki en büyük destek, siyasi partilerin tepe noktasında oturan genel başkan ve onun çevresinde oluşan destek kıtalarından gelmektedir. Çünkü tepe de kurulan sultanın devamı biat ( koşulsuz destek ) sistemine bağlıdır. O nedenle üst yönetimler için, siyasetin mutfağı olan il ve ilçe teşkilatları ile onların oluşturduğu delege yapısının kalite ve seviyesinden çok kendilerine verecekleri şartsız destek önemlidir. Ön şart bu olunca, benden olsun da nasıl olursa olsun anlayışı siyasete hâkim olmuş ve çok sayıda fırsatçı, para hırsı ile gözü dönmüş çapsız insanlar siyasette öne çıkmıştır.<br />
+Sonuçta siyaset ülkemizde çıkar kapısı haline gelmiştir. İş o kadar rayından çıkmıştır ki, belirli yerlere gelen insanlar buraları kaybetmemek adına inanılmaz ödünler verebilmekte, kişisel onurlarının ayaklar altında paspas haline getirilmesine dahi göz yumabilmektedirler. Siyasetin bu derece yozlaştırıldığı ülkemizde, siyasi güven ve barış ortamının sağlanmasını ve devamlığını beklemek hayal haline gelmiştir.<br />
+İşte bu çarpık siyasi anlayışın yarattığı birkaç kötü örnek.</p>
+<p>SİYASET ADINA YEREL BASININA DARBE VURULDU.</p>
+<p>AKP Genel Başkanı’nın yerel seçim takvimini açıklaması ile başlayan adaylık yarışması Samsun’da ciddi ayrışmalara ve kamplaşmalara neden oldu. Özellikle de Büyükşehir Belediye Başkanlığı üzerinde başlatılan tartışmalar ve bazı adayların dolaylı da olsa yerel gazeteler üzerinde sağladığı parasal destek, bir anda Samsun’da da “ yandaş medya” söylentileri ve karşılıklı suçlamaları gündeme oturttu.<br />
+Sınır tanımaz siyasi ihtiraslar, bazı gazetelerin bu amaçla el değiştirmesine, dün dost olan çok sayıda gazetecinin birbirlerini yandaşlıkla suçlayarak birbirlerine girmesine ortam hazırladı. Sonunda iş polisiye olaylara kadar uzandı.<br />
+Oysa bu kent yerel basın konusunda uzun yıllar büyük bir boşluk yaşamış ve son on yılda başlayan hızlı bir gelişme ile hepimizi mutlu eden gelişmeler olmuştu. Her geçen gün sayısı artan yazılı ve görsel basın organı tüm zorluklara rağmen kalitesini yükseltiyordu. Gerek baskı teknikleri, gerekse haber nitelikleri yanında ciddi köşe yazıları ile de diğer kentleri kıskandırmaya başlamıştı.<br />
+Basını güçlü yapan onun okuyucusuna sağlayacağı güvendir. Bu da ancak vereceği haberlerin tarafsızlığı ile ilgilidir. Çünkü basın organı tarafsız olabildiği sürece topum adına denetleme görevini sürdürebilir. Geçmiş yıllarda bugünküne benzer bir olay yaşanmış ve yine bir yerel seçimde açık şekilde taraf olan bir yerel gazete, seçim sonrası çok sayıda okuyucusunu kaybetmişti.<br />
+Kısır siyaset ve kişisel ihtiraslar adına Samsun yerel basınına dinamit konmuş ve bu zor mesleğin yükünü çeken gazeteci dostlarımız birbirine düşman edilmiştir. Değer miydi? Bu basın bize her zaman gerekli değil mi? Yarın bu kenti yönetecek olanlar bunu nasıl düşünmezler anlamak mümkün değil.<br />
+İşte size yozlaşan siyasetin çarpıcı bir örneği.</p>
+<p>CHP, İLKELİ SİYASET ADINA YANLIŞLARI SÜRDÜRÜYOR.</p>
+<p>Siyaset bu kadar yozlaştırılır? Sosyal Demokrat bir parti ilkelerine nasıl böylesine ihanet eder? Anlaşılır gibi değil. Ne olur, birileri çıksın bana bunu anlatsın. Benim sosyal demokrat anlayışım mı yanlış? Yoksa bu partiyi birileri güvenilir olmaktan çıkarmaya mı çalışıyor? Laik ve Çağdaş Demokrasiyi savunan bir parti, nasıl olurda kendi bünyesinden ve kendi ilkelerine bağlı yerel yönetici adayları çıkartmak yerine, bugüne kadar sağ partilerde yer almış insanlara kapı açar? Veya neden bu söylentileri ret ederek yanlış yorumların önünü kapatmaz? Ankara’lardan sağ görüşlü insanlara teklif yapıp reddedilmek bu partiye yakışıyor mu?<br />
+Bu söylentilerin konuşulur olması dahi, misyonu olan bir parti için utanç vericidir. Bu tavır parti üyelerine hakarettir. Bunun adı, “BENİM BU GÖREVLERE GETİREBİLECEK DÜZEYDE PARTİLİM YOK” demektir. Bunu söyleyebilen, bunu aklından geçiren birisinin, bu partinin yönetiminde olmaya hakkı yoktur. Kendi partisine ve partilisine güven duymayanların yönettiği partiye, seçimde nasıl oy isteyecek siniz? Biat anlayışı, yönetimleri sonunda nerelere getirdi görüyor musunuz? Yazıklar olsun, Atatürk’ün partisini bu durumlara düşürenlere. Yazıklar olsun, bu yanlışlara göz yumanlara ve susanlara.<br />
+Buyurun size bir başka yozlaşmış siyaset örneği daha..</p>
+<p>İyi haftalar.. 18 Ocak 2009</p>
+<p>DİP NOT: 1- Bu yazımı yazdıktan sonra, Halk Gazetesi’nde ve bazı internet gazetelerinde, DSP’den Büyükşehir Belediye Başkanlığımın gündeme geldiği, DSP İL Başkanı Sayın Enver Mertoğlu kaynaklı bir haber yer almıştır. Hatta bu konuda hafta sonunda Samsun’a gelen DSP’li Eskişehir Büyükşehir Belediye Başkanı Sayın Prof. DR. YILMAZ BÜYÜKERŞEN’İN bu konuyu benimle görüştüğü belirtilmiştir.<br />
+Evet, önce DSP İl Başkanı Sayın Enver Mertoğlu ve İlçe Başkanı Sayın Ceyhun Karamangil tarafından ziyaret edildim. Son derece etik ve nezaket kuralları içerinde geçen görüşmede, benden bir ilçe için aday yapmayı düşündükleri ve SAM-SEV’DE benim yönetim kurulumda üye olan bir arkadaşımın ikna edilmesi konusunda destek istendi.<br />
+Benimle ilgili düşüncelerine ise, “Çok onur duyduğumu, ancak hem bir başka siyasi partinin üyesi olduğumu, siyasi terbiyemin bu tür parti değişimlerine izin vermeyeceğini, hem de artık siyasi bir beklentimin kalmadığını belirterek teşekkür ettim.<br />
+Yine geçen hafta Perşembe sabahı DSP’NİN aynı iki yöneticisi ile DSP’NİN eski Samsun Milletvekili Sayın Yekta Açıkgöz beni ziyarete gelerek, Sayın Prof. DR. Yılmaz BÜYÜKERŞEN’inin Ordu’dan Samsun’a geleceğini ve kendisinin yaparak Samsun’a armağan ettiği ve Gazi Müzesi’nde bulunan Atatürk ve Samsun’a birlikte çıktığı 18 silah arkadaşına ait mum heykelleri görmek istediğini, benim de orada olmamı rica ettiler.<br />
+Sayın BÜYÜKERŞEN ile müzede bir saat kadar birlikte olduk. Aramızda kesinlikle siyasi bir görüşme olmamıştır. Yerel basından orada bulunan muhabir arkadaşlarımızın yanında olan bu birlikteliliğin başka yerlere çekilmesi ve yorumlanması en azından Sayın BÜYÜKERŞEN’e ve DSP’YE yapılan bir haksızlıktır diye düşünüyorum.<br />
+2- Üç hafta önce yerel basında çıkan termik santralleri aklayan bazı köşe yazılarına karşı kendi köşe yazımda, bu konuya değinmiş ve bazı eksik bilgileri sizlerle paylaşmıştım. Yazım da ÇEVRE BİRLİKTELİĞİ’NDEN söz ederken “yürütme kurulunu” kastederek 6 kuruluşun ismini vermiştim. Bu konuda Çevre Birlikteliği yapısında başından itibaren yer alan ve destek veren bazı STK Başkanlarından sitem aldım. Bunlardan birisi de çok sevdiğim dostum, Makine Mühendisleri Odası Samsun Şube Başkanı Sayın Kadir Gürkan’dı. İsimlerini tek tek yazamadığım ve çevre birlikteliğini oluşturan 40 a yakın STK Başkanından bu eksiklik nedeniyle hoş görü beklediğimi açıklamak istiyorum.</p>
+<p>SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0395-samsun-samsun-basket-takimi-ile-turkiye-gundeminde.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0397-buyuk-ortadogu-projesi-ve-turkiye.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

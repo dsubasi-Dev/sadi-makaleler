@@ -1,0 +1,313 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>2. Bölüm Ukrayna-Rusya Savaşı&#x27;nın Hatırlattığı Gerçekler.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+2. Bölüm Ukrayna-Rusya Savaşı&#x27;nın Hatırlattığı Gerçekler.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2022
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+1048
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>RUSYA-UKRAYNA SAVAŞININ HATIRLATTIĞI ACI GERÇEKLER.<br />
+2. BÖLÜM</p>
+<p>Dün yayınlanan yazımın 1. Bölümünde Türkiye’nin şu anda yaşadığı sorunlara değinmiş ve 2. Dünya Savaşı sonrası sömürgeci devletlerin uygulamaya koyduğu “Soğuk Harp” senaryolarından söz etmiştim.<br />
+Bu anlattıklarımı kanıtlayan Amerika’nın en zenginlerinden birisi olan Rockefeller ailesinin en büyük ferdi olan David Rockefeller tarafından yazılmış bir anı kitabından söz etmiştim.<br />
+Ancak, yayınlanmasından kısa süre sonra ailenin zarar gördüğü gerekçe gösterilerek yayından kaldırılan bu kitaptan alıntılar yapan gazeteci Gazanfer Kazımov ’un, 17 Mayıs 2014'de Azerbaycan'da ki KREDO Gazetesinde bir makalesi yayınlanır.<br />
+Gazanfer Kazimoz’un,  "Rockefeller'in İtirafları ve Dünya Medeniyetinin Kurucusu Türklerin Bedbahtlığı" Başlıklı bir makalesinde bakın neler yazmış;<br />
+Yazar, makalesine “Okurken ürperdim. Kendini Türk hisseden ve Türkiye'nin tarihten silinme planlarına karşı durmak isteyen herkes, okumalı ve Atatürk'ün dehasını tekrar hatırlamalıdır.” Sözleri ile başlıyor ve şöyle devam ediyor;<br />
+“Dünyayı yönetme isteği içinde olan seçkin bir tabakanın yüz yıl içerisinde, bazı devletler ve ülkeler içinde ve dışında, o ülkeleri kendi şemsiyeleri altına alabilmek için çevirdikleri dolaplar, entrikalar, soygunlar, sömürgeleştirme eylemleri itiraf ediliyordu. Ancak bu tabakanın daha fazla açığa çıkmaması ve masum halklara yaptıkların bilinmemesi için kitap piyasadan kaldırıldı.”<br />
+Şimdi bu ailenin en büyüklerinden olan David Rockefeller’in kaleme aldığı itiraflardan, Türkiye hakkında yazdıklarını ve düşündüklerini öğrenelim;<br />
+“Rockefeller ailesi ABD’nin en büyük petrol, sanayi, siyaset ve bankacı ailesidir. Rockefeller ailesinin elinde, aile üyelerine ve ailenin fertlerine ait bilgilerin ve dünya siyaseti, dünya ekonomisi hakkında yapılması gereken şeylerin listelerinin yer aldığı dünyaca meşhur bir arşivleri vardır.<br />
+Bu büyük arşiv, yer altına inşa edilmiş üç katlı büyük bir binada saklanır. Bu arşivde bulunan yetmiş milyon sayfalık belgeler içerisinden araştırmacılara sadece, ailenin ölmüş üyelerine ait belgeler verilir.<br />
+140 yıllık bir geçmişe sahip olan bu arşiv belgeleri, ABD’nin 19 ve 20. Yüz yılda çeşitli ülkelerde ortaya çıkan siyasi ve sosyal olaylardaki rolünü anlatan çok önemli bilgi kaynağıdır.<br />
+Bu belgeler, dünyada ki tarım alanları, güzel sanatlar, eğitim, uluslararası ilişkiler, ekonomik gelişme, tıp, tarih, politika, halklar, din, sosyal bilimler, kadın hakları tarihi, afro Amerikan (Afrika kökenli Amerkalılar) tarihi gibi konuları kapsayan belgelerdir.<br />
+Bu itiraflar ile ABD’nin ve Batı Avrupa’nın yirminci yüz yılda dünya halklarının başlarına ne oyunlar ve felaketler getirdiği açık şekilde ortaya çıkmıştır.<br />
+Bu itiraflar, inanılmaz boyuttadır ve sadece Türkler ve Türk Dünyası ile ilgili olmayıp, bütün dünya ülkeleri için neler yaptıklarını da anlatmaktadır. Ama bu anıların bizi ilgilendiren asıl bölümleri, Türkiye ve Türkler ile ilgili yazılanlardır.<br />
+Bu anıların belki de en önemli vurgusu, “Türkiye, coğrafi ve stratejik bakımından çok önemli bir ülke olup, Türklere bırakılacak kadar önemsiz değildir” Tespitidir. (Böylece geçmişte bizim bir yazarımızın da kullandığı sözlerin kaynağı da belli olmuştur)<br />
+1) Büyük İsrail Devleti’nin! Sularının büyük kısmının kaynakları Türkiye toprakları üzerindedir.<br />
+2) Türkiye Avrupa ve Asya arasında bir köprüdür.<br />
+3) Müslüman âleminde öncül ve demokratik tek ülkedir.<br />
+İslâmiyet’i yıkmak istiyorsak, işe Türkiye’den başlamak gerekir. Türkler aslında birleşip bir araya gelseler, karşılarında hiç kimse duramaz. Bu yüzden, böyle bir ihtimale karşı ajanlarımız her an iş başında bekliyorlar. Türk devletlerinde anahtar mevkilerde adamlarımız var. Bunlar böyle bir ihtimali sezseler o anda Türkiye’deki huzur ve güven ortamını bozacak olaylar yaratırlar ve darbelerle bu tür bir birleşmeyi önleriz.<br />
+Medeniyetin kurucusu ve beşiği olarak Türkleri kabul edemeyiz; tam aksine entrikalar ile bu medeni miraslarına el koyarak, biz onları bütün dünyaya, barbar, hak – hukuk tanımayan bir halk olarak tanıttık ve bu alanda oldukça başarılı olduk.<br />
+Bizim çalışmalarımız sonucunda, Türkiye’nin medeni vasıfları ile ahlak, terbiye, saygı, sanat, edebiyat kültürleri yok olurken; fahişelik, rüşvet, hırsızlık, haksız kazanç ve soygun hüküm sürmektedir.<br />
+Aslında Türkler, tarih kitaplarını açıp okusalar, bütün gerçeği göreceklerdir. Ama Türkler için duyduğuna inanmak yeterlidir; Okumak onlara çok zor gelmektedir.<br />
+Ülkemiz adına çok önemli itirafların da yer aldığı bu makaleden alıntıların devamını, yarın yayınlanacak olan 3. Bölümü bu köşede okuyabilirsiniz.<br />
+28.03.2022<br />
+Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="1047-1-bolum-ukrayna-rusya-savasi-nin-hatirlattigi-ulkemizin-gercekleri.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="1049-3-bolum-rusya-ukrayna-savasinin-hatirlattigi-aci-gercekler.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

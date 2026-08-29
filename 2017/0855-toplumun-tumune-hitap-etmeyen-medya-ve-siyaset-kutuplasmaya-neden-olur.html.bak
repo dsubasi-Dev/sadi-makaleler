@@ -1,0 +1,336 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Toplumun Tümüne Hitap Etmeyen Medya ve Siyaset Kutuplaşmaya Neden Olur.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Toplumun Tümüne Hitap Etmeyen Medya ve Siyaset Kutuplaşmaya Neden Olur.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2017
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0855
+
+</div>
+
+
+<div class="article-content">
+
+<p>e-posta; denizeczaneoptik. com                            SUNUŞ</p>
+<p>TOPLUMUN TAMAMINA HİTAP ETMEYEN MEDYA<br />
+VE SİYASİ PARTİLER YANLIŞ YAPIYOR.</p>
+<p>Bilindiği gibi ülkemizin gelecekte nasıl yönetileceğinin belirleneceği çok önemli bir Referandum sürecinden geçiyoruz.<br />
+a  Böylesine önemli bir süreçte toplumun tümüne doğruları anlatmak yerine, bir futbol takımı taraftarlığının fanatizmi içerisinde tavır sergileyen siyasetçiler de, medya kuruluşları da büyük bir yanlış yapıyor ve gelecekte yaşayabileceğimiz her türlü olumsuzluğun vebalini üstleniyor.<br />
+Hiç kimse göz ardı etmemelidir ki, bu gün bayrağı altında özgürce yaşadığımız bu devletin kurulduğu son vatan toprağı Anadolu, işgalcilerden kolay temizlenmedi.<br />
+Sizlere tarih bilgisi vermek haddim değildir.<br />
+Ancak tarihi boyunca özgür yaşamış olan Türklerin, Büyük Önder Mustafa Kemal ve arkadaşlarının öncülüğünde son Türk Devleti olan Türkiye Cumhuriyetini hangi zorluklarla kurduklarını da unutmamamız gerekir.<br />
+Kurdukları bu yeni devletin yönetim biçimini de, Laik ve Çağdaş Hukuk sistemine oturttukları Demokratik bir Cumhuriyet olarak belirlemişlerdi.<br />
+1945 yılında da, çok partili parlamenter sisteme geçilerek demokrasimiz taçlandırılmış ve toplumun tüm kesimlerinin halkın meclisi olan TBMM’ de temsil edilmesi sağlanmıştı.<br />
+Ne var ki, tüm özgürlüklerin sınırsızca yaşanabileceği tek rejim olan demokrasinin yerleşmesi ve benimsenebilmesi için korunması ve kurallarının işletilmesi gerekliydi.<br />
+Çok partili demokrasiye geçmemizle birlikte toplumun tümünün ortak paydası olan din ve bayrak gibi bazı değerler, siyasi partiler tarafından siyasi kazanımlar adına kullanılmaya, hatta sahiplenilmeye başladı.<br />
+Sağ partilerin, özellikle çok hassas bir konu olan dinimizi siyasi kazanım adına çok kullanması yanında, Laik Sistemi korumak için dini hiçbir dönemde siyasete alet etmeyen sol partileri dinsizlikle suçlaması, toplumumuzda ki ayrışmaların ilk nedeni olmuştur.<br />
+Demokrasimizin gelişimine en büyük zararı, dinimizin siyasi amaçla kullanılması yanında, yaşanan darbeler vermiştir.<br />
+Bütün bu olumsuzluklara rağmen giderek olgunlaşan demokrasimize yine en büyük darbeyi, yıllardır dinimizin siyasi amaçla kullanılmasına gösterilen hoşgörü ortamında palazlanarak ülkeyi ele geçirmeye kalkan bir Cemaat vurmuştur.<br />
+15 Temmuz 2016 tarihinde ki bu darbe girişimi, çok sayıda sivil ve güvenlik güçlerinin canı pahasına da olsa, çok şükür ucuz atlatıldı.<br />
+Ancak FETÖ olarak adlandırılan bu Cemaatin, demokrasimize ve bu ülkenin en önemli kurumlarında yarattığı yıkım, kolay kolay giderilecek gibi gözükmüyor.<br />
+Bu Cemaatin çok öncelere dayalı bu düzeyde örgütlü çalışabilmiş olmasının temelinde ki en büyük neden, ne yazık ki bu ülkeyi yöneten iktidarların oy alabilmek uğruna onlara gösterdikleri hoşgörüden kaynaklanmıştır.<br />
+Bu Cemaat, 2010 Referandumun da “EVET” çıkması sonucu yapılan Anayasa Değişikliği ile yargıyı ele geçirmiş ve yargının en önemli kurumlarına kendi hâkim ve savcılarını yerleştirmiştir.<br />
+Yargıyı ele geçiren FETÖ Cemaati, bu yargı mensuplarının desteği ile önce Laik düzenin en büyük güvencesi olan ordumuzun komuta kademesini düzmece ihbar ve belgelerle mahkûm ettirmiştir.<br />
+Sonra da, onlardan boşalan üst düzey komuta görevlerine yıllardır yetiştirdikleri kendi subaylarını getirerek karşılarına çıkacak en büyük engeli ortadan kaldırmıştır.<br />
+İşte bu askerlerin yönetiminde, 15 Temmuz Darbesi ile de ülkeyi ele geçirmeye kalkışmıştır.<br />
+Üzüntü verici olan, son 15 yıllık süreçte ülkemizi yöneten iktidarın askeri vesayetin kaldırılması adına, ordumuzun çökertilmesi için bu Cemaatin kurguladığı kumpasa duyarsız kalmış olmasıdır.<br />
+Bugün” “Aldatıldık” denilerek özür dilense de, ülkemizin en önemli kurumları olan Ordumuzun ve Yargımızın konularında ki en deneyimli ve birikimli kadroları yok edilmiştir.</p>
+<p>ŞİMDİ DE PARLAMENTER SİSTEME SON VERİYORUZ.<br />
+Yukarıda özetlemeye çalıştığım ve hepimizin gözleri önünde yaşananlardan sonra şimdi de yeni bir sorunla karşı karşıyayız.<br />
+2010 yılında yapılan Referandumundan % 52  “ Evet ” Çıkması sonucu yapılan Anayasa Değişikliği ile Yargının tüm üst kurumları, 15 Temmuz’da ülkeyi ele geçirmeye kalkışan Fetullah Cemaatinin       ( FETÖ) eline geçmişti.<br />
+Tüm uyarılara rağmen, 2010 da Referanduma götürülerek çok az farkla “Evet” Çıkması ile yapılan Anayasa Değişikliği ’nin ülkemizin başına açtığı FETÖ Darbe belasının etkileri henüz giderilmemişken, ülkemiz yeni bir Referanduma gidiyor.<br />
+Bu kez de, parlamenter sisteme son vererek kimine göre tüm yetkilerin tek kişide toplanacağı “Tek Adam yönetimine” dönüşebilecek bir  “Başkanlık” Sistemini getiren, 18 maddelik bir Anayasa Değişikliği Tasarısını 16 Nisan’da Referanduma götürüyoruz.<br />
+İyi incelendiğinde, Anayasamız da değişiklik yapacak bu 18 madde ile fiilen kaldırılmasa dahi, TBMM’NİN oluşum biçimi itibariyle artık hiçbir etkinliği ve denetim gücünün kalmadığı görülmektedir.<br />
+Oysa TBMM, % 10 barajı nedeniyle toplumun % 100’ nü temsil etmese dahi, toplumun en azından % 90’ nın temsil edildiği Türk Halkının Meclisidir.<br />
+Hepsi bir yana, toplumun hiç olmazsa çoğunluğu bu 18 madde hakkında bilgi sahibi olarak bu referandum da oy kullanacak olsa, çıkacak sonuç Türk Halkının kararı olarak kabul görebilir.<br />
+Ancak, kamu araştırma sonuçlarına göre Referanduma 20 gün gibi kısa bir süre kalmasına rağmen, 18 madde hakkında bilgi sahibi değilim diyenlerin oranı % 60 lar civarında gözüküyor.<br />
+Neye Evet veya Hayır oyu vereceğini bilmeyenlerin oranının çoğunlukta olduğu ülkemizde, bu Referandum ister istemez partilerin yarıştığı bir seçim haline dönüşmüştür.<br />
+Nitekim bunun farkında olan “Evet” Tarafının sözcüleri de, Anayasa yapılacak değişiklik maddelerinden çok, “Hayır” Tarafını suçlamaya ve son 15 yılda iktidarın yaptığı hizmetleri anlatmaya ağırlık veriyor.<br />
+Böyle bir ortamda “Evet” Çıksa ne olur? “Hayır” Çıksa ne olur?<br />
+Unutulmamalıdır ki, 17 Nisandan sonra da “EVET” diyenler de, “HAYIR” diyenler de bu ülkede birlikte yaşayacağız.<br />
+Yine unutulmamalıdır ki, bu referandum sonrası değişecek yönetim şekline ister Rejim Değişikliği” Deyin, istese “Sistem Değişikliği” Deyin Evet çıktığında yasalaşacak bu yönetim biçimini, “Tutmazsa değiştiririz” Diyebilme şansımız uzun yıllar olmayacaktır.<br />
+Son sözüm, Evet çıkması halinde ülkemizin geçeceği bu yeni yönetim biçimi Türkiye’nin hem içeride, hem de dış dünyada ki geleceğini belirleyecektir.<br />
+Onun için söyleyebileceğim tek şey, oy verecek herkesin yarın “TUH YANLIŞ YAPMIŞIM” Demek zorunda kalacağı bir vebalin altında ezilmemesi için değişecek bu 18 maddeyi okuyup, anladıktan sonra Referandum sandığında oy kullanmasıdır.<br />
+Yarınlarımızın bugünden çok daha iyi olması dileğiyle, iyi haftalar..<br />
+27. 03. 2017<br />
+Ecz. SADİ SUBAŞI</p>
+<p>SAMSUNLULAR, LÜTFEN! UNUTMAYINIZ..<br />
+HAVA ALANIMIZ ÜÇ AYLIĞINA KAPATILACAK..<br />
+Pistte yapılacak onarımın Havaalanımızın kapatılmadan yapılması ihale edilmişken, anlaşılmaz bir şekilde üç ay kapatılarak onarılacak olmasının şimdi de üç ay ertelenmiş olması düşündürücüdür.<br />
+Böylece acil bir neden olmadığının ortaya çıkması ile kapatmanın asıl nedenin, bunlar olmadığı anlaşılmaktadır.<br />
+Bu, bir kez daha Samsun’a yapılan bir dayatmadır.<br />
+Soru şu; Neden bu dayatmaya sessiz kalınıyor?<br />
+NEDEN? NEDEN? NEDEN?</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0854-kalkinma-uretim-ve-i-ssizlik-baglaminda-yabanci-sermayenin-yeri.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0856-turkiye-sporda-da-milli-olma-ozelligini-kaybetti.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

@@ -1,0 +1,297 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Kendi Değerlerimize de Sahip Çıkamıyoruz.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Kendi Değerlerimize de Sahip Çıkamıyoruz.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2007
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0310
+
+</div>
+
+
+<div class="article-content">
+
+<p>DEĞERLERİMİZE DE SAHİP ÇIKAMIYORUZ..</p>
+<p>Yerleşim birimlerinin kentsel sorunları yerel yöneticilerin başarısı oranın da çözülebilse de, önemli sorunların ve yatırıma dayalı ekonomik sıkıntıların çözüm yeri merkezi yönetimlerdir. Bu da, iktidarların o kente bakışı ile ilgilidir. İktidarların bir kente bakışını ise, o kentin iktidara verdiği milletvekillerinin sayısı ve nitelikleri ile belirler.<br />
+Üzülerek söylemek gerekirse Samsun bu yönden hiç de başarılı gözükmemektedir. Aslına bakarsanız, Samsunlular her seçimde kâğıt üzerinde doğru olanı yapmış ve her dönem de iktidar partilerine en yüksek oranda milletvekilini vermiştir. Karşılığını almış mıdır? Kocaman bir hayır. Samsun Karadeniz Bölgesinin en büyük kenti ve en çok milletvekili çıkaran ili olmasına rağmen bakan çıkartamamaktadır. Bunun bir nedeni olmalı ve bunun cevabını da iktidar partisinin il yönetimleri ve TBMM’ne giren Samsun Milletvekilleri vermelidir. Bu konuda en az sorumluluğu olan Samsun Halkıdır. Çünkü mevcut seçim sistemi, seçmeni genel merkezlerce dayatılan adayları seçmeye zorlamaktadır. O nedenle, seçilen milletvekillerinin bakanlık yapacak düzeyde olup olmadığının sorumlusu da Samsunlu seçmen olamaz. Samsunlu seçmenin bence sorumlu tutulabileceği en büyük eksiği, seçtiği milletvekillerine yeterince sahip çıkamaması ve onları Samsun’un sorunları için yeterince sıkıştıramamasıdır. Geçen dönem görev alan milletvekillerimizin ne derece başarılı olduğunun yorumunu sizlere bırakıyorum. Ancak, en azından “Mobil Santral”, “Teşvik” ve “Tersane” konularında Samsunlunun beklentilerinin karşılanması yönünden başarılı olamadıklarını söylemek mümkündür.<br />
+Bir kentin hükümetlerden destek görmesinin yolu siyasi yönden güçlü olmaktan geçiyorsa, siyasi partilerin il teşkilatlarına düşen en önemli görev, seçimlerden çok önceden başlayarak Samsun’u temsil edebilecek isimleri partilerine kazandırmak ve onları seçime hazırlamak, hatta genel merkezleri düzeyinde kabul görmelerini sağlamak olmalıdır.<br />
+Bu ilkeler açısından bakınca, partilerin belirlediği adayların ne derece doğru seçimler olduğunu zaman gösterecektir. Ancak, Samsun Halkının da 22 Temmuz 2007 seçimlerinde önemli bir sahiplenme hatası yaptığını düşünüyorum. Hatırlanacağı gibi 2001 seçimlerinde CHP bir sürpriz isimi Samsun’da listeye koymuş ve seçilmesini sağlamıştı. Bu isim siyasi bir geçmişi olmayan, ancak mesleğinde çok başarılı bir kariyere sahip olan bilim adamı Prof. Dr. Haluk Koç’tu. Siyaset dünyasında çok önemsenen tabandan gelme bir isim olmamasına rağmen, Sayın Koç inanılmaz bir milletvekili başarısı gösterdi. Partisinin grup başkan vekili de seçilen Sayın Koç, yalnız Samsun’da değil tüm Türkiye’de tanınan ve beğeni alan bir milletvekili oldu. Türkiye’nin dış politikası da dâhil olmak üzere çoğu konuda partisinin sözcülüğünü üstlendi. Kısa sürede ısındığı siyasette yılların deneyimli siyasetçilerinin yapamadıklarını yaptı. Net ve kararlı, zaman zaman dozu yükselen sertlikte ki demeçleri ile CHP’nin en saygın ve en çok sesi duyulan milletvekili haline geldi. O kadar hızlı bir yükseliş gösterdi ki, kendini aşacak isme tahammülü olmayan Sayın Baykal’ı dahi rahatsız etmiş olmalı ki, ikinci kez grup başkan vekilliğinde genel başkanının desteğini alamadı. Buna rağmen 2. kez grup başkan vekili seçilme başarısını gösterdi. Sayın Koç’un adı artık, lider sorunu yaşanan CHP’de genel başkanlık için geçmeye başlamıştı.<br />
+Sayın Koç bir muhalefet partisi milletvekili olmasına rağmen çok etkin bir milletvekilliği dönemi geçirdi. Parti ayırımı yapmaksızın kendisinin kapısını çalan herkese yakın ilgi gösterdi ve sorunlarını çözdü. Partisinin yıllardır yapamadıklarını yaptı, gitmediği ve derdini dinlemediği köy kalmadı. Samsun ve ilçelerinde partili, partisiz tüm insanların sevdiği ve saygı gösterdiği bir milletvekili haline geldi. Seçim döneminde de partisi adına diğer adaylarla birlikte çok büyük çaba harcadığı görüldü.<br />
+Tüm çabasına rağmen 22 Temmuz 2007 seçimleri partisi için, tüm Türkiye’de olduğu gibi Samsun’da da büyük bir hayal kırıklığı ile sonuçlandı. Oysa umulan, Sayın Koç’un da yarattığı olumlu hava ile CHP’nin en azından Samsun’da çok daha yüksek oy alarak, 3–4 milletvekilini TBMM’ne taşıyacağıydı. Samsun’dan ve özellikle de Çarşambalı hemşerilerinden beklenen oy desteğini alamaması, Sayın Koç’u büyük bir hayal kırıklığına uğrattı. Grup başkan vekilliği görevine de yeniden aday olmayarak bu kırgınlığını gösterdi.<br />
+Bana göre Sayın Koç kendisine haksızlık etmektedir. CHP’nin bu seçimlere nasıl hazırlandığı(!) ve Samsun listesi belli olduğunda gösterilen tepkiler, konuya ilgisi olan herkes tarafından bilinmektedir. Sayın Koç’un gözden kaçırdığı şey, kendisinin yarattığı olumlu etkinin de olmaması halinde, CHP’nin Samsun’dan iki milletvekili de çıkartamayacakmış olacağı gerçeğidir.<br />
+Bu arada Samsun adına alışık olduğumuz olumsuzluk bir kez daha kendisini göstermiştir. Biz Samsunlular içimizden çıkan değerlere yeterince sahip çıkamıyoruz. Siyasette önemli bir konuma gelen, ileride çok daha önemli konumlarda görebileceğimiz Sayın Koç’a partili partisiz çok daha büyük destek verebilmeliydik. Zaman zaman tartışılan bir siyasetçi olmasına rağmen, Rizeliler bağımsız aday olarak Rize’den seçimlere giren eski Başbakanlardan Sayın Mesut Yılmaz’a sahip çıkmış ve onu yeniden TBMM’ne taşımıştır. Sayın Koç olayları bu yönleri ile yeniden değerlendirmelidir diye düşünüyorum.<br />
+Seçimler bitmiş ve yeni bir dönem başlamıştır. Türkiye büyük bir değişimin ve onun yaratacağı etkilerin eşiğindedir. Atatürk’ün kurduğu Laik ve Çağdaş Cumhuriyet ile O’nun toplumumuzu çağdaş dünyaya taşıyan ilke ve devrimlerinin her zamankinden daha çok korunmaya ihtiyaç duyulacağı bir dönemden geçiyoruz. Böyle bir dönem de “Laik ve Çağdaş Cumhuriyete” inanan insanların kırılmaya ve küsmeye hakkı yoktur. Hele de, “Laik ve Çağdaş Cumhuriyeti” savunan bir partide adı genel başkan adayları arasında anılan ve sağlıklı düşünen herkesin de bu göreve yakıştırdığı Sayın KOÇ’UN böyle bir hakkı olamaz. Sayın Koç’un da bunları göz ardı etmeyeceğine ve yeni bir heyecanla önüne çıkan siyasi fırsatları değerlendireceğine inanıyorum… İyi haftalar… 09 Eylül 2007<br />
+SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0309-samsun-sahipsiz-mi-sahipsiz-i-se-neden.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0311-samsunspor-a-haksizlik-yapmayalim-biraz-sabir.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

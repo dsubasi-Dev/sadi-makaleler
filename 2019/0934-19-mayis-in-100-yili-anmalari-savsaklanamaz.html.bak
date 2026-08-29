@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>19 Mayıs&#x27;ın 100. Yılı Anmaları Savsaklanamaz</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+19 Mayıs&#x27;ın 100. Yılı Anmaları Savsaklanamaz
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2019
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0934
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>19 MAYIS’IN 100. YILI ANMALARI SAVSAKLANAMAZ<br />
+Bu yıl 19 Mayıs 1919’un 100. Yılıdır. Son yıllarda milli bayram kutlamaları, sabahları Atatürk Anıtı’na protokol tarafından çelenk konması ve saygı duruşu, bando eşliğinde söylenen İstiklal Marşı ile geçiştirilen birer görev savma işlemine dönüşmüş bulunmaktadır.<br />
+Hiçbir devlet, tarihinde kazandığı zafer ve askeri başarılarını kutlamamak gibi bir aymazlığa düşmemiştir. Tam tersine özellikle varsa kurtuluş savaşlarını ve kuruluş yıl dönümlerini son derece görkemli törenlerle kutlarlar. Örnek olarak İngiltere, Fransa, Rusya gibi devletlerin muhteşem törenlerini internetten bulup bakınız.<br />
+Bu devletlerin bu törenleri, görkemli bir şekilde yapmasının en önemli nedeni, halkının ve genç kuşaklarının tarihini unutmaması ve o günlerde olanları yaşayarak öğrenip, üzerinde yaşadıkları vatanın değerini bilmeleri içindir.<br />
+Oysa ülkemizde bakın neler oluyor;<br />
+Dünya da hangi ülke vardır ki, Türkler gibi Osmanlı Devleti’nin 1. Dünya Savaşından yenik çıkması ile tüm toprakları işgal edilmiş ve Anadolu’nun ortasında adeta esir hayatı yaşamaya mahkûm edilmiş olsun.<br />
+Bu ülke, kısaca özetleyeceğim ve dünyayı dahi şaşırtan bir askeri başarıya imza atarak Samsun’da ilk adımı atılan milli mücadele ile işgal altında ki Anadolu’yu, düşmanı denize dökerek temizlemiştir.<br />
+İşgal altında ki elimizde kalmış son vatan topraklarını düşmandan temizleyen Mustafa Kemal ve silah arkadaşları ile çoğu çocuk yaşta ki Mehmetçiklerimizin işgal altında ki topraklarımızı kanları ile sulayarak bugün üzerinde özgürce yaşadığımız son Anadolu topraklarını bize vatan olarak armağan ettiği 30 Ağustos Zaferi’nin ilk adımının atıldığı 19 MAYIS 1919’un 100 Yılını çok görkemli törenlerle kutlanacağını beklerken, süregelen durağanlık can sıkmaya başlamıştır.<br />
+Eğer bu 19 Mayıs’ta daha öncekiler gibi Atatürk Anıtı’nda yapılacak protokolün çelenk koyma töreni ve kapalı salonda yapılacak konuşmalar ile bir okulun skeçi ile geçiştirilecekse, binlerce kere yazıklar olsun.<br />
+Her biri bu ülkenin yoktan var edilmesinin birer simgesi olan mili bayramları anlamsızlaştırma çabaları büyük bir yanlıştır.<br />
+Bugün milli bayramlara karşı gösterilen bu saygısızlığı, Türk Tarihinde kara bir leke olarak yerini alacaktır. Tarih, ülkemize bu saygısızlığı layık görenleri affetmeyecektir.</p>
+<p>Şimdi önümüzde Türkleri haritan silecek bir işgale direncin ilk adımının atıldığı19 Mayıs 1919 tarihinin 100. Yılı vardır. 19 Mayıs’a da 70 gün gibi çok kısa bir süre kalmıştır. Bugün Valiliğin sayfasına baktım 100. Yıl ile rutin birkaç program dışında bir şey göremedim. Henüz 100 yıl kutlamaları için yaptırılacağı söylenen 100. Yıl logosunu dahi göremedim.<br />
+Siyasi İradenin mlii bayramlara sıcak bakmadığı bilinen bir gerçektir. Zaman giderek daralmaktadır. Bu süreci yerel seçimler de olumsuz etkilemektedir.<br />
+İş, sivil toplum kuruluşları ile onların organize edeceği halkımıza kalmıştır. Bu bayramın bir diğer önemi de Samsun için farklı oluşudur. Bu amaçla bir sivil toplum platformunun oluşturulduğunu biliyorum. Ama görünüşte, onlarda da önemli bir çalışma duyulmuyor.<br />
+Değerli Samsunlular bu işin hafife alınacak tarafı kalmamıştır. Eğer bu kutlamaları başarı ile gerçekleştiremezsek. Samsun olarak çok eleştiri alırız.<br />
+NELER YAPILABİLİR;<br />
+Çeşitli salon toplantıları yapılmalı ve önemli konuşmacılar getirilmelidir. Ama kapalı salon toplantıları çok da ilgi görmemektedir. O nedenle daha çok görsel etkinliklere yönetilmelidir.<br />
+Kişisel ilişkim nedeniyle Sayın İSMAİL KÜÇÜKKAYA ile görüşerek 19 Mayıs haftası içerisinde bir ÇALAR SAAT Programını Samsun’da yapmasını rica ettim. Tarihi belli değil ama olur diyerek kabul etti.<br />
+Eski yıllarda yapılan gibi muhteşem fener alayları mutlaka iki gün üst üste hem Samsun merkez de, hem de Atakum’da  yapılmalıdır. Fener alayında mutlaka önde askeri bando ve arkasın da ellerinde meşaleleriyle bir bölük asker yer almalı, onları 19 Mayıs Lisesi Bando takımı ile arkalarında ellerinde meşaleleriyle öğrenciler ve halk yer almalıdır. Bu kortej, Uğur Mumcu Parkı’ndan başlayarak Çiftlik Caddesini takiben Ondokuzmayıs Bulvarından Atatürk Anıtı’nda sonlanmalıdır. Valiliğin açıkladığı 1919 metrelik bayrak yürüyüşü de bu korteje dahil edilebilir.<br />
+Atatürk’ün “NUTUK’UNU” bütün evlere girecek şekilde bir kampanya düzenlenmelidir. Çünkü NUTKU okumayan bir gencin, üzerinde yaşadığı toprağın kıymetini bilmesi mümkün değildir.<br />
+Özellikle ulusal içerikli şarkılarıyla tanınan bir veya iki sanatçının katılımı ile birisi Cumhuriyet Meydanında, diğeri Atakum’da  olmak üzere iki Konser yapılmalıdır.<br />
+Genel Kurmay Başkanlığı ile temasa geçilerek, Kurtuluş Savaşı’na ait ellerinde bulunan çok kıymetli fotoğraflardan oluşan bir sergi açılmalıdır.<br />
+Özellikle, tüm okulların öğrencilerine Gazi Müzesi ve Bandırma Vapuru gezdirilmeli, halka da bu müzeleri gezmeleri için çağrı yapılmalıdır.<br />
+Bir grup askeri gemi Samsun Limanına gelerek ışıklandırılmalı ve 19 Mayıs sabahı top atışları ile 19 Mayıs Bayramı’na katkıda bulunmalı ve bu gemiler halkın gezisine açılmalıdır.<br />
+19 Mayıs Sabahı Bandırma Vapuru önünde yapılan ve gemiden Atatürk ve silah arkadaşlarının çıkışının sembolize edilişi biraz daha görkemli hale getirilmeli bu konuda Samsun’da ki tiyatro grupları ile ortak hareket edilmelidir.<br />
+Samsun’un gururu Samsun Sanat Tiyatrosu sahibi Sayın Yaşar Gündem’in sergilemekte olduğu “KUVAYİ MİLLİYE DESTANI” İsimli oyununun Cumhuriyet Meydanında oynanması sağlanmalıdır.<br />
+19 Mayıs ve 20 Mayıs akşamları hem Cumhuriyet Meydanı’nda hem de Atakum Yeşilyurt AVM yanında görkemli bir havai fişek gösterisi yapılmalıdır.<br />
+Bayram boyunca yapılacak tören ve gösterilerin Samsun’un gururu ve tek ulusal yayını olan Haberaks ‘dan canlı yayınlanması sağlanmalıdır.<br />
+Bunlar benim ilk etapta aklıma gelenlerdir. Çok daha güzel öneriler ortaya çıkacağına eminim. Yeter ki bu işin liderliğini birisi üstlensin. Bu konu da tabi ki güzel olan halkın sevgilisi olan Samsun Valisi Sayın OSMAN KAYMAZ olmalıdır. Ama eğer üst makamlardan teşvik edilmezse yapabileceği fazla bir şey olamayacağını da biliyorum. İşte o zaman bu liderliği bir STK Başkanı üstlenmelidir. Ama bu, bir yerlerde gözükmek yerine, taşın altına elini sokacak birisi olmalıdır.<br />
+Bu arada henüz 100. Yıl kutlama LOGOSU ortaya çıkmadığı için aşağıda sizlerle de paylaşacağım Mimarlar Odası’nın hazırladığı LOGOYU yaptırıp Türk Bayrağı eşliğinde işyerimde asacağım.<br />
+Tüm Samsunlulardan da zaman geçirmeden bu logodan yaptırıp şimdiden Türk Bayrağı ile birlikte iş yeri ve evlerine asmalarını öneriyorum.<br />
+LÜTFEN! AYAĞINDA ÇARIĞI, ÜSTÜNDE GİYSİSİ OLMAYAN ANADOLU NUN FAKİR AMA ONURLU İNSANI İLE ÇOCUK YAŞTAKİLERİN DAHİ CEPHEYE KOŞTUĞU ESARETE İSYAN BAYRAĞI AÇARAK BU VATANI KURTARAN O ŞEHİT VE GAZİLERİMİZİN AZİZ RUHLARI ADINA BU BAYRAMI CİDDİYE ALALIM VE SAVSAKLANMASINA SAMSUNLULAR OLARAK İZİN VERMEYELİM.<br />
+Yüce Allah’ım bu ülkeyi bir daha böylesine işgallerden ve savaşlar yapmaktan korusun.<br />
+19 Mayıs 1919’un 100. Yılını Samsunumuza yakışır bir şekilde kutlamak dileğiyle güzel bahar günleri diliyorum. 11.03.2019</p>
+<p>Ecz. SADİ SUBAŞI<br />
+e- http://www. hedefhalk. com/</p>
+<p>Cc</p>
+<p>Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0933-eczacilar-saglik-bakanligi-nin-gunah-kecisi-olamaz.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0935-31-mart-secim-sonuclarinin-samsun-acisindan-degerlendirilmesi-1.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

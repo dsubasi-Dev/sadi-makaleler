@@ -1,0 +1,339 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Türkiye’nin Gerçek Beka Sorunu.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Türkiye’nin Gerçek Beka Sorunu.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2024
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+1093
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>TÜRKİYE’NİN GERÇEK BEKA SORUNU.<br />
+Son yıllarda özellikle iktidar ve Cumhurbaşkanı tarafından sıkça kullanılan “BEKA” Kelimesi, Türk Dil Kurumu tarafından “kalıcılık ve daimilik” olarak açıklanmaktadır.<br />
+Bir ülkenin BEKA Sorunu ise, “Ülkenin toprak bütünlüğünü, hukuk ve anayasal düzeninin iç ve dış tehditlere karşı koruyarak varlığını sürdürmesidir.”<br />
+Oysa bu terim, Cumhurbaşkanı ve İktidar Partisi yetkilileri tarafından ülkemizin bekası için AKP’nin devamlılığının gerekli olduğu şeklinde sunulmaktadır.<br />
+Ülkemizin gerçek “BEKA Sorununu” İkinci paragraftaki tarife göre açıklamak gerekir.<br />
+Bu tarife göre ülkemizin asıl BEKA Sorunları;<br />
+1- ÜLKEMİZİN GELECEĞİ YOK EDİLMEKTEDİR.<br />
+Bu ülke, son yirmi yıldır gerek devletin ve gerekse aileleri tarafından büyük harcamalarla eğiterek meslek sahibi yaptığı gençlerine iş sahaları açamadığı için genç beyinlerimizin batı ülkeleri tarafından kapışılması sonucu, ülkemiz geleceği olan genç kuşağını kaybetmektedir.<br />
+Bu yetmezmiş gibi özellikle başta sağlık sektöründe hizmet veren çok değerli hekimler olmak üzere çok sayıda meslek sahibi değerlerimize, “Giderlerse gitsinler” Diyerek adeta ülkemizden kovan yönetim anlayışı, ülkemizin geleceğini yok ederek çok büyük bir BEKA Sorunu yaratmış bulunmaktadır.<br />
+2- ÜLKEMİZİN DEMOGRAFİK YAPISI BOZULMAKTADIR.<br />
+ABD’ nin sömürgeci anlayışı ile bölgemizde uygulamaya koyduğu Büyük Ortadoğu Projesi (BOP) ile Ortadoğu Ülkeleri darmadağın edilerek çıkarılan iç savaşlarla bölgemizde büyük bir sığınmacı sorunu yaratılmıştır.<br />
+Suriye başta olmak üzere çok sayıda ülkeden her türlü denetimden uzak, ne olduğu bilinmeyen çoğu genç eğitimsiz sığınmacı, ülkemizi adeta istila etmiş bulunmaktadır.<br />
+Sayısı on milyonu geçtiği söylenen bu sığınmacıların bir kısmına da iktidarın kalıcılığı adına vatandaşlık verilmiştir.<br />
+Bir kısım sığınmacı, devlet tarafından maaş aldıkları ve sigortalı işe girmeleri halinde aldıkları paranın kesilecek olması nedeniyle, sigortasız çalışmayı tercih etmesi kendi insanlarımızın iş bulmasını da engellemektedir.<br />
+Bu sığınmacılar BOP Projesinin Türkiye ayağını uygulamaya koymak için özellikle ülkemize sokulmuştur.<br />
+Çok çocuk yaparak nüfuslarının hızla artması, planlı bir şekilde ABD ve bir takım dış güçler tarafından da desteklenerek ülkemizin demografik yapısının bozulması amaçlanmaktadır.<br />
+Bu sığınmacıların planlı bir şekilde ülkelerine gönderilmemesi halinde, ülkemiz çok büyük bir BEKA sorunu ile karşı karşıya demektir.<br />
+3- TARİKATLAR KONTROLDAN ÇIKTI.<br />
+Osmanlı döneminden başlayan ve Osmanlı İmparatorluğu’nu yıkmak için başta İngiliz Gizli Servisi olmak üzere Batı emperyalizmi tarafından desteklenen ve kullanılan tarikatlar aracılığı ile günümüzde de aynı oyun tezgahlanmaktadır.<br />
+Cumhuriyetin ilanı ile yüzünü batının çağdaş dünyasına çevirerek hızlı bir kalkınma sürecine girmiş olan ülkemiz, bu tarikatlar ve onlara destek veren bazı iç ve dış güçlerin Osmanlı dönemindeki gibi yeniden devreye girdiği görülmektedir.<br />
+FETÖ Tarikatının uzun yıllardır süren devlet kurumlarını ele geçirme politikasının oy hesabı ile iktidarlar tarafından korunması sonucu, 15 Temmuz 20016 tarihinde işi darbe kalkışmasına kadar götürmüştür.<br />
+Darbeye kalkışması ile FETÖ Örgütünün bir terör örgütü olduğu anlaşılmış ve  üyeleri mahkûm edilmiştir.<br />
+Ne yazık ki, bu darbe kalkışması dahi ülkemizi yönetenler tarafından yeterince önemsenmemiş gözüküyor.<br />
+Bu nedenle dış güçler ülkemiz üzerindeki hesaplarını, FETÖ’nün yerini alan başta Menzil Tarikatı olmak üzere başka tarikatlarla sürdürmektedir.<br />
+Bu tarikatlar, yine aynı taktikle bakanlıkları ve devlet kurumlarını ele geçirmeye başlamıştır. Tehlike bağıra bağıra gelmektedir.</p>
+<p>4- ÜLKEMİZ ÇAĞDAŞ EĞİTİMDEN KOPARTILMAKTADIR.<br />
+Ülkemiz için en büyük tehlikelerden birisi olan din istismarı, son yıllarda tavan yapmıştır. Tarikatların da desteği ile şeriat çığlıkları yoğunlaşmaya başlamıştır.<br />
+Öte yandan, müsteşarlık döneminden beri çağdaş eğitime karşı tavırları bilinen Milli Eğitim Bakanı Yusuf Tekin tarafından hazırlanan yeni Maarif Projesi, Türkiye’yi çağdaş dünyadan kopartacaktır.<br />
+Cumhuriyetin ilanı sonrası uygulanan hızlı bir eğitim politikası ile okur yazar oranı yükselen ve sonraki yıllarda da iktidarların önem vermesi ile eğitimde önemli ilerlemeler sağlanmıştır.<br />
+Üzülerek söylemek gerekirse, o günlerden “Bizim için en makbul olan ilkokul eğitimi dahi almamış olanlardır” Diyen yetkililerin eğitimden sorumlu makamlara gelebildiği bir döneme gelmiş bulunuyoruz.<br />
+On-onbeş yıl öncesine kadar dünya sıralamasında üst sıralarda yer alan üniversitelerimiz dahi darmadağın edilmiştir.<br />
+Son yıllardaki yanlış eğitim politikaları ve devlet okullarının İmam Hatiplere çevrilmesi ve devlet okullarındaki eğitim seviyesinin düşmesi, aileleri zorunlu olarak özel okullara yönlendirmiştir.<br />
+Özel okullara çok yüksek fiyatlar ödemeye mahkûm edilen aileler, büyük bir sorunla karşı karşıya bırakılmıştır.<br />
+Öğretmenlik mesleğini seçmiş olan gençlerimiz atanmadıkları için çok düşük ücretlerle özel okullarda görev yapmak zorunda bırakılmıştır.<br />
+Ülkemizin geleceği, bu akıl ve çağ dışı eğitim dayatmaları ile karartılmaktadır. Bu çağdaş eğitim karşıtı politikalara dur denmezse, ülkemiz çok ciddi bir cehalet dönemine sürüklenecektir.<br />
+5- ÜRETİMDEN KOPARTLAN ÜLKELERİN SONU YOK OLMAKTIR.<br />
+Ülkemiz çok acı bir gerçekle karşı karşıya kalmış bulunmaktadır. Akıl almaz bir özelleştirme politikası ile halkımızın temel ihtiyaçlarını karşılayan neredeyse tüm fabrikalar yok edilmiştir.<br />
+20 yıl önce kendine yetebilen 7 ülkeden birisi olan ülkemiz anlaşılmaz bir şekilde buğday, mısır, arpa başta olmak üzere en önemli gıda maddelerimizi ithal etmektedir.<br />
+Kendi çiftçimize yaşamlarını ve üretimlerini sürdürebilmesi için yeterli ürün fiyatı vermeyen siyasi irade, çiftçimizi toprağından kopartmış, köylerin gençleri ekmek parası için zorunlu olarak büyük kentlere gitmiştir.<br />
+Tarım alanları boş kalmış büyük kentlere giden gençlerimizin bir kısmı varoşlarda yaşam mücadelesi verirken, bir kısmı da uyuşturucu baronlarının eline düşerek harcanmıştır.<br />
+Sonuçta üretmeyen, döviz stokumuzu eritecek boyutta ithalata mahkûm edilen ülkemiz, Cumhuriyet Döneminin en büyük ekonomik yıkımı ile karşı karşıya kalmıştır.<br />
+SONUÇ:<br />
+Hiçbir ülke siyasi iktidarların değişmesi ile BEKA SORUNU yaşamaz. Ama<br />
+Bir ülke, eğitimli gençlerini başka ülkelere kaçırarak geleceğini yok ederse,<br />
+Bir ülkenin, dış güçler tarafında ülkesine doldurulan ne oldukları bilinmeyen yabancı sığınmacılarla demografik yapısı tartışmalı hale getirilirse,<br />
+Bir ülke, tarikatlara teslim edilir ve onlara açık veya gizli destek verilirse,<br />
+Bir ülkede çağdaş eğitim yerine, bağnaz anlayışın hâkim olduğu eğitim politikaları uygulamaya konur ve bu dayatılırsa,<br />
+Bir ülke, her türlü üretimi dışlar ve sömürgeci güçlere teslim olarak en temel ihtiyaç maddelerini dahi onlardan ithal ederek, döviz stoklarını eritirse,<br />
+O ÜLKENİN GELECEĞİ KARANLIK DEMEKTİR. BUNLARDAN DA BÜYÜK BAŞKA BEKA SORUNU OLAMAZ.<br />
+Umarım bu endişelerim kısa sürede giderilir ve geleceğimiz aydınlık olur. İyi haftalar. 28.06.2024<br />
+Ecz. SADİ SUBAŞI<br />
+e- http://www. hedefhalk. com</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="1092-samsun-da-ortak-akil-yonetim-umudu.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="1094-samsun-cok-yonlu-bir-sanat-merkezidir.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

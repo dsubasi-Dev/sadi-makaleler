@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Yardımlaşma ve Bir Doğru, Bir Yanlış Uygulama…</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Yardımlaşma ve Bir Doğru, Bir Yanlış Uygulama…
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2020
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0980
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>YARDIMLAŞMA VE BİR DOĞRU, BİR YANLIŞ UYGULAMA…<br />
+Bugün sizlerle iki konuyu paylaşmak istiyorum. İlki bir anlaşılmaz karar ve uygulama, diğeri de Samsun olarak büyük ayıbımız.<br />
+YARDIM NEDEN YASAKLANIR?<br />
+Dünya olarak çok büyük bir salgına mahkûm olduk. Belki çok eski yıllarda yaşanmış veba ve İspanyol gribi gibi salgınlar kadar can almayacak ama tıp alanında ki büyük gelişmelere ve tıbbi teknolojinin tedaviye büyük olanaklar sağlamış olmasına rağmen, yaşadığımız Covid-19 virüsünün bulaş hızı korkutmaktadır.<br />
+İşte böylesine bir salgının yaşandığı günümüzde insanlar, sağlıklarını koruma telaşı yanında, sokağa çıkma yasağı nedeni ile çalışamadıkları ve işyerlerini açamadıkları, gündelik işlerde çalışanlar da işsiz kaldığı için nüfusun büyük bir kesimi ekonomik sıkıntı ile boğuşuyor.<br />
+Toplumlar böyle felaketler yaşadıklarında onlara ilk koşan, o ülkenin yardım amacı ile kurulmuş kurumlarıdır. Dünya da bu görevi Kızılhaç yaparken, düne kadar da bizde Kızılay bu görevi yapıyordu.<br />
+Ne yazık ki artık ülkemizin düne kadar en güvenilir yardım kuruluşu olan Kızılay, Elazığ Depremi sonrası yaşananlar sonucu tüm güvenini yitirdi. Daha da kötü olan, bu denli yanlışlarına rağmen Kızılay hakkında hiçbir işlem yapmayan siyasi iradenin de bu konuda çok ciddi yara almış olmasıdır.<br />
+Son Kızılay rezaleti sonrası bugüne kadar halkımızın büyük destek verdiği ve çok büyük paraların toplandığı 1999 depremi, Somali’de ki açlık, Beşiktaş’ta ki Polis gurubuna yapılan saldırıda yaşamını yitirenler için toplanan yardımların ne olduğu soruları gündeme oturdu.<br />
+Onunla da yetinilmedi ve Devletin güvencesinde olan işsizlik fonu gibi diğer fonlarında ne olduğu? Nereye harcandığı? Soruları birbirini takip etti. TBMM’ ne de taşınan bu sorular ya cevapsız kaldı veya “Yol yaptık” Gibi amacı dışı kullanıldığı şeklinde ki cevaplar, yardımsever Türk halkının yardım yapma konusunda ki güven duygusunu da bitirdi.<br />
+Üzülerek söylemek gerekirse, en çok yardıma ihtiyacımız olan bugün bu yardım kuruluşlarına halkımız para vermiyor.<br />
+Yukarıda söz ettiğim fonlarda da para kalmadığının anlaşılması ile salgının başladığı ilk günlerde halkın feryadına sessiz kalmayan belediyeler, kendi olanakları ve kent halkından sağladığı yardımlarla kentlerinde yaşayanların yardımına koştu. Bu yönde kampanyalar başlattı.<br />
+Ardından da Sayın Cumhurbaşkanı halktan, açılan banka iban numarasına (Dikkat edin, Kızılay adına değil), Para göndererek yardım kampanyasına destek istedi. Ne var ki, bu konuda yeterli karşılık görülmemiş olmalı ki, İçişleri Bakanlığı aracılığı “devlet içinde devlet olamaz” söylemi ile belediyelerin yardım hesapları donduruldu.<br />
+Şimdi onunla da yetinilmediği, belediyelerin onlara oy vermiş kent halkına yapması zorunlu olan hizmeti yapması, hatta belediyelerin kendi tesislerinde ürettiği ekmeğin dağıtımını dahi yasakladığı, bu belediyeler hakkında soruşturma açtırarak müfettiş gönderdiğini üzülerek izliyoruz.<br />
+Böylesine ulusal bir felaketle karşı karşıya olduğumuz bir günde, ”Zor durumda ki ailelere kim yardım ederse etsin, yeter ki etsin.” Denmesi gerekirken, bu dayatmaların ve engellemelerin yapılması siyaseten dahi olsa akıl ve mantık dışıdır.<br />
+Bu dönemde yaşananların salgın sonrası kime ne yarar sağladığı çok açık bir şekilde görülecektir.<br />
+Halkımızın büyük bir kısmı zaten büyük bir yoksulluk içinde yaşıyordu. Ama dün her eve giren iyi kötü bir maaş veya işyeri geliri vardı. Sokağa çıkma yasağı nedeniyle, bugün o da bitti.<br />
+Yoksul kesim, eskisinden çok daha zor durumda. Devletin belirli bir kesime 1000.00 TL. Gönderdi. Görüştüğüm aileler, bu yardım için Devletine dua ediyor ama ardından da, “Bu parayla biz kaç gün dayanabiliriz?” Diye ekliyor.<br />
+İşte bu nedenle Samsun’da benim ilk kez tanık olduğum bir dayanışma modeli yaşanıyor. Samsun’da hızla yayılan yeni bir yardımlaşma modelinin diğer illerde olduğunu da sanıyorum.<br />
+8-10 arkadaş yardım yapma amacı ile bir araya geliyor ve bu amaçlarını gerçekleştirmek için uygulama yöntemini, hazırladıkları bir tanıtım fotoğrafını yakın arkadaşları ile paylaşarak anlatıyor. Bu yöntemle toplanan para ile gıda kolileri hazırlatıp yoksulluğun en üst seviye de olduğu ailelere dağıtıyor.<br />
+Bir başka gurup, benzer yöntemle bir yardım havuzu oluşturup toplanan para ile yoksul mahallelerde bakkallarda ki o mahalle sakinlerinin borcunu kapatıyor.<br />
+Değerli okurlarım tablo bu. Kim duyar? Kim ciddiye alarak uygular? Bilmiyorum. Bu köşeden tüm yetkililere sesleniyorum. Bırakın köstek olmayı da bu zor dönemi aşmakta kim ne kadar destek sağlıyorsa, sağlasın. Bu ülke bizim ise, devlette bizim, yerel yönetimler de bizim.<br />
+Unutmayınız ki, siyaset kendi alanında yapılırsa anlam taşır ve yarar sağlar.<br />
+SAMSUN’UN BÜYÜK AYIBI, ROMANLARIN HAZİN YAŞAMI.<br />
+Bu kentin bir insanı olarak Samsunlu Romanların yaşamı, içimi yakan en büyük sorundur. Bugün ülkemizde yaşanan Covid-19 salgınında en çok etkilenen kesimlerin başında geliyorlar. Bu insanlar gerek erkekleri ve gerekse hanımları günlük kazanarak geçinen insanlardır.<br />
+Eşleri, evine dışarıdan temizlikçi alan hemen her ailenin evlerine temizliğe giderler. Erkeklerin çok azı bir kurumda çalışma şansı bulmuş olup diğerleri, kentin belirli noktalarında ayakkabı boyacılığı ve kanalizasyonu tıkananların yardımına koşarak evlerine ekmek götürürler.<br />
+Çok zor şartlarda yaşarlar. Dilenen bir Roman gören olmamıştır.<br />
+İki yıl önce kapattığım kendi eczanemden biliyorum, borçlarına en sadık olan insanlardır. Eşlerinin temizliğe gittiği bazı evlerin bir anahtarı onlardadır. Bugüne kadar hırsızlık yaptıklarını gören yoktur.<br />
+Yıllar önce SAM-SEV Başkanlığı yaptığım dönemde cezaevi müdürü ile “Cezaevinde kaç tane Roman olduğunu ve hangi suçlardan yattığını” Sorduğum bir görüşme yapmıştım. Aldığım cevap, sadece 4 idi ve “Ağır suçtan hiçbir Roman gelmez. Gelenlerin çoğu da küçük yaşta ki evliliktendir” Demişti.<br />
+Sayılarını tam bilmiyorum ama sayıları 15-20.000 Civarında olup, 1.5 milyonluk Samsun için çok da önemli bir sayı değildir. Bunların bir kısmı eski mezbahanenin üst tarafında ki Yavuz Selim Mahallesi’nde, bir kısmı da 200 Evler ’de yaşamını sürdürüyor.<br />
+Önce ki gün konuştuğumda büyük bir kısmına 1.000.00 TL’lik Devlet yardımı geldiğini belirterek teşekkür ediyor ama arkasından da, bu bize kaç gün yetecektir?” Diye sıkıntılarının büyük olduğunu anlatıyordu.<br />
+Bu köşeden Belediyelerimiz başta olmak üzere, yardım amaçlı oluşturulan tüm gurupları, bu insanlara yardıma davet ediyorum.<br />
+Kentimin bir köşesinde yoksulluktan da öte açlıkla karşı karşıya olan Roman kardeşlerimize destek vermeye davet ediyorum.<br />
+Gün, içimizde yaşayan son derece düzgün bu vatandaşlarımıza bugüne kadar yeterince sahip çıkmayan Samsun’un, bu ayıbı giderme zamanıdır.<br />
+Corona’lı günlerden bir an önce çıkıp günlük yaşamımıza dönmemiz dileğiyle, sağlıklı bir hafta diliyorum.19.04.2020</p>
+<p>Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0979-bir-virus-ulkemizdeki-tum-yanlislarin-ayiraci-oldu.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0981-yasamda-her-sey-gorundugu-gibi-degildir.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

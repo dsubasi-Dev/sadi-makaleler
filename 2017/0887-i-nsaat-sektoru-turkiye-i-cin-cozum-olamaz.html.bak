@@ -1,0 +1,329 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>İnşaat Sektörü Türkiye İçin Çözüm Olamaz</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+İnşaat Sektörü Türkiye İçin Çözüm Olamaz
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2017
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0887
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>İNŞAAT SEKTÖRÜNÜ DESTEKLEMEK TÜRKİYE’NİN<br />
+SIKIŞAN EKONOMİSİ İÇİN ÇÖZÜM OLAMAZ.<br />
+İnşaat sektörü, gerek bu alanda kullanılan yapı malzemeleri üretim ve pazarını hareketlendirmesi ve gerekse sınırlı olsa da istihdama katkı sağlaması açısından önemlidir.<br />
+Ancak Türkiye gibi kalkınma çabasında olan bir ülke için öncelikli bir yatırım alanı olarak kabul edilemez.<br />
+İnşaat sektörüne destek, Türkiye gibi ekonomisi sıkışmış, işsizlik oranı %12’leri aşmış ülkelerde, sadece ve sadece başını sokacak evi olmayan dar gelirli aileleri ev sahibi yapmak için öncelik kazanabilir.<br />
+O nedenle, bu sektöre verilen destek hiçbir zaman TOKİ aracılığı da olsa, evi olmayanları ev sahibi yapma amacı dışına çıkmamalıdır.<br />
+Hatırladığım kadarı ile TOKİ ilk kurulduğunda, amacı buydu ve evi olmadığını kanıtlayanlara daire veriyordu.<br />
+Yine yanlış hatırlamıyorsam, TOKİ’ nin Samsun’da yaptığı ilk toplu konut projesi Pelitköy Toplu Konutlarıydı. Burada sadece evi olmayanlara ev sahibi olma fırsatı verilmişti.<br />
+Oysa bugün gerek TOKİ ve gerekse özel inşaatlar yapan müteahhit firmaları, devletin sağladığı bence mutlaka gözden geçirilmesi gereken bir yasayı fırsat bilerek son derece gereksiz bir inşaat patlamasına neden oldular.<br />
+Bugün Cumhurbaşkanı’nın dahi yakındığı dikey inşaatların çoğunluğu, 1999 depremi sonra çıkartılan ve depreme dayanıksız binaların yıkılması ile ilgili bir yasanın daha sonra kapsamının genişletilerek “Kentsel Dönüşüm Yasasına” dönüştürülmesi ile inşaat sektöründe ki fırsatçılara zemin hazırlandı.<br />
+Bu yasanın sağladığı olanaklar hem ülkemizin ekonomisine verdiği zararlar, hem de fakir halkın tek güvencesi olan evlerinin ellerinden alınmasına zemin yaratmış olması nedeniyle, iki açıdan ülkemizin ekonomik ve sosyal yaşamına zarar vermeye başlamıştır.<br />
+Artık fakir ve aileden kalma evlerinde zar zor geçinenlerin oturduğu bazı yerlerin günümüzde değer kazanması, bu yasadan yararlanan bazı müteahhitlerin gözünü döndürmüş bulunuyor.<br />
+Adı “Kentsel Dönüşüm yasası” Olan bu yasa, bir apartmanda huzur içerisinde oturan kat maliklerini bir daire sahibinin “Bu bina depreme dayanıksızdır raporu alması” İle binalarının yıkılması sürprizi ile karşı karşıya bırakabiliyor.<br />
+İsterseniz şimdi bu iş nasıl oluyor? Sorusuna cevap arayalım;<br />
+Eğer oturduğunuz bina kentin değer kazanmış ve kolay alıcı bulunan bir bölgesinde ise, tehlike sizin kapınızı da çalıyor demektir.<br />
+Binanızın sağlamlığından hiçbir endişenizin olmaması veya kentinizin depremde 1. Derece riskli bölgede de bulunmamasının da hiçbir anlamı yoktur.<br />
+Bu arada binanız kullanım alanları nedeniyle ticari değerini kaybetmiş olabilir. Binanız 4 veya beş katlıdır. Kat malikleri olarak binanızı kendiniz yeniden yaptırmak isteyebilirsiniz.<br />
+Ancak yeniden yaptırabilmek ve aynı sayıda daireye sahip olabilmeniz için mevcut 4 veya 5 katınızın üzerine, belediyeden 2-3 kat daha yaptırabilme izni almanız gereklidir.<br />
+Tüm çabanıza rağmen sizler bu izni alamazsınız. Aradan zaman geçer ve binanızdan bir daire satılır.<br />
+Bu daireyi bu işleri çok iyi bilen bir müteahhit almıştır. Bir süre sonra binanızın depreme dayanıksız olduğu gösteren ve yetkili olan bir kuruluştan alınmış yıkım kararı ile karşınıza çıkar.<br />
+Size onay vermeniz için dairenize karşılık yeni bir daire, inşaat süresince de taşınacağınız dairenin kirasını verecektir. Ayrıca daha önce sahip olmadığınız otoparkınız da olacaktır.<br />
+Kat malikleri olarak yıkım kararının alındığı ve isteseniz de istemeseniz de yıkılması kesinleşmiş bir ortamda böyle bir öneriye kim hayır diyebilir? Daire sahiplerinin bu öneriyi kabul etmekten başka çaresi yoktur.<br />
+Sözleşme imzalanır ve daire sahipleri onay verir. Nasıl oluyorsa, müteahhit daire sahiplerinin uğraşıpta bir türlü alamadıkları kat artırma farkını alarak inşaatı yapar.<br />
+Yıkılan binada ki daire sahipleri yeni dairelerini almıştır. Ama otopark yerine o bölümler dükkân olarak yapılmış ve 2-3 kat daha fazla yapılan binadan müteahhit, getirisi çok fazla olan 4-5 dükkân ile 8-10 tane de daire sahibi olmuştur.<br />
+Bu örnekte yıkılan binanın daire sahipleri açısından yine de çok kötü bir durum yoktur.<br />
+Ne var ki çoğunluğu dar gelirli insanların yaşadığı kentin değer kazanmış bir mahallesinde yaşayanlar için durum o kadar da şanslı değildir.<br />
+Çünkü mahalleye göz koyanlar inşaatçılar, mahallenin kentsel dönüşüm kapsamına sokulmasını sağlayarak, bu alana 5-6 tane çok katlı binalardan oluşan çok lüks bir site yapmaya karar vermişlerdir.<br />
+Sonuçta yukarıda ki işlemler aynen yürütülür ve bu mahalle ellerinden alınır. Bu mahallede alçak binalarda yaşayanlar, başka uzak ve getiri değeri olmayan semtlerde yüksek katlı apartmanlarda mutsuz bir şekilde yaşamaya mahkûm edilirler.<br />
+Örneğin bu kapsam da İstanbul’da ağırlıklı olarak Roman vatandaşların yaşadığı Sulukule Mahallesi kentsel dönüşüme kurban edilmiştir. Bugün bu mahallenin yerinde getirisi çok yüksek son derece lüks bir site yer almaktadır.<br />
+Böylesine değerli bir alana sahip bu vatandaşların ise, bu getiriden hiçbir yararı olmamıştır.<br />
+Bu yasayla, Türkiye’nin giderek sıkışan ekonomisine ve işsizlik sorununa çözüm olabilecek yatırımların önü de kesilmiş ve çok büyük paralar ülkenin geleceğine hiçbir katkısı olmayan ölü yatırım olan lüks inşaatlar aracılığıyla toprağa gömülmüş, hala da gömülmeyi sürdürmektedir.<br />
+Bu yıkım kararlarını verme yetkisi bulunan denetim firmaları çok iyi denetlenmeli ve inşaatçıların işini kolaylaştıran yan kuruluşları gibi çalışmalarının önü kesilmelidir.<br />
+Samsun özelinde baktığınızda, bu yazdıklarımın ne kadar doğru olduğu görülecektir.<br />
+Samsun’da çok sayıda heyelan ve depreme dayanıksız binanın olduğu bölgeler vardır. Bunu en iyi bilenler Samsun’u yönetenlerdir.<br />
+Peki, hiç bu bölgelerde Kentsel Dönüşüm Yasası kapsamında yıkım görüyor musunuz?<br />
+Kentsel Dönüşüme sokularak yıkılan ve yeniden yapılan yerlerin tamamı, Samsun’un getirisi en yüksek olan Lise Caddesi ve 56. Lar semtinde ki binaları kapsamaktadır.<br />
+Çürük raporunun nasıl kolay alındığını gösteren bir örnekte, Mecidiye Caddesi’nin girişinde bulunan ve geçen sene alınan çürük raporu ile yıkımı yapılan SGK Binasıdır.<br />
+Bir yıldır yıkıntı alanı olarak duran bu binanın yapımını bilenlerin, “Bu bina deprem de en son yıkılacak kadar sağlam yapıldı” Sözlerin de ne kadar haklı olduğu, binanın ne kadar zor ve çok uzayan bir süreçte yıkılabildiği görüldüğünde çok daha iyi anlaşıldı.<br />
+Hatta günlerce uğraşılmasına rağmen temelinin sökülemeden bırakıldığı da unutulmamalıdır.<br />
+Bu nedenlerle, bu Kentsel Dönüşüm Yasası mutlaka gözden geçirilmeli ve çıkarılış amacı dışında kullanılmasının önü kesilmelidir.<br />
+Güzel ve sorunsuz geçecek bir hafta diliyorum. 19.11.2017</p>
+<p>Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0886-ataturk-u-sevmek-i-cin-onu.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0888-feto-ile-mucadelede-ve-egitimde-yanlislar.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

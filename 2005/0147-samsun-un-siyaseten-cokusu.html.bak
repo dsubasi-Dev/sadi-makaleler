@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Samsun&#x27;un Siyaseten Çöküşü</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Samsun&#x27;un Siyaseten Çöküşü
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2005
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0147
+
+</div>
+
+
+<div class="article-content">
+
+<p>SAMSUNDA SİYASETİN ÇÖKÜŞÜ</p>
+<p>Geçen hafta başında sayın Başbakanın teşvik kapsamının genişletilmesi ile ilgili kararı ve yeni illerin listesini açıklaması ile Samsun büyük bir şok yaşadı. Aylardır teşvik kapsamına alınmamızın kesinleştiği yolunda müjdelerin verilmesi, tüm Samsunluları umutlandırmıştı. İşsizlik oranı Türkiye  ortalamasının üzerinde olan Samsun için bunun anlamı açılacak yeni iş kapılarıydı. Yıllardır ekonomik olarak hızla gerileyerek geçmişteki gücünü hızla kaybeden Samsun da, bu nedenle teşvik bir çıkış olarak görülüyordu. Hayaller bir anda yıkıldı. ilk şaşkınlıktan sonra tepkiler yükselmeye başladı. Özellikle yerel basının yayınladığı teşvik haritaları  Samsun’un nasıl bir yalnızlığa itildiğinin göstergesiydi. Samsun bir kez daha yanıltılmıştı. İşin acı yanı, bu işten en çok sorumlu olması gerekenlerin sessizliği ve adeta olayın geçiştirilmeye çalışılması , deyim yerinde ise uyutulmaya çalışılmasıydı. Ancak bu işin gerçek yüzü Samsun adına siyaset yaptığını söyleyen, daha açık deyimle zannedenlerin çöküşüydü. Bu , Samsun’un siyasetininde uzun yıllardır içinde bulunduğu basiretsizliğin noktalanmasıydı.<br />
+Sonuç, Samsun’un Ülke geneli için konmuş bazı ekonomik göstergelere uymamasından kaynaklanıyordu. Teşvik kapsamı için konan sınırlama önceleri kişi başı gelirin 1500 USD. nin, daha sonrada 2000 USD nin altı olarak belirlenmişti. Oysa Samsun’un kişi başı geliri 2000 USD. nin çok az üzerindeydi. Buna rağmen açıklanacak ek listeyle ‘’teşvikte öncelikli illerin’’sayısı 52 ye çıkartılacak ve Samsun 51. sıradan listeye girecekti. Olmadı. Çünkü verilere göre Samsun bu kapsama giren illerden daha iyi konumda gözüküyordu. Eğer durum böyleyse neden Samsunlu bunu görmüyordu? Çünkü Samsun’un kişi başı geliri Samsunluya yararı olmayan nedenlerle yüksek çıkıyordu. Samsun’un sınırları içersinde üç büyük barajın bulunması ve bunların Samsun’a değil Türkiye’ye olan katkıları ile  özelleştirme uğruna kapatılan Karadeniz Bakır ve Tügsaş’ın geçmişten gelen artıları  Samsunlunun kişi başı gelirini yanıltıcı olarak yükseltiyordu. Bu gün, bunlar alınmayış gerekçesi olarak öne sürülüp bu yenilgi geçiştirilmeye çalışılıyor. Adama o zaman sormazlarmı? Bunları Sayın Başbakana neden anlatmadınız ? Neden Samsunluya boşu boşuna umut verildi? Bunları Hükümete ve Başbakana sokaktaki insanmı anlatacaktı? Bizleri Ankara’da temsil etsin diye seçtiğimiz sayın vekillerin asli görevi bu değilmiydi? Ne yazıkki bu sorun bugünün sorunu değildir. Son otuz yıla baktığınızda Samsun’un nasıl bir siyasi yetersizliğin içinde olduğunu açık, seçik görürsünüz. Oysa Samsunlu son otuz yıldır belkide siyaset adına doğruları yapmıştır. Hizmet almanın yolu olan iktidar yanlısı olmak konusunda hep tecihlerini böyle kullanmıştır. Ne varki hizmet almak yerine sürekli cezalandırılmıştır. Son otuz yılda Samsun da yapılmış tek bir sanayi kuruluşu yoktur. En son yapılan o zamanki isimleri ile Azot ve Bakır fabrikalarıdır. Onlarda bugün kapatılmış işçileri işsiz bırakılmıştır.<br />
+Olaya hangi yönünden bakarsanız bakın bu siyaseten başarısız olduğumuzun simgesidir. Ankara Samsun’u yanlış tanımaktadır. Samsun’un gerçek yüzü bir türlü Ankara’ya ve hükümetlere yıllardır anlatılamamıştır. Artık sokaktaki Samsunlu sivil toplum kuruluşlarından Ankara’ya sesimizin duyurulmasını istiyor. Hep bir araya gelip nasıl bir ses çıkarmamız gerektiğine karar vermeliyiz? Samsunlunun protokol görüşmeleri ile zaman kaybına dayanacak gücü kalmamıştır. Bu konuda hazırlanacak raporlar Sayın başbakana sunulmalı ve gerekli ikna çalışmaları mutlaka yapılmalıdır. Ama hepsinden önce bu kez rahatsızlığımızı ciddi bir şekilde Ankara’ya duyurmak ve dikkatlerini çekmek zorundayız. Bunları cumartesi akşamı Kanal-S  de Sayın Osman Kara’nın yönettiği canlı yayında daha geniş ve sözlü olarak anlatma şansı buldum. Başkanı olduğum SAM-SEV 11-Ocak-2004 Salı günü tüm sivil toplum kuruluşlarına çağrı yaparak Büyük Samsun Otelinde bir toplantı düzenlemiştir. Bu toplantıda belirlenecek ortak bir yöntemle Samsunlunun sesinin Ankara’ya duyurulması amaçlanıyor. Umarım katılım yeterli olur ve Samsunluyu rahatlatacak kararlar çıkar. Siyasetçisi ile, sade vatandaşı ile ve sivil toplum kuruluşları ile hepimiz bu gemideyiz. Bu gemi artık batıyor. Ya hep birlikte batacağız ve her kesimiyle silkinecek ve bu gemiyi yüzdüreceğiz.<br />
+Bu kentte yaşayan ve Samsunluyum diyebilen herkesi bu taşın altına elini sokmaya ve sorumluluk almaya davet ediyorum. Umarım Samsun’a yapılan bu haksızlık ve yaratılan haksız rekabet ortamı bizi derin uykumuzdan uyandırır ve şahlanmamıza neden olur. Haydi Samsunlu sustuğun yeter, sesini yükselt ve hakkını aramaya başla.. İyi haftalar dileğiyle..<br />
+NOT; Geçen hafta yazdığım köşe yazımla ilgili bir tepki yazısı aldım. Bu sütunlarda yayınlamamın istendiği cevap yazısını teşvik konusunun güncelliği nedeniyle, bu gün sizlere sunamıyorum. Ancak bu cevap yazısını  hafta içinde bu sütunlarda okuyacaksınız.)<br />
+09-Ocak-2005</p>
+<p>SADİ  SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0146-mecidiye-nin-kalbine-saplanan-hancer.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0148-acik-mektup-sayin-yalcin-bayer-tesvik-kapsami.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

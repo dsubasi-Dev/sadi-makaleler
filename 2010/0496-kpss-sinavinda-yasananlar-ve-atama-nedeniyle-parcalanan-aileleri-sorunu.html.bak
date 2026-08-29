@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>KPSS Sınavında Yaşananlar ve Atama Nedeniyle Parçalanan Aileleri Sorunu.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+KPSS Sınavında Yaşananlar ve Atama Nedeniyle Parçalanan Aileleri Sorunu.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2010
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0496
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>KPSS SINAVINDA YAŞANANLAR VE ATAMA NEDENİYLE<br />
+PARÇALANMIŞ AİLE OLGUSU BU ÜLKENİN AYIBIDIR.</p>
+<p>Çiçeği burnunda yeni evli bir çifte vurulacak en büyük darbe, genç çifti birbirisine uzak iki ayrı yere atayarak atanma sevincini kursaklarında bırakmaktır. Üzülerek söylemek gerekirse, hiçbir çağdaş demokrasi de böylesine bir insanlık suçuna zemin hazırlanmaz.<br />
+Geçtiğimiz günlerde bir TV programında KPSS Sınavlarında yaşanan kopya olayı ve ataması yapılmayan genç öğretmenlerin sorunu tartışılırken, bir başka soruna daha değinildi. Yanlış anlamadıysam, atamalar nedeniyle 30.000 ailenin parçalanmış bir yaşam sürdürmek zorunda kaldığı söylendi.<br />
+Ataması yeni yapılanların büyük çoğunluğu genç öğretmenler. Siz yeni evli ve küçük yaşta çocukları bulunan eşleri birbirinden uzak yerlere atayacaksınız, sonra da onlardan verimli bir hizmet bekleyeceksiniz. Bu nasıl anlayıştır ve nasıl bir yönetim tarzıdır, anlamak mümkün değil.<br />
+En çok dayanışmaya ve en doğal insani ihtiyaçları için birbirlerine en çok ihtiyaçları oldukları dönemlerinde genç çiftleri geçici de olsa birbirinden kopartmak, daha meslek yaşamlarının başında olan bu insanların şevkini kırmak demektir.<br />
+Kaldı ki, özellikle genç öğretmenlerin atandıkları ilk yerler, genelde ülkemizin en ücra köşeleridir. Aylarca atanmak için bekleyen genç bir bayan öğretmenin, kalacak yerin dahi sorun olduğu bir yere atandığında eşinden uzak yaşayacağı sıkıntılar hem onu, hem de eşini nasıl sarsacaktır düşünebiliyor musunuz?<br />
+Bu eleştirileri yaparken, öğretmen veya memurların ülkemizin ücra köşelerine atanmaması gerektiği gibi bir yanlışı savunmuyorum. Söylemek istediğim şey, Devletin genç çiftlerin aynı yerlere atanması konusunda bir yöntem geliştirmesi ve bunu belirli kurallara bağlaması gerektiğidir.<br />
+Bunu çözmenin, yöntemini bulmanın ve uygulamanın çok zor olduğunu sanmıyorum. Yeter ki, siyasi irade bunu içtenlikle istesin. Yeter ki, hangi amaçla olursa olsun torpilli atamalar son bulsun.<br />
+Son yıllarda bu iddialarla bazı önlemler alındı ve bazı kurallarda konmadı değil. Ama üzülerek söylemek gerekirse, ülkemizde ki çarpık siyaset anlayışı ve toplumumuzun tüm kesimlerinin adeta kanına işlemiş olan “Kuralları bir şekilde delme” alışkanlığı, en güvenilir sistemleri dahi yerle bir edebilmektedir.<br />
+Üniversite seçme sınavlarında yaşanan soruların çalınmış olabileceği iddialarından sonra, memur alımına bir düzenleme getiren KPSS Sınav sonuçlarının açıklanması ile birlikte yeni bir skandal bomba gibi patladı.<br />
+Aynı aileden veya birbiri ile bağlantılı çok sayıda kişinin tam puan almış olduğu haberleri, toplumun tüm güven duygularını da yerle bir etti.<br />
+Belki de bunlardan çok daha düşündürücü olan, ÖSYM Başkanı’nın hemen istifa etmek yerine akıl almaz savunmalar yapması ve tüm çağrılara rağmen Milli Eğitim Bakanı’nın soruşturma sonuna kadar olsun, bu tartışmalı sınav sonuçlarına göre yapılan öğretmen atamalarını durdurmamakta direnmesidir.<br />
+Büyük ideallerle üniversiteyi bitirmiş ve öğretmen olma hakkını kazanmış gencecik idealistleri, görevlerine atamak üzere KPSS Sınavına tabi tutacaksınız, adayları yeni bir sınav heyecanı ve KPSS dershanelerine mahkûm edeceksiniz, sonra da bir şekilde belirli gurupların sınavda süper başarı göstermesine zemin hazırlayacaksınız.<br />
+Eğitim-Sen Başkanı’nın son dakika da yaptığı açıklama, işin boyutunu çok daha vahim bir hale getirmiştir. İddiaya göre, sorular adı ve ilçesi belli olan bir kişiye e-posta yolu ile gönderilmiş ve sorular belli bir grubun! Arasında dağıtılmış. Açıkçası olay, soru çalınması veya kopya çekilmesinin de ötesine taşınmıştır.<br />
+Böylesine rezilliklerin yaşandığı, gencecik insanların daha mesleğe başlayamadan umutlarının kırıldığı, hayallerinin yıkıldığı bir ortamda, bırakınız Bakanı, eğer ÖSYM Başkanı dahi anında istifa etmiyor ve siyasi irade bu duruma kesin bir tavır koymuyorsa, bunun adı yanlışa göz yummaktır.<br />
+Mevcut çocuklarını eğitemeyen, eğittiklerine görev veremeyen, bir yandan öğretmen açığı olduğunu söyleyip öte yandan atamalarını yapmayarak öğretmen adaylarını sokağa döken bir siyasi irade, hala daha çok çocuk yapmayı öneriyorsa, sanırım oturup ağlamaktan başka çaremiz yok demektir.<br />
+Bu sorun günümüz iktidarı döneminde ortaya çıkmış yeni bir şey de değildir. Büyük Devlet Adamı Mustafa Kemal Atatürk döneminde uygulamaya konularak büyük bir başarıya imza atan, “Köy Enstitüleri Sistemini” dünden bugüne, günün şartlarına göre yeniden düzenlemeyi dahi düşünemeyenlerin siyaset yaptığı bir ülkede yaşıyoruz.<br />
+Ve ne yazık ki, öğretmen olabilmek adına girdiği sınavda yeterli puanı alamadığı için canına kıyacak kadar öğretmenlik yapma sevdalısı gençleri dahi, öğretmenlik görevine atama becerisini gösteremeyenlerin yönettiği bir ülkede yaşıyoruz.<br />
+Sanki, böylesine önemli işleri yapmaya Anayasa engel.<br />
+Sanki, eğitimini tamamlamış bu gençlerimizin en doğal hakları olan atamalarını yapabilmek için yeni yasal düzenlemelere gereksinim var?<br />
+Sanki, bu gençlerimiz en doğal hakları olan mesleklerini yapabilme özgürlüklerini kullanabiliyorlarmış gibi, bir de kalkıyoruz daha çok özgürlük verebilmek adına Anayasa değişikliğine gidiyor ve bunu sağlayabilmek için “REFERANDUM” Bilmecesini gündeme taşıyıp, ülkeyi kamplara bölmeyi göze alıyoruz.<br />
+Açıkçası bu olanları benim ne aklım, ne de mantığım alıyor. Bu anlayış tarzını ve bu yanlış siyaset mantığını düzeltmeden hangi sistemi kurarsak kuralım, hangi yasayı çıkartırsak çıkartalım, en kısa sürede onun da cılkını çıkartırız diye düşünüyorum.<br />
+En iyisi babamı rahmetle anarak, onun 50 yıl önceleri sıkça söylediği ve hala kulaklarımda çınlayan sözlerini hatırlamak olacak.<br />
+1950’li ve 1960’lı yıllar, toplumun hemen her kış, “Komünizim geliyor” Korkusu ile terbiye edildiği ve yönlendirildiği yıllardı.<br />
+Sanırım benim de ilkokulda olduğum yıllardı. Büyüklerimiz aralarında tartışırken babam sık sık, “Korkmayın bu ülkeye komünizim gelemez, gelse de nasıl olsa bir yılda onu da kendimize benzetiriz” Derdi.<br />
+Günümüzde yaşananlara bakınca, bunları anmadan geçemedim.<br />
+Umarım onbeş gün sonra yapılacak olan “REFERANDUM”, bu sorunlarımızın hepsini çözecek “HAYIRLI” bir sonuçla tamamlanır.<br />
+Bugün, son vatan toprağımız olan Anadolu’muzun düşman işgalinden temizlenerek son Türk Devleti olan Türkiye Cumhuriyeti’nin kuruluşunu sağlayan, “30 AĞUSTOS ZAFERİ’NİN” 88. yıl dönümü. Bu şanlı Zafer’imiz tüm ulusumuza kutlu olsun.<br />
+Bu zaferi tarihin şanlı sayfalarına yazdıran, başta Büyük Komutan Mustafa Kemal Atatürk olmak üzere, bu uğurda canlarını veren tüm şehitlerimizi ve gazilerimizi rahmetle ve minnetle anıyorum.<br />
+İyi haftalar… 29 Ağustos 2010<br />
+SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0495-referandum-onarilmaz-bir-kamplasmaya-zemin-hazirliyor.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0497-referandum-a-karsi-i-lkeli-ve-i-lkesiz-i-ki-boykot.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

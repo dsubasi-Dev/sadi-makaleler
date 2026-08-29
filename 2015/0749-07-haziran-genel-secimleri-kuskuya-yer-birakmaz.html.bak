@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>07 Haziran Genel Seçimleri Kuşkuya Yer Bırakmaz.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+07 Haziran Genel Seçimleri Kuşkuya Yer Bırakmaz.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2015
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0749
+
+</div>
+
+
+<div class="article-content">
+
+<p>a</p>
+<p>07 HAZİRAN SEÇİM SONUÇLARI KUŞKUYU KALDIRMAZ..</p>
+<p>07 Haziran Genel Seçimlerine on beş gün gibi çok az bir süre kaldı. Siyasi parti sözcüleri, partilerinin seçim programlarını ve seçildiklerinde seçmene sağlayacakları olanakları meydanlarda ve TV Kanallarında ki söyleşilerde anlatmayı sürdürüyor.<br />
+Onüç yıldır iktidarda olan partinin yıpranmaya ve oy kaybetmeye başladığı şeklinde kamuoyunda oluşan kanı, muhalefet partilerinin iştihanı artırırken, iktidar partisini de sertleştirmiştir.<br />
+Bu seçimin çok daha fazla önem kazanmış olmasının nedeni, iktidar partisinin seçim sonrası yeterli milletvekili sayısına ulaşması halinde, ülkemizde ki parlamenter sisteme son vererek içeriği tam da belli olmayan bir “Başkanlık Sistemine” Geçmeyi programına almış olmasından kaynaklanmaktadır.<br />
+Aslına bakarsanız bu sistem değişikliğini İktidar Partisinden çok, tarafsız kalmaya yemin etmiş Sayın Cumhurbaşkanı istemektedir.<br />
+Bunun için gerekli milletvekili sayısına ulaşabilmek için de, yeminine aykırı olarak siyasi arenaya inmiş, 400 milletvekilliği için AKP’ e oy istemeye başlamıştır. Mevcut Anayasa’nın gereği olan yasaları da dikkate almamaktadır.<br />
+Başkanlık Sistemi talebinin dikta rejimine dönüşeceği endişesini gündeme taşıyan tüm muhalefet partileri de, karşı çıkışlarını sürdürmektedir.<br />
+Sayın Cumhurbaşkanı’nın bu talebini “Olmazsa olmazı” Haline getirmiş olması, seçimlerin güvenilirliği tartışmalarını da gündeme getirmiş bulunmaktadır.<br />
+Üzülerek söylemek gerekirse, 2007 Genel seçimlerine kadar ülkemizde yapılan hiçbir seçim sonrası seçim sonuçları üzerinde tartışma olmamıştı.<br />
+Ancak, seçmenlerin oyunu kullandıktan sonra parmağına sürülen boyanın kaldırılması ve oyların bilgisayar ortamında değerlendirilmeye başlamasından sonra seçim sonuçları üzerinde tartışmalar yapılmaya başlamıştır. Bu konuda bazı somut bulgulara dayanan itirazlar da yapılmıştır.<br />
+Nitekim son yerel seçimlerde Ankara Belediye Başkanlığı Seçim sonuçları üzerinde Yüksek Seçim Kurulunda bazı manipülasyonların yapıldığı şeklinde ki iddialar ve bu konuda Yüksek seçim kuruluna yapılan suç duyuruları kafaları karıştırmıştır.<br />
+Asıl sıkıntı, Yüksek seçim Kurulunun yasasından kaynaklanmaktadır. Çünkü Yüksek Seçim Kuruluna yapılan itirazlar yine sadece bu kurum tarafından incelenerek karara bağlanmaktadır. Kararlar kesin olup, itiraz edilebilecek bir üst mahkeme de yoktur.<br />
+Son yerel seçimlerine yapılan bazı itirazların, Yüksek Seçim Kurulunca incelenip reddedilmesinden sonra Ana Muhalefet Partisi itirazını Anayasa Mahkemesi’ne taşımış ise de, Anayasa Mahkemesi yetkisizlik kararı vermiştir.<br />
+Ülkemizin geleceği açısından son derece önemli olan bu seçim sonrası, en ufak bir kuşku oluşmamalı ve Yüksek Seçim Kurulu’nun öncekilerde olduğu gibi reddetmesi ile son bulacak itirazların çok ciddi tartışmalara yol açacağı bugünden bellidir.<br />
+O nedenle, Yüksek Seçim Kurulu’n da oyların toplanması ve sonuca bağlanması süreci mutlaka tarafsız gözlemcilerin denetimi altında yapılmalı ve olası kuşkulara meydan verilmemelidir.<br />
+Demokrasi ile idare edildiği kabul edilen bazı Asya ve Ortadoğu ülkelerin de yapılan hemen her seçim sonrası hile yapıldığı iddiaları ortalığı karıştırmaktadır. Türkiye’ye böyle bir ayıp yaşatılmamalıdır.<br />
+Önceki seçimlerde olduğu gibi, “Yok trafoya kedi girdi” Veya “Gece geç saatlerde Yüksek Seçim Kurulu’na bakan girdi ve sonuçlar değişti” iddiaları bu kez öncekilerde olduğu gibi geçiştirilemez.<br />
+Seçim sonuçlarının bilgisayar ortamında yapılmaya başladığı tarihten itibaren, eski yıllarda olduğu gibi “Sandıklar çalındı” Veya “Oy pusulaları çöp kutularından çıktı” Gibi iddialar önemini yitirdi. Şimdi seçim sonuçları ile ilgili olarak en çok tartışma yapılan yer, Yüksek Seçim Kuruludur.<br />
+Yüksek Seçim Kurulu bu tür iddialara zemin bırakmamak zorundadır. Seçim sonuçlarını tüm siyasi partilerin içine sindirmesi ve sonuçları kabullenebilmesi şarttır.<br />
+Aksi halde, başta çok büyük umutlar verilen Kürt vatandaşlarımız olmak üzere, bu kez hiç de beklenmedik tepkiler yaşanabilir. Avrupa Birliği kapımız tamamen kapanabilir. Batı ülkelerinden gelebilecek tepkileri göğüslemek zorlaşabilir.<br />
+Tabii bu arada özellikle muhalefet partilerine çok büyük görev düştüğünü belirtmek gerekir. Seçim sonuçlarına yapacakları itirazların sağlam belgelere dayalı olması gerekmektedir.<br />
+Bunun yolu ise, öncelikle sandıklara sahip çıkmak, orada ki sayımı sonuna kadar izleyerek sandık sonuçlarını anında genel merkezlere iletilerek bilgisayar ortamın da birleştirmesini sağlamaktır.<br />
+Bu sonuçlarla Yüksek Seçim Kurulunca açıklanacak sonuçları karşılaştırarak, olası yanlışlıklara anında itiraz edilebilmelidir.<br />
+Öncelikle muhalefet partilerinin bu görevi yeterince yerine getirmesi şarttır. Aksi halde seçim sonrası kendi verilerini hazırlayamayacak partilerin itirazları hiçbir anlam ifade etmeyecektir.<br />
+Burada Yüksek Seçim Kuruluna düşen en büyük görev ise;<br />
+Yeterinden fazla basıldığı iddia edilen fazla oy pusulalarının iptalini anında yaparak kuşkulara meydan bırakmamaktadır.<br />
+Birçok dünya ülkesinde de denenen bilgisayar ortamında seçimleri sonuca bağlamak ilkesi terkedilmiş ve eski sisteme dönülmüştür. Hatta bu ülkelerden bazılarında parmak boyama kuralı yeniden konulmuştur.<br />
+Tüm bu nedenlerle Yüksek Seçim Kurulu, seçim akşamı sandık sonuçlarının gelmeye başladığı andan sonuçların belirlendiği ana kadar, tarafsız müşahitlere ve siyasi parti temsilcilerine kadar izleme olanağı vermelidir.<br />
+Yüksek Seçim Kurulu, tüm bu konularda topluma güvence verecek açıklamaları yapmalıdır.<br />
+Vatandaşa düşen en büyük görev ise, her ne pahasına olursa olsun sandığa gidip oyunu kullanmaktır. Oyunu kullanmayanların, yarın hiçbir konuda yakınma hakkı olmayacaktır.<br />
+Ülkemizde ki tüm tartışmalara son verecek sağlıklı bir seçim geçirmek umuduyla, huzurlu ve korkusuz yaşamın hâkim olacağı bir Türkiye dileğiyle.<br />
+“ Cumartesi akşamı tüm Samsunlulara Süper Lige çıkma onurunu yaşatacak Play- OF kapısını açan galibiyet için Samsunsporumuzu kutluyorum.<br />
+Çok kötü geçen bir ilk yarı sonrası yönetimi devralarak küme düşer mi korkusu yaşayan bir takımı Süper Lig kapısına getiren Sayın Erkut Tutu Başkanlığında ki Yönetim Kuruluna da Samsunlular adına teşekkür ediyorum.<br />
+En büyük alkışı da, ilk yarında yaşanan büyük yönetim yanlışları ve parasızlığa takımı dağılmaktan kurtararak Play-Off’a taşıyan Teknik Direktörümüz Erhan Altın ve yardımcılarına,<br />
+Samsunlu olmanın sorumluluğu ile çok güzel kaptanlık ve ağabeylik görevi yaparak sporcu arkadaşlarını sahiplenen Sevgili Musa Aydın ve para için Samsun’a ihanet etmeyen fedakâr oyuncularımıza istiyorum.<br />
+Hepsi sağ olsun, var olsun..”<br />
+24. 05. 2015<br />
+Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0748-turkiye-algi-yontemlerinin-kiskacindadir.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0750-kinama-ve-goreve-cagri.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

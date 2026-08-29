@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Demokrasimizdeki Yozlaşma Sivil Toplum Kuruluşlarını da Çökertti.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Demokrasimizdeki Yozlaşma Sivil Toplum Kuruluşlarını da Çökertti.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2014
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0709
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>DEMOKRASİMİZDE Kİ YOZLAŞMA SİVİL TOPLUM<br />
+KURULUŞLARINI DA ÇÖKERTTİ.</p>
+<p>Türkiye de 1923 de Cumhuriyetin ilanı ile başlayan çağdaş demokrasi rejimi zaman içerisinde gelişeceği yerde, sık sık uğradığı darbelerle kesintilere uğramıştır.<br />
+Darbe dönemlerinin tek teselli veren yanı, askeri yönetimlerin Ortadoğu ülkelerinde olduğu gibi kalıcı olmayıp, her defasında iki üç yıl içerisinde yönetimi sivillere devretmesi olmuştur.<br />
+Ne var ki, her kesinti ve sonrasında yapılan darbe anayasaları demokrasimizde onarılmaz yaralar açmıştır.<br />
+Çağdaş demokrasi ile yönetilen hiçbir ülkede Anayasa bizde ki gibi yazboz tahtasına çevrilmemiştir. Bu ülkelerin Anayasası bir kere yapılır ve bu Anayasa her iktidara gelenin keyfine ve isteklerine göre yenilenmez. İktidara gelenler bu Anayasaya bağlı ve sadakat içerisinde çalışır.<br />
+Üzülerek söylemek gerekirse kendilerine iktidar olma şansını veren Anayasa’ya sadakatle bağlı kalacağına aşağıda ki yemini eden siyasetçilerin, toplumu Anayasanın koyduğu kurallara uyarak yönetmek yerine, her fırsatta onu delmeye çalışmasının gerçek demokrasilerde yeri olamaz.<br />
+“Devletin varlığı ve bağımsızlığını, vatanın ve milletin bölünmez bütünlüğünü, milletin kayıtsız ve şartsız egemenliğini koruyacağıma; hukukun üstünlüğüne, demokratik ve laik cumhuriyete ve Atatürk ilke ve inkılaplarına bağlı kalacağıma; toplumun huzur ve refahı, milli dayanışma ve adalet anlayışı içinde herkesin insan haklarından ve temel hürriyetlerden yararlanması ülküsünden ve ANAYASA'YA sadakatten ayrılmayacağıma; büyük Türk milleti önünde namusum ve şerefim üzerine ant içerim<br />
+Hiçbir anayasa mükemmel değildir ve yeni yapılacak hiçbir Anayasa’da mükemmel olmayacaktır. Hele hele de toplumsal ve tüm siyasi partilerin uzlaşısı sağlanmadan sayısal güce dayalı Anayasa yapmak veya Anayasa’nın bazı maddelerini değiştirmeye kalkışmak, kişisel beklenti veya ihtirasların sonucu oluşacak bir Anayasa doğurur ki, bu Anayasa hiçbir zaman mükemmele yakın dahi olamaz.<br />
+Bu tür dayatma ve zorlamalarda demokratik rejimin sonu, totaliter rejimin doğuşu olur.<br />
+Üzülerek söylemek gerekirse, Anayasalarla oynamanın kapısı askeri darbelerle açılmış ve 1980 darbesi sonrası iktidara gelen Turgut Özal’ın, “ Bir kere delmekle bir şey olmaz” Anlayışı ile sivil iktidarlara da bulaşmıştır.<br />
+Askeri darbecilerin dahi 2-3 yıl içerisinde sivillere iktidarı devrederek demokrasiye geçme zorunluluğu duyduğu bir ülkede, hiç kimsenin totaliter bir rejime özenmesi kabul edilemez.</p>
+<p>STK’LARIN ÇÖKÜŞÜ<br />
+Sivil toplum kuruluşları gerçek demokrasilerde toplumun sözcüsü ve bir yerde de demokratik rejimlerin sigortasıdır.<br />
+Ne var ki, delik deşik edilen demokrasimizin ve anayasal suç işlemeyi göze alarak hukukun darmadağın edildiği bir ortamda, sivil toplum kuruluşlarının da bundan etkilenmemesi mümkün değildi.<br />
+Tüm bu olumsuzluklara rağmen, sivil toplum kuruluşlarının suskunluğu kabul edilemez. Çünkü şartlar ne olursa olsun onlar konuşmalı, doğru projelerle yanlışların giderilmesine öncülük etmelidirler.<br />
+STK’ lar görev alanlarında hizmet üretirken, toplumun sözcüsü olduklarını göz ardı edemezler. Özellikle de içinde yaşadıkları toplumu, sosyal yaşamı ve çevreyi tehdit eden yanlışlar toplumun geleceğini de olumsuz etkileyeceği için yasaların ve demokratik rejimin tanıdığı hakları kullanmak ve yanlışa direnmek, sivil toplum kuruluşlarının vaz geçemeyecekleri görevleridir.<br />
+Bunları yapmayan veya yapmaktan kaçınan sivil toplum kuruluşları, tabela STK’ sı olmanın ötesine geçemezler.<br />
+Üzülerek söylemek gerekirse,  bundan 10 yıl öncesine kadar geçen süreçte Samsun’ da sivil toplum hareketi çok ciddi atılımlar yapmış, hatta önemli ölçüde birliktelikler dahi sağlamıştı.<br />
+Sendikal faaliyetler 12 Eylül Darbesi sonrası uğradığı dağınıklıktan kurtulmayı başarmış ve yeniden toparlanarak işçi haklarını savunma konusunda söz sahibi olmaya başlamıştı.<br />
+2010’dan sonra hızlanan siyasi baskılar sonucu, özellikle kamu da çalışan işçileri işten çıkartma tehditleri ile siyasi yandaş haline gelen sendikalara üye olmaya zorlanmıştır. Sonuçta geçmişin sarı sendikalarından da öte, siyasi iradeye bağımlı yeni bir sendikal yapı ortaya çıkmıştır. Bu tür sendikaların işçi haklarını koruması mümkün değildir.<br />
+Çok değil on yıl önce Tekkeköy’de yapılmaya çalışılan “Mobil Santrali” Önlemeye yönelik “Çevre Birlikteliği” ile Samsun’un “Teşvikte Öncelikli Bölgeler” Kapsamı dışarısında bırakılması sırasında oluşturulan “Teşvik birlikteliği”  50- 60 sivil toplum kuruluşunu bir araya getirebiliyor ve büyük bir güç oluşturabiliyordu.</p>
+<p>Ancak, 2010 sonrası demokrasinin yozlaştırılması ve iyice artan siyasi baskıların  “Bitaraf olan, bertaraf olur” noktasına varması, özellikle iktidarla işi olanların sinmesine, hatta şartsız siyasi iradenin destekçisi konumuna gelerek toplumsal olaylardan kendilerini soyutlamasına neden oldu.<br />
+Gelinen nokta, demokrasimizin geleceği adına son derece düşündürücüdür. Kendilerini sivil toplum kuruluşu olarak adlandıranların mutlaka bu siyasi bağımlılıktan ve suskunluktan kurtulmaları gereklidir.<br />
+Bunun tek çözümü de, sivil toplum kuruluşlarında görev alacak olanların, özellikle de başkanlığı düşünenlerin iktidarlarla ve belediyelerle iş ilişkisi olmaması, daha doğrusu bu tür iş ilişkisi olanlarla belirli riskleri göze alamayanların sivil toplum kuruluşlarında görev almaması gereklidir.<br />
+Eğer sivil toplum kuruluşları, gerçek demokrasilerde ki toplum adına yönetenlere doğru işler yapması için projeler sunan ve onları sorgulayan konuma getirilemezse,<br />
+Bugün hiç değinmediğim ve yeri gelince kendilerini 4. kuvvet olarak tanımlayan görsel ve yazılı basın, içine düştüğü rezil yandaşlıktan ve iktidarla iş ilişkisi olan işadamların çıkar aracı olmaktan kurtarılamazsa,<br />
+Hiç kimsenin şüphesi olmasın ki, “ Bu ülkeye bir şey olmaz”  safsatası ile kendisini kandıran iyimserlik sevdalıları başta olmak üzere, toplum olarak demokrasinin rafa kalktığı ve yerine, kişi haklarının yok edildiği demokrasi ile taban tabana zıt bir yönetim biçimi ile karşı karşıya kalmaktan kutulamayacağız.<br />
+Artık bu gerçeğin herkes tarafından görülerek, ya demokrasi ve özgürlükten yana, ya da özgürlüklerin daha da yok edileceği yeni yönetim şekli tarafında tercihini yapması gereklidir.<br />
+Yoksulluk ve cephanesiz perişan bir halde, “Kurtuluş Savaşı” vererek özgürlüğüne sahip çıkan bu halkın, özgürlüklerinden ödün vermeyeceğine olan inancımı koruyarak, iyi haftalar diliyorum.<br />
+24.08.2014</p>
+<p>Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0708-cumhurbaskanligi-secimiyle-ortaya-cikan-gercek.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0710-termik-ve-mobil-santraller-geliyor-samsun-u-yonetenler-seyrediyor.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

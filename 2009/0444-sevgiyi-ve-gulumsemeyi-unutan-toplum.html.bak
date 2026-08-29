@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Sevgiyi ve Gülümsemeyi Unutan Toplum</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Sevgiyi ve Gülümsemeyi Unutan Toplum
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2009
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0444
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>GÜLMEYİ BİLMEYEN, SEVGİYİ UNUTAN<br />
+BİR TOPLUM.</p>
+<p>Sevgi ne güzel bir insani duygudur insanları birbirine bağlayan.<br />
+Gülmek ilk adımıdır sevgiyi göstermenin.<br />
+Ve ne yazık ki, toplum olarak hızla kaybediyoruz bu duyguları.<br />
+Bizim kuşak zaten gülmeyi ayıp sayan bir aile terbiyesi ile yetişmedi mi?<br />
+Daha çocukken yasaklanmadı mı gülmek, bizim kuşağın çocuklarına?<br />
+Ben ve kardeşlerim kendi adımıza şanslıydık. Nur içinde yatsınlar, ne annem ne de babam, bizim kuşağın çoğunun evinde yaşanan, “Çocuklar büyüklerin yanında gülmezler” Türü ayıp olgusunu bize yaşatmadı. Bu belki de şansımız, büyükanne ve büyükbabalarımızı çok küçük yaşta kaybetmiş olmamızdandı. Ancak çoğu yaşıtımın evinde, çocukları baskı altında yetiştiren bu tür geleneksel bir aile terbiye sisteminin yaşandığını biliyorum.<br />
+Günümüzde, artık hemen hemen hiçbir ailede bu tür bir baskı olduğunu sanmıyorum. Ne var ki, günümüzde de toplum olarak gülmüyoruz. Gülmüyor muyuz? Yoksa gülecek halimiz mi? Yok, o da ayrı bir konu ya.<br />
+Ancak, caddeler de yürürken yanınızdan gelip geçenleri izlediğiniz de göreceğiniz manzara somurtkan ve mutsuz insanlar topluluğudur. Oysa bir yabancı ülkede gezerken, gülen, şakalaşan ve gruplar halinde şarkılar söyleyerek gezen gençleri görürsünüz.<br />
+Biz de ise, ikili üçlü grup halinde yürüyen gençlerin etrafa sevgi ve neşe saçmak yerine, itiş-kakışlarına ve kulaklarınızın pasını açan küfürlü konuşmalarına tanık olursunuz.<br />
+En basitinden örnek, bir kamu kurumuna işiniz düştüğünde çoğu kez karşılaşacağınız tavırdır. Görevliler genelde size bir günaydını ve tebessümü çok görürler. Bu tavrı sergileyenlerin işini sevmediği ve zoraki yaptığı her halinden bellidir. O devlet kurumuna girebilmek için kim bilir ne zorluklar yaşamıştır ve kimlerin kapısını çalmıştır? Şimdi bu tafra nedendir? Anlamak mümkün değil.<br />
+Gülmekten kastım, bir fıkraya veya bir güldürü filminde gülmek değildir. Karşısındakine pozitif enerji veren bir tebessüm, bir gülümsemedir demek istediğim. Bu gülümsemenin özünde sevgi vardır.<br />
+Üzülerek söylemek gerekirse son yıllarda, geçmişten gelen aile terbiyesinin kazandırdığı “Saygı” olgusunu da kaybettik. Oysa çocukluktan itibaren beyinlere ne güzel de kazımıştık, “Küçükleri sevmek, büyükleri saymak” Kuralını. Ama toplum olarak bu “Saygının” özüne sevgiyi katamadık.<br />
+Gülebilmek aynı zamanda bir huzur ve mutluluk göstergesidir. Sevgi yüklü bir toplum olamadık. Sevgiyi kaybettikçe de, kişisel egolar, hak edilmeden kazanılan makamlar insanları daha da sevgi yoksunu ve sevimsiz yaptı.<br />
+Sevginin olmadığı yerde saygı da, iletişimde olamazdı. Sonuçta sevgiyi ve gülümsemeyi, espri yapmayı unutmuş, konuşarak sorunları çözme kavramını dahi yitirmiş, kavga eden, birbiri ile didişen bir toplum haline geldik. Sevgisizliğin boyutları, ekonomik sorunların ağırlaşmasının da etkisi ile cana kıyma eylemlerini olağan hale getirdi. Gazetelerin ilk sayfaları, TV’lerin ilk haberleri cinayet, gasp, intihar ve tecavüz haberleri ile doldu.<br />
+Ülkeyi yönetenlerin basiretsizliği, ekonomik sorunların tavan yapması ile patlayan işsizlik, gelir düzeyindeki büyüyen uçurum ve yargının bağımsızlığını yitirmesi yanında, yasaların etkinliğini kaybetmesi, toplumsal barışı da bozdu. Bu da toplumu daha da sevgisiz ve mutsuz bir yaşama mahkûm etti.<br />
+İşin daha da kötüsü, bu ortam da yetişen gençlerimiz de gerçek sevginin ve gülümsemenin anlamını da, değerini de yeterince anlayamadı.<br />
+Oysa gülümsemenin ve güler yüzlü olmanın değerini bir anlayabilsek, onun açamayacağı kapının olmadığını da göreceğiz. Birbirini hiç tanımayan iki insanın bir sabah göz göze geldiklerinde ki bir gülümseme ve bir “İyi günler”Sözünün yaratacağı sıcaklık ve karşıda ki insana vereceği pozitif enerji güzel başlayacak bir günün habercisidir.<br />
+Sevginin katılamadığı hiçbir işte başarı da olmuyor. Hangi işi yaparsak yapalım, işini severek yapmak insanları toplumda farklı hale getiriyor.<br />
+Bunun güzel bir örneğini sizlerle paylaşmak isterim. Eminim ki, benzer tabloya sizlerde şahit oluyorsunuzdur. Biliyorsunuz, çöp kamyonları her sabah veya akşamları sokaklarda ki çöp konteynerlerini ( Çöp bidonları) boşaltırlar. Genelde çöpleri alan iki görevli vardır. İkisi birden konteyneri kaldırımın içine sokulduğu cepten çeker ve kamyonun arkasında ki kaldırıcıya yanaştırır. Kamyonun otomatik olarak çalışan kolları da konteyneri kamyona boşaltır sonra da yere indirir. Görevlilerden birisi boşalan konteyneri iterek yerine yerleştirir. Diğerleri de yere dökülenleri süpürür.<br />
+İşte işin püf noktası da burada ortaya çıkıyor. Görevlinin birisi boşalan konteyneri ite kaka yerine itekleyip bırakıyor. Konteyner kaldırımın yol kenarında ki cebe doğru düzgün girmiyor, kapağı da çoğu kez açık kalıyor. Etrafında da çöp kalıntılarını da görmezden geliyor.<br />
+Bu arada aynı işlemi diğer işçinin çok daha farklı yaptığı hemen dikkatinizi çekiyor. Konteyneri eli ile düzgünce itiyor, sağa sola oynatarak cebe yerleştiriyor ve yere dökülenleri de süpürüp, kapağını kapatıyor.<br />
+İşte size aynı işi yapan iki görevlinin görev anlayış farkı. İkinci işçi işini severek yaptığı için hemen fark ediliyor. Bu işçiye hangi işi yaptırırsanız yaptırın, inanıyorum ki, o işte de başarılı olacaktır. Çünkü o işini severek yapmaktadır.<br />
+Sevgi ve güleryüz insan olmanın ve başarının vazgeçilmez anahtarıdır. Yazımı bana ait bir dize ile tamamlıyorum.</p>
+<p>SEVMEK GÜZEL,<br />
+SEVİLMEK ONDAN GÜZEL.<br />
+HEPSİNDEN DE GÜZEL, SEVİLDİĞİNİ HİSSETMEK.</p>
+<p>İyi haftalar.. 18 Ekim 2009<br />
+SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0443-samsun-un-egitm-ra-po-ru.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0445-bu-olanlardan-sonra-samsun-ombudsmanlik-muessesesini-tartismaya-acmalidir.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

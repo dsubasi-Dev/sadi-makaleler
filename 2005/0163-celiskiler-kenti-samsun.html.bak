@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Çelişkiler Kenti Samsun</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Çelişkiler Kenti Samsun
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2005
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0163
+
+</div>
+
+
+<div class="article-content">
+
+<p>a-mail; sadisubasi@denizeczaneoptik. com                                         SUNUŞ</p>
+<p>ÇELİŞKİLER KENTİ SAMSUN</p>
+<p>Bu kentte olanları artık anlamakta sıkıntı çekiyorum. Öylesine inanılmaz şeyler oluyorki, sanırım bu tür çelişkilerin yaşandığı bir başka kent yoktur. Çok gerilere değil, şöyle bir iki ay öncesine dönüp bakmanız dahi bu anlaşılması zor olayları gözlerinizin önüne getirecektir. Son üç ayın gündemi teşvik tartışması ile geçti. Bir yanda teşvikin Samsun için ne denli önemli olduğunu savunarak, Samsun’un teşvik dışında bırakılmasının Samsun’a yapılan büyük haksızlık olduğunu harita ve raporlarla anlatmaya çalışan 81 sivil toplum kuruluşu, diğer yanda teşvikin Samsun için gerekli olmadığını hatta Samsun’a zarar vereceğini iddia eden, bu konuda asıl söz sahibi olması gereken sivil toplum kuruluşlarının çelişkisinin yaşandığı başka bir kent varmı? Bir de bu önemli konuyu meclis ve hükümet düzeyinde anlatıp çözmekle görevli olan milletvekillerimizin ‘’Samsun’a teşvik geliyor’’müjdeleri verip bu halkı yanılttıktan sonra takındığı agresif tutum ve toplumun beklentileri doğrultusunda teşvik olayına sahip çıkan 81 sivil toplum kuruluşunun yöneticilerine ‘’teşvik gözlerine girsin’’diye hakaret eden veya ‘’aportta bekleyenler’’olarak<br />
+niteleyip aşağılaması merak ediyorum başka hangi kentte olabilir? Ne yazıkki bu kentin insanları bunlara bile seyirci kalmıştır. Böylece teşvik olanaklarını reddeden ilk il olma özelliğini de kazanmış olduk. Bize göre kat be kat gelişmiş bir sanayiye sahip Gaziantep’te teşvik dışı kalmayı kentlerine yapılmış büyük bir haksızlık olarak niteleyerek bayrak açanların başında Vali, B. Şehir Belediye Başkanı, Milletvekilleri, Ticaret Odası Başkanı yer alırken Samsun’daki bu sorumluların takındığı tavır çelişki değilde nedir? Teşvik konusundaki tepkileri değerlendirmek üzere kurulan TBMM ‘deki alt komisyona seçilen tek Samsun milletvekilinin de komisyondan karar aşamasında ayrıldığı haberini nasıl değerlendireceğiz? Yazık oluyor bu kente. Lütfen hiç kimse bu kent sahipsiz deyince kızmasın. Cılız da olsa gösterilen tepkilere bile hoşgörü gösteremeyip altında kasıt aranması gerçekten üzücü. Bu kent insanı hizmete o kadar aç ki Samsunlunun bu kent için çivi çakanları baş tacı edeceğinden kimsenin şüphesi olmamalıdır.<br />
+Bunları son günlerde okuduğum gazete haberlerinden duyduğum üzüntü nedeniyle sizlerle paylaşmak istedim.3-5 gün önce yerel gazetelerde yer alan habere göre Samsun’da yatırım hazırlığı yapan DİZAYN gurubunun yetkilileri yeterli ilgiyi görmediklerini ve Samsun’un teşvik dışında kalışı ile yatırımda zorlandıklarını , bu nedenle yatırımı Ünye veya Ordu’ya kaydıracaklarını açıklıyorlardı. Terziler Odası Başkanı ciddi bir kuruluşun teşvik dışı kalışımız nedeniyle Samsun’a gelmekten vaz geçtiğini söylüyordu. Anlaşılan o ki, bu tür örnekler giderek artacak, hatta kurulu bazı tesislerde avantaj sağlamak için Samsun dışına kaydırılacak. Tüm bunlar bir yana Cumartesi günkü yerel gazetelerde yayınlanan bir haber gerçekten tüylerimi diken diken etti. İçimden sanki bir şeyler koptu. Habere göre Havza Ticaret Odası Başkanı artık dayanma güçlerinin kalmadığını, ilçelerinden göçlerin üst seviyeye çıktığını, ilçelerinde hiç kimsenin yatırım yapmadığını, komşu ilçeler Merzifon ve Suluova’nın teşvik kapsamına girerek hızla kalkındıklarını , bu nedenle Vezirköprü ile işbirliği yaptıklarını ve Havza ile Vezirköprü’nün Amasya’ya bağlanması için ciddi bir çalışma başlattıklarını açıklıyordu. Bu bir isyandır. Bu Samsun’a olan güvenin bitişidir. Yazık. Çok değil 15 yıl önce bölgenin merkezi , Türkiye’nin 6.7 en gelişmiş ili, Karadenizin incisi diye diye övündüğümüz Samsun’u adeta istenmeyen kent haline düşürenlerin biraz olsun içi sızlıyormu acaba? Şimdide böyle bir çalışma başlattılar diye Havzalılara, Vezirköprülülere ‘’teşvik gözlerine girsin’’ veya ‘’aportta bekleyen fırsatçılar’’ mı diyeceğiz?<br />
+Artık kendimizi ‘’Samsun Türkiye’nin en verimli iki ovasına sahip, deniz, kara, hava ve demir yolu ile Anadoluya bağlı tek Karadeniz ili, bölgenin merkezi veya 19 mayıs kenti’’ gibi söylemlerle kandırmayalım. Ne yazıkki gerçek bu. Bu yapısı ile de artık birilerinin istediği gibi  bölgenin merkezi falan da olamayız. Bu arada kent içi düzenlemeler ve güzelleştirme adına yerel yönetim tarafından yapılmakta olan önemli projelerin de önemi anlaşılamayacak. Bunları yazıyorum diye kimse işin kolayına kaçıp bana kızmasın. Umarım bu aksaklıkları düzetmek için sorumluluk üstlenenler , kendi paylarına düşenleri yapmak üzere yazdıklarımdan gerekli mesajı çıkartırlar.<br />
+İyi haftalar..10-nisan-2005</p>
+<p>SADİ  SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0162-dizi-rezaletine-son-verilmelidir.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0164-samsunlulara-moral-veren-basari.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

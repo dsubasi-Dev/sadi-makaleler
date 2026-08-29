@@ -1,0 +1,321 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Bu Yazı Karamsar Değil, Acı Gerçeklerin Özetidir.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Bu Yazı Karamsar Değil, Acı Gerçeklerin Özetidir.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2023
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+1078
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>BU YAZI KARAMSAR DEĞİL, ACI GERÇEKLERİN ÖZETİDİR.</p>
+<p>Bir ülkeyi yönetenlerin ve onları denetlesin diye halkın oy verdiği muhalefet partilerinin, hata yapma hakkı olamaz.<br />
+Eğer, aynı hatalar sürekli yapılır hale geliyorsa, bunun bilgisizlik ve deneyim eksikliği ile yapıldığı söylenemez.<br />
+Yapılıyorsa da bu hata olarak kabul edilemez. Olsa, olsa bu hataların altında o ülke adına, büyük bir BEKA sorunu var demektir.<br />
+NEDEN Mİ?<br />
+Bir ülkeyi, üstelikte son beş yılını tek adam rejimine dönüştürülmüş Cumhurbaşkanlığı Sistemi yöneten ve yirmi bir yıldır iktidarda olan kadronun, böyle hataları sürekli yapıyor olması kabul edilemez.<br />
+Tüm yetkileri üstlenen bir kişinin yapabileceği telafisi olmayacak hatalarını sorgulayacak, yaptığı hatada uyarması gereken yardımcıları, bakanları ve TBMM’de bu halk adına görev yapması gereken milletvekilleri susuyor veya hiç sorgulamadan her kararı onaylıyorsa,<br />
+TBMM’ de muhalefetin hiçbir önergesinin tartışılmasına dahi olanak verilmeden iktidar ortağı milletvekillerinin oyları reddediliyorsa,<br />
+Bizler bunu sorgulamayacak mıyız?</p>
+<p>Bir ticari işletme sahibinin işi bozulursa yapacağı şey, kıyıda kenarda ayırdığı birikimini işletmesine katmaktır. Bu da yetmezse, varsa malını mülkünü satarak kendi işini rayına oturtmaktır. Eğer bunlarda yeterli olmazsa, sonu iflastır.<br />
+Son onbeş yılda bu ulusun milli varlığı olan tüm fabrikalar, yer altı kaynakları, Telekom, Tekel, Sigara Fabrikaları gibi istihdam sağlayan ve hazinemize çok önemli katkıları olan işletmeler özelleştirme adı altında elden çıkartılcak,<br />
+Bu paralarla yeni yatırımlar yapmak yerine, yap işlet modeliyle öncelikleri çok tartışılacak oto yollar ve köprüler, Şehir Hastaneleri yaptırılacak,<br />
+Üstelik bunlar, adı önceden belli müteahhitlere kullanıcı sayıları çok yüksek tutularak garantili verilecek,<br />
+Oto yol, Köprü, Şehir Hastaneleri gibi tesisleri kullananların sayısı, garanti edilen sayıların altında kaldığı için halkımızın vergileri ile oluşan hazinenin kaynakları, bu müteahhitlere aktarılacak,<br />
+Bizler bunu sorgulamayacak mıyız?<br />
+1999 Deprem sonrası konan deprem vergilerinden gelen paralarla, büyük deprem riski altındaki başta İstanbul olmak üzere, bu kentlerdeki riskli binaları dönüştürmek yerine, bu paraların otoyol yapımında harcandığı açıklanacak,<br />
+Bizler bunu sorgulamayacak mıyız?<br />
+14 Mayıs Genel Seçimlerini kazanabilmek adına, hazinenin tüm kaynaklarını kullanılacak, Fransa “62” olan emeklilik yaşını “64’e” çıkartırken, 40 yaşındaki genç insanları emekli etme sözü verilerek seçim kazanılacak,<br />
+Beklenenden erken emekli olan genç yaştaki çalışanlar nedeniyle, bankalar dahil, tüm işletmelerin iş düzeni alt üst olacak,<br />
+Sonra da oluşan bütçe açıklarını kapatmak için bu yanlışlarda hiçbir suçu olmayan vatandaşı, akıl dışı vergiler ve her türlü tüketim maddesinin fiyatlarını uçuracak akaryakıt zamanları yapılacak,<br />
+Bizlerde bunu sorgulamayacağız, öyle mi?<br />
+Yapılan yanlışlar sonucu çalışanları desteklemek için asgari ücretleri 2. kez artırırken, bunun işverenlerce nasıl karşılanacağı ve bunun yeni işsizler yaratacağı görmezden gelinecek,<br />
+Ülkemiz tarihinin en büyük ekonomik krizini yaşarken, bir yandan tasarruf genelgeleri yayınlanacak, öte yandan da “İtibardan tasarruf olmaz” diyen Saraya ek bütçeler aktarılacak,<br />
+Kamu kurumları görkemli binalar yaptırmayı, iktidar belediyeleri başta olmak üzere kamu kurumları lüks makam araçları almayı veya kiralamayı sürdürecek,<br />
+Bizlerde bunu sorgulamayacağız, öyle mi?</p>
+<p>Dinimizi anlatmak için görev yapması gereken Diyanet İşleri Başkanı halka fakirliğin Allah’tan geldiğini söylerken, kendisi ve ailesi en pahalı makam araçlarını kullanacak ve önemli birkaç bakanlığın toplam bütçesinden daha büyük bir bütçeyi harcayacak,<br />
+Ülkemizin kurucusuna hakaret edilecek, ülkemizin milli çıkarlarıyla ters düşen açıklamalar yapan sözde din adamlarına, gereken işlemler yapılmayacak,<br />
+İnandırıcılığı olmayan fetvalarla halk dininden soğutulacak ve tarihimizde görülmedik oranda DEİST ve ATEİST yaratılacak,<br />
+Bizlerde bunu sorgulamayacağız, öyle mi?</p>
+<p>Tüm bunlar olurken eğer bu toplum, “Aman başımıza bir iş gelmesin” korkusuyla susmayı sürdürür ve bu kadar yanlışı kaderi diye kabullenirse, sonumuzun Osmanlı İmparatorluğu gibi tarihin karanlık sayfalarına gömülmek veya Irak ile Suriye’nin yaşadığı dramı yaşamak olacaktır.<br />
+Karar, bu ülkede hür ve bağımsız yaşamanın ne kadar büyük bir şans olduğunu ve bunun devamından yana olmak veya “Bana ne. Ne olursa olsun” deme kararı, bu ülke insanlarınındır.<br />
+Her şeyin, ülkemizin özgür ve bağımsızlığı adına güzel olması dileklerimle, iyi haftalar. 21.08.2023<br />
+Ecz. SADİ SUBAŞI<br />
+e- http://www. hedefhalk. com</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="1077-kilicdaroglu-tartismasina-son-nokta.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="1079-samsun-da-ki-sel-olaylari-yonetim-rezaletidir.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

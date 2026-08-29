@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Çocuklarına Tecavüz Edilen, Kadınları Acımasızca Katledilen Ülkeme Ne Oldu</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Çocuklarına Tecavüz Edilen, Kadınları Acımasızca Katledilen Ülkeme Ne Oldu
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2019
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0937
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>ÇOCUKLARINA TECAVÜZ EDİLEN, KADINLARI<br />
+ACIMASIZCA KATLEDİLEN ÜLKEME NE OLDU?<br />
+Bu ülkenin son 50-60 yılını yaşamış birisi olarak böylesine insanlık dışı çocuk tecavüzlerinin ve kadınlara yönelik vahşetin bugünkü kadar sık ve çokça olduğu bir dönem hatırlamıyorum.<br />
+Hiç mi olmuyordu? Tabii ki çok ender de olsa bu tür olaylar basına yansır ve suçlular da en ağır şekilde cezalandırılırdı.<br />
+Oysa son dönemde giderek artan bir şekilde tecavüzlerin hem sayısı hem de çeşitliliği kabul edilemez şekilde artmıştır. Bu tecavüzlerin sadece kız çocuklarına değil, erkek çocuklarına hatta hayvanlara da yönelmesi, toplumda ki sapkınlığın boyutlarını göstermeye yeter sanıyorum.<br />
+Geçtiğimiz hafta İstanbul’un göbeğinde beş yaşında ki kız çocuğuna tecavüz edilmiş ve daha bu çocuk hastane de yaşam mücadelesi verirken, bu kez de Kasımpaşa’da 14 yaşında bir kız çocuğu tacize uğramıştır.<br />
+Çarpıcı olan, iki sapığın da bu ülkeye sığınmış daha doğrusu sınırlarımızın yol geçen hanına dönmesi ile elini kolunu sallayarak kaçak yollardan ülkemize giren iki mültecinin olmasıdır.<br />
+İstatistikler de olayların ne kadar vahim bir duruma geldiğini göstermektedir. 2018 yılında 1.217 çocuğun cinsel istismara uğradığı haberlerde yer almış, fakat gerçek istismar verilerinin bunun kat be kat üstünde olduğu bilinmektedir. Ayrıca aile içinde ki cinsel istismarların (Ensest ilişkiler) çoğunun gizli kaldığı düşünülürse bu sayılar çok daha büyük demektir.<br />
+Şiddeti Önleme ve Rehabilitasyon Derneği’nin 2016 Çocuk İstismarına Yönelik Raporu’na göre, son 10 yılda çocuk istismarı vakaları yüzde 700 artmıştır. Raporda ayrıca mahkemelerde “iyi hal ve saygın tutum indiriminin” Rutin bir uygulamaya dönüştüğü ve bu durumun kamu vicdanını zedelediği de belirtiliyor.<br />
+Bu rapora göre çocuğa yönelik cinsel saldırıların sadece yüzde 5’i ortaya çıkıyor, yüzde 95’i ise gizli kalıyor. İHD’ nin raporuna göre de Çocuk istismarı vakaları 16 yılda 440.000 ‘i geçmiş.<br />
+Tabii ki tecavüzlerde ki bu artış durup dururken olmamıştır.<br />
+Siz kalkar da bir dini vakfın yurdunda onlarca erkek çocuğuna tecavüz edilmesinin üstünü örterseniz, bu yurtlarla ilgili bakan hem de kadın bakan “Bir kere ile bir şey olmaz” Diye beyanat verir ve hemen görevden alınmayarak görevine devam etmesine göz yumulursa,<br />
+Suçu işlediği sabit olan bu canavarların cezasını en çok iki celsede sonuçlandırıp en ağır şekilde cezalandırılmayıp, aylarca süren duruşmalar sonun da kamuoyunun vicdanını kanatacak hafif cezalarla geçiştirilirse,<br />
+Çocuk yaşta olmayan kızlarımız büyük şehirlerin en işlek caddelerinde tecavüze uğradığında, neredeyse tecavüze uğrayan kızları tecavüze zemin hazırlamakla suçlayan bir zihniyet giderek yaygınlaşıyorsa,<br />
+Korkarım ki ülkemiz de bu canavarlık önlenemeyecek ve artarak sürecektir.</p>
+<p>VE KADIN CİNAYETLERİ;<br />
+Bir başka kanayan yaramızda, giderek artan kadınlara yönelik şiddet ve cinayetlerdir. Öldürülmek, eşinden veya sevgilisinden ayrılmak isteyen kadınların adeta kaderi olmaya başlamıştır.<br />
+Cinayete kurban giden kadın sayısı 2018 yılında 440 olup, cinsel saldırıya uğrayan kadınların sayısı ise 317’ dir. Son 17 yılda vahşice öldürülen kadın sayısı ise 15.034’ e ulaşmıştır. 2017 yılında kadınlara yapılan cinsel şiddet sayısı da 3329’ dur.<br />
+Gerek kadın cinayetleri ve gerekse çocuklara yapılan cinsel tecavüzlerin bu rakamlara ulaşması ülkemiz açısından yüz kızartan bir tablodur.<br />
+Bu suçların bu kadar artarak dünya sıralamasında ilk üçte yer alacak hale gelmemiz, ülkemizin gerek gelenekleri ve gerekse kültürüne ihanettir.<br />
+Her iki suçun da artmasında ki nedenler incelendiğinde ortaya çıkacak sonuçlar enine boyuna incelenmeli ve “Bu vahşet nasıl önlenebilir?” Sorusunun cevabı bulunmalıdır. Özellikle şu noktalar gözden geçirilmelidir.<br />
+Cezaevlerinin giderek artan sayıda Fetö suçluları ile dolup buna birde basın emekçileri ve düşünce suçlularının eklenmesi sonucu, cezaevlerinde yer kalmadığı ve birkaç tutuklunun aynı yatağı paylaştığı biliniyor. Bu nedenle olsa gerek, çok sayıda ölümle sonuçlanmayan yaralama suçlularının dahi, son yıllarda yaygınlaşan “Adli Kontrol” uygulaması ile serbest kalması,<br />
+Yargılamalar sırasında, “İyi hal ve saygın tutum indiriminin” Rutin bir uygulamaya dönüşmüş olması,<br />
+Uyuşturucu kullanımının artık kontrol edilemez hale gelmesi,<br />
+Çoğu mülteci ve eğitimsiz insanlardan oluşan cinsel saldırganlar, genellikle sosyal yaşama girememenin sonucu olarak cinsel dürtülerini vahşice çözmeye çalışmaktadırlar. Bunda, çoğu kentlerde Devletin kontrolünde genelevlerin bulunmayışı ve giderek mahalle aralarında yaygınlaşan randevu evlerine gidecek paralarının olmamasının da etkisi,<br />
+Komşu ülkelerde ki iç savaşlar nedeniyle ülkesinden kaçarak ülkemizin tüm kentlerine yayılan ve ne yazık ki, devletimiz tarafından da hem maddi, hem de sosyal haklar açısından kollanan mültecilerin giderek artan şımarıklıkları da, gerek suç oranlarının artması ve gerekse tecavüzlerde sıkça adlarının geçmesi,<br />
+Yukarıda özetlediğim suçları tetiklemektedir.</p>
+<p>SONUÇ: Yukarıda anlattığım sorunları yaratan nedenler kısa sürede giderilmeli ve 21. Yüzyılda ülkemizin bu ayıpla anılmasına son verilmelidir.<br />
+İyi haftalar. 28.04.2019<br />
+Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0936-19-mayis-in-100-yil-kutlama-torenleride-ki-belirsizlik.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0938-ladik-de-bir-turizm-mucizesi-otantik-ambarkoy.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

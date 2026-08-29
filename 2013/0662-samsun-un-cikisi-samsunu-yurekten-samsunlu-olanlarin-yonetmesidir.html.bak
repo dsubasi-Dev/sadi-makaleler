@@ -1,0 +1,332 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Samsun&#x27;un Çıkışı, Samsunu Yürekten Samsunlu Olanların Yönetmesidir…</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Samsun&#x27;un Çıkışı, Samsunu Yürekten Samsunlu Olanların Yönetmesidir…
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2013
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0662
+
+</div>
+
+
+<div class="article-content">
+
+<p>e-post; sadisubasi@denizeczaneoptik. com                SUNUŞ<br />
+SAMSUN’UN ÇIKIŞ YOLU, SAMSUN’U YÜREKTEN<br />
+SAMSUNLU OLANLARIN YÖNETMESİDİR.<br />
+Bir kentin kaderini o kenti yönetenlerle, siyaseten temsil edenler belirler. Halka düşen görev ise, kendisini gerçekten temsil edebilecek ve yüreği o kent için çarpan yöneticileri ve siyasetçileri seçmektir.<br />
+Ancak ülkemizde ki seçim sistemi ve siyasi partiler kanunu ne yazık ki, bu yönde halkın önünü kesiyor. Seçmeni, siyasi parti liderlerinin belirlediği adaylara oy vermek zorunda bırakıyor.<br />
+Benim geriye dönük bilebildiğim elli yıllık dönem de Samsunlu seçmen, bu seçim sistemi içerisinde doğru gibi gözüken bir tavır sergilemiştir.<br />
+Geçmişten bugüne, Samsunlu seçmenler kendi adaylarını seçme şansının olmadığı ortamda, hemen her dönem seçim kazanan partiye en çok milletvekilini vermiş ve Samsun’u bir anlamda iktidara getirmiştir.<br />
+Bu tercih, Samsun’a iktidarın olanaklarını sunmasını gerektirirken, Samsun hiçbir dönemde bu desteğin karşılığını alamamıştır.<br />
+Zaman zaman bakanlar da çıkartmış olmasına rağmen, sürekli olumsuzluklar yaşamış ve diğer kentlerin gerisinde kalmıştır. Son elli yılda Azot ve Bakır fabrikaları dışında istihdam yaratacak hiçbir devlet yatırımı alamamış, bu iki işletme de son dönemde özelleştirme kurbanı olarak ya kapanmış veya küçülerek istihdam yaratma özelliğini yitirmiştir.<br />
+Son dönemlerde ise, oy verdiği iktidarlar diğer illere yatırımları teşvik ederken, Samsun’u adeta cezalandırmış ve tüm Karadeniz Bölgesi içerisinde sadece Samsun’u teşvik dışında bırakmıştır.<br />
+Kendi çabaları ile ayakta durmaya çalışan çok önemli bazı sanayi kuruluşlarının da, bu oluşumdan rahatsız oldukları için Samsun’dan ayrılma hesapları yaptıkları sıkça duyulur olmuştur.<br />
+Samsun bugün eğitimde çöken, sporda süper ligin dışında kalan, sanayide büyüyemeyen, tarımı elinden alınan, işsiz sayısında patlama yaşayan bir kent durumundadır.<br />
+Ne yazık ki, durum bu kadar kötü ve acıdır.<br />
+Son dönemde, Spor Bakanı’na sahip olmanın avantajı ile bazılarının yer seçimleri tartışmalı da olsa, spor alanında önemli tesislerinin yapılmış olması sevindiricidir. Ancak bunlarda istihdama katkı yapacak yatırımlar değildir.<br />
+Yukarıda da vurguladığım gibi Samsun’un her dönem toplam milletvekili sayısının yarısından çoğunu iktidara gelen partiye verdiğini görürüz.<br />
+Buna rağmen işler Samsun adına iyi gitmiyorsa, bir yerlerde yanlış var demektir. İşte sorunun püf noktası da burada yatmaktadır. Çünkü yalnız siyasette değil. hemen her kademe ve kuruluşta aynı sorun vardır.<br />
+Üzülerek bir şeyin altını çizmek istiyorum.<br />
+“Samsun”, Samsun için yüreği çarpan, haksızlığa uğradığında siyasi tercihini bir yana itecek kadar yürekten bu kente bağlı, gerçek Samsunlular tarafından yönetilmemekte ve temsil edilememektedir.<br />
+Kimdir bu gerçek Samsunlular diye soracağınızı biliyorum. Şimdi bu soruya ve yukarıda ki yoruma açıklık getirmek istiyorum.<br />
+Gerçek Samsunlu,<br />
+Nüfus kâğıdında doğum yeri Samsun yazanlar değildir.<br />
+Gerçek Samsunlu,<br />
+Samsun bir haksızlığa uğrayınca kahrolan,  Samsunspor süper ligden düşünce ağlayacak kadar canı yananlardır,<br />
+Gerçek Samsunlu,<br />
+Kendi kentinde tüccar ve sanayicisinin bulunduğu toplantıda, Samsun “Teşvik Yasası” dışında bırakıldığında alkışlayan değil, gerekirse Genel Başkanına dahi karşı çıkabilecek il yöneticisi, milletvekili ve sivil toplum kuruluşu başkanlarıdır.<br />
+Gerçek Samsunlu,<br />
+Söz verildiği halde, ilgili bakanın Samsun’u “Cazibeli Kentler” dışında bırakan açıklamasını, Samsunlu belediye başkanları, siyasetçileri ve seçilerek davet edilen sivil toplum başkanlarının katıldığı toplantıda yaparken, suskun kalmayacak yerel yöneticiler, siyasetçiler ve sivil toplum kuruluşu başkanlarıdır.<br />
+Gerçek Samsunlu,<br />
+Nerelisin dendiğinde, doğum yeri başka yer de olsa Samsunluyum diyebilecek kadar yaşadığı, karnını doyurduğu, çocuklarını büyüttüğü kentin adını söyleyebilenlerdir.<br />
+Gerçek Samsunlu,<br />
+Başta üniversite giriş sınavları olmak üzere, ülke çapında yapılan sınavlar da Samsun’un adını ilk onda göremeyince içi yananlardır.<br />
+Gerçek Samsunlu,<br />
+Araçlarına ve işyerlerine, birinci takım olarak bir başka takımı tutuyor olsalar dahi, Samsunspor bayrağını asanlardır.<br />
+Gerçek Samsunlu,<br />
+Büyük şehirlere yerleşip oralarda büyük yatırımlar yapan işadamlarından, Samsun’u unutmayıp Samsun’a da yatırım yapanlardır.<br />
+Sözün özü, Samsun doğumlu olmak Samsunlu olabilmek için yeterli ve tek kıstas değildir. Hatta yaşamlarını başka kentlerde geçirip, seçim zamanları Samsunlu olduğu aklına gelenler de hiç değildir. Önemli olan, bu kenti ve sorunlarını içinde yaşayarak özümsemiş olmaktır.<br />
+Bu yazdıklarıma kızmak yerine, şöyle çevrenize bakın ve yukarıda yazdıklarımın ne anlama geldiğine siz karar verin.<br />
+Evet, bu kent kan kaybediyor. Bu kan kaybını durdurmak da bu kentte yaşamaktan mutluluk duyan Samsunluların görevidir.<br />
+Yapılacak şey, yerel ve genel seçimler öncesi, tüm siyasi parti yöneticilerinin ısmarlama adaylar yerine, yukarıda ki kıstaslara uygun adaylara öncelik vermelerini sağlamaktır.<br />
+Her siyasi partinin sözü geçenleri, bu kıstaslara uyan kendi siyasi görüşlerinde ki isimlerin belirlenmesi için çaba harcamalıdır.<br />
+Sonuç olarak söylemek gerekirse, bu kentte yaşayanlar ya kentlilik bilincinin gereğini yerine getirerek kenti adına sorumluluk alacak veya bu kötü gidişi seyretmeyi sürdürecektir.<br />
+Kötü gidişin sürmesi halinde, bu kent bölge lideri olma özelliğini de kaybederek sıradan bir kent haline gelecek ve sömürülen kent olmayı sürdürecektir.<br />
+Cumhuriyetin ilanı ile sonuçlanan milli mücadelenin ilk adımının atıldığı bu kentin, böyle bir sonucu kabul etmeyeceği inancıyla, tüm Samsunlulara sorumluluk alma çağrısı yapıyorum.<br />
+Dostlukların güçlendirileceği, küskünlerin barışacağı bir bayram yaşamamız dileğiyle, Kurban Bayramınızı kutluyorum. 15.10. 2013<br />
+Ecz. SADİ SUBAŞI<br />
+NOT: Tüm yazılarımı www. hedefhalk. com adresinden takip edebilirsiniz..</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0661-samsun-ve-turkiye-nin-dununu-ve-bugununu-yarinlara-tasiyacak-i-ki-kitap.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0663-akp-secim-kaybetmezse-sorumlusu-chp-ve-mhp-dir.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

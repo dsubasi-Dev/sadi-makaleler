@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>İyi Örnek Olmayan Liderler ve Yemin Eylemi</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+İyi Örnek Olmayan Liderler ve Yemin Eylemi
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2011
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0541
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>İYİ ÖRNEK OLAMAYAN LİDERLER VE YEMİN EYLEMİ</p>
+<p>Türkiye, çok gergin geçen bir seçim döneminin etkilerini atlatamadan yeni bir krizle karşı karşıya kaldı.<br />
+Seçim sürecinde liderlerin birbirlerini suçlayarak yürüttükleri siyasetin seviyesi, zaman zaman toplumun da tepkisine neden olacak kadar düştü.<br />
+Özellikle genç kuşağa örnek olması gereken liderler, bırakın örnek olacak bir siyasi anlayış sergilemeyi, birbirlerine karşı o kadar ağır sözler kullandılar ki, bu gerginlik seçim sonrası döneme de yansıdı.<br />
+Sayın Başbakan zaferle çıktığı seçim sonrası yaptığı “Balkon Konuşmasında” ortamı yumuşatacak  sözler kullanarak kazandığı beğeni ve takdiri, yemin krizindede harcadı.<br />
+Liderlerin bu uslubu toplumu germenin ötesinde, demokrasilerin vaz geçilmez unsuru olan “Uzlaşma” ortamını da yerle bir etti.<br />
+Topluma örnek olması gereken liderlerin bu uslubu kabul edilemez.<br />
+Sayın RecepTayyip Erdoğan’ın bu uslubunun nedeninin, çok oy aldığı varoşlarda destek bulmasının olduğu söylenebilir ama asıl olan toplumun bir bölümünü memnun edip diğer bölümünü gerginiğe itmek olamaz, olmamalıdır.<br />
+Siyasi rekabetin artık iyi bir düzeye oturtulması gerekmektedir. Tüm siyasetçilerimiz de bunu ilke haline getirmeli, terbiye ve genel ahlak  kurallarını iktidar hırsları uğruna harcamamalıdırlar.<br />
+Unutulmamalıdır ki, siyaset insanları yönetme sanatıdır. Sanatın içinde ise, kirliliğin yeri yoktur.<br />
+Toplumun beklentisi de, iktidar ile muhalefetin asgari müştereklerde anlaşarak ülkeyi huzurlu<br />
+günlere götürmesidir.</p>
+<p>YEMİN KRİZİ VE DÜŞÜNDÜRDÜKLERİ.</p>
+<p>Seçimin bitmesi ve yeni yasama yılının başlaması ile birlikte yeni bir kriz Türkiye gündemine oturdu.<br />
+Ana muhalefet partisi, tutukluyken seçilen milletvekillerinin serbest bırakılmaması ve iktidarın bu konuda hiç bir olumlu yaklaşımda bulunmaması üzerine, TBMM’ de yemin etmeyerek, konuyu hem Türkiye, hem de Uluslararası alana taşıma eylemine dönüştürdü. Bu eylemle de birlikte büyük bir kriz patlak verdi.<br />
+Bu eylem her kesim tarafından değişik yorumlandı. Ancak, üzülerek söylemek gerekirse, toplumun % 50 oyunu alarak büyük bir başarıya imza atmış iktidar partisinin bu eylemi anlamak ve çözmeye çalışmak yerine, “İster gelsinler, isterse gelmesinler” demesi, ülkenin yönetiminde tek güç haline gelen iktidar partisi adına da, ülkemiz adına da şanssızlık olmuştur.<br />
+Oysa, tüm kuralları ile işleyen demokasilerde, hangi parti hangi oranda oy alırsa alsın, meclisde ki sayısal üstünlüğünü öne çıkartarak dayatmacı bir politika izlemek yerine, muhalefet partilerinin de görüşlerini değerlendirmeye alır. Bunun adı uzlaşmacı siyasettir.<br />
+Bu yöntemle alınacak kararlarda, iktidar partisinin belirleyici rol oynama gücü azalmaz, tam tersine parlamento çalışmaları daha işlerlik kazanır.<br />
+Bizim demokrasimizde bu anlayış henüz yerleşmediği için, bizde meclisteki mutlak çoğunluğu eline geçiren partinin lideri muhalefetin taleplerini dikkate almak yerine, ortamı daha da gerecek karşı resti çekebilmektedir.<br />
+Özetlemek gerekirse,    siyaset adeta “İp çekme yarışına” Dönüşmüştür.<br />
+Şöyle geriye dönerek geçen yasama yılında olanları hatırlarsak bunu çok daha iyi anlarız diye düşünüyorum.<br />
+Geçen yasama döneminde muhalefet, TBMM Başkanlığı’na değişik konularda tam binaltıyüz adet araştırma ve soru önergesi vermiş ve hiç birisi için dahi görüşme açılmamış ve tamamı hiç bir görüşme açılmadan, iktidarın oyları ile reddedilmiştir.<br />
+İktidarın geçen yasama döneminde olduğu gibi bu kez de uzlaşmacı bir siyaset izlemeyeceğinin belli olması üzerine, Ana Muhalefet Partisi böyle bir eylemi yapmaya mecbur kalmıştır.<br />
+Çünkü TBMM’ de yemin ederek meclis çalışmalarına katıldıkları anda, her şeyi kabullenmiş olacaklar ve geçen yasama yılında yaşananlar yeniden yaşanacaktı.<br />
+Eylemin yöntemi doğrumuydu? Yanlışmıydı? Bu konuda çok değişik öneriler yapılabilir. Ama bence amaç hasıl olmuştur.<br />
+Yargılama ve tutuklama ile ilgili uygulamaların evrensel hukuk kurallarına uymadığı konusu Türkiye ve Batı dünyasının gündemine oturmuş ve tartşılmaya başlamıştır.<br />
+Geçen süreçte de olumlu bir gelişme olmuş ve uzlaşmacı kimliği ile tanınan deneyimli siyasetçi Sayın Cemil Çiçek TBMM Başkanlığına seçilmiştir.<br />
+Sayın Çiçek’in girişimleri sonrası ortam yumuşamış ve muhtemelen de çözüm noktasına gelinmiştir.<br />
+Şimdi TBMM’ ni yoğun bir gündem beklemektedir. Özellikle Anayasa’nın baştan sona yenilenmesinin düşünüldüğü bir ortamda, uzlaşmacı bir siyaset izlenmesi kaçınılmazdır.<br />
+Umarım tatsız başlayan yeni yasama dönemi, halkımızın beklentilerine cevap verecek çalışmalara imza atar.<br />
+10 Temmuz 2011</p>
+<p>Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0540-bu-nasil-demokrasi-demokrasinin-gudumlusu-ve-i-lerisi-olur-mu.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0542-zaman-kilicdaroglu-na-vurma-zamanidir-vurun.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

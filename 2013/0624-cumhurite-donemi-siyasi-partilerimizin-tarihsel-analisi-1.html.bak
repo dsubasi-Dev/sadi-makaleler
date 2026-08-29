@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Cumhürite Dönemi Siyasi Partilerimizin Tarihsel Analisi - 1…</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Cumhürite Dönemi Siyasi Partilerimizin Tarihsel Analisi - 1…
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2013
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0624
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>CUMHURİYET DÖNEMİNDE Kİ SİYASİ<br />
+PARTİLERİMİZİN ANALİZİ.</p>
+<p>Türkiye çok partili rejime geçtiği günden bugüne kadar süreçte adeta siyasi partileri öğüten bir bir ülke olmuştur. Kimisi ihtilaller sonrası, kimisi de yargı yoluyla kapatılmıştır.<br />
+Bunlara bir de kendi kendini tüketen partileri eklersek, ülkemizde ki siyasi partileri yaşatmanın zorluğu ortaya çıkar.<br />
+Kendisini tüketen partilere göz attığımızda, bunların zaten tabanı olmayan ve zamanın şartlarının gereği olarak kurulan siyasi partiler olduğu görülecektir.<br />
+Ülkemizde ki siyasi partileri bu gerçeklere bakarak değerlendirmek gerekir. Ancak açıkça görülen gerçek, doktirin partilerinin her türlü darbelere, baskı ve yıpratmalara rağmen ayakta kaldığıdır.<br />
+Bir başka gerçek de, ülkemizde ki doktrin partilerinin devamlılığı sağlamalarına karşın, hiç bir zaman tek başlarına iktidara gelememiş olmalarıdır.<br />
+Doksan yıllık Cumhuriyet dönemi incelendiğinde en köklü ve en uzun ömürlü partinin CHP olduğu görülür.<br />
+Bir diğer köklü parti ise, 1946 de DP’de siyasete başlayan merhum Osman Bölükbaşı’nın 1948’de MP adı ile kurduğu ve adı bugün MHP olan partidir.<br />
+1948’de Millet Partisi (MP) olarak kurulmuş, daha sonra adı sırasıyla Cumhuriyetçi Millet Partisi( CMP), Cumhuriyetçi Köylü Millet Partisi (CKMP) ve devamında da merhum Alpaslan Türkeş’in liderliğinde MHP olmuştur.<br />
+Gerek CHP ve gerekse MHP, 1960 darbesinden başlayarak Cumhuriyet döneminde yaşanan tüm darbelere rağmen varlıklarını sürdürmektedirler.<br />
+Bu partilerden CHP, Mustafa Kemal Atatürk tarafından kurulmuş ve Cumhuriyet rejimin yerleşmesini sağlamış, ülkemizin kuruluş ilkelerini altı ok olarak benimsemiştir.<br />
+Ülkemiz, “Var olup olmama savaşı” olan Kurtuluş Savaşı’ndan zaferle çıkmış ama büyük bir yoksulluk ve yokluklar gerçeği ile yüz yüze kalmıştır.<br />
+Mustafa Kemal Atatürk’ün liderliğinde kurulan CHP, işte bu olumsuz ortamdan çıkışın yolu olarak “Devletçiliği” benimsemiş ve sonra ki süreçte, temeli “Sosyal adalet ve hakça bölüşme ilkeleri” olan Sosyal Demokrat Parti kimliğini sahiplenmiştir.<br />
+MHP ise, her şartta Türk Milliyetçiliğini ilke olarak benimsemiş ve konuda tavizsiz politikalar üreterek her dönemde ayakta kalmayı başarmıştır.<br />
+1950’li yıllarda merhum Adnan Menderes ve merhum Celal Bayar’la liberalleşmenin sembolü olarak iktidar olan DP, 1960 askeri darbesi ile tarihe gömülmüştür.<br />
+Sonra ki yıllarda DP’nin devamı olarak kurulan AP de, Sayın Süleyman Demirel’in liderliğinde yirmi yıl siyasi yaşamda kaldıktan sonra, 1980 askeri darbesi ile tüm siyasi partilerle birlikte kapatılmıştır.<br />
+Bu siyasi görüş, 1980 Sonrası bu kez yine Sayın Süleyman Demirel’in önderliğinde 1983 de DYP adı ile siyasi yaşama dönmüştür.<br />
+1980 sonrası kapatılan CHP’nin yerine kurulan HP bir süre sonra, yine 1980 sonrası kurulan SODEP ile birleşmiş ve SHP adını almıştır.<br />
+SHP de, 1995 e kadar siyasi yaşamını sürdürdükten sonra 1992 de yeniden kurulan CHP ile birleşerek siyasi yaşama veda etmiştir.<br />
+1980 darbesi ile kapatılan CHP’nin Genel Başkanı olan merhum Bülent Ecevit 1985 de DSP kurmuştur. Merhum Bülent Ecevit’in liderliğin de 2001 seçimine kadar başarı ile siyasi yaşamını sürdürmüştür.<br />
+Ancak DSP’de, merhum Ecevit’in hastalığı ile başlayan ve 2001 seçimleri ile uğranılan hezimet sonrası iyice küçülmüş ve günümüz de siyasi gücü kalmamış bir parti haline gelmiştir.<br />
+1980 sonrasında o dönemin şartlarının yarattığı ANAP’ta merhum Turgut Özal ile sürdürdüğü başarılı bir siyasi yaşamdan sonra, Turgut Özal’ın Cumhurbaşkanı olarak ANAP liderliğini bırakması ile bocalamış, 2001 seçimlerinde uğradağı  büyük yenilgi sonrası, o da ayakta kalmayı başaramayarak tarihe gömülen siyasi partiler arasında ki yerini almıştır.<br />
+Tabii bu süreçte renkli kişiliği ile merhum Necmettin Erbakan’da açılıp kapatılan partileri ile siyasi arena da yerini almıştır. Siyasi arenaya AP ile girip, 1970 li yıllarda Milli Nizam Partisi’ni ( MNP) kuran, onun kapatılması ile kurduğu Milli Selamet Partisi ( MSP), onun da kapatılması ile Refah Partisi (RP) ve en son olarak da Saadet Partisi ( SP) ile siyasi yaşamını sürdürmüştür.<br />
+Merhum Necmettin Erbakan’ın kurduğu tüm partiler de siyasi arena da dinsel ağırlıklı partiler olarak yer almalarına rağmen, AB ile Amerika karşıtı duruşları ve ulusalcı tavırları nedeniyle, tek başına iktidar olma şansı bulamamıştır.<br />
+Tabii bu arada bir de kapana, açıla değişik isimlerle siyasi arena da var olmaya çalışan, etnik temele dayalı marjinal BDP’i de unutmamak gerekir.<br />
+Bu tarihi sürece bakıldığında da görüleceği gibi çok partili rejime geçişimizden itibaren yaşamını sürdüren iki siyasi parti, CHP ve MHP’dir.<br />
+Bunun en büyük nedeni her iki partinin de güçlü bir siyasi temele (Doktrine) oturmuş olmasıdır.<br />
+Bu iki partinin dışında bir başka siyasi görüşte, çok partili döneme sürekli isim değiştirerek de olsa, imza atmıştır.<br />
+Bu görüş, Menderes ve Bayar ile başlayıp Süleyman Demirel ile devam eden merkez sağ diye tanımlanan siyasi yapıdır.<br />
+Bu görüş, var olmayı ve ülke siyasetine hâkim olmayı siyasetini din eksenine oturtarak başarmıştır. Bu siyaset, % 98 Müslüman ülkemizde hemen her dönem prim yapmıştır.<br />
+Ne var ki, bu siyasi yöntem DYP’nin de sonunu hazırlamıştır. Çünkü 2001 yılında kurulan ve tüm dini araçları DYP gibi dolambaçlı yollardan değil direk olarak kullanan AKP’nin kurulması ile bu sahayı işin aslına terk etmek zorunda kalmıştır.<br />
+Artık günümüz Türkiye’sin de, tek başına iktidar olan AKP ile muhalefeti oluşturan Sosyal Demokrat eksenli CHP ile Milliyetçilik eksenli MHP gerçeği vardır.<br />
+12 yıldır iktidarda olmasına rağmen % 50 civarında ki oylarını koruyan AKP’nin başarısı, bir yerde de karşısında ki CHP ve MHP’nin başarısızlığı olarak algılanmaktadır.<br />
+Laik düzenden uzaklaşan politikaları, Arap dünyası ile yakınlaşması, komşu ülkelerle olan ilişkilerin bozulması, hukuk düzeninin bağımlı hale getirilmesi, eğitim sisteminde dinsel öğelerin öne çıkması, basının sindirilmesi, çok sayıda gazeteci, bilim adamı, öğrenci ve askerin suçları belirlenmeden yıllardır cezaevlerinde tutulması dahi AKP’nin oylarını olumsuz etkilemiyorsa, bu olgunun nedenleri araştırmaya değer diye düşünüyorum.<br />
+İşte bu soruların cevabı olacak değerlendirmemi gelecek hafta ki köşe yazıma bırakıyorum.<br />
+İyi haftalar… 10. 02. 2012</p>
+<p>Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0623-ulkemizin-gelecegi-adina-olumsuz-gelismeler.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0625-muhalefet-partilerinin-acmazi.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

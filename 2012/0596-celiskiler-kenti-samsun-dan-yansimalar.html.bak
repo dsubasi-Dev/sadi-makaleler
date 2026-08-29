@@ -1,0 +1,320 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Çelişkiler Kenti Samsun&#x27;dan Yansımalar…</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Çelişkiler Kenti Samsun&#x27;dan Yansımalar…
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2012
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0596
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>ÇELİŞKİLER KENTİ SAMSUN’DAN YANSIMALAR.</p>
+<p>Samsun’a dışardan bakanlar ile yerel basını izleyenlerin şaşıracağı çelişkiler yaşanıyor. Bir kesim Samsun’un çok hızlı geliştiğini, herşeyin güllük gülistanlık olduğunu söylerken, diğer kesim daha geniş açıdan bakarak Samsun’un çok büyük ekonomik sorunları olduğunu, tarım da, eğitim de, ticaret de, kan kaybettiğini söylüyorlar. Bu konuda kent adeta ikiye bölünmüş durumda.<br />
+Olumlu konuşanlar, olaya belediye hizmetleri açısından bakıyorlar. Samsun’un güzelleştiğini, çok sayıda sosyal olanağa kavuştuğunu söyleyerek raylı sistem, teleferik, plajlar, sukayağı, park-bahçe, AVM’ler ile yapılmakta olan beş yıldızlı otelleri gündeme getiriyorlar.<br />
+Olumsuz yaklaşanlar ise, olaya çok daha geniş açıdan bakıyorlar. Samsun’un ekonomik olarak gerilediğini, işssizliğin arttığını, üniversite ve orta öğretim sınavlarında Türkiye sıralamalarının alt sıralarda kaldığını, tütün, fındık, şeker pancarı ve buğday ekimlerinin gerilemesiyle köylerin boşaldığını öne çıkartıyor.<br />
+2004 yılı teşvik dağıtımında Samsun’un dışlanması sonrası ekonomik patlamayı da yapamadığını, açılan AVM’lerle Samsun’un en önemli geçim kaynağı olan ticaretin de çökeceğini, tüm bunlara bağlı olarak göç veren tek büyükşehrin Samsun olduğu ve üniversiteyi bitirn gençlerin işsizlik nedeniyle Samsun’a dönemedikleri konularına vurgu yapıyorlar.<br />
+Gerçekten de dışarıdan bakanların bu çelişkiyi anlamaları zordur. Aslına bakarsanız, her iki kesiminde söylediklerin de doğruluk payı vardır.<br />
+Sürekli güzellikleri abartarak öne çıkartmak ne kadar yanlışsa, eksik ve yanlışları öne çıkartarak sürekli eleştirmekte bir o kadar yanlıştır.<br />
+Ama Samsun’da bunlardan da büyük bir yanlış var ki, O da uzlaşma kültürünün yerleşmemesi ve tam tersine inatlaşma ve uyarılara kulak tıkama alışkanlığının yerleşmesidir.<br />
+Bu kentte yaşayan ve bu kenti seven herkesin, kendisini yönetenlerden beklentisi, birbirleri ile sürtüşmek yerine dayanışma içersinde olmaları ve siyasi ayrışmaları kendilerine yansıtmamalarıdır. Bunu beklemek de en doğal haklarıdır.</p>
+<p>BELEDİYELERİ ARASINDA Kİ YETKİ KARMAŞASI</p>
+<p>Bilindiği gibi Büyükşehir olan illerde Büyükşehir Belediyesi yanında birkaç tane de alt belediye bulunmaktadır. Nitekim Samsun’da da Büyükşehir Belediyesi yanında İlkadım, Atakum ve Canik alt belediyeleri kurulmuştur.<br />
+Bu belediyeler arası görevleri kâğıt üzerinde belirlenmiştir. Ne var ki alt belediyeler her içinde çıkamadıkları olayda çözüm adresi olarak Büyükşehir Belediyesini, Büyükşehir Belediyesi de alt belediyeleri göstermektedir.<br />
+Görev alanları belirlenirken bulvarlar Büyükşehir Belediyesi’nin yetki alnında bırakılmıştır. Sıkıntı da en çok bulvarlarda yaşanmaktadır.<br />
+Örneğin, bulvarların bazılarını işgal eden seyyar satıcılar sorununu o bölgenin alt belediyesi çözmek yerine, sorumluluğu Büyükşehir Belediyesine atmaktadır. Çoğu kez de Büyükşehir Belediyesi de kolluk kuvvetlerini adres göstermektedir.<br />
+Oysa aynı caddede yol çalışmasını alt belediyeler yapabilmektedirler. Sonuçta sorun ortada kalmakta ve toplumsal ve iş barışı ciddi şekilde yaralanmakta ve resmi otoriteye olan güven aşınmaktadır. Sorunu olan insanlar doğru muhatabı bulmakta sıkıntı yaşamaktadırlar.<br />
+Bu düpedüz görevi savsaklamak ve yasaların yüklediği sorumluluklardan kaçmaktır. Daha da önemlisi halka saygısızlıktır.<br />
+Belediye başkanlıklarına talip olanların vatandaşların beklentilerini yerine getirme konusunda yaşanabilecek her türlü zorlukla mücadele etmeyi göze almış olmaları gerekir. Ancak halk yolunda böyle hizmet verilebilir diye düşünüyorum..</p>
+<p>İL GENEL VE BELEDİYE MECLİSLERİNİN YANLIŞI.</p>
+<p>Belediye Meclisleri ve İl Genel Meclisleri bir kentin parlamentosudur. Belediye meclisleri belediye sınırları içersindeki yasal görevlerini, il genel meclisleri de il genelinde ki yasaların verdiği görevleri yerine getirirler.<br />
+Her iki meclisin yasal görevleri yanında üstlendikleri bir başka önemli görev de uygulama makamlarının icraatlarını denetlemektir. Her iki meclis üyelerinin hiçbir şekilde çıkar ilişkileri içersinde olmaması gerekir. Çünkü her iki meclisin de alacağı kararların parasal yönleri vardır.<br />
+Ayrıca vatandaşlar arasında da hiçbir ayırım yapma lüksleri de yoktur. Bu açıdan bakıldığında işlerin bu doğrultuda yürümediği görülmektedir. Samsun’da her iki meclisi de zan altında bırakacak haberler sık sık medyaya yansımaktadır.<br />
+Son haftaların basında da en çok konuşulan konusu, Özel İdare ve İl Genel Meclisinin bazı uygulama ve harcamalarında ki kayırma ve yapılan abartılı ödemeleridir.<br />
+Bu konuda hatası olanlar sorgulanıp gerekli cezaları almaması ve “Kol kırılır yen içinde kalır” gibi çağ dışı bir yorumla geçiştirilmeye ve unutturulmaya çalışılması halinde İl Genel Meclisine olan güven sarsılacaktır.<br />
+Büyükşehir Belediye Meclisini sarsan bir uygulama da geçtiğimiz yıl 2011 seçimlerinden iki ay önce yaşanmıştı.<br />
+Belediyelerin başını ağrıtacak işlerin başında imar uygulamaları gelmektedir. Nitekim geçen yıl kamuoyunda çok tartışılan böyle bir düzenleme olmuştu. Önemli bir belediye meclis üyesine veya yakınlarına çıkar sağlandığı iddialarının öne çıktığı çok önemli bir oylamaya dört muhalefet partisi üyesi kamuoyunda yapılan çağrılara rağmen katılmamış ve iktidar partili üyelerin oyları ile iktidar partili meclis üyesine adı geçen çıkar sağlanmıştı.<br />
+Oylamaya katılmayarak böyle bir söylentiye zemin yaratan muhalif partilerin meclis üyelerine kendi partilerince herhangi bir işlem yapılmaması da düşündürücüdür.<br />
+İcra makamlarını denetleyecek meclis üyeleri de yanlışa alet oluyorsa, yapacak çok şey yok demektir.<br />
+Yaptıkları işleri nedeniyle belediyeler ve özel idarelerle iş ilişkisi olabilecek kişilerin bu meclislere üye olmalarının yolu kapatılmadığı sürece, bu meclis üyelikleri çıkar amaçlı kullanılabilecektir.<br />
+Hatta her iki meclis üyelikleri bu işler için cazibe merkezi olmayı sürdüreceklerdir.<br />
+İyi haftalar.. 12.08.2012</p>
+<p>Ecz. SADİ SUBAŞI</p>
+<p>ERCAN ARSLAN - 18.08.2012 14:46:58<br />
+MİLLETVEKİLLERİ MENFAAT ÇIKAR PEŞİNE DÜŞMÜŞ SAMSUN UMURUNDA MI?                                                                                                                                                                             SAMSUNSPOR'A YAPILAN IHANET VE KAHPELIĞİİ GÖRÜYOR SAMSUN -HALKI YAZI ÖĞRENCİLERE CEBİNDE Kİ HARÇLIĞI BIRAKTIRIP MAÇA GELİYORLAR</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0595-savasa-mi-surukleniyoruz.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0597-samsun-gocu-nedenlerini-ve-doguracagi-sonuclarini-sorgulamalidir.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

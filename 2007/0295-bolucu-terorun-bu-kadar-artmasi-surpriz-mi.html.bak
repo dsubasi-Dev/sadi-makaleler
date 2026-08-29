@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Bölücü Terörün Bu Kadar Artması Sürpriz mi</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Bölücü Terörün Bu Kadar Artması Sürpriz mi
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2007
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0295
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>BÖLÜCÜ TERÖRÜN BU KADAR ARTMASI SÜPRİZ Mİ??</p>
+<p>Doğu ve Güney Doğu Bölgemizde yıllardır süregelen bölücü terör olaylarında verilen şehit sayısı son günlerde hızlı bir artış gösterdi. Radyo ve TV açmaya korkar hale geldik. Her gün aslan gibi çiçeği burnunda gençlerimiz ve ordumuzun seçkin subayları kalleş bir saldırı veya çok daha acısı, yollarımıza döşenmiş hain mayın pusuların da can veriyorlar. Çocuklarını kaybeden ana ve babaların, babasını kaybeden ufacık çocukların ve çaresiz kalmış gencecik eşlerin cenaze törenlerinde ki iç parçalayan görüntüleri karşısında toplumsal tepki gittikçe artıyor.<br />
+Bu toplumsal tepki ve şehit ailelerinin bu güne kadar ki vakur tavrı, son zamanlarda yerini yüksek sesli tepkilere bırakmaya başladı. Bu gidiş tehlikeli ve bir o kadar da düşündürücü söylemleri gündeme taşımaya başladı.<br />
+Ölenlerin çoğunluğunun kırsal kesimden gelen gençlerimiz olması, devletin üst kademelerinin çocuklarının bir şekilde Doğu ve Güney Doğu’da askerlik yapmadıkları, hatta çoğu nüfuzlu aile çocuklarının sahte çürük raporları ile askerlik görevinden kaçtığı yönünde ki duyum ve söylemler toplumsal tepkiyi öfkeye dönüştürdü. Özellikle Sayın Başbakanın oğlunun da bir asker hastanesinden bu tür bir rapor almış olması ve hastalığı ile ilgili sorulara net açıklamalar yapılamayışının, fidan gibi çocuğunu şehit vermiş bir ailede yaratacağı tepkiyi biran olsun düşünün. Aynı acıyı bir an için kendimizin yaşadığını düşünürsek olayın tepkisel boyutunu çok daha iyi anlarız. Bu çiçeği burnunda gençler vatan savunması için canlarını verirken, ekonomik sıkıntıları nedeniyle bir işadamının desteği ile yurt dışına okumaya gittiği açıklanan Sayın Başbakanın oğlunun gemi satın aldığı haberlerinin de bu günlere rastlaması en sakin insanı dahi isyan ettirecek boyuttadır.<br />
+Bu arada bazı şartlanmış köşe yazarlarının şerefli subaylarımızı zan altında bırakacak, “ şehit olanlar hep erlerimiz, asıl görevi savaşmak olan üst rütbeliler cepheye çıkmıyorlar mı? “ şeklinde ki yazıları akıllara durgunluk verecek düzeydeydi. Sanki birilerine mesaj verilmişti. Çok geçmeden üst düzeyli subayların şehit olduğu haberleri de gelmeye başladı.<br />
+Bu tür üzücü olaylar sürerken, sınırlarımızın güvenceye alınması için sınır ötesi askeri operasyonun gerekliliğini vurgulayan Genel Kurmay Başkanı siyasi karar gerektiğinin de altını çiziyordu. Buna karşılık olarak hükümetten bu yönde bir karar çıkmayışı ortamı germeye yetmiştir. Sonraki günlerde Sayın Başbakan ile Sayın Genel Kurmay Başkanının Dolmabahçe Sarayında gerçekleşen buluşması sonrası Hükümet ile Ordunun uyum içinde olduğu gibi pek de anlaşılamayan bir açıklama ile ortalık biraz yatışmış görünüyor.<br />
+Gelinen nokta insanı umutsuzluğa düşürecek bir boyuta ulaşmıştır.  Amerika’nın Irak’ı işgali sırasında operasyona katılmamızın TBMM de oylanması için verilen tezkerenin reddedilmesinin bugünkü duruma neden olduğunu söyleyebilenlerin, askerin istediği desteği vermeyişlerini çok da yadırgamamak gerekir. Amerika’nın bir ülkeyi işgalini onaylamak anlamına gelecek bu tezkere onaylansaydı, bugün Amerikan askerleri yerine biz komşu ülkeyi işgal konumuna düşecektik. Yarın Amerika kendi çıkarlarını sağlama aldıktan sonra baş başa kalacağımız bu sınır komşumuzla, nasıl birlikte yaşayacağımızı ve o ülkenin halkına bunu nasıl anlatacağımızı o gün düşünemeyenlere bugün bunları anlatmak kolay değildir.<br />
+Rahmetli Ecevit’in Irak işgali konusunda ki direnişinin önemi bugün çok daha iyi anlaşılmaktadır. Ecevit’in başkanlığında ki koalisyonun sırf bu nedenle ve Amerika’nın organizasyonu ile parçalanıp dağıtılmasını o gün komplo senaryosu olarak niteleyenlerin biraz vicdanları varsa bugün yüzleri kızarmalıdır. Sayın Derviş’i kurtarıcı gibi getirip koalisyonu darmadağın eden, erken seçim kararı aldıran, Rahmetli Ecevit’i tekerlekli sandalyeye mahkûm eden neden, rahmetli Ecevit’in Amerika’nın Irak ile ilgili taleplerini geri çevirmesi ve Amerika’ya direncini onurlu bir şekilde sürdürmesidir.<br />
+Koalisyonun dağıtılması ve erken seçim kararı alınması ile senaryonun birinci bölümü başarı ile tamamlanmış ve Amerika kendi taleplerini yerine getirecek bir hükümet için düğmeye basmıştır. Her şey planlandığı gibi olmuş ve işler tam istendiği yönde ilerlerken muhalefetin direnişi ve iktidarın sağduyulu milletvekillerinin katkısı ile TBMM bu oyunu bozmuştu.<br />
+Türkiye böylece tarihi bir hatadan ve ileride tahribatı çok büyük olacak bir sorumluluktan kurtulmuştur. İşte o Amerika, bugün Irak sınırları içersinde beslenen terör örgütlerinin yeşermesine göz yummaktadır. Hiç kimse “o tezkere kabul edilmiş olsaydı bugün bunlar olmayacaktı” dememelidir. Artık sınır komşularımızdan birisinin de Amerika olduğu gerçeğini kabul etmeliyiz. Büyük Ortadoğu Projesine destek verenler yaşanan bu sorunların da sorumluluğunu taşıyacaklardır. Kabul etsek de etmesek de Kürdistan Devleti de resmen kurulmuştur.<br />
+Yaklaşan seçimler öncesi artan bölücü terör olayları için çeşitli senaryolar üretilmektedir. Geçmişte yaşananları görünce artık bu senaryolar daha da ürkütücü hale geliyor. Amerika’nın istekleri doğrultusunda sürdürülen politikaların, seçim sonrası devamından endişelenen emperyalist güçlerin, seçimlerin ertelenmesini zorunlu kılacak bir sınır çatışmasına zemin hazırlamak üzere dış kaynaklı desteklerle terörü tırmandırdıkları söylemleri göz ardı edilmemelidir.<br />
+Bu bölgede güçlü bir Türkiye’nin varlığı emperyalist Amerika ve Avrupa’nın çıkarları ile çelişmektedir. Ana sorun budur. Bu gerçeği görerek politikalar üretemediğimiz sürece sınırlarımıza sahip çıkamayız. Ülkemizin çıkarlarını başka yerlerden medet umarak değil, milletimize güvenerek korumak zorundayız. Sahip olduğumuz milli değerlere sahip çıkarak ve onların kıymetini bilerek bu dar boğazdan çıkabiliriz. Suni gündemler yaratarak halkımızı birbirine düşürecek dış kaynaklı provokasyonlara zemin yaratmamalıyız.<br />
+Bölgede ki stratejik konumumuz ve bölgemizin tek Laik ve Çağdaş Demokrasiye sahip Ülkesi olmamızın bize kazandırdığı konumun kıymetini bilmek zorundayız. Bizim en büyük dostumuzun kendimiz olduğu gerçeğinden hareketle iç sorunlarımızı bir yana itmeliyiz. Atatürk’ün koyduğu ilkeler çerçevesinde hiçbir ülkenin icazetine ihtiyaç duymayacak, kendi insanına güvenen, ülkesini seven iktidarlarla tüm sorunları aşacağımıza olan inancımı koruyorum. En kötü günlerinde dahi çıkış yolunu bulmuş milletimizin, bu kritik dönemi de atlatacağına yürekten inanıyorum.<br />
+Bu yazıyı yazdığım Pazar günü “ Babalar Günü” kutlanıyordu. Ben de köşemden tüm babaları bu anlamlı günlerinde kutluyor, aramızdan ayrılmış babalarımıza da dualarımızın en büyüğünü yolluyorum. Nur içinde yatsınlar. İyi haftalar dileğiyle. 17- Haziran- 2007<br />
+SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0294-sonunda-eczacilik-mesleginin-de-defterini-durduler.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0296-samsun-a-yakismayan-bu-celiski-giderilmelidir.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

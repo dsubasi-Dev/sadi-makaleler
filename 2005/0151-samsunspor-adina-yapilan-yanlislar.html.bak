@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Samsunspor Adına Yapılan Yanlışlar</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Samsunspor Adına Yapılan Yanlışlar
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2005
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0151
+
+</div>
+
+
+<div class="article-content">
+
+<p>SAMSUNPOR ADINA YAPILAN YANLIŞLAR</p>
+<p>VE UMUT VEREN 2. YARI ÖNCESİ</p>
+<p>BİR ANALİZ</p>
+<p>Sezona ne umutlarla başlamıştık. Kulübün başında Türkiye’de futbolu ve yöneticiliği en iyi bilen birkaç kişiden biri olduğu futbol otoritelerince de kabul edilen sevgili dostum İsmail Uyanık ve yanında da Samsunspor’a büyük katkılar veren değerli yönetim kurulu üyeleri vardı. Ancak sezona bazı önemli yanlışlar ve bazı doğrularla başladık. Geçen sezonon sonunda çok doğru kararla kendi içimizden yetişen ve sadece Samsunluların değil Türkiye’deki tüm spor severlerin de sevdiği ve saydığı Samsunspor’un Türk futboluna sunduğu yardımcı antrönörümüz Ertuğrul Sağlam ile çalışma yolu seçiliyordu. Herkes gibi benimde başından beri tercihim kendi yetiştirdiğimiz hocalardan yanaydı. Birkaç kez denediğimiz bu uygulamada birazda şanssızlık ve zamanlama hataları ile başarılı olamamış ve yönetimlerde yoğun baskı sonucu direnememişlerdi. Bu kez başarmalıydık. Tüm Samsun kenetlenmiş ve bu konuda hem taraftar, hem de tüm Samsun kamuoyu, Samsunspor Yönetimi destek veriyordu. Bu birliktelik başaracağımızın ilk işaretleriydi. Fakat, sezon sonunda her sezon benzer sıkıntıları yaşatan içimizden birisi olan Mehmet Nas birazda geçen dönemin hocası Erdoğan Arıca’nın Samsun’a her zaman yaptığı ihanetin bir benzeri sonrası  gemiyi terkediyordu. Önemli bir kayıptı. Transfer sezonuna Avrupa kupalarında söz sahibi olmak iddiası ile giriliyor, ancak bence çok yanlış tercihlerle transfer sezonu kapatılıyordu. Daha önce bu takımda oynamış ve çokta başarılı olmamış, gittikleri takımda dikiş tutturamamış iki eski oyuncumuzunda içinde olduğu beş transfer yapılmıştı. Bunların üçü geçen yıl beklenmedik bir şekilde küme düşen Bursaspor’un defansını oluşturuyordu. Cenk’i ayrı tutuyor ve içlerinde yararlı olabilecek tek oyuncu görüyordum. Bu beşliden sadece Tamer ilk sezon umut verdi. Sonradan alınan kaleci Göksel de dahil olmak üzere diğerleri için ilk yarı tam bir hayal kırıklığı yaşandı. Böylesine deneyimli bir başkanın bu yanlışı nasıl yaptığı hala kafamı kurcalıyor. Ancak yönetimin ekonomik yönden kentten hiç destek alamayışı ve ekonomik çıkmaz  sanırım bu zorunlulukları yarattı. Bu arada önemli bir isim olarak alınan Kais’in şu ana kadar ne verdiğini çok anlamış değilim. İyi bir futbolcu olduğu görülüyor ama verimi bunun karşılığı olmadı. Bunlar sezon başının doğruları ve yanlışlarıydı.<br />
+İlk yarının ortalarında orta sahanın top yapan en önemli adamı Evren daha iyisi alınmadan anlaşılmaz bir şekilde takımdan gönderildi. İlk yarının sonlarına gelirken bir başka şok yaşandı. Sakarya karşısında alınan ağır yenilgi sonrası başlayan tartışmalar ve yerel bir TV deki spor proramında gündeme getirilen beş oyuncumuzun Sakarya maçı üzerine bahis oynadığı iddiaları ortalığı karıştırdı. Hafta sonu oynanacak hayati BJK maçı öncesi yönetim kurulunun Serkan’ın da dahil edildiği beş oyuncunun mukavelesini karşılıksız fesh ettiği yolundaki açıklaması yalnız Samsun’da değil tüm Türkiye’de de yankı uyandırdı. Herkesin kafasında oluşan şüphe takımın ihanete uğradığı yönündeydi. Ne varki çok geçmeden başkan Uyanık’ın bir yaygın TV nin spor programındaki bu oyuncuları aklayan konuşması bence çok büyük çelişkiydi. Eğer açıklama doğruysa bu çocuklara büyük haksızlık yapılmıştı ve zan altında bırakılmışlardı. Bu arada sözünü ettiğim Serkan’ın bu gerekçelerle değil başka nedenlerle uzaklaştırıldığı konusundaki ve Serkan’a bana göre yapılan haksızlık konusundaki düşüncemi aşağıda ayrıca anlatmak istiyorum. Bu karmaşa arasında gelen bir dizi ağır yenilgi ve umutsuzluk neyse ki devre arasının imdada yetişmesi ile şimdilik durmuş gözüküyor. Bu arada takımdan uzaklaştırılan beş oyncu için teknik kadronun bu oyuncularla çalışmak istemediği için bu kararın alındığı yolundaki açıklamalar ve ardından devre arasına girildiği ilk günlerde bu oyunculara af getirilerek kadroya davet edilmeleri işi tam bir bilmece haline getirdi. Bu açıklama bencede hem teknik kadroya hemde yönetime önemli ölçüde zarar verdi.<br />
+Bu konuya devam etmeden ilk yarıdaki bir başka yanlışa değinmek istiyorum. Her kesimin desteği ile sezona giren sevgili Ertğrul Sağlam deneyimsizliğinden kaynaklanan bazı hatalar yaptı. Gerçek nedenini çok iyi bilmediğim bir kararla daha sezon başında Serkan gibi bir oyuncuyu gözardı etmesi büyük hataydı. Gol deyince Türkiye’de ilk akla gelen üç kişiden birisi olan Serkan bu kentin Türk futboluna sunduğu markalardan birisiydi. Bu kentin çocuğuydu. Hataları olduğunu ve özel yaşamında çalkantılar yaşadığını da biliyorum. Ama bu takımda onunla top oynamış ve kaptanı olarak sahaya çıkmış bir oyuncunun zor günleri atlatmasını sağlamakta hocasının görevi olmalıydı. Taraftar ona tapıyordu. Samsun’un gözüken en büyük gol şansıydı. Onu harcamak değil kazanmaktı başarı olan. Ertuğrul zor bir göreve soyunmuştu. İçinden geldiği ve beraber top oynadığı oyuncularla çalışacaktı. Onların nabzını tutmakta onun göreviydi. Teknik direktörlükte marka, ancak böyle zor günleri kazasız belasız atlatarak olunuyordu. Onları ezerek kendini kanıtlamak doğru yöntem değildi. Bir maçın  2. yarı başından son saniyesine kadar ısındırıp oyuna sokmayarak , bence hem oyuncusunu kaybetme noktasında isyan ettirmiş , hemde taraftarı üzmüştür. Serkan’ı hatalarından ötürü kimsenin savunmaya hakkı yoktur. Ancak para sıkıntısı içinde canı ile boğuşan bir takımın en golcü oyuncusundan yararlamamayı seçmenin hiçbir haklı açıklaması olamaz.<br />
+İşte böyle doğru ve yanlış kararların karmaşasında girilen devre arası yanlışlar görülerek iyi şeyler yapılmış gibi görünüyor. Serkan geri dönerek hazırlık kampında iyi bir çalışma dönemi geçirmiş, kamptan gelen haberlere göre takımda da geçmişe sünger çeken bir dayanışmanın oluştuğu anlaşılmaktadır. Devre arasında yeni oyuncu alınamamış olması bence çok da önemli değil. Devre arasında takımlarında oynayan başarılı oyuncuyu takımından kopartabilecek ekonomik gücümüzün olmadığı bir gerçek. Diğerlerinin ise bizden gidenler gibi ya takımlarıyla sorunlu veya takıma giremiyecek kadar başarısız oyuncular olduğunu düşünüyorum. Aslında iyi bir oyuncu olmasına rağmen ilk yarıdaki parasal nedenlere dayalı olduğunu sandığım isteksiz oyunu ile Şenol’un kaybını da çok önemsemiyorum. İlk yarıda yenen gollerdeki büyük payı ve ikinci yarıdada aynı isteksizliğin devam etmesi halinde karşılaşacağımız ciddi defans sorunlarını düşününce çok yanılacağımı sanmıyorum. Bu Kenti ve takımı düşünen gerçek profosyoneller ve kendi çocuklarımız bu devreyi çok daha iyi sonuçlarla kapatmamızı sağlayacaktır. İki yıl önce yaşadımız küme düşme tehlikesini canları pahasına direnen ve özveri gösteren Ercan  ve yanındaki Samsunlu gençlerle nasıl aştığımızı unutmuş değiliz. Bu takımdan bu güne kadar kimse alacaklı gitmemiş ve kimsenin hakkı kalmamıştır. İsmail Uyanık bunun en büyük garantisidir. Buna kimsenin şüphesi olmasın. Daha yakın geçmişte içine düşürüldüğü ekonomik sorunları yaşarken şirketine gelen ve  kendini rahatlatacak parayı tüm ısrarlara rağmen ‘’oyuncularıma sözüm var deyip ‘’onlara dağıttığını bilenlerden birisi olarak bunları yazıyorum.<br />
+İkinci yarı için en büyük güvencem kargaşa ortamının Sayın İsmail Uyanık ve Ertuğrul Sağlam’ın geçmişteki olayları içlerine gömerek gösterdikleri anlayış tarzıdır. Serkan’ında ‘’geçmişe sünger çektim, yeni sayfa açtım’’şeklindeki sözleri, herkesin gereken dersi aldığı şeklindeki düşüncemi destekliyor. Sevgili Ertuğrul Sağlam’a bu Kentin desteği bu güne kadar kimseye nasip olmadığı şekilde devam ediyor. Ertuğrul’un eleştirilere üzülmek yerine olumlu yönde işaret olarak algılayacağına inanıyorum. Sevgili Ertuğrul, sen bu kente lazımsın. Seni seviyor ve destekliyoruz. Başarın bizler içinde gurur kaynağı olacaktır. Bu kent böylece bir ilki başarmanın hazzını yaşayacaktır. Seninde bundan sonraki kariyerinin yükselmesini sağlayacaktır. Tüm sorunları aşacağına inanıyorum. Unutma ki, böylesine çalkantılara rağmen sana verilen desteği Samsunspor taraftarı ve yönetimi bugüne kadar hiçbir teknik adama vermemiştir..<br />
+Sevgili Serkan.. Sen gol için doğmuşsun. Tanrı sana her şeyi vermiş. Kendine ihanet etme hakkın yok. Özel sorunlarını bir an önce çözmek ve senin için üzülenleri daha fazla üzmemek zorundasın. Bütün olanlara ve bence sana yapılan haksızlıklara rağmen çekip gitmemen ve büyük bir özveri ile her şeyi içine gömerek takıma dönmen her türlü takdire değer. Unutma ki şimdi sorumluluğun çok daha fazla arttı. Artık bencillik ve hata yapma şansın yok.200’ler kulübüne girecek bir performans göstereceğine inanıyorum, buna tüm Samsunspor taraftarıda inanıyor.<br />
+Yazımın son bölümünde hiç kimse kusura bakmasın ve alınmasın şu yardım kampanyasına biraz değinmek istiyorum. Hemen hemen yetkili yetkisiz hep birlikte bu takımın Samsun’un tek ayakta kalan markası ve tek tanıtım organı olduğunu söyleyeceksiniz, sonrada taraftarım diyen sporseverinden , belediye başkanına, yetkili tüm kent yöneticisine ve işadamıyım diye yeri gelince yeri göğü inleten zenginine kadar en ufak destekten dahi kaçacaksınız. Bu Samsun adına büyük bir ayıptır. İki ay kadar önce sayın Valimiz ve Milletvekillerimizin öncülüğünde bir yardım kampanyası başlatıldı. Aralık ayına kadar süren kampanyada ancak  50 milyar TL. (50 bin YTL)civarında para toplandı. Bu amaçla Kurumahmutoğlu Büyük Samsun Otelinde düzenlenen toplantıya davet edilen 1200 seçkin kişiden sadece 150 kişi katıldı. Bunların bir kısmıda davetli olmadığı halde Samsun sevdalısı oldukları için katılan ve cep harçlıklarını bağışlayan bence gerçek Samsunlulardı. Asıl üzüntü veren bu kentte büyük iddiaları olan yerel yöneticilerin ve milletvekillerinin seçimlerde kendilerine destek veren ve peşlerinde dolaşan işadamlarını oraya getirme başarısını gösterememeleriydi. Hele hele son belediye seçimlerinde kendisine çok büyük destek veren işadamlarının bu kampanyanın başında olanlardan birisi olan Büyük Şehir Belediye Başkanını orada yalnız bırakışları çok düşündürücüydü. Bir dönem bu takımın başkanlığını da yaptığı için bu sıkıntıları çok iyi bilen ve başkanlığı döneminde düzenlediği  buna benzer kampanyada gösterdiği çabalar ile önemli miktarda para toplanmasını sağlayan sayın Başkanın , aynı çabayı neden bu kez göstermediğini anlamakta zorluk çekiyorum. Bu kent zamanı gelince bunları  ve çıkarlarından başka bir şey düşünmeyen insanların tavrını sorgulayacaktır. Samsunsporluyum diye her yerde Samsunspor hakkında ahkam kesen ama maç günlerini evlerinde veya çeşitli başka eğlence yerlerinde geçiren Samsunspor taraftarlarıda artık bu taşın altına elini sokmalı ve maçları evlerinde değil stadda seyretme alışkanlığını kazanmalılar diye düşünüyorum. Bu takımın yükünü bir kişinin ve yanındaki bir avuç insanın sırtına bırakıp, gelişmeleri dışardan izleyip hiçte arzu etmediğimiz bir kötü sonla karşılaştğımızda üzülmek ve ağlamak timsahın göz yaşı dökmesinden farklı olmayacaktır.<br />
+Sevgili İsmail Uyanık, bu kentte seni en iyi anlayanlardan birisi benim. Senin yalnızlığını kendi kulvarımda bende hissediyorum. Bu kentte ne yazık ki taşın altına elini sokan çok az kişi var. Sende bu az insandan birisisin. Yorulduğunu ve canından bezdirildiğini görüyorum. Kendi payıma ve başında olduğum SAM-SEV’in kısıtlı koşullarına rağmen maddi ve manevi destek verebilme çabasında olan birisi olarak bunları söyleyebilme hakkını kendimde buluyorum. Ne yazıkki bu Kentte alternatifin yok. Samsunspor sana mecbur. Böylesine yalnız ve ekonomik desteksiz ortamda gösterdiğin direnci takdir etmekten başka elimden bir şey gelmiyor. Yakında yapılacak genel kurulda sana başarılar diliyorum. Samsun için verdiğim uğraşıda son günlerde aldığım en büyük destek ‘’dayan Subaşı’’başlıkları. Bende sana Tanrıdan güç ve sabır diliyorum.<br />
+İkinci yarıya yepyeni umutlarla başlıyoruz. Gönlüm az hata yaparak sporcusu, teknik adamları ve yöneticileri ile sezonun başarılı bir sonla tamamlanmasından yana. Samsunspor’a gönül veren sevgili taraftarımızında ilk yarıdaki olumsuz görüntüden sıyrılarak kırgınlıkları bir yana itip tribünleri dolduracaklarını umuyorum.. Bu takım için büyük özveri gösteren başta sayın İsmail Uyanık olmak üzere yöneticilerimize hiç olmazsa manevi desteği çok görmeyiniz.</p>
+<p>Bugün Samsunspor’umuzun yıllar önce geçirdiği feci kazanın yıldönümü. Malatya deplasmanına giderken geçirdiğimiz korkunç kazayı duyduğumuz andaki şok hala gözlerimin önünde. Devlet hastanesinde yaralıların getirilmesini beklerken ve gelen çocuklarımızın halini gördüğümdeki içimin yanışını bu satırları yazarkende aynen yaşıyorum. Bu kazada kaybettiğimiz futbol şehitleri başta hocamız Nuri Asan olmak üzere, sporcularımız Muzaffer, Mete ve yabancı oyuncularımızla, emektar şoförümüz Asım’ın manevi huzurunda saygıyla eğiliyorum. Hala o günün izlerini taşıyarak yaşamlarını sürdüren futbol dünyasının gazileri olan sporcu ve yönetici kardeşlerime sağlıklı ve uzun bir yaşam diliyorum. Tanrı hiçbir takıma ve kente böyle acı vermesin. Bayramı İstanbul’da geçirmem nedeniyle bu yılki törenlere katılamamanın üzüntüsünü taşıyorum.<br />
+İkinci yarının başlamasına çok az bir zaman kaldı. Bu yarıda Samsunspor’umuzun başarılı olmasını diliyorum..20-OCAK-2005</p>
+<p>Ecz. SADİ  SUBAŞI</p>
+<p>Ecz. SADİ  SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0150-biraz-da-felsefe.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0152-tsunami-ve-yardim-kampanyalari.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

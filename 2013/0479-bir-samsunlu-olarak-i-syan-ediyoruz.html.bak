@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Bir Samsunlu Olarak İsyan Ediyoruz</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Bir Samsunlu Olarak İsyan Ediyoruz
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2013
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0479
+
+</div>
+
+
+<div class="article-content">
+
+<p>Bir Samsunlu olarak isyan ediyoruz...</p>
+<p>Küresel ısınmanın etkisi ile Dünyamızı önümüzde ki 50 yılda bekleyen en büyük tehlike açlık ve susuzluk olarak belirlenmiştir. Dünya kendisini bu sorunların çözümü için odaklamışken, Ülkemizi yönetenlerin, Tanrı'nın bize bahşettiği en verimli ovaları ve su kaynaklarını göz göre, göre yok edilmesine olanak veren projeleri uygulamaya sokmasını anlamakta sıkıntı çekiyorum.<br />
+Ziraat mühendislerinin aktardığı bilgilere göre bir ovanın oluşması için on binlerce yıl gerekiyor. Böylesine zor oluşan ve "ne atsan biter" denen ovalardan iki tanesi Samsun'un doğu ve batısında yer alan Çarşamba ve Bafra Ovalarıdır. Yıllarca Anadolu'nun iç bölgelerinden taşıdıkları alüvyonları Karadeniz'e döküldükleri yerde biriktirerek bu ovaları meydana getiren Kızılırmak ve Yeşilırmak, aynı zamanda bu ovaları sulamaktadır. Bu ovalar Türkiye'nin gelecekte hem açlık, hem de susuzluk tehlikesi yaşamasını önleyecek birer lütuftur.<br />
+Beş yıl önce o dönemin koalisyon Hükümeti, olmayan bir enerji açığını kapatmak iddiası ile 6 nolu fuel oil'le çalışacak Mobil Santralleri gündeme getirmiştir. 0 dönemde Bartın ve Finike de konuşlandırılmak üzere planlanan iki mobil santral, başta belediye başkanları ve milletvekilleri olmak üzere o yöre insanlarının gösterdikleri ortak tepki üzerine, Hükümet ortağı ANAP'lı Enerji Bakanı tarafından Samsunludan saklanarak Samsun'un Çarşamba Ovasına kaydırılmıştır. Haber alınır alınmaz Sivil Toplum Kuruluşlarının oluşturdukları Çevre Birlikteliğinin çabası ve Samsun Barosu'nun açtığı dava ile bu santraller mahkûm edilmiştir, ilgili firmanın temyize yaptığı başvuru da Danıştay tarafından reddedilmiş ve Danıştay'ın Ankara 10 nolu idare Mahkemesi'nin kararını onaylaması ile santrallerin çalışması durdurulmuştur.<br />
+Santrallerin çalışması mahkeme kararı ile durdurulmasına rağmen Hükümet 2,5 yıl bu santraller elektrik üretmiş ve satın alınmış gibi yapımcı iki firmaya her ay 2,5 milyon dolar ödeme yapmıştır. Çevre Birlikteliği bu kez de, Samsun Barosu aracılığı ile yasal dayanağını yitirmiş bu iki santrale haksız yere ödenen paraların sorumlularından alınarak hazineye aktarılması ve sorumluların cezalandırılması için Yargıtay Başsavcılığına suç duyurusunda bulunmuştur. Yargıtay Başsavcılığı başvuruyu işleme koyarak, sorumlular için dava açmak üzere usul gereği Enerji Bakanından onay istemiştir. Ancak Enerji Bakanı, bürokratlarının yargılanmasına onay vermemiş ve sanıyoruz sorumluluktan kurtulmak için, 22 Temmuz seçimlerinin hemen ardından bu iki santrali yasaları çiğnenerek, "Bakan Talimatı" ile devreye sokturmuştur. Davayı takip eden o dönemin Baro Başkanı Sayın Av. Arif Yılmaz Üney'in ifadesi ile Bakan ve çalıştırılmasını önlemeyen il yöneticileri anayasal suç işlemektedirler. Yeniden davalar açılmış olup, Çarşamba Ovasını bitirecek ve bu santrallere 2,5 km. mesafede bulunan Samsun içme suyunu sağlayan Çakmak Barajını kan-sorejen maddelerle kirletecek santrallerin durdurulması çabalarımız sürmektedir.<br />
+Bu iki mobil santralin yeniden kapattırılma çalışmaları sürerken, bu santrallerin hemen yanına, aynı firma ( Cengiz inşaat ve Enerji) tarafından bu kez 600'er MW. lık kömürle çalışacak iki termik santral yapımı için işlemlerin tamamlanmak üzere olduğu öğrenilmiştir. Bu inanılması güç haber Samsunlular için tam bir şok olmuştur.<br />
+Bütün Samsun şu anda ayaklanmış durumdadır. Yine bu ovanın ortasına Yeşilırmak'ın Karadeniz'e döküldüğü yere yakın 4 adet daha termik santral yapımı bazı şirketlere onay verildiği duyumlarını almış bulunuyoruz<br />
+Yatağan ve Afşin-Elbistan termik santrallerinin çevrelerini yok ettiği ve yöre insanlarının solunum hastalıkları ve kanser kıskacında inlediği biliniyor. Bu gerçekler ortadayken Enerji Bakanlığının bu ovayı yok edecek, çocuklarımızın geleceğini karartacak ve kanser hastalıklarına mahkûm edecek bu santrallerin yapılmasına nasıl onay verdiğini anlamakta sıkıntı çekiyoruz.<br />
+TEMİZ ENERJİ PROJESİ OLAN RÜZGÂR SANTRALLERİNİN ENERJİ BAKANININ MEMLEKETİ ORDU'YA, KİRLİ PROJELERİN İSE SAMSUN'A YAPILMASI KARARINA İSYAN EDİYORUZ..<br />
+BİZLERİ TEMSİL EDİP TBMM'NE GÖNDERDİĞİMİZ VEKİLLERİMİZİN SUSKUNLUĞUNA İSYAN EDİYORUZ..<br />
+BİZLERİ YÖNETSİN, BİZLERE DAHA İYİ YAŞAM KOŞULLARI SAĞLASIN, KENTİMİZE SAHİP ÇIKSINLAR DİYE SEÇTİĞİMİZ SAM-SUN BÜYÜKŞEHİR BELEDİYE BAŞKANINA, ÇARŞAMBA BELEDİYE BAŞKANINA, TEKKEKÖY BELEDİYE BAŞKANINA, KUTLUKENT BELEDİYE BAŞKANINA VE YÖREDE Kİ DİĞER BELDELERİN BELEDİYE BAŞKANLARINA OYLARINI ALDIKLARI İNSANLARI YALNIZLIĞA TERKETTİKLERİ İÇİN İSYAN EDİYORUZ..<br />
+VE SORUYORUZ;<br />
+BU OVAYI KİRLİ YATIRIMLAR İÇİN PİLOT BÖLGE OLARAK MI SEÇTİNİZ? BUNU AÇIKLAYINIZ..<br />
+BU KENT SAHİPSİZ VE NASIL OLSA SESLERİ ÇIKMAZ DİYE Mİ DÜŞÜNÜYORSUNUZ?<br />
+EĞER BÖYLE DÜŞÜNÜYORSANIZ, TEKKEKÖYDE YAPILAN "ÇED RAPORU BİLGİLENDİRME TOPLANTISINDA" YÖRE HALKININ GÖSTERDİĞİ TEPKİYİ DE OKUYAMAMIŞSINIZ DEMEKTİR.<br />
+EĞER BU KENTİN İNSANINA HİZMET İÇİN ATANMIŞ VE SEÇİLMİŞLERSE, MİLLETVEKİLLERİMİZİN, BELEDİYE BAŞKANLARIMIZIN, BAŞTA ÇEVRE VE ORMAN İL MÜDÜRÜ İLE TARIM İL MÜDÜRÜ OLMAK ÜZERE İLGİLİ TÜM İL MÜDÜRLERİNİN BU SORULARI CEVAPLAMAK VE HALKI AYDINLATMAK GÖREVLERİDİR.<br />
+SORUYORUZ.<br />
+SAMSUN BU CEZAYI HAKETMEK İÇİN NE SUÇ İŞLEDİ?<br />
+22 TEMMUZ SEÇİMLERİNDE VERİLEN % 58 OYUN KARŞILIĞI BU MU OLMALIYDI?<br />
+BU KENTİN SUSKUNLUĞU KİMSEYİ YANILTMASIN. BU KENT, TÜRKİYE CUMHURİYETİ'NİN KURULMASI İLE SONLANAN KURTULUŞ SAVAŞININ MEŞALESİNİN YAKILDIĞI KENTTİR.<br />
+BÖYLESİNE ÖNEMLİ BİR MİSYONU OLAN BİR KENTE YAPILANLARA SUSKUN KALMAK VEYA ÖRTÜLÜ DESTEK VEMEK BU KENTE VE ÇARŞAMBA OVASI NEDENİYLE ÜLKEMİZİN GELECEĞİNE İHANETTİR.<br />
+DÜN BU KENTE TEŞVİKİ VERMEYEN ZİHNİYET, BU PİS YATIRIMLARA KARŞI ÇIKANLARI YATIRIM DÜŞMANI OLARAK İLAN ETME KOLAYCILIĞINA SIĞINAMAZ.<br />
+EĞER BU HALKIN TÜM DİRENİŞİNE RAĞMEN BU YATIRIMLAR YAPILMAKTA İSRAR EDİLİRSE, KORKARIM BU DAYATMANIN ÇOK DAHA BAŞKA NEDENLERE DAYANDIĞI SORULARI TARTIŞILMAYA BAŞLAYACAKTIR.<br />
+LÜTFEN, SAMSUNA VE ÇARŞAMBA OVASINA KIYMAYINIZ VE KIYDIRMAYINIZ..<br />
+15 ARALIK 2007<br />
+ECZ. SADİ SUBAŞI<br />
+SAM-SEV BAŞKANI<br />
+VE ÇEVRE BİRLİKTELİĞİ YÜRÜTME<br />
+KURULU ÜYESİ<br />
+e-posta; sadisubasi@denizeczaneoptik. com</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="../2012/0617-i-syanim-bir-baska-samsunumuz-olmadigi-i-cin.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0618-eczacilik-meslegine-yazik-edildi.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

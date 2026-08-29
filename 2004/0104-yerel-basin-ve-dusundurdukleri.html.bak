@@ -1,0 +1,295 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Yerel Basın ve Düşündürdükleri</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Yerel Basın ve Düşündürdükleri
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2004
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0104
+
+</div>
+
+
+<div class="article-content">
+
+<p>YEREL BASIN ÜZERİNE BİR DEĞERLENDİRME</p>
+<p>Yıllarca yerel basının bir kent için ne kadar önemli olduğunu her ortamda savunmuş birisi olarak son yıllarda bu konuda önemli atılımlar yapan yerel yazılı ve görsel basına hep destek olmaya çalıştım. Sermaye güçlerinin eline geçmesi ile başlayan ulusal basındaki yozlaşmanın  neredeyse ülke çıkarlarının dahi gözardı edildiği seviyeye ulaşması ile yerel basınının çok daha önemli hale geldiği bir dönemi yaşıyoruz. Yerel basına destek verme adına iki yıl önce yapılan öneriyi görev kabul ederek bu gazetede hafatada bir köşe yazısı yazmaya başladım. Bu süreçte bir kez zorunluluk dışında yazılarıma ara vermedim. Toplantı için Samsun dışında olduğum dönemlerde dahi şartları zorlayarak yazılarımı gazeteme ulaştırdım. Hiç bir zaman bu işin amatörü olduğumu aklımdan çıkartmadım. Sadece yıllardır sivil toplum örgütlerinde kazandığım deneyim ve bilgileri okuyucularıma iletmeye çalıştım. Hiç bir zaman bu anlayışın dışında bir tavrım olmadı. Ancak yıllardır medyayla içiçe olan ve çektikleri sıkıntıları  ve çıkardıkları gazeteler ile yaptıkları TV  yayınlarını nekadar zor şartlarda gerçekleştirdiklerini bilen birisi olarak gözlemlediğim bazı aksaklıklarıda söylemem gerektiğine inanıyorum.<br />
+Türkiye'deki haber anlayışının çarpıklığından olsa gerek, ulusal medyanın ciddi ve toplum yararına olacak haberler yerine tecavüz, intihar, cinayet  ve soygun türü haberleri manşet yapmasını artık yadırgamıyoruz. Ayrıca ulusal medyanın Anadolu kentlerinden bu tür haberler dışındaki konulara yer vermemelerinede alıştık. İstanbul'a her gittiğimde kuzenlerimin ilginç sorularıyla karşılaşıyorum. Diyorlarki,''bizim Samsun ne biçim kent oldu? Gazetelerde ne zaman Samsun'la ilgili bir habere rastlasak, ya cinayet  yada tecavüz olayı ile ilgili oluyor. Bizim Samsun da hiç güzel bir şey olmuyormu?''Yakın zamana kadar bu haberlere bende çok üzülüyor ve kızıyordum. Hatta geçtiğimiz aylarda Hürriyet gazetesinin yeniden yayınlanmaya başlayan karadeniz eki için geçtiğimiz dönemlerde tavır koymuş ve Hürriyet gazetesi genel yayın yönetmenine protesto yazıları göndermiştik. Aynı uslup bu ekte aynı şekilde sürüyor. Son günlerde  kabul edilemez bu yayınlarda bizim de büyük payımız olduğunu düşünmeye başladım. Nasılmı?<br />
+Artık bu yanlışlıkta yerel medyamızın da payı olduğunu sanıyorum. Ulusal medyaya konu teşkil eden haberler genellikle yerel medyamızda manşet olmuş konular. Yerel basınımız bu konuda yeterli özeni göstermediği sürece çok fazla yakınma hakkımızda olamaz. Üzülerek izliyorum. Belki garip gelecek ama hemen hemen Samsun da yayınlanan tüm gazeteleri onlara destek adına alıyorum. O nedenle daha detaylı değerlendirme olanağım var. Zaman zaman Samsun için öylesine önemli gelişmeler gözardı ediliyorki veya iç sayfalarda kaybolup gidiyorki anlamak zor. Bunun en son örneği geçen hafta Samsun için son derece önemli bir olayın bazı yerel gazetelerde yer almayışı veya yeterince önemsenmeyişiydi. Bilindiği gibi başkanı olduğum SAM-SEV in üç yıldır gerçekleşmesi için büyük çaba harcadığı her hükümet döneminde gündeme taşıdığı TERSANE konusu nihayet sayın milletvekillerimizin çabası ile gerçekleşme noktasına geldi. Proje yer tahsisinin yapılması ve başbakan sayın Recep Tayyip Erdoğan'ın imzalaması ile kesinlik kazandı. Projeye büyük destek veren hemşehrimiz gemi İnşa Sanayi ve Tersaneler Genel Müdürü sayın Sami Kabaş, Denizcilik Müsteşar yardımcısı sayın Celalettin Güvenç ve Deniz Ulaştırması genel müdürü sayın Ali kurumahmut  geçtiğimiz cuma günü Samsun'a gelerek SAM-SEV merkezinde üyelerimiz  ve sivil toplum  örgüt başkanları huzurunda basınımıza Samsun Tersanesinin gerçekleştiğini müjdeledi. Türkiye'nin en büyük tersanesi olacak bu yatırım daha başlangıç aşamasında dahi yan sanayi çalışanları hariç bir-iki bin kişiye ekmek kapısı olacaktı. Ayrıca müsteşar yardımcısı bizim adımıza genel müdüre soru yönelterek tersanenin temelinin yaz başlarında atılacağını en yetkili ağızdan Samsunlulara duyuruyordu. Çok önemli sorular ve diyaloglar oldu. Yıllardır çaba harcayan sık sık ''tersane falan ile kaydırıldı, veya tersane hayal''söylentilerine rağmen inançla görüşmeleri sürdüren bizler Samsun adına büyük heyecan duyduk. Sanıyorduk ki böylesine önemli, bize göre liman ile barajları saymazsak Cumhuriyet döneminde Samsun'a devletin yapacağı en büyük yatırm olan bu proje , yerel medyamız tarafından tüm yönleri ile Samsunlulara duyrulacaktı. Yerel yazılı ve görsel basın her nedense haberi çok önemsememişti. Hele hele en yetkili ağıza söyletilen temel atma tarihi çoğu tarafından atlanmıştı. Tabii duyarlılık göstererek ilk sayfalarında duyuranlara da teşekkür ederim. Ama benim de yazı yazdığım gazetem dahi'' bir kamyonda uykuya dalarak tüpgaz zehirlenmesi atlatanları'' baş manşete alarak bu büyük olaya tercih etmiş ve tersane duyurusu iç sayfalara yuvarlanıp gitmişti.<br />
+Sivil toplum örgütlerinin yetersiz kaldığından yakınılan bir ortamda, yapılan başarılı işlerde gözden kaçarsa enazından haksızlık olur diye düşünüyorum. İzlediğim bir eksiklikte böylesine önemli açıklamaların yapıldığı bu toplantıya gazetelerin muhabirleri dışında hiçbir köşe yazarının katılmayışıydı. Oysa onların soracakları okadar çok soru vardıki. Bu konunun hiç bir köşe yazarınca köşelerinde değerlendirilmeyişide düşündürücüydü.<br />
+Yerel yazılı basınımızın önemli bulduğum bir  başka eksikliğinide vurgulamak istiyorum. Ekonomik nedenlerden olsa gerek yeterli haber toplayacak muhabir bulunduramadıkları için hemen hepsi aynı haber ajansından aldıkları haber ve resimleri yayınlıyorlar. Virgülüne kadar aynı haber ve resimlerin yer aldığı bu gazetelerden birisini okuyan okuyucudan diğer gazeteleri okumasını nasıl beklersiniz?<br />
+Seçim rüzgarı ile ayakta duran bu gazeteleri seçim sonrası zor günlerin beklediği bir gerçek. Bu eleştirileri bir dost uyarısı olarak algılamaları en büyük dileğim. Samsun uzun yıllar sonra bulduğu yerel medyanın yaşamasını ve güçlenmesini istiyor. Bunun gerçekleşmesi için bu alana yatırım yapan ve emek harcayan gazeteci dostlarımın önümüzdeki dönemde bu eksiklikleri gidereceklerine inanıyorum.<br />
+Daha güzel günlerin yaşanacağı bir samsun için hepimizin güç birliği yapması gerektiği inancımı yineliyor ve iyi haftalar diliyorum..<br />
+SADİ  SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0102-samsun-tersanesi-ve-sivil-toplum-orgutlerinin-basarisi.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0105-ankara-da-yeni-samsunlular-dernegi.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

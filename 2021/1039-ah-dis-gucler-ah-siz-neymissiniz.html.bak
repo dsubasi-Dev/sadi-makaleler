@@ -1,0 +1,345 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Ah, “Dış Güçler” Ah! Siz Neymişsiniz</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Ah, “Dış Güçler” Ah! Siz Neymişsiniz
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2021
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+1039
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>AH, “DIŞ GÜÇLER” AH! SİZ NEYMİŞSİNİZ?<br />
+Çocukluğumun son günleri olan 1957-1960 arasında, Demokrat Parti’nin yaşattığı demokrasi dışı dayatmalarını ve sonrasında da 27 Mayıs Darbesini, gençlik yıllarımda ise, 68 kuşağı olarak öğrenci eylemlerini ve ardından da 12 Eylül Darbesini yaşadım.<br />
+Kim aksini söylerse söylesin bu ülke, 1950 sonrasında 1961-1965 de İsmet İnönü, 1973-1974, 1977-1979 ve 1999-2002 tarihleri arasında ise, Bülent Ecevit Başkanlığında ki kısa süreli koalisyonlar dışında ki tüm zamanlarda, ya tek başına veya sağ partilerin katıldığı koalisyonlar ile sağ parti hükümetleri tarafından yönetilmiştir.<br />
+Özellikle de, sağ parti iktidarları döneminde ne zaman sosyal veya ekonomik sorunlar yaşanmışsa, her defasında bunun sorumlusu olarak “Dış Güçler” diye tanımlanan ama bunların kimler olduğu bilinmeyen bir takım güçler suçlanmıştır.<br />
+Şimdi bu “Dış Güçler” Kim olabilir diye bir düşünelim. Hemen bir ön görüş olarak söylemek isterim ki, her ülkenin stratejik konumlarına göre tarihlerinden gelen düşmanları vardır.<br />
+Ama bu ülkeler, özellikle 2. Dünya Savaşı’nda yaşanan büyük can kayıpları ve ekonomik yıkım sonrası, ülkelerini güçlü tutarak topraklarında gözü olanlara fırsat tanımamayı ilke edinmiştir.<br />
+Bizim ülkemizin ise, 1071 den bu yana her dönemde topraklarında gözü olanlarla sorunu olmuştur. Türk kavimlerinin Orta Asya’dan batıya doğru göçe başladıktan sonra İslamiyet’i de kabul ederek Anadolu’ya girdiği günden itibaren, tüm Hristiyan dünyasının düşmanlığını karşısında bulmuştur.<br />
+Bu Hristiyan dünyasının giderek artan düşmanlığına basiretsiz Osmanlı Padişahların yönetimsel hataları da eklenince, 1. Dünya savaşından da yenik çıkan Osmanlı Devleti yıkılıyordu.<br />
+Üzülerek görüyoruz ki, Osmanlı’nın yıkılması sonrası kurulan son Türk devleti olan Türkiye Cumhuriyeti Devleti de, aynı güçlerin hedefi olmayı sürdürmektedir.<br />
+Sürekli “Dış Güçleri” suçlarken, biraz olsun ülkemizin dünya haritasında ki konumuna da göz atmamız gerekir diye düşünüyorum.<br />
+Ülkemizin üç tarafının deniz olmasının ve son derece önemli iki boğazın kontrolümüz altında bulunmasının yarattığı stratejik durumuzun, çok sayıda ülke açısından da sorunlar yaratması nedeniyle, tüm dünyanın gözünün ülkemizin üzerinde olduğunu kabul etmek zorundayız.<br />
+O halde yapılacak en önemli şey, ülke olarak hem askeri, hem de teknolojik ve daha da önemlisi ekonomik yönden çok güçlü olmaktır.<br />
+Peki, biz bunları yapabildik mi?<br />
+Örneğin ülkemizde ki ekonominin bu derece çökmesine kendi yönetimsel yanlışlarımızın ve öngörüsüz planlamalarımızın neden olmasını, nasıl dış güçlere fatura edeceğiz?<br />
+Üzülerek söylemek gerekirse, ülke olarak yaşadığımız tüm olumsuzlukların sorumlusu olarak suçladığımız “DIŞ GÜÇLERİ”, bu ülkenin başına biz bela etmedik mi?</p>
+<p>Benim lise öğrenim yıllarında (1960-1963) askerlik dersi vardı. O dersin konularından birisi beynime öylesine yerleşmiş ki, 1950 sonrası yaşadıklarımızın cevabını bu dersin içinde ki bu konuda buluyorum.<br />
+1940’lı yıllar sonrası yaşanan ve çok sayıda ülkenin kan gölüne ve ekonomik yıkımına neden olan 2. Dünya Savaşı sonrası, çevresine hatta dünyaya hükmetmeye çalışan tüm güçlü devletlerin yeni savaş modeli, “Soğuk Savaş” Olarak değişmişti.<br />
+İşte askerlik dersimizin bu konusu özetle, “Soğuk Harp Nedir, Nasıl yapılır.” İdi. Aklımda kalan en önemli maddesi ise, “Üzerinde hesapları olan ülkeler, bu ülkeleri tüketime alıştırılır, üretimden kopartılarak dış alımlara mahkûm edilir, böylece ekonomik dengesi bozulan ülkelere borç krediler verilerek zamanla ekonomik özgürlükleri kaybettirilir. Böyle bir duruma düşürülen ülkeye, artık silah kullanmadan her türlü kötülük yapılabilirdi.”<br />
+1960’lı yıllarda bu dersi okumuş birisi olarak, 1950 sonrası başımıza gelen tüm sıkıntıların altında hep bu “Soğuk Savaş” dersini hatırlarım.<br />
+Nitekim İlki, 1945 yılında Türkiye’nin BM’lere katılması ve 1947’ de Truman Doktrinin kabul etmesi ile başlayan ABD’ nin ülkemizde ki etkinliği, imzalanan Marshall Yardım Planı ile 1950 sonrası yoğunluk kazanmıştır.<br />
+“Marshall Yardımı”, ülkemizin Atatürk Dönemi sonrası aldığı ilk borçtu ve alınan bu yardım karşılığı, Türkiye ülkemizin hiçbir ilgisinin olmadığı Kore Savaşı’na girmeye mecbur bırakıyordu.<br />
+Giderek güçlenen ve dünya üzerinde etkin olmaya başlayan ABD, kendi çıkarları doğrultusunda o yılların en büyük tehlikesi olarak gösterdiği Komünizmin, yayılmasını engellemek amacıyla yürüttüğü projelerle, Türkiye’yi o zamanki adıyla “Sovyet Sosyalist Devletleri’ne” karşı kalkan haline getirmişti.<br />
+Bu görev, ülkemizi silahlanmaya ve yüksek askeri güç bulundurmaya yönelterek büyük bütçeler ayırmak zorunda bırakmış, bu da ülkemizin ekonomik dengelerini daha günlerde bozmaya başlamıştır.<br />
+Bunun sonucu olarak, sonra ki yıllarda ekonomimizi ayakta tutabilmek için İMF’ den kredi adı altında alınan paralarla, dış borçlarımız giderek artmaya başlamıştır.<br />
+Artık, Türkiye dış ülkelerden aldığı borçlarla ayakta duran bir ülke haline gelmiştir.<br />
+Tabii ki, bu borçların bize dayatacağı bazı yaptırımların olması da kaçınılmazdı.<br />
+Kendi yarattığımız bu “Dış Güç” Denilen yaptırımların en belirgin ve iktidar değiştireni, 1999’da merhum Bülent Ecevit Başkanlığında kurulmuş olan DSP-ANAP-MHP Koalisyonuna uygulanmıştır.<br />
+Ülkemiz, o dönemde de sık sık yaşadığı ekonomik dar boğazlarından birisine daha girmişti. Ecevit’in tartışmalı bir şekilde hastaneye mahkûm edilmesi sırasında, o güne kadar kamuoyunda dahi adı duyulmamış Dünya Bankası’nda görev yapan bir ekonomist olan Kemal Derviş birileri tarafından Türkiye’ye gönderilmişti.<br />
+Kemal Derviş, dayattığı sıkı kemer sıkma projeleri ile ekonomiyi düzeltmesine ve Ecevit’in hastaneden çıkıp kısmen de olsa görevinin başına dönmesine rağmen, bu kez de erken seçim çağrısı ile koalisyonu parçalanmasını sağlamıştır.<br />
+Bu çağrıya, hangi amaçla bilinmez ilk destek koalisyon ortağı MHP Genel Başkanı Sayın Devlet Bahçeli’den veriyordu.<br />
+Sonuçta gidilen erken seçimde, DSP, ANAP ve MHP baraj altında kalırken, çok kısa bir süre önce kurulmuş olan, AKP tek başına iktidara geliyordu.<br />
+Bir “Dış Güç” tarafından ekonomisi düzeltilmiş bir koalisyonun, yine aynı dış güç tarafından anlaşılmaz şekilde dağıtılarak, 19 yıldır iktidarda olan AKP’ nin önünün açılmış olmasına rağmen, AKP İktidarı ’nın bugünlerde “Dış Güçlerden” yakınmasını anlamak mümkün değildir.<br />
+Özellikle de sonradan anlaşıldığı gibi, önceki yıllardan beri devleti eline geçirmek üzere çok sayıda bakanlık ile başta emniyet, eğitim, yargı ve ordu olmak üzere çok sayıda kurumda kadrolaştığı anlaşılan bir tarikatın (Fetullah Gülen liderliğinde ki Fetö Terör Örgütünün), AKP’ nin iktidar olması ile güçlendiğini nasıl görmezden gelebiliriz?<br />
+Sonunda, askeri sırlarımızın ve Devletimizin stratejik planlarının bulunduğu gizli kasaların dahi, ABD destekli bu terör örgütü ajanları aracılığı ile düşmanlarımızın eline geçmesine biz zemin hazırlamadık mı?<br />
+Türk Genel Kurmayı’ nın, 2000’li yılların başlarından itibaren ABD güdümünden uzaklaşarak tam bağımsız bir Türkiye görüşünü benimsemesinden ABD’ nin rahatsız olduğu bilinmektedir.<br />
+Nitekim FETÖ Örgütünün, bu değişimden rahatsız olan ABD’ nin, çıkarları doğrultusunda içine sızdığı yargı aracılığı ile bu ülkenin vatansever asker ve subaylarını düzmece mahkemelerle saf dışı bırakarak, orduya kendi yandaşlarını yerleştirmesi ile ordumuzun üst kadrolarının çökertilmesine seyirci kalınmadı mı?<br />
+O günlere kadar bu cemaatle iç içe ülkeyi yönetenler, bu cemaatin 15 Temmuz 2016 tarihinde darbe yaparak devleti ele geçirmeye çalışması ile bir terör örgütü olduğunu anlamadı mı?<br />
+En önemlisi, bu “DIŞ GÜCÜ”, Biz kendi hükümetlerimizin desteği ile oluşturmadık mı?</p>
+<p>19 yıllık AKP döneminde, bu ülkenin Kurtuluş Savaşı’nı kazanarak kurduğu Türkiye Cumhuriyeti’nin ilk 15 yılında yerel kaynaklarımızı kullanarak yarattığı halkımızın temel ihtiyaçlarını karşılayan, Şeker, Ayakkabı, Kumaş, Demir Çelik tesisleri başta olmak üzere,  80 yıllık Cumhuriyet döneminde kazandığı son derece stratejik önemli tesislerinin satılmasını,<br />
+Bankaların, haberleşme ile ilgili stratejik önemi büyük olan Telekom’un, yer altı kaynaklarımızın, limanların, askeri savunma tesislerinin, havaalanlarının, yapılan yüzlerce fabrika ve tesisin özelleştirme adı altında satılarak üretimden kopartılmasını,<br />
+Bu tesisleri alanların, tesisleri işletmek yerine arazilerini değerlendirmeyi seçmesi ile üretimi durdurması bir yana, binlerce çalışanın işsiz kalmasına neden olmasını,<br />
+Başta tarım ürünleri ve hayvancılık olmak üzere, köylümüzün ürettiği ürünleri yurt dışından getirme yolunun seçilmesi ile köylümüzün toprağından kopartılarak ülkemizin ithalata (Dış alıma), dolayısıyla döviz kaybına mahkûm edilmesini de mi, “Dış Güçler” yaptırdı?<br />
+Hadi, ekonomik olarak dışa bağımlı hale gelmekle, “Dış Güçler” Ülkemize zarar veriyorlar diyelim ama yönetimsel hatalarla, “Yap-İşlet Modeli” gibi ihalelerde, verilen akıl dışı garantilerle yaratılan döviz kayıplarına da,  “Dış Güçler” Etkili oldu diyebilir miyiz?<br />
+Bakın, bu ülkenin kurucu lideri Mustafa Kemal Atatürk neler söylemiş;</p>
+<p>“TAM BAĞIMSIZLIK”, ancak ekonomik bağımsızlıkla olur.<br />
+Mustafa Kemal Atatürk.<br />
+Türk Devleti’nin dayandığı esaslar, tam bağımsızlık ve kayıtsız şartsız milli egemenliktir.<br />
+Tam bağımsızlık; Siyasi, mali, ekonomik, adli, askeri, kültürel, kısaca her konuda bağımsızlık ve serbestliktir.<br />
+Mustafa Kemal Atatürk</p>
+<p>LİDERLİK; Vatandaşla inatlaşmak, Vatandaşla kavga etmek, onları tehdit etmek değil,<br />
+Onları onları bir baba şefkati ile kucaklamak, hoş görü ile yaklaşmak ve<br />
+Gerektiğinde onlara hesap vermek demektir.<br />
+Mustafa Kemal Atatürk…</p>
+<p>Demek ki, neymiş? Ekonomik özgürlüğünü kaybetmişsen, “Dış Gücü” dışarıda değil, kendi içimiz de aramalıymışız.<br />
+Kendi özümüze döneceğimiz, hiçbir gücün bize dayatması ile değil başta bizi yönetenler olmak üzere, tüm ülke olarak savurganlığı bırakıp, başta tarım ve sanayi üretimine destek vereceğimiz, hazinemizi tüketen ithalata (Dış alıma) son vereceğimiz yeni bir devlet politikası belirlemeliyiz.<br />
+Son haftalarda yaşanan ekonomik kriz ve dalgalanmaların biterek, güven ortamının oluştuğu günleri görmek dileğiyle sağlıklı bir hafta diliyorum.<br />
+20.12.202<br />
+SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="1038-samsunlu-romanlara-kiymayiniz.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="../2022/1040-millet-i-ttifaki-tarafi-buyuk-bir-kurgu.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

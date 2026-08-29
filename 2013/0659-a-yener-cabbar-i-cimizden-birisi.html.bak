@@ -1,0 +1,320 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>A. Yener Cabbar İçimizden Birisi</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+A. Yener Cabbar İçimizden Birisi
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2013
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0659
+
+</div>
+
+
+<div class="article-content">
+
+<p>"   A. YENER CABBAR<br />
+21.09.2013 16:12 - 339 kez okundu</p>
+<p>A. YENER CABBAR<br />
+Samsun'da siyaset, çevrecilik, kentçilik, hem? ericilik, tarihi, kültürel, sosyal çal?? malarda 'hakk? n? vererek' yer alan bir kaç isimden biridir;<br />
+Entelektüel ki? ili? iyle de ? ehrin ç? karlar? n? bütünle? tirebilen ve bunu içselle? tiren ender ki? ilerden biridir..</p>
+<p>Sözünün arkas? nda duran, tavr? n? ç? kar do? rultusunda asla de? i? tirmeyen, gerekti? inde restini çekebilecek kadar da net bir ki? iliktir..</p>
+<p>Her devrin adam? de? il, inand? klar? ölçüden ? a? mayan 'do? ru adamd? r' O..</p>
+<p>Siyasete 'olmal? s? n dediler' girdi..</p>
+<p>Karayalç? n'? n önerisiyle SHP'den 1994'de Büyük? ehir Belediye Ba? kan aday? oldu..</p>
+<p>Ama 'siyasetin içinde kalamayaca?? n? anlamas? için' ikinci kez denemesi gerekene kadar da 'bekledi'..</p>
+<p>CHP'de il ba? kan yard? mc? l??? yapt?..</p>
+<p>Sonra siyasetten olmasa da 'aktiflikten uzakla? t?'..</p>
+<p>Samsun'un sorunlar? n? masaya yat? ran çok önemli bir vakf? kazand? rd?...</p>
+<p>SAM-SEV'?..</p>
+<p>4 ve 10 y? l olmak üzere 14 y? l ba? kanl??? n? üstlendi..</p>
+<p>Samsun'da belki de en istikrarl? kö? e yazarl??? n? o yapt?..</p>
+<p>Hedef Halk Gazetesi'nde her Pazartesi günü 5. sayfada yerini ald?..</p>
+<p>Türkiye ve Samsun 1 kitab? ndan sonra ? imdi o yaz? lar? n? da toplad? Türkiye ve Samsun 2 ve 3. kitaplar? n? yazd?..</p>
+<p>Adeta Samsun'un haftal? k raporunu yay? nlad?..</p>
+<p>Ne ararsan var içinde..</p>
+<p>Samsun'un ya da Türkiye'nin gündeminde yer alan her konuyu kö? esine ta?? d?..</p>
+<p>Hangi hafta hangi sorunlar varsa tarihe not dü? tü.. Ama ötesinde yorumlad?..</p>
+<p>Dün de misafirimdi ve kitaplar? n? imzalayarak hediye etti.</p>
+<p>Elbette Sadi Suba??'dan söz ediyorum..</p>
+<p>Eczac? Sadi Suba?? demek bana göre 'onun bu aktif ya? am? n?' k? s? tlamak olur..</p>
+<p>O nedenle Sadi Suba?? diyorum..</p>
+<p>De? erli e? i Nur Suba?? da Nam? k Kemal Lisesi'nden tarih ö? retmenimdir..</p>
+<p>O nedenle benim için ayr? bir yeri vard? r Suba?? soy isminin ama..</p>
+<p>Ancak Sadi Suba?? isminin de Samsun'da özel bir yeri vard? r..</p>
+<p>Kendisini bu iki de? erli eserinden dolay? kutluyorum..</p>
+<p>Ve 'onlar? da yaz Sadi abi dedi? im' günlük notlar? n? da, kitapla? t? rmas? n? bekliyorum..</p>
+<p>Ve bu kö? e yaz? s? n? yazarken, o kitaplar? ndan notlara göz gezdirirken, adeta 2008 - 2013 y? llar? n? yeniden ya?? yorum..</p>
+<p>Ellerine sa? l? k..</p>
+<p>Samsun'a harika iki eser daha kazand? rd??? n için..</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0658-devletin-uvey-evladi-samsun.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0660-lutfen-bu-yanlisa-hep-birlikte-dur-diyelim.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>İyi ki Varsın Gisella</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+İyi ki Varsın Gisella
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2005
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0159
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>İYİKİ VARSIN BAYAN GİSELLA</p>
+<p>Bugün sizlerle iyi bir insanın yapmaya çalıştığı güzellikleri paylaşmak istiyorum. Bazı dostlarımın sevmediği bir deyimi bayan Gisella için de kullanacağım. Bayan Gisella taşın altına elini sokarak toplumumuzun önemli bir sorununa çare arama girişimini başlatmıştır. Sevdiğim bir arkadaşımın eşi olduğu için kendisine izniyle adıyla hitap etmek istiyorum. Gisella’yı bu sütunlara taşımamın nedeni toplumumuzun çok ilgi duymadığı bir konuda bizden birisi olarak gösterdiği örnek davranış. Sevgili Gisella’yı eş olarak seçip, Almanya’dan ülkemize gelmesine neden olan sevgili Mazhar Başoğlu’na da Samsunlular olarak teşekkür borcumuz olduğuna inanıyorum.<br />
+Böyle bir köşe yazısına nereden esinlendim önce onu anlatayım. Geçen hafta içinde birgün işyerime uğrayan sevgili Gisella bir davetiye uzatarak başkanlığını yaptığı derneğin bir müzik gecesi düzenlediğini , alıp almayacağımı sordu? Zaman zaman bu tür çalışmalarını çok yakından olmasada izlediğim Gisella’ya olur dedim. Ama davetiyeyi incelediğimde iki kez çok mutlu oldum. Birincisi çok yararlı bir amaçla düzenleniyordu. İkincisi gecede bazıları bizim kuşağın müzisyenleri olmak üzere Samsun’un önemli ve tanınmış isimleri de taşın altına ellerini sokmuş ve bu amaç uğruna geçmişin nostaljik parçalarını davetlilere sunacaklardı. Tabii ki geliri Gisella’nın ve arkadaşlarının öncülük ettiği bir tomlumsal yaraya merhem olacaktı. Eşim ve dostlarımla inanılmaz bir gece geçirdik. Böylesine güzel bir amaca hizmet için profosynellere taş çıkartan ‘’Dinazorlar Grubu’’nun müzisyenleri , Mazhar Başoğlu, Ali Utkan, Şevki Ustaoğlu, Tarık Başoğlu ve Almanya’dan katkı vermek için gelen Ercüment Bayrakkartal’dan oluşuyordu. Kendilerine öncelikle böylesine güzel bir amaca verdikleri destek için ve de bize 1960-1970 li yılları yaşattıkları için gönül dolusu teşekkürler.<br />
+Gisella iki yıl kadar önce toplumsal bir yaramızın sarılması için bir avuç arkadaşı ile bir dernek kuruyor ve Samsun Soysal Hizmetler İl Müdürlüğünün destek ve koordinasyonu ile çok güzel bir çalışmayı başlatıyordu. Kurdukları ‘’Çalışan Çocukları Koruma Derneği’’ çatısı altında evlerine katkı sağlamak adına sokaklarda çeşitli şeyler satan yaşı küçük çocukları korumaya çalışıyorlardı. Özellikle yaşı küçük olan bu çocuklar sokaklarda sürdürdükleri satışlar sırasında, yanlış arkadaşlıklar kurarak bir türlü kontrol altına alınamayan sokak çocuklarının arasına katılabiliyorlardı. Tabii ki sonları tiner ve uyuşturucu bağımlılığı ile başlıyor ve cezaevinde veya ölümle bitiyordu.<br />
+Bu çocukların bir kısmı henüz okullarını terketmemişlerden oluşuyordu. Devletimiz bu konudada çaba gösteriyor ama yeterli olmuyordu. Sosyal Hizmetler il Müdürlüğünün bu konudada büyük çaba harcadığını ve her platformda özellikle sivil toplum kuruluşlarından destek istediğini yakından bilenlerdenim. İşte bu konuda Samsun Sosyal hizmetler İl Müdürlüğü eski Çocuk Esirgeme Kurumunun kullandığı Saadet caddesi ile Ağabali caddesinin kesiştiği köşedeki binasını bu işe tahsis etmişti. Kurulan dernek ve il müdürlüğü ortaklaşa bir programla 190 civarında çocuğu bu çatıda toplamayı başarmıştı. Bu çocukların 80-90 tanesi yoğun olarak, geri kalanı ise zaman zaman ,, ama yaklaşık 25-30 tanesi muntazam hergün devamlı geliyordu. Bu çocuklar okuldan ve sokakta yaptıkları satış dışında kalan sürelerini burada hayatlarında hiç tatmadıkları güzellikleri yaşayarak geçiriyorlardı. Bu çocuklara bu merkezde yemek yiyebilme, çeşitli bilgisayar oyunları oynayabilme ve ders çalışabilme olanakları sağlanıyordu. Sosyal Hizmetler İl Müdürlüğü eğitim uzmanları ve psikologları da gereken desteği sağlıyordu. Okullarında ders durumları iyi olmayanlara kurslara gidebilme olanağı yaratılıyordu. Bu derneğe destek veren bayanlar evlerinde yaptıkları pasta ve çeşitli yiyecekleri bu çocuklara sunuyordu. Geçtiğimiz çarşamba akşamı müzik şöleni öncesi bunları anlatan Gisella’nın bu çocukları sinemaya götürmek istediklerini ve bazı çocukların ilk kez gidecekleri sinemadan korkarak gitmediklerini, ama sonradan gidenlerin anlattıklarının etkisi ile şimdi gitmek istediklerini anlatırken, yaşadığı heyecan bu işten nekadar mutluluk duyduklarını göstermeye yetiyordu. Hayatlarında hiç lokantaya gitmemiş olan bu çocuklar toplu olarak  lokanta işletmecisi dostlarımızın daveti ile lokantalara götürülmüşlerdi. Sanırım yapılmak istenen bu çocukların ileriye dönük amaçlarının olmasını sağlamaktı. Hedef ve beklentilerini değiştirmekti amaç. Deniz yıldızı öyküsünde olduğu gibi kaç çocuğu kurtarırsak kardır diyorlardı.<br />
+Bu dernek çalışmasında Gisella’nın yanında yer alan ve ortak çaba harcayan Füsun Uzel, Yasemin Zeren, Nükhet İyigün ve Esin Çerezci’yide yürekten kutluyorum. Bu insanlara destek vermek borcumuz. Bu toplumun bir yerlere getirdiği bizlerin de bu topluma borcumuz olduğuna inanlardanım. Bu dostlarımızın hem maddi hemde moral desteğine ihtiyacı olduğunu biliyorum. Başta yiyecek , eğitim ve kurs desteği olmak üzere merkezlerinin fiziki şartlarının iyileştirilmesine katkı verebiliriz. İşyerlerimizde değişim nedeniyle devre dışı kalan bilgisayarlarımızı, büyüyen çocuklarımızın play-station tipi bilgisayar oyunlarını onların kullanımına sunabiliriz. Onlara değişik ortamlarda yemek yeme ve eğlenme olanağı sağlıyabiliriz. Hepsinden de önemlisi başta Gisella olmak üzere diğer yönetici arkadaşlarımızla görüşüp nasıl destek olunacağını direk kendilerinden öğrenebiliriz. Bu arada Samsun Sosyal Hizmetler İl Müdürü sayın Muzaffer Çelik’e de ayrıca teşekkür etmek istiyorum. Samsun’a geldiğinden beri görev alanına giren konularda büyük özveri gösteriyor. Sivil toplum kuruluşları ile iletişimi kesmiyor. Gördüğüm kadarı ile bu konudada gerekli desteği sağlıyor.<br />
+Böylesine toplumsal işler çoğu insanımız tarafından angarya olarak görülüyor. Mutlaka birilerinin öne çıkıp önderlik yapması gerekiyor. Sivil toplum hareketinin henüz ülkemizde çok iyi anlaşılamamasının doğal sonucu olarak bazılarına büyük özveri göstermek düşüyor. İşte bu nedenle Gisella’nın çabasını çok önemsiyorum ve bugün onu bu sütunlara taşıyorum. Bir başka ülkenin kültüründen geleceksin, bu ülkenin geleneklerine ve şartlarına çok güzel uyum sağlayacak ve bizlerden biri olacaksın. Sonrada kalkıp benim çoğu insanımın bile yapamadığını yapma çabasında önderlik edeceksin.<br />
+Kendi adıma sana ve arkadaşlarına destek olmak bizimde borcumuz. Teşekkürler sana örnek insan. İyiki aramızdasın.<br />
+İyi haftalar..13-Mart-2005</p>
+<p>NOT; Kapasite yetersizliği nedeniyle e-mail adresimi daha kapsamlı özel bir paketle değiştirdim. Eski adresim bir süre daha açık kalacak olup kullanacak olan okuyucularımdan bundan böyle yukardaki yeni mail adresimi kullanmalarını rica ediyorum.</p>
+<p>SADİ  SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0158-samsun-yalnizligi-hak-etmiyor.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0160-sam-sev-genel-kurulunun-ardindan.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

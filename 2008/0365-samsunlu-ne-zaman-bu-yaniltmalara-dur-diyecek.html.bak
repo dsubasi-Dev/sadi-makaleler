@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Samsunlu Ne Zaman Bu Yanıltmalara Dur Diyecek</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Samsunlu Ne Zaman Bu Yanıltmalara Dur Diyecek
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2008
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0365
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>SAMSUNLU, YANILTILMASINA NE ZAMAN DUR DİYECEK?</p>
+<p>Samsunlu yıllardır “cek-cak’larla” kandırılmaya devam ediyor. Ne yazık ki, bu kandırmaca da kandıranların becerisi kadar kandırılmaktan usanmayan biz Samsunluların da çok önemli sorumluluğu olduğuna inanıyorum. Son kırk yılda iktidarlar değişmiş ama Samsun’un kaderi bir türlü değişmemiştir. Her gelen iktidar Samsun’a arka bahçesi gibi bakmıştır. Samsun için önemli bir proje gerçekleştirsin veya gerçekleştirmesin Samsunlu her seçimde iktidar olan partiye gözü kapalı destek vermeyi sürdürmüştür. Toplumumuzda var olan, her türlü vaade çok kolay kanma” zaafının, siyasi anlamda Samsunlu da en üst seviye de olduğu görülmektedir. Bu bir anlamda da, Samsunlunun kötü kaderine razı olduğunun göstergesidir.<br />
+Samsunlu, seçimlerde çocuklarının geleceğini düşünerek ne yapması gerektiğini, nasıl bir tepki koyarak bu kaderi değiştireceğinin hesabını yapmazsa, bu gidişin değişmesini beklemeye ve şikâyetçi olduğu sorunlardan kurtulma şansı da olmayacaktır.<br />
+Son yıllarda Samsun’un kentsel güzelleşme adına kazanımlarını bu söylediklerimin dışında tutuyorum. Bazı çok önemli yanlış projelere, inatlaşmayla sürdürülen bazı yapılaşmalara, araç trafiğinin çalışamaz hale geldiği sokak ve caddelerine, otopark yetersizliğine ve kent adına söylemleri olan sivil toplum kuruluşlarını yok sayan anlayışa rağmen, Samsun’un görüntüsünü değiştiren, Samsun’un bir deniz kenti olduğunu hatırlatan güzellikleri tabii ki alkışlıyorum. Ancak bunlar Samsunlunun karnını doyurmuyor.<br />
+Sayın vekillerimizin bazıları Samsun’un yatırımlar kenti olduğunu, Sayın Başbakan R. Tayyib Erdoğan’ın elinin Samsun’un üstünde olduğunu müjdelemeyi sürdürüyorlar. Yıllardır bu hikâyeleri dinliyoruz. Artık bende Samsun’u himayesine alan bu elleri görmek istiyorum. Bu nasıl bir destektir ki, Samsun her geçen gün geri gidiyor ve bir şeylerini kaybediyor.<br />
+Ellerini üzerimizden çekmeyen Sayın Başbakan bölgemiz de bir tek Samsun’a teşvik olanağını vermiyor. Tüm illerin kovduğu, her biri kanser üretim merkezi olacak mobil ve termik santraller Samsunluya dayatılıyor. En önemli gelir kaynağı tütün elinden alınıyor. Sayısı zaten çok az olan sanayi tesisleri ve bölge müdürlükleri kapatılıyor. Samsun-Ceyhan boru hattının merkezi bir anda Enerji Bakanının memleketine uçuruluyor. Tüm bunlar olurken bizim haklarımızı korusunlar diye TBMM gönderdiğimiz vekillerimizden tık yok. Hiç birisinin genel başkanlarına bunu soracak gücü yok.<br />
+Vekillerin sesi çıkmıyor da, Samsunlunun sesi çıkıyor mu? Anlı şanlı sivil toplum kuruluşları ne yapıyor? Onlarda günlük kişisel çıkarlarının zedelenmemesi için halktan yana olmak yerine, siyasi otoriteye biat etmeyi sürdürüyorlar. Lütfen herkes şapkasını önüne koyup düşünsün. Bu işte bir gariplik yok mu?<br />
+Samsun’da benimle birlikte bazı köşe yazarları ve bir iki STK dışında tepki koyan var mı? Peki, ben ve benim gibi düşünenler bu kentin düşmanı mı? Bizleri karamsar yaklaşımla suçlamak yanlışları ortadan kaldırıyor mu? Birileri istediği kadar pembe tablolar sunarak Samsunluyu uyutmaya devam etsin. Bir gerçek var ki, güneş balçıkla sıvanmıyor.<br />
+Değerli dostum 19 Mayıs Üniversitesi Öğretim Üyesi Sayın Şerafettin Özışık akademisyen ve iyi bir Samsunlu olmanın sorumluluğu ile kötü gidişi sayısal verilerle kaç kez köşesinde yazdı, kamuoyuna açıkladı. Sanmıyorum ki, bu kent adına sorumluluk alan hiç kimse, kendisini çağırıp da bilgisine başvurmuş olsun.<br />
+VE RESMİ AĞIZDAN ACI GERÇEK..<br />
+Nihayet geçtiğimiz hafta Türkiye’nin iki önemli kurumu, bizlerin yıllardır üstüne basa basa söylediklerimizi resmi ağızdan tüm Türkiye’ye duyurdu. Bu kurumlardan birisi olan DPT ( Devlet Planlama Teşkilatı) Türkiye’nin göç haritasını ve sonuçlarını açıkladı. Sonuç Samsun adına yüz kızartacak bir tespitti. Türkiye’nin en çok göç veren üç ili Urfa, Diyarbakır ve Samsun. Adımız Türkiye gündemine bir kez daha kötü imaj yaratacak bir veri ile düştü. Samsun’un adının bu illerle anılması da mı kimseyi rahatsız etmiyor? Anlamak mümkün değil.<br />
+Şimdi, bu kentin şaha kalktığını müjdeleyenlere soruyorum; Bu mu şaha kaldırdığınız Samsun? Urfa ve Diyarbakır adı konmamış bir savaşın yaşandığı bölgenin illeri. Bu illerin PKK terörü nedeniyle göç vermesi hiç de yadırganacak bir şey değil. Ya Samsun? Karadeniz’i Anadolu’ya bağlayan dört ulaşım yoluna, ülkemizin en verimli iki ovasına, iki yanında akan çok önemli iki ırmağa, Türkiye’nin en güzel kumuna ve sahillerine, 19 Mayıs gibi çok önemli bir misyona sahip olacaksın ve terör bölgesinin iki ili ile birlikte en fazla göç verme rekorunu kıracaksın.<br />
+İki yıl önce Samsun’un teşvik dışında bırakıldığı günlerde, Havza ve Vezirköprü İlçelerimiz Amasya’ya bağlanmak için ayağa kalkmıştı. SAM-SEV olarak oralara gidip olan biteni rapor halinde kamuoyuna açıklamıştık. Geçtiğimiz günlerde de yanılmıyorsam Vezirköprü’nün Tahtaköprü Köyü’nün Osmancık’a bağlanmak için halk oylaması yaptığı duyuldu.<br />
+Samsun’un iç sızlatan haline bakar mısınız? İlçelerin, köylerin senden umudu kesmiş. Toplu göçe kalkışıyorlar. Samsun adına ne utanç verici bir tablo. Bu tablo karşısında kenti yöneten ve temsil edenlerden bir girişim yapıldığını duyanınız oldu mu?<br />
+Yine geçtiğimiz hafta içersinde Samsun İŞ-KUR İl Müdürü Sayın Tahsin Bayar, bir grup işadamının yaptığı ziyaret sırasın da, “ iş göçü veren bir kentiz, işgücü çok ucuz, her evde bir işsiz var, emekli şehri haline geldik” diye Samsun’un gerçek yüzünü resmi ağızdan açıklamıştır.<br />
+Bunları söylemek karamsar tablo çizmek değildir. Ayıp hiç değildir. Bu gerçeğin ta kendisidir. Asıl ayıp olan pembe tablolarla Samsunluyu yanıltmaktır.<br />
+Samsunlu işsiz. Samsun’da ki işsizlik oranı Türkiye ortalamasının üzerinde. Genç kuşak Samsun’a dönmüyor. Samsunlu Samsun’dan kaçıyor. Samsun eriyor. Bu kötü gidişi durdurmakla görevli olanların, bunları söyleyenleri suçlamak yerine kolları sıvamaları zamanıdır. Aksi halde her ortamda söylediğim gibi, “bu kentin siyaseten iflas etmiştir” gerçeğini artık herkesin kabullenmesi ve siyaset yapanların bu sorumluluğu üstlenmesi zorunludur.<br />
+Hala zaman var. Samsun adına siyaset ve yöneticilik yapanların kararlı ve dik durarak, arkalarından güzel sözlerin söyleneceği bir Samsun bırakmaları, en azından bu yönde çaba harcamaları en büyük beklentidir. Bunun da Samsunlunun hakkı olduğuna inanıyorum. Güzelliklerde buluşmak dileğiyle… 29 Haziran 2008<br />
+SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0364-termik-santral-sevdasinin-nedenleri.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0366-samsun-gundeminden-cesitlemeler.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

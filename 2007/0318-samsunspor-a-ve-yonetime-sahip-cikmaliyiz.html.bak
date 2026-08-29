@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Samsunspor&#x27;a ve Yönetime Sahip Çıkmalıyız.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Samsunspor&#x27;a ve Yönetime Sahip Çıkmalıyız.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2007
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0318
+
+</div>
+
+
+<div class="article-content">
+
+<p>SAMSUNSPOR’A VE YÖNETİME SAHİP ÇIKMAK GÖREVİMİZ<br />
+OLMALIDIR..</p>
+<p>Çok değil iki ay kadar öncesine kadar kulübe sahip çıkacak bir yönetimin bulunamaması nedeni ile Samsunspor’un içine düştüğü umutsuz durum, henüz unutulmamıştır sanıyorum. Samsunspor kayyuma gitmesin diye Valimiz Sayın Hasan Basri Güzeloğlu büyük çaba göstermiş, hatta yardımcısının başkanlığı üstlenmesine dahi razı olmuştu. Ancak İçişleri Bakanlığının izin vermemesi nedeni ile bu geçici çözüm yolu da kapanmıştı. Bu dönemde yaşanan çaresizlik içinde ne yapmak istediği anlaşılamayan birileri yurt dışından getirilerek Samsunspor’a başkan yapılmak istenmiş, ne var ki bunlarda fiyasko ile sonuçlanmıştı.<br />
+Yönetim belirsizliği devam ederken transfer sezonunun sonu yaklaşmış, eldeki oyuncularda sezon içinde gerekli sözleşmeler yapılmadığı veya yapılamadığı için birer ikişer kulübe bir kuruş para kazandırmadan kulübü terk etmişlerdi.<br />
+İşte böylesine bir karamsar tablo devam ederken, işyeri İstanbul’da olan genç işadamı Sayın Sezgin Gümüş yanına aldığı arkadaşları ile Samsunspor’a sahip çıkmış ve Samsunspor’u sonu karanlık bir kuyudan çıkartmıştır. Kısa bir sürede yapabildikleri bir iki transfer ve eldeki kalan çoğu alt yapıdan gelen oyuncularla Samsunspor’u lige hazır hale getirmişlerdir. Bu arada yine Samsun’un önemli işadamlarından olan Sayın Galip Öztürk’ünde desteğini sağlamışlardır. Yeni bir teknik direktörün de takımın başına getirilmesi ile başlanan ligde bana göre hiç de küçümsenmeyecek bir başarı yakalanmıştır.<br />
+Bu yönetimin ve teknik kadronun adeta küllerinden yarattığı yeni Samsunspor’un şampiyon olup olmaması bu aşamada hiç de önemli değildir. Önemli olan bu kadronun takım olma yönünde gösterdiği umut verici çabadır.  Geride kalan iki yıla baktığımızda, takımın içine düştüğü durumun yapılan hatalar ve beceriksizlikler sonucu olduğunu bugün çok daha iyi görebiliyoruz. Bir yönetimin ve teknik kadronun en önemli görevi, eldeki oyuncuları iyi motive etmek ve onlardan azami verimi almak olmalıdır. Elinizde Türkiye’nin en önemli bir iki golcüsünden birisi olan            ( Serkan Aykut ) bulunacak ve siz onu bir tek maça bile çıkartamayacaksınız. Nedeni sorulunca da bir sürü bahane anlatacaksınız.  Bu yönetim aynı oyuncuyu maç eksiğine rağmen sahaya çıkartabiliyor ve kırılan kaburgasına rağmen oynamak için can atacak kadar motive edebiliyor ve Serkan da golleri sıralıyorsa bu yönetim çok iyi yolda demektir.<br />
+Çok değil iki yıl önce Samsunspor için “düşse de kurtulsak” diyebilen kent yöneticilerinin bulunduğu Samsun’da, bugün bu takıma sahip çıkma cesaretini gösterenler varsa, bunlar alkışlanmalı ve çok daha önemlisi yetkili yetkisiz herkes üzerine düşen destek görevini yerine getirmelidir.<br />
+Toplum olarak en büyük hastalığımız yine ortaya çıkmış bulunuyor. İki ay önce ”ne olacak bu takımın hali” diye dövünenler kenara çekilmiş gözüküyor. Nasıl olsa birileri bu işi üstlendi diye bugün kenara çekilmeye hiç kimsenin hakkı yoktur. Bu yönetimin ve de teknik kadronun para kadar belki daha da çok, moral desteğine de ihtiyacı vardır. Hiç olmazsa kendilerini yalnız hissetmelerine neden olunmamalıdır.<br />
+Bu satırları yazmamın nedeni, geçtiğimiz pazar günü yaşadığım yalnızlıktır. Bilindiği gibi Samsunspor yönetimi gazetelere ilan vererek     16 Ekim 2007 Pazar günü saat 13.00 de kulüp tesislerinde bayramlaşma duyurusu yapmıştır. Aynı gün saat 16.00 da Elazığ maçının da olması nedeni ile zamanlama da çok uygundu. Saat 14.00 sularında tesislere gittiğimde gördüğüm manzara üzüntü vericiydi. Ben maçı da göz önüne alarak biraz gecikmeli gitmiştim. Sorduğumda aldığım cevap görünen tablonun çok da farklı olmadığını gösteriyordu. Desteğini hiç eksiltmeyen Valimiz Sayın Hasan Basri Güzeloğlu, Milletvekilimiz Sayın Fatih Öztürk ile Emniyet Müdürü Sayın Mustafa İlhan gelerek bayramlaşmış ve kısa süre kalarak gitmeleri gereken başka ziyaretler için kulüpten ayrılmışlardı.<br />
+1.5 saat kaldığım kulübe gelen protokol onlarla sınırlı kalmıştı. Protokol yoktu da Samsunlular var mıydı?  Ne yazık ki onlarda yoktu. Bunlara karşılık daha dört gün önce Ayvacık’ta toprağa verdiğimiz PKK terörünün kurbanı şehidimiz Seyfi’nin babası, amcası ve dayısı büyük acılarına rağmen Samsunspor Yönetimine destek vermek ve bayramlaşmak için oradaydılar.<br />
+Ramazan ayı içersinde Kutlukent Belediye Başkanlığının Samsunspor adına düzenlediği iftar yemeğine de katılımın çok düşük oluşu, başta Başkan Sayın Sezgin Gümüş olmak üzere yönetimi derinden yaralamıştı.<br />
+Köşemden kentimizin yöneticileri ile tüm sivil toplum kuruluşlarına ve spor adamlarına sesleniyorum ve parasal destek verebilecekler veya kaynak yaratabilecek olanların büyük küçük demeden Samsunspor Yönetimine bu desteği esirgememelerini rica ediyorum. Ama hepsinden önemlisi taşın altına elini sokan bu arkadaşlarımızı yalnız bırakmamamızın, kulübü ziyaret ederek, antrenmanlara giderek moral desteği vermemizin de çok önemli olduğunu düşünüyorum. Başkanı olduğum SAM-SEV olarak elimizden gelen olanakları Samsunspor’umuzun emrine sunma kararı aldığımızı ve bu konuda ciddi destekler de sağlamaya başladığımızı duyurmak istiyorum. Önümüzdeki günlerde Samsunspor Yönetimi ile SAM-SEV Yönetimi olarak bir araya gelecek daha kapsamlı neler yapabileceğimizi karşılıklı olarak görüşeceğiz.<br />
+Samsunspor küme düşerse Samsun da küme düşer dendiği zaman dudak bükenler, sanıyorum günümüzde Samsun’un nasıl Türkiye gündeminden düştüğünü görüyorlardır. Samsun bu ligde daha uzun süre kalmayı kabul edemez. O nedenle kim, nasıl destek verebiliyorsa bu desteği vermeyi görev kabul etmelidir.<br />
+Zor şartlara rağmen en büyük desteği aksatmadan veren taraftarlarımıza özellikle teşekkür etmek istiyorum. Onların gösterdiği çabayı tüm Samsunluların da göstermesini ve tribünleri doldurarak, antrenmanlara giderek yönetim kurulunun yanında olduğumuzu göstermeliyiz.<br />
+Kulübümüzün içinde bulunduğu ekonomik sıkıntıya rağmen son iki yıla göre çok daha inançlı oynayan ve kazanma hırsını sahaya yansıtan sporcularımızı da yürekten kutluyorum.<br />
+Kentimizin yöneticileri başta olmak üzere, sivil toplum kuruluşları ve basınımızın bugüne kadar verdikleri desteği daha da artırarak sürdürmeleri halinde, Samsunspor’un eski gücüne ulaşacağına inanıyorum.<br />
+Sevgili Sezgin Gümüş Başkanım, sizin ve yönetiminizin Samsun olarak yanınızdayız. Yalnız olmadığınızı biliniz. Son önerimi de sizlere yapmak istiyorum. Lütfen! Sizde boş kalan zamanlarınızda kent yöneticilerini ve sivil toplum kuruluşlarını ziyaret ederek bugüne kadar hiç denenmeyen ve başarılamayan bu iletişimi kurunuz. Göreceksiniz kurulacak sıcak ilişkilerin yansıması da çok güzel olacaktır.<br />
+Samsunspor’umuza hafta sonu oynayacağı Gaziantep Belediye maçında başarılar diliyorum. İyi haftalar..<br />
+19 Ekim 2007<br />
+SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0317-durdurun-artik-su-katliami.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0320-gerileyen-samsun-ve-siyasetteki-yeri.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

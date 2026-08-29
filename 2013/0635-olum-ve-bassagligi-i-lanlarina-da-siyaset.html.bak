@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Ölüm ve Başsağlığı İlanlarına da Siyaset</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Ölüm ve Başsağlığı İlanlarına da Siyaset
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2013
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0635
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>ÖLÜM VE BAŞSAĞLIĞI İLANLARIN DA SİYASET</p>
+<p>Geçtiğimiz hafta başında Samsun’da önemli bir cenaze töeni vardı.<br />
+TBMM’ in de Samsun’u üst üste tam beş dönem ( 12, 13, 14, 15, 16. dönemler) CHP milletvekili olarak temsil eden eski milletvekili İlyas Kılıç vefat etmiş ve cenazesi Samsun’da kaldırılmıştı.<br />
+Merhum İlyas Kılıç milletvekili olarak Ankara’da bulunduğu tüm dönemlerde Samsunluların baş vurduğu isimdi.<br />
+Özellikle de önemli sağlık sorunlarının Ankara’da çözülebildiği dönemlerde ankara’ya gidenlerin yardımına koşan, onların hastanelere ve hekimlere ulaşmasını sağlayan isimdi. Hatta hastaları zaman zaman evinde konuk ettiği dahi söylenirdi.<br />
+Belki de sadece bu özelliği O’nu her seçimde vazgeçilmez yapmaya yetmişti. İyi bir CHP’ liydi. CHP’li olmayanlara da yardımdan kaçınmadığı için CHP’ li olmayanlar tarafından da sevilmişti.<br />
+Merhum İlyas Kılıç milletvekiiliği sonrası Ankara’da kalmış ve yaşamını orada sürdürmüştü.<br />
+CHP’ de böylesine sevilen ve sayılan merhum İlyas Kılıç’ın CHP içinde ki prestiji, 2011 Genel Seçimleri ile büyük ölçüde sarsıldı.<br />
+Torunu Sayın Akif Çağatay Kılıç’ın adının AKP’ den Samsun Milletvekili adayı olarak geçmeye başlaması ile CHP’ de bir burukluk yaşanmaya başladı.<br />
+Fakat CHP’ler arasında ki asıl tepki, seçim sürecine girince yaşandı. Çünkü seçim sürecine girilmesi ile birlikte merhum İlyas Kılıç  Samsun’da ki dostlarını arayarak torunu için oy istemeye başlamıştı.<br />
+Aradıklarının arasında yıllarca O’nu TBMM’ ne taşıyan çok sayıda CHP üyesi de vardı. Onlara ve CHP’ne karşı bu vefasızlığı göstermesi kendisi adına büyük bir şanssızlık olmuştur.<br />
+Anlaşılan merhum ilerleyen yaşının da etkisi ile ailesinden bir milletvekili daha çıkacak olmasının heyecanına kapılmış ve siyasette hiç de yapılmaması gereken bu hatayı yapmıştı.<br />
+İşte, cenaze töreni öncesi ve sırasında yaşananlarda bunun göstergesiydi.<br />
+Cenazesinin yıllarını verdiği CHP’nin öncülüğünde kaldırılmasının daha doğru olacağı bir ortamda, cenaze töreni hazırlıklarında CHP’nin dışlanması da, CHP camiasıında büyük bir hayal kırıklığı yaratmıştır.<br />
+Doğru olan, ailesinin bu cenaze töreninin CHP tarafından düzenlenmesini istemesiydi.<br />
+Veya torununun partisi AKP ile O’nu İlyas Kılıç yapan CHP’nin cenaze törenini birlikte düzenlemesiydi. Ne yazık ki hiç biri olmadı.<br />
+Bu nedenle de, CHP teşkilatı cenaze törenine kısıtlı olarak katılmış ve gazetelere de duyuru ve başsağlğı ilanları verilmemişti.<br />
+Bu işin bir yanıydı. Daha da ilginç diğer yanı ise, bu cenaze töreni öncesi ve sonrasında yaşananlardan çıkartılacak mesajlardı.</p>
+<p>Cenaze öncesi ve sonrasında verilen baş sağlığı ilanları da Türkiye’ de ki siyasetin ne kadar yozlaştığının bir başka göstergesi olmuştur. Cenaze töreni dahi, siyasetin o çirkin yüzüne mahkum edilmiştir.<br />
+Başşsağlığı ilanlarının hemen hepsi, AKP teşkilatları ve belediyeleri ile AKP’ e göz kırpan sivil toplum kuruluşları tarafından verilmişti.<br />
+Daha da çarpıcı olan şey, ilan metinlerinin hepsinde de bu kent adına tam beş dönem milletvekili olarak temsil ettiği CHP’nin adına yer verilmemiş olmasıdır.<br />
+Yazılan tüm metinlerde “AKP Milletvekili Sayın Akif Çağatay Kılıç’ın dedesi olduğu ve 12, 13, 14, 15, 16. dönemlere Samsun Milletvekilliği yaptığı” yazılmıştır.<br />
+AKP Milletvekili Sayın Akif Çağatay’ın dedesi olduğunun vurgulanması ne kadar doğru ise, hangi parti adına milletvekilliği yaptığının vurgulanmasından kaçınılması da, bir o kadar yanlış olmuştur.<br />
+Hele de bazı sivil toplum kuruluşlarının da, bu töreni fırsat bilerek iktidara yakınlıklarını vurgulama çabasına girip, aynı metinleri kullanarak siyaset yapmaları hiç yakışık almamıştır.</p>
+<p>Siyaset yapanlarla ve siyaset yapacakların, Merhum İlyas Kılıç’ın ölümü sonrası yaşananlardan çıkartacakları çok önemli mesajlar vardır.<br />
+İlk mesaj, siyasetin hata affetmediği ve yıllar verilerek kazanılan sevgi ve saygının bir anda yerle bir olabileceğidir.<br />
+İkincisi ise, siyasetçinin sadece siyasetin içinde olup nimetlerinden yararlanırken değil, sonra ki yaşamında da kendisini oralara getirenlere olan vefa borcunu unutmaması gerektiğidir.<br />
+Üçüncüsü de, gelecek beklentisi ile “Koşan ata binme sevdasının” insanlara uzun vade de prestij kazandırmayacağı gerçeğidir.</p>
+<p>Siyaset yapanların ve de yapacak olanların, bu konuda kurt politikacı, eski Cumhurbaşkanı Sayın Süleymen Demirel’in siyasi vefa konusunda ki duyarlılığını örnek almalarını öneriyorum.</p>
+<p>Sanıyorum bu gelişmeler en az CHP’liler kadar  Merhum İlyas Kılıç’ın aile fertlerini de üzmüştür.<br />
+Merhum İlyas Kılıç’a Tanrı’dan rahmet, kederli ailesine de sabırlar diliyorum.<br />
+Ölümlerde değil, güzel olaylarda buluşmak dileğiyle, iyi haftalar.. 28. 04. 2013</p>
+<p>İnsanlar, dünyada çabuk yükselen şeylere değer verirler ama hiçbir şey toz ve tüy kadar çabuk yükselmez.<br />
+Horace Mann</p>
+<p>Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0634-akil-adamlarin-gorevi-kimi-nasil-i-kna-etmek.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0636-lutfen-biraz-edeb-biraz-saygi-ve-biraz-i-nsaf.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

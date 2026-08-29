@@ -1,0 +1,300 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Yerel Yöneticilerin Sorumluluğu ve Samsun…</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Yerel Yöneticilerin Sorumluluğu ve Samsun…
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2007
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0322
+
+</div>
+
+
+<div class="article-content">
+
+<p>YEREL YÖNETİCİLERİNİN SORUMLULUĞU VE SAMSUN…</p>
+<p>Önce yerel yönetici kimdir? Sorumlulukları nedir? Ve yerel yöneticiler sorumluluklarının gereğini yerine getiriyor mu? Sorularının yanıtlarını aramak ve sonra da Samsun’da ki uygulamasını incelemekte yarar görüyorum. Çünkü Samsun’da il yöneticileri ile toplumun çok değişik kesimlerini temsil eden sivil toplum kuruluşları arasında ki kopukluğun, Samsun’un sorunlarının çözümsüzlüğünün en büyük nedeni olduğuna inanıyorum.<br />
+Yerel yönetici, bir kentin veya daha geniş anlamda bir yerleşim biriminin, o yöre insanının oyu ile seçilmiş belediye başkanıdır. Merkezi hükümetin atadığı ve hükümetin programı doğrultusunda yöre insanına hizmet veren kamu yöneticileridir. Tabii bunların en üst noktasında da, DEVLETİ temsil etmek üzere çok daha büyük yetkilerle donatılmış olarak atanmış en büyük mülki amir olan, vali veya kaymakam vardır. Kural olarak bu üst makam siyasetin dışında kalarak devleti temsil etmelidir. Ancak, bu makamlar da son 20 yılda atamalarından başlayarak siyasetin etkisi altına girmiş ve zaman zaman hükümetlerin programları doğrultusunda onun bir birimi gibi çalışır hale gelmiştir. O nedenle de, çoğu kez kent yaşayanlarının çıkarları göz ardı edilebilmektedir.<br />
+Çerçevesini çizdiğimiz yerel yöneticilerin görevi, yöre insanlarının daha huzurlu ve daha mutlu bir yaşam sürmesini sağlamaktır. Bunun için hem idari hem de teknik eksiklikleri gidermek, kentlerin fiziki şartlarını çağdaş kent anlayışına uygun şekilde düzenlemek ve yöre insanının sosyal yaşam kalitesini yükseltmek amaçları olmalıdır. Bunun da ötesinde, yönettiği yöre insanlarının hamisi olmalıdır. Yöre insanının zarar göreceği uygulamalarda halkının yanında yer almalı ve gerekirse halkıyla birlikte yanlış ve haksız uygulamalara halkının önünde tavır koyabilmelidir. Çünkü onu seçen yöre insanıdır. Önemli olan onu seçen yöre insanının beklentileridir. O nedenle de, yerel yöneticinin en başta gelen görevi halkıyla bütünleşmek ve onun yasalarla belirlenmiş haklarını korumak olmalıdır. Oysa uygulama ne yazık ki hiç de böyle olmamaktadır.<br />
+Yerel yöneticiler, kentleri adına yapması gereken zorunlu hizmetleri yaparken, çağdaş yöneticilik anlayışı gereği toplumun çeşitli katmanlarını temsil eden sivil toplum kuruluşları ile de yakın bir iletişim içersinde olmalıdır. Onların öneri ve eleştirilerini önemsemelidir. Bu, yerel yöneticiyi hem yüceltir, hem de halkıyla bütünleştirir. Halktan kopuk, halka hizmet verebilmenin de imkânı yoktur.<br />
+Ana ilkelerin altını böylece çizdikten sonra durumu Samsun açısından değerlendirirsek, hamilik yapma konusunda yukarıda ki ana hatları çizilmiş görev anlayışının tersine bir durumla karşılaşırız. Ya yukarıda altını çizdiğimiz görev anlayışı doğru değildir, ya da Samsun’da ki uygulanış şekli hatalıdır. Bu konuda Samsun’da ki örneklemeleri sunarak yorumu sizlere bırakmak istiyorum. Örneğin, Mobil Santrallerin yasal engellere rağmen bakan talimatı ile yeniden çalışmaya başlamasına ve yine o ovanın ortasına 5 adet termik santral kurulacak olmasına, başta Samsun Büyükşehir Belediye Başkanlığı olmak üzere ne Tekkeköy, ne Kutlukent, ne de Çarşamba Belediye Başkanlarının yöre halkının beklentileri yönünde hiçbir tepkisi görülmemektedir.<br />
+Belediye başkanlarının kentin imarı ve sosyal düzenlemeler açısından, konuyla ilgili sivil toplum kuruluşlarının görüş ve değerlendirmesini alması çağdaş belediyecilik anlayışıdır. AB’ne girebilme sürecini yaşayan ülkemizde, AB’nin ve çağdaş demokrasilerin vazgeçilmez unsurları olan sivil toplum kuruluşları yeterince değerlendirilememektedir.<br />
+Siyasallaşan ve sadece eleştiri yapmayı görev olarak algılayan az sayıda ki sivil toplum kuruluşunu bunun dışında tutarak Samsun’da ki sivil toplum kuruluşlarına bakarsak, onların çok önemli birikimlere ve deneyimlere sahip, üretken bir yapıya ulaştığını görürüz. Kentsel dönüşüm projelerinde TMMOB’ne bağlı mühendis odalarının, sosyal içerikli projelerde de çok sayıda sivil toplum kuruluşunun kent yönetimi için verebilecekleri çok önemli katkılar vardır. Ne var ki, kent yöneticilerimiz kent adına yapılacak önemli projeler için dahi, bu kuruluşlarla görüş alış verişinde bulunmamaktadır<br />
+Bu söylediklerimin en son örneği geçtiğimiz hafta Mimarlar Odası Samsun Şubesi’nin düzenlediği, “KENT-SEL PANEL-FORUM” da yaşanmıştır. Öncelikle, Samsun’un iki ay önce yaşadığı sel felaketini üzerinden iki ay geçmeden çok detaylı bir panelle gündeme taşıyan Mimarlar Odası Samsun Şubesi Başkanı Sayın Sacit Acar’ı ve yönetimini kutluyorum. Mimarlar Odası Genel Başkanı Sayın Oktay Ekinci’nin yönettiği panele, İstanbul Teknik Üniversitesi Meteoroloji Mühendisliği Bölüm Başkanı Prof. Dr. Miktad Kadıoğlu, Şehir plancısı Can Kabin’in yanı sıra DSİ 7. Bölge Müdür Yardımcısı İnş. Müh. Erdoğan Özoral ile bir dönem Samsun Belediye İmar Müdürlüğü de yapmış olan Mimar Enbiya Sancak konuşmacı olarak katıldı. Çok sayıda dere yatağının üzerinde yerleşmiş Samsun’un, her büyük yağmurda sel altında kalmasının kaçınılmaz olduğu topografik haritaları üzerinde anlatıldı.<br />
+Geçmişte kentin yerleşimi açısından yapılan çok önemli yanlışların tartışıldığı bu panele, kendilerini ilgilendirmediği için olacak hiçbir belediye başkanımız katılmadı. Sanki son selde deprem sonrası görüntüye bürünen onların yönettiği beldeler değildi. Bu arada, sorumluluk duyarak panele katılan Samsun Büyükşehir Belediyesi Yol ve Kanalizasyon Daire Başkanı Sayın Coşkun Öncel’e de teşekkür ediyorum. Sayın Oktay Ekinci, Samsun belediye başkanlarının ilgisizliğine Cumhuriyet Gazetesinde yayınlanan makalesinde de değinmiştir.<br />
+Tüm bunların ötesinde Samsun Halkına zarar verecek kirli yatırımların Samsun’a konuşlandırılmasına da yerel yöneticilerimiz Samsunlular adına tavır koyamamaktadırlar. Çevreye, toprağa, canlıya vereceği zararları tartışılamayacak olan ve hiçbir kentin sınırları içine sokmadığı, sivil toplum kuruluşlarının çabası ile çalıştırılması yasal olarak durdurulan Mobil Santrallerin yasalar çiğnenerek yeniden çalıştırılmasına ve yeni kirlilikler getirecek termik santrallerin kurulacağı haberlerine ses çıkartmamaktadırlar. Gemi Söküm Tesisi gibi kanser riski taşıyan yatırımın Samsun’a yapılması gündeme gelince, hiçbir kent yöneticisinin yönettiği kentine sahip çıkmaması düşündürücüdür. Neden hiçbir yöneticimiz hep riskli ve hiçbir ilin istemediği kirli yatırımın Samsun’a konuşlandırılmaya çalışılmasını sorgulamaz? Anlamak mümkün değildir.<br />
+Bu yazıyı kaleme aldığım gün bir yerel gazetede okuduğum haber beni umutlandırdı. Habere göre, İktidar Partisi AKP’nin İl Başkanının başkanlığında toplanan belediye başkanları ve bazı milletvekilleri bu tür çevreye zarar verecek yatırımların Samsun’da konuşlandırılmasına izin verilmeyeceğini açıklamıştır. Dün, bu tür kirli yatırımlara karşı çıkan sivil toplum kuruluşlarını eleştiren, hatta yatırım düşmanı olarak ilan edenlerin bugün geldiği nokta sevindiricidir.<br />
+Bu kent bizim ise, bu kentin çıkarları ve doğruları yönünde ortak hareket etmek ve bir dayanışma içersinde olmak, inanıyorum ki Samsun’un en büyük sorunu olan, birlik olamama ve ortak hareket edememe hastalığına da ilaç gibi gelecektir. Umarım bu bir başlangıç olur ve umutlarımız boşa çıkmaz. İyi haftalar…03 Kasım 2007<br />
+SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0321-aziz-sehitlerimiz-ve-pkk-terorunun-golgesinde-cumhuriyetimizin-84-yili.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0323-chp-deki-sorunlar.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

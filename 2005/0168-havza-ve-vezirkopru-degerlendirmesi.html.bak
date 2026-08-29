@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Havza ve Vezirköprü Değerlendirmesi</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Havza ve Vezirköprü Değerlendirmesi
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2005
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0168
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>HAVZA VE VEZİRKÖPRÜ DEĞERLENDİRMESİ</p>
+<p>Samsun’un teşvik yasası kapsamı dışında bırakılması ile Havza ve Vezirköprü Ticaret Odalarının başlattığı Amasya’ya bağlanma eylemi 19 Mayıs kenti Samsun’da önemli ölçüde yankı buldu. Üç hafta kadar önce başlayan bu ilçelerimizdeki tepki yerel basında yer almasına rağmen hiçbir kent yöneticisinin bu ilçelere gidipte ne oluyor diye inceleme yapmaması gerçekten çok düşündürücü.3. haftanın sonunda yerel basının oluşturduğu ‘’basın platformu’’kalabalık bir gazeteci kadrosu ile bu ilçelerimize giderek olayı yerinde incelemiş ve Samsun kamuoyunu bilgilendirmişti. Geçtiğimiz haftada yüklendiği misyon gereği sorumluluk duyarak başkanı olduğum SAM-SEV Yönetim kurulu 7 kişilik bir ekiple bu ilçelerimizi ziyaret ederek hem ticaret odalarının yöneticileri, hemde çeşitli işadamları ve bu ilçelerin insanları ile görüştü. Bu ziyaretlere Samsun’daki yerel yazılı ve görsel basın da davet edildi. Bu iki ilçede yapılan incelemeler ve alınan bilgiler objektif bir yorumla rapor haline getirilerek milletvekillerimiz ile kent yöneticilerimize ve sivil toplum kuruluşları ile basın kuruluşlarına ulaştırılmaya başlandı. Bu ilçelerdeki incelemelere katılan yazılı ve görsel basın oralarda tesbit edilen gözlemleri gazete ve TV lere taşıdı.13 Mayıs Cuma akşamı SAM-SEV yönetiminden üç arkadaşımla  Klas TV de  sayın Sema Özata’nın sunduğu canlı yayına  katılarak oralarda yapılan çekimlerin eşliğinde sorunu geniş kapsamlı değerlendirdik. Bu nedenle bu ilçelerde yaşanan sorunu detaylarına tekrar girmek istemiyorum. Ancak bu çıkışın birkaç önemli noktasını sizlerle paylaşacağım.<br />
+Bu iki ilçemiz aslında tüm ilçelerimiz ile Samsun’un içine düştüğü ekonomik çıkmazın sadece kendi ilçelerinde yaşandığı gibi bir yanılgının içine girmiş görünüyor. Yıllardır ekonomik olarak kan kaybederek büyük ölçüde göç veren bu iki ilçemiz insanı bu açmazdan çıkabilmek için görünen o ki ‘’teşviki’’son şans ve umut olarak görmüştür. Samsun’un teşvik kapsamına alınması ile bu ilçelerde de yatırımlar yapılacak ve yeni iş kapıları açılacaktır. Ancak 2005  in başında sayın Başbakanın teşvik kapsamına alınacak iller içersinde Samsun’u saymaması ile başlayan sıkıntı bu ilçe insanımızın bütün hayallerini de yıkmıştır. Hemen yanı başalarında ki Amasya ve sınır komşuları Suluova ve Merzifon ilçelerinin teşvik alacak olması da kurtuluşu bu ile bağlanmak olarak ortaya çıkartmıştır. Sözün kısası ortaya konan tepki çaresizliğin ve umutsuzluğun sonucudur. Havza’nın bir köyü olan Armutlu’nun da referandum yaparak Suluova’ya bağlanması da bu talebi hızlandırmıştır.<br />
+Havza  Suluova ve Merzifon ile sınır komşusu oluşu nedeniyle olayları birebir yaşamakta ve çok daha fazla etkilenmektedir. Teşvik nedeniyle ortaya çıkan haksız rekabet ortamı, Havza’yı ayakta tutan sanayi kuruluşlarının da Havza’dan ayrılmak üzere Suluova’da arazi aramaları ve almaları Havzalıları ayağa kaldırmaya yetmiştir. Özellikle un fabrikaları ile 100 işçi çalıştıran  OTAT süt ve yoğurt entegre tesisinin Havza’yı terketme hazırlıkları havzalıları moral olarakta yıkmış gözüküyor. Ayrıca Havza’nın turizm potansiyeli olan termal suyun Belediye tarafından sadece Belediyeye ait veya kiralanan tesislere verilip özel sektöre ait tesislere verilmemesi  Havza’da çok ciddi sıkıntıları ortaya çıkartmıştır. Bu tesisler su yokluğu nedeniyle çalışamamaktadır. Bazıları satışa çıkartılmıştır. Yetmediği için diğer tesislere verilmediği söylenen sıcak suyun Havza’da çok önemli olaylara zemin yarattığını endişe ile tesbit ettik. Havza son yirmi yılda 20.000 göç vermiş, tarıma verilen desteğin kalkması , şeker pancarı ekim alanlarının daraltılması ve ürünlere geçmiş yılların altında fiat verilmesi sonucu tarım durma noktasına gelmiştir.<br />
+Tarıma dayalı bir yapısı olan  Vezirköprü’deki olay biraz daha farklıdır. Son yıllarda işsizlik ve tarımın çökmesi ile genç nüfus iş umudu ile Vezirköprü’yü terketmiştir. Trakyadaki Saray ve Çerkezköy yöresinde 15,000 Vezirköprülünün yerleştiği bu ilçemizin dernekleri tarafından açıklanmıştır. Geçmiş yıllarda buğday deposu olan bu ilçemizde tarım durmuş gözüküyor. Buğdaya geçmiş yılların altında fiat verilmesi, bunun gübre harcamalarını dahi karşılamaması, tarlada çalışacak genç nüfusun kalmaması sonucu köylünün tarımdan koptuğu ilgililerce açıklanmaktadır. Köylü sadece ailesine yetecek kadar buğday ekiyormuş. Hayvan yemi dahi buğdaydan pahalı olduğu için yetiştirdiği buğdayı kırdırıp hayvanlarına yediriyormuş. Zaten hayvancılıkta can çekişme noktasına gelmiş. Teşvik nedeniyle Suluova’da 1000 e yakın hayvancılık projesi yapılırken, bu sayının Vezirköprü’de sıfır olduğu söylenmektedir.<br />
+İşin en önemli yanı bir aydır haklı veya haksız tepkinin oluştuğu bu ilçelerimize Samsun il yöneticilerinin giderek yöre insanlarının sorununa eğilmemesi . Siyasi partilerin il yöneticilerinin de bu konudaki ilgisizliği şaşırtıcı. Siyasetçiler oradaki soruna ilgi duymazsa neden siyaset yapma adına görev alırlar anlamak mümkün değil. SAM-SEV’in bu ilçelere gittiği güne kadar bu sorun nedeniyle hiçbir milletvekilimiz oralara gitmemişti. Daha sonra basına Vezirköprü’ye bir milletvekilimizin gittiği ancak onunda sadece partisinin ilçe teşkilatında partili belediye başkanları ve teşkilat görevlileri ile görüştüğü haberleri yansımıştır. İlçeye giden milletvekilinin bu tepkiyi başlatan sivil toplum kuruluşu yöneticileri ile görüşmemesi de anlaşılır gibi değil.<br />
+Havzalı ve Vezirköprülü Samsun’a kırgın. Ağız birliği etmişlercesine ‘’Samsun’un kendine hayrı yok, bize mi olacak, hergün bir başka bölge müdürlüğünün kaçırılışına bile engel olamıyor ‘’diyor.’’Samsun’un ikibuçuk ilçesi var. Birisi Bafra, birisi Çarşamba, kalan yarımda tüm diğer ilçeleridir’’gibi yorumlar yapıyor. Umudunu tamamen yitirdiği siyasetçiler ile ilgili değerlendirmeler ise sadece üzücüydü.<br />
+5442 sayılı İl İdareleri Kanununa göre ilçelerin kurulması veya bir başka ile bağlanması ancak bakanlar kurulu kararı ve TBMM den çıkacak bir yasayla  mümkündür. Bu nedenle bu ilçelerimizin başlattığı eylemin belki pratikte çok fazla geçerliliği yoktur. Ancak bence çok daha önemli olan bu ilçelerimizin Samsun’a olan güven duygularını yitirmiş olmaları ve moral olarak içine düştükleri açmazdır.’’Nasılsa böyle bir şansları yok, konuşsun dursunlar’’ gibi bir yaklaşımla bu insanların sorununa yaklaşmamak siyaset adına yapılacak en büyük yanlış olacaktır. Samsun’un üst düzey yöneticileri ve ayırım yapmaksızın tüm milletvekilleri bu ilçelerimize giderek onların sorunlarını dinlemeli ve en azından moral olarak destek sağlamalıdırlar. Aksi halde bu iki ilçemizden çok farklı konumda olmayan diğer ilçelerimizde de benzer tepkilerle karşılaşmamız kaçınılmaz hale gelecektir.<br />
+Ayrıca Samsun adına bugüne kadar yapılan haksızlıklar ve içine düştüğümüz yalnızlık beni bir başka noktada da endişelendiriyor. Günün birinde bu ilçelerin Samsun’dan koparak bir başka ile bağlanması yönünde TBMM ne verilebilecek bir kanun teklifinin bazı illerin milletvekillerince hararetle desteklenebileceği varsayımı bile ürkütücü.<br />
+Bazı olaylar Samsun adına o kadar olumsuz gelişiyor ki, inanmak dahi istemediğim , zaman zaman söylenen ‘’Samsun üzerinde oyun oynanıyor’’ söylemleri kafamı karıştırıyor. Umarım zaman benim      endişelerimi haksız çıkartır. İyi haftalar dileğiyle..15-MAYIS-2005</p>
+<p>SADİ  SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0167-buyuk-otel-her-sartta-otel-olarak-kullanilmalidir.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0169-samsun-un-son-kalesi-de-dusuyor.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

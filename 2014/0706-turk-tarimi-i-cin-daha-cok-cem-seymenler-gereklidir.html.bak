@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Türk Tarımı İçin Daha Çok Cem Seymenler Gereklidir.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Türk Tarımı İçin Daha Çok Cem Seymenler Gereklidir.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2014
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0706
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>BU ÜLKEYE DAHA ÇOK CEM SEYMEN GEREKLİ..</p>
+<p>Türk Tarımına Vurulan Darbe:<br />
+Dünyayı yakın gelecekte bekleyen en büyük tehlike, küresel ısınmanın etkisi ile adım adım yaklaşan kuraklık ve ona bağlı tarım ürünlerinde yaşanacak kıtlık ve açlıktır.<br />
+Çok değil bundan 15- 20 yıl öncesine kadar bu tür bir sıkıntıyı en son yaşayacak ülkelerden birisi Türkiye’ydi. Beslenmenin en önemli ürünü olan buğday ülkemiz de o kadar çok üretilebiliyordu ki, Toprak Mahsulleri Ofisi’nin siloları almıyor ve TMO’ a gelen buğdaylar siloların yanında tepeler oluşturacak şekilde brandalar altında depolanıyordu.<br />
+En kaliteli şekerin üretildiği şeker pancarını köylümüz yetiştiriyordu. Dünyanın en meşhur tütünü bizde yetişiyor ve dünya sigara tekelleri tütünlerine bu tütünden katmak zorunda kalıyordu. Fındıkta dünya piyasasında vardık.<br />
+Tarım politikasında ki yanlışları düzelterek köylümüzü yüreklendirecek desteklerin yapılması gerekirken, mevcut destekler kaldırıldı, bu önemli ürünlerin ekim alanları daraltıldı. Adeta Türk tarımı sabote edildi, köylümüz üretimden soğutuldu.<br />
+Lüks yatlara sağlanan yakıt indirimleri Türk üreticisinden esirgendi. Pahalı tohum, pahalı gübre ürün maliyetlerini artırdı. Hükümetler bu ürünlere verdiği fiyatlarda cimri davranınca üretici para kazanamaz hale geldi.<br />
+Daha ucuz diye buğday ve diğerleri ithal edilerek ucuz fiyatla piyasaya verildi. Şeker pancarı üreticileri üretimden engellenirken, Cagrill isimli Amerikan şirketine Türkiye’de fabrika açımına onay verilerek, bizde yetişmeyen şeker kamışından şeker üretiminin önü açıldı.<br />
+Yıllar önce daha verimli denilerek Türkiye’ye sokulan Virginia isimli tütün ektirilerek dünyanın vaz geçemediği yerli tütünümüz önce önemsiz hale getirildi, sonra da ekim alanları daraltılarak tütün köylüsü üretmekten vaz geçirildi.<br />
+Aynı olay geçmiş yıllarda da, dünyanın en kaliteli ağrı ve öksürük ilaçlarının yapıldığı Türk afyonunun ekim alanları daralttırılmıştı.<br />
+Bir başka yanlış da, büyük barajlar yapmak yerine buldukları her dereye bir HES kurdurularak tarlaların can suyunun kurutulması olmuştur. Köylünün direnişi ve isyanı dahi dikkate alınmamıştır.<br />
+Buna benzer bir sürü yanlışla kaderine terkedilen üretici perişan olmuş köyler boşalmış ve işsiz kalan köy gençleri kentlere göç etmiş ve onlarda oralarda çoğu suça karışmış, kimi de kaybolup gitmiştir. Böylece kentler de yaşanamaz hale gelmiştir.<br />
+Tarımın gittikçe stratejik önem kazandığı bir dönemde Türkiye’de tarımın dışlanması, bu ülkeye yapılan en büyük kötülük olmuştur.</p>
+<p>Cem Seymen Gerçeği:<br />
+Kim bu Cem Seymen? Tarımla ilgisi nedir? Sorularına açıklık getireyim.<br />
+CNN izleyicileri onu sabah programlarında “Para Dedektifi” adıyla sunduğu ekonomi raporundan hatırlayacaklardır.<br />
+Bence O’nun sunduğu çok daha önemli program, akşam haberleri sonrasında sunduğu tarım raporu ve üreticilerle tarlalarda yaptığı söyleşilerdir.<br />
+Bu söyleşilerden birisini de Cuma akşamı sundu. Türk tarımı ve üreticileri adına sergilediği cesur tavır ve verdiği mesajlar alkışı hak edecek kadar önemliydi. Bu söyleşileri uzun bir süredir sürdürüyor. Bu cesur yayını kanalında, hem de ilginin en çok olduğu saatlerde ( 20.30 gibi) yayınlayan CNN de övgüyü hak etmiştir.<br />
+Cuma akşamı yaptığı söyleşi ve sunumdan bazı başlıkları sizlerle paylaşıyorum.<br />
+Cem Seymen diyor ki;<br />
+Biz toprağı unuttuk..<br />
+Köylü tüm olup bitenin farkında..<br />
+Tarım milli güvenliğimiz kadar önemlidir..<br />
+Sizin sanayi ülkesi diyeceğiniz İtalya, Fransa, İspanya, Almanya aslında birer tarım ülkesidir.<br />
+Dış açığı olan bir ülke tarım ürünü ithal edemez..<br />
+Dünya endüstri tekelleri, “Dünya nüfusu hızla artıyor, yerli tohumların verimiyle bu nüfus doyurulamaz, bu ancak endüstriyel tarım ile mümkündür ” İddiaları ile kendi ürettikleri tohumları bizim gibi ülkelere dayattılar.<br />
+İthal tohumların devamlılığı yoktur. Tek mevsimliktir. Evet, üretimi artırmakta ve daha düzgün şekilli ürünler elde edilmektedir. Ama ürünlerin doğal tadı ve kalitesini ithal tohumlarla almak mümkün değildir.<br />
+Tarımda tohum en önemli faktördür..<br />
+Bu topraklarda yetişmeyen tohum, bu toprağa uyum sağlamaz. Bir tohum ekildiği toprağa ancak yüzlerce yılda uyum sağlar.<br />
+Biz yerli tohumumuzu ithal tohum ve ihmal sonu kaybettik..<br />
+Tarım için en önemli ve maliyet artıran şey tarım ilaçlarıdır.<br />
+Sayın Seymen’in bu arada önemli bir iddiası da, “Bu tohumları üreten uluslararası tarım endüstri tekellerinin, tarım ilaçlarını da ürettiğiydi. Çarpıcı olan ise, bu tohumları üreten ve satan firmaların bir süre sonra çıkacak hastalıkları da bilerek, ilacını da hazırladığı ve önceden satışa çıkardığı gerçeğiydi”. Bu iddia, son derece korkunç soruları da akla getirmektedir..<br />
+Yine Cem Seymen, bu gerçeği gören 10-15 tarım gönüllüsünün oluşturduğu 8-10 kuruluşun yerli tohumları toplayarak korumaya alıp çoğalttığı ve köylüye dağıtarak yerli ürün yetiştirilmesine destek verdiğini söylemektedir. Hatta bu söyleşide, Ege de bazı yaşlı köy kadınlarının çeyiz sandıklarında yerli tohumları sakladığını ve gönüllülerin bunları alarak çoğalttığı da anlatılmaktadır..<br />
+Bu gönüllü kuruluşlardan Can Yücel Tohum Merkezi ile Seferihisar’da ki örnek sertifikalı tohum üreten merkezde ki gönüllülerle görüşüyor ve kavanozlarda etiketlenerek saklanan yerli tohumları gösteriyor.<br />
+Bu merkezlerde ki gönüllüler, üretilen bu tohumların bir tutamı ile 500 metrekare alanın ekilebildiğini, ekilen bu alandan elde edilecek tohumla ise, beş dönümlük alanda üretim yapılabildiğini vurguluyorlar.<br />
+Toprak, rüzgâr ve nem gibi bölgenin özelliklerine göre yetiştirilmiş tohumlar, o topraklar için en verimli tohumlardır.<br />
+Evet, Sayın Seymen bunları söylüyor ve ekliyor, verimli toprakları olan hiçbir ülke tarımı dışlayamaz. Bu, ülkesinin geleceğine darbe vurmak demektir.<br />
+Sevinilecek şey, yanlışı bir avuç gönüllü de olsa görmüş ve başkalarına da örnek olacak ve de teşvik edecek yerli tohumu canlandırma çalışmalarını başlatmış olmasıdır.<br />
+Birkaç cümlede ben ekleyeyim;<br />
+Bu ülkenin üreticisinin ürettiği ürün ne kadar pahalı olursa olsun, bu ürün ithal edilerek köylü tarımdan uzaklaştırılmamalıdır. Sonuçta dışarı döviz çıkışı olmayacak, köylü toprağından ayrılmayacak ve işsizler ordusuna köy gençleri de ilave olmayacaktır.<br />
+Kentlerde ki yoğunlaşma ve dolayısıyla polisiye olaylar bu günkü kadar artmayacaktır.<br />
+Bu ülkede yetişen tüm ürünlerin daha teknik usullerle üretilmesine ve üretim giderlerinin azaltılmasına, gerekli ürünler için de destek primleri verilmesine hükümetlerin öncülük etmesi, ülkemizin geleceği ve stratejik güvenliği açısından milli bir görevdir.<br />
+Türkiye’de veraset yoluyla tarım arazileri kardeşler arasında olsa da bölünerek küçülüyor ve çoğu zaman bu tarlalar bir ailenin kendisine yetecek tarım yapımına dahi olanak vermiyor. Bu konuda, tarım alanlarının parçalanarak üretim dışı kalmasını önleyecek ve parçalı alanların bütünleşmesini sağlayarak üretime destek vermesi için gerekli yasal düzenlemeleri yapmak, siyasi iktidarların görevidir.<br />
+Son Söz:<br />
+Tarımsal üretimi sömürgeci devletler tarafından bitirildiği için açlığa mahkûm olan ülkelere örnek olan Somali’nin durumuna düşmemek için tarıma sahip çıkmak vatanseverliktir. ( Lütfen Somali’nin tarihini okuyunuz.)<br />
+Tarım gerçeğini yok sayarak sanayileşme ve kalkınma olmaz kuralını unutmamak, bizi yönetenlerin görevi olmalıdır.<br />
+Kuraklık ve açlık korkusu yaşamayacağımız umuduyla, iyi haftalar.. 03. 08. 2014<br />
+Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0705-nerede-o-eski-bayramlar-nerede.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0707-samsun-neden-rakiplerinin-gerisinde-kaliyor.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

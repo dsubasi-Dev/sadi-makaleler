@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Samsun Milletvekili Haluk Koç ile İlgili Yazınız</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Samsun Milletvekili Haluk Koç ile İlgili Yazınız
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2005
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0178
+
+</div>
+
+
+<div class="article-content">
+
+<p>SAYIN AHMET HAKAN COŞKUN<br />
+GEÇEN HAFTA İÇİNDE HÜRRİYET GAZETESİNDEKİ KÖŞE YAZINIZDA SAMSUN MİLLETVEKİLİ SAYIN HALUK KOÇ İLE İLGİLİ YAZDIKLARINIZI ÜZÜNTÜ İLE OKUDUM. KENDİSİNİ ÇOK İYİ TANIMADIĞINIZ ANLAŞILIYOR. MESLEĞİNDE ÖNEMLİ BİR NOKTAYA GELMİŞ VE DALINDA ÜLKEMİZİN EN SEÇKİN BİLİM ADAMLARINDAN BİRİSİ OLAN SAYIN KOÇ, TOPLUMU YAKINDAN İLGİLENDİREN ARAŞTIRMA RAPORLARI İLE DİKKATİ ÇEKMİŞ VE KENDİSİ SİYASET DÜNYASINA DAVET ALMIŞTIR. KISA SÜREDE POLİTİKA SAHNESİNDE DE HIZLI ÇIKIŞ YAPARAK BİR SİYASİ PARTİNİN GRUP BAŞKAN VEKİLİ OLMUŞTUR. BU ÜLKENİN SİYASİ YAŞAMINDA KİMSENİN KOLAY KOLAY  BU KONUMA GETİRİLMEDİĞİNİ SANIRIM ÇOK İYİ BİLİYORSUNUZDUR.<br />
+SAYIN KOÇ , YETERLİ MUHALEFETİN OLMADIĞI İDDİALARININ YOĞUN OLDUĞU GÜNÜMÜZDE ÇAĞDAŞ VE ATATÜRK İLKELERİNİN KORUNMASI NOKTASINDA ÇOK ÖNEMLİ BİR MİSYON ÜSTLENMİŞTİR. TBMM DE GEREK PARTİSİ ADINA VE GEREKSE ÇAĞDAŞ VE ATATÜRK İLKELERİNE BAĞLI YAŞAMI BENİMSEMİŞ, ÇOK GENİŞ BİR KESİMİ DE TEMSİL ETMEKTEDİR. LAİK VE ÇAĞDAŞ CUMHURİYETİ OLUMSUZ ETKİLEYECEK UYGULAMALARIN BİRBİRİ ARDINA GÜNDEME GETİRİLDİĞİ BİR DÖNEMDE , CESURCA TAVIR SERGİLEYEN İNSANLARA , BU YAŞAMI BİR TÜRLÜ İÇİNE SİNDİREMİYENLERİN HOŞGÖRÜ İLE YAKLAŞMASI ZATEN BEKLENEMEZ.<br />
+ÜZÜLEREK SÖYLEMEK GEREKİRSE DÜN OLDUĞU GİBİ BUGÜNDE, YAPTIKLARI GAFLARLA MEDYANIN GÜNDEME TAŞIDIĞI ÇOK SAYIDA MİLLETVEKİLİ BULUNMAKTADIR. ANCAK BİR SAMSUNLU OLARAK BELİRTMEK İSTERİM Kİ, NE DÜN, NEDE BUGÜN BU KAPSAMA GİREN BİR MİLLETVEKİLİMİZ OLMAMIŞTIR. HELE HELE SAYIN KOÇ GİBİ DONANIMLI BİR SİYASETÇİYİ SİZİN YAKLAŞIM VE BENZETMELERİNİZLE  TANIMLAMAK EN AZINDAN GAZETECİ LİK USLUBU İLE BAĞDAŞMAMAKTADIR.<br />
+BİR SAMSUNLU OLARAK TAVRINIZI VE USLUBUNUZU KESİNLİKLE REDDEDİYOR VE BU ÜLKENİN ÇAĞDAŞ ANLAYIŞA SAHİP İNSANLARINA BİRAZ DAHA DİKKATLİ VE ANLAYIŞLI OLMANIZI DİLİYORUM. SAYGILARIMLA.</p>
+<p>&lt; Arial&gt;/</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0177-gazetecilige-yakismayan-uslup.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0179-i-lac-konusundaki-yeni-uygulamalar.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

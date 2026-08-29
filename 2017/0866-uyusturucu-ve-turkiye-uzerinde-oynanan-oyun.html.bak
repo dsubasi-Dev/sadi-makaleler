@@ -1,0 +1,328 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Uyuşturucu ve Türkiye Üzerinde Oynanan Oyun</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Uyuşturucu ve Türkiye Üzerinde Oynanan Oyun
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2017
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0866
+
+</div>
+
+
+<div class="article-content">
+
+<p>e-posta; denizeczaneoptik. com                            SUNUŞ</p>
+<p>UYUŞTURUCU VE UYUŞTURUCU BAĞIMLILARI<br />
+KAMP ÖNERİSİ</p>
+<p>Ülkemizde ki uyuşturucu kullanımı son yıllarda hızla artarak korkutucu boyutlara ulaştı. Ne yazık ki, çoğumuz bu tehlikenin artık ülkemizin geleceği açısından çok büyük bir tehdit haline geldiğinin farkında değil.<br />
+Bu tehlikenin önlenebilmesi açısından tek umut verici olan şey, güvenlik güçlerinin son zamanlarda uyuşturucu mafyasının üzerine çok kararlı bir şekilde gidiyor olmasıdır.<br />
+Gün geçmiyor ki, yeni bir uyuşturucu şebekesinin çökertildiği haberi duyulmasın. Sanıyorum bugüne kadar bir defa da yakalanan en büyük uyuşturucu partisi ise, geçtiğimiz hafta sonu Akdeniz’de ki bir gemi baskınında yakalandı.<br />
+Yakalanan uyuşturucunun, tam 1 ton 71 kilogram eroin olduğu açıklandı.<br />
+Bu miktar eroinin on binlerce insanı zehirleyecek boyutta olduğu düşünüldüğünde ne gibi bir tehditle karşı karşıya olduğumuz çok daha iyi anlaşılır diye düşünüyorum.<br />
+Gözüken o ki, bu uyuşturucular sınırlarımızın içerisinde üretildiği gibi yurt dışından da getirilmektedir.<br />
+Özellikle uyuşturucu yapılan kenevir ekiminin Güneydoğu Anadolu bölgemizde çok yaygın olduğu, bölücü terör örgütüne yönelik operasyonlar sırasında ortaya çıkmıştır.<br />
+Güneydoğu Bölgemizde ki uyuşturucu üretiminin bu derece büyük olması, aslında kırk yılı aşkın zamandır bir türlü bitirilemeyen bölücü terör örgütünün nasıl bir kaynaktan beslendiğini de ortaya koymaktadır.<br />
+Uyuşturucu bu bölgede öylesine büyük bir rant oluşturmaktadır ki, bundan sadece terör örgütünün yararlandığını düşünmek bu tehlikeyi hafife almak olur.<br />
+Bu büyük uyuşturucu trafiğinin yürütebilmesi için yöre insanlarının, hatta devletin o bölgede ki bazı kamu görevlilerinin de mutlaka bu işe destek veriyor olması gerekir ki, bu da bölücü terör örgütünün yıllardır hala tam çökertilememiş olmasını açıklamaya yeter diye düşünüyorum.<br />
+Çünkü böylesine bir ranttan pay alanlar varsa, onların bu terörün bitirilmesini istemesini beklemek fazla iyimserlik olmaz mı?<br />
+TÜRKİYE ÜZERİNDE OYNANAN OYUN.<br />
+Bu işin bir de Amerika ve Avrupa cephesi var ki, o da düşündürücüdür. Bırakalım daha geriler gitmeyi, Irak’ın işgalinden beri bu bölgede askeri güç bulunduran Amerika’nın bugüne kadar bu bölgede bir uyuşturucu çetesini ortaya çıkardığını duyan var mı?<br />
+Bu bölgede çıkarı olan başta Amerika olmak üzere, onunla ortak hareket eden işbirlikçisi bazı Avrupa ülkelerinin giderek güçlenen bir Türkiye’nin varlığına göz yummayacaklarını düşünmek, bir komplo teorisi olarak algılanabilir mi?<br />
+Unutulmamalıdır ki, günümüz de savaşlar artık silahtan çok, ekonomik ve psikolojik uygulamalarla sürdürülmektedir.<br />
+Öte yandan bilinen bir başka gerçekte, Orta Asya’dan Avrupa Kıtasına doğru göçe başlayan Türklerin, Araplarla karşılaştıktan sonra İslam Dinini kabul ederek Müslümanlığı Anadolu’ya yaymaya başlamasının, Avrupa’da yarattığı büyük korkudur.<br />
+Büyük Orta Doğu Projesi de dikkate alındığında, uyuşturucunun yaygınlaşmasına göz yumulmasının da ülkemiz üzerinde oynanmakta olan oyunun bir parçası olduğunu kabul etmek gerekmez mi?<br />
+Son araştırmalar, uyuşturucu kullanımının ilkokul seviyesine kadar indiğini göstermektedir ki, bu son derece korkutucu bir gelişmedir.<br />
+Uyuşturucu ile Türkiye üzerinde oynanan oyunun, Türkiye’nin geleceği olan genç nüfusun uyuşturucu bağımlısı yapılarak bir anlamda Türkiye’nin geleceğini yok etme projesinin bir parçası olabileceği, bir paranoya olarak görülmemelidir.<br />
+Gelinen bu nokta da görev, polisiye önlemlerden daha çok aileler ile eğitimci ve öğretmenlere düşmektedir. Çocuklarımız çok iyi izlenmeli ve onları uyuşturucu konusunda eğiterek bu bataklığa düşmeleri önlenmelidir.<br />
+UYUŞTURUCU BAĞIMLILARI KAMPI<br />
+Uyuşturucu bağımlıları konusunda devletin de zaman geçirmeden bazı önlemleri alması zorunlu hale gelmiştir. Özellikle sokak çocukları arasında hızla artan bağımlı sayısı, sokaklarda ki can güvenliğini de tehdit etmeye başlamıştır.<br />
+O nedenle kent merkezlerinde birer uyuşturucu bağımlıları tedavi ve rehabilitasyon kampları oluşturulmalı ve uyuşturucu bağımlıları sokaklardan kurtarılarak bu kamplarda rehabilite edilmelidir.<br />
+Böylece bu çocuklarımızın geleceği kurtarılırken, sokaklarda çevrelerine zarar vermeleri de önlenmiş olacaktır.<br />
+SON SÖZ: Uyuşturucu sorununun hafife alınacak tarafı kalmamıştır. Bu sorun, hem devletimiz hem de halkımız tarafından çok ciddi bir gözle değerlendirilmelidir.<br />
+Kaybettiklerimiz sadece kendi çocuklarımız değil ülkemizin de geleceğidir.<br />
+Yazımı son günlerin çok kullanılan deyimi ile bitiriyorum. Uyuşturucu sorunu artık ülkemizin “Beka” sorunu haline gelmiştir.<br />
+İyi haftalar. 11.06.2017<br />
+Ecz. SADİ SUBAŞI<br />
+SAMSUNLULAR, LÜTFEN! UNUTMAYINIZ.<br />
+HAVA ALANIMIZ TEMMUZ SONUN DA ÜÇ AYLIĞINA KAPATILACAKTIR.<br />
+Asma köprüler, Boğazının altından tüp yollar ve kilometrelerce otoyol yapabilen bir Hükümet döneminde, altı üstü 3,5 Km. Uzunluğunda ki 2. Pistin maliyeti nedeniyle Havaalanımız kapatılarak onarılacak olması inandırıcı değildir.<br />
+En az dört yıldır bilindiği için acil bir durum olmadığı ve kapatmanın asıl nedenin bu olmadığı anlaşılmaktadır.<br />
+Bu, bir kez daha Samsun’a yapılan bir dayatmadır.<br />
+Soru şu; Neden bu dayatmaya sessiz kalınıyor?<br />
+Havaalanı bir kent için can damarıdır.<br />
+Bu kente sahip çıksınlar diye seçtiğimiz milletvekillerimiz, bu kapatmadan en çok zarar görecek olan iş adamlarımız, sanayicilerimiz, turizm firmalarımız,<br />
+Sizler ne zaman konuşacaksınız? Neden susuyorsunuz?<br />
+NEDEN? NEDEN? NEDEN?</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0864-bu-ulkenin-artik-guven-ve-huzura-i-htiyaci-var.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0867-olaylara-bir-de-bu-gozle-bakabilir-miyiz.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

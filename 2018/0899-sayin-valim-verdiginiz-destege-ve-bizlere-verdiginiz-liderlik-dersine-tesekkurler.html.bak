@@ -1,0 +1,336 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Sayın Valim, Verdiğiniz Desteğe ve Bizlere Verdiğiniz Liderlik Dersine Teşekkürler.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Sayın Valim, Verdiğiniz Desteğe ve Bizlere Verdiğiniz Liderlik Dersine Teşekkürler.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2018
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0899
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>SAYIN VALİM,<br />
+VERDİĞİNİZ DESTEĞE VE BİZLERE VERDİĞİNİZ<br />
+LİDERLİK DERSİNE TEŞEKKÜRLER.</p>
+<p>Sayın Valim, iyi ki Samsun’a atanmışsınız.<br />
+Siz belki farkında değilsiniz ama öyle bir iş yaptınız ki, yıllardır biz Samsunluların bir türlü beceremediği ve büyük bir özlemle aradığı Samsun’a sahip çıkacak “LİDERİN” Nasıl olması gerektiğinin örneğini, bizlere çok güzel gösterdiniz.<br />
+Bu nedenle, size tüm Samsunlular adına sonsuz teşekkürler ediyorum.<br />
+Sayın Valim, izninizle bu yaptığınız işin bizler için neden bu kadar önemli olduğunu kısaca özetlemeye çalışacağım.<br />
+1970’ li yıllara kadar Samsun sadece ekonomik yönden değil, eğitiminden sosyal yaşamına kadar hemen her yönden Türkiye’nin en önde gelen sekiz-on kentinden birisiydi.<br />
+Bu özellikleri ile Samsun bölgenin en büyük ve gelişmiş kenti durumunda olduğu için o yıllarda özellikle Doğu Karadeniz Bölgesi’nin kırsalından aldığı göçlerle, metropol bir kent haline gelmiştir.<br />
+Üzülerek söylemek gerekirse, Samsun’un farklı yörelerin kültüründen oluşan yeni sosyal dokusunun Samsun’a katkı yapması gerekirken, o yıllarda Samsun Belediye Başkanlığına seçilen bir Belediye Başkanı’nın daha sonra ki seçimleri de kazanabilmek için bu kente hemşerilik ve bölgecilik anlayış ve ayrımcılığını sokması, bu kentin en büyük şanssızlığı olmuştur.<br />
+16 yıl süren bu yönetim anlayışı bu kentte yaşayanların birlikte hareketini önlerken, Samsun’u da o yıllardan itibaren sürekli kaybeden bir kent haline getirmiştir.<br />
+Tabii bu çöküşün bir başka önemli nedeni de seçilene kadar bu kent için yaptığı hiçbir etkinliği bilinmeyen, hatta Samsunluların tanımadığı veya Samsunluluğu seçim zamanı aklına gelen birtakım kişilerin, seçimlerde Samsunlulara belediye başkanı ve milletvekili adayı olarak dayatılması olmuştur.<br />
+İşte bu şekilde oluşan kent iradesi,<br />
+Yalnız Samsun’un değil, Türkiye’nin geleceği adına da çok önemli olan Çarşamba ve Terme Ovası’na kirli yatırımlar yapılırken,<br />
+Tüm Karadeniz Bölgesinde ki iller Teşvik Yasası kapsamına alınıp, sadece Samsun dışarıda bırakılarak ekonomisi çökertilirken,<br />
+Bölge müdürlükleri Samsun’dan alınarak başka illere götürülürken,<br />
+Samsun’u ayakta tutan az sayıda ki sanayi kuruluşları özelleştirilerek veya kapatılarak çalışanları işsiz bırakılırken,<br />
+İnandırıcı nedenler ortaya konmadan, havaalanımız üç ay süreyle kapatılırken de susarak seyirci kalmayı sürdürmüştür.</p>
+<p>Kent iradesi, Samsun’un en önemli markası Samsunspor adım adım uçuruma yuvarlanırken de suskun kalmayı sürdürmüştür.</p>
+<p>İki dönem üst üste iki Spor Bakanı çıkartmasına rağmen, bu dönemlerde Samsun’un en önemli markası olan Samsunspor, sürekli haksızlıklara uğramıştır.<br />
+Her iki Spor Bakanımızın da Samsunspor’a yaşadığı ekonomik sıkıntıları aşması için verdikleri destekler, kendilerini de sıkıntıya sokmuş ama günü kurtarmaktan başka bir işe yaramamıştır.<br />
+Yıllardır belediye başkanlarının kendi çevrelerine rant alanları ve benzin istasyonu yerleri sağladığı söylentileri yaygınlaşırken, Samsunspor’un hiç olmazsa personel ve günlük giderleri ile deplasman masraflarını karşılayacak bir, iki benzin istasyonu yeri dahi yaratılamamıştır.<br />
+Spor Bakanlarımızın zar zor yarattığı kaynaklarda, yanlış transfer ve hatalı yönetim anlayışları ile borçları artırmaktan başka bir işe yaramamıştır.<br />
+Kulübü Süper Lig’e çıkartarak kurtuluş kapısını açan yönetime darbe yapılıp, o ekip yönetimden uzaklaştırılırken görev alanlar akıl almaz hatalarla Samsunspor’u bir kez daha Süper Lig’den düşürmüş ve kulübü de tarihinin en büyük borç batağına sokarak görevden ayrılmışlardır.<br />
+Yine aynı yönetim, görevi bırakırken alacaklarını da dövize bağlayarak borç batağında ki Samsunspor’u uçuruma itmişleridir.<br />
+Borç kartopu gibi giderek büyüdüğü için Samsunspor’u yönetmek üzere hiç kimse kendi isteği ile ortaya çıkamaz olmuş ve her defasında kent iradesinin iteklemesi ile birileri başkanlığa getirilmiştir.</p>
+<p>İlk bölümde belirttiğim Samsun’un sorunlarının çözümüne öncülük yapma becerisini gösteremeyen kent yöneticilerimiz, Samsunspor konusunda da diğer kentlerin takımlarına sağladığı kaynaklardan hiç birisini yaratma becerisini de gösterememiştir.<br />
+Üzüntü veren gerçek, Samsunluların hiçbir dönem de karşılarında sorunlarına sahip çıkacak bir lider bulamamış olmasıdır.<br />
+SAYIN VALİM,<br />
+İşte bu nedenlerle, sizin topluma güven veren ve çözüm yaratan çabalarınız, bizlere bir kent yöneticisinin nasıl “LİDERLİK” Yapabileceğini göstermiştir.</p>
+<p>SAMSUNSPOR’UN KURTULUŞ YOLU<br />
+Kısa vadede yapılaması gerekenler;<br />
+Samsunspor’a paralı başkan bulunamıyor ve parayı başkaları veriyorsa, Samsunspor ’da Beşiktaş’ın efsane Başkanı Süleyman Seba modeli uygulanmalıdır.<br />
+Buna benzer bir model, 1984 yılında o dönemin Samsun Valisi olan rahmetli Erdoğan Cebeci tarafından uygulanmıştır. Sayın Cebeci, o dönemde Samsunspor’un Başkanı olan rahmetli Hasbi Menteşoğlu’nun kulübe verdiği paraların bazıları tarafından kötüye kullanıldığı söylentilerinin yaygınlaşması üzerine, Menteşoğlu’nu makamına davet etmiş ve Menteşoğlu’nun ikinci kez görev alacağı kongrede sunacağı yönetim kurulu listesini kendisi hazırlayarak Menteşoğlu’na teslim etmiştir. Vali Cebeci’nin hazırlayarak Menteşoğlu’na verdiği liste, futbolu bilen kentin sevilen ve sayılan iş adamları ile bürokratlarından oluşmuştu.<br />
+Uzun vadede yapılması gerekenler;<br />
+Samsun’un tüm siyasileri Samsunspor’a yardımcı olmalı ama verecekleri destek bununla sınırlı kalmalı ve Samsunspor’a siyaseti sokmamalıdırlar.<br />
+Futbolcu yetişen bir kentin takımı olan Samsunspor’un geleceği, alt yapısının çok ciddi bir şekilde yeniden organize edilmesine bağlıdır. Bu organizasyonu sağlamak üzere yönetimler bunu gerçekleştirecek programlarla göreve gelmelidirler.<br />
+Kadıköyspor’un başarısı örnek alınarak alt yapıda aynı model uygulanmalı ve kendi öz çocuklarımız geçmişte olduğu gibi Samsunspor’ a kazandırılmalıdır.<br />
+Samsun’un 2. V2 3. Ligde oynayan bir takımı yoktur. O nedenle, Samsunspor BAL Liginde oynayan bir Samsun takımını sahiplenerek genç oyuncularını deneyim kazanmaları için o takıma vermeli ve o takımın önce 3. Lige, daha sonra da 2. Lig’e çıkmasına yardımcı olmalıdır.<br />
+Türkiye liglerinde oynayan hemen hemen tüm takımlar borç batağında bulunmaktadır. Bu borcun oluşmasında ki en büyük nedenlerden birisi de kötü yönetimler kadar, TFF’ nun uyguladığı transfer politikalarıdır.                                                                 Futbol Federasyonu futbolcuların haklarına sahip çıktığı kadar kulüplerin haklarını korumamaktadır. Bir Anadolu takımında başarılı olan futbolcular bir anda tüm takımların gözdesi haline gelmekte ve bu futbolcuyu almaya karar veren kulüplerin daha sezon içerisinde bu futbolcularla görüşerek transfer edecekleri vaadinde bulunması sonucu, bu futbolcular kulüpleriyle sözleşme yenilemekten kaçınarak sezon sonunda bedelsiz serbest kalma yolunu tercih etmektedirler. Bu da, kulüplerin emek vererek parlattığı futbolcusundan para kazanamadan ellerinden kaçırılmasına neden olmaktadır.<br />
+SONUÇ;<br />
+Sayın VALİM,<br />
+Gözüken o ki, sayenizde Samsunspor bu sıkıntıyı da şimdilik de olsa atlatacaktır. Bundan sonra önemli olan, sizin desteğinizle Samsunspor’un Süper Lig’e çıkış şansını yeniden yakalamasıdır.<br />
+Ama çok daha önemlisi, içine düştüğümüz bu ayıplı durumu bir şansa dönüştürmekten geçmektedir.<br />
+Yıllardır süregelen suiistimal söylentileri nedeni ile Samsunspor’un içine düştüğü güven bunalımı, geriye doğru hesapların incelenerek varsa sorumlularının ortaya çıkartılması ile yoksa da bu resmi ağızlardan açıklanarak, kulübe yardım edecekleri caydıran güvensizlik ortamı kesinlikle giderilmelidir.<br />
+Tüm bu sıkıntıların, sizin kararlı ve güven veren girişimlerinizle sonlanacağına tüm Samsunlular ve Samsunsporlular inanmaktadırlar. İnanıyorum ki, tüm Samsun arkanızda duracaktır.<br />
+Yine umarım ki, oy vererek bu kenti güzel yönetsinler diye seçtiklerimiz de sizin ortaya koyduğunuz bu liderliği örnek alırlar ve Samsun’un sorunlarının çözülmesinde önderlik yaparlar.<br />
+Sağ olun Sayın Valim. Tüm Samsunlular adına size bir kez daha teşekkürlerimizi ve saygılarımızı sunuyorum. 28.01.2018<br />
+Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0898-osmanli-turkiye-cumhuriyeti-ataturk-ve-nutuk-2-bolum.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0900-bu-vatan-hepimizin-i-se-bu-kavga-neden.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

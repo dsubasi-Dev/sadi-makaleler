@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>TC ve Andımız Türklerin Onurudur, Vaz Geçilemez.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+TC ve Andımız Türklerin Onurudur, Vaz Geçilemez.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2021
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+1011
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>TC VE ANDIMIZ TÜRKLERİN ONURUDUR, VAZ GEÇİLEMEZ.<br />
+NE MUTLU TÜRKÜM DİYENE.<br />
+Artık bu ülkede doğru ve güzel şeyler olacağına olan inancımızı kaybediyoruz. Tabii ki sözünü ettiğim kesim, çağdaş dünya yaşamından, özgürlüklerden, kadın haklarından yana ve şiddet karşıtlarından oluşuyor.<br />
+Bu ülkede artık kimse demokrasinin varlığından, bağımsız yargıdan, özgürlüklerin varlığından kolay kolay söz edemez. Bunları söylerken bu ülkenin hangi yok oluş günlerinden bugünlere gelişini ve tarihini çok iyi bilen birisi olarak, içim yanıyor.<br />
+Gece yarıları yayınlanan kararname ve yönetmeliklerle kanunlar hiçe sayılarak bu ülkenin çağdaş ve millet olma nitelikleri yok ediliyor.<br />
+Tek adam kararları doğruysa sorun yok ama yanlış olanlar hepimizi etkiliyor. TBMM’ d 650 Milletvekilinin 290-300 civarı AKP Milletvekilidir. Yapılan doğru işleri alkışladıkları gibi yanlış yapılanlara da seslerini çıkartmamayı sürdürürse, ileride ülkemiz adına yaşanacak tüm olumsuzlukların da sorumlusu olduklarını göz ardı etmemelidirler.<br />
+Gözüken o ki, bu ülkede artık belirli kesimlerin düşledikleri bir Ortadoğu ülkesi yaratma yolunda ki telkinleri çok etkin rol oynuyor.<br />
+Geçtiğimiz Cuma akşamı bir TV kanalında soruları yanıtlayan Abdurrahman Dilipak kendisine sorulan bir soru üzerine, kadın haklarının korunması ve kadına şiddetin önlenmesi konularında imzalanmış olan “İSTANBUL SÖZLEŞMESİNİN” Mutlaka kalkacağını söyledi. Nitekim üzerinden 2-3 saat geçmeden aynı gece yarısı Cumhurbaşkanlığı’ndan yayınlanan bir kararname ile bu sözleşmenin tek taraflı fes edildiği açıklandı.<br />
+Yargı Cumhurbaşkanlığından habersiz hiçbir dosya da karar veremiyor. Yargı kararları uygulanamıyor. Birinin verdiği kararı diğeri değiştiriyor.<br />
+Bir zamanlar Kürt sorununu çözebilmek için yaratılan “Çözüm Sürecinde” Bu kez de Kürt lobisinin istekleri doğrultusun da önce resmi kuruluşlarının tabelalarından devletimizin simgesi olan TC çıkartılmıştı.<br />
+Ardında da nasıl milli olduğu anlaşılamayan Milli Eğitim Bakanı da ilkokullarda çocuklarımıza ülke sevgisi aşılamak için okutulan “Andımızın” Kaldırılması için Danıştay’a başvurdu. Ancak ret edilince Andımızın yeniden ilkokullarda okutulması gündeme gelmişti.<br />
+Milli Eğitim Bakanı bu kez karara itirazda bulundu ve hafta içerisinde Danıştay’ın bir başka dairesi bu kez Andımızın okutulması kararını siyasi iradenin isteği doğrultusunda iptal etti.<br />
+Gelişmeleri büyük bir üzüntü ile izliyoruz. Aslına bakarsanız ülkemizin yönetiminde tek söz sahibi olan Cumhurbaşkanı da yaptığı atamalardan mutlu olmayarak sürekli atadıklarını azledip yenilerini atıyor. TC Merkez Bankası’nın bağımsızlığı yerle bir edildi.<br />
+Ülkemiz sonu belirsiz bir kargaşaya sürükleniyor.<br />
+Sonunda geri dönülemez bir noktaya gelmemek için Sayın Cumhurbaşkanı’nın bu ülkenin geleceğinden şu anda tek sorumlu olduğunu görerek, TBMM’ ni aktif hale getirmesi ve tüm partilerin ortak akılda buluşarak çözüm bulunmasını sağlamalıdır.<br />
+Aksi halde ülkemiz adına daha büyük olumsuzlukların sorumluları bizleri daha iyi yönetsin diye oy verdiğimiz, en üsttekinden en alttakine kadar tüm siyasetçiler olacak ve sonuçlarına da katlanmak zorunda kalacaktır.<br />
+Bu ülke bir Ortadoğu ülkesi değildir, olmayacaktır da. Andımızı çocuklarımıza evlerimizde de olsa okutmayı bugünden itibaren görev edinecek ve çocuklarımız okullarına gitmeden evde okutacak ve öyle göndereceğiz.<br />
+Ne andımızı, ne de Atamızın ilkelerini bu toplumun büyük bir çoğunluğunun kalbinden silmeye kimsenin gücü yetmeyecektir.<br />
+Ben kendi adıma hem andımızı, hem de gençliğe hitabeyi masa üstü plaketleri olarak bastırıp çocuklarımıza dağıtmayı sürdürüyorum.<br />
+Sözlerimi, ünlü Alman Devlet adamı ve Hitler dönemi sonrası 1949-1963 yılları arası Batı Almanya’nın Şansölyeliğini yapan Conrad Adenauer ’un şu sözleri ile sonlandırıyorum;<br />
+“Bir daha İsa bile gelse, tüm yetkiyi bir kişi ve yanındakilere verecek kadar aptal değiliz.”<br />
+Yazımın sonunda Öğrenci Andımızı ve Atatürk’ün Gençliğe Hitabesini bir kez daha hatırlayalım istiyorum.<br />
+Özellikle, Atatürk’ün Gençliğe Hitabesi her Türkün sık sık okuyup özümlemesi gereken bir vasiyettir.</p>
+<p>ANDIMIZ…<br />
+Türk'üm, doğruyum, çalışkanım,<br />
+İlkem: küçüklerimi korumak, büyüklerimi saymak, yurdumu, milletimi özümden çok sevmektir.<br />
+Ülküm: yükselmek, ileri gitmektir.<br />
+Ey Büyük Atatürk!<br />
+Açtığın yolda, gösterdiğin hedefe durmadan yürüyeceğime ant içerim.<br />
+Varlığım Türk varlığına armağan olsun.<br />
+Ne mutlu Türk'üm diyene!</p>
+<p>ATATÜRK’ÜN GENÇLİĞE HİTABESİ<br />
+Ey Türk gençliği! Birinci vazifen; Türk istiklalini, Türk cumhuriyetini, ilelebet (sonsuza dek) muhafaza ve müdafaa etmektir.<br />
+Mevcudiyetinin ve istikbalinin (Geleceğinin) yegâne temeli budur.</p>
+<p>Bu temel, senin en kıymetli hazinendir. İstikbalde dahi seni bu hazineden mahrum etmek isteyecek dâhilî ve haricî bedhahların (düşmanların) olacaktır.<br />
+Bir gün, istiklal ve cumhuriyeti müdafaa mecburiyetine düşersen, vazifeye atılmak için içinde bulunacağın vaziyetin imkân ve şeraitini (şartlarını) düşünmeyeceksin.<br />
+Bu imkân ve şerait (şartlar), çok namüsait bir mahiyette tezahür edebilir. İstiklal ve cumhuriyetine kastedecek düşmanlar, bütün dünyada emsali görülmemiş bir galibiyetin mümessili olabilirler.<br />
+Cebren (zorla) ve hile ile aziz vatanın bütün kaleleri zapt edilmiş, bütün tersanelerine girilmiş, bütün orduları dağıtılmış ve memleketin her köşesi bilfiil işgal edilmiş olabilir.<br />
+Bütün bu şeraitten (şartlardan) daha elim ve daha vahim olmak üzere, memleketin dâhilinde iktidara sahip olanlar, gaflet (aymazlık), dalalet (sapkınlık) ve hatta hıyanet (ihanet) içinde bulunabilirler.<br />
+Hatta bu iktidar sahipleri, şahsi menfaatlerini müstevlilerin (işgalcilerin) siyasi emelleriyle tevhit (birleştirebilirler) edebilirler. Millet, fakruzaruret (aşırı yoksulluk) içinde harap ve bitap (yorgun) düşmüş olabilir.<br />
+Ey Türk istikbalinin evladı! İşte, bu ahval (durum) ve şerait (şartlar) içinde dahi vazifen, Türk istiklal ve cumhuriyetini kurtarmaktır. Muhtaç olduğun kudret, damarlarındaki asil kanda mevcuttur…</p>
+<p>Ülkemizde ortak aklın hâkim olacağı günleri görmek dileği ile sağlıklı ve güzellikler dolu bahar günlerini yaşamak umuduyla iyi haftalar diliyorum.</p>
+<p>Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="1010-sevgi-sevgi-sevgi-sevgi-yine-sevgi.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="1012-ulkemiz-covid-19-ile-dalga-geciyor.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

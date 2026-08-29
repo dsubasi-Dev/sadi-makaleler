@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Eğitim Dönemi Başlarken Yapılması Gerekenler.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Eğitim Dönemi Başlarken Yapılması Gerekenler.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2021
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+1028
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>EĞİTİM DÖNEMİ BAŞLARKEN YAPILMASI GEREKENLER.</p>
+<p>Milli Eğitim Bakanlığı yaz ortalarından itibaren okullarda canlı eğitimin eylül ayında başlayacağını duyuruyordu. O günler geldi ve ilköğretim ile liseler de canlı eğitim 06 Eylül 2021 Pazartesi günü başlıyor.<br />
+Evet, okul zilleri çalacak ve çocuklarımız özledikleri okulları ve arkadaşları ile buluşacaklar. Covid-19 salgını nedeniyle çocuklarımız bir yıl süreyle eğitimden uzak kaldı.<br />
+Uzaktan eğitim ise, çok sayıda çocuğumuzun hem internet ve tablete sahip olmadığı için, hem de okula yeni başlamış çocuklarımızın bu sistemden yeterince yararlanabilecekleri düzeyde olmamaları nedeniyle, koca bir eğitim yılı kayboldu.<br />
+Bu nedenlerle okulların açılma kararını olumlu buluyor ve yeni eğitim sezonunun geleceğimiz olan çocuklarımız ve öğretmenlerimiz için başarılı olmasını diliyorum.<br />
+Yeni eğitim dönemi başlarken bazı endişelerim ile önerilerimi sizlerle paylaşmak ve yetkililerin de dikkatine sunmak istiyorum.<br />
+Endişelerim;<br />
+Şimdi Milli Eğittim Bakanlığı yetkililerinin alması gereken en önemli karar, bu eğitim yılının kesintisiz sürdürülebilmesi ve yeniden “Uzaktan eğitim” denilen son derece verimsiz siteme dönülmesini önlemek için gerekli önlemleri almaktır.<br />
+Alınması gereken bu önlemlerin başında, “AŞI” gelmektedir. Aslında yaz ortalarından beri okulların açılacağının duyurulmasına rağmen, gerek bazı öğretmenler ve gerekse öğrencilerle okul çalışanlarının henüz ilk aşılarının dahi yapılmamış olması çok ciddi sorundur. O nedenle;<br />
+Geç de olsa, gerekli ara ile öğrenci, öğretmen ve okul çalışanlarının en az iki doz Biontech ile aşılanmasına başlanmalıdır.<br />
+Öğrencilerin okuldan ayrılması sonra sınıflar ve koridorlar dezenfekte edilmelidir.<br />
+Her sınıfta el dezenfektan solüsyonu bulundurulmalı ve çocukların her ders arası sınıfa el dezenfektanı kullanarak girmesi sağlanmalıdır.<br />
+Her çocuğun tedbir olarak okula iki maske ile gelmesi sağlanmalıdır.<br />
+Tuvaletler ve lavabolarda sabun bulundurulması zorunlu olmalıdır. Ayrıca Covid-19 Salgını nedeniyle her zamankinden daha fazla önem kazanan ellerin yıkanması için, ailelerin çocuklarının çantasına küçük birer sabun koymasında yarar vardır.<br />
+Yeni Dönem için önerilerim;<br />
+Bazılarının hoşuna gitmeyecek olsa da, son yıllarda okulların ders<br />
+konuları üzerinde öylesine çok oynandı ve özellikle sık sık değişen<br />
+bakanlara bağlı değişkenliklerle bazı dersler önemsiz hale getirildi ki,<br />
+çocuklarımızın içine düştüğü bilgi eksikliğini yadırgamamak lazım.</p>
+<p>Üzülerek söylemek isterim ki, bu konuda en çok tırpanlanan tarih ve coğrafya dersleri oldu. Lise son sınıflara gelmiş, hatta üniversite de okumakta olan öğrencilerin çok büyük bir bölümünün, ne Osmanlı tarihini, ne de Cumhuriyet dönemine ait tarihini bilmediğini görüyoruz. Bir Türk gencinin, bıraktım diğer ülkelerin coğrafyasını ve tarihini bilmemesini ama Van Gölünün nerede olduğunu bilmeyen, üzerinde özgürce yaşamasını sağlayanları ve o tarihi süreci bilmeyen bir Türk gencinin olmasını yadırgıyorum.<br />
+O nedenle, hemen her gün övgüler düzülen Osmanlı Dönemini artıları ve eksileri ile çocuklarımıza öğretmek zorundasınız. Yine, neredeyse yok sayılmaya çalışılan Kurtuluş Savaşı’nı yapmaya neden mecbur kaldığımızı ve son vatan toprağı Anadolu’nun dahi işgal edildiği günlerden bugün üzerinde özgürce yaşamamızı sağlayan Kurtuluş Savaşı’nın nasıl kazanıldığını ve bu savaşın finali olan 30 Ağustos Zaferini de öğretmek zorundasınız. Atatürk’ün Kurtuluş Savaşından Cumhuriyetin kuruluşuna kadar giden süreci anlattığı NUTUK’UN lise sıralarında çocuklarımıza bölümler halinde ders olarak okutulması şart olmuştur.<br />
+Okullarımızda ki din derslerinde çocuklarımızın dinini öğrendiğini kimse iddia edemez. Dinler ve peygamberler insanların cehaletin çamuruna battıkları dönemlerde, onları doğru yola getirmek için gönderilmiştir. Tevrat, Zebur, İncil ve Kur’an ve son dört peygamber de insanlara yanlışlarını anlatmak ve onların hak, hukuk ve birlerine sevgi ile yaklaşmasını öğütler.<br />
+Bu nedenle de, her kitap indirildiği insanların dilinde indirilmiştir. Bu dinleri benimseyen her ülke, din kitaplarını halkına kendi dillerinde sunmuştur. Artık bizde bugüne kadar yaptığımız dayatmalardan vaz geçerek, Kur’an’ı Arapçadan okumak ve öğrenmek isteyen herkese gereken kolaylıklar sağlanarak özellikle ortaokul ve liselerde Kur’an’ın içeriğinde yazılı olanları en anlaşılır Türkçe ile yazılmış MEALLERİNİ (Türkçe açıklamasını) orta öğretim döneminde çocuklarımıza bölümler halinde öğretecek bir program oluşturulmalıdır. Aksi halde, yeterli doğru dini bilgilere sahip olmayan din adamları Kur’an’da olmayan bir sürü akıl ve mantık dışı şeyi anlata anlata insanlarımızı dininden soğutmaya başlamıştır. Toplumda deist sayısında ki artış da bunu kanıtlamaktadır. Eğer toplumsal inançlarımızın giderek zayıflaması istenmiyorsa, hiçbir ön yargıya kapılmadan bunun yapılması şart olmuştur<br />
+Ülkemizin giderek daralan ekonomik koşullarında okul giderleri veliler için aşırı bir yük haline gelmiştir. Okul giysilerinin serbest bırakılması nedeniyle öğrenciler arasında ister istemez bir giysi yarışı olmaktadır. Velilerin alım gücünün farklı olması nedeniyle, arkadaşında gördüğü marka spor ayakkabıdan isteyen öğrencinin bu olanağı olmayan velisi çocuğu karşısında sıkıntıya düşmektedir.<br />
+Özel ve resmi tüm okullarda tek tip öğrenci giysi modeli uygulanırsa, bir öğrenci giysisini en azından iki yıl giyme şansına sahip olacaktır.<br />
+Okul kitapları da ayrı bir sorundur. Her yıl değişen ve fiyatları el yakan kitaplar da velilerin korkulu rüyası olmuştur. Bir öğrenci bir alt sınıfta ki kardeşine kitabını bırakamamaktadır. Hatta başta özel okullar olmak üzere okul yönetimleri kitapları paket halinde almaya velileri zorunlu tutmaktadır. Böyle bir savurganlık olamaz. Siyasi görüşler dikkate alınmadan Türkiye’nin gerçeklerini ve gelişmesini izleyebilen donanımdaki bir kurul tarafından hazırlanacak kitaplar tek fiyat üzerinden öğrencilere satılmalıdır.<br />
+Hatta bu kitaplar dönem sonunda toplanarak, yeni dönemde öğrencilere belli bir bedel karşısın da verilmeli ve kitapları iyi koruyarak iade eden öğrencilere yeni dönem kitapları indirimli verilmelidir.<br />
+Kısacası Milli Eğitim Bakanlığı hiçbir siyasi görüşü dikkate almadan<br />
+bu reformları yapmalıdır.<br />
+Uyuşturucu kullanım yaşı giderek ilkokul seviyesine kadar inmiştir. Okullar kendi bünyesin de bu konuda eğitim alacak öğretmenlerden oluşacak bir komite kurmalı ve bu komite öğrencileri uyuşturucu konusunda eğitmeli ve düzenli olarak da ciddi bir denetim yapmalıdır.<br />
+SONUÇ:<br />
+Geleceğimiz olan çocuklarımızı en üst donanımda yetiştirmek başta<br />
+Devletin, sonra da ailelerin sorumluluğundadır. Eğer eğitim programlarının<br />
+yetersizliği nedeniyle,  yeterli düzeyde eğitim almamış, dolayısıyla dogmatik<br />
+bilgilerle donatılmış cahil bir kuşağa teslim olmak istemiyorsak, eğitim<br />
+düzeyimizi çağdaş ülkelerin ezbere dayanmayan, analitik ve felsefi<br />
+düşünebilen gençler yetiştirmek zorundayız.<br />
+Bizi yöneten siyasi kadroların bu gerçeği görerek, eğitim planlaması zorunlu<br />
+hale gelmiştir. Aksi halde ülkemizi de Ortadoğu ülkeleri gibi kargaşa ve<br />
+cehaletin hâkim olacağı günle beklemektedir.<br />
+Bugün 30 AĞUSTOS ZAFERİMİZİN 99. YIL DÖNÜMÜ. ZAFER BAYRAMIMIZI KUTLUYOR VE BU TOPRAKLARI YENİDEN BİZE VATAN YAPAN BÜYÜK ÖNDER MUSTAFA KEMAL VE SİLAH ARKADAŞLARI İLE AZİZ ŞEHİTLERİMİZİ SAYGI VE RAHMETLE ANIYORUM.<br />
+Aşılarımızı tamamladığımız, sağlıklı yaşamın önünü açtığımız haftalar dileğiyle…230.08.2021<br />
+SADİ SUBAŞI</p>
+<p>e- http://www. hedefhalk. com</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="1027-ulkemizin-ciddi-bir-lider-sorunu-yasiyor.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="1029-samsun-yerel-ve-siyasi-yonetimlerinin-arti-ve-eksileri.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

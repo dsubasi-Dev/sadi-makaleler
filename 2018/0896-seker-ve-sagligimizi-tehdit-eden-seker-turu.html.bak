@@ -1,0 +1,368 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Şeker ve Sağlığımızı Tehdit Eden Şeker Türü</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Şeker ve Sağlığımızı Tehdit Eden Şeker Türü
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2018
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0896
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>ŞEKER VE SAĞLIĞIMIZI TEHDİT EDEN ŞEKER TÜRÜ NBŞ<br />
+Değerli okuyucularım, bu hafta sizlerle toplum sağlığını ve ülkemizin ekonomik bağımsızlığını yakından ilgilendiren şeker konusunu paylaşmak istiyorum.<br />
+Öncelikle son zamanlarda tüm dünyayı saran iki büyük tehlikenin altını çizmek istiyorum. Bunlardan ilki, hızla yaklaşan küresel ısınmanın yaratacağı açlık tehlikesi, diğeri ise insan yaşamını tehdit etmeye başlayan obozitedir. (Aşırı şişmanlık)<br />
+Son yıllarda toplumun ev yemekleri yerine vücut yağlanmasına neden olan hormonlu gıdaların da yer aldığı hazır yiyeceklere yönelmesiyle aşırı kilo almaya bağlı sağlık sorunları yaşanmaya başlamıştır.<br />
+Obozitenin ciddi bir sağlık sorunu haline gelmesiyle, diyetisyenler en çok başvurulan tıp doktorları haline gelmiştir.<br />
+Diyetisyenlerin hastalarına ilk önerisi ise, üç beyaz diye adlandırılan tuz, un ve şekerden uzak durmaları olmaktadır.<br />
+Bu üçünden obozite dışında çok çeşitli hastalıkların da kaynağı olması nedeniyle şeker tüketimi, çok daha fazla önem kazanmıştır.<br />
+Şeker özellikle de elde edildiği kaynağına göre çok yönlü incelenmesi gerekli hale gelmiştir.<br />
+Şeker üç kaynaktan sağlanmaktadır. Bunlar;<br />
+Şeker pancarı (Sakkaroz veya sukroz olarak adlandırılan evde kullandığımız şeker)<br />
+Şeker kamışı (Sakkaroz veya sukroz olarak adlandırılan şeker)<br />
+Mısır, buğday, patates kökenli Nişasta (Fruktoz olarak adlandırılan şeker-NBŞ)<br />
+ŞEKER PANCARI, daha çok Türkiye’nin de yer aldığı ılıman ve kısmen sıcak iklimlerde yetişir ve taşıdığı şeker oranı %16 civarındadır.</p>
+<p>ŞEKER KAMIŞI, tropik bölge dediğimiz ekvatora yakın çok sıcak iklimlerde yetişir ve taşıdığı şeker oranı %20 civarındadır.<br />
+Şeker pancarından şeker üretimi, daha pahalı yatırım ve işçilik istemesi yönünden maliyeti, şeker kamışının yaklaşık iki katıdır.<br />
+Dünya şeker üretiminin %77’si kamıştan sağlanır.<br />
+Şeker pancarı ülkemizde yetişirken, şeker kamışı Türkiye’de yetişmemektedir.<br />
+Dış baskılarla ülkemizde şeker pancarı üretimine sınırlama getirilmiştir. 2011 yılında 171752 çiftçimiz şeker pancarı ekimi yaparken, bu sayı 2016 yılında 105460’ a düşmüştür.<br />
+Bir zamanlar 10 milyon insanımızın ekmek kapısı olan ve ülkemize yıllık 3,5 milyon dolarlık katma değer sağlayan şeker sanayi ile şeker pancarı tarımı kısıtlanmış ve NBŞ üretiminde konmuş kota yükseltilmiştir.<br />
+Bunun sonucu olarak yurt dışından giren GDO’ lu mısırdan üretilen nişasta şekeri NBŞ’ nin giderek artan üretimi ve tüketimi de hızla artan NBŞ ile yapılmış ürünler, toplum sağlığımızı ciddi şekilde tehdit etmeye başlamıştır.<br />
+Şeker pancarı ekimi, sadece ülkemizin şeker ihtiyacını önemli ölçüde karşılamakla kalmıyor, yaprakları ve atıkları ile birinci sınıf hayvan yemi ihtiyacımızı da karşılıyordu.<br />
+Pancar ekimi, bu yönüyle hayvan besiciliğini de kolaylaştırıyordu. Et ve mamullerini yurdumuzda üretebiliyorduk. Ne yazık ki, artık kurbanlıklarımızı bile dış ülkelerden satın almak zorunda kalıyoruz.<br />
+Şeker fabrikalarında şeker pancarından şeker üretimi sırasında atık olarak ortaya çıkan MELAS,<br />
+Besicilikte,<br />
+Alkol üretiminde (2016’da 6,8 milyon litre alkol),<br />
+Fermantasyon ürünlerinde,<br />
+İlaç ve kozmetik sanayinde,<br />
+Briket yapımında kullanılıyor ve ülkemize artı katma değer sağlıyordu.</p>
+<p>ŞEKER BAZLI ŞEKER (NBŞ) NEDİR? NERELERDE KULLANILIR?<br />
+Şeker denince anlaşılan glikozdur.<br />
+Nişasta, bazı enzimler yardımıyla kimyasal reaksiyona uğratılarak glikoz ve fruktoza dönüştürülür. Doğrudan şeker olarak kullanılmaz ama çeşitli gıda ürünlerinde çok yaygın olarak kullanılmaktadır.<br />
+Bunların başında; çeşitli firmalar tarafından üretilen çikolata, her çeşit şeker, baklava türü tatlılar, reçel, gofret, sakız ve meşrubat gibi gıda ürünleri gelmektedir.<br />
+Özellikle cazip ambalajları ve lezzetleri ile çocuklarımızın vazgeçilmezi haline gelen NBŞ’ li ürünlerin yaratacağı sağlık sorunları korkutucu boyutlara ulaşmıştır.</p>
+<p>YILLARA GÖRE ÜLKEMİZDE Kİ NİŞASTA BAZLI ŞEKER ÜRETİMİ<br />
+(1000 TON)</p>
+<p>/<br />
+Piyasada nişastadan elde edilen Nişasta bazlı şeker (NŞB) HFCS, Mısır Şurubu, Glikoz Şurubu, Fruktoz Şurubu, İzoglukoz gibi çok farklı adlarla kullanılmaktadır.<br />
+NBŞ kullanımının sanayi yönünden avantajları;</p>
+<p>Ucuzdur, 3,32 TL/kg beyaz şeker, 1,87 TL/kg NŞB<br />
+Sıvı halinde olduğu için kullanımı kolaydır.<br />
+Kolaylıkla kristalleşmemesi nedeniyle, ürünün raf ömrü uzundur.<br />
+Fruktoz şekere göre daha tatlıdır.<br />
+Birim olarak, Glikoz 60, Sakkaroz 100, Fruktoz 170 birimdir.</p>
+<p>NİŞASTA BAZLI ŞEKERİN (NBŞ) CANLI SAĞLIĞI AÇISINDAN<br />
+OLUMSUZ YÖNLERİ;</p>
+<p>İnsan sağlığı yönünden kanserojen etkisi olması nedeniyle zararlıdır.<br />
+Doğal değildir, kimyasal yolla elde edilir.<br />
+Üretim aşamasında cıva kullanılır.<br />
+İnsülin metabolizmasını bozarak Obozite ve koroner sorunlara yol açar.<br />
+Unutkanlık ve erken bunamaya yol açar.<br />
+Tokluk duygusu oluşumunu engeller.<br />
+Kimyasal reaksiyon sırasında bazı zararlı yan ürünler oluşmaktadır.</p>
+<p>ŞEKER PANCARINDAN ÜRETİLEN ŞEKERİN SOSYAL VE<br />
+EKONOMİK YÖNDEN OLUMLU YANLARI;<br />
+Şeker pancarı tarımı ve sanayisi tümüyle yerli ve millidir.<br />
+Azalan pancar tarımı nedeniyle işsizlik, göç ve yoksulluk artar.<br />
+Pancar tarımı ülkemizde sulu, modern, münavebeye dayalı tarımın öncüsü ve lokomotifidir.<br />
+Sanayinin gelişmesine çok önemli katkı sağlamıştır.<br />
+Tarımın ve çiftçilerin sosyal ve ekonomik gelişimine çok önemli katkı sağlamıştır.<br />
+Hayvancılığı ve besiciliği desteklemektedir.<br />
+Diğer sanayi kollarını hem desteklemekte hem de ham ve yarı mamul madde sağlamaktadır.<br />
+Fransa, Hollanda, Almanya, Belçika başta olmak üzere çok sayıda Avrupa ülkesi NŞB kullanımına izin vermemektedir<br />
+ABD NBŞ kotasını %10’dan %2’ye, Almanya %1,5 e düşürürken, Türkiye’de bu oranı %10’ dan %15 e yükseltilmeye çalışılmaktadır.</p>
+<p>Türkiye yüzde 1,3'lük payla şeker pancarı üretiminde Brezilya, Hindistan ve Çin gibi ülkelerden sonra dünyada 15. sırada yer almaktadır.<br />
+Türkiye'de 300 bin hektar alanda şekerpancarı ekilmektedir. 1998 yılında 22 milyon ton olan şeker pancarı üretimi, 2014 yılında 17 milyon tona gerilerken, çiftçi sayısı da 450 binden 130 binlere düşmüştür.<br />
+Şeker pancarında son 10-12 yıl içerisinde yaşanan 2,5 milyon tonluk üretim daralmasının hayvancılığa yansıması, 6,5 milyon ton yaş pancar küspesi ve 900 bin ton melasın kullanılamaması şeklinde olmuştur.<br />
+NBŞ kota oranlarının ülkemizde AB ülkelerine oranla yaklaşık 10 katı oranında fazla uygulanmasının sadece et üretimine olumsuz yansıması yaklaşık 250 bin tondur.<br />
+Şeker fabrikalarının özelleştirilmesi ve kapatılması sonucu aile bireyleriyle birlikte sayıları 3 milyonu aşan pancar üreticileri ile şeker tüketicileri ciddi sıkıntılarla karşı karşıya kalmıştır.<br />
+Öte yandan, Doğu Anadolu<code>da ki gelir dağılımında ki uçurumun daha da artması ve istihdamın düşmesiyle kırdan kente göç hızlanmıştır.
+Oysa, yıllık şeker tüketimi 2 milyon ton olan ve şeker ithal edebilecek yeterli döviz rezervlerine sahip bulunan Fransa, yarı bedelle şeker ithal etmek yerine şekerpancarı tarımını desteklemektedir.
+Türkiye</code>nin de tarım ve sanayide sağladığı yüksek istihdam ve yan ürünlerinin tümünün hayvan beslemede kullanılabilirliği yönü ile şekerpancarı tarımını gerçek üreticilerin söz ve karar sahibi olduğu bir yapılanma içerisinde artırarak sürdürmesi ülkemiz çıkarına olacaktır.<br />
+Bugün tarımsal istihdamda gelinen nokta, özelikle bizim bölgemiz adına son derece düşündürücü ve üzücüdür.<br />
+Tarım alanında ki istihdam oranı Türkiye’de %7,1 azalırken, bu azalma oranının başta Samsun olmak üzere bölgemizde %31,7 oranında azalmış olması da, Samsun’da işsizlik oranının Türkiye ortalamasının çok üzerinde oluşunu kanıtlamaktadır.<br />
+Küresel ısınmanın giderek artması ile canlıların yaşamı için su kaynakları ile tarımsal alanların korunması ve tarımsal üretim çok fazla önem kazanmıştır.<br />
+Üzülerek söylemek gerekirse, verimli ovaları ve mevcut su kaynakları ile istenen seviyede modern tarım yapılamıyor olsa da, 2000’li yıllara kadar Türkiye dünyanın kendine yetebilen yedi ülkesinden birisiydi.<br />
+Ne yazık ki, akıl almaz yanlış tarım politikaları sonucu, günümüzde Türkiye bu özelliğini kaybetmiş ve artık buğday, mısır, pirinç, nohut, mercimek ve hayvan yemi olarak kullanılan arpa ve samanı, dolayısıyla kırmızı eti de yurt dışından ithal etmek zorunda kalmış bulunuyor.<br />
+Tarım alanında yapılan bu yanlışlar ve ülkemizi tarım üretiminden kopartmak bir anlamda da ekonomik emperyalizme teslimiyettir.<br />
+Geçen hafta işyerimin ihtiyaçlarını almak üzere gittiğim bir toptan satış marketinin raflarını tepe tepe dolduran NBŞ SIVI ŞEKER tenekelerini görünce, bu ürünün tüketiminin ne kadar arttığına üzülerek bir kez daha tanık oldum.<br />
+Bu ortamda, sanırım sağlıklı bir hafta dilemek en güzeli olur.<br />
+14.01.2018<br />
+Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0895-i-lac-tekelleri-ile-onun-etkisinde-ki-tip-ve-saglik-politiklari-sagligimizi-tehdit-ediyor.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0897-osmanli-turkiye-cumhuriyeti-ataturk-ve-nutuk-1-bolum.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

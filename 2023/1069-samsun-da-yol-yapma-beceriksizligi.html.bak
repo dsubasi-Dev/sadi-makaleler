@@ -1,0 +1,332 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Samsun&#x27;da Yol Yapma Beceriksizliği</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Samsun&#x27;da Yol Yapma Beceriksizliği
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2023
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+1069
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>SAMSUN’DA YOL YAPMA BECERİKSİZLİĞİ<br />
+Bugün sizlerle Samsun’da yaşanan iki noktadaki bir yol yapma, daha doğrusu bir yolu dahi becerememe olayını paylaşacağım.<br />
+Atakum ilçemiz sınırları içinde kalan Atakum, Atakent, İncesu, Çatalçam, Taflan ve Erenköy sahilleri bir zamanlar Samsunluların ve komşu il ve ilçelerden gelenlerin denize girilebildikleri çok uzun ve güzel kumsala sahipti.<br />
+Bu bölgelerde aynı zaman da çok sayıda yazlık siteler ve evler yer alıyordu.<br />
+Bir yaz başında görüldü ki, Dereköy Balıkçı Barınağı mendireği hiçbir teknik araştırma yapılmadan uzatılmıştı.<br />
+Bu uzatma nedeni ile batıdan doğuya doğru var olan akıntı, mendireğin Samsun tarafındaki sahili oymaya başlamıştı.<br />
+Yörede yaşayanların tüm başvurularına rağmen gerekli doğru önlemler alınamadı.<br />
+Sonunda bu sahil oyula-oyula doğuya doğru hızla ilerleyerek sonunda Atakum sahilini ve bu sahilde yapılan gezi yollarını da yok etmeye başladı.<br />
+Doğanın yaptığı bu kıyı erozyonu yetmemiş gibi bu kez de o dönemin Büyükşehir Belediye Başkanı’nın gerekli bakanlık izinlerini dahi almadan Atakum’u, Kuş Cenneti’ne bağlayacak yol yapmaya başladığı görüldü.<br />
+Zaten denizin oyduğu bu sahilin kalan kumsalı ve deniz, kayalarla doldurularak yol yapmak uğruna insanların denizden yararlanması son derece zorlaştırıldı.<br />
+İlgili bakanlık, yolun yapımını durdu ama Dereköy’e kadar açılmış olan kısmı araçlar tarafından kullanılmaya başladı.<br />
+Daha önceleri bu sahilde bulunan yaya yolunda yürüyüş yapılıyor ve bisiklete biniliyordu. Artık bu yolda yürüyüş ve bisiklete binebilmek can güvenliği olmadığı için çok riskli hale geldi.<br />
+Ölümlü kazalar da yaşandı. Akşam saatlerinde alkollü araç kullananlar yöre sakinlerinin huzurunu da kaçırdı.<br />
+Geçtiğimiz yaz başında bu köşemden Büyükşehir Belediye Başkanlığına yaptığım, bu yolun araç trafiğine kapatılıp ortadan bölünerek yarısının yürüyüş yolu, diğer yarısının da bisiklet yolu olarak düzenlenmesi yönündeki çağrım da cevapsız kaldı.<br />
+Görülen o ki, yeni bir yaz sezonu yaklaşırken izinsiz ve ruhsatsız bu yol, yöre sakinleri için kâbus olmayı sürdürecek.</p>
+<p>İkinci yol rezaleti ise, Çatalçam ve Taflan’da yaşanıyor.<br />
+Basit bir stabilizenin dahi olmadığı bu bölgedeki bazı yollar, her yağmurda çamur içinde kalıyor.<br />
+Bazı bölgelerde bu rezalet yaşanırken, nüfuslu insanların yaşadığı bazı sitelerin ve evlerin bulunduğu yerlerdeki yolların alt yapısı yapılarak asfaltlandığını, hatta parke taş döşendiğini görüyoruz.<br />
+Şimdi size Taflan’daki çok önemli bir bulvarda yaşanan yol rezaletini ekteki fotoğraflarla anlatmak istiyorum;<br />
+Samsun Bafra arasındaki karayolunun üzerinde bulunan Taflan Un Fabrikası önündeki kavşaktan, Taflan Sahiline uzanan İnönü Bulvarı ve bu bulvarın son kısmını Erenköy ve Çatalçam tarafına bağlayan 8147. Cadde, bu yöredeki en işlek arterlerdir.<br />
+İnönü Bulvarı üzerinde ve yan bağlantı yollarında üç tane okul bulunmakta ve belediye otobüsleri ile dolmuşlar da bu bulvarı ve bağlantı yollarını kullanmaktadır.<br />
+Ne İnönü Bulvarı, ne de 8147. Cadde ciddi bir şekilde ele alınarak asfaltlanması sorunu yıllardır çözülemedi.<br />
+Yıllar önce bu bulvar sözüm ona asfaltlandı. Alt yapısı ve kenar bordürleri ile yaya kaldırımları yapılmadan, zemine sürülen zift üzerine dökülen mıcır kendi haline bırakıldı.<br />
+Silidir ile sıkıştırılması gerekirken, bu yolları kullanan araçların sıkıştırması ile yapılan yol, bir türlü kalıcı olmadı. Her yıl yama yaparak geçiştirildi.<br />
+O yörede yaşayanlar olarak tüm başvurularımıza rağmen, geçtiğimiz yaz boyu bu yola bakımda yapılmadı.<br />
+Yol delik deşik olduğu için bu yolları kullanmak zorunda olan araçlar, çukurlara düşmemek için zikzaklarla ilerlemek zorunda kalırken, bu yolların çevresinde oturan yöre sakinleri de toz toprak içerisinde kaldı.<br />
+Yaz boyunca yapılmayan bu yollar, 2022 yılının sonunda, tam da kışa girerken kasım ayında yine eski ve son derece özensiz yöntemlerle asfaltlanmaya başladı.<br />
+Yollara yeterince zift dahi dökülmeden üzerine bolca mıcır döküldü ve üzerinden silindir geçirilerek mıcırın sıkıştırılması yapılmadan, yine araçların geçişine açıldı.<br />
+İki hafta sonra Taflan’a gittiğimde, yan taraflarda bordür olmadığı için yola dökülen mıcırların araçların geçişi sırasında, yolun kenarındaki toprak alanlara savrulduğunu gördüm.<br />
+B. Ş. B. Başkan Yardımcısını arayarak yolun durumunu ve mıcırların toprağa karışarak ziyan olduğunu anlatarak, bu yolların kenarlarına bordür konulmasını rica ettim.<br />
+Bir süre sonra gittiğimde ise, hiçbir işlem yapılmadığı gibi daha yapılalı bir ay olmamış yolun delik deşik olduğunu görünce, bu yolun yapımında görevli olarak gördüğüm mühendisi arayarak yolun bozulduğunu ilettim. Kendisi de ilk fırsatta gidip inceleyeceğini söyledi.<br />
+Nitekim sonraki haftalarda yolda oluşan çukurların yamanarak onarıldığını gördüm. Ne yazık ki o yamalarda kısa süre sonra bozuldu.<br />
+Kış aylarında bu kez de bulvarın yan taraflarında kanalizasyon veya su boruları döşeme işlemi yapıldı.<br />
+Sonunda, daha yapılalı 4 ay olmuş yol, ekteki fotoğraflarda da görüleceği gibi yer yer kullanılamaz hale geldi.<br />
+Sonuç olarak gözüken o ki, Taflan bölgesi bu yaz da çok ciddi yol sorunu yaşayacaktır.</p>
+<p>Şimdi sormak istiyorum?<br />
+Samsun Büyükşehir Belediyesi, bir yolu dahi usulüne uygun asfaltlamayı neden beceremiyor?<br />
+Toplamı 1.5- 2 Km. olan bir arteri, her yıl yeniden yapacak kadar zengin bir ülke miyiz?<br />
+Halkın vergileri ile yapılan bu yolların yapımında oluşan zararların hesabı sorulmayacak mı?<br />
+Bu yörenin nüfuslu insanların yaşadığı bazı bölümlerinde, bordürleri, yaya kaldırımları ve alt yapısı ile güzel asfaltlar ve parke taşların döşendiği yollar yapılırken,<br />
+Neden belediye otobüslerinin ve dolmuşların ve de her gün çok sayıda öğrenci ve öğretmenin kullandığı İnönü Bulvarı gibi ana bir arter, kaderine terk ediliyor?<br />
+Yıl boyu veya yılın yarısını Taflan’da geçirenlerin, en azından Büyükşehir Belediye Başkanlığı ile Atakum Belediye Başkanlığı’ndan bu ilgisizliğin nedenini sormak hakları değil midir? Diye düşünüyorum.</p>
+<p>Büyükşehir Belediye Başkanı ile ilçe belediye başkanlarının, kendisini seçen halkına eşit ve özenli hizmet götürmek zorunda olduklarını hatırlatıyor ve bu kentin insanları olarak bu hizmeti hak ettiğimize inanıyorum.<br />
+İyi haftalar dileğiyle… 18.04.2023</p>
+<p>Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="1068-abd-ulkemizin-gelecegi-acisindan-tehdit-olusturuyor-mu.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="1070-turkiye-nin-en-onemli-secimine-23-gun-kala-herkes-secimde-verecegi-oyun-hesabini.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

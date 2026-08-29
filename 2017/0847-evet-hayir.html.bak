@@ -1,0 +1,333 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Evet-Hayır</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Evet-Hayır
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2017
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0847
+
+</div>
+
+
+<div class="article-content">
+
+<p>e-posta; denizeczaneoptik. com                            SUNUŞ</p>
+<p>EVET! HAYIR! UĞRUNA HARCANAN DEĞERLERİMİZ</p>
+<p>Yazımın içeriğine girmeden önce bugünlere nereden ve hangi süreçlerden geçerek geldiğimizin hatırlanmasında yarar görüyorum.<br />
+Bu süreç, Orta Asya’da ki yaşam şartlarının zorlaşması üzerine Türklerin 1071 yılında kavimler halinde Anadolu’ya geçmesiyle başlar.<br />
+Daha sonra bu kavimler 1299 yılında Osmanlı Bayrağı altında toplanarak, 1600’ lı yıllarda Osmanlıyı Dünyanın en büyük imparatorluğu yaparlar.<br />
+İşte bu dev imparatorluk, sonra ki yıllarda bu büyümenin gerektirdiği donanımlı ve yeniliklere açık olmayan basiretsiz saltanat liderlerinin, Avrupa’da ki teknolojik gelişmelere ayak uyduramaması ve bu yayılmanın getirdiği korkunun Avrupa’da büyük bir Türk düşmanlığına dönüşmesi ile giderek zayıflamaya başlamıştır.<br />
+Sonunda bu dev Osmanlı imparatorluğu içeriden kendi yanlışları, dışarıdan Avrupa Devletlerinin sinsi politikalarına yenik düşerek 1. Dünya savaşı sonrası tarihe karışırken, elde kalan son vatan toprağı Anadolu’nun da büyük bir kesimi işgal edilmiştir.<br />
+Bugün bu topraklarda Türk kimliği altında yaşayabiliyor ve her türlü olumsuzluğa rağmen seçimler ve referandumlar yapabilmemizi sağlayan bir demokrasi rejimiyle yaşıyorsak, bunu işgal altında ki Anadolu’yu yaktığı özgürlük ateşiyle başlattığı Kurtuluş Savaşı zaferi ile Avrupalı sömürgeci devletlerin işgalinden kurtaran Mustafa Kemal Paşa ve arkadaşlarına borçlu olduğumuzu hiçbir zaman unutmamalıyız.<br />
+İşte böylesine üç kıtaya yayılmış dev bir imparatorluk topraklarından sonra Anadolu’yla yetinmek zorunda kalan bu Ulus, bugün bir kez daha Kurtuluş Savaşı öncesinin benzeri iç ve dış saldırıyla karşı karşıya kaldığı zor bir dönemden geçiyor.<br />
+Peki, biz bu zor süreci aşmak için el ele vererek hep birlikte hareket etmemiz gerekirken, ne yapıyoruz?</p>
+<p>Böylesine önemli bir güç birliğine ihtiyacımız varken, neden ve niçin gerekli olduğu anlaşılamayan bir Anayasa değişikliği dayatması ile toplumu kamplara ayrıştırıyoruz?<br />
+İç ve dış sorunlarla karşı karşıya olduğumuz bir dönemde toplumumuzu ortadan ikiye bölüp, neredeyse birbirine düşman haline getiren bir “BAŞKANLIK SEVDASINI” onaylatmak için ülkeyi referanduma götürüyoruz.<br />
+Çağdaş demokrasilerde görülmeyecek sıklıkta seçim ve referandumlarla zaten toplumu da siyasetin bir parçası haline getirdik.<br />
+Ülkesinde ki yanlışlara direnmek ve orada ki savaşta ülkesini savunmak yerine ülkesinden kaçan Suriyeliler, sığındıkları ülkemiz de kendi yoksullarımızın alamadığı parasal desteklerle yan gelip yatarken, çoğunluğu da Anadolu’nun yoksul ailelerinin çocukları olan kınalı kuzularımızı, onların ülkesinde onların topraklarını koruma uğruna şehit olmaya gönderiyoruz.<br />
+Söylerken dahi içim yanıyor ama hiç şehit cenazesi kaldırılan varlıklı ve nüfuslu bir kişinin evini gördünüz mü?<br />
+Biz bu sorunları tartışarak çözüm üretmek yerine, şehit cenazelerinde hamaset nutukları atarak, “EVET’ de” Çıksa, “Hayır’da “ Çıksa, çok daha büyük sorunlarla karşı karşıya kalacağımızın hesabını yapmadan bir referanduma koşuyoruz.<br />
+Sonuçta hangi tarafa bırakın %51’ i, % 60 da çıksa, referandum sonrasında hiç kimsenin mutlu olamayacağı bir Türkiye bizi bekliyor.<br />
+Bunun nedenlerini tartışmaya açmak yerine, sizleri “Evet” veya “Hayır” hangisi çıkarsa çıksın, sonrasında neler olabileceğini değerlendirmeye ve düşünmeye davet ediyorum.<br />
+60 gün sonra sandık başına gideceğimiz Referandum da onaylatılmak istenen Anayasa Değişikliği ile Osmanlı döneminin 1876 yılından beri ülkemizin yönetildiği parlamenter yönetim şekli sonlandırılarak (Üstelik Türkiye, 1945 yılından itibaren çok partili demokrasi uygulamasına geçerek, her görüşün TBMM’ de temsil etmesine olanak da sağlamıştır.) “Tek Adam Yönetimi” Olarak adlandırılan, “BAŞKANLIK” Modeline geçilecektir.<br />
+Bu iki rejim modeli arasında çok önemli bir fark vardır.<br />
+Parlamenter rejimlerde, yürütme olarak anılan ve seçimler sonrası ülkeyi yönetme hakkı kazanarak hükümet olan tek parti hükümetleri veya çok partili koalisyon hükümetleri, yargının denetimi altında görev yapar.<br />
+Başkanlık modelinde ise,  tüm yürütme (ülkeyi yönetme) yetkileri tek kişiye, yani Başkana verilmiştir Yürütme görevini yapan Başkan, vatana ihanet dışında yargının denetimi dışında tutulmuştur. Doğru veya yanlış tüm yapacaklarından sorumsuzdur.<br />
+Yapılan Anayasa değişikliği onaylanırsa, getirilecek Başkanlık modelinde Cumhurbaşkanının (Başkanın) tek başına alacağı kararları ülke çıkarları açısından süzgeçten geçirecek hiçbir başka kurum oluşturulmamıştır.<br />
+Üstelikte, gerektiğinde Cumhurbaşkanı’nı (Başkanı) Yüce Divan olarak yargılayacak olan anayasa Mahkemesinin 15 üyesinin 13 tanesini de Cumhurbaşkanı atayacaktır.<br />
+TBMM’ nin denetim olanakları da, imkânsız denebilecek yüksek oy sayılarına bağlanmıştır.<br />
+Burada bir nokta koyarak, en iyi Başkanlık sisteminin uygulandığı ülke olarak bilinen Amerika’ da ki Başkanlıktan söz etmek istiyorum.</p>
+<p>Amerika’ da yapılan son seçimde, toplumun bir kesiminin endişe duyduğu bir aday Başkanlığa seçilmiştir.<br />
+Başkan seçilen Donald Trump, kısa sürede endişelerin boşa olmadığını göstermiştir. 7 İslam ülkesi vatandaşına koyduğu Amerika’ya giriş yasağı, bir anda tepkileri üzerinde topladı. Ama orada ki Başkan’ın yapacağı yanlışa dur diyecek Federal Mahkeme vardı ve alınan kararı askıya aldı.<br />
+Kaldı ki, bunun dışında da Amerika Başkanların alacağı önemli kararları onaylatmak zorunda oldukları bir de Senato mevcuttur.</p>
+<p>Biz de getirilmek sistem de, Başkanın partisinin de Genel Başkanı olmasına olanak veren değişiklik tasarısı ile milletvekillerinin seçimi ile Başkan seçiminin birlikte yapılacak olması nedeniyle, doğal olarak TBMM’ de çoğunluğu da Başkanın partisinin milletvekillerinden oluşacaktır.<br />
+Partisinin milletvekillerinin de Başkan tarafından belirlenecek olduğu düşünülürse, TBMM’ nin hiçbir denetim şansının olamayacağı daha iyi anlaşılır<br />
+Kaldı ki, parlamenter sistemlerde bulunan gensoru ve kurulacak hükümetlerin güvenoyu alma zorunluluğu da yapılacak değişiklikle kaldırılmıştır.<br />
+Üzülerek söylemek gerekirse, toplumun % 70 e yakın çok büyük bir kısmı da değiştirilecek Anayasa maddelerinin içeriği ve ne getirip, ne götüreceği hakkında bilgi sahibi değildir.<br />
+Bu konuda yazılı ve görsel medya da asli görevi olan toplumu aydınlatma noktasında görevini yapmamakta, hatta bu görevini kötüye kullanarak toplumun kafasını daha da karıştıracak saptırmalara zemin hazırlamaktadır.<br />
+Bu ülkenin en önemli hukuk fakültelerinde ki Anayasa hocalarını davet ederek, Anayasa da değişiklik yapan taslağın maddelerini hiçbir görüşün güdümünde olmaksızın, tamamen hukuk açısından anlatarak toplumun öğrenmesine ortam hazırlamamaları düşündürücüdür.<br />
+Zaten iktidarın getirdiği her uygulamaya gözü kapalı destek verecek kadar güdümlü olanlar dışında kalan ve kısmen tarafsız kalmaya çalışan TV kanalları dahi, yukarıda belirttiğim kariyerde ki akademisyenler yerine, tek özellikleri “EVETÇİ” ve “HAYIRCI” olan özel vakıf üniversitelerinin hukukçu olmayan akademisyenlerini, avukat ve gazetecileri reyting amacıyla birbirleriyle vuruşturmaktadırlar.<br />
+Yaşanan belirsizlikler yanında dayatmalar, başta üniversiteler olmak üzere toplumda korkuya dayalı bir suskunluk yaratmış bulunuyor.<br />
+Toplumda ki ayrışma giderek artmakta ve ciddi bir kamplaşmaya ortam hazırlamaktadır.<br />
+Tüm siyasi aktörlerin, ülkemizin iç ve dış tehditlerle uğraştığı bu dönemde, önümüzde ki altmış günlük süreçte toplumsal barışı yıkacak her türlü söylem ve eylemden kaçınmaları şarttır.<br />
+Aksi halde, “Hayır da” çıksa, “Evet de” çıksa, referandum sonrası, yeni sorunlara zemin hazırlayacaktır.<br />
+Ortak aklın geçte olsa öne geçmesi dileğiyle, iyi haftalar. 12.02.2017</p>
+<p>LÜTFEN! UNUTMAYINIZ..<br />
+HAVA ALANIMIZ ÜÇ AYLIĞINA KAPATILACAKTIR..<br />
+Denizleri aşan asma köprüler yapabilen, İstanbul Boğazının altından tüp yollar geçiren ve kilometrelerce otoyol yapabilen bir Hükümet döneminde, altı üstü 3- 4 km. uzunluğunda ki 2. Pistin maliyetinin gerekçe olarak gösterilerek yapılmaması ve alanın kapatılarak onarılacak olmasının asıl nedenin, bunlar olmadığı belli oldu. Şimdi sorum şu;<br />
+Samsun’a yapılan bu haksız dayatmalara neden sessiz kalınıyor?<br />
+NEDEN? NEDEN? NEDEN?</p>
+<p>Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0846-toplum-olarak-yasanan-sorunlarin-nedeni-unuttugumuz-sevgidir.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0848-turkiye-nin-ekonomik-cikis-yolu-tarimdadir.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

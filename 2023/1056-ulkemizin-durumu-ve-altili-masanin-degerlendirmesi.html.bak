@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Ülkemizin Durumu ve Altılı Masanın Değerlendirmesi.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Ülkemizin Durumu ve Altılı Masanın Değerlendirmesi.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2023
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+1056
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>GÜNÜMÜZ TÜRKİYE’SİN DE YAŞANANLARIN BENİM<br />
+PENCEREMDEN DEĞERLENDİRİLMESİ.</p>
+<p>Ülkemiz her bakımdan Cumhuriyet döneminin en sıkıntılı dönemini geçiriyor.<br />
+İç siyasette, tek adam yönetiminin uzlaşmazlık temeline dayalı dayatmacı politikalarının, özellikle demokrasi ve özgürlüklerden yana olan geniş bir kesimi rahatsız ettiği bir gerçektir.<br />
+Öte yandan, toplumun gerektiğinde hakkını savunacak olan yargının siyasi iradenin güdümüne girmiş olması,<br />
+Halkın demokratik hakkı olan en basit gösteri ve basın açıklamalarının dahi, halkın güvenliğini sağlama görevi olan emniyet ve jandarma güçleri tarafından zaman zaman aşırı güç kullanılarak engellenmesi ve göstericilerin gözaltına alınması,<br />
+Ülkemizin en iyi üniversitelerinden birisi olan Boğaziçi Üniversitesine dayatılan yaptırımlar ve üniversitelerde yapılması geleneksel hale gelen diploma törenlerinin dahi, yapılabilecek protestolardan rahatsız olunarak iptal edildiği bir ortamda, oluşan tepkileri yadırgamamak gerekir.<br />
+Nitekim ülkemizde giderek artan dozda sürdürülen bu dayatmacı siyaset, toplumu ciddi boyutta bir korku tüneline sokmuştu.<br />
+Ancak, son aylarda toplumun bu korku duvarını yıktığı ve artık sokaklarda sesini yükselttiği görülüyor.<br />
+Dış siyasette de, işler istendiği gibi gitmiyor. Neredeyse tarihimizde ilk defa tüm komşu devletlerle ilişkilerimizin bozulması ile ülkemiz için çok önemli olan ihracat kapıları da kapanmıştır.<br />
+ABD’ nin bölgemizde ki ülkeler üzerinde kurguladığı BOP (Büyük Ortadoğu Projesi) doğrultusun da, Türkiye hariç hepsine askeri müdahale de bulunması veya iç savaş çıkartması ile bölgemiz tam bir kargaşa ortamına sürüklenmiş bulunuyor.<br />
+Şimdi de, benzer bir oyunun ülkemizde kurgulanmaya çalışıldığı endişeleri yaygınlaşıyor.<br />
+Ülkemizin güvenliği için yıllardır Güney ve Güneydoğu Bölgemizde sürdürülen askeri operasyonların ABD’ nin bölgede ki uzantıları tarafından engellenmesi ve o bölgede ki terör örgütlerinin ABD tarafından silahlandırılması, ABD ile olan ikili ilişkilerimizi güvenilemez hale getirmiştir.<br />
+Hepsi bir yana ABD’nin yönlendirdiği ve desteklediği PYD, İŞİD ve PKK, bu bölgede düzenlediği bazı bombalamalarla Türkiye’yi zan altında bırakmaya çalışmaktadır.<br />
+Bunun son örneğini geçtiğimiz günlerde yaşadık. Irak Zaho’da ki Pazar yerinde muhtemelen arkasında ABD’ nin olduğu bölücü terör örgütlerinden birisinin patlattığı bomba ile çocuk ve yetişkinlerden oluşan çok sayıda sivil yaşamını kaybetmiştir.<br />
+Bu bombalama ile Türkiye’nin komşu ülke Irak’ın ilişkilerinin daha da bozulması amaçlanabiliyor olabilir.<br />
+Türk Askerinin bu bölgede sürdürdüğü bölücü terör örgütlerine yönelik temizlik harekâtının önünü kesmek için yapılıyor da olabilir. Bunlar, ülkemiz adına çok ciddi tehdit oluşturmaktadır.<br />
+Bu arada Türkiye’nin üyesi olduğumuz NATO ile ilişkilerinin de giderek bozulması, ülkemiz açısından son derece düşündürücü bir duruma gelmiştir.<br />
+ABD’ nin son aylarda Yunanistan’ın Trakya’da ki sınırlarımızda çok önemli miktarda zırhlı araçlar ve asker yığması, ülkemiz adına çok büyük bir tehdit oluşturmuştur.<br />
+Yunanistan’ın kuzeyinde Bulgaristan, doğusunda ise Türkiye bulunmaktadır. Yunanistan sınırımızda ABD’ nin bu kadar büyük bir askeri güç yığmasının nedeni, olsa olsa Türkiye’ de çıkartılacak bir kargaşa halinde Irak ve Suriye’de yaptığı gibi “Türkiye’ye de ki iç karışıklığı önlemek ve demokrasiyi getirmek” Bahanesiyle ucu nerelere varacağı belli olmayan bir askeri müdahale de bulunma amaçlı olabilir.<br />
+Görüleceği gibi ülkemiz adına yaşanan böylesine önemli sorunlar yaşanırken;<br />
+Ekonominin de hızla kötüye gitmesi ve Doların hızlı artışı ile TL’ nin hızlı değer kaybı, Devletin iç ve dış borcunun Cumhuriyet tarihinin en yüksek seviyesine çıkması, İngiliz bankerlerden alınan yüksek faizli borçlar, ülkemizi içinden kolay kolay çıkılamayacak bir çıkmaza sokmuştur.<br />
+Bu arada Amerika’da tutuklanan ve yaptığı itiraflarla ABD’ nin eline önemli kozlar veren Zarab’tan sonra, kara para aklamak ve dolandırıcılık suçlamaları ile Avusturya’da tutuklu bulunan Sezgin Baran Korkmaz’ın da ABD’ ye iade edilerek tutuklanması ile ABD, muhtemelen ülkemize baskı ve şantaj yapabilecek bilgilere sahip olmuş olabilir.<br />
+Bunlar, hiçbir ülkenin kolay kolay altından kalkabileceği sorunlar değildir.<br />
+Bu nedenlerle ülkemizde ki tek adam yönetimine dayalı “Başkanlık Modeli” sürdürülemez duruma gelmiştir.<br />
+Siyaset kurumlarının böylesine güven kaybına uğradığı demokratik ülkelerde en kısa sürede erken seçime gidilir ve ya mevcut hükümet seçimleri kazanarak güven tazeler ve yoluna devam eder veya seçimi kazanacak muhalefet partisi veya muhalefet bloku yeni bir program ve sistemle ülkeyi çıkmazdan çıkartır.<br />
+İşte böylesine sorunların yaşandığı ülkemizde geleceğe umut aşılayan bir yapılanma olarak ortaya çıkan altı muhalefet partisinin bir araya gelerek oluşturduğu “Millet İttifakı” ile ilgili değerlendirmemi de önümüzde ki hafta bu köşede sizlerle paylaşacağımı belirterek güzel bir yaz haftası diliyorum. 26.07.2022<br />
+Ecz. SADİ SUBAŞI<br />
+e- http://www. hedefhalk. com</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="../2022/1061-bu-benim-ulkem-olamaz.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="1062-burasi-samsun-olur-boyle-seyler.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

@@ -1,0 +1,337 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Samsun Sürekli Uçuyor.Ama Uçtuğunu Gören Yok…</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Samsun Sürekli Uçuyor.Ama Uçtuğunu Gören Yok…
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2012
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0577
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>SAMSUN SÜREKLİ UÇUYOR AMA UÇTUĞUNU<br />
+GÖREN YOK..</p>
+<p>Ben kendimi bildim bileli Samsun uçuyor. Daha doğrusu siyasetin ve yöneticiliğin doruğuna çıkanlar tarafından Samsun’un uçacağı müjdeleniyor. Her defasında da bu uçuşlara gaz veren bir proje sunuluyor.<br />
+Kalkınmaya ve yatırıma susamış, işsizlik sorunu karşısında  ezilmiş benim güzel Samsunlum da çare olur umuduyla, her vaade inanıyor ve tatlı hayallere dalıyor.<br />
+Bekliyor ki, Samsun havalanıp uçsun..<br />
+Ne var ki,<br />
+Bekle, bekle ne uçan var? Ne de müjdelenen yatırımı yapan..<br />
+Bu uçuş vaatleri son on yılda daha da yoğunlaştı.<br />
+Nasıl olsa, bu tatlı zokayı yutan ve tatlı hayallerden uyanındığında da uyutulduğunu görüp tepki dahi göstermeyen bir kent var karşılarında..<br />
+Öyleyse proje mi yok? Ondan çok ne var. Birinin etkisi geçince üflersin bir yenisini.. Garibim bir süre daha oyalanır..<br />
+Böylece siyasetçilerimiz ve yöneticilerimiz de görevlerini yapan insanların rahatlığı ile Samsunumu temsil etmeyi ve yönetmeyi sürdürürler..<br />
+Gelin hep birlikte zaman tünelinde bir uçuş da biz yapalım ve bakalım hangi projelerle Samsun uçurulmuş...<br />
+1999 da Marmara depreminden büyük zarar gören tersanelerin açığını kapatmak üzere bir dizi yeni tersane yapımı gündeme gelmişti. Bunun ilklerinden birisi de Samsun’da yapılacaktı.<br />
+Proje, ilk kez Merhum Ecevit Başkanlığında ki Koalisyon Hükümeti sırasında gündeme gelmiş ama dönemim Tarım Bakanı’nın tersane sahasının tarım alanı olduğunu belirterek direnmesiyle sürünceme de kalmıştı.<br />
+Daha sonra iktidara gelen AKP Hükümeti projeyi ciddi şekilde ele almış ve kısa sürede tamamlanacağını açıklamıştı. Milletvekillerimiz tarafından müjdelenen proje Samsunluyu tatlı hayallere sürüklemişti.<br />
+Hatta o günlerde bu müjde yaklaşan 2004 Yerel Seçimlerinin de en büyük kozu olmuş ve seçimlerden sonra 15.000 işçi alınacağı vaadi ile listeler dahi yapılmış ve oylar toplanmıştı.<br />
+2004 yılıydı ve Samsun 2000’li yılların ilk uçuş denemesini yapıyordu.<br />
+Yıl 2012. Henüz tersaneden bir haber yok. Samsun uçuşa geçemedi. Bu Samsunlunun ilk düş kırıklığıydı.<br />
+Ama Samsunlu umutluydu. O olmadı ama nasıl olsa bir başka proje gelirdi. Geldi de..<br />
+Samsun milletvekilleri yeni bir müjde veriyordu. Samsun bu kez uçacaktı..<br />
+“Teşvik Kanunu” genişletiliyordu ve bu kez Samsun teşvik alan iller kapsamına alınıyordu. Yatırımlar teşvik edilecekti ve böylece yatırımlar birbirini kovalayacaktı.<br />
+Samsun’da yatırım yapacakların SSK primleri düşecek, karşılıksız yer tahsisleri yapılacak, vergi indirimleri tanınacak, elektrik daha ucuz verilecekti. Üzerine bir güzellik de, ucuz teşvik kredileri verilerek yapılacaktı..<br />
+Sanayi alt yapısı yeterli, yan sanayisi güçlü olan Samsun’da yatırımlar patlayacak, işsiz kimse kalmayacaktı..<br />
+O da ne? Doğu, Batı ve İç Karadeniz Bölgesinin tüm illeri içersinde sadece Samsun dışlanmış ve Samsun bölgede tecrit edilmiş bir il gibi kalmıştı. Lütfen aşağıdaki “Teşvik ayıbı haritasına” bir göz atınız.<br />
+Samsunlu, bu müjdeyi veren vekillerinin müjdelerine sahip çıkacağındam emindi. Ama sonuç tam bir hayal kırıklığıydı. Sayın Başbakan ve ilgili Bakanlar Samsun Ticaret Odası’nın salonun da, “Samsun’un buna ihtiyaç duymayacak kadar zengin bir il olduğunu” söylerken, Samsun milletvekilleri tek söz söyleyemiyor ve suskunluğu seçiyorlardı.<br />
+Daha acı ve düşündürücü olanı salonu dolduran ve teşvikten en çok yararlanacak işadamlarımız, Samsun’u teşvik dışına iten bu konuşmayı ayakta alkışlıyordu.<br />
+İŞTE O GÜN, SAMSUN’UN BITTIĞI VE YALNIZLIĞA TEKEDILDIĞI GÜNDÜ.<br />
+Sivil toplum kuruluşları SAM-SEV’İN öncülüğünde hak arama mücadelesi verirken işadamlarımızın kuruluşu bu direniş içersinde yer almayarak Samsun’u teşvik dışında bırakan hükümet kararına sahip çıkıyordu.<br />
+Teşvik şoku yeni geçmişti ki, yeni bir müjde geldi. Samsunluya teşvik verememişlerdi ama varsın olsun, Samsun’u “Cazibeli Kent” yaparak bu kez uçuracaklardı.<br />
+Ne var ki, Samsun için birşeyler ters gidiyordu. Bu kez de Başbakan Yardımısı Sayın Nazım Ekrem, sanki inadına yapar gibi Samsun’u dışlayan Cazibeli illerin isimlerini yine Samsun’da açıklıyordu.<br />
+Salonda oturan Milletvekillerimizden, kent yöneticilerinden ve de her zaman güçlüden yana oynamayı ilke edinmiş özel davetli sivil toplum kuruluşlarının temsilcilerinden yine ses çıkmamış ve tek itiraz gelmemişti.<br />
+Samsun uçağı bu kez de havalanamamış, adeta çakılmıştı...<br />
+Projeler biter miydi?<br />
+Samsun birgün “Turizmin” parlayan yıdızı, bir başka gün bölgenin “Sağlık Merkezi” ilan ediliyordu.<br />
+Geçen hafta içersinde Turizm balonu da patladı. Uçak bir kez daha çakıldı..<br />
+Sağlık Merkezi projesinin de getirisi henüz görülebilmiş değil.<br />
+Araya sıkıştırılan “Samsun Ankara Hızlı Tren Projesi” de boş çıkıyor ve böyle bir projenin açıklanan 2023 programında dahi bulunmadığı anlaşılınca yeni bir şok yaşanıyordu.<br />
+Seçimler yaklaştıkça daha çok projenin adıyla oyalanacağımız kesin..<br />
+Geçen haftanın bombasını da Samsun Ticaret Odası Başkanımız Sayın Salih Zeki Murzioğlu patlatıyor ve “Bu Proje Samsun’u uçurur” Diyordu.<br />
+Projenin adı, “Samsun’u Lojistik Merkez” Yapmaktı. Sayın Murzioğlu’na göre bu iş için 53 Milyon Euro bütçe ayrılmıştı.<br />
+Umarım bu projenin de bir başka ile verildiği, Samsunlunun gözünün içine baka baka Samsun’da açıklanmaz..<br />
+Geçtiğimiz gün karşılaştığım deneyimli gazeteci dostuma hadi gözümüz aydın “ Samsun bu kez uçacakmış” diye takıldım. Dostum, doğru koku almış ve bu kez uçacağına inanmış olacak ki, yetkilileri arayarak ilk uçuştan kendisine yer ayırttığını söylüyordu...<br />
+Şimdiden iyi uçuşlar dilemek de bize düşüyor..<br />
+Hafta biterken akademisyen bir vekilimiz de bu proje furyasına, “Koç Grubuna kuracağı otomobil fabrikasını Samsun’da kur çağrısı yaptım” diyerek katıldı.<br />
+Bir köşe yazarı da kendisine soruyordu.. Neden gelsin ki?<br />
+Ben de diyorum ki, Samsun kalkınma ve atak yapma şansını “Teşvik Yasası” kapsamından dışlanarak kaçırdı.<br />
+Değerli Samsunlu hemşehrilerimin engin hoşgörüsü ve suskunluğu devam ettiği sürece, bu projelerin gerçekleştiğini görmek biz yaştakilere kısmet olacak gibi gözükmüyor..<br />
+Zaman tünelinde bu gördüklerimiz insana bir “Nisan şakası” gibi geliyor.<br />
+Müjdelerden birisinin olsun gerçekleştiği günleri görebilmek dileğiyle, İyi haftalar..   01 Nisan 2012</p>
+<p>Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0576-112-acil-servis-amacindan-uzaklasiyor-mu.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0578-12-sorgulanmali-ama-asil-kimler-sorgulamalidir.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

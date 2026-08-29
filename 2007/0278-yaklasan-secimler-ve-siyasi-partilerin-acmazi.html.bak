@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Yaklaşan Seçimler ve Siyasi Partilerin Açmazı…</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Yaklaşan Seçimler ve Siyasi Partilerin Açmazı…
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2007
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0278
+
+</div>
+
+
+<div class="article-content">
+
+<p>e-mail, sadisubasi@denizeczaneoptik. com                             SUNUŞ</p>
+<p>YAKLAŞAN SEÇİMLER VE SİYASİ PARTİLERİN AÇMAZI..</p>
+<p>Bu yılın sonunda genel seçimler, ondan bir süre sonra da yerel seçimler yapılacaktır. Bu seçimlerle Türkiye’yi gelecek dönem yönetecek siyasi yöneticiler seçilecektir. Demokrasi geçmişi çok eski olmayan Ülkemizde siyasi anlayış ve siyaset yapma kuralları etik olarak bir türlü özlenen seviyeye ulaşamamıştır. Bu nedenle de ülke yönetimine talip olan siyasi görüşlerin kesin çizgilerle belirlenmiş bir çerçevesi yoktur. Siyaset yapanların da siyasi anlayış olarak belirli bir görüşü benimsemiş olması da çoğu kez fazla bir önem taşımamaktadır. O nedenledir ki, seçilmiş milletvekili veya yerel bir yönetici belli bir siyasi görüşü benimsediği için o görüşü savunanların oyları ile seçilmesine rağmen, bir süre sonra şahsi çıkarları için rahatlıkla seçmenlerinin görüşlerine ve oylarına ihanet ederek, tam zıt görüşte ki bir partiye geçebilmektedirler. Tüm bu olanların ülkemizde çok yadırganmamasının nedeni, yukarıda belirttiğim siyasi görüş ve ilkelerin kesin hatlarla belirlenmiş olmamasından kaynaklanmaktadır.<br />
+Demokrasimizde siyasi partiler, siyasi anlayış ve uygulamalarının tabandan başlayarak doğru yapılanmaması sonucu istenen ölçüde etkin olamamaktadırlar.  Bunun doğal sonucu olarak çağdaş demokrasilerin bir başka önemli kurumu olan Sivil Toplum Kuruluşları onların önüne geçmektedirler. Son yıllarda basının da sermaye sahiplerinin eline geçerek gerçek görevlerinden uzaklaşması nedeniyle, toplumun çıkarlarını savunmak ve bir anlamda yerel yöneticiler ile siyasilere proje sunmak sadece Sivil Toplum Kuruluşlarına kalmış gözükmektedir. Bu, Sivil Toplum Kuruluşları açısından ne kadar olumlu bir gelişme ise, siyasi partiler için de o kadar olumsuz bir sonuçtur.<br />
+Siyasi partilerin bu olumsuz görüntüsünün altında yatan en önemli neden, siyasi partilerdeki genel başkan sultasının ve biat ( kesin itaat ) yönteminin geçeli bir kural oluşudur. Siyasi bir partinin genel başkanının en önemli görevi partisini ve savundukları ilkeleri iktidara taşımaktır. Çağdaş demokrasilerde siyasi partiler bu kural üzerine oturmuştur. İçine girmeye çalıştığımız AB de üst üste iki seçimde başarılı olamayan bir genel başkan görevde kalamaz, kalmanın da çabasını göstermez. Bizde ise böyle bir kuralın işletilme şansı yoktur. Partisinin oyu sürekli düşmesine rağmen koltuğunu koruma savaşı veren ve bu uğurda her şeyi göze alarak kendilerine demokratik kurallar içersinde rakip çıkanların önünü kesen siyasi parti liderleri ile demokrasimizin sık, sık önünün tıkanmasını çok da yadırgamamak gerekir. Tüm bu olumsuzlukların nedeni seçim ve siyasi partiler kanunudur. Seçim öncesi herkesin yakındığı siyasi partiler kanunun yeniden düzenlenmesi, her nedense seçim sonrası unutulur. Koalisyon dönemlerinde ortak ilkelerde anlaşılamaması bir bahane olabilir ama bu günkü mecliste sayısal üstünlüğün tek partinin elinde olmasına rağmen bu yasanın ele alınmaması düşündürücüdür.<br />
+Milletvekili adaylarının belirlenmesi aşamasında, genel başkanların adeta tek seçici rolü oynadığı sistemin geçerli olduğu bir seçim sonrası,    seçilenlerin partisinin yanlışlarına tavır koyması ve genel başkanını eleştirmesi demek, o meclisi bir daha görememesi demektir. Mevcut sistemle de bu cesareti gösterecek etik anlayışa sahip siyasetçileri meclise göndermek mümkün olmamaktadır. Aynı anlayış yerel bazda da geçerli olduğu için, kentlerde de siyasi partilerin yapabildikleri genel başkanlarının doğrularını savunmaktan öteye geçmemektedir. Bu anlayış tarzı kentlerin en büyük sorunudur.<br />
+Özellikle hızlı gelişen kentlerin artan sorunları karşısında ciddi tavırlar sergileyen Sivil Toplum Kuruluşları yalnız kalmaktadırlar. Kent adına gördükleri yanlışları gündeme taşıyan Sivil Toplum Kuruluşları iktidarların hedefi haline gelmektedirler. Kenti yönetenler bu kuruluşların düşüncelerini almak veya toplumu yakından ilgilendiren uygulamalarını hiç olmazsa konuyla ilgisi olan STK ile dahi paylaşmaktan kaçınmaktadırlar. Oysa bu özveriyi gösterebilseler, sağlayacakları uzlaşı ortamı ile sonuçta zaten uygulama yetkisi kendilerinde olan yerel yöneticilerin işi çok daha kolaylaşacaktır. Bu kuruluşların mesleki deneyim ve birikimleri ile proje üzerindeki eleştirileri onlara belki de yeni açılımlar sağlayacaktır. Böylesine çağdaş anlayışlar gerçekleşmeyince, Sivil Toplum Kuruluşları zorunlu olarak konuyu kamuoyuna taşıyarak gündem oluşturmak zorunda kalmaktadır. Hiçbir yaptırım gücü olmayan STK’lar, ancak bu yolla toplumun çıkarlarına sahip çıkabilmektedirler. Onun daha ötesine geçtiklerinde ise tüzükleri ve yasal kurallar önlerini kesmektedir.<br />
+Sivil Toplum Kuruluşları seçim önceleri siyasi partilerin en çok değer verdiği kuruluşlardır. Seçim bitince bu ilişkiler de kopar. Oysa siyasi partilerin il ve ilçe yönetimleri arkalarında ki büyük yasal gücün farkında değildirler. Onlar benimsedikleri siyasi görüş çerçevesinde kentlerinde ortaya çıkan yanlış uygulamalarda çok daha büyük tepkiler ortaya koyabilmeli ve yaptırımlarda bulunabilmelidirler. Ancak üzülerek söylemek gerekirse onların da söylem dışında hiçbir etkinlikleri yoktur.<br />
+Bu açıdan Samsun’da ki siyasi partileri incelediğimizde de farklı bir durum göremeyiz. İktidar Partisi yöneticilerinin kendi programlarını uygulaması doğal karşılamak gerekir. Ancak olaya muhalefet açısından bakınca onlar adına olumlu şeyler söylemek mümkün değildir. Muhalefetin görevi, iktidarın uygulamalarını denetlemek ve onların eksiklerini halka anlatarak gelecek seçimler için taraftar toplamaktır. Samsun’da ki olayları incelediğimiz de bunların hiç birisinin yapılamadığı açıkça görülmektedir. Örneğin, Samsun teşvik konusunda büyük bir haksızlığa uğradığında, Sivil Toplum Kuruluşları büyük bir tepki oluştururken, rapor ve haritalarla toplumu bilinçlendirirken siyasi partilerinin söylemler dışında ciddi bir eylemi görülmemiştir. Kent adına tartışmalı birçok proje uygulamaya konurken, çok sayıda bölge müdürlüğü bu kentten kopartılırken ve buna benzer olumsuz gelişmelerde kendi partileri adına puan toplayacak etkinliği gösterememişlerdir. Mobil Santrallerin çalıştırılması Sivil Toplum Kuruluşlarının inançlı direnişi ile durdurulmasına ve bu konuda Danıştay kararı alınmasına rağmen, bu santrallerin sahiplerine çalışıyormuş gibi milyonlarca dolar ödeyenlere karşı hiçbir siyasal girişim başlatamayan muhalefet partileri, seçim sahnesine çıktıklarında seçmenlerine ne söyleyecektir merak ediyorum? Mobil Santral mitinginde söylenenler unutulmuş mudur? O gün iddialı sözler söyleyenler bugün iktidardadır. Daha sonra kurulan “ Mobil Santral Meclis araştırma Komisyonunun”  raporu ne olmuştur. Bunları sormak ve bu çelişkileri sergilemek muhalefet için birer fırsat değil midir?<br />
+Bu günkü sistem içersinde bundan daha iyisinin olabilirliği de gözükmemektedir. Bundan dolayıdır ki, anketlerde siyasetçi güvenirlik sıralamasında nen alt sıralarda yer almaktadır. Bu, Ülkemiz demokrasisi adına çok acı bir gerçektir. Samsun açısından da, siyasetin içinde ki hiçbir dostum kusura bakmasın ama durum hiç de umut verici değildir. Samsun siyasette güçlü olamadığı için, yıllardır hep iktidarlara en çok milletvekili veren illerden birisi olduğu halde, hiçbir iktidar döneminde karşılığını alamamış ve bu günkü kötü kaderine razı olmuştur. Samsun’da ki bu siyasi<br />
+yetersizlik de Samsunluların da büyük sorumluluğu vardır. Böylece,    “Hakkını arayamayan ve hesap soramayan toplumlar hak ettiği şekilde yönetilir” mantığı bir kez daha doğrulanmış olmaktadır..<br />
+Haftanız güzel ve sağlıklı geçsin.. 25-ŞUBAT–2007<br />
+SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0277-dunya-kenti-i-stanbul-ve-dusundurdukleri.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0279-kaderine-razi-olmus-kent-samsun.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

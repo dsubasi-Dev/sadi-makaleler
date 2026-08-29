@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Genç Beyin Göçü Aileleri Parçalıyor.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Genç Beyin Göçü Aileleri Parçalıyor.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2019
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0930
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>GENÇ BEYİN GÖÇÜ KENTLERİ GERİLETİRKEN<br />
+AİLELERİ DE PARÇALIYOR.</p>
+<p>Samsun gibi üniversite mezunu gençlere iş sahası açamayan illerin en büyük sorunu, eğitimli genç nüfusunu kaybetmesidir. Tabii bunun kentlere yansımasının iki olumsuz sonucu olmaktadır.<br />
+Birincisi,<br />
+O kentin giderek yaş ortalaması büyüyen yaşlı bir nüfusa ulaşarak üretkenliğini yitirmesidir.<br />
+Bunun en güzel örneğini, sahip olduğu olanakları bir bir yitirerek ekonomik olarak gerileyen Samsun’da yaşıyoruz.<br />
+Bu konunun detaylarına girmek istemiyorum ama konuya Samsun özelinde bakınca, Samsun’un geleceğinin olmadığını görmenin üzüntüsünü yaşıyorum.<br />
+Üniversite eğitimi yapmış çocuklarımızın Samsun’a dönebilmesinin en önemli şartı, hem onları hem ekonomik olarak tatmin edecek hem de üniversite eğitimi ile kazandıkları birikimlerini uygulayabilecekleri iş alanlarının yaratılmasıdır.<br />
+Peki, Samsun’da böyle bir gelişme var mı? Ne yazık ki buna evet diyebilme şansımız da yok.<br />
+Samsun’da son yıllarda yeni iş alanı yaratacak yatırımları yapmak bir yana, kurulu olan bazı tesisleri de ya özelleştirme adı altında veya başka kentlere taşıyarak yok ettik.<br />
+Aslında bu sorun artık Samsun gibi kentlerin sorunu olmaktan da çıkarak, ülkemizin kanayan bir yarası haline de geldi.<br />
+Boğaziçi mezunlarının dahi iş bulmakta zorlanması, iş bulan çocuklarımızın da çalıştıkları firmalar tarafından çok kötü çalışma ortamında çalışmaya zorlanması, hak ettikleri ücretlerin altında çalışmak zorunda bırakılması, büyük kentlerde iş bulan çocuklarımızı dahi yeni arayışlara itmiştir.<br />
+Daha da önemlisi eğitimli gençlerimiz, ülkemizin giderek demokrasiden uzaklaşması ve özgürlüklerinin kısıtlanması nedeniyle geleceğe ait umutlarını yitirmeye başlamış ve geleceklerini yurt dışında aramaya başlamışlardır.<br />
+Hatta yatırım yaparak gençlerimize yeni çalışma alanları açmalarını umduğumuz büyük iş insanlarının da sermayelerini yurt dışına çıkartarak iş alanlarını daraltmaya başlaması, ülkemiz adına umut kırıcı gelişmelerdir.<br />
+Eğitimli gençlerimizin kentlerine dönememesinin yarattığı ikinci sorunda, baba ocağının parçalanmasına yol açmasıdır.<br />
+Bu da neyin nesi? Dediğinizi duyuyorum. Meraklanmayın, bu olumsuz bir parçalanma olmasa da baba ocağının bütünlüğünü geçici de olsa bozuyor.<br />
+Çocuklarımız iş bulabildikleri büyük şehirlere yerleşiyor ve çoğu kez de orada evleniyorlar. Anne ile babayı bundan daha mutlu edecek bir şey yoktur. İlk başlarda ki bu mutluluk torunlar olunca daha da artıyor.<br />
+Ama ardından da başta düşünülmeyen bir sorun yaşanmaya başlıyor. Çalışan anne ve babanın çocuklarına bakacak güvenilir bir bakıcı bulamaması veya büyükşehirlerde çok yüksek olan bakıcı fiyatını karşılayamaması, bu sorunu ortaya çıkartıyor.<br />
+Yapılacak tek şey anneyi yardıma çağırmaktır. Anne torununa bakmaya gidince, bu kez de baba artık evinde yalnızdır.<br />
+Zaman zaman karşılaştığım arkadaşların yaşadığı yalnızlık bana bunun da bir sorun olduğunu gösterdi.<br />
+Üzücü olan, çocuklarımızın kendi kentlerinde iş bulamaması ile başlayan yeni düzenlerinin, anne ile babalarının en rahat edecekleri dönemde düzenlerinin bozulmasına neden olmasıdır.<br />
+Bu sorunu büyük kentleri yönetenlerin ve yaklaşan yerel seçimler öncesin de aday olanların, bu konuyu da projeleri arasına almasında yarar görüyorum.<br />
+Umarım hem ülkemizin hem de göç veren kentlerin bu sorunlarının çözülmesi ile gençlerin ve ailelerinin rahatlatılması gerçekleşir.<br />
+04.02.2019</p>
+<p>Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0929-bu-ulkede-olup-bitene-aklim-ermiyor.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0931-tv-programlari-rezil-bir-hale-geldi.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

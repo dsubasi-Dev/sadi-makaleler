@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Samsun Anadolu&#x27;nun İzmir&#x27;idir. Değerini Bilelim.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Samsun Anadolu&#x27;nun İzmir&#x27;idir. Değerini Bilelim.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2011
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0515
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>SAMSUN ANADOLU’NUN İZMİR’İDİR. DEĞERİNİ BİLELİM.</p>
+<p>Okurlarım beni genelde eleştiri yazıları yazan birisi olarak tanır ve zaman zaman da bazı dostlarım, bu değerlendirmelerimden dolayı serzenişte bulunurlar.<br />
+Bu konuda bir kez daha belirtmek isterim ki bunun tek nedeni, ülkemi ve de Samsunumuzu çok daha iyi konumlarda görmek istememdir. Eksik ve yanlışlara isyanımdandır.<br />
+Kendimi hiç bir zaman gazeteci görmek gibi bir yanlışa düşmedim. Ama bir köşe yazarının da, gazeteciler gibi toplumu uyarmasının asli görevi olduğuna inanıyorum.<br />
+Bu duygular, beni gördüğüm eksiklikleri ve yanlışları sizlerle de paylaşmaya zorluyor.<br />
+Bu değerlendirmelerimi sizlerin nasıl yorumladığını öğrenmek istiyorum.<br />
+Çok sayıda dostum da, düşüncelerini paylaşan mesajlar gönderiyor.<br />
+Hepsine gösterdikleri duyarlılık ve yüklendikleri sorumluluk anlayışı için teşekkür ediyorum. Çünkü bu paylaşımlar, benim daha doğru değerlendirmeler yapmamı sağlıyor.<br />
+Bugün, bu duygularla Samsun’umuzu güzel yanları ile değerlendirmek istiyor um.<br />
+Öncelikle altını bir kez daha çizmek isterim ki, Samsun sahip olduğu tarihi misyon ve kimliği ile tüm illerimizi kıskandıracak bir konuma sahiptir.<br />
+Buna bir de sahip olduğu coğrafi konumu eklersek, Samsunumuzun değerini çok daha iyi anlatmış oluruz.<br />
+Her şey bir tarafa, Laik ve Çağdaş bir Hukuk Devleti olarak Türkiye Cumhuriyet’inin kurulması ile noktalanan Milli Mücadele’nin ilk adımının atıldığı bir kent olmak, Samsun’u Türkiye’de çok farklı bir konuma taşıyor.<br />
+Ama ne yazık ki, Samsunlular olarak biz bu özelliğimizin ve misyonumuzun farkında değiliz.<br />
+Gönlüm artık bu kentin, kısır ve yerel çerçeveyi aşmayan kutlamalar yerine, önce ulusal sonra da uluslar arası alanda anlam taşıyayacak bir, “ONDOKUZMAYIS FESTİVALİ’NİN” Yaşandığı günleri görmek istiyor.<br />
+Umarım çok daha fazlasını bizler göremesek de çocuklarımız görür diyerek, sahip olduğumuz güzellikleri hatırlayıp biraz moral bulalım istiyorum.<br />
+Öncelikle yazımın başlığını neden böyle koydum, ona bir açıklama getireyim.<br />
+İzmir, Türkiye’de çağdaşlığın ve ülkemizin var olan değerlerine sahip çıkabilmenin simgesi haline gelmiştir.<br />
+Çünkü İzmir, Kurtuluş Savaşı öncesinde ülkemizi Anadolu’dan atmak ve haritadan silmek isteyen sömürgeci devletlerin öne sürdüğü işgal güçlerinin, en acımasız mezalimini yaşamış ve Milli Mücadele’nin zaferinde büyük pay sahibi olmuş kentlerimizden birisidir.<br />
+Kısacası, özgürlüğü kaybetmenin ne demek olduğunu tatmış illerimizin başında gelir.<br />
+İzmir’i farklı kılan şey ise, bunun değerini en iyi bilen ve ona en güzel şekilde sahip çıkabilen, hiçbir baskıdan yılmayan ilimiz oluşudur.<br />
+İzmirli, her ortamda bu ilke ve inançlarına sonuna kadar sahip çıkmış,<br />
+Üzülerek söylemek gerekirse bu örnek alınması gelen tavırlarından ötürü alkışlanmak yerine, son derece çirkin “Gâvur İzmir” ve “Sümüklü İzmir” yakıştırmaları ile aşağılanmak istenmiştir.<br />
+Ve İzmirliler, bunlara karşıda asil tavırlarını anlamlı bir suskunlukla sürdürmekte ve zamanı gelince de demokratik haklarını kullanarak cevabını en güzel şekilde verebilmektedirler.<br />
+Bu değerlendirmeler paralelinde Samsun’umuza baktığımı da çok benzer özellikler görmekteyiz.<br />
+Her şeyden önce, Samsun için sosyal yaşamın en çağdaş olduğu Anadolu ilidir diyebiliriz. Bakmayın siz bazı Anadolu illerinin son yıllarda siyasi güçlerini bizden iyi kullanarak ekonomik ve sanayileşme alanlarında bizi çok geride bırakmasına.<br />
+Bunun nedenlerine girmiyor ve Samsun’da yaşayan herkes çok iyi biliyor diyor ve gerektiğinde de cevabını da bu kenti daha iyi konumlara taşımak iddiası ile seçilen siyasetçilerimiz vereceklerdir diye noktalıyorum.<br />
+Bu kent İzmir’den sonra tek ulusal fuarı kurmuş ve yıllarca da yaşatmıştır.<br />
+Bu kent tamamen kendi insanlarından oluşan fedakâr bir avuç Samsun Sevdalısının yarattığı, bugün sayısı 30000 e dayanan öğrenciye eğitim veren Ondokuzmayıs Üniversitesi’ne sahiptir.<br />
+Bir kentte çağdaşlığın simgesi kültürel etkinliklerdir. Bunlar tiyatrodur, sinemadır, operadır, baledir, müzedir, kütüphanedir, konservatuardır, eğlence mekânlarıdır. Bunların hepsi Samsun’da vardır.<br />
+Ve Samsunlular bunlardan doyasıya yararlanmaktadırlar.<br />
+Ve söyler misiniz? Anadolu’nun en önde gelen kentleri olarak sayılan birçok ilde bunların kaç tanesi vardır?<br />
+Eğer Klasik Batı Müziği konserleri sunulan bir çok Anadolu ili için, “ ….- …. Olalı böyle eziyet yaşamamıştı” yakıştırması yapılırken, Samsun’da neredeyse haftanın hemen her günü, Klasik Batı Müziği ve Türk Sanat Müziği Konserleri, bale, opera, tiyatro sunuluyor ve biletler çok önceden bitiyorsa, o kent çağdaş yaşamı yakalamış demektir.<br />
+Bir klasik konserde, alkışın yeri ve zamanını seçmenin dahi bir çağdaşlık göstergesi olduğu düşünülürse, Samsunlu sanatseverler bu konuda da alkışın en büyüğünü hak ederler.<br />
+Çağdaş yaşamın göstergelerinden bir diğeri de kent yaşamına katkıda bulanacak tesislerdir.<br />
+Bu açıdan bakıldığında da, Samsun’un Anadolu’nun İzmir’i olduğunu gösteren çok sayıda örnek verebilirsiniz.<br />
+Anadolu’nun o anlı şanlı birçok ilinde doğru dürüst lokanta bulunamazken, Samsun’da son derece çağdaş balık lokantalarını, Türkiye’de ilk ona girmiş restoranları, Samsun’un simgesi olan pide salonlarını, kafeleri, Menderes Bulvarı’na anlam kazandıran ve gençlere hitap eden onlarca disko ve barı bir çırpıda örnek olarak sayabilirsiniz.<br />
+Bir kentin bir başka çağdaşlık göstergesi de spor dallarında ki çeşitliliğidir. Bakmayın gözbebeğimiz Samsunspor’un son yıllarda yaşadığı şanssızlığa. Bu kentte bir bayan basketbol takımı vardır. Bu kentte ancak birkaç kentte bulunan bir atletsizim stadı vardır ve yıllardır amatör atletsizime gönül verenlerin çabası sürmektedir.<br />
+Bu kentte, her geçen gün gelişerek Türkiye şampiyonları çıkartan, milli takımlara sporcu veren bir tenis kulübü, yelken sporu gibi çok az kentte yapılan bir sporun kulübü olan yelken kulübü vardır.<br />
+Okullar arası her branşta sportif yarışmalar yapılmakta, çok sayıda amatör spor kulübü bulunmakta, Samsun boks ve güreşte Türkiye şampiyonları çıkarmakta, hatta dünya şampiyonalarında Samsun’un gururu olmaktadırlar.<br />
+Kentimiz görsel olarak kabuk değiştirmekte ve tüm eleştirilecek yanlarına rağmen teleferik, raylı sistem, Doğu ve Batı Parktaki sosyal yaşam alanları ile sağlık için spor yapılabilecek parkurlar gibi çok ilde olmayan olanaklara sahiptir.<br />
+Samsunlunun kıyafet konusunda ki çağdaş giyim ve moda anlayışı, çok eski tarihlere dayanır. Bu nedenledir ki, ünlü markaların Samsun’da şubeleri bulunmaktadır.<br />
+Bakmayın, son zamanlarda ki biraz da zorlamaya dayalı olarak artan çağdaşlıkla bağdaşmayan kıyafetlere. Samsunluların çoğunluğu tercihini çağdaş giyimden yana yapmıştır.<br />
+Evet, Samsun belki bir İzmir değildir. Ama çağdaşlığın Anadolu’da ki en güzel lideridir.<br />
+Bu kadar övgüyü sıraladım diye sanmayınız ki, eksiklerimiz yoktur. Var, hem de yığınla var. Zaten bunları sıkça gündeme taşıyorum. Ama başta da dediğim gibi bugün olaylara hep olumlu yanından bakmayı düşündüm.<br />
+Biliyorum şimdi bazı dostlarım, “ Sende mi düzen adamı oldun?” Diye sorgulayacak ve bazı dostlarımda, “Ha işte şöyle, biraz pozitif! ol” diyeceklerdir.<br />
+Ne yapalım, biz Samsun Sevdalılarının kaderidir bu. Bu kenti seviyoruz. İyi yönleriyle de, beğenmediğimiz yönleriyle de. İşin özü de bu..<br />
+İyi haftalar.. 09 Ocak 2011</p>
+<p>SADİ SUBŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0514-2011-yilinda-turkiye-ve-samsun-adina-duslerim.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0516-yazmak-dahi-i-cimden-gelmiyor.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Devlet Nedir, Neden ve Nasıl Çökertilir</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Devlet Nedir, Neden ve Nasıl Çökertilir
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2010
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0487
+
+</div>
+
+
+<div class="article-content">
+
+<p>e-posta, denizeczaneoptik. com                                                          SUNUŞ</p>
+<p>DEVLET NEDİR? DEVLET NEDEN VE NASIL ÇÖKERTİLİR?</p>
+<p>İnsanlar topluluklar halinde yaşamaya başladığı günden beri bir şekilde birisi veya birileri tarafından yönetilmiştir.<br />
+Tarihsel süreci içersinde kabile ve aşiret reisleri ile başlayan yönetici tiplerinin yerini, toplumların genişlemesi ile ilerleyen dönemlerde kral, imparator, padişah ve bunun gibi değişik tarz ve isimlerle adlandırılan yönetici modelleri almıştır.<br />
+Bunun nedeni, toplumların birlikte yaşayabilmek için kendilerine sahip çıkacak ve kendilerini yönlendirecek bir gücün varlığına ihtiyaç duymalarıdır.<br />
+Toplumların gelişmesi ile yönetim anlayışları da değişim göstermiş ve insanı özgürleştiren, onların birbirine olan haklarını kurala bağlayan yönetim şekilleri öne çıkmıştır. Günümüzün çağdaş dünyasında bu yönetim şeklinin adı demokrasidir.<br />
+Demokratik sistemlerin öncesinde ki yönetim şekillerinin özünü, kişisel kararların hâkim olduğu yönetimler oluştururken, demokratik sistemlerle halkın da yönetime katılımı sağlanmıştır.<br />
+Demokratik sistemler halkı kucaklar, onları korur, onların kendi aralarında ki sorunlarını çözer, onlara fikirlerini sorar, onları yönetime ortak eder, kısacası insana değer verir. İşte bunun adı çağdaş DEVLET’TİR.<br />
+Demokratik sistemler, DEVLET olma gücünü bünyesinde ki kurum ve kuruluşlarla halkına gösterir.<br />
+Demokratik sistemlerde DEVLET, öncelikle Cumhurbaşkanı’dır( Devlet Başkanı). sonra Millet Meclis ve Senatodur, Hükümettir, ülkenin en üst askeri komutanlığıdır<br />
+(Genel Kurmay Başkanlığı), yargıdır ( Anayasa Mahkemesi, Yargıtay, Danıştay, Sayıştay, Cumhuriyet Başsavcıları), Hükümetler adına görev yapan Kamu Kurumlarıdır ( Emniyet, Milli eğitim, Sağlık ve diğer Bakanlık ve Müdürlükler), Valilerdir, Belediye Başkanlarıdır. Yeri gelir Devlet bir polistir, bir okul müdürüdür, bir bekçidir, hatta bir zabıta memurudur.<br />
+Benim milletim Devletini hep önemsemiş ve ona “DEVLET BABA” Demiş ve onu hami olarak kabul etmiştir.<br />
+Daha düne kadar maaşını alan memur, kuyruklarda bekleme eziyetine rağmen hastanede muayenesini yaptıran çalışanı da, emeklisi de, sigortalısı da, eczaneden ilacını alıp para da öderken, “Allah devlete zeval vermesin” demiştir.<br />
+Üzülerek söylemem gerekirse, ben artık bu sözleri duyamaz oldum. Hatta zaman zaman burada söylemek istemediğim sözler de duyuyorum. Ne oldu da insanlar Devlete olan inancını kaybetmeye başladı? Bu ortamı hangi yanlışlar hazırladı? Veya bu ortama bir şekilde zemin hazırlandı mı? Bunları irdelemekte yarar vardır.<br />
+Bunun ilk işaretlerini görmek için 25–30 yıl gerilere giderek geçen süreci ve yaşananları hatırlamak gerekir. İşte bazıları.<br />
+Yukarıda halkın gözünde kimlerin, hangi kurum ve kuruluşların Devleti temsil ettiğini belirtmiştim. İşte ilk yanlışlar buralarda yapıldı. Halkın yoksulluğu hızla artar ve yaygınlaşırken, kendisini yönetsin diye seçtiklerinin hemen her gün medyaya yansıyan yolsuzlukları ve artan servetleri, halkımızı en hassas yerinden vurdu.<br />
+Özal’la başlayan “Benim memurum işini bilir” türü yolsuzluklara hoşgörü ile bakan söylemler, Amerika’dan getirilen prenslerle başlayan banka soygunlarını takip eden ve özelleştirme adı ile yandaş kuruluşlara değerlerinin altında dağıtılan ülkemizin en değerli ve stratejik tesisleri, toplumun tüm değer yargılarını alt üst etti.<br />
+Son dönemlerde Cumhurbaşkanı’nın, Başbakan’ın, Bakanların çocuklarının daha küçük yaşta işadamı kimliği kazanması ve onların medyada yer alan mal edinimlerinin, evine ekmek götürmekte zorlanan insanlarda yarattığı tepki nasıl göz ardı edilebilir?<br />
+Zengin daha da zenginleşirken,  yönetenler sınıf atlarken ve yukarıda belirttiğim akçeli işler olurken, ürün destekleme paraları çok görülerek üretimden kopartılan ve büyük kentlerin varoşlarında sürünmeye mahkûm edilen köylümüzün uğradığı yıkım nasıl onarılır?<br />
+Halkımız, çocuklarını 30 yıla yakın bir süredir bölücü terör örgütü ile yoğun çatışmaların sürdüğü Güneydoğu Bölgemize davul zurna ile askere gönderirken, Devlet’i yönetenlerin, onların bürokratlarının ve çoğu zengin çocuklarının bir şekilde askerlikten kaytarması, yapanlarında neredeyse yaşadıkları kentlerde askerlik yapması, halkın sabrını taşırmaz mı? Bunun en büyük kanıtı ise, Güneydoğu’dan hemen her gün gelen şehit cenazelerinin ateş düşürdüğü ailelerin çoğunluğunun kırsal kesimden oluşu değil midir?<br />
+Halkın çok değer verdiği asker, toplumsal yaşamın vazgeçilmez kurumu yargı, yüksek eğitim kurumları ciddi şekilde hırpalanır, en sade vatandaşın dahi telefonları dinlenir ve özel yaşamının gizliliği kaybolursa o toplumun içine düştüğü umutsuzluk nasıl giderilebilir?<br />
+Sayısına daha da artırabileceğimiz bu akıl almaz yanlışları yapan insanların temsil ettiği Devlet imajı yara almaz mı?<br />
+İşte bu yapılan yanlışlar Halkın Devlete olan güvenini ciddi bir oranda sarsmıştır.<br />
+Peki, DEVLET olmazsa ne olur?<br />
+Devlet’in olmadığı yerde demokrasi olmaz. Doğan boşluğu ise bir başka sistem doldurur. Sanırım bugün geniş bir kesimi endişelendiren de bu değil mi?<br />
+Başlıkta ki “NEDEN” Sorusunun cevabını soruyorsanız, onun cevabı yukarıda ki anlatılanların içersinde arayın diyorum.<br />
+Zaten, son günlerde de “Eksen kayması” adıyla çok konuşulan ve sorgulanan bu değil mi?<br />
+Ne yazık ki, tüm ülkeler çağdaşlaşma yarışındayken biz eksen kayması korkusunu yaşıyoruz. Toplum bu korkuyu hak ediyor mu derseniz, sanırım onun cevabını da halkımızın zamanı gelince vermesi gerekir diye düşünüyorum.<br />
+İyi haftalar..11 Temmuz 2010<br />
+SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0486-termik-santrallere-destek-verenler-bunun-nedenini-aciklamalidir.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0488-soylesi-gazete-55.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

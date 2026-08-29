@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Sivil Toplum Kuruluşlarına Gösterilen Haksız Tepkiler</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Sivil Toplum Kuruluşlarına Gösterilen Haksız Tepkiler
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2006
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0255
+
+</div>
+
+
+<div class="article-content">
+
+<p>, </p>
+<p>SİVİL TOPLUM KURULUŞLARINA GÖSTERİLEN<br />
+ANŞAŞILMAZ TEPKİLER VE NEDENLERİ..</p>
+<p>Çağdaş demokrasilerin vazgeçilmez kuruluşları olarak adlandırılan STK lar  Ülkemizin acımasızca hırpalanan kurumlarıdır.  İçinde yer alabilmek uğruna bir yığın ödün verdiğimiz Avrupa Birliği ülkelerin de, sivil toplum kuruluşları günlük yaşamı denetim altında tutarak düzenleyici görev yaparken, özendiğimiz bu ülkelerin aksine ülkemizde STK lar baskı altında tutulmakta ve işine gelmeyen her kesim tarafından devre dışı bırakılmaya çalışılmaktadır.<br />
+STK lar, Samsun’da da son yıllarda önemli gelişmeler göstererek belli bir bilince erişmiş ve toplumsal çıkarların korunması için önemli çalışmalara imza atmışlardır. Samsun için çok önemli bir çok konuda siyasilere ve yerel yöneticilere çeşitli öneriler sunmuşlar ve gerektiğinde yasal yolları da deneyerek yanlışlıklara set çekmeye çalışmaktadırlar. Buna karşılık topluma hizmet etmek üzere görev alan bazı yerel yöneticilerden ve toplumu temsil görevi üstlenen siyasilerimizin bir kısmından hak etmedikleri şekilde tepki almaktadırlar. Seçimler öncesi siyasiler, en çok kapısını çalıp proje ve öneri aldığı kuruluşlar olan STK ları, seçim sonrası adeta rakip olarak görmektedirler.<br />
+Son zamanlarda siyasilerimizin ve bazı yerel yöneticilerimizin ağzından sık, sık duymaya başladığımız “ her şeye karşı çıkıyorlar, proje falan getirdikleri yok” sözleri  kolaycılığın ve gerçeklerden kaçışın bir yansımasıdır. Çok değil, sadece  son 4-5 yılda STK ların gündeme taşıdığı proje ve önerilere göz atarsak yapılan haksızlığın boyutlarını çok daha iyi görebiliriz.<br />
+SAM-SEV tarafından gündeme taşınan ve 40000 imza toplanarak kent yöneticilerinin önüne konan “ SAHİLİMİ İSTİYORUM” projesi ne çabuk unutuldu. Bu gün herkesin beğendiği ve Samsunluyu denizle buluşturan Sahil Bulvarı, dönemin valisi Sayın Muammer Güler’in büyük destek ve koruması altında, Büyük Şehir Belediye Başkanı Sayın Yusuf Ziya Yılmaz tarafından umulanda da güzel bir şekilde gerçekleştirilmedi mi?<br />
+Samsun’un başına bela edilen  “MOBİL SANTRALLER” çok sayıda STK’nın ortak çabaları ve eylemleri ile toplumun çıkarları doğrultusunda yasaklanmadı mı?<br />
+2000 yılı başlarında “SAMSUN TERSANE PROJESİ” Samsun gündemine ve siyasilerimizin önüne SAM-SEV tarafından konmadı mı?<br />
+“SAMSUN RAFİNERİ PROJESİ”  Samsun Sanayi ve Ticaret Odası tarafından gündeme taşınmadı mı?<br />
+Onbeş adet  Sivil Toplum Kuruluşu,  SAM-SEV tarafından organize edilen Samsun Kent Kurultaylarında, çok sayıda projeyi kent yönetilirinin de katılımı ile gündeme getirip tartışmaya açmadı mı<br />
+TEŞVİK YASASI “genişletilerek 49 il bu kapsama alınırken, Samsun’a yapılan haksızlığa SAM-SEV’in öncülüğünde 81 STK ortak tavır sergileyip, Samsun’un bu yasa kapsamına girmesinin en doğal hakkı olduğunu utanç haritası ve bilimsel rapor ile yerel yöneticileri ve siyasetçilerinin önüne koymadı mı?<br />
+“SAMSUN GAZİ MÜZESİNİ” bir STK olan  Atakum Rotary Kulübü yeniden yaratmadı mı?<br />
+Samsun’a çok yakışacak olan ve Tekel Sigara Fabrikası yerine yapılacak REGİE İŞ MERKEZİ” Projesinin Büyük Şehir Belediyesi Meclisince değiştirilerek bir sağlık kompleksi yapılması çabalarına, TMMOB Mimarlar Odasınca karşı çıkılmadı mı?<br />
+Samsun’un önünü açmak ve halkı Sahil Bulvarına ulaştırmak için TCDD e ait hangarlar yıkılırken, sahil Bulvarında yabancılar pazarı esnafına kalıcı binalar yapılması çabalarına, karşı projelerle Mimarlar Odası direnmiyor mu?<br />
+Bu örnekleri daha da artırabiliriz. Peki, Sivil Toplum Kuruluşlarının bu çabalarına topluma hizmet ve onun haklarına sahip çıkmak için görev alan kent yöneticileri ve siyasilerimiz ne yapıyor? Kendi düşüncesine uymasa dahi proje üretenleri çağırıp karşılıklı değerlendirmek yerine, onları hasım görüp “ teşvik gözlerine girsin ! ” diyorlar veya onları  iş yapmamakla suçlayabiliyorlar. Kısacası, toplumun yararı yerine belirli kesimleri memnun edecek düzenlemelere karşı çıkılmasından rahatsızlık duymaktadırlar.<br />
+Sivil Toplum Kuruluşlarının şevkini kırmak yerine, onları yüreklendirip, onlarla yakın ilişkide olmak ve onları itici güç olarak değerlendirmek o kadar mı zor? Ben de yeri gelince çağdaşlığı kimselere bırakmayanların bu anlayışını anlayamıyorum. Oysa siyasilerimiz ve kent yöneticilerimiz bunları bırakıp, özel şahısların yaptığı tesislere avantaj sağlamak için Samsun limanının özelleştirilmesinin geciktirilmesini ve liman hizmetlerinin bedelini komşu illerin uyguladıkları seviyeye indirilmeyişini sorgulasalar çok daha iyi olacaktır. Veya, Regie İş Merkezinin neden Sağlık kompleksine dönüştürülmeye çalışıldığının nedenlerini açıklayarak, kapalı kapılar arkasında konuşulanlara set çekseler daha iyi olmaz mı? Mimarlar Odasının yargı yoluna gitmesi ile yeni gerginlikler yaşanmayacak mı?<br />
+Aslında, bu anlaşılması güç durumun en güzel açıklaması, geçtiğimiz hafta içersinde Özel İdare Genel Sekreterinin ağzından çıkmıştır. Sayın Aslan Karanfil özet olarak, “ Cumhuriyete giden tarihi 19 Mayısı , zengin coğrafyası , STK ları, güçlü yerel basını ve diğer dinamikleri ile donanmış Samsun’un bir kimlik sorunu yoktur. Samsun’un iyi aşçısı yoktur, kurumlar arası koordinasyonu sağlanamamıştır. Samsun’un zayıf yönü  yerel yöneticilerin bu eksikliğinden kaynaklanmaktadır” demektedir.<br />
+Söyler misiniz, bunların hangisi STK ların kusurudur? Bu sözlerin üzerine çok fazla bir şey söylemeye gerek var mı ? Samsun için yapılacak en doğru işin siyasiler ve yerel yönetimlerin öncülük yapacağı bir koordinasyon oluşturulmasıdır diye düşünüyorum. İyi çalışan STK ların günlük olayların toplum adına takipçisi olduğunu ve bunun çağdaş demokrasilerinin olmazsa olmazı olduğu unutulmamalıdır. İyi haftalar dileğiyle..<br />
+08-EKİM-2006<br />
+SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0254-sevgi-uzerine-cesitlemeler.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0256-samsunspor-ve-otopark-sorunu.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

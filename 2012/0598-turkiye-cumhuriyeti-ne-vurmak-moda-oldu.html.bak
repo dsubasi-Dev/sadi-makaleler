@@ -1,0 +1,320 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Türkiye Cumhuriyeti&#x27;ne Vurmak Moda Oldu…</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Türkiye Cumhuriyeti&#x27;ne Vurmak Moda Oldu…
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2012
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0598
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>TÜRKİYE CUMHURİYETİ’NE VURMAK MODA OLDU..</p>
+<p>Bugün sizlerle bazı sayısal verileri paylaşmak ve onlardan hareketle Osmanlı’nın dağılması ile kurulan Türkiye Cumhuriyeti’ne yapılan acımasız eleştirileri kendi penceremden yorumlamak istiyorum.<br />
+Son dönemlerde yapılan bazı işlerin değerini artırmak amacıyla olsa gerek, yapılan hizmetler 89 yıllık bir geçmişi olan Türkiye Cumhuriyetinin ilk döneminde yapılanlarla kıyaslanıyor.<br />
+Hatta bu konuda değerlendirmeler üstü kapalı da olsa, ağırlıklı olarak 1950 öncesi, yani Atatürk ve CHP dönemini kapsıyor.<br />
+Üstelik karşılaştırmalarda kullanılan sayısal veriler, ya hükümet sözcülerine yanlış veriliyor veya sayısal veriler kasıtlı olarak çarpıtılıyor ve Cumhuriyetin ilk dönemlerine imzasını atanların yıpratılarak gözden düşürülmesine çalışılıyor.<br />
+Bu tür saptırmalar ve tartışmalardan birisi de, son günlerde demiryolu ağı üzerinde yapılmıştır. Kabul etmek gerekir ki, AKP İktidarı’nın övgü ile karşılanacak icraatlarından birisi, demiryolu ağını yaygınlaştırmak amacına yönelik yapılan çalışmalardır.<br />
+Ancak son on yılda yapılan demiryolu hatlarının önemini anlatmak için son on yıllık dönemde yapılan demiryolu hattı ile Cumhuriyet döneminde yapılanların kıyaslama yolu seçilmiş ve ciddi sayısal yanlışlar yapılmıştır.<br />
+Günümüzde Cumhuriyet Dönemine vurmak için 89 yıllık Cumhuriyet döneminin, 1950 öncesi ve 1950 sonrası olarak ikiye ayrılarak değerlendirilmesi moda oldu.<br />
+Söylenmek istenen şu olsa gerek. Atatürk ve tek partili CHP dönemi olan 1950 öncesi hiçbir şey yapılmamış, ne yapılmışsa hepsi 1950 sonrası Merhum Menderes ile başlayan sağ iktidarlar döneminde yapılmıştır..<br />
+Ancak, bu çok büyük haksızlık ve yanlış bir değerlendirmedir.<br />
+Dağıtılmış ve kalan son toprak parçası da işgal edilmiş Osmanlı İmparatorluğu’nun küllerinden yeni bir devlet yaratan Mustafa Kemal Atatürk’ün hükmettiği 15 yıl ( 1923-1938) ile 1938-1950 arasında ki tek partili CHP Hükümetleri hedefe oturtulmaktadır.<br />
+Bu söylemlerin asıl nedeni, Mustafa Kemal Atatürk’ün kurduğu yeni Türkiye Cumhuriyeti’ni laik temele oturtması ve saltanatla birlikte dini liderlik müessesi olan hilafet’i de kaldırmasıdır.<br />
+Üzülerek söylemek gerekirse Atatürk’e ve çok partili rejimin yolunu açan CHP’ne yapılan saldırılar insaf ölçülerini aşmaktadır. 1923 ile 1950 arası adeta yok sayılmaktadır.<br />
+Oysa o dönem, var olup olmama savaşlarının sonrası yaşanan yokluk ve yoksulluk içersinde eğitim de, kültürde, sanayileşmede mucizelerin yaratıldığı ve ilklerin yapıldığı alkışlanacak bir dönemdir.<br />
+O dönemde yapılanlarla günümüzde yapılanların karşılaştırılmasında kullanılan veriler de çoğu kez çarpıtılarak sunulmaktadır.<br />
+Örneğin son günlerde gündeme taşınan demiryolu ağı ile ilgili sayısal verilere göz atarsak karşılaştırılan söylenen verilerin çok da doğru olmadığını görürüz.<br />
+2002-2010 arasında yapılan demiryolu uzunluğu, 1076 km.<br />
+1950- 2002 arasında yapılan demiryolu uzunluğu, 945 km.<br />
+1923-1938      “             “              “               “          , 2815 km.<br />
+1938-1950 arası arasında yapılan demiryolu hattı 949 km. dir.<br />
+Özet olarak Atatürk ve sol iktidar CHP’nin döneminde yapılan demiryolu uzunluğu toplam olarak 3764 km. 1950-2010 arası sağ iktidarlar döneminde yapılan demiryolu uzunluğu 2021 km. dir.<br />
+Bu sayılara Osmanlı döneminde akıl almaz imtiyazlarla yabancı şirketlere yaptırılan ve işletmesi onlara bırakılan 8000 km. lik demiryolu hattının 1923-1938 arası Atatürk Döneminde millileştirilen 4000 km. lik demiryolu dâhil değildir.<br />
+Üstelik de 1923 ile 1950 arası dönem, dört yıllık 1. Dünya harbinin, üç yıllık Milli Mücadele’nin yaralarının daha çok taze olduğu ve bir taraftan da Osmanlıdan kalma Düyun-u Umumiye borçlarının ödendiği dönemdir. İşte bu dönemde dağlar kazma kürekle delinmiş, tüneller kazma kürekle açılmış ve 3764 km. Demiryolu yapılmıştır.</p>
+<p>Sayılarla konuşmak siyasetçiler için çok büyük özen ister. Sayıları en iyi kullanan lider, sağ ekolün efsane ismi Sayın Süleyman Demirel’dir. Ama onun sayısal hata yaptığı görülmemiştir.<br />
+Dünya’da 20. yüzyılın en büyük lideri olarak kabul edilen Mustafa Kemal Atatürk düşmanlığı yapmak bu ülkeye bir şey kazandırmaz.<br />
+Nasıl Osmanlı’yı atalarımız ve tarihimiz olarak kabul ediyorsak, Mustafa Kemal Atatürk’ü de bu topraklarda özgürce yaşamamızı, özgürce ibadet yapabilmemizi ve çağdaş yaşamla tanışmamızı sağlayan lider olarak kabul edip saygı göstermemimiz gerekmektedir.<br />
+Osmanlı dönemiyle Atatürk Türkiye’sine vurmak, Atatürk’ün imza attığı dönemle Osmanlı’yı yermek de bizim geleneklerimize uymaz.<br />
+İnsanları etkileyerek oy avcılığı yapmak ise, siyaset yapmak değildir. Bu tür ayrıştırmalar toplumun arasına  nifak sokar ve  toplumsal kavgalara kapı açar.<br />
+Siyaset, toplumsal barışı sağlamak, topluma çok daha iyi yaşam koşulları sunmak için bir araçtır. Siyasetçi de siyaseti bu anlayışla yaparak doğruları anlatan ve sunan kişi olmalıdır.<br />
+Bu ülke insanları, siyaseti doğru yapan siyasetçiler istemektedir.<br />
+Siyaseti günlük çıkarlarına ve ihtiraslarına  göre değil, amacına uygun yapan siyasetçilerin sayısının artması dileğiyle iyi haftalar.. 26.08.2012</p>
+<p>Ecz. SADİ SUBAŞI</p>
+<p>Not: Veriler konuusunda bilgisine güvendiğim değerli gazeteci dostum Osman Kara’nın yazısından yararlandığımı belirtmek isterim.</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0597-samsun-gocu-nedenlerini-ve-doguracagi-sonuclarini-sorgulamalidir.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0599-amerika-nin-ortadogu-politikalari-ve-turkiye-nin-kirilma-noktalari.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

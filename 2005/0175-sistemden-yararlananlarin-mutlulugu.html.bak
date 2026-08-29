@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Sistemden Yararlananların Mutluluğu</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Sistemden Yararlananların Mutluluğu
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2005
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0175
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>SİSTEMDEN YARARLANANLARIN MUTLULUĞU</p>
+<p>Ekonomist değilim ama ,35 yıldır ticaretin üretim ve pazarlama dahil birkaç bölümünde bulunmuş birisi olarak yüzeysel de olsa değerlendirme yapabiliyorum.1974 Kıbrıs çıkartması sonrası dış dünyanın koyduğu ambargo ve yaptırımlar sonrası  hızla yükselen enflasyon oranları geçen 30 yılda neredeyse 3 lü rakamlara dayanmıştı. Bunun sonucu olarakTürkiye’de enflasyon ekonomisine dayalı bir sistem ve bundan yararlanan bir yapı oluşmuştu. Liberal ekonomiye geçiyoruz sevdası ile biraz da dış dünyanın sömürgeci tekellerinin baskısı ile Ülkemiz bir anda lüks tüketim mallarının açık pazarı haline gelmişti. Ülkemiz kaynakları bu lüks tüketime dayanamazdı ve de dayanamadı. Zaman zaman beş cente muhtaç durumlara düştük. Her sıkıştığımızda IMF den borç almayı başarı olarak sunan iktidarlar ve onların süper dehaları Ülkeyi ekonomik yönden öylesine Amerika’ya ve Onun amaçlarını ekonomik silahlarla gerçekleştiren İMF ‘e teslim etti ki, sonunda tüm üretim kaynakları bitirilmiş bir Ülke haline geldik. 10-15 yıl önce kendine yetebilen yedi ülkeden birisi olarak övündüğümüz özelliklerimizi de kaybettik. Bu, Türkiye’ye  neredeyse”Sen hiç bi tarım ürününü üretme ben sana veririm “şeklinde bir uygulamaya dönüştü. Toplumumuzu ayakta tutan tütün, fındık, afyon, şeker pancarı hatta buğday ekilmiyor ve dış kaynaklardan alınıyor, daha açık bir yorumla aldırtılıyor. İMF’den alınan borç paranın önemli bir kısmı geçmişte ürettiğimiz temel gıda maddelerine gidiyor.1970 den itibaren yerli ilaç sanayi hızla gelişmiş ve 90 lı yıllarda ilaç hammeddesinin dahi bir kısmı ülkemizde üretiliyor ve yerli ilaç sanayii büyüyordu. Tüketimde ki yerli ilaç oranı %30 ları aşmıştı. İMF politikalarına teslimiyet ile yerli ilaç sanayii çökertildi. Kurulan hammadde tesisleri üretimden kopartıldı. Şu anda en kolay ilaçlar dahi yabancı ilaç tekellerinin kendisi veya zaman içinde zorunlu olarak bu tekellerin Türkiye dağıtımcılığını üstlenen adı yerli olan ilaç sanayicisi kuruluşlarca karşılanıyor.<br />
+Gerek tarıma dayalı ürünlerin, gerekse ilacın büyük bir kısmı Ülkemiz için stratejik önem taşıyor. Dört tarafı savunmayı gerektirecek stratejik öneme sahip Ülkemizin komşularıyla artık bir dalaşma şansı çok zor olacaktır. Geçmişte İran-ırak savaşında ambargo nedeniyle , içeriği su olan serum ve antiyotik yokluğundan bir sürü insanın yaşamını yitirdiği unutulmamalıdır.<br />
+1998 den beri uygulanan yeni bir politikayla enflasyon durmuş ve düşüş sürecine girmiştir. Bunda geçmişte göz yumulan banka hortumculuğunun durdurulması ve ücretlerin dondurulması ve faiz politikasının  sağladığı rantın kapısının kapanması ile ortalıkta gezen yüksek faiz rantiyelerinin kalmamasının rolü büyüktür. Bu açıdan bakınca uygulanan politikalar doğru gözükmektedir. Bu Ülkenin borç batağından kurtulabilmesi için toplumun her kesimi sıkıntılı bir dönem geçirmeye razı olmuştur. Gerçektende bir bölüm bu sıkıntıyı en üst düzeyde yaşamaktadır. Bu kesim orta tabaka dediğimiz ücretli, emekli , işci ve küçük esnaftır. Bu günde sistemden şikayeti olmayanların dünde hiçbir yakınması yoktu. Onların çarkı her düzende dönmektedir. Sayısı  hergeçen gün artan ve özelleştirmedeki insafsız uygulamalarla her gün yenilerinin eklenmesi ile kabaran işsiz insanlarımızın dramını bu tabloya katmıyorum dahi. Böylesine geleceğimizi aydınlatacak bir tablonun inandırıcı olması için , bu sıkıntıyı ülkemizin tüm kesimlerinin ortak yaşaması gerkirdi diye düşünüyorum.<br />
+İşi gücü dahi belli olmadığı halde akşama kadar lüks arabalarla lokal ve gazinolarda caka satanların sorgulanamadığı , üç büyük kulübe 40-50 milyon dolar verenlere “senin maliye kayıtlarında bu kazanç gözükmüyor, bu paranın kaynağı nedir?”diye sorulamadığı sürece inandırıcı olamaz. Geçmişinde ülke kaynaklarını bir şekilde zimmetine geçiren veya benzeri suç işleyenlerin  Ülkeyi idare etme noktasına gelebildiği , yekili bakan olabildiği , hatta milletvekili dokunulmazlığı zırhının kaldırılmasına yönelik sözlerin bir türlü yerine getirilemediği bir ülkede bu uygulamaların inandırcılığından bahsedilemez.<br />
+Böylesine inandırıcılığı tartışmalı bir sistemden ancak, geçmişteki sistemlerdende hiçbir şikayeti olmayanlar memnun  kalacaktır. Onlar zaten şartlar ne olursa olsun çarklarını bir şekilde döndürmektedirler. Demokarsi ile yönetilen  bir ülkede böyle çarpık bir sistem olamaz. Umarım bizim gibi düşünenlerin haksız çıkacağı günleri görürüz. Buna herkesten çok inanmak istiyorum. İyi haftalar dileğiyle..26-HAZİRAN-2005<br />
+SADİ  SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0174-samsunspor-da-yasanan-anlasilmaz-i-lgisizlil.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0176-kabotaj-bayrami-ve-guzel-mesajlar-yeni-bir-tesis.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

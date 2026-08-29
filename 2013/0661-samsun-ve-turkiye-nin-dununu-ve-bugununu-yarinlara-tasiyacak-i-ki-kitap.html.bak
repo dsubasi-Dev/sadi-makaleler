@@ -1,0 +1,313 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Samsun ve Türkiye&#x27;nin Dününü ve Bugününü Yarınlara Taşıyacak İki Kitap</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Samsun ve Türkiye&#x27;nin Dününü ve Bugününü Yarınlara Taşıyacak İki Kitap
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2013
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0661
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>SAMSUN İLE TÜRKİYE’NİN DÜNÜ VE BUGÜNÜNÜ<br />
+YARINLARA TAŞIYACAK İKİ KİTAP</p>
+<p>Okurlarımın bildiği gibi Halk Gazetesi’nin hayata geçmesinden bir süre sonra başlayan köşe yazarlığım da, her Pazartesi günü “SUNUŞ” başlığı ile Hedef Halk’ da sizlerle birlikte oldum.<br />
+Önceleri tamamı Samsun odaklı yorumlara yer verdiğim yazılarım da sonra ki yıllarda Türkiye ile ilgili yorumlara da yer verdim.<br />
+Okurlarımdan çoğunlukla çok olumlu destek mesajları aldım. Aldığım az sayıda ki eleştirilerin çoğu yazılarımın uzunluğu ile ilgiliydi.<br />
+Yazılarımda sivri bir dil kullandığımın farkındayım. Ancak gerek Samsun’u ve gerekse Ülkemi yönetenler, toplumu ve onun temsilcisi olan sivil toplum kuruşlarını dışlayarak öylesine dayatmacı yönetim uyguluyorlar ki, bu ülkede yumuşak yazılarla ses duyurmaya olanak kalmadı.<br />
+Bu konuya değinmişken Halk Gazetesi’nin kurucusu Sayın Yusuf Yılmaz başta olmak üzere, Hedef Halk Gazetesi’nin bu günkü Genel Yayın Yönetmeni Sayın Aziz Yener Cabbar ile önceki dönemlerde bu görevi yapan genel yayın yönetmenlerine olan bir teşekkür borcumu da yerine getirmek istiyorum.<br />
+On üç yıldır yazdığım hiçbir yazım için en ufak bir uyarı ve de bir müdahale de bulunmadılar. Basın özgürlüğü adına sergiledikleri bu tavır nedeniyle kendilerine hem teşekkür ediyor, hem de kutluyorum.<br />
+Hedef Halk Gazetesi’nde ki yazılarımı okuyanların dışında, her pazartesi günü www. hedefhalk. com internet sayfasında yayınlanan yazılarımı ortalama 300-400 civarında kişinin okuması benim adıma sevindirici bir rakam. Bu sayı zaman zaman  çok daha yüksek olabiliyor. Örneğin geçtiğimiz Pazartesi günkü son yazım,                 “LÜTFEN! BU YANLIŞI HEP BİRLİKTE DURDURALIM” Cumartesi günü rakamı ile1850 i aşmıştı.<br />
+Köşe yazılarımın ilk 300 kadarını 2008 de ki aynı isimli 1. Kitapta, sonraki 300 ü aşkın yazılarımı da 2. ve 3. Kitap da topladım.<br />
+Geçtiğimiz hafta baskıdan çıkan kitabımın 2. ve 3. cildini isteyen dostlarımıza imzalayarak verebileceğimi duyuruyorum.<br />
+Kitapların ön sözlerinden derlediğim bir bölümü bu köşede sizlerle paylaşmak istiyorum.<br />
+Toplumda gerek aldığı üst görevler nedeniyle ve gerekse özel eğitimler sonrası belirli birikimlere ve deneyimlere sahip olanların bu birikimlerini gelecek kuşaklara iletmesi gerektiğine inanan birisiyim.<br />
+Ne var ki, bu anlayış toplumumuzda yeteri kadar önemsenmiyor. Ülkemizin geçmişin de çok önemli siyasi görevler almış ve ülkemizin bugünkü konuma gelmesinde önemli katkıları olmuş siyasi liderler dahi bu katkıyı yapmamışlardır.<br />
+O nedenledir ki, geçmişimize ait yaşanmış birçok olay, ancak o dönemlere tanıklık eden üçüncü kişilerin anılarından öğrenilebilmektedir.<br />
+Bu anlayışı önemsediğim için 2000 yılından beri ülkem ve çok sevdiğim Samsun ile ilgili tespitlerimi ve yaşadıklarımı düzenli olarak önceki adı Halk olan Hedef Halk Gazetesi’nde bana ayrılan köşede toplumla paylaştım.<br />
+Kentte yaşamanın kentliye bazı sorumluluklar yüklediğine inanan birisi olarak, beni ben yapan Samsun’a karşı olan borcumu ödeyebilmenin çabasında oldum.<br />
+Günümüzde kentlilik bilinci olarak tanımlanan bu anlayış, zamanla beni Samsun ile ilgili her konuda çaba harcamaya itti. Yeri geldi sivil toplum kuruluşları kurarak veya birçoğun da görev alarak, siyasete girerek ve bu yöndeki tüm çalışmalara destek vererek, içinde yaşadığım toplumun sorunlarına yararlı olmaya çalıştım.<br />
+Umuyorum bu yazılarda yer verdiğim Türkiye ve Samsun ile ilgili bilgi ve değerlendirmeler, ileri ki tarihlerde araştırmacılara da ışık tutar.<br />
+Her hafta düzenli olarak yazdığım “SUNUŞ” başlıklı köşe yazılarımda ağırlıklı olarak ülkem ve Samsun hakkında gördüğüm eksikleri ve yanlışları gündeme taşıdım.<br />
+Zaman zaman olumlu gelişmelere yer versem de, yanlışların düzeltilmesi adına kamuoyu oluşturmanın çok daha önemli olduğuna inandığım için yazılarım da ağırlıklı olarak eleştiri ve yol gösterici üslup kullandım.<br />
+Yazılarımda güncel olaylara takılmak yerine, Samsun’un ve ülkemin köklü sorunlarını araştırarak köşeme taşıdım.<br />
+Eğer yazdıklarımla tarihe kırıntı olarak dahi olsa not düşebildiysem,  kentim adına sorumluluklarımın bir kısmını yapabildim demektir. Sağlığım elverdiği surece de çabalarımı sürdürmeye çalışacağım.<br />
+Oldukça uzun olan köşe yazılarımı okuyan, mesaj yazarak veya telefon ile destek veren tüm okurlarıma teşekkürlerimi ve saygılarımı sunuyorum.<br />
+Samsun tarihine ışık tutacak bu tür kitapların çoğalması dileğiyle, iyi haftalar… 06.10. 2013</p>
+<p>Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0660-lutfen-bu-yanlisa-hep-birlikte-dur-diyelim.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0662-samsun-un-cikisi-samsunu-yurekten-samsunlu-olanlarin-yonetmesidir.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

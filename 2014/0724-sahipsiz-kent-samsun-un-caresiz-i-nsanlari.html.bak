@@ -1,0 +1,345 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Sahipsiz Kent Samsun&#x27;un Çaresiz İnsanları.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Sahipsiz Kent Samsun&#x27;un Çaresiz İnsanları.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2014
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0724
+
+</div>
+
+
+<div class="article-content">
+
+<p><br />
+SAHİPSİZLİK KADERİ OLAN SAMSUN VE<br />
+ÇARESİZLİĞE TERK EDİLEN SAMSUNLULAR.</p>
+<p>Yeter artık… Susmayın…<br />
+Çünkü susmaya hakkınız yok...<br />
+İster yapılan yanlışlara karşı çıkarak halkınızın yanında yer alın.<br />
+İsterseniz de, yapılanların yanlış olmadığını savunun…<br />
+Yeter ki, konuşun…<br />
+Nerede durduğunuzu bilelim..<br />
+Çünkü sizler susup seyrederken,<br />
+Anayasal bir hak olan sağlıklı yaşam, bu kentin insanlarının elinden alınıyor. Bu kentin insanlarının sağlığı ve geleceği üzerinde kumar oynanıyor.</p>
+<p>İşin asıl acı olan yanı, sağlığımıza-doğamıza-çocuklarımızın ve ülkemiz insanlarının geleceğine karşı işlenen bu ihanetin, ülkemizi ve Samsunumuzu çok daha iyi yaşam koşullarına taşısın diye oy vererek seçtiğimiz Ankara’da ki ve Samsun’da ki yöneticiler tarafından işleniyor olmasıdır.<br />
+Sözünü ettiğim insanlık suçu, yaşayan insanlarımızın sağlığı çalınırken, adım adım yaklaşan küresel ısınmanın sonucu olarak yaşanacak kuraklık ve açlık sorununa çözüm olacak ovalarımızın da yok edilmesidir.<br />
+Bu ovaların ortasına birbiri ardına kurulan ve kurulmakta olan ve de bir kısmı kömürle çalışacak TERMİK SANTRALLER, çocuklarımızın ve ülkemizin geleceğini de yok edecektir.<br />
+Bu santrallerin Samsun’u ve ilçelerini nasıl olumsuz etkileyeceğini, solunum hastalıkları başta olmak üzere kanser vakalarının nasıl yaygınlaşacağını sizlere anlatmayacağım.<br />
+Onun yerine, bu santrallerden sadece bir tanesinin yıllardır çalıştığı Muğla’nın Yatağan İlçesinde nelerin yaşandığını öğrenmenizi öneriyorum.<br />
+Yatağan’da yaşayanların ne gibi sağlık sorunları yaşadığını? Tarım alanlarının ne hale geldiğini? Öğrenmeniz için interneti açıp, Google’da sadece “Yatağan” Yazmanız yeterli olacaktır.<br />
+Okuyunuz ve yazımı bu bilgiler ışığında değerlendiriniz. Lütfen, sonra da yanlış şeyler söylüyorsam bana yazınız. Haksızsam, bu satırlarda suçladığım herkesten özür dileyeceğim..<br />
+İsyanım, konuşunca bu kentin çağ atladığının söylenmesine ve “Yapılan her şey sizin için” İlanları ile bu kentin insanlarına müjdeler verilmesinedir.<br />
+İsyanım, 2000 yılı başında birçok kentin iline ve ilçesine sokmadığı altı numaralı fueloil ile çalışacak ve adı kanser santrali olarak anılan “Mobil Santrali”, Samsun’a davet edenlerin bugün de susmasınadır.<br />
+İsyanım, muhalefetteyken Mobil Santralin bu kente getirilmesini eleştiren ve “Çevre Birlikteliğinin” Düzenlediği Tekkeköy Mitinginde kürsüde aslan kesilen milletvekillerimizin çoğunun bugün iktidar milletvekiliyken sus pus olmasınadır.<br />
+Bu ülkeyi ve Samsun’u seven birisi olarak tabii ki, ülkemizin enerji açığını kapatacak projelere karşı olmam düşünülemez.<br />
+İsyanım, bu eksik giderilirken onca kıraç arazisi olan bir ülkede, yatırımcısı çok daha kolay yapabilsin ve daha çok kazanç sağlasın diye yer seçim hataları yapılmasına ve geleceğimiz olan ovalarımızın katledilmesine göz yumulmasınadır.<br />
+Olay, artık Türkiye’nin enerji açığını çözmenin ötesine geçmiş akıl almaz bir yanlıştır.<br />
+Aşırı para kazanma hırsı ülke çıkarlarının önüne geçmiş yatırımcılarla kol kola giren siyasetçilere, dur denilememesi düşündürücüdür.<br />
+Bu ülkeye bundan daha büyük bir kötülük yapılamazdı. Yapılan odur..</p>
+<p>Sayın milletvekillerimiz, Sizler, hangi ilin milletvekilisiniz?<br />
+Siz, Samsun Büyükşehir, Çarşamba, Tekkeköy, Canik, İlkadım, Atakum Belediye Başkanları, kentinizin bu beladan nasıl etkileneceğini görmüyor musunuz? Sizler, seçilirken oyunu aldığınız insanlara yanlarında olacağınızı söylemediniz mi?<br />
+Siz, bu kentte siyaset yapan il ve ilçe başkanları, siyaset yapmayı susmak, görmemek ve duymamak olarak mı algılıyorsunuz?<br />
+Siz, halkın sözcüsü olmak durumunda olan sivil toplum kuruluşları, nasıl duyarsız kalabiliyorsunuz?<br />
+EĞER BU SORULARA VERİLECEK BİR CEVABINIZ YOKSA VEYA SUSUYORSANIZ, KUSURA BAKMAYIN AMA SİZLER BU KENTİ HAK ETMİYORSUNUZ.<br />
+Ancak, bu arada Terme İlçemizi ve Terme’nin Belediye Başkanı Sayın Şenol Kul’u ayrı tuttuğumu söylemeliyim.<br />
+Sayın Şenol Kul’un daha önce ki Kozluca Belediye Başkanlığı döneminde, Kozluca’da OMV tarafından kurulan termik santral olayında edindiği deneyimle, bugün Terme’de yapılacak aynı yanlışa direniyor. Üstelik de bir iktidar belediye başkanı olarak bu cesur çıkışı yapıyorsa ve bunu sürdürebilirse, O’na ancak teşekkür edilir..<br />
+Üzülerek söylemek gerekirse, Samsun’un sahipsizliğe mahkûm edilişi bu sorun ile de sınırlı değildir.<br />
+Sizler, 2004 de, tüm Karadeniz Bölgesin de “Teşvik Yasası” dışında bırakılan tek il olarak Samsun’un ekonomik geleceğine darbe vurulurken de sustunuz..<br />
+Sizler, Samsun’a can veren onlarca bölge müdürlüğü kaçırılırcasına Samsun’dan götürülürken de sessiz kaldınız.<br />
+Samsunspor yerlerde sürünür ve kent imajı darbe yerken de susuyorsunuz…Destek veren verenlere de yardımcı olmuyorsunuz..<br />
+Eğitim de, ekonomik kalkınmışlık düzeyinde Türkiye ortalamalarının gerilerine düşmüş bir ilde siyaset yapanlar olarak başarılı olduğunuzu nasıl söyleyebiliyorsunuz?<br />
+Her yeni uygulamanın ilk denendiği pilot il yapılışının nedenlerini ve sonuçlarını hiç sorguladınız mı?<br />
+Bu kenti istediğiniz kadar görsel olarak güzelleştirin. Eğer yarın bu kentte yaşayan insanlar can derdine düşerek bu güzelliklerle ilgilenemeyecekse, güzel bir kent yaratmanın kime ne yararı olacaktır?<br />
+BUGÜN SUSAR VE SUSMAYI SÜRDÜRÜRSENİZ, BİLİNİZ Kİ,<br />
+Yukarıda söz ettiğimiz insanlar olarak Samsun’un geleceğinde isimleriniz, bu kenti kansere mahkûm edecek bu santrallerle anılacaktır.<br />
+Samsun tarihine bu kentin sağlığının ve geleceğinin çalınmasına çanak tutmuş yöneticiler olarak geçeceksiniz..<br />
+Samsun’u neden bir sağlık üssü yaptığınızı da çok iyi açıklamış olacaksınız.<br />
+Bundan tam çeyrek asır önce 1988 de kuruluşuna öncülük ettiğim SAM-SEV’İN kuruluş amaçlarından birisi, Samsun’un sahipsiz bir kent olduğu vurgusuydu.<br />
+Başkan olarak yıllarca bu gerçeği her platformda haykırdım ama hiçbir yöneticinin itiraz edebildiğini görmedim.<br />
+Aradan 26 yıl geçti. Bugün siyasetçisinden yazılı ve görsel basın temsilcileri ile bazı sivil toplum kuruluş yöneticilerine kadar herkes “Samsun’un sahipsiz kent” olduğu sözlerini tekrarlıyor.<br />
+Bütün kent, Samsun’un sahipsiz olduğu konusunda birleşmişse ve sorumluluğu olan hiç kimse bu olguyu yıkmak için parmağını oynatmıyorsa, bu kentin geleceğinden nasıl umutlu olacağız?<br />
+Samsun ve ilçelerinde yaşayan Samsunlulara sesleniyorum. Lütfen Samsun’a bir de bu pencereden bakınız ve durumu kendi açınızdan değerlendiriniz.<br />
+Aksi halde, bu soruna duyarsız kalmayı sürdüren tüm Samsunlular olarak, hep birlikte bu suçun en büyük ortağı olacağız.<br />
+Ben yanılıyorsam, özür dilemeye hazırım..<br />
+Ya, sizler?<br />
+Yanılmış olmam dileğiyle.. İyi haftalar.. 14. 12. 2014<br />
+Ecz. SADİ SUBAŞI<br />
+SEVGİLİ SADİ,<br />
+YAKLAŞIK BİR AYDIR, BİLGİSAYARSIZ SEYAHATLER, ONUN ARIZALARI VB. DERKEN, ANCAK EKRANIN BAŞINA GEÇEBİLDİM.<br />
+BU SEFERKİ YORUMUN ATIF YAPTIĞIN KİŞİLER İÇİN ÇOK ZOR BİR DURUM. BU VEBALİN ALTINDAN KALKABİLMEK İÇİN HİÇ DUYGUSAL OLUNMAMASI ( ÇOK PİŞKİN OLUNMASI ) GEREKİR. HERKES BÖYLE YAZILAR YAZAMAZ. ALLAH KOLAYLIK VERSİN. KEŞKE HEPİMİZ SENİN GİBİ, TAŞIN ALTINA ELİMİZİ SOKABİLSEK.<br />
+SEVGİLERİMLE.<br />
+DOĞAN EMİRLİ</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0723-bir-i-lki-gerceklestirecek-belediye-baskani-araniyor.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0725-i-sraf-rusvet-ve-savurganligi-i-slam-dini-ile-nasil-bagdastiracaksiniz.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

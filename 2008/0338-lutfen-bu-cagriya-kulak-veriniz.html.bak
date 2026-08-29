@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Lütfen Bu Çağrıya Kulak Veriniz.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Lütfen Bu Çağrıya Kulak Veriniz.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2008
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0338
+
+</div>
+
+
+<div class="article-content">
+
+<p>e-posta sadisubasi@denizeczaneoptik. com                SUNUŞ</p>
+<p>LÜTFEN BU ÇAĞRIYA KULAK VERİNİZ..</p>
+<p>Bu kentte öylesine şeyler oluyor ki, anlamaya imkân yok. Geçtiğimiz Perşembe akşamı DSİ Toplantı Salonunda düzenlenen Samsun’un sanayi ve ekonomisinin masaya yatırıldığı toplantının sonun da bir konuşma yapan Valimiz Sayın Hasan Basri Güzeloğlu’da bundan yakınıyordu.  Konuşmasın da, “ bu kentte insanlar el birliği yapıp birlikte büyümek yerine, öne çıkanı da aşağı çekip aşağıda aynı seviye de kalmayı tercih ediyorlar” diye Samsun insanını çok güzel tarif ediyordu.<br />
+Gerçekten de gün geçmiyor ki, Samsunluyu üzen bir haberle Türkiye gündemine düşmeyelim. Ne spordan, ne siyasetten, ne de ekonomiden yana yüzümüz gülmüyor. Bir sabah gazeteyi açıyorum, Samsunspor yönetiminden, “destek bulamazsak Erciyes deplasmanına gidemeyiz” feryatları yükseliyor. Samsun sevdalıları için kâbus gibi bir haber. Bu takımı bu hale düşürenlere lanet olsun deyip geçmeli miyiz? Yoksa sorumluları sorgulamalı mıyız? Çözemiyorum.<br />
+Bir yığın sorunu olan bu kentte, sorunları çözebilmek için ilk şart olan iletişim sorunu hat seviyeye çıkmış. Aynı partinin milletvekilleri kendi aralarında dahi sorunlu. Yine aynı partiden oldukları halde belediye başkanları arasında ki sorunlar gazetelere manşet oluyor. Sivil toplum kuruluşlarının 21. yüzyıllın en önemli kuruluşları olduğunu dillerinden düşürmeyen siyasiler ve yerel yöneticilerin onlarla iletişimi yok. Onların eleştirilerine hoşgörüsü hiç yok. Sadece her koşulda kendilerine destek veren kuruluşlarla görüşerek doğruyu bulma şansı olamaz.<br />
+26 Ocak 2008 Cumartesi günü TMMOB’a bağlı mühendis odalarının genel kurulları yapılıyor. Pazar günü gazetelerde aynı yakınmalar ve ibretlik genel kurul fotoğrafları yer alıyor. Birisine benim de katıldığım bu genel kurullarda protokol sıraları bomboş kalıyor. Oysa bu kuruluşlar bir kentin en önemli yapı taşları. Yerel yöneticilerin en çok destek alacağı sivil toplum kuruluşları. Orada kentin sorunları gündeme geliyor. Ama belli ki, Samsun’u yönetenlerin ne bunları dinlemeye, ne onları bilgilendirmeye, ne de onlarla yardımlaşmaya ihtiyacı yok. Genel kurullara çiçek veya telgraf göndererek bu kuruluşlarla iletişim kurulamaz. Sivil toplum kuruluşlarını yok sayarak da çağdaş anlamda bir kent yönetilemez. Yönetilmeye çalışılırsa da, kurumlar arasında yaşanan bu günkü karmaşa ortamı doğar.<br />
+Bir kent düşününüz ki, o kent hiçbir kentin sınırlarından içeri sokmadığı, dünyanın terk ettiği fosil yakıtları kullanan MOBİL ve TERMİK SANTRALLER zinciri ile zehir solumaya mahkûm edilsin. 500.000 insanı kansorejen maddelerle kirlenecek içme suyu barajının suyunu içmek zorunda bırakılsın. O kenti yönetenler bu akıl ve mantık dışı dayatmalara en azından sessiz kalarak destek verirken, bir yandan da bu kenti organik tarım merkezi yapma iddiasında olsun, tarımsal sanayiyi Samsun için çözüm yolu olarak önerebilsin. Bu çelişkiyi anlayan varsa beri gelsin. Gübreden gelecek zararlı kimyasallardan kaçarken, toprağı ve suyu kimyasallarla kirlenecek bir yerde nasıl organik tarım yapılır anlamak mümkün değil.<br />
+Bu yapı ile siz istediğiniz kadar kentte güzel şeyler yapınız. İnsanlarınızın sağlıklı yaşama koşullarını koruyamıyorsanız, onların korkularını gideremiyorsanız, bu kenti iyi yönettiğiniz ve temsil ettiğiniz iddialarınız inandırıcı olmaktan çıkar.<br />
+SUSMA HAKKINIZ OLAMAZ..<br />
+Sivil toplum Kuruluşları, Mobil ve Termik Santrallerle ülkemizin en verimli ovasının yok olacağını iddia ediyor ve bunu belgeliyorsa, bilim adına Ondokuzmayıs Üniversitesi yaptığı ölçüm sonuçlarını açıklayarak tehlikenin altını çiziyorsa ve bu ülkenin en önemli yatırım kuruluşlarından DSİ bölgede yaptığı baraj, gölet ve sulama kanallarının zarar göreceğini açıklıyorsa, BU KENTİ YÖNETENLER VE SİYASET YAPANLAR SUSAMAZ.<br />
+Eğer bu yazılanların ve söylenenlerin yanlış olduğu veya abartıldığı düşüncesinde olanlar varsa, onların ortaya çıkıp “bu santraller Samsunlulara zarar vermeyecektir, Samsun’a katkı sağlayacaktır, bu zehirli dumanın altında organik tarım da yapılır” diye güvence vermesi gerekmez mi? Bunu bilmek bu kent insanının hakkı değil mi?<br />
+Önceki hafta köşemde bu kenti yönetenlere bir çağrı yapmıştım. Çağrım da kendileri gibi düşünsün veya düşünmesin, ayırım yapmaksızın tüm kanaat önderlerini ortak akıl etrafında buluşturmaya ve kent stratejisi belirlemeye davet etmiştim. Bu kent artık kendi insanlarını yok etmek yerine, onlara sahip çıkarak birlik olmayı ve büyümeyi öğrenmelidir.<br />
+Bu konuda en büyük sorumluluk Samsun’un en üst atanmış yöneticisi olan Valimiz Sayın HASAN BASRİ GÜZELOĞLU ile seçilmiş en üst yöneticisi olan Büyükşehir Belediye Başkanı Sayın YUSUF ZİYA YILMAZ’A düşmektedir. İnanıyorum ki bu ortam sağlanırsa, bu kentin iyiliği için çaba harcayan tüm kesimler, bu noktada ortak bir strateji oluşturma çabasına destek verecektir. Lütfen bu çağrıyı göz ardı etmeyiniz.<br />
+İyi ve güzel günler dileğiyle.. 27 Ocak 2008<br />
+SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0337-pembe-pencerem-samsun-a-bakis.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0339-samsunluluk-ruhuna-bir-darbe-de-chp-den.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

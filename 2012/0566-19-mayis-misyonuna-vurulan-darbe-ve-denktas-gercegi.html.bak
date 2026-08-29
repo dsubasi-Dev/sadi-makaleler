@@ -1,0 +1,341 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>19 Mayıs Misyonuna Vurulan Darbe ve Denktaş Gerçeği…</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+19 Mayıs Misyonuna Vurulan Darbe ve Denktaş Gerçeği…
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2012
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0566
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>19 MAYIS 1919 MİSYONUNA VURULAN DARBE.<br />
+DAVA ADAMI RAUF DENKTAŞ GERÇEĞİ.</p>
+<p>-----------19 MAYIS MİSYONUNA VURULAN DARBE—----------</p>
+<p>Geçtiğimiz haftanın son günlerinde Türkiye’de gündem bir kez daha değişti ve sağ duyu sahibi herkesi endişeye iten bir gelişme yaşandı.<br />
+Yasaları ve genelgeleri istediği gibi yorumlayarak uygulamalar yapan iktidar ve onun Milli Eğitim Bakanlığı bu kez de anlaşılması ve kabul edilmesi mümkün olmayan bir talimatla gündemi değiştirdi.<br />
+1981 de yürürlüğe giren 19 Mayıs Kutlamaları ile ilgili talimatlarda stadlarda kutlanacağına ait kayıt bulunmadığı gerekçe gösterilerek, 19 Mayıs Kutlamalarının Ankara dışında sadece okullarda kutlanması talimatı tüm Milli Eğitim müdürlüklerine gönderildi.<br />
+Ortalığın bir anda gerilmesi üzerine, 19 Mayıs’ın kutlanacağı mevsimin soğuk olduğu, çocukların sağlıklarının bozulduğu ve derslerden geri kaldığı gibi kimseyi inandıramayacak gerekçeler söylenmeye başladı.<br />
+Bu konuda Saadet Partisi’nin yetkililerinin uygulamaya destek veren açıklamaları, asıl gerekçeyi çok daha samimi bir şekilde açıklıyordu. Onlar, ”Bu kutlamalara katılan genç kızlarımızın örf ve adetlerimize uymayan kıyafetleri inançlarımızla bağdaşmaz” diyerek bu iptallerin altında ki asıl nedenlerden birisine vurgu yapıyorlardı.<br />
+Önce 23 Nisan Milli Egemenlik Bayramı ve sonra da Van Depremi ve Güneydoğu’da ki şehitlerimiz bahane edilerek 29 Ekim Cumhuriyet Bayramının kutlanması iptal edildi.<br />
+Dikkat ederseniz bunlar, Mustafa Kemal Atatürk’ün temellerini attığı Laik ve Çağdaş Türkiye Cumhuriyeti’nin en anlamlı günleridir. Bu da, iptallerin altında yatan bir başka asıl gerekçedir.<br />
+19 Mayıs 1919 tarihi, Laik ve Çağdaş Türkiye Cumhuriyetinin kurulması ile sonlanacak esaretten kurtuluş mücadelesinin başlangıç tarihidir ve bu mücadelenin ilkadımı Samsun’da atılmıştır.<br />
+O nedenle de 19 Mayıs Gençlik ve Spor Bayramı Samsun için ayrı bir önem taşımaktadır. Samsunlunun bu kutlamaları yapmaması düşünülemez ve hiç bir Samsunlu bunu kabullenemez.<br />
+Bu bayramların toplumun katılımı ile kutlanmasının hangi nedenle olursa olsun engellenmesi, dini ve milli bayramların toplumun bir kısmının bayramıymış gibi algılanmasına neden olur ki, bu da ulusumuzun bölündüğü izlenimi yaratır.<br />
+19 Mayıs kutlamaları toplum tarafından da benimsenmiş ve yüksek katılımla kutlanmaktaydı. Hükümetin bu yanlış uygulamayı kaldıracağı umudunu taşımak istiyorum.<br />
+Samsunlular için çok daha fazla önem taşıyan bu bayramın, bu yıl çok daha görkemli kutlanması için tüm Samsunluların her platformda bu bayrama sahip çıkacağına da inanıyorum.<br />
+Her platformda Samsunlu olduğunu vurgulayan Spor bakanımız Sayın Suat Kılıç’ın “19 Mayıslara kimse dokunamaz merak etmeyin” şeklinde ki ilk açıklaması beni çok umutlandırmıştı. Ancak, açıklamanın içeriğinde yeni uygulamaya sahip çıkması ve çok daha anlamlı kutlanacağı şeklindeki sözleri bu umutlarımı azalttı. Sayın Bakanımızdan beklenen, 19 Mayıs’ın nasıl kutlanacağını açıkça belirtmesidir.<br />
+Bu sütunlardan SAM-SEV Yönetimine sesleniyorum. Tüzüklerinde 19 Mayıs 1919 ile ilgili çok önemli maddeler vardır. O tüzük maddelari SAM-SEV Yönetimine çok önemli görevler de vermiştir.<br />
+Bu anlamda SAM-SEV bugünden başlayarak 19 Mayıs 1919’un 93. yıldönümünü her zamankinden çok daha görkemli kutlamak için bu konuya duyarlı sivil toplum kuruluşlarını da yanına alarak hazırlıklara başlamalıdır.<br />
+19 Mayıs Kentiyiz demenin de bir sorumluluğuğu olmalıdır. Bunun da gerekleri yerine getirilmelidir.<br />
+Bugünün Cumhuriyet Türkiye’sin de öylesine akıl almaz olaylar olmaktadır ki, bunların çağdaş demokrasi ile bağdaştırılması mümkün değildir.<br />
+Üzülerek söylemek gerekirse, ülkemiz de yargının  siyasallaştığı ve Türkiye’de ki laik ve çağdaş düzenin değiştirilmesine karşı çıkan herkesin “Terör örgütü üyesi” olmak suçlaması ile tutuklandığı kaygısı, toplumda giderek yaygınlaşmaktadır.<br />
+Bilgisine başvurulmak üzere adliyeye davet edilenler dahi bu suçlamalarla anında tutuklanmaktadırlar.<br />
+Tüm bunlar, Türkiye’nin hızla çağdaş demokrasiden uzaklaşarak totaliter sivil bir rejimine doğru sürüklendiği endişelerine ağırlık kazandırmaktadır.<br />
+Umarim çok geç olmadan ülke yönetiminden sorumlu olanlar, toplumun çok daha fazla gerilmesinin önünü keserler.<br />
+Yazımın sonunda 18.10.2010 tarihinde Halk Gazetesi’n de yayınlanan köşe yazımın başlığına bir kez daha vurgu yapmak istiyorum. “Gerçek aydınların yarın tüh! yanılmışım deme hakkı olamaz”.</p>
+<p>-----------------------RAUF DENKTAŞ GERÇEĞİ-----------------------</p>
+<p>Cuma akşamı gerçek bir dava adamı olan Rauf Denktaş’ı kaybettik. O Mustafa Kemal Atatürk’ten sonra Türk Dünyasının sahip olduğu en büyük vatansever ve dava adamıydı.<br />
+1985 yılında Türk Eczacılar Birliği yönetiminde bulunduğum sırada Kıbrıs’da yaptığımız bir toplantı sonrası bizi Başkanlık Konutunda kabul eden Rahmetli Denktaş’la ilk kez orada tanışma fırsatı bulmuştum.<br />
+Son kez de sanırım 2005 yılında, 19 Mayıs Üniversitesi’nin davetlisi olarak Samsun’a gelişinde verdiği konferans sonrası sivil toplum kuruluşları ile görüşmek istemesi üzerine SAM-SEV Başkanı olarak bir arada olma fırsatı bulmuştum. O gün kendisine Samsun anısı olarak SAM-SEV’in Atatürk Heykeli Maketini armağan etmiştim.<br />
+Kısa sürede de olsa ondan etkilenmemek mümkün değildi. Türkiye hayranı oluşunu ve Kıbrıs Türkleri’nin davasına önderlik yaparken nasıl inançlı ve kararlı olduğunu görmek benim O’na olan sevgimi perçinlemişti.<br />
+Öylesine nazik ve kadirbilir bir insandı ki, her yılbaşı ve bayramda kendi el yazısı ile yazdığı kutlama kartlarını göndermeyi ihmal etmezdi.<br />
+Zaman zaman keşke böylesine davasına sahip bir lidere bizde sahip olsaydık diye çok düşünmüşümdür.<br />
+Çok sayıda badire atlatan ama davasından milim ödün vermeyen Rahmetli Denktaş, ortak çözüm bulunamaması üzerine tüm dünyayı karşısına almayı göze alarak Kuzey Kıbrıs Türk Cumhuriyeti’ni ilan etmişti.<br />
+O, yaşamı boyunca hiç bir baskıya boyun eğmedi. AB öncülüğünde ki Avrupa’nın O’nu sıkıştırmak ve Rum’ları mutlu etmek amacı ile Kıbrıs Türklerine dayatılan “Annan Planı’na” da teslim olmamış ve direnmişti.<br />
+Ancak AB kararlıydı ve bu planın kabulü için M. Ali Talat ikna edilmiş ve Rauf Denktaş’ın tüm uyarılarına rağmen Kıbrıs Halkının onayı için referanduma gidilmişti. Türk tarafının onaylamasına karşın Rum tarafı hayır diyerek Rauf Denktaşı haklı çıkartmıştı.<br />
+Rauf Denktaş inandığı davası adına, o dönemde çok sevdiği Türkiye ile ters düşmeyi de göze almıştı. Çünkü Türkiye Cumhuriyeti Hükümeti O’na destek vermemişti.<br />
+Geçen zaman sürecinde AB’nin Türk tarafına vaad ettiği hiç bir şey gerçeleşmedi.<br />
+İşte bu süreç O’nu çok üzmüştü ama zaman O’nu bir kez daha haklı çıkartmış ve M. Ali Talat iktidarını kaybetmiş, siyasi yaşamdan silinmişti.<br />
+Yaşamını bir ulusun varolmasına adayan bu büyük dava adamı Rauf Denktaş Kıbrıs ve Türkiye varoldukça unutulmayacaktır.<br />
+Kederli ailesine ve Kıbrıs Türkleri başta olmak üzere tüm Türk Dünyasına baş sağlığı diliyorum.<br />
+Yazımı bu büyük insanın son dakika vasiyeti ile sonlandırıyorum.<br />
+Rauf Denktaş artık son dakikalarını yaşamaktadır ve uyutulacaktır. Ölüm yatağında şöyle bağırır.<br />
+“Hristofyas.. Hritofyas.. Ona söyleyin. Burası bağımsız bir cumhuriyettir.”<br />
+Büyük insan rahat uyu.<br />
+Yeni süprizlerle karşılaşmayacağımız bir hafta dileğiyle...</p>
+<p>15 Ocak 2012</p>
+<p>Ecz. SADİ SUBAŞI<br />
+Sadi Bey,<br />
+Duyarliliginiz için bir kez daha kutluyorum.<br />
+Bu gerici yobaz ve milliyetsiz zihniyetin ülkeyi nereye götürmek istedigi açiktir.<br />
+Bakan müsveddesi KILIÇ'in da o zümreden farki olamaz. Kimlerden geldigine, nasil geldigine bakin.<br />
+Toplum ayaga kalkmazsa milli bayramlar da bir bir silinecektir. Hedef de zaten budur.<br />
+Saygilar.<br />
+BESTEPE</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0565-mecidiye-caddesi-yaya-gecidi-ve-bir-oneri.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0567-kentlilik-bilinci-ve-kent-yoneticilerinin-yaklasimi.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

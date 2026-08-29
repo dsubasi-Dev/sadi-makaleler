@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Bu Tahriklere Artık Dur Denilmelidir.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Bu Tahriklere Artık Dur Denilmelidir.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2024
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+1107
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>BU TAHRİKLERE ARTIK DUR DENİLMELİDİR.</p>
+<p>Bilindiği gibi bir hafta kadar önce, Hedef Halk Gazetesi’nde yer alan bir habere göre Canik’teki Viyadüğün turuncu-mavi renklere boyandığı haberi yer almıştı. Ancak akşamın alaca karanlığında, turuncunun bordoya dönüşmesi ile işin boyutlarını değiştirmişti.</p>
+<p>Nitekim Samsunspor taraftarlarının bu renklere gösterdiği büyük tepki üzerine, Büyükşehir Belediye Başkanı Sayın Halit Doğan’ın viyadüğün kırmızı-beyaza boyanacağı sözünü verdiği de, aynı haberde yer almıştı.</p>
+<p>Dün Canik bölgesinden geçerken viyadüğü yerinde incelediğimde, Büyükşehir Belediye Başkanlığı ekiplerinin viyadüğü kırmızı-beyaza boyamakta olduklarını gördüm.</p>
+<p>Henüz bir bölümü boyanabildiği için diğer kısımlarındaki bordomsu kırmızı- mavi renkler duruyordu.</p>
+<p>Şimdi soruyorum?</p>
+<p>İster seçilmiş, isterse atanmış bir makam sahibi veya onların emri altında çalışan birileri, hangi hakla bu kentin hassasiyetlerine saygısızca dokunabilmektedir?</p>
+<p>Bu kişiler, daha da önemlisi kentler arasında ciddi sorunlar yaratabilecek işlere nasıl cesaret edebilmektedir?</p>
+<p>Bu ilk küstahlık değildir. İki yıl önce de yine birileri Samsun’un gururu Ondokuzmayıs Üniversitesi’ndeki bazı amfileri bordo-mavi renklere boyamaya cesaret etmişti.<br />
+Başta Üniversitedeki bazı Samsunlu akademisyenlerin tepkisi, sonra da kentte oluşan tepkiler üzerine renkler değiştirilmişti.</p>
+<p>Yine eski Ondokuzmayıs Stadı’nın tüm karşı çıkışlara rağmen yıkılarak yerine yapılan Millet Bahçesine konulan Samsunspor Anıtı’nın, gece ışıkları yandığında da Samsunspor’ un renkleri olan kırmızı-beyaz yerine, yine bordo-mavi yandığı görülünce, büyük bir tepki oluşmuştu.</p>
+<p>Anıtı yaptıran o dönemin Büyükşehir Belediye Başkanı, bir sürü bahaneden sonra renkleri kırmızı-beyaza dönüştürmüştü.</p>
+<p>Ne yazık ki, bu yaşananların sayısı bunlarla sınırlı değildir.</p>
+<p>Karadeniz Bölgesinin iki önemli kenti arasında kriz yaratacak bu tür eylemlere cesaret edenler bir yaptırımla karşılaşmadıkları taktirde, korkarım ki bu tür işler sonunda beklenmedik olaylara neden olacaktır.</p>
+<p>Samsun, Doğu, Batı ve İç Karadeniz Bölgesinden çok sayıda insanın, beğendiği için gelip yerleştiği bir kenttir.</p>
+<p>Kökeni hangi kent olursa olsun, Samsun’a yerleşerek burada kazanan ve yaşamını burada sürdüren herkesin bu kentte karşıtlık yapma ve sorun çıkartma hakkı olamaz.</p>
+<p>Bu kentte yaşamaktan mutlu olmayanlar, bu kentte yaşamak zorunda değildir.</p>
+<p>Bu saçma sapan bir işgüzarlık sonucu, büyük tepki alan Canik Viyadüğü, olaya el koyan Büyükşehir Belediye Başkanımız Sayın Halit Doğan’ın talimatları ile kırmızı-beyaz renklere boyanmaktadır.</p>
+<p>Sayın Doğan’a Samsun ve Samsunspor taraftarları adına teşekkürlerimi sunuyorum.</p>
+<p>Oradan geçerken üç ayrı noktada kurulan iskelelerle boyama işleminin sürdüğünü gördüm.</p>
+<p>Şimdi soruyorum?</p>
+<p>Bu devasa alanın yeniden boyanması ile harcanacak paraya ve onlarca işgücünün kaybına neden olan her kimse, bunun mali ve idari bedelini ödeyecek midir?</p>
+<p>Önümüzdeki hafta sonu oynanacak Karadeniz Derbisi öncesi bunu yapanın, olası kötü bir olaya neden olabileceğinin hesabı sorulacak mıdır?</p>
+<p>Şunun altını bir kez daha çiziyorum, nereli olursa olsun, bu kentte kazanıp karnını doyuran, daha da önemlisi bu kent insanlarının ayırımcılık yapmadan seçerek göreve getirdiği makam sahiplerinin ve onların emrinde çalışanların, bu kente karşıt olma ve bu kentin hassasiyetlerini kaşıma hakkı olamaz.</p>
+<p>Kentlerin arasına ayırımcılık sokan kişilerin, bu kente görev yapma hakkı da olamaz.</p>
+<p>Hiçbir yetkilinin de benim bilgim dışında birileri yapmış diyerek, bu işten sıyrılması da kabul edilemez.</p>
+<p>Samsun halkı yıllardır bu kentte yerleşmiş Samsunlu olmayan çok sayıda kişiyi milletvekili ve belediye başkanı yapmıştır.</p>
+<p>Buna rağmen, yıllardır bu tür olaylarla Samsunluyu rencide ve tahrik edenler kimdir?</p>
+<p>Şimdi soruyorum?</p>
+<p>Toplumu gerecek bu işleri yapanlara bunun hesabı sorulacak mıdır?</p>
+<p>Samsun kamuoyuna bu sorunun cevabı verilmelidir.</p>
+<p>Kentimizin Valisi Sayın Orhan TAVLI başta olmak üzere, Emniyet Müdürümüz Sayın Ahmet ARIBAŞ ve diğer yetkililerin bu kişilerle ilgili soruşturmayı yaptırarak sonuçlarını kamuoyuyla paylaşması, oluşan tepkilerin giderilmesini sağlayacaktır.</p>
+<p>Bir Samsunlu olarak bu kentte yaşamaktan mutluluk duyan tüm Samsunlular adına, olayların başka boyutlara taşınmaması için bir an önce kentler arasında husumet yaratanlara gerekli yaptırımlar uygulanarak, bu tür kışkırtıcı eylemlerin önünün kesilmesi gerektiğini söylüyorum.</p>
+<p>Önümüzdeki hafta sonu oynanacak Samsunspor-Trabzonspor arasındaki Karadeniz derbisinin iki kentin taraftarlarının dostluk ilişkileri içerisinde izlemesi umuduyla, iki komşu takıma da başarılar diliyorum.</p>
+<p>Her türlü sıkıntının bittiği güzelliklerle geçecek bir yeni yıl dileklerimle, tüm okurlarıma sevgi ve saygılarımı sunuyorum.<br />
+28.12.2024</p>
+<p>Ecz. SADİ SUBAŞI<br />
+e- http://www. hedefhalk. com</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="1106-samsun-tv-kanallarinin-yok-sayacagi-bir-kent-degildir.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="../2025/0921-chp-de-ki-sorun-degisimin-de-otesindedir.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

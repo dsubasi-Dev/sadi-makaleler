@@ -1,0 +1,321 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>07 Haziran Seçimleri Türkiye&#x27;değerlendirmesi</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+07 Haziran Seçimleri Türkiye&#x27;değerlendirmesi
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2015
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0752
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>07 HAZİRAN SEÇİMLERİ TÜRKİYE DEĞERLENDİRMESİ.</p>
+<p>Türkiye’nin aylardır beklediği Genel Seçimler, seçim öncesi Diyarbakır’ı kan gölüne çeviren kışkırtma dışında önemli bir sorun yaşanmadan tamamlandı.<br />
+Seçim öncesi, Türkiye’de seçim ve sayım sonuçlarının belirlenmesi ile ilgili bazı söylentiler ve yeniden tek başına bir AKP iktidarının oluşması halinde, Türkiye’de ki siyasi yapının değiştirilerek ucu başı belli olmayan “Başkanlık” Sisteminin getirilmek istenmesi ile ilgili yoğun bir endişe ortamı vardı.<br />
+Adil olmayan seçim yarışının yarattığı tepkili ortam ve HDP’ nin yükselen şansı dolayısı ile seçimler çok daha önem kazanmıştı.<br />
+Sonuçta, anket firmalarının iktidar partisi lehine yaratmak istedikleri yönlendirme ve Cumhurbaşkanı’nın olmazsa olmazı haline getirdiği “Başkanlık” Tutkusu uğruna yeminini dahi hiçe sayarak ve de tüm muhalefet partilerini karşısına alarak siyasi arenaya inmesi dahi yeterli olmadı ve AKP % 7-8 civarında oy ve 100 e yakın milletvekili kaybetti.<br />
+Bence bu seçim sonuçlarından sonra yapılabilecek en önemli yorum,<br />
+“Ötekileştirilen diğer % 50’ nin, 08 Haziran SABAHINDA, KORKMAYACAĞI BİR TÜRKİYE’YE UYANMIŞ OLMASIDIR. “<br />
+Diğer sonuçları ise,<br />
+Bu seçimden sonra AKP’ nin karşısında artık % 60’lık bir kesim vardır. Bu oranda bir topluluğun ötekileştirilmesi ise mümkün değildir.<br />
+Sayın Cumhurbaşkanı’nın hemen hergün zoraki düzenlendiği görülen bazı kuruluşların toplantılarına katılması ve hükümetin yapması gereken bazı toplu açılışları (Ki, çoğu daha önce açılmış ve çalışan) yaparak bu toplantılarda sürekli diğer siyasi liderleri hakarete varan sözlerle eleştirmesi, kendi partisinin taraftarlarını dahi rahatsız edecek hale gelmişti.<br />
+Hemen hergün bir vesileyle TV ekranlarına çıkarak, bir Cumhurbaşkanı’n da olması gereken sükûnet ve uzlaşı ortamını yok edecek şekilde çok sert konuşmalar yapması, toplumu TV izleyemez hale getirmişti.<br />
+AKP’ nin ortaklaşa çözüm sürecini başlattığı HDP’ nin barajı aşmaması için söylediği sözler, azımsanmayacak sayıda AKP ve CHP seçmeninin oylarını ödünç olarak HDP’ ne yönlendirmiştir.<br />
+Sayın Başbakan’ın da, Cumhurbaşkanı’nın sert üslubunun altında kalmamak uğruna, kişiliğine uymayan sert bir üslup kullanması da, hem Sayın Başbakan’a, hem de AKP Hükümetine olan güveni sarsmıştır.<br />
+CHP ilk defa ekonomiyi öne çıkartan bir politika yürütmüş ve güven verici isimleri vitrine koymuştur. Ecevit Döneminin “Nereden buldun” yasasının başını yediği Sayın Zekeriya Temizel,  Selin Sayek Böke ve İlhan Kesici gibi isimler ile iktidar değişikliği halinde oluşacak “Ekonomi nasıl yönetilecek?” Endişeleri ortadan kaldırılmıştır.<br />
+Bu nedenle, bilinçli CHP seçmenlerinin bir kısmı (% 2,5- 3) büyük bir sorumluluk alarak sırf ülkemizde olası bir rejim değişikliğinin önü kesmek için HDP’ e oy kaydırmıştır. Bu ödünç oylarda hesaplandığında, CHP’ nin oy oranı artarak başarılı sayılabilecek, % 27-28 oranına ulaşmaktadır.<br />
+Bu seçimin en büyük kazananı, tartışmasız HDP’dir. HDP’ nin barajı rahatlıkla aşması ve AKP iktidarına son vermesi, ona anahtar partisi özelliğini kazandırmıştır.<br />
+HDP Lideri Demirtaş’ın, “Sayın Tayyip Erdoğan’ı Başkan yaptırmayacağız” İddiası, güven veren tavrı ve uzlaşmacı bir üslup göstermesi de, HDP 'nin artıları olmuştur.<br />
+MHP ise, seçim döneminde özellikle Güneydoğu Anadolu bölgesinde olanları devamlı gündemde tutmasına ve HDP’ ne karşı çok sert siyaset yapmasına rağmen, yeterli oy artışı yapamamıştır.</p>
+<p>SİYASİ SONUÇLARI-<br />
+Vatandaş son derece sağlıklı bir tercih yapmıştır. CHP, MHP ve HDP’ e “Uzlaşın, hükümet kurarak korku ve baskı ortamını kaldırın, geçmiş dönemin üstü örtülen yolsuzluklarını yargıya taşıyın” Demiştir.<br />
+Bu üç parti kendilerine seçmen tarafından verilen sorumluluğu taşıyamaz ve özellikle MHP, HDP’ ne karşı seçim öncesi yürüttüğü sertliğin etkisinde kalarak HDP ile uzlaşma yolunu seçmez ve HDP’ nin siyaset arenasının dışına itilmesine neden olursa, doğacak sonucun da sorumlusu olacaktır.<br />
+Hele de, bu üç parti “Azınlık hükümeti kurma” Tuzağına düşerler ve başarısız olurlarsa, “İşte gördünüz, hükümet kurmak bunların işi değil, beceremediler” Şeklinde yapılacak kampanyanın sonucun da, erken seçime gidilir. Bu ise, bu üç partinin sonu demektir. Çünkü seçmen, kaçırılan bu fırsatın hesabını sandıkta onlara soracaktır.<br />
+Daha şimdiden, koalisyon için uzlaşma kapılarını kapatan MHP’nin erken seçim için meydan okumaya başlaması, akıl alacak iş değildir. 2001 yılında koalisyon hükümetinin işleri tam rayına oturttuğu sırada, erken seçim oyununa gelerek koalisyonun dağılmasına zemin hazırlayan da MHP değil miydi? MHP, o erken seçimle AKP’ e tek başına İktidar olma kapısını aralayan parti olduğunu unutmuşa benziyor. Böyle bir hatanın siyasi faturası bu kez MHP’ e çok ağır olur diye düşünüyorum.</p>
+<p>DİĞER SONUÇLARI:<br />
+Eğer bir uzlaşı hükümeti kurulabilirse, toplumun tüm kesimleri rahatlayacak ve seçim öncesi yaşanan baskılar ortadan kalkacaktır.<br />
+Basın daha tarafsız olabilecek ve siyasi iradenin mahkeme baskıları sona erecektir. Cumhurbaşkanı’nın yasal statüsüne dönmesi ile yandaş basın zorlamaları da zayıflayacaktır.<br />
+Yargı, daha özgür ve tarafsız kararlar alabilecektir. Devletin yargısı olarak çalışabilecek ve devletin yargıcı ve savcısı olduklarını hatırlayacaklardır. Gece yarısı çıkartılan torba yasalar korkusu da sona erecektir.<br />
+Polis, görevini daha bağımsız ve korkusuz bir ortamda, yansız olarak sürdürebilecektir.<br />
+Üniversitelerin, ülke sorunlarında ki duyarsızlığı sanırım son bulacak ve varlıkları hissedilmeye başlayacaktır.</p>
+<p>AKP “Gidecek de ne olacak?” Diyenlere karşı,<br />
+“Sadece bu yukarıda saydıklarım dahi yetmez mi? Diyerek yazımı sonlandırıyorum.<br />
+Bu seçimin sayısal değerlendirmeleri mutlaka yapılacaktır. Hem onları, hem de Samsun seçim sonuçlarını gelecek haftaya bırakarak, huzurlu ve endişesiz bir hafta geçirmemizi diliyorum.<br />
+10. 06. 2015<br />
+Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0751-tarimda-yapilan-yanlislar-ulkemizin-gelecegine-i-hanettir.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0753-2015-genel-secimleri-samsun-degerlendirmesi.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

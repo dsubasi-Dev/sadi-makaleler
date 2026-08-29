@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Kaderine Razı Olmuş Kent Samsun</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Kaderine Razı Olmuş Kent Samsun
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2007
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0279
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>KADERİNE RAZI OLMUŞ KENT SAMSUN.</p>
+<p>Samsun’un ilk yerel TV kanalı olan KANAL-S, geçtiğimiz ay TV–55 adı ile uydu yayınına geçerek Samsun’un sesini tüm Türkiye’ye, hatta dünyaya duyurmaya başlayan il yerel kanalımız olma unvanını da kazandı. Ben SAM-SEV Başkanı olarak bu önemli başarılarından ötürü tüm KANAL-S yetkililerini kutluyorum. Büyük bir iş başarmışlar ve neredeyse tüm Karadeniz İllerinin uydu yayınında kanalı varken, bu eksikliği hisseden Samsunlular olarak yaşadığımız bir ezikliği gidermişlerdir. Dileğim, diğer yerel kanallarımızın da bu başarıya ulaşmasıdır.<br />
+Geçtiğimiz Cuma akşamı KANAL-S ( 55 )  de canlı olarak yayınlanan “AKSİYON “ programına SAM-SEV Başkanı olarak katıldım. 1970 li yıllarda boş geçen kimya dersini doldurmak için kısa süre kimya derslerine girdiğim Namık Kemal lisesinden öğrencim olan Sayın Turgay Kır’ın hazırlayıp sunduğu bu program da Samsun’un sorunlarını çok geniş bir açıdan değerlendirme fırsatı buldum. Sayın Kır’ı hazırladığı ve sorduğu çok yönlü sorularla birçok sorunun tartışılmasına fırsat verdiği için kutluyor ve kendisine teşekkür ediyorum.<br />
+Bu programı izleme olanağı bulanların nasıl değerlendirme yaptığını bilmiyorum ama ertesi gün aldığın telefonlarla çok kişi, söylediklerimin tümüne katıldıklarını ve adeta kendi düşüncelerini aktardığımı söyleyerek teşekkür ettiler. O gece belki biraz da cesurca, Samsun’un içinde bulunduğu çıkmazın dünden bugüne nedenlerini yorumlamaya çalıştım. Özellikle Samsun adına siyaset yapanların çok hoşuna gidecek şeyler söyleyemedim. Yaşamının dört yıl üniversite ve iki yılda askerlik dışında kalan tüm yaşamını doyasıya yaşayarak Samsun’da geçirmiş bir Samsunluyum. Bunun da ötesinde iş düzenimi kurduğum 1970 yılından bugüne kadar geçen 37 yılda, çok sayıda meslek kuruluşu, dernekte sorumluluk almış, bir sürede yerel de siyaset yapmış birisiyim. Samsun’un sorunlarını gündeme taşımak üzere SAM-SEV’in kuruluşunu gerçekleştirmiş ve son 8 yıldır 2. kez başkanlığını üstlenmiş bir insan olarak edindiğim birikimlerle bunları söylemeye hakkım olduğuna ve hatta bir Samsunlu olarak bunun görevim olduğuna inanıyorum.<br />
+1970 yılından bu yana geçen 37 yıllık sürede çok sayıda yerel dergi, mesleki bülten, yerel ve yaygın gazete de çok çeşitli konularda köşe yazılarım yayınlandı. Geçen ay bu arşivimi elden geçirerek bir kitapta toplamaya karar verdim. Bu yönde eski yazıları düzenlerken çok çarpıcı gerçeklerle yüz yüze geldim. Cuma akşamı altını çizdiğim birçok konuyu 15–20 yıl önce de gündeme taşımışım. Samsunlu bunları tartışmış, ama sorunlar aynen devam ediyor. 1997 yılına kadar Samsun’da günlük yayınlanan gazete yoktu. Ama 15 gün veya bir ay ara ile de yayınlansa da dürüst gazetecilik yapma çabasın da olan bu mesleğe emek verenler vardı. Bunlardan birisi de rahmetli İsmet Hatipoğlu’ydu. İyi bir Samsunlu ve başarılı bir gazeteciydi. İşte bu gazetelerden birisi de onun çıkarttığı BEDEL GAZETESİ’YDİ. Ben de bu gazete de zaman, zaman köşe yazıları yazmıştım.<br />
+Bu yazılarımdan birisini, dünden bugüne hiçbir şeyin değişmediğinin bir belgesi olarak aşağıda sizlere sunuyorum. O tarihte siyasetin dışında ve SAM-SEV Başkanlığını da bırakmış olduğumu özellikle belirtmek istiyorum. Geçmişi çok eski olmayan ve cuma akşamı yaptığım eleştirilerden alınmış olabilecek siyasetçilerin, durumu bir de bu açıdan değerlendireceklerini umuyorum. İyi haftalar dileğiyle.. 04-MART–2007<br />
+SADİ SUBAŞI</p>
+<p>BEDEL GAZETESİ  20–04–1993 tarihli sayısında yayınlanmıştır.</p>
+<p>SAHİPSİZ KENT VE MİLLETVEKİLLERİ<br />
+Düşününki bir il sürekli sağ iktidarlara oy vermiş olsun ve çoğu zamanda sağ iktidarlar bu ili kaleleri olarak görmüş bulunsun. Bu ilin iktidarın olanaklarından en geniş şekilde yararlanması en doğal sonuç olmayacak mıdır? Ne yazık ki tüm bu doğru varsayımları tersine yaşayan İl Samsun’dur. O halde bu işte bir yanlışlık olsa gerek. Hem devamlı destek vereceksiniz, hem de hiç karşılık görmeyeceksiniz. Olmaz böyle şey. Birilerinin çıkıp Samsun halkına bu yanlışı anlatması lazımdır. Samsunlunun uyanıp, seçtiği milletvekillerinden bunun hesabını sorması gerekir. Aksi halde her şartta oyunu esirgemeyen bu halka, sağ iktidarların sadece oy deposu olarak bakması ve hizmet vermek için kendilerini zorlamamaları çokta yadırganmamalıdır.<br />
+Türkiye’deki yatırımlara şöyle bir göz atalım; Nerelerde açılış yapılıyor, nerelerde temel atılıyor? Geçmiş dönemlerdeki ihmal, ne yazık ki sağ-sol koalisyonunda da devam ediyor. Son iki dönemdir sosyal demokrat bir milletvekilini meclise gönderemeyen Samsun’un iktidarın sol kanadına çok şey söylemeye hakkı yoktur. Ancak 7 milletvekili verdiği iktidarın sağ kanadından da çok şey beklemeye, hele de “Son on yılda Samsun’a çivi çakılmadı” diyerek oy isteyen ve Samsun’u temsil için meclise giden milletvekillerinden çok şey istemek Samsunlunun en doğal hakkıdır.<br />
+Lütfen! TV’leri izleyiniz. Her akşam değilse bile 2–3 günde bir Sayın Cavit Çağlar Bursa’da veya ilçelerinde ya bir tesis açmakta veya bir tesisin temelini atmaktadır. Samsun’dan üç kat küçük olan Başbakanın ili Isparta’ya devlet bütçesinden Samsun’un üç katı pay aktarılmaktadır. Temeller Aydın’da. Bursa’da, Antalya’da, Denizli’de atılmaktadır. Bu illerin hiçbirisi iktidara Samsun kadar milletvekili vermemiştir. Üzülerek söylemek gerekirse Samsun Milletvekilleri halkıımızı oyalamaya devam etmektedirler. Eylül ayından beri Başbakan Samsun’a gelecek ve havaalanının temelini atacaktır. Cek, cak ile geçen bu sürede atı alan Üsküdar’ı geçmiş, becerikli iller milletvekilleri sayesinde aslan payını kapmışlardır.<br />
+Yıllarca ite kaka gündeme getirilen ve alınacak işçiler için şimdiden bir sürü spekülasyon yapılan Ballıca Sigara Fabrikası da yılan hikayesine döneceğe benzemektedir. Önümüzdeki yıl açılacak diye umut verilen bu tesisin gecikme ihtimali ile karşı karşıya kalabileceğimizi ve sayın milletvekillerimizin gerekli önlemleri almalarını hatırlatmakta yarar görüyorum. Gümrük ve Tekel Bakanlığı üst kademelerinden alınan bilgilere göre bu fabrikanın makinelerinin ihalesi henüz gündemde bile yoktur. Bir şansız gelişmede, Tekel Başkanlığınca bu tesisler için ayrılmış 500 milyar paranın da Maliye ve Gümrük Bakanı Sayın Sümer Oral’ın seçim çevresi olan Akhisar’daki sigara fabrikasına kaydırılmasının an meselesi olduğudur.<br />
+Bu örnekler de şunu göstermektedir. Samsun sahipsizdir. Ancak, bu basit yanlışı göremeyen, siyasal tercihlerini yanlış yapan, oyları ile zamanı gelince gerekli uyarıyı yapamayan, kendilerini dışlayan iktidar ve milletvekillerini seçmeye devam eden bu kent insanlarının özel sohbetlerde yakınmaya hiçte hakları yoktur. Devir, her şeyin matematiksel hesaplandığı devirdir. Ne verirsen onu alırsın. Eğer verdiğinin karşılığını istemeyecek kadar safsan, günümüzün ekonomik düzeninde karşındakinin bunu sana kendiliğinden vereceğini de beklememelisin. Yapılacak tek şey bu alışverişte Samsunlunun hakkını aramasını öğrenmesidir. Aksi halde pehlivan fıkrasında olduğu gibi bizde bu ense oldukça, ensemiz daha çok tokatlanacaktır. Saygılarımla.  20-nisan-1993</p>
+<p>SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0278-yaklasan-secimler-ve-siyasi-partilerin-acmazi.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0280-mobil-santrallerin-hazin-sonu.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

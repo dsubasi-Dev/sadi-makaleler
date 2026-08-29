@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Samsun Yeni Stadına Yakında Kavuşacak</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Samsun Yeni Stadına Yakında Kavuşacak
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2014
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0721
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>YENİ STADIMIZ ONDOKUZMAYIS ARENA’YA<br />
+YAKINDA KAVUŞACAĞIZ.<br />
+Bilindiği gibi önceki yıl Tekkeköy’de yapımına başlanan yeni stadın inşaatı hızla sürüyor. Yeni stadımız son yıllarda birçok kentte yapılarak hizmete açılan son derece modern ve arena olarak anılan stat örneklerinden birisi olacak.<br />
+Stadın tribün inşaatı artık Samsun-Ordu karayolundan da görülebilecek kadar yükselmiş bulunuyor.<br />
+Samsun Spor il Müdürü Sayın Güven Özyurt ile stat inşaatını birlikte gezme şansı buldum. Stat inşaatını yapan Ali Acar İnşaat Firması’nın proje Müdür Yardımcısı Y. İnşaat Mühendisi Bünyamin Ayar, stat inşaatını gezdirirken detaylı bilgilerde verdi.<br />
+Önümüzde ki sezondan itibaren Samsunspor’un maçlarını izleyeceğimiz bu stadı sizlerle de tanıştırmak istiyorum. Umuyorum Samsunspor’umuz da, içerisinde bulunduğu ekonomik çıkmazı kısa sürede aşarak Süper Lig’e çıkma başarısını gösterir ve bizlere de bu stadın tadını çıkartma şansı verir.<br />
+33.000 seyirci kapasiteli stadın ihalesi TOKİ tarafından 04.12.2012 tarihinde yapılmış ve önemli projeleri gerçekleştirmiş olan Ali Acar İnşaat Şirketi ihaleyi 130 milyon TL. Bedelle almıştır.<br />
+Stadın ihale alanı 140.000 metrekare, bina oturum alanı 50.000 metrekare, stat inşaat alanı 85.000 metrekare ve yapılacak olan AVM alanı ise, 11.000 metrekaredir.<br />
+Zemin su tutmaması için stat oturum zemini deniz seviyesinden 23 metre kodunda yükseltilmiştir.<br />
+Stadın yapımında 1600 adet fore kazık kullanılmıştır.. Bina altına 110.000 metreküp, saha altına da 180.000 metreküp dolgu yapılmıştır.<br />
+Tribünlerin çatı yüksekliği 43 metre olup, tüm tribünler kapalı olarak inşa edilmektedir. Tribün içi aydınlatmasına da özen gösterilecek olup, son teknoloji olan LED aydınlatma sistemi kullanılacakmış.<br />
+1700 araç alacak açık otopark alanı için 40.000 metrekare, 100 araç alacak kapalı araç parkı için de 4000 metrekarelik alan ayrılmıştır. Yeşil alanlar ise, 4000 metrekaredir.<br />
+Stat bünyesinde sosyal etkinliklerde kullanılmak üzere yapılacak AVM’ de konser, gösteri, sanatsal ve kültürel etkinlikler yapılabilecek olup ayrıca kafe, restoran ve alış veriş yerleri de bulunacaktır. AVM maçlara erken geleceklerin yemek yiyebilmesi ve vakit geçirmesine de olanak tanıyacaktır.<br />
+Stadın iç özelliklerine gelince, dikkat çeken en önemli şey stat zemini ile ilgili düzenlemelerdir.<br />
+Doğal çim zeminin yağışlı havalarda su tutmayacak şekilde en son teknolojiye göre drenajının yapılacağı ve kış aylarında zeminin kar tutmaması için de alttan ısıtma ve otomatik sulama sistemi ile donatılacak olması,  yeni stadımızın Avrupa standartlarına uygun olacağını göstermektedir.<br />
+Stat da 347 adet VİP, 160 adet VVİP Koltuğu bulunacaktır. Basın için bir kısmı masalı 630 koltuk, engellilere ve refakatçilerine de 100 + 100 adet koltuk ayrılmıştır. Seyirci koltuk sayısı ise, 34.658’ Dir. Bir başka çok önemli yenilik de, her biri 40 metrekare olan 54 adet locanın yapılacak olmasıdır.<br />
+Bir başka güzel şey de tribünlerin sahadan uzaklığının en fazla yerde dahi 5 metreyi geçmeyecek olmasıdır.<br />
+Türkiye’de ki statlarda zaman zaman rastlanan elektrik kesintisi nedeniyle maçların kesintiye uğraması sorununu asgariye indirmek için stada iki ayrı trafodan elektrik bağlantısı yapılacaktır. Ayrıca kesinti halinde otomatik olarak devreye girecek son derece güçlü jeneratör sistemi de kuruluyormuş.<br />
+Statlarda ki kulak tırmalayan çok yüksek sesli anons sistemi yerine, stadın her tarafında rahatça dinlenebilecek şekilde yaygın ses düzeni kurulacakmış.<br />
+Mevcut stada giriş turnikelerinin girişlerde büyük zorluk yaratması göz önüne alınarak yeni ve çağdaş giriş turnikeleri yapımı için çalışmalar yapılmaktaymış. Stada girişin 6 kapısı ve 56 giriş turnikesi olacak ve Stat 12 dakika da boşalabilecekmiş.<br />
+Stadın şehir dışında olması nedeniyle, seyircilerin açısından en önemli bir başka sorun da, stada gidiş ve dönüşünü sağlayacak ulaşım yollarıdır.  Bu konuda ağırlığın toplu taşımacılıkta olacağı belirtilse de, gerek stada dönüş kavşağının ve yan yolların yetersizliği ciddi sorunlar yaratacak gibi gözükmektedir.<br />
+Samsun’dan Çarşamba yönüne yapılmakta olan tercihli yolun yapımı ne derece çözüm olur bilemiyorum? Bu konuda büyükşehir Belediyesi’nin şimdiden gerekli düzenlemeleri yapmasında yarar vardır diye düşünüyorum.<br />
+Yazımın son bölümünde bir noktaya dikkat çekmek istiyorum. Böylesine Avrupa standartlarında statlar yapmak gerçekten çok güzel. Ama unutulmamalıdır ki, önemli olan bu statların seyircilerle anlam kazandığıdır.<br />
+Saçma sapan bir pasolig uygulaması ile spor meraklıları statlardan uzaklaştırılmıştır. Demokratik ülkelerde toplumun toplu olarak bulunduğu yerlerde küfür hariç her türlü tepkinin gösterilmesi demokratik bir hak olarak görülür.<br />
+Bu pasolig uygulamasının küfrü önlemekten çok, siyasi iktidara karşı son dönemlerde artan tepkilerin önünü kesmek için uygulamaya konulduğu kanısı ağırlık kazanmaktadır.<br />
+Çünkü bu uygulama ile spor ahlakı ile uyuşmayan küfür ve her türlü kötü davranışı yapanların belirlenmesi yanında, siyasi iktidara karşı olası tepkileri gösterenlerinde fişlenecek olması, kabul edilemez bir uygulamadır. Umarım Anayasa Mahkemesi bu uygulamaya son verecektir.<br />
+Bu arada, bu stadın yapımında büyük emeği olan önceki Spor Bakanımız Sayın Suat Kılıç’a teşekkür ediyorum. Gerçekten de döneminde Samsun’a çok önemli spor tesisleri kazandırdı.<br />
+Yapımı süren yeni stadımız dışında, sadece il merkezinde Yaşar Doğu ve Mustafa Dağıstanlı Kapalı Spor Salonları ile yer seçimi tartışmalı da olsa, Atakum’da yapımı süren kapalı yüzme havuzu, Samsun’a önümüzde ki dönemlerde çok önemli uluslararası turnuvaların gelmesini sağlayacaktır.<br />
+Sayın Suat Kılıç’tan sonra bir başka Samsunlu Spor Bakanı olarak görev alan Sayın Çağatay Kılıç’ın da bu atağı sürdüreceğine inanıyorum.<br />
+Samsunluların Sayın Çağatay Kılıç’tan ilk beklentisi, göreve atanması sonrası söylediği gibi bu stadın adının, SAMSUN ONDOKUZMAYIS ARENA olarak ilanıdır. Samsun’un onur simgesi olan 19 Mayıs adı yeni stadımıza yakışacaktır.<br />
+Yazımın sonunda, sizleri Samsun’un yeni stadı Samsun Ondokuzmayıs Arena Stadı’ndan iki görüntü ile baş başa bırakıyorum.<br />
+Önümüzdeki sezon bu statta Süper Lig maçları seyretmek dileğiyle, her şeyin gölünüzce olacağı bir hafta diliyorum.</p>
+<p>NOT: Bugün 24 Kasım Öğretmenler günüdür. “Bizleri yetiştirerek topluma kazandıran saygıdeğer öğretmenlerimizin çok daha onurlu yaşayacakları şartlara kavuşturulması dileğiyle, öğretmenler günlerini kutluyorum.“    23. 11. 2014<br />
+Ecz. SADİ SUBAŞI</p>
+<p>Önceki yazılarımı www. hedefhalk. com. tr sitesinden okuyabilirsiniz.</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0720-muslumanlik-ve-turkiye-gercegi.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0722-suyuu-vukuundan-beter-olaylar.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

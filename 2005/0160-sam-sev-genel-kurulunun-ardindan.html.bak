@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Sam-Sev Genel Kurulunun Ardından</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Sam-Sev Genel Kurulunun Ardından
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2005
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0160
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>SAM-SEV GENEL KURULUNUN ARDINDAN</p>
+<p>SAM-SEV 9. Olağan Genel Kurulunu 19-mart-2005 Cumartesi günü gerçekleştirdi. Genel kuruldada açıkladığım gibi bu Genel Kurulda son kez görev üstlendim. Çoğunluğu yeni ve genç isimlerden oluşan yönetim kuruluyla sürdüreceğim bu dönem sonunda, bu genç kadronun SAM-SEV’i çok daha güzel noktalara taşıyacağıma inanıyorum. Son dört yıldır birlikte görev yaptığım yönetim kurulundaki arkadaşlarıma yeni bir yönetim yapılanması sağlayabilmem için gösterdikleri anlayış için teşekkür ediyorum.17. yılını tamamlayan SAM-SEV’in kuruluşundan itibaren yönetimlerde görev alan bu cefakar arkadaşlarımla birlikte SAM-SEV’i Samsun’da söz sahibi bir sivil toplum kuruluşu haline getirdik. Bu onuru bu arkadaşlarım fazlası ile hakettiler. Bu dönem aramızda olmayacaklar ama dün olduğu gibi hep yanımızda olacaklarına inandığım sevgili arkadaşlarım Kani Çelik’e, Kemalettin Altınsoy’a, Ceyhun Karamangil ve Ertuğrul Çepni’ye sonsuz teşekkürlerimi ve minnetlerimi sunuyorum. Önümüzdeki dönem yeniden görev kabul eden Ediz durmuş Bilgin, Aziz Atik, Münir Özatay , Seyit Esen ile aramıza yeni katılan Ferhan Hamarat, Rüştü Araboğlu, Celil Kurada, Cengiz Derindere, Bayram Camadan ve Kartal Akcan’a da başarılar diliyorum.<br />
+Genel Kurulumuza katılarak ve yaptıkları konuşmalarla bizlere destek veren Valimiz sayın Mustafa Demir, milletvekillerimiz sayın Mustafa Demir, sayın Mustafa Çakır ile Rektörümüz sayın Prof. Dr. Ferit Bernay’a şükranlarımızı sunuyorum. Genel Kurulumuzu onurlandıran Cumhuriyet Baş Savcımız sayın Ahmet Gökçınar ile Adalet Komisyonu Başkanı sayın Ahmet Akyüz de her zaman olduğu gibi desteklerini burada da gösterdiler. MHP İl Başkanı sayın İbrahim Özyer, CHP İl Yönetimi adına sayın Yılmaz Türkoğlu, Ticaret ve Sanayi Odası Başkanı sayın Adnan Sakoğlu, Ticaret Borsası Başkanı sayın Yusuf Özer, Samsun Muhasebeciler ve Mali Müşavirler Odası başkanı sayın Ahmet Hayvalı, Tabipler Odası Başkanı sayın Prof. Dr. Davut Albayrak, SAMSİAD Başkanı sayın Mustafa Alemdaroğlu, Türk-İş Başkanı sayın Adil Aydın, Turizmciler Derneği Başkanı sayın Mustafa Yavuz, 19 Mayıs Üniversitesi Mühendislik Fakültesi Dekanı sayın Prof. Dr. Osman Nuri Ergun, İş Teftiş Kurulu Başkanı sayın Adem Şenol katılımları ile bize güç verdiler.45 kurucu üyemiz ve 20 gönüllü üyemizde sorumluluk bilinciyle aramızdaydılar. Tüm katılımcılara SAM-SEV’in hem önceki hemde yeni yönetim kurulu adına şükranlarımı sunuyorum. Ancak tüm çabamıza ve Samsunluların desteğine rağmen bir türlü SAM-SEV’in hiçbir etkinliğine katkı vermeyen diğer üyelerimizin ilgisizliğini anlamakta sıkıntı çekiyorum. Bu ilgisizliğin benden önceki başkan sayın Refik Moral dönemindede olduğunu bilen birisi olarak bu değerlendirmeyi yapıyorum. Özellikle dün görevli arkadaşlarımın ilettiği bir durum çok düşündürücü. Bir kurucu üyemiz aynı saatlerde ve aynı katta karşı salonda gerçekleştiren bir başka etkinliğe katılmak üzere genel kurulumuzun yapıldığı yere geliyor ve imza standına dahi uğramadan çıkıp gidiyor. Bu ilgisiz üyelerimizin eğer yönetimlere yönelik bir sorunları varsa bunları tartışmaya açacakları en önemli platform olan genel kurula dahi gelmemelerini çok doğru bir yaklaşım olarak karşılıyamıyorum.<br />
+Genel kurulda yaptığım açış konuşmamda da vurguladığım gibi SAM-SEV artık Samsun’un en önemli sivil toplum kuruluşlarının başında gelmektedir. SAM-SEV’i bu noktaya taşıyan en önemli etken, bu güne kadar Samsun ve Samsunlunun çıkarları doğrultusunda ortaya koyduğu tavır ve sergilediği cesur çıkışlardır.17 yıldır hiçbir siyasi saplantıya girmeden sadece Samsun için çaba harcaması ve bir çok projeyi Samsun gündemine taşıması ve Samsun ile Samsunspor’a yapılan haksızlıklara anında koyduğu tavır, SAM-SEV’i Samsunlunun güvendiği en önemli kuruluşlardan birsi haline getirmiştir. Mobil Santral sorunu, Sahil yolundaki bir olay nedeniyle 19 Mayıs Kenti Samsun’a sürülmeye çalışılan karalama ve teşvik konusunda uğranılan ekonomik ablukaya karşı konulan net tavır ve sivil toplum kuruluşları ile yapılan ortak çalışmalar SAM-SEV’i hakettiği konuma taşımıştır. Tersane projesinin genel müdürlüğün tozlu raflarından indirilerek Samsun gündemine taşınması, sahil kordonunun yapılmasına ortam hazırlayan ‘’sahilimi istiyorum’’kampanyası, kent kurultayları, büyük bir boşluğu dolduran Samsun’un tanıtımı için yaptılarak satışa sunulan Ataürk Anıtı heykelleri ile Ataürk Anıtı ve Bandırma Vapuru panoları bu başarının birer simgesidir. Genel Kurulda yaptıkları konuşmalarında SAM-SEV’in üstlendiği bu misyonu açıkça vurgulayarak destek veren sayın Valimiz, Milletvekillerimiz ile Rektörümüz de bu görüşümüzü doğrulamıştır. Milletvekilimiz sayın Mustafa Demir’in yaptığı bazı serzenişleri yeni yönetimin bir mesaj olarak algılayacağına inanıyorum. Ancak bir hususu belirtmekte yarar görüyorum. SAM-SEV gözü kapalı ‘’biat’’eden ( herşeyi peşinen onaylayan, şartsız itaat eden ) bir kuruluş olmamıştır, bundan sonrada olmayacaktır. Eksik veya yanlış gördüğü konularda Samsun Halkı adına gerekli tavrı ve tepkiyi koyması yüklendiği misyonun bir sonucudur. Her dönemde gerek il yöneticilerimizle, gerekse milletvekillerimizle sürekli diyalog halinde olunmuştur. Biz inanıyoruz ki sivil toplum kuruluşlarının hazırlıyacakları projeler ve sergiliyecekleri kamuoyu desteği onların işini kolaylaştıracaktır. Bu konuda zaman zaman görüş ayrılıklarının olması demokratik işleyişin doğal sonucudur. Bu anlayış tarzımızın hiçbir şekil ve koşulda şartsız destek olarak algılanmaması gerekir. Sanıyorum ki zaman zaman uğradığımız ve hiç de haketmediğimize inandığımız serzeniş ve tahrik edici açıklamalar, destek istemekten öte beklentilerden kaynaklanıyor. Çağdaş demokrasiyi savunurken sivil toplum kuruluşlarının önemini vurgulamak yeterli değildir. Önemli olan, toplumun çıkarları doğrultusunda ortaya konan bu tavırların çözüm sağlanması açısından doğru algılanabilmesidir. Önemli olan önümüzdeki dönem de, belkide iletişim eksiklğinden kaynaklanan bu yanlış anlama ve değerlendirmelerin sona ermesi ve Samsun adına birlikteliğin sağlanabilmasidir. SAM-SEV her platformda bu birlikteliğin öncülüğünü yapmıştır ve yapacaktır. Gerektiği zamanlarda Samsun’un ve Samsunlunun ortak çıkarları için sağlanmak istenen birlikteliğin dışında kalmayı tercih edenlerin, daha sonra ‘’birliktelik sağlanamadı’’gibi kolaycı yorumlar yapması hiçbir kişi ve kuruluşa haklılık kazandırmayacaktır. SAM-SEV Samsunludan destek aldığı sürece inandığı ilkeler doğrultusunda çalışmalarını yılmadan sürdürecektir. Biz biliyoruz ki risk üstlenmeden toplumların sorunlarına sahip çıkılamaz.<br />
+Önümüzdeki iki yıllık dönemde İl yöneticilerimiz ve milletvekillerimizle sürdüreceğimiz ortak çalışmalar Samsun’un önemli sorunlarının aşılmasında en önemli çıkış noktamız olacaktır. Bu konudaki samimiyetimize herkesin inanmasını diliyorum. İyi haftalar dileğiyle..<br />
+20-MART-2005</p>
+<p>SADİ  SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0159-i-yi-ki-varsin-gisella.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0161-gelibolu-filmi-ve-dusundurdukleri.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

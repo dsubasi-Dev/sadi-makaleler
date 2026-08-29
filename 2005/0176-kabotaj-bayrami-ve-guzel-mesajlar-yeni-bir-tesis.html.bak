@@ -1,0 +1,295 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Kabotaj Bayramı ve Güzel Mesajlar Yeni Bir Tesis</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Kabotaj Bayramı ve Güzel Mesajlar Yeni Bir Tesis
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2005
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0176
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>KABOTAJ BAYRAMI VE UMUT VEREN MESAJLAR<br />
+İLE SAMSUN’A YAKIŞACAK TESİS<br />
+01-temmuz Türkiye’nin kabotaj haklarını kendisinin kullanacağını tüm Dünyaya ilan edişinin 79. yılıydı. Büyük Önder Mustafa Kemal Atatürk’ün 19-mayıs-1919 da Samsun’dan başlattığı bağımsızlık yürüyüşü<br />
+bağımsız bir Türkiye için adım adım her konuda sürdürülmüştür. Bunlardan biriside üç tarafı denizlerle çevrili olan Ülkemizin kıyılarındaki ticaret dahil her hakkı artık kendisinin kullanacağını, yani Osmanlı’nın gerileme devrinde yabancılara tanıdığı kapütülasyonları artık tanımadığını Dünyaya ilan edişiydi. İşte bu onur verici kararın 79. yıl dönümünde bir Samsunlu olarak  birkaç güzelliğe birden  tanık oldum.<br />
+O akşam bu kutlamanın bir devamı olarak yeni yapılan Yelken kulübünde bir kokteyl düzenlendi. Samsun üst protokolünün ve yelken kulüp üyelerinin katılımı ile düzenlenen kokteyl, Samsun adına büyük bir kazanım olan bu güzel tesisle bizleri tanıştırdı. Yelken Kulübü Sosyal tesisleri ilgili söyliyeceklerimi ikinci bölüme bırakıp, günün anlamını vurgulamak üzere kürsüye gelen sayın Valimiz Mustafa Demir’in içimize su serpen konuşmasına değinmek istiyorum. Böylesine moral veren konuşmalara o kadar hasret kaldık ki. Devletin en üst yöneticilerinden birisinin böyle cesur mesajlar vermesi ülkemiz adına da çok önemli bir gelişmeydi. Sayın valimiz Atatürk’ün denizlerimizdeki hakimiyetimizi ilan edişinin üzerinden geçen 79 yılda ne yazık ki, O’nun gösterdiği çağdaş dünyayı yakalama konusunda denizcilikte çok gerilerde kaldığımızın altını çizdikten sonra, birazda dış güçlerin dayatmaları sonunda üç tarafı denizlerle çevrili ülkemizin karayoluna mahkum edildiğini örneklerle anlattı. Özellikle güney doğu bölgesinde görev yapmış olmanın deneyim ve birikimleri ile hava, deniz ve demir yolu ulaşımını istenen seviyede kullanamayışımızın nedenlerini açık açık anlattı. Dış güçlerin bizi bu konuda engelliyerek, karayolunu kullanmamız konusunda yönlendirdiklerini ve kendi üretimleri olan kamyonları yaygın bir şekilde bize pazarladıklarını vurguladı. Bu nedenle akaryakıt alımları için dış satım gelirlerimizin en büyük bölümünü bu amaçla kullanmak zorunda kaldığımızı, bunun gelişmemizi olumsuz etkilediğini net bir şekilde açıkladı. Bu Ülkenin insanlarına, o günün tüm olanaksızlıklarına rağmen cumhuriyetin 10. yılında  “ .. demir ağlarla ördük Anayurt’u dört baştan..”diye marşlar söyletebilen azim ve yüreklilikten nerelere geldiğimizi bir kez daha hatırladık. Gerçektende Cumhuriyetin ilanıyla başlayan tam bağımsızlık konusundaki karar ve uygulamaları, sonraki yıllarda sürdüremediğimiz için, bu gün içine düştüğümüz ekonomik  çıkmazında etkisi ile dış dayatmaların baskısı sonucu bağımsızlığımızı tartışmalı hale getiren uygulamaları üzülerek izliyoruz. Son zamanlarda bu tür cesur mesajlarını duymaya alıştığımız sayın Valimize bu gerçekleri bir kez daha en yetkili ağızdan hatırlattığı için teşekkürlerimi sunuyorum.<br />
+Kabotaj bayramı kutlamaları için düzenlenen kokteyl yep yeni bir sosyal tesisi Samsunluların tanımasına olanak yarattı. Gerek sayın Valimiz ve gerekse sayın Büyük Şehir Belediye Başkanımızın da vurguladıkları gibi Samsun’un geçmişten beri gelen sosyal yönden gelişmişliği tartışılmaz. Görevi nedeniyle bir çok ilimizi tanıma fırsatı bulan valimizin de bu yöndeki tesbitleri önemlidir. Samsun 1980 li yıllarda bu konuda bazı sorunlar yaşansada bugün yeniden hızlı bir gelişme sürecine girdi. Özellikle ekonomik ve siyasal etkinliğini son 25-30 yılda hızla eriten Samsun, son yıllarda şehircilik konusunda önemli güzel düzenlemelere sahne oluyor. Sahilimi istiyorum kampanyası sonucu Büyük Şehir Belediye Başkanı tarafından başlatılan ve kent yöneticilerinin büyük desteği ile kazanılan sahil kordonu, bu bölgede daha sonra yapılan gölet ve hayvanat bahçesi Samsun’u bir anda bölgemizde farklı bir konuma getirdi. Atakum sahilinde planlanan düzenlemeler, batı parkta sürdürülen ticaret merkezi hazırlıkları, doğu park dışındaki balıkçı barınakları, geçte olsa başlatılan doğalgaz çalışmaları, durakların yeni imajı gerçektende çağdaş şehircilik adına güzel gelişmeler. Bunları söylerken zaman zaman gündeme gelen yanlışlıklar ve tartışmalı düzenlemeler için yapılan eleştirileri de gözardı etmiyorum. İşte bu güzelliklere bir yenisi ekledi. Batı parktaki Yelken Spor ve İhtisas Kulübü Sosyal Tesisler. Yapımı sırasında eleştirler alan, hatta yıkım emri de verilen tesis bitme noktasına geldi. Tüm eleştirilere rağmen bu tür tesislerin çağdaş kent adına büyük ihtiyaç olduğunu söylemek lazım.40 yılı aşkın bir süredir yelken sporuna katkı veren ve önemli sayıda genç yelkenci yetiştiren ve yarışmalarda şampiyonlar çıkartan bu kulübü liman içine sıkışıp kalmaktan kurtaran yeni tesis Samsun’a çok yakıştı. İstanbul ve İzmir de dahi bir benzerinin olduğu tartışmalı çok güzel ve çok amaçlı bir tesis yaratılmış. Profosyonel bir işletme kurulmuş. Üyelerinin yanında bundan böyle çok önemli toplantı ve organizasyonlara da olanak yaratacak bir yapı oluşturulmuş.27-ağustosta açılması planlanan bu tesis üyelerinin önemli maddi katkısı ile başlatılmıştır. Ancak ortaya çıkan tesis sadece bu paralarla olacak bir iş değil. Bu konuda başından itibaren destek veren Büyük Şehir Belediye Başkanı sayın Yusuf Ziya Yılmaz’a teşekkür etmek lazım. Bu arada genel sekreter sayın Kenan Şara’nın kararlı ve yapıcı katkılarını unutmamak gerekir. Bu projenin ilk gündeme geldiği üç yıl önceki genel kurulda yapılması düşünülenleri duyunca doğrusu ben dahi inanamamıştım. İşte bu nedenle öncelikle böyle bir tesisi gerçekleştirme inancı ve kararlılığı için sayın Serhat Belli’yi ve yanındaki yönetim kurulu üyesi arkadaşlarına övgünün en büyüğünü yapıyorum. Bir inanılmazı gerçekleştirdiler. Yelken Federasyonu dahil Samsun dışından ne kadar önemli maddi destekler sağladığını öğrenince duyduklarıma zor inandım. Tüm bunlar inancın ve günlük yaşamda iyi ilişkiler kurabilmenin ve geniş dostluklar edinebilmenin becerisi ve karşılığıdır diye düşünüyor ve sayın Belli ve arkadaşlarına Samsunlular adına teşekkürlerimi ve takdirlerimi sunuyorum. Hiç kimse burayı nüfuslu birilerinin özel yeri gibi algılayarak eleştirmesin. Sonuçta Samsun çağdaş bir tesis kazanmıştır. Yeri gelince herkes bu tesisten yaralanabilecektir. Emeği geçen herkese teşekkürler.<br />
+Umarım , kent güzellikleri konusundaki yaşanan olumlu gelişmeler, bugüne kadar uğradığımız haksızlıkların giderilmesi ve işsizliği ortadan kaldıracak projelerin gündeme getirildiği siyasal etkinliğin kazanılması noktasına da yansır. İyi haftalar dileğiyle..03-TEMMUZ-2005<br />
+SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0175-sistemden-yararlananlarin-mutlulugu.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0177-gazetecilige-yakismayan-uslup.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

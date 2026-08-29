@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Bir Türk Olarak Utanç Duyduğum Gece</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Bir Türk Olarak Utanç Duyduğum Gece
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2005
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0199
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>BİR TÜRK OLARAK UTANÇ DUYDUĞUM GECE</p>
+<p>Çarşamba akşamı Türkiye için futbolda çok önemli bir geceydi.   İsviçre’de 4 gün önce taktik hatalarıyla ve çok kötü bir oyunla kaybettiğimiz maçın rövanşını oynayacaktık. Medeniyetin beşiği olarak tanınan İsviçre kamuoyu ve medyası bilinçli bir şekilde ilk maç öncesi ortamı germiş ve teknik direktör ve oyuncularımıza çirkin lakaplar takarak,  Türkiye’yi küçük düşüren yayınlar yapmıştı. Ne yazık ki takımı ve teknik kadroyu bu olayların etkisinden uzak tutamadık. Maçtan bir hafta önce başlayan bu yıldırma hareketleri, kafilenin hava alanında karşılanışı sırasında da devam etmiş ve maç başı seramonisinde İstiklal marşımız ıslıklanmıştı. Belki de bunların etkisi ile tüm spor otoritelerinin de kabul ettiği bir şekilde son yılların en kötü oyununu sergileyen millilerimiz son dakika golü ile maçı 2-0 kaybetmişti. Hakemin bir penaltımızı es geçmesi belki büyük haksızlıktı. Ama her maçta olabilecek bu hakem hatasını ön plana çıkartarak kötü oyun ve kötü teknik yönetim gözden kaçırılmıştı.<br />
+Teknik kadronun maç dönüşü başlayan ve rövanşı adeta öç alma gibi algılayan açıklamaları ve medyanın da bu doğrultuda yaptığı yayınlar semeresini vermiş ve İsviçre kafilesi ‘’ CEHENNEME HOŞ GELDİNİZ ‘’ pankartı ile karşılanmış ve vize işlemlerinde gösterilen zorluklar muhtemel olayların ilk habercisi olmuştur. Teknik direktör Fatih Terim’in takımı motive etmek adına sarf ettiği, amacını aşan sözler gerçektende takımı motive etmişti. Bunların hepsine bir yere kadar hoşgörü gösterilebilirdi. Tüm bunlar olurken Futbol federasyonu ne yapıyordu? İçişleri Bakanlığı ve onun uzantısı İstanbul Valiliği ve Emniyet Müdürlüğü neredeydi? Bu işin nerelere varacağı bu yetkililer tarafından görülerek neden engel olunmuyordu? Sonuçta bir maçtı ve Türkiye için her şeyin biteceği bir olay değildi. AB ne girebilme sürecinde maçın sonucundan çok bu maçın Ülkemize yakışır ve Avrupa yolunda bir sınav olacağı nasıl görülemedi?<br />
+Olan oldu. Maçın daha başında olabileceklerin sinyali açık bir şekilde görüldü. Bir ülkenin milli marşı tüm stad tarafında ıslıklandı. Hadi onlarda yaptı diyerek geçiştirelim. Ya maç içersinde oyuncularımızın aşırı motivasyondan olan fevri ve kasıtlı hareketleri, hakeme yapılan tacizler kenar yönetimi ve saha güvenliğinden sorumlu olanlar tarafından nasıl görülemez? Evet, maç bizim için istenen sonuçla bitse, belki her şey çok farklı olacaktı. Ama unutulmamalı ki, maç öylede bitse FİFA’nın başının ve merkezinin bulunduğu İsviçre’lilere okadar çok açık verilmişti ki,  buna benzer tepkileri alacak, muhtemelen yine ceza alan biz olacaktık.<br />
+İçine düştüğümüz durum gerçekten acı verici. Bu maçla, görünenlerden çok daha büyük şeyleri kaybedeceğimizi dahi göremiyoruz. Bu maç Türkiye’ye çok pahalıya mal olmuştur. Futbol adına Galatasaray’ın kazandığı  Avrupa şampiyonluğu ve Türk Milli takımının sahip olduğu Dünya üçünçülüğünün getirdiği prestij dahi bir daha dünya sporunda yer bulamayacaktır. AB sürecinde bizi almamak için direnen ülkelerin eline büyük bir koz verilmiştir. Uzun yıllar sonra Dünya sporunda bir ismimiz önemli bir yönetici konumuna gelmiş, hatta gelecek dönem için başkanlığına kesin gözle bakılıyordu. Bu isim bugün UEFA asbaşkanı olan sayın ŞENES ERZİK’tir. Bu olaylar ne yazık ki onunda şansını olumsuz etkileyecektir. Bu olaylardan sonra dünya futbolunda önemli organizasyonların Ülkemizde yapılmasına hiçbir ülke destek vermeyecektir. Tam da Avrupa Futbol şampiyonasına ve diğer büyük finallere talip olarak şanslı bir duruma geldiğimiz ortamda yaşananlar bir ihanet gibidir. Bir yanda çağdaş dünyaya entegre olabilme çabaları diğer yanda bu yaşanan çirkin tablo. Gerçekten ülkemiz adına çaba harcayan hariciyecilerimiz için büyük şanssızlık.<br />
+Yaşananlar Ülkemiz adına sadece ayıp değil, ihanet ve büyük bir suçtur. FİFA bize ne ceza verir bilemiyorum. Tabii gelinen bu noktada zararın neresinden dönülürse kar hesabı ilgililer en akıllı yöntemleri kullanacaklardır. Bu işin bir yanı. Ancak, bence işin bizim yönümüzden değerlendirilmesi çok daha önemli. Ortada işlenmiş bir büyük suç vardır. Sorumlları cazasını ibret olacak şekilde çekmelidir. Bu nedenle;<br />
+En büyük suçlu FUTBOL FEDERASYONUDUR. Olabilecek olayları görebilme basiretini gösteremediği ve emrindeki maaşlı kadroların motivasyon adına da olsa yaptıklarına ve söylemlerine engel olamadığı için, Havaalanında başlayan ve stad içinde devam eden eylemlere baştan önlem almadığı için, daha önce kendi milli sporcusunu dövdürmekten sabıkalı bir yönetim kurulu üyesinin bu suçtan sabıkalı iki militanını sahaya görevli sokmasına göz yumduğu için suçludurlar. Yapacakları ilk iş yönetim olarak istifa edip FİFA nezdinde savunma yapacak olan yetkililerin elini güçlendirmektir.<br />
+Milli takım teknik direktörü FATİH TERİM 2. suçludur. Şu anda Türkiye’nin takımı en iyi motive eden ve maça hazırlayan en iyi hocası olarak gördüğüm Fatih başta kendi kariyerine ihanet etmiştir. Onun sahip olduğu uluslar arası kariyer de ne yazık ki bitmiştir. Başarıyı yakalamanın çok zor ama kaybetmenin çok kolay olduğunu unutarak kendine ve Ülkesine büyük zarar vermiştir. Alpay gibi sicili bozuk dönemi bitmiş bir oyuncuyu  kurtarmak adına iki maçtada onun kurbanı olmuştur. Belki son maçta o gereksiz penaltıya neden olmasa bugün bunları konuşuyor olmayacaktık. Artık Fatih’in takımın önünde çıkacağı hiçbir milli takım , Uluslar arası arenada destek görmeyecek, tam tersine futboldan çok onun geçmişi öne çıkacaktır. O nedenle üzülerekte söylesem istifası tek çözümdür.<br />
+Futbolcular suçludur. Bir kısmı Avrupa’da top koşturan oyuncularımız başta olmak üzere , milli olarak dünya piyasasına çıkmış sporcularımız bu kadar biliçsizce hareket etmemeliydiler. Özellikle yurt dışında top oynayanlar acaba oynadıkları takımda hakeme ve rakip oyunculara bu kadar tacizde bulunabiliyorlar mı? Ne kadar tahrik edilirse edilsinler maç sonrası rakip oyuncuları mahalle kabadayısı gibi kovalamak hakkını nereden aldılar? Ayyıldızlı formayı giyme şansını yakalamış ve Türk Milletini temsil için sahaya çıkmış bu oyuncular hepimize büyük bir leke sürmüştür. Bu oyuncular belirlenerek sadece milli takımdan değil takımlarından dahi uzaklaştırılmalıdır.<br />
+İçişleri bakanlığı ve onun İstanbul! daki görevlileri Vali ve Emniyet müdürü de sorumludur. Özellikle emniyet müdürü görevini yapamamıştır. Havaalanından başlayarak gerekli önlemler alınarak böylesine dünyanın gözü üzerimizdeyken ve önemli organizasyonlara talip olduğumuz bir dönemde çapulculara ve provokotörlere fırsat verilmemeliydi. Sayın Valiyi yakından tanıyan birisi olarak kendisine aksettirilmiş olsaydı bu tür olaylara izin vermeyeceğine eminim. Ama onun gözü kulağı durumundaki emniyet müdürü bu maça gereken önemi vermemiştir. Saha içi önlemlerinin alınmadığı sahaya yağan her türlü materyelden ve maç sonrası konuk sporcuların yeterince korunamamasından belli olmaktadır. Sadece bunlar dahi emniyetin yetersizliğini göstermektedir. Onun ne yapması gerektiğini söylemek bize düşmez. Ama yetkilililerin gerekeni yapacağına inanıyorum.<br />
+Bir başka büyük suçlu MEDYADIR. Yaptıklarının ne basın özgürlüğü ile nede haber verme hakkı ile ilişkisi yoktur. Başımıza büyük bir belanın açılacağının belli olduğu maç sonrası, bir birleriyle görüntü sunma yarışına giren Türk medyası Ülkemize ihanet etmiştir. Böylesine bir milli olay sonrası Avrupa medyasının karşıdakine koz olabilecek görüntüleri en azından olay sonrası basmamak gibi bir biliçle hareket eden Avrupa medyası nasıl ketum davranıyor görmüyorlar mı? Sadece bu olayda değil terörist eylemleri, tecavüz olayları ve daha başka bir çok görüntüyü dünya medyasına servis yarışına giren medyamız ülkemizin çıkarlarına ihanet etmektedir. Bu olay sonrası da İsviçre’nin ve FİFA’nın eline bulunmaz görüntüler vermişlerdir. Böyle bir medya olmaz. Olursada ona Ülkesinin çıkarlarına karşı çıkan medya denir. Ucu kendilerine dokununca yeri göğü inleten basın etiği adına görev yapan kuruluşların bu kez suskun kalmamaları en büyük dileğim. Bu işe mutlaka bir düzen gelmelidir.<br />
+İşte bu nedenlerle yukarıda sıraladığım sorumlular gereğini yaparak geçte olsa Ülkenin önünü açmalıdır. Çünkü gelinen nokta çok sıkıntılı bir durumdur. Bu işten az zararla sıyrılabilmemiz adına, önümüzdeki günlerde oluşturulacak ekibin önünü açmak adına ve onların ‘’biz gerekeni yaptık olaylarda sorumluluğu olanları görevden uzaklaştırdık’’ diyebilmeleri adına ‘’İSTİFA ‘’ denen müesseseyi işletmelidirler.<br />
+Böylesine şansız olayların artık yaşanmayacağı bir Türkiye dileğiyle iyi haftalar diliyorum..20-kasım-2005</p>
+<p>SADİ  SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0198-10-kasim-ve-gunumuz-turkiyesi.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0200-basbakan-samsun-a-neden-geldi.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

@@ -1,0 +1,295 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Ülkemizdeki Gizlenemez Ahlaki Çöküntü</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Ülkemizdeki Gizlenemez Ahlaki Çöküntü
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2004
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0094
+
+</div>
+
+
+<div class="article-content">
+
+<p>a-mail; sadisubasi@ttnet. net. tr<br />
+fax;4329020</p>
+<p>ÜLKEMİZDEKİ GİZLENEMEZ AHLAKİ ÇÖKÜNTÜ</p>
+<p>Öyle olaylar vardırki direkt ilişkisi olmasa  da bazı gerçekleri gün ışığına çıkartır. Geçen hafta sonu oynanan Samsunspor-Beşiktaş maçındaki ve sonrasındaki sportmenlik dışı hareketler ve açıklamalar son yıllarda giderek artan ahlaki erozyonu tüm yönleri ile gözler önüne serdi. Bunlardan en anlamlısı da, bende dahil çok kişinin tepki koyduğu ve sözünün arkasında durarak bu ülkeyi terketmesini istediğimiz Lucescu'dan geldi. Lucescu gerek maç sonrası ulusal medyaya ve gerekse İtalyan medyasına yaptığı açıklamalarla Ülkemizin içine düştüğü çirkinlikleri tüm dünyaya duyurdu. Lucescu ''bu Ülkede her konuda olağan hale gelen yolsuzluklar sporada bulaştı. Türkiye de şampiyon olacak takımlar bir takım güçlerce belirleniyor''diyordu. Ülkemizde uzun yıllardır görev yapan ve her kesimin beğenisini alan bir yabancı, tarafsız gözlemci kimliği ile Ülkemizin fotoğrafını çekmiş ve tüm dünyanın önüne koymuştu. İster kızalım ister hoşgörü gösterelim ama bir gerçeği artık görelim. Ülkemiz gerçek anlamda bir batağa saplanmıştır. Yıllardır Ülkemizi yöneten iktidarların liberalleşme adına uyguladığı yanlış politikalar ve kendi yandaşlarına yaptıkları kayırmalar ile özelleştirmelerinde rayından çıkması sonucu Ülkemizde büyük bir soygun düzeni oluşmuştur. Yabancı yatırımcıların dahi dolandırıldığı bir ortamda, geçmişin hayali ihracaatçıları  gölgede kalmıştır. Sporada bulaşan hastalık sonunda bir yabancı teknik direktörü de isyan noktasına getirmiştir. Üç büyük kulüp dükalığı bugüne kadar istedikleri gibi yönlendirdikleri federasyon ve merkez hakem komitesinede saldırmaya başlayıp onları eyyamcılıkla suçlama noktasına gelince, futbol federasyonu 2. ci yarı ile birlikte hakemlere gördüklerini çalmaları için kesin talimat veriyordu. İlk hafta maçları ile birlikte verilen talimatlar ve destekler doğrultusunda büyük , küçük takım ayırımı yapmadan uygulamaya  konan kurallara alışkın olmayan beşiktaş futbolcu ve teknik adamları hakem konusunda yanılmışlar ve hata üzerine hata yapmışlardır. Sonuçta bir büyük kulübe yakışmayan olaylara neden olmuş ve tarihlerine kara bir sayfa eklemişlerdir. Özür dilemesi gereken Beşiktaş camiası Lucescu'nun altını çizdiği her konuda oluşan ahlaki çöküntünün bir çeşidini uygulayarak ilkeli davranan  hakem ve federasyona en ağır şekilde hakaretler yağdırmıştır.<br />
+İşin üzücü tarafı böylesine ahlaki çöküntü ve yolsuzlukların  ancak işgal altındaki ülkelerde ve sömürgelerde görülmesinin olağan olmasıdır. Çok daha acısı da bu düzenin artık ülkemizde kanıksanır hale gelmesidir. Yolsuzlukların ve Ülke kaynaklarının çarçur edilmesinin cezasız kalışı kolay zengin olmayı özendirir hale gelmiştir. Ülkemizde artık namuslu kalarak yaşamak zorlaşmıştır.<br />
+Son dönemlerde başlatılan bazı operasyonlar umut verici olsada , siyasi nedenlerin öne çıkması ile inandırıcılığını azaltmaktadır. Unutulmamalıdırki, milletvekili dokunulmazlığının kaldırılacağı yönünde seçim öncesi verilen sözlerin mecliste engellenmesi ve şimdilik rafa kaldırılması bu konuda ciddi bir kararlılığın olmadığını göstermektedir. Zan altındaki karar vericiler aklanmaktan kaçındıkları sürece, yolsuzluklarla mücadele edecek yasal düzenlemeleri yapmaları çok olası görülmemektedir.<br />
+Bu ülke insanı ekonomik dar boğazdan çıkabilmemiz için ücretlerinin artırılmamasını dahi sineye çekerek direnirken, Ülkeyi idare edenler önce kendilerinden başlayarak  ve ülkenin önemli kurumlarını da içine alacak şekilde sorgulamaya gidemediği taktirde bu bataklıktan kurtulabileceğimize inanmıyorum. Çok daha gecikmeden Ülke çapında Ulusal bir aklanma kampanyası başlatılmalı ve devleti soyanlar, bu fakir halkın payını çalanlar hiçbir siyasi ve dost ilişkileri gözetilmeksizin yargı önüne çıkartılmalıdır. Artık bıçak kemiğe dayanmış, uluslararası arenada hızla prestij kaybedilmeye ve güven yitirilmeye başlamıştır. Bu Ülkenin insanı bunu haketmiyor. Bu konularda halkı aydınlatma görevi olan medyada, birbirlerni suçlama kampanyalarına son vererek bu kirlenmeden biran önce sıyrılmalı, asli görevini yerine getirmeye başlamalıdır. Aksi takdirde günümüz ulusal medyasının  patronları bu kirlenmeden nasibini almış insanlar olarak basın tarihinde hakettikleri yerlerini alacaktır.<br />
+Sevgi ve dostluğun doyasıya yaşanması gereken bu bayramı tüm okuyucularımın sağlık ve huzur içinde geçirmesini diliyorum. İyi haftalar...<br />
+SADİ  SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0093-samsunspor-da-yonetim-ve-arica-mucizesi.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0095-i-stanbuldaki-samsunlulara-mesaj.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

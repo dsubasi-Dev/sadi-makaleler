@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Açık Mektup-Sayın Yalçın Bayer-Teşvik Kapsamı</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Açık Mektup-Sayın Yalçın Bayer-Teşvik Kapsamı
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2005
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0148
+
+</div>
+
+
+<div class="article-content">
+
+<p>S AYIN YALÇIN BAYER</p>
+<p>Samsun’dan selamlar. Yine başımız dertte. Bu kent ne şanşsız bir Kentmiş, bir türlü yüzümüz gülmüyor. İyi ki Ulu Önder Atatürk Yeni Türkiye Cumhuriyetinin temellerini Samsun’a çıkarak atmış. Elimizde gurur duyacağımız bir bu kaldı. Dünden bugüne her dönem sürekli haksızlığa uğruyoruz. Özal döneminde yeni İller oluşturulması modasındada Samsun kurban seçilmişti. Samsun’un çevresinde oluşturulmaya çalışılan üç yeni İle ‘’Bafra, Ünye, ve Merzifon’’a Samsun’un altı ilçesini bağlayarak Samsun’u üç ilçeli güdük bir Kent haline getirmeye çalışmışlardı. Sivil toplum örgütlerinin yoğun tepkisi ve imza kampanyaları ile Samsun ayağa kalkmış, biraz da şansımızın yardımı ile Özal hükümetinin değişmesi sonucu ucuz kurtulmuştuk.<br />
+Bu kez Samsunluyu aşağılayan ve rencide eden bir haksızlıkla karşı karşıya kaldık. Önceki teşvik uygulamaları ile Samsun’un komşusu olan Amasya, Ordu ve Sinop ‘’Teşvikte Öncelikli İller’’kapsamına alınmış ve Samsunlu yatırımcıların Samsun’da yatırım yapması büyük çapta engellenmişti. Daha önce Hükümet tarafından söz verilmesine ve Samsun Milletvekillerince Samsunlulara müjdelenmesine rağmen , geçen hafta Sayın Başbakan yeniden düzenlenen ve genişletilen ‘’Teşvik kapsamındaki illeri’’açıklamış ve Samsun yine kapsam dışında bırakılmıştır. Size bölgemizdeki teşvikli iller haritasını gönderiyorum. Haritaya tarafsız gözlemci olarak bir bakarmısınız? Doğuda Artvin, Rize, Trabzon, batıda Kastamonu, iç bölgemizde Çorum, Amasya, Tokat dahil tüm iller teşvik kapsamında, bir tek Samsun cımbızla çekilipdışlanmıştır. İstatistiki veriler kıstas alınmış olabilir. Ama bu verilerin gerçekleri yansıtmadığı bir gerçek. Samsun’da kişi başına düşen gelirin 2000 USD nin üzerinde olduğu (çok az da olsa) gerekçesi ile kalkınmış il olarak değerlendirilmektedir. Oysa bu endeksleri yükselten veriler gerçekleri yansıtmamaktadır. Samsun’un çevresinde kurulu bulunan Hasan Uğurlu, Suat Uğurlu, Ayvacık ve Karakaya Hidro Elektrik Santrallarının ekonomik katkılarının Samsun’daki kişi başı gelir seviyesini yükseltmesi, bu yanıltıcı endeksleri ortaya çıkartmaktadır. Ne varki bu barajlar, tüm Türkiye’ye elektrik üretmekte ve milli ekonomimize katkı sağlamaktadır. Samsun da bundan ancak kendine düşen payı almaktadır. Samsun’a ciddi hiçbir katkısı yoktur.<br />
+Yıllardır bu kenti temsil etmek üzere görev alanların yeterli çabayı gösteremedikleri , hükümetler düzeyinde etkili olamadıkları ve Samsunluların da gerekli tepkiyi koyamamaları bizim eksiklerimiz. Aslında Samsunlulara da çok fazla haksızlık etmemek gerekir. Çünkü bu Kent insanı seçimlerde  Sayın Demirel, Sayın Özal ve Sayın Erdoğan Hükümetlerine ençok milletvekilini vermiştir. Bunun anlamı yıllardır ihmal edilen Samsun’a yatırım alabilmesi içindir. Ne var ki hep ödüllendirilmek yerine cezalandırılmıştır.<br />
+Sayın Bayer, haritaya bir kez daha bakarmısınız? İşsiz sayısı Türkiye ortalamalarının çok üstüne çıkan, ekonomik yönden çökmüş, işçi , memur ve emekliler kenti haline gelmiş Samsun, nasıl böylesine haksız bir rekabetin çemberine sokulur? Hangi mantık ve insaf ölçüleri buna haklılık kazandırır?<br />
+Bugün Samsunlu yine ayakta. Herkes isyan halinde. Yerel basın<br />
+hergün manşetlerinde bunu yazıyor. Ama sesimizi Ankara’ya duyuramıyoruz. Salı günü Başkanı olduğum SAM-SEV in çağrısı ile 80 sivil toplum kuruluşu ile toplanıyoruz. Ortak bir yöntemle bu haksızlığa karşı neler yapabileceğimizi belirliyeceğiz. Mobil Santral facisınıda ilk kez Türkiye gündemine bizim aracılığımızla siz duyurmuştunuz. Bugün ortaya çıkan teşvik haritasına bakıldığında Samsun olarak nasıl bir yalnızlığa itildiğimiz görülecektir. Sevr haritasıyla Türkiye nasıl dar bir bölgeye sıkıştırılmış ve yok edilmeye çalışılmızsa, bu haritaylada Samsun ekonomik yönden  iyice çökmeye mahkum edilmiştir. Tüm kıstaslar bir yana bu görüntü dahi izan sahibi herkesi düşündürmelidir. İçimiz yanıyor. Böyle giderse Samsunlu bunun altında başka nedenler aramaya başlayacaktır. Bu teşvik olayı mutlaka haksızlıkları giderecek şekilde ya yeniden düzenlenmeli veya tümden iptal edilmelidir. Bu şartlarda Samsun’da yatırım yapacak insan bulmaya olanak kalmamıştır.<br />
+Bu düşüncelerimizi köşenizde değerlendirirseniz Samsunlular olarak size minnettar kalacağız. Saygılarımla<br />
+10-OCAK 2005                    SADİ  SUBAŞI</p>
+<p>SAMSUN</p>
+<p>SPOR, EĞİTİM VE TANITMA VAKFI (SAM-SEV )</p>
+<p>BAŞKANI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0147-samsun-un-siyaseten-cokusu.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0150-biraz-da-felsefe.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

@@ -1,0 +1,349 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Dönüştürlen Sağlık Politikalarına Kurban Edilen Eczacılık Mesleği. (2)</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Dönüştürlen Sağlık Politikalarına Kurban Edilen Eczacılık Mesleği. (2)
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2012
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0583
+
+</div>
+
+
+<div class="article-content">
+
+<p>e-posta; denizeczaneoptik. com                                    SUNUŞ</p>
+<p>DÖNÜŞTÜRÜLEN SAĞLIK POLİTİKALARINA<br />
+KURBAN EDİLEN ECZACILIK</p>
+<p>14 Mayıs 2012 Pazartesi günü Eczacıların Bayramı. Ülkemizde eczalığın başlamasının 173. yılı.<br />
+Bir eczacı olarak, mesleğimizin ölüm fermanının yazıldığı bir dönemde köşe yazım “SUNUŞ’U” eczacıların dramına ayırmamı ve bu konuyu sizlerle paylaşmamı hoş göreceğinizi umuyorum.<br />
+İnsanların sağlıklarının korunması ve hastalık halinde tedavisi için başvurabileceği kişi öncelikle hekimler sonra da eczacılardır.<br />
+Onların sağlıklı hizmet yapabilmeleri için öncelikle kendilerinin her yönden sağlıklı ve güven içersinde olması gerekir.<br />
+Ne var ki, dönüştürülen sağlık politikaları eczacıları tam anlamı ile demoralize etmiş ve gelecek endişesi içinde bırakmıştır.<br />
+Eczacılar yıllardır bu ülkenin çıkarlarını kendi çıkarlarının önünde tutmuş ve pahalı ilaçtan daha çok karlar ettiklerini bildikleri halde, ilacın çok pahalı olmasından yakınmış ve ilaç fiyatlarının düşürülmesi gerektiğini sürekli gündemde tutmuşlardır.<br />
+Eczacı odalarının arşivleri ilacın çok pahalı satıldığını kanıtlayan belgelerle doludur. Bunun örnekleri ile Sağlık Bakanlığına yapılmış onlarca suç duyurusu vardır.<br />
+Sağlık Bakanlıkları yıllarca bu uyarılara kulağını tıkamış ve Hazinenin ilaç tekellerince soyulmasına adeta göz yummuştur.<br />
+1984 de ülkemizde başlayan liberalleşme rüzgârı ve dış güçlerin yönlendirmesi sonucu ilaç fiyatlarının İlaç ve Eczacılık Genel Müdürlüğünce belirlenmesi işlemine son verilmiş ve ilaç fiyatlarının belirlenmesinde beyan usulü getirilmiştir. Bunun anlamı, ilaç fiyatlarının belirlenmesi işinin ilaç tekellerinin insafına bırakılmasıdır.<br />
+Nitekim yeni uygulamanın başlaması ile fiyat artışları kısa sürede tavan yapmıştır. 30 yılı aşkın bir süre sonra bu yanlış nihayet görülmüş ve hükümet aldığı bir dizi kararlarla ilaç fiyatlarını düşürmüş, kamu kurumu reçetelerinin yazımına getirdiği kısıtlamalarla da ilaç israfını büyük ölçüde önlemiştir.<br />
+Bu uygulama, eczacıların yıllardır savunduğu bir yöntemdi ve alkışı hak ediyordu. Ancak, eczacılar ilacın ucuzlatılmasını savunurken bir şeyi akıllarına hiç getirmemişti. Bu yanlışın cezasının da eczacılara kesileceğini hiç düşünememişti. Çünkü eczacılar en az kırk yıldır eczane kar oranlarının dünya da ki düzeye getirilmesini ve meslek haklarını talep ediyorlardı.<br />
+Evet, son uygulamalarla tüm bu yanlışların faturası eczacılara kesilmiştir. Bırakın kar oranlarının artırılmasını, ilaç ucuzlatırken eczacıyı koruyacak hiçbir önlem de alınmamıştır. Devlet olarak sen, üniversitelerde ki eczacılık fakültelerinin sayısını artırmaya devam edeceksin. Daha çok öğrenci almayı sürdüreceksin. Her yıl 1200 yeni eczacıyı eczacı camiasına katacaksın. Sonra da onları iflasa sürükleyecek kararları tek yanlı olarak uygulayacaksın.<br />
+Söyler misiniz? Bunun hangi hukuk devletinde yeri vardır?</p>
+<p>ECZACILARIN DRAMI..<br />
+Kamu kurumlarının birleştirilmesi ve tüm kesimlerin Genel Sağlık Sigortası kapsamına alınması sonucu günümüzde Devlet adına SGK, ilacın tek alıcısı haline gelmiştir.<br />
+Geçmişte Devlet, kamunun yükselen ilaç harcama giderlerini azaltmak için nasıl eczacının karını kısıtlamayı düşünmüşse, SGK’ da günümüzde tek alıcı olmanın getirdiği tekelci bir anlayışla eczacının zaten düşük olan karlılığını daha da düşüren bir dizi dayatmayı birbiri ardı sıra uygulamaya sokmuştur.<br />
+İlaç tekelleri, yıllarca 70,00–80,00 TL. Ye sattıkları ilacın fiyatı bugün 5.00 TL. Ye indirilmesine rağmen, hala üretmeyi ve satmayı sürdürebilmektedirler.<br />
+Böylece yıllarca yüksek fiyatlarla hazineyi zarara uğrattıkları kanıtlanmış olan ilaç tekellerine bunun hesabını soramayan Hükümet, eczacının rafında ki ilacı dahi kamu kurum reçetelerine maliyetinin altında vermeye mecbur bırakırsa, buna Devlet dayatması denir.<br />
+Hastalardan hastanelerde alınması gereken muayene parasını toplama işini dahi eczacıya dayatan SGK uygulamaları, artık eczacıları rencide eder düzeye gelmiştir.<br />
+İlaç fiyatlarının aşırı miktarda düşürülmesi ile eczane ciroları % 30–40 oranında düşmüştür. Bunun anlamı o oranda karlılığın da düşmesi demektir ki, giderek artan giderlere karşı bu cirolarla eczanelerin çok büyük bir kısmının yaşamını sürdürmesini olanaksızdır.<br />
+Sağlık politikalarını dönüştürme sonucu kapanan muayenehaneler de eczanelere bir başka darbe olmuştur.<br />
+Bir yandan SGK’nın uyguladığı kamu kurum ıskontoları, diğer yanda depoların eczanelere sağladığı ek ıskontoların kaldırılması, eczaneleri ayakta duramaz hale getirmiştir.<br />
+Önceki gün aldığım bir bilgiye göre, sadece Samsun merkezde 100’ün üzerinde eczane depo ödemelerini yapamaz durumdadır.<br />
+Yine bir başka bilgiye göre, bu olumsuz şartların devam etmesi halinde, 2012 sonuna kadar Türkiye genelinde 11.000 eczanenin kapanması beklenmektedir.<br />
+Yıllar önce bir eczacı toplantısında “Yapılmak istenen şey, önce bizleri eczanelerimizi kapatmaya, sonrada zincir eczanelerde maaşlı çalışmaya mecbur bırakmaktır” Demiştim.<br />
+Sanırım bugün gelinen nokta, bu çöküşün ilk basamağıdır. Bu yıl 11.000 eczane kapanırsa, seneye zincir eczaneler gündeme gelecektir.<br />
+1968 mezunu olarak bu mesleğe 44 yılını vermiş bir eczacıyım.<br />
+Altı yıl 6. Bölge Samsun Eczacı Odası Başkanlığı, iki yıl da Türk Eczacılar Birliği Merkez Heyeti Üyesi olarak görev yaptım.<br />
+Bu süreçte öğrendiğim en önemli şey, hemen her hükümetin sağlık politikası denince aklına ilacın geldiği ve kamu harcamalarını kısmak için de yaptıkları ilk işin, eczanelerin karları ile oynamak olduğudur.<br />
+İlacın hastaya ulaştığı son noktada görevli olan eczacılar bu görevleri yanında halkımıza sağlık danışmanlığı hizmeti de verirler.<br />
+Çoğu insanın fakında olmadığı çok önemli bir sağlık hizmetini ülkemizin en uzak köşelerine kadar götürerek yapan bu meslek grubu, bugün yok olmak üzeredir.<br />
+Öğrendiğim bir başka şey de, meslek ahlakından nasibini almamış bazı meslektaşlarımızın kabul edilemez yanlışlarının bizi bu noktalara getirdiği gerçeğidir. Mesleğin geleceği adına çaba sarf edenlere yeterince desteğin verilemeyişinin özeleştirisini de yapmamız gerektiğine inanıyorum..</p>
+<p>TEB VE ECZACI ODALARININ SORUMLULUĞU</p>
+<p>Geçmişte orada görev almış bir eczacı olarak bizlerin temsilcisi olan Türk Eczacılar Birliği Başkanlığına sesleniyorum.<br />
+Reçete başına sadaka gibi verilen 25 kuruşu meslek hakkımızı kabul ettirdik diye başarı olarak sunarak bu mesleği bataktan kurtaramazsınız…<br />
+Kent merkezlerinde muayenehanenin kalmaması ile kent merkezlerinde zaten önemi kalmayan eczaneler için nüfusa dayalı sınırlama getirerek bu mesleğin önünü açamazsınız…<br />
+Hükümetlerle kavga ederek sorunlarımızın çözülemeyeceği ne kadar  doğru ise, sorunları çözecek radikal önerileri kabul ettirmeden de hükümetlerle iyi ilişki de olarak da, eczacıların mesleki sorunlarının çözülemeyeceğini artık görünüz..<br />
+Eğer iyi ilişkilerle sorunlar çözülebiliyorduysa, keşke reçete başına verilen 25 kuruşluk payı, eczacıya umut verecek bir oran ve formülde çözebilseydik..<br />
+Itriyat ( parfüm) ve çocuk mamalarının marketlerde, veteriner ve zirai ilaçların her yerde satıldığı bir ortamda son derece düşük seviyede ki ilaç fiyatları ile artık eczacıların % 20 kar oranı ile ayakta durması mümkün değildir.<br />
+On bini aşkın genç meslektaşımız ile fakültelerden mezun olacak geleceğin eczacıları adına haykırıyorum;<br />
+“DURDURUN BU KIYIMI”<br />
+Yazımı 1970 li yıllarda yaşanmış bir anıyla bitiriyorum. Bu hikâye de eczacının dramının hemen her dönemde şekil değiştirerek nasıl sürdüğünü ve eczacıların ömrünün çalınan eşeğini aramakla geçtiğini göreceksiniz.<br />
+Yıl 1974. Dönemin Sağlık Bakanı Dr. Selahattin Cizrelioğlu yine eczacıların karına gözünü dikmiştir. Eczacılar, kar oranlarının dünya ülkelerinde olduğu seviyeye çıkartılmasını ve meslek hakkının tanınması için mücadele ederken, Sayın Bakan kamu ilaç giderlerini düşürmek için popülist bir yaklaşımla, eczacının % 20 olan kar payını % 16.66 a indirmiştir.<br />
+Eczacılar ayaklanmış ve Türkiye’nin her tarafından yüzlerce eczacı Türk Eczacıları Birliği’nin öncülüğünde Ankara’da toplanmış ve Sağlık Bakanlığına kadar beyaz önlükleri ile yürümüşlerdir.<br />
+Amaçları bakan ile görüşerek uğradıkları haksızlığı anlatmaktır. Fakat bakan bir türlü görüşmeyi kabul etmemektedir. Dini bayramlardan birisinin de iki gün öncesidir. Sıkıntılı bir bekleyiş sonrası eczacılar olarak on kişilik bir temsilcinin Ankara’da kalarak Sağlık Bakanı ile görüşmeye çalışmasına karar vererek kentlerimize döndük.<br />
+Samsun’u temsilen de eczacı camiasının efsane isimlerinden Merhum Ecz. Hasan Türkîli Ankara’da kaldı. Ertesi günü bayram arifesidir. Sağlık Bakanlığı kapısında nöbet tutan meslektaşlarımız uzun bir bekleyiş ve çaba sonrası makama kabul edilir.<br />
+Bir saati aşkın bir süre anlatmalarına rağmen bakana derdimizi anlatamazlar. Daha doğrusu Sayın Bakan katı bir tutumla anlamak istememektedir.<br />
+Büyük bir hayal kırıklığı ile makamdan çıkarken bakan arkadaşlarımızın tek tek bayramını kutlayarak yolcu eder. En arkada Merhum Ecz. Hasan Türkîli vardır.<br />
+Bakan elini uzatır ama eli boşta kalır. Çünkü iyice gerilmiş olan Hasan Türkîli, “Ne bayramı Sayın Bakan. Bize bayramı zehir ettiniz, neyi kutluyorsunuz? Ben sizin elinizi sıkmıyorum.” Der ve arkasını döner ve makamdan çıkar.<br />
+Meslektaşlarımız salona çıkar çıkmaz heyette ki iki genç eczacı arkadaş, “Ağabey içeride bir şey yapamadığımız için ezildik. Ama siz cesur çıkışınızla yüreğimize su serptiniz. Sağ olun.” Diyerek Hasan Türkîlinin boynuna sarılırlar.<br />
+Hikâyenin sonu nasıl mı bitti? TEB ve Eczacı Odalarının 5–6 ay süren büyük mücadelesi ve bir dizi eylem sonrası kaybettiğimiz eşeğimizi bir kez daha bulduk. Kar oranları yeniden % 20 e çıkartıldı. Bir kez daha sadece kaybettiğimizi geri alabilmekle yetinmek zorunda kaldık.<br />
+Ne var ki, artık bu düzen böyle gelmiş böyle gider deme şansımız da kalmadı. Bu kez mesleğimiz tamamen elden gidiyor. Artık bu gerçeği görüp mücadelemizi o seviyeye yükseltmemiz gerekiyor.<br />
+Bunun çözümü ise dik duran, çözüm üreten ve bunun tüm gereklerini her şartta yerine getirecek bir iradeye sahip TEB ve Eczacı Odaları Yönetim anlayışı ile olur.<br />
+Sırf iktidarlarla uyumlu olmak adına eczacıların geleceği adına dik duruş sergilenemez ise, bugün bu konuda sorumluluk taşıyanları bu camia hiçbir zaman affetmeyecektir diyor ve bu mesajımın sorumluluk taşıyan tüm meslektaşlarım tarafından doğru algılanmasını diliyorum.<br />
+Gönül isterdi ki, bu yıl 14 Mayıs Eczacılık Gününü bu büyük sorunun enine boyuna tartışıldığı panellerle dolu dolu yaşayabilseydik.<br />
+Yazık ki, artık bunları dahi beceremiyoruz.<br />
+Değerli meslektaşlarım, unutmayınız! Bu uykunun ve vurdumduymazlığın sonu mesleğimiz adına felakettir.<br />
+Kâbus gibi geçen böyle bir dönemde 173. yılını kutlayacağımız 14 Mayıs Eczacılık Günümüz kutlu! Olsun<br />
+14 Mayıs 2012</p>
+<p>Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0582-elestiri-hakki-ve-elestiriye-tahammul.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0584-19-mayis-1919-dan-19-mayis-2012-ye-ve-kutlamalarda-yasanan-yanlislar.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

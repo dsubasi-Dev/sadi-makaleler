@@ -1,0 +1,332 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Verimli Topraklarımıza Sahip Çıkmamak veya Onlara Zarar Verilmesine Göz Yummak Bu Ülkenin Geleceğine İhanettir - 2</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Verimli Topraklarımıza Sahip Çıkmamak veya Onlara Zarar Verilmesine Göz Yummak Bu Ülkenin Geleceğine İhanettir - 2
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2010
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0475
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>VERİMLİ TOPRAKLARIMIZA SAHİP ÇIKMAMAK VE ZARAR<br />
+VERİLMESİNE GÖZ YUMMAK,<br />
+BU ÜLKENİN GELECEĞİNE İHANETTİR.</p>
+<p>BÖLÜM–2</p>
+<p>Yazımın dünkü ilk bölümünde toprak ve suyun içinde bulunduğumuz 21. yüzyılda nasıl bir önem kazandığını anlatmaya çalışmış ve bu açıdan bakınca ülkemizin şanslı ülkelerden birisi olduğunun altını çizmiştim.<br />
+İlk bölümde sahip olduğumuz bu verimli topraklarda köylümüzün toprağından nasıl kopartıldığını anlatmış ve bunu senaryonun 1. perdesi olarak nitelemiştim. Şimdide senaryonun 2. perdesinde olanlara bir göz atalım.<br />
+Başta Avrupa olmak üzere dünyanın gelişmiş ülkeleri    “Küresel ısınma” tehlikesinin bu yüzyılda yaşanacak en büyük felaket olacağını görmüştü.<br />
+Kendi insanlarını, toprak ve su kaynaklarını korumak, artan sağlık sorunlarını ve buna bağlı olarak artan sağlık giderlerini azaltmak için toprakları üzerinde çevre kirliliği yaratan yatırımları geri kalmış ülkelere yönlendirmeye başlamışlardı. Daha açık bir söylemle, başta enerji olmak üzere çevre kirliliğine neden olan çok sayıda sanayi türünü kendi toprakları üzerinde üretmek yerine, bu tesislerin başka ülkelerde yapılmasını teşvik etmek ve bu ürünleri dış ülkelerden satın almak yolunu seçmişti.<br />
+Avrupa’da ve dünya’da bu gelişmeler olurken birileri de bize müjdeler veriyordu. Türkiye’de bazı bölgeler enerji merkezi ve koridoru olacak ve Türkiye üreteceği elektriği satarak zenginleşecekti.<br />
+Bu çerçeve de, 2000’li yılların başlarında Ecevit Koalisyonu, çıkar çevrelerince pompalanan “ Türkiye’nin acil elektrik ihtiyacı olduğu” gerekçesi ile yanıltıldı. O döneminde altı numaralı fuel-oil ile çalışacak olan adı mobil, kendisi sabit olan Santraller gündeme getirildi. Onları ithal kömür ve ithal doğal gaz ile çalışacak termik santraller takip etti.<br />
+Elektrik Mühendisleri Odaları ve Genel Merkezleri açıklama üzerine açıklama yapıyor ve ülkemizin elektrik açığı olmadığını, elektriğin depolanması mümkün olmayan bir enerji türü olduğunu söylüyordu.<br />
+Altı numaralı fuel-oil, kömür ve doğal gaz ile çalışacak bu santrallerin çevreye büyük zararlar vereceğini, her ikisi de dışa bağımlı kömür ve doğal gaz ile üretilecek elektriğin ülkemize pahalıya mal olacağını ve ülkemizi dışa bağımlı hale getireceğini haykırıyordu.<br />
+Başta Çevre Mühendisleri Odaları olmak üzere, çevreye duyarlı çok sayıda sivil toplum kuruluşu, bu tür santrallerin kurulmaya çalışıldığı yerlerde güç birliği oluşturuyor, toplumu bilgilendiriyor ve artan bir tempoda direnişini sürdürüyordu.<br />
+Üzülerek söylemek gerekirse, yukarıda geniş açıklamasını yaptığım enerji koridorlarından birisi de Samsun ve Karadeniz kıyıları olarak belirlenmişti.<br />
+İlk denemeyi, iki Mobil Santralle Samsun yaşadı. Bu santraller Samsun’da ki STK’ları bir araya getirdi. Çok sayıda Sivil Toplum Kuruluşunun birlikteliğinde oluşturulan “Çevre Birlikteliği Yürütme Kurulu’nun”, Hukuk sürecinde yürüttüğü ısrarlı çalışmalarla büyük bir sivil toplum başarısına imza atıldı. Bu çalışmalar sonucu iki Mobil Santral bir daha açılmamak üzere yargı kararı ile kapatıldı.<br />
+Ama siyasi otorite bu yargı kararlarına rağmen, Samsun başta olmak üzere Sinop ve diğer Karadeniz illerinde nükleer santralde dâhil çok sayıda çevreyi tahrip edecek ve her geçen gün artan kanser vakalarını daha da artıracak santrallerin yapımına zemin hazırlamayı sürdürüyordu.<br />
+Harika doğası ile turizmin parlayan yıldızı Karadeniz Bölgesi’nin güzelliklerini ve çocuklarımızın geleceği olan Türkiye’nin en verimli iki ovası olan Çarşamba ve Bafra Ovaları’nı yok edecek bu kirli yatırımları bu bölgeye planlayan siyasi otorite, bunun gerekçelerini bölgemiz halkına anlatmak zorundadır.<br />
+Aksi halde, başta Samsunlular olmak üzere bölge halkının kafalarını karıştıran bu uygulamaların vereceği zararın vebali, bu kararlarda rolü olanlarla bu yanlışlara göz yumanların yakasını bırakmayacaktır.<br />
+Toplumun kabul etmediği, yargının “Toplumsal çıkar olmadığı ve giderilemeyecek zararlar yaratacağı” gerekçeleri ile kapattığı santral gerçeği ortadayken, hala ülkemizin en verimli iki ovasını yok edecek bu kirli yatırımlara destek vermenin haklı bir gerekçesi olabilir mi? Varsa, bunu açıklayacak ve savunacak bir yetkili ortaya çıkmalıdır.<br />
+Tüm ekonomik karşı görüşlere ve dışa bağımlılığı artıracak gerekçelere rağmen yapılacaksa dahi, çevreye vereceği zararın en yüksek olacağı verimli ovaları ve deniz kıyılarını tercih etmelerine, bir anlamda bu tür yanlış yer seçimlerine neden göz yumulmaktadır?<br />
+Samsun ekonomisine ve işsizlik sorununa hiçbir katkısı olmayacak, buna karşılık tüm bilimsel açıklamalarla bu ovalara zarar vereceği kesin olan bu kirli yatırımlar konusunda, bizleri temsil etsinler diye seçtiğimiz milletvekillerimiz neden susmaktadırlar?<br />
+Bu kenti yönetsinler ve Samsun Halkı’na çok daha iyi bir yaşam ortamı sağlasınlar diye seçtiğimiz belediye başkanlarımız, ( Şu an ki tavrı ile Kozluk Belediye Başkanı hariç) bu kentin insanlarının sağlığına ve çevresine neden sahip çıkmıyorlar?<br />
+Bu kirli yatırımları yapacak firma yetkililerini yüreklendirecek destekleri veren, onları makamlarında ağırlayan kent yöneticileri, bunun varsa haklı nedenlerini Samsunluya anlatma gereğini duymuyorlar mı?<br />
+Tarım alanlarına yapılacak sanayi yatırımları için kesin kararı verecek olan İl Tarım Koruma Kurulu’nun, Terme’de ki termik santral ile ilgili kararının verileceği toplantılara katılan çoğunluğu bürokrat olan ve “Santralin yapılacağı yerin tarım alanı olmadığı” kararını veren üyeleri, daha sonra yargıya taşınan bu kararı vermeleri için baskı gördüler mi?<br />
+Bu kurulun üyeleri, çocuklarımızın geleceği olan bu ovanın ilgili bölümünün tarım alanı olmadığı kararını verirken vicdanlarının sesini dinlediler mi?<br />
+Samsun’un sanayi bölgesi olarak ayrılan doğu sahilinden sonra bu kez de turizm bölgesi olarak ayrılan batı sahillerinde çevre kirliliği yaratacak yakıt dolum tesislerine kapı açılmıştır. Buna nasıl izin verilir? Bir yandan bu kentin Valisi, Büyükşehir Belediye Başkanı ve Milletvekilleri bu kentte beş yıldızlı oteller zincirinden ve Samsun’un turizm merkezi olacağından söz edecekler, sonra da turizme açık tek sahiline kirli yatırım yapılmasına göz yumacaklar. Bu nasıl iştir? Acilen milletvekillerimiz ve Valimiz ile başta Büyükşehir olmak üzere Belediye Başkanlarımız bu yatırma karşı tavırlarını açıklamalıdırlar. Samsunlunun bu soruların cevabını öğrenmesi en doğal hakkıdır.<br />
+Bu suskunluk devam ederse, bunun anlamı toplumun hiçbir sorununa çözüm olmayacak, buna karşılık sadece Samsun’un değil ülkemizin de geleceğine darbe vuracak olan bu Santrallerin ve diğer kirli yatırımların yapımına yeşil ışık yakmak demektir. Bu da, Samsun’un doğu ve batı sahillerinde yapılmaya çalışılan kirli yatırımların arkasında siyasetçilerin olduğu iddialarının doğrulanması demektir.<br />
+Bu takdirde, başta Milletvekillerimiz olmak üzere bu kenti yöneten seçilmiş ve atanmışların bu tercihlerinin nedenlerini Samsunlulara anlatmaları, yüklendikleri sorumluluğun da gereğidir.<br />
+Aksi halde, “Samsun Bölgenin Sağlık Merkezi Olacak” söylemleri, bölgemizde daha da artacak kanser vakalarına çözüm olarak gündeme getirildiği konusunda ki yorumlar ağırlık kazanacaktır.<br />
+Bir yatırımın, her açıdan doğru yatırım olmasının ana koşulları;<br />
+Yapılacak yatırım, öncelikle ülke çıkarlarına uygun olmalıdır.<br />
+Yapılacak yatırım, yörenin ve yöre halkının çıkarlarına uygun olmalıdır.<br />
+Yapılacak yatırım yatırımcının çıkarlarına uygun olmalıdır.<br />
+Üzülerek söylemek gerekirse, Samsun’da bu öncelik sırası tam tersine dönmüştür.<br />
+Bu kentin en üst düzeydeki atanmışından en alttaki atanmışına kadar bürokratlarından siyasi iradeye karşı çıkmalarını beklemek ne kadar yanlışsa, bu kenti yönetmek ve Samsunluya hizmet vermek iddiası ile seçilen Milletvekillerinin ve Belediye Başkanlarının suskunluğuna duyarsız kalmakta bir o kadar yanlıştır.<br />
+Tarım ve gıda maddeleri bir ülkenin ayakta kalabilmesi için her yönden çok önemli ve korunması gereken şeylerdir. Tarım alanlarının bilerek veya bilmeden kirletilerek yok edilmesi, bir ülkenin çökertilmesidir. Yaratacağı sonuçlar, savaş kaybeden bir ülkenin işgal edilmesi ile eşdeğerdedir.<br />
+Sayın Milletvekillerimiz,<br />
+Sayın Belediye Başkanlarımız,<br />
+Lütfen bu kez sessiz kalmayınız.<br />
+Bu kez olsun, Samsun’un sahipsiz bir kent olmadığını kanıtlayınız.<br />
+Bu ülkenin ve Samsun’umuzun dolayısı ile çocuklarımızın geleceğini karartmanın vebalini üstlenmeyiniz.<br />
+Bu yazının yazıldığı sırada, TV haberlerinde Almanya’da 120.000 Alman’ın 120 Km. uzunluğunda insan zinciri oluşturarak Almanya’da ki nükleer santrallerin sürelerinin uzatılma kararını kınıyordu. Onlar kaldırmanın yolunu ararken, biz yapmaya çalışıyoruz. Başka bir şey söylemeye gerek var mı?<br />
+Bir Türk Vatandaşı olarak ülkemizi yönetenlere yalvarıyorum. Bu ülkenin geleceğini karartacak çıkar çevrelerine engel olunuz.<br />
+Çocuklarımıza çölleşmiş bir ülke bırakmamak için el ele vermemiz dileğiyle iyi haftalar… 25 Nisan 2010</p>
+<p>SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0474-verimli-topraklarimiza-sahip-cikmamak-ve-onun-zarar-gormesine-goz-yummak-bu-ulkenin-gelecegine-i-hanettir-1-bolum.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0476-cahiliye-donemlerinden-de-beter-i-grenc-olaylar.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

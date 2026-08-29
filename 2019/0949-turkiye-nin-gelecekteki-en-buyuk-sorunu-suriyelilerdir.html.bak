@@ -1,0 +1,320 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Türkiye’nin Gelecekteki En Büyük Sorunu Suriyelilerdir</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Türkiye’nin Gelecekteki En Büyük Sorunu Suriyelilerdir
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2019
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0949
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>TÜRKİYE’NİN GELECEKTE Kİ EN BÜYÜK SORUNU<br />
+SURİYELİ SIĞINMACILAR OLACAKTIR.</p>
+<p>Bir ülkenin başına gelebilecek en büyük felaket, yabancı bir ülkenin işgalinden de kötü olan, kardeşi kardeşe düşman eden iç savaştır.<br />
+Bizim açımızdan daha da kötü olan şey, bu felaketlerin Güney ve Güneydoğu Bölgemize komşu ülkelerde yaşanıyor olmasıdır.<br />
+Ne yazık ki, Amerika’nın kendi çıkarları doğrultusunda Ortadoğu haritasını yeniden belirlemeye dönük Büyük Ortadoğu Projesine ülkemiz de destek vermiş ve komşumuz ve ticari bağlantılarımız olan ülkelerin tümüyle ilişkilerimizin bozulmasına zemin hazırlamıştır.<br />
+Bu ülkelerde ki yönetimlerin yıkılması ile doğan karmaşa sonucunda çıkartılan iç savaşlar, bu ülkelerde milyonlarca masum insanın katledilmesine ve milyonlarca insanın da çoluk çocuk Türkiye sınırlarına dayanmasına neden olmuştur.<br />
+Tarihinin her döneminde mazlumlara sahip çıkmış olan ülkemiz, bu kez de ülkelerinde ki iç savaştan kaçan sığınmacılara kapılarını açmış ve dört milyona yakın insanın ülkemize geçmesine izin vermiştir.<br />
+Orta Asya ülkelerinin de içinde olduğu Irak ve hepsinden çok daha yüksek sayıda Suriyeli ülkemize sığınmıştır.<br />
+İlk başlarda gerekli denetimler yapılarak ülkemize girmesine izin verilen Suriyelilerin, büyük kitleler halinde sınırımıza dayanması ile hiçbir denetim yapılmadan sınırımızı geçmelerine göz yumulmuştur.<br />
+Bu mültecilerin belli kamp yerlerinde toplanıp ilk fırsatta ülkelerine gönderilmesi gerekirken, bu yapılmamış ve Suriyeli mülteciler ülkemizin her tarafına yayılarak gittikleri yerler de Arap Kültürüne uygun koloniler oluşturarak o yörelerde ki insanlarımızı taciz etmeye başlamıştır.<br />
+Bu denetimsizlik yetmiyormuş gibi Suriyelilerin maaşa bağlanması, sigortasız çalışmalarına ve ruhsatsız işyeri açmalarına göz yumulması, benim vatandaşıma verilmeyen çok sayıda ilacın hem de katılım payı ödemeksizin verilmesi, üniversitelere sınavsız girebilmeleri ve bunlara benzer ayrıcalıklar, Türk toplumunu rahatsız ve rencide eder boyutlara ulaşmıştır.<br />
+Suriyelilerden siyasi amaçlarla yararlanılmak için kimlik verilmeye başlanması, onlardan kardeşimiz olarak söz edilmesini Türk toplumuna kabul ettirmek mümkün değildir.<br />
+Kendi vatandaşına sağlamadığı olanakları Suriyelilere veren, dört milyon mülteciye 1500.00 TL. maaş verebilen bir siyasi iradenin, bu parayı işsiz ve açlıkla mücadele eden kendi vatandaşından esirgemesinin açıklanabilir bir yanı olamaz.<br />
+Avrupa Birliği’nin (AB), bu mültecilerin ülkemizde kalmasını ve bu sığınmacıların Avrupa’ya geçişini engellemesi karşılığı para vermeyi vaat etmesi ise, çok daha tehlikeli bir projenin ayak sesleridir.<br />
+Asırlardır Türkiye’yi parçalama hedefi güden ve 1. Dünya Savaşı sonrası Osmanlıya imzalattıkları SEVR anlaşması ile yakaladıkları bu fırsatı da, Mustafa Kemal Paşa’nın SEVR’İ yırtıp atarak Avrupalılara LOZAN Antlaşması’nı imzalamaya mecbur bırakması ile kaybetmişlerdi.<br />
+AB Devletlerinin ülkemize hiçbir zaman sıcak bakmadığını bilen birisi olarak acaba bu da “Türkiye’yi bölmek için yeni bir proje olabilir mi?” Sorusunu aklıma getiriyor.<br />
+Suriyeliler, “Ekmek elden su gölden” Rahatlığı ile hızla çocuk yaparak sayısal olarak çoğalıyorlar. On yıl sonra bu gidişle sayıları 7-8 milyonu bulacak Suriyelilere bir de diğer yabancı ülkelerden gelenlerin eklenmesi ile önemli bir Arap nüfusu oluşacaktır.<br />
+Bunlara sürekli özerklik isteyen Kürt vatandaşlarımızı da eklersek, ortaya çıkacak bu nüfus yoğunluğu, AB Devletlerinin bir kez daha iştahını kabartarak yeni bir proje dayatması ile ortaya çıkmayacağını kim garanti edebilir.<br />
+Bu dayatma proje, “Özerk Bölgelerin” kurulmasını sağlayacak “REFERANDUM” Talebi olabilecektir.<br />
+SONUÇ;<br />
+Suriyelilerin giderek zaten ekonomik dar boğaza girmiş olan ülkemizin öz kaynaklarını eritmesi, demografik yapımızı bozacak hale gelmesi, sığınmacılara harcanan paraların kendilerine verilmediğini gören halkımızı da, isyan ettirecek noktaya gelmiştir.<br />
+Sığınmacıların buldukları rahat ortamın da şımarıklığı ile fuhuş,  darp, tecavüz, kavga, yaralama olayları ile anılmaya başlaması ve son aylarda çok sayıda “DAİŞ” Militanı sığınmacının yakalanmas, ı tehlikenin boyutlarını göstermektedir.<br />
+Arapların tarihin hiçbir döneminde Türkiye’ye destek olmadığı ve tarih sayfalarının Arapların Türklere verdiği zararlarla ve ihanetlerle dolu olduğu, hala hiçbir Arap ülkesinin Kuzey Kıbrıs Türk Cumhuriyeti’ni tanımadığı gerçekleri unutulmamalıdır.<br />
+Yemen’de İngilizlerle iş birliği yaparak Osmanlı askerlerini arkalarından vurarak şehit eden ve mezarları dahi olmayan binlerce şehitlerimizden birinin torunu olarak hiçbir şekilde Arapları kardeş olarak görmem mümkün değildir.<br />
+Bugün “Suriyeliler ülkelerine gönderisin mi? Gönderilmesin mi?” Diye bir referandum yapılsa, “Gönderisin” Diyenlerin oranının %80’ den daha fazla çıkacağına adım gibi eminim.<br />
+Bu işin insani yardım yanı bitmiştir. Suriyelilerin bölüm bölüm iç savaşın bittiği ülkelerine gönderilmesi zorunlu hale gelmiştir. Bu kadar çok sayıda Suriyelinin ülkemizde kalmasına göz yumacak siyasetçileri Türk tarihi affetmeyecektir.<br />
+Sorunları halkımızın gözünden görecek, onların taleplerine kulaklarını tıkamayacak siyasi bir yapının ülkemizde de oluşması dileğiyle iyi haftalar.<br />
+21.07.2019</p>
+<p>BİR AÇIKLAMA.<br />
+Geçen hafta ki köşe yazımın konusu olan “İncesu-Çatalçam-Taflan-Dereköy Sahil Yolu Araç trafiğine kapatılmalıdır.” Başlıklı yazımın içerisinde “Bu yol kenarında yapılan PTT veya Telekom hat çalışması sonrası yolun seviyesinden daha yüksekte konulan rögar kapakları kazalara zemin hazırlamaktadır” Diye bir cümle vardı.<br />
+İşte o sözler için PTT İl Müdür Yardımcısı Sayın Mustafa Pehlivan beni arayarak, PTT’ nin o bölgede herhangi bir çalışmasının olmadığını ve bunun büyük olasılıkla Telekom’un bir çalışması olabileceğini belirtmiştir. Ayrıca PTT İl Müdürlüğü tarafından bu konuyu açıklayan bir de yazı gönderilmiştir.<br />
+Zaten ben de yazılarımı cumartesi günleri yazdığım için hangi kurum olduğunu doğrulatamadığımdan adı geçen iki kurumdan birisi olduğunu yazmıştım. Verilen bilgi için PTT İl Müdürlüğü’ne teşekkür ediyor ve bu konuda ki doğru bilgiyi sizlerle de paylaşıyorum.</p>
+<p>Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0947-yayalara-oncelik-kuralinin-yarattigi-karmasa.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0950-samsun-un-gelismesini-hangi-gucler-engelliyor.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

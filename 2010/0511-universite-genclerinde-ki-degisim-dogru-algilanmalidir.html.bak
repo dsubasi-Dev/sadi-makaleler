@@ -1,0 +1,336 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Üniversite Gençlerinde ki Değişim Doğru Algılanmalıdır.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Üniversite Gençlerinde ki Değişim Doğru Algılanmalıdır.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2010
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0511
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>ÜNİVERSİTE GENÇLERİNDE Kİ DEĞİŞİM<br />
+DOĞRU ALGILANMALIDIR.</p>
+<p>Son bir haftada yoğunluk kazanan öğrenci olayları gündeme damgasını vurmayı sürdürüyor. Ancak üzülerek söylemek gerekirse, ülkemizin yönetiminde söz sahibi olan kesimlerin yanlış değerlendirme ve aşırı tepkileri bu olayları daha da körükleyecek gibi gözüküyor.<br />
+Geçen haftaya dönerek olayları şöyle bir hatırlayalım..<br />
+Bilindiği gibi, geçen hafta başında Sayın Başbakan Üniversite rektörlerini Dolmabahçe Sarayı’nda toplantıya çağırmıştı.<br />
+Sanıyorum 100 civarında bir öğrenci topluluğu da bunu fırsat bilerek, hazır Başbakan ve Rektörler bir araya gelmişken yaşadıkları sorunları içeren bir raporu Sayın Başbakan’a sunmak üzere Ankara’dan yola çıkmıştı.<br />
+Polis son derece sert önlemlerle gençleri İstanbul girişinde arama bahanesi ile durduruyor ve Dolmabahçe’ye gitmelerini engelliyordu. Gitmekte direnen öğrenciler ise son derece sert darbelere ve biber gazına muhatap oluyorlardı.<br />
+İstanbul’un Trakya yakasından Dolmabahçe’ye gelebilen öğrenciler ise, Dolmabahçe’de polisin orantısız güç kullanması ile dağıtılıyordu. Bu arbedeler sırasında kız öğrenciler yerlerde sürükleniyor ve tekmeleniyordu. İddialara göre hamile bir kız öğrenci bebeğini düşürüyor, bir öğrencinin burnu kırılıyordu.<br />
+Ortada öğrenciler arası bir kavga ve çatışma var mı? Yok. Ellerinde silah, molotof kokteyli hatta sopa var mı? Yok. Tam tersine, öğrenciler toplu olarak masumane bir taleplerini iletmek istedikleri için hükümetin böylesine sert tavrı ile karşı karşıya kalıyorlar.<br />
+Ardından bu kez Ankara’da Siyasal Bilgiler Fakültesi’nde İstanbul’da ki olaylara tepki olarak nitelenen protesto olayları oluyor.<br />
+Bence de, öğrencilerin İstanbul olaylarına tepkilerini göstermek için gerçekleştirdikleri yumurta atma eylemi sembolik olmalıydı. Kendi üniversitelerinin davet ettiği konuşmacılar konuşturulmalıydı. Böylesine bir eylem çok daha sempatik olurdu. Doğru olan buydu.<br />
+Her şeye rağmen ve öğrencilerin yumurtalı tepkisi ne kadar abartılı olursa olsun, bir Anayasa Profesörü olan Sayın Burhan Kuzu’nun tepkisi ve kullandığı üslup çok daha ağır ve olayların boyut değiştirmesine neden olacak kadar kontrolsüzdür.<br />
+Olaylardan birkaç gün sonra bir grup öğrenciyi kabul ederek görüşmesi de, korkarım öğrencilerin kamplara ayrılmasına neden olacak ve bu konuda ki endişemi doğrulayacaktır.<br />
+Ülkemizin yönetiminde mutlak hâkimiyeti olan iktidarın, öğrenci olaylarını doğru algılayamaması ve böylesine tepki göstermesi, daha da ileri giderek öğrencileri polisiye önlemlerle tehdit etmesi, bir iktidar adına düşündürücüdür.<br />
+Bu abartılı tepkileri göstermek yerine, Sayın Başbakan Dolmabahçe toplantısının bir arasında veya sonunda bir grup öğrenciyi kabul ederek görüşseydi, ne kaybederdi?<br />
+Tam tersine hem demokratik haklarını kullanmak isteyen öğrencileri memnun ederdi, hem de tüm karşı çıkışlara karşı özgürlükleri genişletme iddiası ile yaptırdığı Anayasa değişikliği ısrarına, inandırıcılık kazandırırdı.<br />
+Kaldı ki, buna rağmen öğrencilerin taşkınlık yapmayı sürdürmesi de, onları kamuoyunda haksız duruma düşürür ve siyasi iradenin yıpranmasını önlerdi.<br />
+Ortada çok ciddi bir algılama hatası vardır. Hele de olaylara 1968 kuşağını yererek yaklaşmak, 1980 öncesi olayların öncesi ortamın hazırlandığını söyleyebilmek, daha da öteye gidip son derece masum bir öğrenci talebini Ergenekon ile bağlantılı göstererek bu hale getirmek, bir siyasi irade için tehlike çanlarının çaldığının ilk işaretleridir.<br />
+Yazımın başlarında, siyasi iradenin son öğrenci olaylarını yanlış algıladığını vurgulamıştım. Ben, üniversite gençliğinde ki değişimin doğru okunamadığı kanısını taşıyorum.<br />
+Ülkemizi yöneten ve yönetme talebinde olan tüm siyasilere, büyük bir zevkle seyrettiğim ve en sadık izleyicilerinden birisi olduğum Kanal D’ de yayınlanan,<br />
+“GENÇ BAKIŞ PROGRAMI’NI “ İzlemelerini öneriyorum.<br />
+Abbas Güçlü tarafından sunulan bu program, her defasında bir başka üniversite de düzenlenmekte ve öğrenciler davet edilen bir siyasetçi, bürokrat, sanatçı ve ya gündemde ki bir entelektüele diledikleri soruları özgürce yöneltmektedirler. Kendi adıma gençlerin görüşlerinden çok yararlanıyorum. Onları daha iyi anlama şansını buluyorum.<br />
+Soru-cevap ekseninde süren tartışmayı izleyenler de eminim ki, gençlerde ki bu değişimi yakından görmüşlerdir. Üniversite gençliği, artık 1982 sonrasının bastırılmış ve depolitize edilmiş gençliği olmaktan hızla sıyrılmaktadır.<br />
+Üniversite öğrencilerinin en azından büyük bir bölümü, artık ülke sorunları ile yakından ilgilenmekte ve çok ilginç sorular sorarak bu değişimi adeta haykırmaktadırlar.<br />
+Bu ülke askeri darbelerden çok çekti. Basiretsiz siyasetçilerin sen ben kavgalarının hazırladığı zeminde gerçekleşmiş olsa da, her biri demokrasimizin yerleşmesi adına çok ciddi hasarlara ve zaman kayıplarına neden oldu.<br />
+Ama hepsinden daha çok, bir yığın düşünen beynin tutuklu kalmasına ve işkencelerde acı çekmesine neden oldu.<br />
+Ancak 12 Eylül 1980 darbesinin yarattığı hasar o kadar büyük oldu ki, etkileri 30 yıldır hala sürüyor. 12 Eylül ürünü olan 1982 Anayasası ile Üniversitelerde ki olayları önleyeceğiz diye çıkartılan baskıcı yasa maddeleri, üniversite camiasını siyasetten arındırdı. Öğrencilerin siyaset konuşması dahi yasaklandı. Öğrencileri geleceğe hazırlayan birer beyin fırtınası olan öğrenci forumları unutturuldu.<br />
+Mezun olacakları birkaç yıl sonra ülke yönetimini, sağlık, sanat, mühendislik ve eğitim alanlarını teslim edeceğimiz üniversite gençlerini ürkek, korkak, ülke sorunlarından uzak, daha açıkçası pasifize edilmiş bir yapıya mahkûm ettik. Bir ülkeye bundan daha büyük bir kötülük yapılamazdı. O yapıldı.<br />
+İşte o yapının yarattığı ülke geçeklerinden uzak, o dönemin simgesi haline gelen, “Köşe dönmeci ve ulusal çıkarları dışlayarak maddi değerleri tek ilke seçen bir nesil” bugün ülke yönetiminin ön saflarında yer alıyor.<br />
+Ve işte, bu gün yaşanan ve ülkemize hâkim olan sosyal, ticari, bilimsel ve siyasi çöküntünün nedeni, o dönemin yarattığı çapsız siyasetçi, çapsız aydın! Çapsız meslek sahipleri, çapsız bilim adamları ve benzerlerinin yarattığı boşluktur.<br />
+Ve işte o gençlik bir süredir, o sinmiş ve konuşmayan, sorgulamayan üniversiteli imajını yıkmaya başladı.<br />
+Ve işte, bugün bizi yönetenlerin veya yönetmeye talep edenlerin algılayamadığı değişim budur. Gözden kaçan, bu değişimin yarattığı demokratik hak arama ve sorgulama uygulamalarıdır.<br />
+İşin çok daha düşündürücü ve üzücü yanı, ülkeyi yönetenlerin prangalarını kıran gençliğin bu değişiminden ülkemizin geleceği adına mutlu olmaları gerekirken, onları daha da sıkı denetim altına alma ve polisiye tedbirlerle sindirme çabasına girmiş olmasıdır.<br />
+Üniversitelerden sorumlu olan ve asli görevi de onların sorunlarına eğilmek olan YÖK Başkanı’nın da, Hükümetle ortak tavır sergilemesi akıl alacak iş değildir.<br />
+17 üniversitenin terör odağı olarak ilan edilip haklarında soruşturma açtırılması, kesin kanıt olmadan bazılarının üniversite öğrencisi olmadığını iddia etmek, öğrenci eylemlerini başka platformlara itelemektir.<br />
+Polis kayıtlarının bazı basın organlarına servis ederek üniversite öğrencilerini hedef haline getirmek, onları ister istemez olayların içine sokar ve hiç de istenmeyecek şekilde taraf haline getirir ki, işte asıl korkulması gereken budur.<br />
+Üniversite öğrencilerinin şu ana kadar sergiledikleri masum tepkileri baskı altına alma çabaları, onları kamplara ayrıştırmakla sonuçlanır ki, asıl tehlike de işte o zaman başlar.<br />
+Siyasi iktidarın önemli isimlerinin öğrencilerin dersleri dışında hiçbir şeyle ilgilenmemelerini ve uslu! Birer öğrenci olmalarını öneren açıklamaları, daha çok demokrasi ve daha çok özgürlük adına ülkeyi bir “Anayasa değişikliği” Tartışması açmazına sokan iktidarın inandırıcılığını da zayıflatmaktadır.<br />
+Basit bir öğrenci eylemini ve özünde de çok haklı gerekçeler bulunan bir öğrenci talebini bu hale getiren ve böylesine abartan tavır, adeta bir darbe paranoyasına dönüşmüştür.<br />
+Unutulmamalıdır ki, üniversite öğrencisinin genç olmanın getirdiği isyankârlık özelliği vardır. Onları, “Ananı da al git” denildiğinde, olgunluğundan susan yetişkin insanlarımızla karıştırmak çok büyük hata olur. Sonuçları da çok ağır olur ki, bunun örnekleri geçmişte yaşanmıştır.<br />
+Son olayların belki de en güzel analizi, TÜSİAD’IN çok erkeğe taş çıkartacak kadar cesur açıklamaları ile öne çıkan Başkanı, Sayın Ümit Boyner’den gelmiştir. Sayın Boyner diyor ki, “Gençlik muhalefet demektir. Tartışan, konuşan, sorgulayan gençlere ihtiyacımız var.” Ve devam ediyor, “Bizlere, siyasetçilere, yöneticilere düşenin de anlayış, empati, ve diyalog kurmak kurmaktır. Susturma, azarlama, biner gazı, dayak, etiketleme ve yasaklama değildir.” Altına imzamı atıyorum.<br />
+Gençleri anlamak ve onların sorunlarına eğilmek yerine, onlarla restleşmek ülkeyi yönetenlerin yapabileceği en büyük yanlıştır ve sonu hüsrandır. Bunu hiç kimse göz ardı etmemelidir.<br />
+İyi haftalar..  12 Aralık 2010</p>
+<p>SADİ SUBAŞI</p>
+<p>MERHABA BAŞKANIM.. TESBİTLER DOĞRU HELE TUSİAD’IN YAKLAŞIMI ÇOK DOĞRU. BU YAZIYI BAŞBAKAN’A OKUTMAK LAZIM. Sevgili Sadi Bey,<br />
+Kaleminize sağlık.<br />
+Nerde o olgunluk ve anlayış?<br />
+İyi dileklerimle.<br />
+Em. Tüm. Gnrl. Naci BEŞTEPE</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0510-wikileaks-i-nternet-sitesi-dedigin-ne-ki-ne-yazar-bu-ulkeye.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0512-sanki-her-seyimiz-tamamdi-da-bir-tek-i-lce-lobilerimiz-eksikti.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

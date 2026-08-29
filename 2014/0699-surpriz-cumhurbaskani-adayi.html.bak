@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Sürpriz Cumhurbaşkanı Adayı</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Sürpriz Cumhurbaşkanı Adayı
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2014
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0699
+
+</div>
+
+
+<div class="article-content">
+
+<p>e-posta; sadisubasi@denizeczaneoptik. com         SAMSUN</p>
+<p>SÜPRİZ CUMHURBAŞKANI ADAYI<br />
+EKMELEDDİN İHSANOĞLU ÜZERİNE DEĞERLENDİRME..<br />
+Türkiye Ağustos ayında 12. Cumhurbaşkanını seçecektir. Ama bu seçime öncekilerden çok daha farklı bir anlam yüklenmiştir. Çünkü bu seçim de Cumhurbaşkanı ilk kez halkın oyları ile seçilecektir.<br />
+Kabul etmek gerekir ki, son oniki yıldır tek başına iktidarda olan AKP, TBMM’de de sayısal üstünlüğe de sahiptir. Bu sayısal üstünlüğe dayanarak da önünü açacak her türlü yasayı partiler arası uzlaşmaya gerek görmeden çıkartabilmektedir.<br />
+Hedefinde tüm yetkileri kendisinde toplayacak bir başkanlık sisteminin olduğu bilinen Başbakan’ın, bu amaçla Cumhurbaşkanlığı seçimi için halka gitmek istemesi normal karşılanmalıdır.<br />
+Nedeni ise, toplumun büyük bir çoğunluğu tarafından kabul gören, AKP’nin önüne geçen bir Recep Tayyip Erdoğan gerçeğinin olmasıdır. İşte bu gerçek, Cumhurbaşkanlığı seçiminde Sayın Recep Tayyip Erdoğan’ı şanslı kılmaktadır. Cumhurbaşkanlığı seçiminde ki en önemli faktör de bu olacaktır.<br />
+Nasıl Bir Cumhurbaşkanı?<br />
+Bu tablo karşısında bir başka adayın seçilme şansı nasıl olabilir hesapları yapılmış ve Ana Muhalefet Partisi CHP ile diğer muhalefet partisi MHP kendi açılarından doğru bir kararla ortak aday konusunda anlaşmışlar ve sürpriz bir aday çıkartmışlardır.<br />
+Bu adayın Sayın Ekmeleddin İhsanoğlu olduğunun açıklanması ile birlikte özellikle CHP kanadından itirazlar gelmeye başlamıştır.. CHP gibi parti içi demokrasinin geçerli olduğu bir partide gerçekten de yapılan bu itirazların bir kısmı da doğrudur. Doğru olmayan şey, itiraz edenlerin bu seçimde öne çıkan asıl amacı doğru değerlendirememiş olmasıdır.<br />
+Bu nedenle de, CHP’nin bir kesiminde oluşan itirazlar fazla destek görmemiştir.<br />
+Bir kişinin söylediği her sözün tartışmasız kabul gördüğü AKP döneminde toplumun bir yarısı Sayın Erdoğan’a destek verirken, diğer yarısın da ciddi endişeler ve korkular oluşmuştur. Yani toplum ikiye ayrılmıştır.<br />
+Sayın Erdoğan’ın Cumhurbaşkanı olması ile 2015 seçimlerinden sonra “Başkanlık Sistemini de” getirerek her konuda tek karar verici haline gelme olasılığı, diğer yarıyı ciddi bir şekilde endişelendirmektedir.<br />
+Belki de bu nedenle, CHP ve MHP bu seçimde Sayın Recep Tayyip Erdoğan’ın karşısına ortak “ Çatı adayı” bir aday çıkartma konusunda anlaşma sağlandığında, parti içerisinden çok da itiraz gelmemiştir.<br />
+Demokrasinin gereği olarak her siyasi partinin kendi görüşlerini benimsemiş bir adayla seçimlere girmesi en ideal olanıydı.<br />
+Ancak, toplumun ortadan çatlatıldığı bu günkü ortamda, eğer ülkenin en az bir yarısı Sayın Recep Tayyip Erdoğan’ın Cumhurbaşkanı olmasından ciddi bir korku ve endişe duyuyor ise, Cumhurbaşkanlığı seçimini bir başka adayın kazanmasını sağlamaktan başka seçenekleri olamazdı.<br />
+Kısacası, muhalif partilerin kendi ilkelerini savunan bir adaylarıyla seçime girmesi demek, Sayın Recep Tayyip Erdoğan’ın Cumhurbaşkanı olmasının onaylanması demekti.<br />
+Sosyal demokrat yapıda ki herkesin, Cumhuriyet ve Atatürk ilkelerine bağlı, laik devlet düzeninden yana kimliği ile tanınmış bir adayı Cumhurbaşkanı görmek istemesi en doğal haklarıdır.<br />
+Ancak böyle düşünenlerin, yukarıda da söylediğim nedenlerle böyle bir lüksü olamazdı.<br />
+Nitekim bu gerçek karşısında birliktelik yapan Ana Muhalefet Partisi CHP ile diğer büyük muhalefet partisi MHP, Ekmeleddin İhsanoğlu isminde birleşerek ortak adayları olarak kamuoyuna açıklamışlardır.<br />
+İsmin açıklanmasıyla Sayın Ekmeleddin İhsanoğlu’nun kariyeri ve geçmişi ile ilgili bilgiler tüm iletişim araçlarında yayınlanmaya başlamıştır.<br />
+İnançlı (Mütedeyyin) bir kimliğe sahip olan Sayın Ekmeleddin İhsanoğlu’nun Atatürk İlkelerine ve Cumhuriyete bağlı olduğu bu yönde yazılmış kitaplarda yer almaktadır.<br />
+Ayrıca, Cumhuriyetin kurucusu Atatürk’ün partisi CHP ile Cumhuriyete inanan ve Atatürk ilkelerini kabul eden MHP yönetim kadrolarının bu ilkeleri göz ardı etmiş olmalarının mümkün olamayacağı inancı ile onların kararını referans olarak kabul etmek gerekir diye düşünüyorum.<br />
+Ne var ki, eleştirilerin temelini İslami görüş sahibi olması oluşturuluyor. Bir insanın dindar olması bu önemli görev için bir olumsuzluk olamaz. Yeter ki, burada dindarlıktan öteye geçen bir bağnazlık söz konusu olmasın..</p>
+<p>Sayın Ekmeleddin İhsanoğlu’nun Açmazları ve Artıları.<br />
+Görünen o ki, Sayın İhsanoğlu bu yarışa iktidar kanadının tepkileri yanında, kendisine oy verebilecek kesimlerin de bir kısmının tepkilerini alarak ciddi bir dezavantajla başlıyor.<br />
+Ortadoğu ve İslam dünyası ile yakın ilişkisi olmayanlar tarafından çok tanınmış biri olmaması yanında, adının dahi zor akıllarda kalacak olması, daha başlangıçta işini zora sokacak olumsuzluk olarak görülebilir.<br />
+Özellikle CHP içerisinden gelen ve geçmişin parti içi tartışmaları ile kişisel bağımlılıklara dayananların dışında ki ilkesel bazı iddialara dayalı eleştiriler giderilemezse, Sayın İhsanoğlu’nu yıpratacağı gibi bazı sol seçmenleri de sandığa gitme noktasında isteksizliğe itebilecektir.<br />
+Tüm bu olumsuzluklara karşın Sayın Ekmeleddin İhsanoğlu’nun siyaset karmaşışı içerisinden gelen biri olmaması en önemli artısıdır.<br />
+Ayrıca hakkında ki bazı olumsuz iddialar kısa sürede giderilirse, ölçülü dindar kimliği ile çoğunluğu tutucu olan toplumumuzun her kesiminden destek bulabilecektir.. Hatta bu gruba Sayın Recep Tayyip Erdoğan’ın sert ve uzlaşmaz tavrı ile son yolsuzluk olaylarından rahatsızlık duyan bazı AKP seçmenleri de eklenebilecektir.<br />
+Son Söz..<br />
+Ağustos ayında yapılacak Cumhurbaşkanlığı seçimleri bugüne kadar yapılanlardan çok daha fazla önem kazanmıştır.<br />
+Türkiye bu seçimler sonunda, ya toplumun alışık olduğu sisteme uygun bir kişiyi ( Sayın Ekmeleddin İhsanoğlu’nu ) veya gelecekte Başkanlık Sistemini getirerek tüm yetkileri kendisinde toplayacak Sayın Recep Tayyip Erdoğan’ı Cumhurbaşkanı seçecektir.<br />
+Türkiye bu gerçeğe odaklanmalı ve herkes tüm tartışmalara nokta koyarak tercihini belirlemeli ve kesin kes sandığa gitmelidir.<br />
+Özellikle mevcut gidişten rahatsız olanların, bu vatandaşlık görevini yapmama şansı olamaz. Aksi halde, yarın onların hiçbir şekilde bu ülke sorunları hakkında söz söyleme hakları olmayacaktır.<br />
+Umarım seçilecek yeni Cumhurbaşkanı, ülkemizde ki kamplaşmalara son verir ve yasaların ve hukukun sağlıklı işlediği, korkuların son bulduğu bir siyasal ortamı sağlar.<br />
+Önümüzde ki sürecin, oy kullanacak tüm insanlarımızın adayları gerçek yönleriyle tanımasına fırsat verecek şekilde değerlendirilmesi dileğiyle, güzel bir hafta diliyorum. 22. 06. 2014</p>
+<p>Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0698-buyuk-ortadogu-projesi-meyvelerini-vermeye-basladi.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0700-surpriz-cumhurbaskani-adayi-ekmelettin-i-hsanoglu.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

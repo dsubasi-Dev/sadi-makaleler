@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Samsun Adına Yeni Bir Yanlış…</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Samsun Adına Yeni Bir Yanlış…
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2006
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0245
+
+</div>
+
+
+<div class="article-content">
+
+<p>SAMSUN ADINA  BİR YANLIŞ İLE KARŞI KARŞIYAYIZ..</p>
+<p>Bir kentte yaşamanın bir sorumluluğu olması gerektiğini her zaman ve her ortamda savunmuş birisiyim. Bugün, bu anlayışımın gereği olarak, kentimiz adına yanlış olacağına inandığım bir konuyu sizlerle paylaşmak istiyorum. İstiyorum ki, bu konu çok geniş kesimlerce tartışılsın ve kentimiz adına doğrusu ve yararlısı uygulamaya konulsun.<br />
+Samsun ülkemizin sanayileşmede ki atılımına ayak uyduramayarak bu konuda çok gerilerde kalmıştır. Geçtiğimiz yıl genişletilen son teşvik yasası kapsamı dışında da bırakılınca, sanayi yatırımları konusunda son şansını da yitirmiştir. Ortada kala, kala Samsun’un  tek dayanağı olarak geçmiş dönemlerden gelen ticari merkez olma özelliği kalmıştır. Her ne kadar geçmiş de tüm Karadeniz Bölgesinin ticari merkezi olan Samsun’un,   günümüzde bu özelliği azalmış olsa da,  hala bölgenin en hareketli ticari  merkezidir. Bu nedenle Samsun’un bu özelliğini koruması ve daha da geliştirmesi yönünde her fırsatın değerlendirilmesi yerinde olacaktır diye düşünenlerdenim.<br />
+Yazıma böyle bir giriş ile başlamamın  nedeni, son dönemlerde Samsun’a yeni ticari vizyon kazandıracak umut verici gelişmeler yanında,         yanlış olacağına inandığım bir uygulama değişikliğinden duyduğum endişeden kaynaklanmıştır. Yakın zamanda çevre yolu üzerinde yeni otogar karşısın da açılan AFRA iş merkezi ile Atakum’da inşaatı devam eden ve bir yıl içersinde açılması planlanan büyük bir başka iş merkezinin açılacak oluşu, Samsun adına sevindirici gelişmelerdir. Özellikle yeni açılacak olan iş merkezine katılacak firmalar açısından çok iddialı tercihler yapıldığını biliyor olmam, bu umudumu artırmaktadır. İstanbul’da ki AK MERKEZ türü bir iş merkezi olacağını sandığım bu yeni çarşı da, çok yıldızlı  Migros dışında dünyanın çok tanınan ve Samsun’da bulunmayan bir çok giyim, mücevherat, ayakkabı, aksesuar mağazası ile restoran, pastane ve cafenin açılacak olması Samsun ticaretine büyük canlılık getirecektir. Bu tür iş merkezleri sadece kent yaşamı ve ticareti ile kısıtlı kalmamakta ve çevre illerden de önemli ölçüde müşteri çekecek cazibe merkezleri olmaktadır. Bu gün İstanbul veya Ankara’ya gidenlerin bu tür çarşıları mutlaka gezdiklerini ve alış veriş yaptıklarını çok iyi biliyoruz. Bunun anlamı,  bu tür çarşılar daha çok ticaret ve daha çok çevre illerin insanının Samsun’a gelmesi demektir. Bunun sonucu olarak sadece ticaret olarak değil, Samsun turizm açısından da hareketlilik kazanacaktır.<br />
+O halde bu tür iş merkezlerinin çoğalması, Samsun için zenginlik ve yeni fırsatlar demektir.<br />
+Bildiğiniz gibi Samsun kent merkezi ve ticari piyasasının can damarı sayılan  MECİDİYE caddesinin uzantısı üzerinde bulunan ve yıllarca gerek Türkiye ve gerekse Samsun ekonomisine çok büyük katkılar yapan tarihi sigara fabrikası, on yıl kadar önce Ondokuzmayıs İlçemize taşınmıştı. Boşaltılan bu muhteşem tarihi bina Büyük Şehir Belediyesi tarafından tahsis yolu ile alınmıştı. Geçen yıl Büyük Şehir Belediyemiz tarafından bu tarihi bina ile karşında bulunan eski tütün depolarını da kapsayan büyük ve modern iş merkezi yapılması için büyük paralar harcanarak İstanbul’da bir proje de yaptırılmıştı. Bir yıldır REGİE adı ile tanıtımları yapılan ve iş merkezi yanın da eğlence turizmine de katkı yapacağına inanılan ve büyük umutlarla hayata geçirilmesi beklenen bu proje, ne oldu ise birden bire rafa kaldırılmıştır.<br />
+Hiçbir ön hazırlık yapılmadan, kentimizin konu ile ilgili sivil toplum kuruluşlarının bilgisi dahi alınmadan ve kamuoyu ile paylaşılmadan Büyük Şehir Meclisinin bir toplantısında bu yer için ani bir tadilat kararı meclisten geçirilmiş ve burasının sağlık kompleksi olmasının önü açılmıştır.<br />
+Hazırlıksız yakalanan mecliste, bazı üyelerin karşı çıkışları da, böylesine önemli ve Samsun için hayati sonuçları olabilecek kararın önünü kesememiştir. Her yönü ile enine boyuna tartışılması gereken bu değişikliğin, salt oy gücüne dayalı olarak alelacele meclisten geçirilme çabası kafaları karıştırmıştır. Korkulan olmuş, bu kararın hemen ardından sağlık kompleksini buraya yapacak olan firmanın adı dahi konuşulmaya başlamıştır.<br />
+Kararın duyulması üzerine konuyla direkt ilişkisi olan Mimarlar Odası konuyu gündemine almış ve bir dizi inceleme ve görüşmeden sonra TMMOB bünyesinde ki tüm mühendis odaları ile konuyu değerlendirmiştir. Yapılan bu değişikliğin Samsun açısından yanlış olduğu kararına vararak,   gerekçeleri ile birlikte tüm mühendis odası başkanlarının imzaladığı bir itiraz dilekçesini Samsun Büyük Şehir Belediye Başkanlığına sunmuştur. Yine aldıkları karar doğrultusunda sonuç alamadıkları takdirde, yasal durdurma talebi ile yargıya gideceklerini öğrenmiş bulunuyorum.<br />
+Konunun haber olarak yerel basınca duyurulduğu andan itibaren konuya duyarlılık gösteren SAM-SEV de, konuyu gündemine almış ve Mimarlar Odası Samsun Şube Başkanı Sayın Sacit Acar ile yapılan görüşmeden sonra onların girişimlerini beklemek yolunu tercih etmiştir. Bu arada hemen konu hakkında daha detaylı bilgi almak amacı ile de Büyük Şehir Belediye Başkanımızdan randevu istenmiştir. Ancak, zamanın uzaması üzerine geçen Perşembe günü yapılan SAM-SEV Yönetim Kurulu toplantısına davet edilen Sayın Sacit Acar’dan son gelişmeler hakkında bilgi alınmıştır. Aldığımız bilgiler endişeleri doğrulamakta olup, kentimiz adına gelecekte çok ciddi sıkıntılar yaşanmasına neden olacak bir yanlış yapılmak üzeredir. Bu yanlıştan dönülmesi için, en kısa sürede kentimizin duyarlı kesimleri konuya ilgi göstermeli ve görüşlerini açıklamalıdır. Büyük Şehir Belediye Başkanlığı da bu değişiklikte ısrarlı ise kamuoyunu ikna edecek açıklamalar ve ilgili kuruluşlarla toplantılar yapmalıdır. Aksi halde hiç yoktan yeni bir tartışmaya zemin hazırlanacaktır.<br />
+Bu konuya gösterdikleri duyarlılık ve hemen işleme koydukları uygulamalar için Sayın Sacit Acar’a ve onun şahsında tüm TMMOB bünyesinde ki oda başkanlarına teşekkür ediyorum. En azından, teşvik konusunda direk ilgili olması gerekli sivil toplum kuruluşlarının ilgi göstermemesi sonucu,  geçtiğimiz yıl zorunlu olarak yaşanan krize benzer bir ortam yaratılmamıştır. Olayı, direk ilgileri nedeniyle hemen üstlenip gerekli girişimleri yaptıkları için özellikle TMMOB  kutluyorum.<br />
+Ortaya koydukları tüm gerekçelere katılıyorum. Yörenin araç trafiğini felç edecek olması yanında, sağlık gibi son derece yoğun insan odaklı bir yükü burasının kaldırması mümkün değildir. Zaten son derece sıkışık ve basık olan bu bölge insan sağlığı açısından da, sağlık kuruluşu yapılması için düşünülebilecek en son yer olmalıdır. İşyeri bulabilmenin çok zor olduğu Samsun için böylesine önemli bir alanı, her yere yapılabilecek bir kuruluş için harcamak kentimiz ve vizyonumuz yönünden çok büyük yanlış<br />
+olacaktır. Bu proje değişikliği gerçekleşirse, geçtiğimiz yıllarda yapılan ve çok tartışılan abartılı üst geçitle ortadan bölünen Samsun’un en prestijli  caddesi Mecidiye tamamen yok edilmiş olacaktır.<br />
+Proje değişikliğinin gerekçelerini anlatılmaya gerek duyulmaması ve aceleye getirilmesini anlamakta sıkıntı çekiyorum. Bu aşamada dahi projeyi savunanların gösterdiği tepki kafaları daha da  karıştırmaktadır.<br />
+Oysa,  “ Samsun’da son aylarda sayıları artan sağlık poliklinikleri ve yapılmakta olan özel hastane gruplarının çıkarına dokunacağı  için karşı çıkıyorlar” söylemleri yerine, geniş kapsamlı ve kamuoyunu ikna çalışmaları yapılsa çok daha yerinde olurdu sanıyorum. Bu konuda Samsun Tabipler Odasının da karşı bir açıklaması basına yansımıştır.<br />
+Proje değişikliğine karşı ilk tavrı koyan, Mimarlar Odası Başkanı Sayın Sacit Acar’ın da altını çizdiği bir konuya bende katılıyorum. SAM-SEV tarafından geçtiğimiz yıllarda düzenlenen Kent Kurultaylarında da öne çıkan Samsun’un bölgenin sağlık merkezi olması yönünde ki her türlü çabaya destek veriyorum. Bu tür geniş kapsamlı sağlık kuruluşları Samsun için kazanım olacaktır. Ancak, başka bir yerde yapılabilecek bir tesis uğruna,  böylesine kentimizin can damarı bir yerin göz göre, göre heba edilmesine de hoşgörü ile bakamayız. Kamuoyunca benimsenmeden,  bu konuda ısrar edilmesi çok sayıda soruyu akla getirecektir.<br />
+Geçmişte çevremizde ki tüm limanlar özelleştirilerek kentlerine can verirken, yıllardır özelleştirilmesi geciktirilen ve hiçbir yenileme işlemi yapılmayan limanımızın içine düştüğü durum, bugün  nasıl çok başka nedenlere bağlanıyorsa , bu değişiklik için de haklı haksız bir çok söylentiye zemin hazırlanacaktır.<br />
+Zaman geçirilmeden Büyük Şehir Belediye Başkanlığı veya TMMOB öncülüğünde, başta Samsun Ticaret Odası, Samsun Borsası, Samsun Tabipler Odası olmak üzere ilgili tüm Sivil Toplum Kuruluşları ortak toplantıya çağrılmalı ve Büyük Şehir Belediye Başkanımız Sayın Yusuf Ziya Yılmaz tarafından bilgilendirilmelidir. Aksi halde gerekli anlaşma zemini yaratılmadan yapılacak dayatmalar yeni tartışmalara fırsat verecek ve Samsun bundan zarar görecektir.<br />
+Akılcı çözümlerin bulunacağı umuduyla, sağlık ve güzellikler dolu bir hafta diliyorum.<br />
+NOT : Üç yıldır köşe yazısı yazmaktan onur duyduğum Halk Gazetesi’nin, her görüşten çok önemli ve değişik isimleri köşe yazarı olarak  aramıza katmasından büyük mutluluk duyuyorum. Bu konuda gösterdiği çaba ve verdiği destek için gazete sahiplerinden Sayın Yusuf Yılmaz’ı ve göreve başladığı günden itibaren farkını hissettiren Genel Yayın Yönetmeni Sayın Osman Kara’yı kutluyor ve teşekkür ediyorum. Yazı ailesine katılan çocukluk arkadaşım, kadim dostum Samsun sevdalısı Sevgili Ertuğrul Çepni’ye, örgütlenmede ki başarısı, ciddi ve kararlı tutumlarını her zaman takdir ettiğim, gerçek aydın Murat Akar dostuma ve kent yöneticiliğinde ki tartışmasız bilgi ve deneyimi yanında, siyasi birikimlerini de sütunlarına taşıyacağına inandığım Sayım Murat Karayalçın’a aramıza hoş geldiniz diyorum. 29-Temmuz-2006<br />
+SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0244-toplum-sagligini-tehdit-eden-uygulamalar.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0246-samsun-un-markalasmasina-evet-ama-nasil.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

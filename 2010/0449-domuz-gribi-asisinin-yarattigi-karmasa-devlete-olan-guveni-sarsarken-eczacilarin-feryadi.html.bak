@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Domuz Gribi Aşısının Yarattığı Karmaşa Devlete Olan Güveni Sarsarken Eczacıların Feryadı</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Domuz Gribi Aşısının Yarattığı Karmaşa Devlete Olan Güveni Sarsarken Eczacıların Feryadı
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2010
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0449
+
+</div>
+
+
+<div class="article-content">
+
+<p>Sadi SUBAŞIsadisubasi@halkgazetesi. com. trDomuz aşısının yarattığı karmaşa</p>
+<p>DOMUZ AŞISININ YARATTIĞI KARMAŞA DEVLETE OLAN GÜVENİ SARSARKEN, ECZACILARIN FERYADI DA SAĞLIK POLİTİKALARININ İFLASININ AYIRACI OLDU.<br />
+Tam kuş gribi sarmalından çıktığımız bir sırada, bu kez de gündeme “DOMUZ GRİBİ” oturdu. Amerika Kıta’sında ortaya çıktığı ve aşısının bulunduğu haberlerinin basında yer aldığı günler de, Sağlık Bakanı Sayın Prof. Dr. Recep Akdağ’ın akıllara durgunluk veren bir açıklaması kamuoyunda bomba gibi patladı.     Sayın Bakan, bu kış sezonunda Türkiye’de domuz gribinden 4500 kişi ölecek diyordu. Bir Sağlık Bakanı, toplumu paniğe kaptıracak sözleri nasıl söylerdi, anlamak mümkün değil. Neyse ki, nedenini öğrenmek için çok beklemedik.   Nüfusu 70 milyon olan Türkiye’ye, ilk etapta 43 milyon ünite domuz aşısı getirtilmişti.     Sayın Bakan kendisi de aşıyı yaptırarak herkesin yaptırması gerektiğini söylüyordu.    Bu aşı şovu, bana geçmişte Çernobil olayı sonrası yaşanan benzer bir şovu hatırlattı. O dönemin Sanayi ve Ticaret Bakanı Sayın Cahit Aral’da, radyasyondan en çok etkilendiği daha sonra kesinlik kazanan çayı içerek aklıyor ve onbinlerce insanın kanser riski ile karşı karşıya kalmasına neden oluyordu.    Bu arada, Sayın AKDAĞ’IN garip açıklamaları da devam ediyordu. Bu kez de bilinen grip enfeksiyonlarından ülkemiz de her yıl 5000 kişinin öldüğünü söylüyordu. 41 yıllık eczacı olarak bu rakamı ilk kez duyuyordum.     Araştırıldığında, iyi tedavi edilmeyen veya önemsenmeyerek ayakta geçirilen griplerin sonrasın da, bünyesi zayıf olanlarda zatürree gibi ölümcül akciğer hastalıkların ortaya çıktığı ve gribe bağlı ölümlerin çoğunun da akciğer hastalıklarından olduğu anlaşılmaktadır.     Zaten bir başka açıklamada da, domuz gribine dayalı ölümlerin, tedavi edilmeyen vakaların sonrasında da oluşan akciğer hastalıklarına bağlı olduğuydu.    Yine bütün sağlıkçıların çok iyi bildiği gibi, grip vakaları yeni bir şey değildir. Her yıl yeni ve değişik çok sayıda grip virüsü görülmektedir. Çünkü grip virüsünün sürekli mutasyona uğraması da ( değişime uğraması) yeni bir şey değildir. O nedenledir ki,  grip aşıları her yıl değişiklik gösteren virüslere etkin olacak şekilde yeni formüllerde hazırlanarak piyasaya sürülür ve bu yıl için hazırlanan aşılar bir sene sonra kesinlikle kullanılamaz.     İşte, bugün ortalığı birbirine katan “DOMUZ GRİBİ” de, geçtiğimiz yıllarda grip virüslerinin değişime uğrayarak ortaya çıkan “ KUŞ GRİBİ” gibi değişime uğrayan bir başka grip virüsüdür.     Her değişime uğrayan mikrobun daha güçlü ortaya çıkması gibi, “DOMUZ GRİBİ” de öncekilere göre daha etkin ve güçlü ortaya çıkan bir grip virüsüdür. Tedavisi de diğerlerinden farklı olmayıp, evde yapılacak dinlenme ağırlıklı olmak üzere, antibiyotiksiz grip ile virüs ilaçlarını kullanmak ve çokça C Vitamini içeren meyve yiyip, bol su içmekten geçmektedir.      BU KONUDA ASIL ÜZERİNDE DURULMASI GEREKEN İKİ ŞEY VARDIR.     Bunlardan birisi, bu ülkenin sağlıktan sorumlu Bakanı Sayın Prof. Dr. Recep Akdağ’ın aşı yapılmasını önerip kendisi de aşıyı yaptırırken, Hükümetin başında ki Başbakan Sayın Recep Tayip Erdoğan’ın, “ben yaptırmam, çocuklarımda yaptırmayacak” diyerek bunu iki ayrı tarihte tekrarlaması ve en sonunda da, “torunlarım da yaptırmayacak” demesiydi. Bu nasıl bir devlet anlayışıdır.    Burada büyük bir siyasi otorite karmaşası vardır. Bu çelişki evirip çevrilemez. Halkın kafasını karıştırıp “DEVLETE” Olan güveninin kaybolmasına neden olan bu olay sonrası, Sağlık Bakanı zan altında kalmıştır.     Onurlu bir siyasetçiye yakışanı yapıp, istifa etmesi gerekirdi. Veya bakanına güvenmediği gibi bir anlam kazanan bu olay sonrası, hükümetin en üst sorumlusu onu bakanlıktan almalıydı. Ne yazık ki, burası Türkiye ve bu ülkede ne ilkeli siyasetin, ne de onurlu olmanın bir anlamı yoktur.     Olan halka olmuş ve bu karmaşa içersinde aşı yaptırmaya korkar hale gelmiş, daha da önemlisi her geçen gün biraz daha yıpranan “DEVLETE OLAN GÜVEN DUYGUSU” çok ciddi yara almıştır.     Üzerinde durulması gereken ikinci şey ise İlaç tekellerinin bir kez daha ortaya çıkan acımasız yüzüdür. Kırk yıllık sağlık çalışanı olarak ve mesleğim olan eczacılığın en alt kademesinden en üst düzeydeki kuruluşu olan Türk Eczacılar Birliği’ne kadar her kademesinde görev yapmış birisi olarak bu süreçte tespit ettiğim gerçek, “dünya ilaç üreticisi tekellerinin” dünyanın belki de en acımasız sanayicileri olduğudur.     Neden mi? Her sanayicinin tek amacı en iyisini üretip, en fazlasını kazanmaktır. Ne var ki, ilaç sanayicisi sıradan bir mal üretmemektedir. Onun ürettiği şey ilaç olup, her canlının ihtiyacı olduğunda tercih yapamayacağı, sonra alırım diyemeyeceği, daha önemlisi hakkında hiçbir bilgisi olmadan doktor tarafından alması istenen, olmazsa olmaz bir üründür.     Dolayısıyla, ilaç üreticilerinin üretim ve etkisinin deneneceği alanlarda çok iyi denetlenmesi gerekmektedir. Oysa bu konuda ciddi tereddütler vardır. Yeni bulunan ilaçların laboratuar çalışmaları sonrası 3. Dünya ülkelerinin insanları üzerinde denediği bilinmeyen bir şey değildir. Zaman zaman Dünya Sağlık Örgütü bazı ilaçların zararları görüldüğü için satışını yasaklar. Ama bu tür açıklamaların yapıldığı bazı ilaçlar, Türkiye de dâhil birçok geri kalmış ülkede kullanılmaya devam eder.     Domuz gribi aşısında da buna benzer bir durumun olduğu kuşkuları seziliyor. Domuz Gribinin Amerika’da hızla yayılması nedeniyle, acilen üretilen aşıların yeterli laboratuar ve canlı üzerinde ki denemeleri yapılamamış ve muhtemel yan etkileri de düşünülerek düşük etkili aşılar Amerika’da uygulamaya konulmuştur.    Ancak hastalığın daha da yaygınlaşması ve ağır seyretmesi ihtimaline yönelik çalışmalar yapan Amerikan ilaç tekelleri, içinde cıva da dâhil olmak üzere değişik etken maddelerin olduğu söylenen güçlendirilmiş aşıları üretmiş ve Türkiye gibi birçok ülkeye de çok muhtemeldir ki, hibe yoluyla göndermiştir. Bu yıl insanlar üzerinde denenecek bu aşıların doğuracağı yan etkiler gözlemlenerek gelecek yıllar için daha etkin aşılar üretilecektir. İşte sorun buradadır.     Bu aşıyı Amerikalıya yapmayı riskli bulan bir anlayışa nasıl güven duyulabilir? Kaldı ki, Almanya Başbakanı bu aşıyı yaptırmayarak kendisi için özel aşı getirtmiş, Çin ise kendi aşısını kendisi üretmiştir.     İşte böylesine çok bilinmeyenli bir aşı karmaşası sırasında, Sayın Başbakan ile Sayın Sağlık Bakanı arasında ortaya çıkan görüş ayrılığı çok daha büyük önem kazanıyor.<br />
+Eczacılar olarak bizler her gün kafası karışık halkımızın, “Yaptıralım mı? Yaptırmayalım mı? Siz yaptırdınız mı?” sorularını cevaplayamamanın ezikliğini yaşıyoruz.     Böyle bir sağlık politikası olur mu? Olursa, buna tutarlı bir sağlık politikası denilebilir mi?     Bu millet böylesine önemli bir konuda açmaza sokulmayı hak ediyor mu? Bir hükümetin başbakanı ile sağlık bakanı ters düşerse, sokaktaki vatandaş bu aşıya nasıl güvenecek ve aşıyı yaptıracak? Bizi yönetsinler diye seçtiklerimizin böylesine bir karmaşaya neden olma hakkı olabilir mi?       Yazıklar olsun ki, böylesine garip bir ülkede yaşıyor ve de böylesine kendi içersinde dahi tutarsız siyasetçiler tarafından yönetiliyoruz.     DOMUZ GİRİBİ aşısı yaptırmaktan çekindiği için hayatını kaybedecek her kişinin vicdani sorumlusu, bu tartışmalı aşıyı getirenler ve aşı karmaşasına neden olan Hükümet olacaktır.            BİR BAŞKA SAĞLIK KARMAŞASI VE ECZACILARIN FERYADI      Üzülerek söylemek gerekirse, sağlık alanında önemli işler yapan hükümet, kendisine seçim kazandıran bu uygulamaların yapılabilmesinin finansal yükünü eczacıların sırtına vurmuştur.    24000 eczacının iflası ile onların karnını doyurduğu en az 150.000 kişiyi işsiz bırakacak, halkın ilaca ulaşımının yolunu keserek hiç de umulmayan olumsuzluklara yol açacak bir uygulamayı, 04 Aralıkta yürürlüğe koyacak olan Sağlık Bakanlığı, eczacıların feryadına neden olmuştur.     Her dönem Devletten yana fedakârlık yapan eczacılar, bu kez yaşam savaşı vermekle karşı karşıya bırakılmıştır.    Lütfen eczacıların tam sayfa ilan vererek gazete ve TV’ler de yayınlanan feryadına kulak kabartınız.     Haftaya bu dayatmanın arkasında ki muhtemel nedenleri ve bu konuda ki gelişmeleri, mesleğinin jübilesini yapma noktasına gelmiş bir eczacı olarak sizlerle paylaşacağım.   Haftaya buluşmak dileğiyle, sağlıkla kalınız. 21 Kasım 2009<br />
+GELEN MESAJ;</p>
+<p>Bu Yazı Toplam 528 Defa Okunmuştur</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="../2009/0454-kaybolan-guven-ve-hizla-eriyen-devlet-anlayisi.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0455-2009-dan-2010-a-gecerken-turkiye-adina-beklentiler.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

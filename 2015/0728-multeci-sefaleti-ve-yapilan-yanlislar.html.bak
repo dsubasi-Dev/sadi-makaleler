@@ -1,0 +1,320 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Mülteci Sefaleti ve Yapılan Yanlışlar.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Mülteci Sefaleti ve Yapılan Yanlışlar.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2015
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0728
+
+</div>
+
+
+<div class="article-content">
+
+<p><br />
+MÜLTECİ SEFALETİ VE YANLIŞLAR ZİNCİRİ</p>
+<p>Uzunca bir süredir ülkemiz de yaşanan mülteci dramına değinen bir yazı yazmayı düşünüyordum.<br />
+Ancak bu sorun öylesine karmaşık hale geldi ki, bir yanda savaştan kaçan insanların yaşadığı sefalet, diğer yanda yıllardır savaş yokken bu dramı yaşayan benim insanlarım arasında doğrusunu isterseniz bocaladım.<br />
+Sonun da bir yerlerden başlayayım dedim ve aşağıda ki yazı ortaya çıktı.<br />
+Bölgemiz de yaşanan iç savaşlar sonrası can derdine düşerek ülkelerinden kaçan milyonlarca çocuk, kadın ve erkeklerden oluşan mültecinin sığındığı bir ülke haline geldik.<br />
+Bu çaresiz insanlara sınırlarını açarak dünyaya insanlık dersi veren bir ülke olarak dünyanın da övgülerini aldığımız bir gerçek.<br />
+Irak ve Suriye başta olmak üzere Afganistan ve Pakistan hatta bazı Afrika ülkelerinden milyonlarca insan mülteci olarak ülkemize girmeyi sürdürüyor.<br />
+Başlangıçta, özellikle Suriye’de ki iç savaştan kaçanlar sınır illerimizde oluşturulan konteyner yerleşim birimlerine yerleştirildi.<br />
+Ancak giderek artan mülteciler, yeterli denetim ve sağlıklı bir yerleştirme planı uygulanamadığı için kontrol edilemez bir şekilde başta büyük şehirler olmak üzere, ülkemizin bütün kentlerine dağıldılar.<br />
+Mülteci akınına uğrayan kentlerden birisi de Samsun oldu. Samsun’a gelen bu mültecilerin çok az bir kısmının dışında ki büyük kısmının hiç bir ekonomik gücü olmadığı anlaşılıyor. Bu nedenle bu mülteci aileleri tam bir sefalet yaşıyorlar.<br />
+Son elli yılın en soğuk kışının yaşandığı ve ısının eksilerde gezindiği bu günlerde, Samsun’un hemen her köşe başında ellerinde yardım isteyen yazılarla titreşen çocukları ve kadınları sizlerde görüyorsunuzdur. Bu sefalet görüntülerinin en taş yürekli insanın dahi vicdanını sızlatmaması olası değildir.<br />
+Hemen her gün işyerime gelirken önünden geçtiğim Konak Sineması’nın karşısında ki köşede bekleşen ve Suriyeli oldukları ellerinde ki yazılardan anlaşılan çocukların aylardır yıkanmadıkları, kirden morarmış çıplak ayaklarından belli oluyor.<br />
+Savaştan kaçan bu insanlara sınırlarını açmak ülkemiz adına ne kadar olumlu ise, onları savaştan da kötü bir sefalete terk etmek bir o kadar insanlık suçudur.<br />
+Bir yanda yukarıda anlattığım mültecilerin, diğer yanda ülkelerinden kaçarak güvenli bir yere ulaşmak için aşağılık fırsatçıların teknelerine doluşarak azgın dalgalar arasında ölüme mahkûm edilenlerin dramı, artık sıradan olaylar haline gelmiş bulunuyor.</p>
+<p>Bu olayın bir yüzüdür ve mültecilerin yaşadığı dramın yansımasıdır. Bu işin bir de bizi ilgilendiren diğer yüzü vardır ki, ülkemiz adına bu çok daha önemlidir.<br />
+Başlangıçta gösterilen özen, ne yazık ki mülteci sayısının artması ile kontrolden çıkarak bizim insanlarımız açısından da bir yığın sorunu gündeme taşımıştır. Bunlara dikkat çekmek, ileride olabilecek tatsız olayların önüne geçmek için bir uyarı olarak algılanmalıdır.<br />
+Kiralarını Valiliklerin ödediği çok sayıda mültecinin birlikte kiralayarak oturduğu evlerin bulunduğu mahalleler de huzur kalmamış ve istenmeyen olayların yaşanması olası hale gelmiştir.<br />
+Bu insanlık dramının kendi insanlarımızın huzurunu kaçırması ile artan tepkilerin odağında, “Madem kurulan konteyner kamplar yetmiyordu? Neden bu kadar çok mülteci kabul edildi?” Soruları yer almaktadır.<br />
+En geniş sınırımızın olduğu Suriye’de ki iç savaşta bizi direk ilgilendiren bir sorun yokken taraf haline gelmemizin yüklediği sorumluluk, sanırım bizi bu boyutta mülteciye sınırlarımızı açmak zorunda bıraktı. Bu konuda ki dış politikamız da sorgulanır hale gelmiştir.<br />
+Dış ticaret açığımızın her gün arttığı bir dönem de, en büyük ihracatı yaptığımız ülkelerle siyasi sorun yaşamamız, mülteci sorunu yanında ülkemize bir de ekonomik sorunlar yüklemiştir.<br />
+Mültecilere harcanan paraların boyutu dudak uçuklatacak boyuta ulaşmıştır. O aman benim insanlarımın şu sorularına cevap verilmelidir.<br />
+Madem ülkemizin bu miktarda parayı mültecilere ayıracak ekonomik gücü vardı, neden zor durumda ki kendi memuruna, emeklisine, işçisine komik denecek zamlar yapıldı?<br />
+Mültecilere bu kadar büyük para ayıracak gücü olan bir ülke de, zaten geçim sorunu olan insanlarımızın hayatını daha da zorlaştıracak derece de vergilere zamlar yapılması nasıl açıklanabilir?<br />
+Bırakın Doğu ve Güneydoğu Anadolu Bölgesinde yoksullukla boğuşan insanlarımızı, bırakın Samsun’un dağ köylerinde ki yoksullarımızı, Samsun’un içerisinde ki bir avuç Roman vatandaşımızın dahi yoksullukla boğuşması neden görmezden geliniyor?<br />
+Neden tarım ürünlerine destekleme primi verilmeyerek ve köylümüz tarım üretiminden vaz geçirilerek yoksulluğa mahkûm edildi? Neden ülkemiz buğdayı dahi ithal etmek zorunda bırakıldı?</p>
+<p>Evet! Sınırlarımıza dayanan biçare insanlara sınırlarımızı açmak bir insanlık görevidir.<br />
+Evet! Onlara maddi olanaklar sağlamak da gereklidir.<br />
+Ama Devletimiz, aynı yaklaşımı eğer savaş dahi yokken benzer sefaleti yaşayan bizim kırsalda ki insanımıza gösteremiyorsa, kimse kusura bakmasın ama durup dururken ülkemizin başına dert olan bu mülteci sorununu, benim insanıma kimse anlatamaz.<br />
+Sonuç olarak söylemek gerekirse, savaştan kaçan çaresiz kadınlara ve çocuklara sahip çıkmak ne derece insanlık göreviyse, devlet katında her türlü savurganlık sürerken, kendi çalışanına, emeklisine yeterli zammı vermemek ve işsizine alın teri ile para kazanacağı iş olanakları sağlamamak da bu devletin ayıbıdır.<br />
+Bu mültecilerin yaşadığı dramdan ülkemiz adına çıkartılacak en büyük ders ise, savaşın ne büyük bir bela olduğu ve bölgemizde devam eden savaşlara bir şekilde bulaşmanın, ne büyük felaket olacağıdır.<br />
+Ülkemiz insanlarına benzeri bir dram yaşatacak yanlışların yapılmaması dileğiyle, sağlıklı ve sorunsuz bir hafta diliyorum.<br />
+11. 01. 2015<br />
+Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0727-cocuk-can-demek-torun-i-se-yeni-yasam-demektir.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0729-artan-trafik-cezalari-ve-hedef-halk-gazetesi.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

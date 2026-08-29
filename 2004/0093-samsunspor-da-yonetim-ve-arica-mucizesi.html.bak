@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Samsunspor&#x27;da Yönetim ve Arıca Mucizesi</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Samsunspor&#x27;da Yönetim ve Arıca Mucizesi
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2004
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0093
+
+</div>
+
+
+<div class="article-content">
+
+<p>SAMSUNSPORDA<br />
+YÖNETİM ve ARICA MUCİZESİ</p>
+<p>Sayın Uyanık Başkanlığındaki yönetimi ve geldiği günden itibaren çok olumlu bir tavır sergileyen Teknik Direktör Sayın Arıca ile ilgili bir yazıyı devre arasında yazmayı planlamıştım. Ancak hesapta olmayan hain grip beni yatağa çivileyince bu yazı Beşiktaş maçının olağanüstü sonucu ile çakıştı.<br />
+Öncelikle Pazar akşamı oynanan BJK maçı ile ilgili birkaç şey söylemek istiyorum. Türkiye eğer Cem Papilla gibi hakemleri çoğaltabilir ve devamlılık kazandırabilirse gerçek anlamda dünya futbolunda yer alacaktır. Aksi halde dünya 3. lüğü ardından Avrupa finallerine bile katılamamak gibi kaçınılmaz sonuçlara mahkum olamaya devam edecektir. Ben sonucu ve kartları hiç tartışmayacağım  Bu maçta misafir takıma  Samsunspor  gerginliğe neden olacak tek bir olay yaratmamış ve maç öncesi tek söz  üretmemiştir. Buna rağmen daha maç öncesinde başlayan bir başka büyük takımı da içine alan söz dalaşı koca Beşiktaş’ ı Pazar akşamki inanılmaz stresin içine atmıştır. Bence en büyük suçlu Lucescu’ dur.  Türkiye de herkesin saygısını ve sevgisini kazanan bir teknik adam maç öncesi yaratılan spekülasyonlara  taraf olarak katılmış ve idarecileri ilgilendiren sorunu takımına yansıtmıştır. “ ilk maçta kazaya uğramayalım” gibi bir zaafla maçı erteletmeye çalışmış ve takımının maça moralsiz ve gergin çıkmasını sağlamıştır. Maç içerisinde de olacakları baştan görüp gergin  oyuncularını alarak oyunu kontrol altında tutmayı başaramamıştır. Bunları pazar akşamı yapan ve maçı kazanmaya geldik diyerek herkesi  ve takımı motive eden Arıca, oyun içinde de basiretli  hareketlerle gergiliği arttırmamak amacıyla sarı kartlı oyuncularını anında değiştirerek gecenin fatihi  olmuştur. Düne kadar hakemleri ve hakem komitesi ile federasyonu eyyamcılıkla suçlayanların, ise  görevini eksiksiz yaptığı için Cem Papilla’ ya saldırmaları büyüklük kompleksinin ve tutarsızlıklarının  yansımasıdır.<br />
+Anadolu kulüplerine 2. sınıf muamelesini layık görenlerin artık uyanması lazım. Umarım bu kararlı hakem uygulamaları bu tepkilerden etkilenmeden devam eder. Son günlerde hoşuma  çok giden  bir benzetmeyle bu yazımı noktalamak istiyorum. Anadolu takımlarının üç büyüklerle olan  maçları Aslanla aşk yapmaya kalkışan maymunların aşk  oyununa benziyor.  Bu kez aslanın ağzı kayınca olanlar oldu.<br />
+Son sözümde Locescu ’ya. Kendisini Türkler ’e bu kadar sevdiren bir yabancının, özünde doğrularda olsa bir Ülkeyi böylesine aşağılayan sözlerinden dolayı  kendisini kınıyorum. Ekmeğini yediği Ülkeye böylesine ihanet eden bir insanın onurluysa,  dediklerini yapıp çekip gitmesi en doğrusu olacaktır.</p>
+<p>Gelelim Samsunspora; Sezon başında ciddi teknik direktör sorunu yaşayan Samsunspor da Erdoğan Arıca ’nın adı gündeme geldiğinde doğrusu ciddi olarak endişe duymuştum. Nedeni de Arıca ’nın Samsundaki birinci dönemiyle ilgiliydi. Sanırım  2000 – 2001 sezonunda Samsunspor ’a teknik direktör olarak gelen Arıca geldikten bir süre sonra “ Celil ve Serkan bu takıma fazla geliyor, bu takımdan gitmelidirler” gibisinden bazı açıklamalar yapmış sezon sonuna doğru da kendisinin daha büyük ve iddialı takımları çalıştırması gerektiği düşüncesiyle Samsunspordan ayrılmış ve muhtemelen UEFA kupası yolunda Samsunsporu yalnız bırakmıştı.<br />
+Ancak bu kez Samsunsporda yeniden  görev alan Erdoğan Arıca gelir gelmez yaptığı ilk açıklamayla geçmişteki hatalarını kabul ederek büyük puan toplanmıştır. Teknik kapasite ve bilgisinden  hiçbir zaman şüphe duymadığım Erdoğan Arıca bu dönemde gerçek gücünü Samsunsporda göstermeye başladı. Takımı inanılmaz bir tempoya ulaştırdı ve seyri güzel futbol oynamaya başlayan Samsunspor inanıyorum ki bu kez UEFA amacına ulaşacaktır. Son Beşiktaş maçı öncesi koyduğu tavır ve maç içerisindeki gerek oyuncu değiştirme  ve gerekse diğer müdahaleleriyle tüm otoritelerin  dikkatini üzerine çekti. Geçmişte eleştiri yazısı yazan birisi olarak bugün Erdoğan Arıca ‘yı alkışlıyorum. İddia ediyorum bu iddialı ve prensipli yönetimi, hem  Samsunsporu çok daha iyi yerlere taşıyacak, hem de bugüne kadar ulaşmakta geç kaldığı çok daha önemli görev ve Sorumlulukları alma şansını  kendisine sağlayacaktır.<br />
+Ülkemizdeki zor ekonomik koşullarında  lig takımlarının da içine düştükleri krizi çok iyi biliyoruz. Böyle bir ortamda Sayın İsmail Uyanık ve yönetiminin gösterdiği başarıyı ve özveriyi tüm Samsunluların ayakta alkışlaması  lazım. Samsun kolay kolay bir İsmail Uyanık daha bulamaz. Ona ve yanındaki inançlı arkadaşlarına sahip çıkmalıyız. Hem maddi hem de moral desteğine ihtiyacı olan bu insanları yalnız bırakmayalım . Taraftarlar maçlarda stadı doldurarak, ekonomik gücü olanlarında olanakları ölçüsünde ekonomik katkı vererek yönetime destek olmalıdır. Samsunsporun Samsun’un en önemli tanıtım organı olduğunu ve bu kente  çok önemli ekonomik girdiler sağladığını göz ardı etmeyelim.<br />
+Türkiyenin en güzel spor tesislerine sahip Samsunspor’un doğu parkta bulunan spor kompleksinde yeniden yapılan düzenlemeler tek kelimeyle muhteşem olmuştur. Böylesine güzel bir tesise sahip olmaktan bütün Samsunluların gurur duyacağına inanıyorum. Bu tesisleri dilerim ki spor merakı olan her Samsunlu gidip görecektir.<br />
+Son sözüm bir kolej takımı hüviyeti oluşturan sevgili oyuncularımıza gösterdikleri performans ve saha içi davranışları için başta örnek kaptan Serkan olmak üzere herkesi kutluyorum. Gelecekte Samsunsporun Teknik kadrosunun patronu olacağına inandığım Sevgili Ertuğrul Sağlam ve yardımcılarının da bu başarıdaki haklarını teslim  ediyorum.  Bugün oynanacak Fenerbahçe kupa maçından da büyük bir başarı ile ayrılacağımıza inanıyor,  teknik kadro  ve   sporcularımıza başarılar diliyorum.<br />
+Hoşçakalın...</p>
+<p>Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0092-saglik-politikalari-ve-sorunlar.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0094-ulkemizdeki-gizlenemez-ahlaki-cokuntu.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

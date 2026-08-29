@@ -1,0 +1,329 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Bu Ülke Korkutularak Yönetilmeyi Hak Etmiyor.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Bu Ülke Korkutularak Yönetilmeyi Hak Etmiyor.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2018
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0917
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>BU ÜLKE KORKUTULARAK YÖNETİLMEYİ HAK ETMİYOR.</p>
+<p>Üzülerek söylemek gerekirse kuruluş yıllarında zorunlu olarak yaşananları bir yana bırakırsak, Atatürk sonrası bu ülke 1940’lı yıllardan günümüze korkutularak yönetilmiş ve yönetilmeyi de sürdürüyor.<br />
+1945 doğumlu birisi olarak tabii ki 1945 ile 1960 arasını gözlemleme şansım olmadı.<br />
+Ama babam ülke sorunlarına çok duyarlı birisiydi. 8-10 yaşlarında olduğum yıllarda, babamın 1945 yılı sonlarında biten 2. Dünya Savaşı ile ilgili anlattıklarını hatırlıyorum.<br />
+Özellikle günümüzde dahi konuşulan ve o dönemin Cumhurbaşkanı İsmet İnönü ve CHP’nin hala suçlandığı olayların gerçek nedenlerini o dönemi yaşamış babamdan çok kez dinlemiştim.<br />
+Babam da o dönem de alınan sert önlemlerin abartılı ve yanlış olduğunu söylüyordu.<br />
+Ama yapılanların temelinde, her an 2. Dünya Savaşı’na girmek zorunda kalabileceğimiz endişesinin yattığını da eklerdi.<br />
+O dönem ki CHP Hükümeti’nin, özellikle başta buğday olmak üzere köylünün ürettiği bazı temel gıda maddelerini muhtemel bir savaşta kullanılmak üzere köylünün elinden alıyordu. Bunu yaparken zaman zaman vermemek için direnen köylüyle jandarma arasında bazı olayların yaşandığını anlatırdı.<br />
+JANDARMA İLE KORKUTMA DÖNEMİ;<br />
+O dönemlerde Devlet alacağı sert önlemleri, özellikte kırsal kesimlerde jandarmalarla sağlardı.<br />
+Jandarma güçlerinin Doğu ve Güneydoğu Bölgemizde ki Şeyh Sait İsyanları ile yer yer baş gösteren şeriatçı kalkışmalarda da zaman zaman da olsa ölçüsüz güç kullanmak zorunda kalması, halkta jandarma korkusunu yerleştirmiştir.<br />
+O dönemle birlikte başlayan toplumu korkutarak yönetme alışkanlığı, ne yazık ki sonra ki çok partili dönemlerde de yöntem değiştirerek devam etmiştir.<br />
+Türkiye’nin 1945 yılı sonlarında Birleşmiş Milletler Topluluğuna katılması sonrası 1950’li yılında iktidar olan DP’ nin Amerika ile yakınlaşması, Türkiye’yi bir anda Rusya’dan kaynaklanan kominizim tehlikesine karşı bölgenin jandarması durumuna getirmiştir.<br />
+KOMİNİST SUÇLAMASI İLE KORKUTMA DÖNEMİ.<br />
+O dönem iktidarlarının da en büyük korkutma aracı, “Kominizm” Olmuştur. İktidarda olan DP Hükümeti, karşısında gördüğü herkesi kominist damgası ile cezaevlerine doldurmuştur.<br />
+O dönemin çok daha iyi anlaşılması için Samsun’da yaşanmış bir olayı anlatayım. Yapılmakta olan Samsun Limanın mendirekleri bitmiştir. Samsunlu şair ruhlu bir eczacı ağabeyimizin de en büyük tutkusu, akşamları mendirekte yürüyüp deniz keyfi yapmaktır.<br />
+Eczacı ağabeyimizin sol eğilimli olduğunun bilinmesi ve henüz ışıklandırması olmayan mendirekte el feneri kullanması, bazı karşıt düşünce de olanlar için bulunmaz fırsat yaratmıştır.<br />
+Hemen kominist damgası vurulur ve “Eczacı, el feneri ile Rusya’ya mesaj gönderiyor” İhbarı ile meslektaşımız aylarca uğraştırılır.</p>
+<p>SAĞ-SOL TERÖRÜNÜN YARATTIĞI KORKU DÖNEMİ<br />
+1960’lı yılında başlayan ve yaklaşık on yılda bir gelen askeri darbe dönemleri de ülkenin çok sayıda yetişmiş siyasetçisini, siyaset yapmaya çalışan genç kuşağını, akademisyenlerini cezaevlerine doldurmuş, eğitimlerinden, üniversitelerinden kopartmıştır.<br />
+1970’li yıllarla birlikte gençleri sağcı (Ülkücü) ve çeşitli örgütlerle anılan (solcular) olarak karşı karşıya getirdiler. Türkiye terörle tanıştı. Bu ülkenin çocukları yıllarca birbirini öldürdü. Üniversiteler, mahalleler, caddeler paylaşıldı. Çok sayıda aile terör korkusu ile çocuklarını üniversitelerden aldı.<br />
+Bunlar yetmiyormuş gibi toplum birde mezhep çatışmalarına sürüklendi ve büyük katliamlar yaşandı. Can güvenliği kalmadı. Toplum sokaklarda yürümeye korkar hale geldi. Çatışmalar arasında kalarak canını kaybedenler oldu.<br />
+Ülkemizin yetiştirdiği namuslu ve vatansever öğrenciler, gazeteciler, bilim adamları, yazarlar evlerinin önünde öldürüldü.<br />
+Ülke on yıl boyunca sokak terörünün korkusu ile yaşamak zorunda kaldı.<br />
+1980 ASKERİ DARBESİNİN YARATTIĞI KORKU<br />
+Bu karmaşa ardından 11 Eylül 1980 askeri darbesi geldi.  Darbe sonrası terör olayları dururken, ülkenin yetişmiş siyasetçileri, birikimli insanları, akademisyenleri, üniversite öğrencileri bir kez daha tutuklanıp siyasetten kopartıldı.<br />
+Tam bağımsız Türkiye savunucusu gençler, bu kez devlet tarafından ya asılarak ya da, çatışmalarda öldürüldü.<br />
+1980 darbesi, şeriatçıların ayağa kalkması, yaşanan koalisyonlar dönemi ardından büyük bir ekonomik kriz patladı.<br />
+Kriz aşılamayınca, ekonomiyi düzeltmesi için Amerika’dan davet edilen Kemal Derviş, ekonomiyi rayına oturttu ama sonrasında bana göre, koalisyon partilerini yok eden erken seçim çağrısı ile siyasi bir darbe yaptı.<br />
+FETÖ ÜYELİĞİ İLE SUÇLANMA KORKUSU<br />
+Bu siyasi darbe sonrası gidilen erken seçimde yeni kurulmuş AKP, tek başına iktidar olurken, koalisyonun ortakları başta erken seçim isteyen MHP olmak üzere DSP ve ANAP baraj altında kalarak TBMM’ ne giremedi.<br />
+İlk yıllarında önemli değişikliklerle beğeni toplayan AKP’nin ilerleyen dönemlerinde Türkiye bu kez de şeriatçı Fetullah Gülen’in liderliğini yaptığı devletin içinde yuvalanmış FETÖ Örgütü ile tanıştı.<br />
+AKP’ nin iktidar olmasından bir süre sonra bu örgütün yapmayı düşlediği planın ne kadar tehlikeli olduğu ortaya çıkmıştı.<br />
+Türk ordusunun üst kademesi düzmece kaset ve ihbarlarla görevlerinden alınırken yerleri, Fetulahçı subaylarla dolduruldu.<br />
+Ne var ki, başta muhalefet olmak üzere çok sayıda düşünür ve sivil toplum kuruluşunun iktidarı uyarmasına rağmen, İktidarın tam tersine kendi yapmak istediklerini gerçekleştirebilmek için Fetullah Gülen ile iş birliğini sürdürmesi, Türkiye’yi 15 Temmuz 2016 da bir kez daha darbe ile karşı karşıya getirdi.<br />
+Askeri darbelerden çok daha tehlikeli ve rejimi değiştirmeyi hedefleyen bu darbenin önlenmesi ile başlayan Fetö üyelerine yönelik temizlik hareketi, ülkemizde yeni bir korku dönemini başlattı.<br />
+Bu örgüte hizmet edenlerin gereken cezaları alması ne kadar doğru ve haklıysa, son döneme kadar devletin onayı ile açılmış okullarında okumuş ve dershanelerine devam etmiş veya bu okullarda öğretmenlik yapmış olanlarla, emir komuta zinciri altında askerlik hizmeti yapan erlerin ve askeri öğrencilerin de çok büyük cezalara çarptırılmasının, inandırıcı bir açıklaması olamaz.<br />
+Gözüken o ki, bu dönemin de korkutma aracı “Fetö üyesi olmakla suçlanmak” olarak Cumhuriyet tarihimize geçecektir.<br />
+SONUÇ;<br />
+Bu yazdıklarım da göstermektedir ki, ülkemiz Mustafa Kemal Atatürk’ten sonra ki 80 yıl da bu kadar büyük olumsuzluklar yaşamışsa, bunun bir de sorumlusu veya sorumluları olmalıdır.<br />
+Bu sorunun cevaplarını aramayı da gelecek hafta ki yazıma bırakarak, güzel bir hafta geçirmenizi diliyorum. 27. 05. 2018<br />
+Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0916-sayin-kayyim-heyeti-lutfen-aciklayiniz.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0918-ulkemiz-yonetilirken-korkutma-yontemi-neden.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

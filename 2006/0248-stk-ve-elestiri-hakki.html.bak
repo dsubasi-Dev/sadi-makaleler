@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>STK ve Eleştiri Hakkı</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+STK ve Eleştiri Hakkı
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2006
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0248
+
+</div>
+
+
+<div class="article-content">
+
+<p>SİVİL TOPLUM KURULUŞLARI VE ELEŞTRİ HAKKI..</p>
+<p>Karadeniz insanı genel olarak çok konuşmayan,  hak arama ve sorgulama görevini hemen, hemen hiç kullanmayan bir yapıya sahiptir. Bunun doğal sonucu olarak da, bir çok  konuda en çok göz ardı edilen Karadeniz Bölgesi olmuştur. Karadenizli devletine her zaman sahip çıkmış ve hiçbir zaman sorun çıkartmamıştır. Türkiye’nin diğer bölgelerini gezenlerin de açıkça gördüğü bir gerçek  hala Ülkenin en kötü karayollarının  bu bölgede oluşudur. Bölgeyi Ankara’ya bağlayan Samsun Ankara karayolu bile diğer bölgelere bakınca iç sızlatmaktadır. Bu, sadece bir örnektir. Tütün ile başlayan ve fındıkla noktalanan olumsuzluklar ve bölge halkına yapılabilen dayatmalar bu suskunluğun sonucudur. Kent olarak incelendiğinde de, bölgenin en önemli ve en büyük şansa sahip ili olmasına rağmen en çok kayba uğrayan kenti de Samsun’dur.<br />
+Bunlara değinerek yazıya girmemin nedeni, geçen  hafta içersinde sivil toplum kuruluşlarını fazla eleştiri yaptıkları için suçlayan ve yaptıkları eleştirileri acımasız bulan köşe yazıları ile bunun  tam tersine bu kuruluşları sesleri çıkmadığı için suçlayan köşe yazılarının yerel basın da yer almasıdır. Bu kentin yerel gazetelerinde, neredeyse tüm olumsuzlukların faturası sivil toplum kuruluşlarına çıkartılıyorsa bu işte bir yanlışlık var demektedir. Kentin eksiklerini ve daha iyiye gitmesi için yapılması gerekenleri gündeme taşıyanlar, amacını aşan ifadelerle suçlandı, hatta bu kenti terk etmeleri çağrısı yapıldı. Kimlerin hedeflendiği açıkça belirtilmeden genelleme yapılması da üzücüdür.<br />
+Öncelikle saygı kuralları içersinde yapılacak her türlü eleştirinin herkesin en doğal hakkı olduğuna inandığımı belirtmek istiyorum. Ayrıca bu tür eleştirilerin, sivil toplum kuruluşlarını yönetenler açısından yararlı<br />
+olduğunu da biliyorum. Ancak, bazı doğruların altı çizilmelidir. Toplumun sorunlarını gündeme taşıyanlar  bunu hangi amaçlarla yapıyorlar? Bu çok önemlidir. Bu kent son 30 yılda her konuda küme düşmüşse bunun birinci sorumlusu, bu kente yaşayan insanlardır. Yaşadığı kentin eksiklerini ve bu kentin her geçen gün bir şeylerinin başka taraflara götürüldüğünü göremeyen, bu konuda kent yöneticilerini ve seçtiği vekillerini zamanın da sorgulamayan bir toplumun karşılaşacağı kaçınılmaz sonuç, tabii ki bu olacaktı.<br />
+Son yıllarda sivil toplum kuruluşları bilinçlendi ve toplum adına, henüz yeterli düzeyde olmasa bile, yanlışların üzerine gitmeye başladı. Görevleri toplumun ve kentin sorunlarını gündeme taşımak ve sorumluluk verdiklerinin bunları ne derece yapabildiğini izlemektir. Eğer bu noktada birleşiyorsak şu soruları sorabiliriz. Yapılan eleştiriler yol gösterici ve uyarcı mı? Yoksa sadece yıpratmak amacını mı taşıyor? Birincisi doğru olarak kabul göreceğine göre, yapılan yanlışların ve eksikliklerin gündeme taşınmasından normal bir şey olmamalıdır. Bunların söylenmesi, iyi şeylerin de olmadığı anlamına  gelmez. Her insan yaşadığı kentin en güzel ve yaşanabilir kent olmasını, her geçen gün mevcut eksiklerinin azalmasını ister. Sesi çıkan ve hak aramasını bilen toplumlar, çağdaş olmayı da hak ederler. Keşke bu kentte konuşan, eleştiren ve sorgulayan daha çok insan olsaydı. Eleştiriyi sevmeyenler, yeteneksiz ve yetersizliğinin ortaya çıkmasından korkan, yeterli olgunluğa erişmemiş insanlardır. Eleştiriyi göğüslemek ve ondan ders çıkartmak insanı doğrulara götürür.<br />
+Yukarda söz ettiğim ikinci eleştiri şekli, belli amaçlarla ve sadece yıkıcı yönde yapılanların üzerinde konuşmaya gerek dahi görmüyorum. Ama toplum adına eleştiri yapanları eleştirenlerin de, kimi neden eleştirdiğini açıkça belirtmesi gerekir. Bu gün,  Samsun da bazı yanlışların önü kesiliyor veya kesilmeye çalışılıyorsa bundan kimse rahatsız olmamalıdır. Ayırım yapmadan, kasıtlı davrananları açıklamadan, eleştiri hakkını kullananları yargılamak ve daha da ileri giderek bu kentti terk etmeye davet etmek kimsenin haddine değildir. O zaman adama  “bu güne kadar neredeydiniz, sesiniz neden çıkmıyordu”  diye sorarlar? Eğer istenen, sadece iyileri öne çıkartarak birilerine yaranmaksa, bunu yapan her dönem de yeterince olmuştur. Kent adına hiçbir şey üretmeyen ve gündeme gelen bir konuda, sadece gösteri amaçlı öne çıkanları alkışlamak da bu kente yarar getirmez. Bu konularda söz söyleyeceklerin en az o insanlar kadar taşın altına elinin sokması gerekirdi. Bu kentin suskunluğundan yakınılırken, sessizliğe özendirmek ve birilerinin keyfinin kaçmasını önlemeye çalışmak bu kentin yararına değildir. Ayrıca bu işi kendine görev edinmiş şakşakçıların bu kentte bolca bulunduğu gerçeği ortada dururken. Birlikteliğe ve cesur atılımlara ihtiyacımız olan bir dönemde herkesin konuşurken ve yazarken çok daha özenli olması gerekir.<br />
+Bu kentte olmaktan mutluluk duyan, kentine sahip çıkarak Samsunlu  olmakla gurur duyanların ve kentin çıkarları adına tavır sergileyenlerin, en güzel şartlarda bu kentte yaşaması , bazılarından daha çok hakkıdır diye düşünüyorum. Sağlıklı ve güzellikler dolu bir hafta dileğiyle..<br />
+20-Ağustos-2006<br />
+SADİ  SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0247-aydin-kim.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0249-samsunspor-da-neler-oluyor.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

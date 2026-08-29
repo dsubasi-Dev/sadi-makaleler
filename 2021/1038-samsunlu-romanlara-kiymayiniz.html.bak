@@ -1,0 +1,323 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Samsunlu Romanlara Kıymayınız.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Samsunlu Romanlara Kıymayınız.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2021
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+1038
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>SAMSUNLU ROMANLARA KIYMAYINIZ.</p>
+<p>Samsun’da son günlerin bence en önemli sorunu, soğuk kış günlerinin yaklaştığı şu günlerde, Samsunlu Romanların bir banka tebligatı ile evlerini boşaltmaya mahkûm edilmesidir. Bunun anlamı, Romanların sokağa atılmasıdır.<br />
+Bunu vicdanı olan hiçbir Samsunlu kabul etmez.<br />
+Romanlar, bu kentin ekonomik olarak büyük bir yaşam mücadelesi vermesine rağmen, en kanaatkâr, en dürüst ve içlerinden tek bir dilenci çıkmamış, çoğu namazında, niyazında insanlarıdır.<br />
+Köşe yazısı yazmaya başladığım 2000 yılından bu yana, Romanların sorunları ile çok sayıda yazdım.<br />
+Üzülerek söylemek gerekirse, Romanlar bu kente ve devletine hiç sorun yaratmamış olmalarına rağmen, hep yalnız bırakılmıştır.<br />
+Bu insanların erkeklerinin bir kısmı boyacılık ve algumculuk gibi işler yaparak evlerine ekmek götürme çabasında olan insanladır. Çok az sayıda Roman ise, belediyeler ile bazı kurumlarda ve özel firmalarda iş bulabilmektedir.<br />
+Eşleri ise, hemen hepimizin evlerinde temizlik yaparak evlerini geçindirmeye çalışırlar. Bugüne kadar evlerde tek bir hırsızlık veya benzeri yanlışları duyulmamıştır.<br />
+Önceki yıllarda cezaevi müdürü ile konuştuğumda, cezaevinde sayısı üç beşi geçmeyen Roman suçlu bulunduğunu, hiç birisinin de yüz kızartıcı bir suçtan tutuklu olmadığını öğrenmiştim.<br />
+Roman vatandaşların, şu kış günlerinde sokağa atılması gibi çok korkutucu bir dayatmayla karşı karşıya bırakılmasını, başta Halk Gazetesi ve yazarları olmak üzere yerel basın Samsun gündemine taşıdılar.<br />
+Buna rağmen, şu ana kadar kentimizi yönetenlerden ve milletvekillerimizden bir açıklama gelmemiş olmasını şaşkınlıkla izliyorum.<br />
+Samsun’da 6000 civarında Roman bulunmakta ve bunların bir kısmı Yavuz Selim Mahallesinde ki çok sağlıklı olmayan evlerde yaşamaktadır. Diğer bir kısmı da, beş yıl kadar öncesine kadar 200 Evler denen bir mahallede yaşamaktaydı.<br />
+Şimdi sizlerle Samsun’un dünden bugüne kadar ne çok özelliğini kaybettiğini anlatan, Romanların yaşamı ile ilgili bir hikâyeyi paylaşmak istiyorum.<br />
+Romanlar, 1950’li yıllarda şimdiki Samsunspor tesislerinin bulunduğu sahilde Vita yağı ve peynir tenekelerinin açılması ile elde ettikleri tenekelerden oluşturdukları tek göz gecekondularda yaşarlardı.<br />
+Mert Irmağı kıyısında bulunan Samsun Un Fabrikasında çalışan babam, orada yaşanan drama tanık olduğu için akşam evde anlatırdı.<br />
+Özellikle kış aylarında büyük fırtınalarla kabaran dalgaların bu gecekonduları yıktığını ve bu insanların perişan olduklarını, o günleri yaşayanlar da bilecektir.<br />
+Bir süre sonra deniz kıyısında yaşamayı sürdüremeyen Romanlar, Mert Irmağı kenarına taşınmışlardı. Orada ki yaşamlarının da ne kadar feci olduğunu, o mahalleyi görene kadar ben de bilmiyordum.<br />
+Samsun’da 1988 yılında kurulan ve bugün aktif durumda olan SAM-SEV diye bir vakıf vardı. Bu vakfın amaçlarından birisi de Samsun’un sorunlarını tespit ederek çözümü için çaba harcamaktı.<br />
+SAM-SEV Yönetimi olarak kurulduğunun 2. Yılında bu mahallede ki yaşam ortamını görmek üzere gittiğimizde, büyük bir insanlık dramını görmüş ve Samsun gündemine taşımıştık.<br />
+Mahallede ki 5-6 metrekare tek göz teneke evlerin zemini toprak olduğu için çamur içindeydi. Bu çok küçük bir kulübe de iki katlı ranzalarda 3-4 çocukla yaşadıklarını gördüğümüzde perişan olmuştuk. Çocukların ayaklarında çorap dahi yoktu.<br />
+Bunun üzerine o günlerde Samsun Büyükşehir Belediye Başkanı olan rahmetli Muzaffer Önder’i ziyaret ederek orada ki yaşamı anlatıp kendisinden bu insanlara sahip çıkmasını talep etmiştik.<br />
+Son derece insani duygulara sahip bir kişiliğe sahip olan rahmetli Muzaffer Önder, çok kısa bir süre sonra bugün Canik’te bulunan Koçtaş’ın yan tarafında 200 tane tek katlı ev yaparak oluşturduğu mahalleye, bu insanları yerleştirmişti.<br />
+Bu insanlardan o gün yaşadıkları mutluluğu unutamam. Kendilerinden hiçbir para talep etmeden onlara sağlıklı yaşam ortamı yaratan Muzaffer Önder’i rahmetle ve saygıyla anıyorum.<br />
+Samsun’un böyle güzellikleri yaşadığı o günlerden sonra bugünlerde yaşadığımız tartışmalı yaptırımlarla insanların hak ve hukukunun dahi göz ardı edildiği, her türlü uzlaşmacı ve çözümcü anlayıştan uzak yönetimlere tanık olmak gerçekten çok üzücü.<br />
+İşte bu mahallede çok mutlu bir şekilde yaşamlarını sürdüren bu insanların mutluluğu, 12-13 yıl kadar önce bitirildi.<br />
+Ankara Ordu bağlantısını sağlayan Çevre Yolu yapımı sırasında, 200 Evler Mahallesinin kaldırılarak Romanlar, TOKİ’ nin yaptığı çok katlı apartmanlara taşınmak zorunda bırakıldı.<br />
+O tarihte Romanlar biz apartmanlarda yaşayamayız diyerek tepki gösterdiler ama bu garip ve sahipsiz insanları dinleyen olmadı ve onları bu apartmanlara taşınmak zorunda bıraktılar.<br />
+Romanların dramı bununla da kalmadı ve bir süre sonra Romanlara TOKİ tarafından bazı belgeler imzalatılmak istendiği duyuldu.<br />
+Benim eczanemin çevresin de uzun yıllardır boyacılık ve algunculuk yapan Romanlar, benden de yardım istemişlerdi. Kendilerine bir hukukçudan destek almadan imzalamayın demiştim ama bu insanlar evlerine ekmeği zor götüren insanlardı ve bir avukat tutmaları da mümkün değildi.<br />
+Ancak adını hatırlamadığım Ankara bağlantılı bir kadın avukatın, Romanlara bir süre yardımcı olduğunu hatırlıyorum. Ancak sokakta kalmaktan korkan Romanlar, bir şekilde bu belgeleri imzalamak zorunda kalmıştı.<br />
+İşte o Romanlardan, şimdi 15 gün içinde faizi ile birlikte yüzbinlerce TL. nı ödemedikleri takdirde, evlerini boşaltıp anahtarlarını TOKİ’ ye teslim etmeleri istenmiştir.<br />
+Böyle bir yaptırımla bu insanları sokağa atmakla tehdit etmeyi, hangi vicdan kabul eder bilemiyorum.<br />
+1.5 milyon nüfusu olan bir kentte eğer, bu insanlara sahip çıkacak bir siyasetçi ve yönetici yoksa hepimize yazıklar olsun. Yazıklar olsun…<br />
+Ne yazık ki, dünya dönüyor ve yaşam sürüyor. İçim yanarak, bu insanlara bir elin uzatılacağını umarak, iyi haberler duyacağımız bir hafta diliyorum.<br />
+29.11.2021<br />
+SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="1037-turkiye-egitim-modelini-mutlaka-yenilemelidir.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="1039-ah-dis-gucler-ah-siz-neymissiniz.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

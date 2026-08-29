@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Samsun&#x27;da Sanatsal Zenginlikler…</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Samsun&#x27;da Sanatsal Zenginlikler…
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2007
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0331
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>SAMSUN’DA SANATSAL ZENGİNLİKLER..</p>
+<p>Samsun çoğu konuda diğer illerin gerisinde kalırken, sanatsal açıdan tam tersine birçok ilin önünde gelmektedir. Samsun tarihi incelendiğinde bu sanatsal gücün geçmişinden geldiği çok iyi anlaşılacaktır. 1950 öncesi Samsun’da tiyatro ve insanların özel kıyafetlerle gittiği müzikli salonları olduğu bilinmektedir.<br />
+Samsun özellikle Türk Sanat Müziği ile Türk Halk Müziği konusunda çok önemli isimleri Türk sanat dünyasına armağan etmiştir. Türk Sanat Müziği alanında Samsun Musiki Cemiyeti ile başlayan koro çalışmaları günümüzde öylesine ilgi görmeye başlamıştır ki, birçok kuruluş kendi özel korolarını kurmuştur. 1970’li yıllarda Taner Çağlayan ile Av. Oktay Akcan’ın öncülüğünde kurulan Samsun Musiki Cemiyetinden yetişen onlarca gencimiz TRT sınavların da başarılı olarak TRT sanatçısı unvanını kazanmıştır. Daha sonra ki yıllarda şef Cavit Ersoy’un yönetiminde konservatuar olarak çalışmalar sürdürülmüştür. TRT FM ve TRT 4 ü takip edenler hemen her programda bir Samsunlu sanatçıyı dinleme veya bir bestekârın adını duyma şansını bulabilmektedir.<br />
+Popüler Türk Müziği dalında Türkiye’nin en büyük ismi olan Orhan Gencebay’da Türk sanat dünyasında bir Samsunlu olarak yerini almıştır.<br />
+Türk Halk Müziği dalında da çok önemli isimler yıllardır tüm Türkiye tarafından dinlenmektedir. Geçtiğimiz aylarda kaybettiğimiz Yıldıray Çınar “ ÇARŞAMBAYI SEL ALDI “ türküsünü Türkiye’ye sevdirmiştir.<br />
+1970’li yıllarda eski nikâh salonunun bulunduğu binada oda tiyatrosu olarak çalışmalarına başlayan bir avuç tiyatro sevdalısı, daha sonra Gazi Müzesi’nin alt katında ki salonda oyunlarını sürdürmüştür. Bu konuda büyük emek harcayan rahmetli Ragıp Erden’i unutmak mümkün değil. Günümüzün en tanınmış tiyatro sanatçılarından Levent Kırca, Ferhan Şensoy’un da Samsunlu olduğunu biliyoruz. Ancak Samsun oda tiyatrosunda yetişen ilkokul arkadaşım “Çocuklar duymasın” dizisinin dedesi Sevgili Ferdi Akarnur’u da anmadan geçemeyeceğim.  Bugün sayısı artan tiyatro grupları “GAZİ SAHNESİNDE” Samsunlulara çok güzel oyunlar sunmaktadır. Bu bir avuç fedakâr ve cefakâr tiyatro sevdalısına kent olarak yeterli desteği verebildiğimizi sanmıyorum. Haftanın hemen her günü bir grup oyun sunmaktadır. Samsunluların oyunları izleyerek verecekleri destekle sanatçılarımızı yüreklendirmeleri gereklidir.<br />
+Açıkçası bende bu konuda kendi özeleştirimi yapıyor ve yeterli desteği veremediğimi söylüyorum. Geçen hafta AKM’ de Samsun Sanat Tiyatrosunun sergilediği “ ŞU ÇILGIN TÜRKLER” oyununu izledim. Turgut Özakman’ın çok popüler olan ve okuyucu rekorları kıran aynı isimli romanından yararlanılarak hazırlanan oyun tek kelime ile harikaydı. Yaşar Gündem öncülüğünde aylardır hazırlıkları süren oyun, Kurtuluş Savaşı’nın hangi koşullarda kazanıldığını bir kez daha gözler önüne sermiştir. Oyuncular rollerini mükemmel oynuyordu. Bu oyunu Samsunluların mutlaka izlemesini öneriyorum. Oyunun birçok il ve ilçede sergileniyor olması dahi, oyunun ne kadar ilgi gördüğünün bir göstergesidir. Böylesine anlamlı ve bir o kadar da oynanması zor bir oyunu sahneye koydukları ve bizlere o günleri tekrar yaşattıkları için teşekkür ediyor ve kendilerini kutluyorum.<br />
+Sanatsal ruhu çok zengin bir kentte yaşıyoruz. Değerlerimizin kıymetini bilmeli ve onlara gerekli desteği vermeliyiz. İnsanımız kendi müziğini seviyor. Cumartesi akşamı çok değerli bir dostumuzun çocuklarının mutluluklarına ortak olduk. Çok seçkin bir davetlinin katıldığı düğün sırasında bir şey dikkatimi çekti. Genç çiftin arkadaşları da çifti yalnız bırakmamıştı. Her çeşit dans müziği çalındı. Gençler en son dansları oynadılar. Bizim kuşak daha çok ağır danslarda pistteydiler. Ama düğünler bir gerçeği ortaya koyuyor. Ne kadar gençte olsalar ve son moda dansları ne kadar güzel oynasalar da, kendi öz müziğimiz eşliğinde oyun havaları çaldığında piste gelen hareketlilik bir başka oluyor. Halaysız, horonsuz olmuyor. Pisteki yaş ortalaması da hemen yükseliyor ve kuşaklar arası fark kalkıyor, kuşaklar kaynaşıyor. Dün gece artık Samsun için milli marş sayılan “Çarşamba’yı sel aldı” çalmaya başlayınca oynayan oynamayan tüm salon coştu. Bu ortak coşkuyu çok iyi anlamamız ve kıymetini bilmemiz lazım.<br />
+Çok konuda diğer illerin arkasında kalan Samsun’un sanatsal konularda o illerin çoğunun önünde olduğu da bir gerçek. İyi haftalar..<br />
+23 ARALIK 2007<br />
+SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0330-taraftar-olmanin-siniri.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0332-samsunlu-kime-guveniyor-neden.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

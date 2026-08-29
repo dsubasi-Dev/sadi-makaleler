@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Samsunspor&#x27;da Güzel Şeyler Oluyor</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Samsunspor&#x27;da Güzel Şeyler Oluyor
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2004
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0116
+
+</div>
+
+
+<div class="article-content">
+
+<p>a_mail: sadisubasi@ttnet. net. tr</p>
+<p>SAMSUNSPOR'DA GÜZEL ŞEYLER OLUYOR</p>
+<p>Son yıllarda Samsunspor'da belirgin şekilde öne çıkan futbolda çağdaş anlayış meyvalarını vermeye başladı. Futbolcu yetiştirmek üzere alt yapıya verilen önem, tesis konusundada son dönemlerde hız kazanmıştır. Federasyonlada ikili ilşkilerin iyi kurulması sonucu Samsulu gençlere çim sahalarda yetişme şansı giderek artrılıyor. Bu konuda başından itibaren ciddi ve kararlı bir tutum segileyen sayın İsmail Uyanık ve yönetimini kutlamak gerekir. Gözüken o ki bu dönem başkanın yanında yer alan yöneticilerin çabası ve özverisi  başarıda önemli rol oynuyor. Günümüzde futbol öylesine akıl almaz rakamların konuşulduğu bir sektör haline geldiki, süper ligde bir takımı yaşatabilmek her kentin harcı değil. Ancak futbol kentlerin gerek ekonomisi ve gerekse tanıtımı için öylesine önem kazandı ki, artık takımı süper ligden (1. lig) düşen kentlerde 1. ligden düşmüş kabul ediliyor. İşin psikolojik çöküntüsüde ayrı bir konu. Geçmişte adı asansör takıma çıkmış Samsunspor artık bu stresten uzak , hatta avrupa'yı hedefler konuma geldi. Bence bu başarının altında yatan en büyük neden yıllardır Samsunspor'un alt yapıdan yetiştirip kadrosuna kattığı Samsun'un kendi çocukları. Bu çocuklar takımın iskeletini oluşturuyor ve profosyonel olmanın yanında Samsunlu olmanın bilinciyle futbol oynuyor , sorumluluk taşıyorlar. Samsunspor yönetimi gerçekleştirdiği bu alt yapı devrimini bu yıl bir basamak daha ileri taşıyarak, yıllardır bu gençleri Samsunspor'a kazandıran kentle özdeşleşmiş, kendi teknik adamlarımızı takımın başına getirdi.<br />
+Yıllar önce Samsunspor'un yaşadığı feci trafik faciası sonrası oluşturulan kadroya ümit milli takımdan gelecek vaadeden pırıl, pırıl bir genç katılıyordu. Geldiği ilk günden itibaren oynadığı futbol ve efendiliği ile Samsunluların bağrına bastığı bu genç kısa sürede başarısını milli takımda ve gittiği BJK dada kanıtlıyordu. Yıllar sonra yetiştiği Samsun' dönerek başarılı futbol yaşamını bir süre daha oynadıktan sonra noktalıyodu. Geçen yıl Samsunspor'da yardımcı antröner olarak teknik adamlığa başlayan bu genç hepimizin sevgilisi ERTUĞRUL'du. Sezonun başında İsmail Uyanık ve yönetimi Ertuğrul'u çok doğru bir kararla teknik direkıör olarak takımın başına getirdi. Şu sıralar büyük bir özveri ile yeni oyuncuların Samsunspor'a alınması için çaba harcıyor. Son günlerde yapılan doğru işlere bir yenisi eklendi. Eski futbolcumuz, alt yapıda görev yapan İsa Turan'da Ertuğrul'un  yardımcılığına getirildi. Her takıma gerekli tipte inatçı futbolu ile hatırladığımız İsa'da inanıyorum ki çok yararlı olacaktır. Geçen yıl göreve başlamış olan Mutlu'nun da yer aldığı bu üçlünün çok başarılı olacağına inanıyorum. Bugün öğrendiğime göre eski kaptanlarımızdan ve hocamız Yücel'de alt yapıda görev almış. Bunlar her Samsunluyu mutlu edecek ve umutlandıracak gelişmelerdir. Yeterki taraftar olarak onlara güvenelim ve inanalım. İyi transferler yapıldı. Ellerinde deneyimli ve genç bir kadro var. Kent olarak onlara sahip çıkarsak başarı kaçınılmaz olacaktır. Yeterki başlangıçta şans onlara biraz yardım etsin . Alınacak iyi bir kaç sonuç hem onları hemde taraftarı ve oyuncularmızı olumlu yönde motive edecektir. Ben bütün kalbimle başarılı olacaklarına inanıyorum ve başarıları için dua ediyorum. Alt yapıdan gencecik  oyuncuları takıma katma başarısını gösteren Samsunspor , kendi teknik adamlarının başarılarınıda yakında alkışlayacaktır.<br />
+Yukarıdada söylediğim gibi rakamlar iyi kazanan insanların dahi düşünemeyecekleri boyutlara ulaştı. Samsunspor'u çok iyi konuma getiren sevgili başkan İsmail Uyanık ve arkadaşlarına taraftar olarak hiç olmazsa gücümüzün yettiği oranda destek olmalıyız. Kombinelerin satışa sunulduğu bu günlerde bu biletleri kısa sürede bitirmeliyiz. Tribünleri doldurmalıyız. Bence bunun maddi destekten çok hem takıma , hemde yönetime büyük moral katkısı olacaktır. Yeni sezonda Samsunspor camiasına başarılar  dilerken böylesine onurlu ve sorumlu görev yüklenen sevgili Ertuğrul ve İsa'yıda kutluyorum. Tüm Samsunsporlulara selamlar ve sevgiler..</p>
+<p>SADİ  SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0115-ab-sevdasi-ve-yasanan-carpikliklar.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0117-uretimi-terk-eden-turkiye-nereye-kosuyor.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

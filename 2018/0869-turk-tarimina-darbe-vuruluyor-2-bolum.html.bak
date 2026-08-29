@@ -1,0 +1,332 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Türk Tarımına Darbe Vuruluyor.2. Bölüm</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Türk Tarımına Darbe Vuruluyor.2. Bölüm
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2018
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0869
+
+</div>
+
+
+<div class="article-content">
+
+<p>e-posta; sadisubasi@denizoptik. com                            SUNUŞ</p>
+<p>TÜRK TARIMINA DARBE VURULUYOR<br />
+2. BÖLÜM</p>
+<p>Yazımın 1. Bölümünde Türk tarımının son yıllarda büyük bir darbe yediğini ve bitme noktasına geldiğini özetlemiştim.<br />
+Bugün 2. Bölümde bizim de büyük gıda yardımları yaptığımız Somali’nin bu büyük açlık dramını neden yaşamakta olduğunun hikayesini “Bilge Adamlar Araştırma Merkezi’nin” Hazırladığı “Somali’de ki Kıtlığın Nedenleri Raporunu” Özetleyerek paylaşıyorum.<br />
+Evet, geçmiş yıllarında Afrika’nın çok önemli tarım üreticisi konumunda ki Somali, bugün açlıkla yaşam mücadelesi veriyor.<br />
+Somali’nin geçmişte yaptığı yanlışlar sonrası bugün içine düştüğü trajik durum, Türk tarımında uygulanan politikalar açısından da ders alınacak bir uyarı olmalıdır.</p>
+<p>RAPOR:<br />
+Yeryüzünde birçok noktada yıllık yağış miktarlarında dalgalanma gözlemlenmektedir. Ancak Afrika Boynuzu olarak tanımlanan bölgenin, dünyanın ve kıtanın diğer bölgelerine nazaran daha sık kuraklık ve kıtlık yaşaması sosyal meseleler üzerine düşünen insanları farklı sorular sormaya yönlendirmektedir.<br />
+Nasıl oldu da 1970’lerde gıda üretiminde kendi kendine yeterli olan Somali son yıllarda kuraklıklara ve kıtlıklara maruz kaldı? Yaşamakta olduğumuz bu insanlık dramı sadece bir doğal afetin ortaya çıkardığı bir durum mudur? Batılı ülkeler, yaşanan bu insanlık dramına karşı birkaç aylık gıda yardımı göndermekten başka bir şey yapacak mıdır?<br />
+Milyonlarca insanın yaşam mücadelesi verdiği bu kıtlığın birincil sebebi olarak ilk planda bahar yağmurlarının azalması gösterilmektedir. Ancak bu tür bir sebep-sonuç ilişkisi yüzeysel bir izah olacak ve yaşananları tam anlamıyla bizlere anlatamayacaktır.<br />
+Doğa koşullarının etkisini gözardı etmemekle birlikte Afrika Boynuzunda son yıllarda sıklıkla karşılaşılan kuraklık ve kıtlıkların sebebi öncelikle ülkede devam eden iç savaştır. Yirmi yıldır devam eden iç karışıklığın ortaya çıkmasındaki en büyük etmen ise, 1980’li yıllarda uygulanan IMF reçeteleri, Soğuk Savaş dönemi ABD-SSCB rekabeti ve sömürgecilik zamanında uygulanan politikalardır.<br />
+İkinci Dünya Savaşı sonrasında sömürgelerin bağımsızlıklarını kazandıkları sırada Somali’de 1960 yılında bağımsızlığını kazanır. İlk on yılı barış içinde ve kısmen de olsa demokrasi ile geçen ülkede 1969 da kansız bir askeri darbe sonrası Somali’de tek parti rejimi başlar.<br />
+İdeolojik olarak sosyalizmi benimseyen Somali, Sovyetler Birliği ile yakınlık kurar. Daha sonra Sovyetlerin desteklediği komşusu Etopya ile yaptığı savaşı kaybeden Somali Sovyetler Birliği ile ilişkilerini keser ve Amerika ile yakınlaşmaya başlar.<br />
+Amerika ve Batının Soğuk Savaş sonrası demokrasiye geçen ülkelere uyguladıkları paket program 1970’ lerin sonunda Somali’ye de uygulanır. Batılı ülkelerden maddi yardım almak zorunda kalan Somali, yardım ile birlikte gelen şartları da kabul etmek zorunda kalır.<br />
+Ne var ki, İlk başlarda çok partili sisteme geçmeyen Somali’nin, ekonomik sistemini batıya uyarlamak ve bunu da IMF ile gerçekleştirmekten başka seçeneği kalmaz.<br />
+IMF Sonrası Somali:<br />
+Bir ülkenin ekonomik sistemini sil baştan kurmak isteyen IMF yöneticilerinin Somali’ye sundukları şartlar, ülke tarımını olumsuz yönde etkileyecektir. İşe kamu harcamalarını düzenleyerek başlayan IMF, hükümetten tarım alanındaki harcamalarını kesmesini ister. Çünkü Somali sanayi ülkesi olmalıdır ve bunun gerçekleşmesi için de tarım sektörüne devlet yardım etmemelidir.<br />
+Sonuçta 1980 lerin ortalarında Somali’nin tarım sektörüne yaptığı harcamalar 1970 lere nazaran %85 azalır. Soğuk Savaşın gergin atmosferinde kendilerine yaklaşan Somali’ye batılı ülkeler yardım göndermekte gecikmez.<br />
+Ancak bu yardım teknolojik değil daha çok gıda yardımı şeklinde olur. Batılı ülkelerin yaptıkları gıda yardımlarının ülke pazarına girmesi ve kamu harcamalarının kesilmesi nedeniyle zaten zor durumda kalmış Somalili çiftçilerin rekabet gücünü düşürür.<br />
+Özellikle Amerika başta olmak üzere, kendi tarım sektörünü sübvanse eden batılı devletler, iç piyasalarından aldıkları tahıl ürünlerini yardım olarak Somali pazarına sürerken bu ülkenin tarım sektörünü öldürüyorlardı.<br />
+İşte bu tür politikalar yüzünden 1970’lerde kendi iç gıda ihtiyacını kendisi karşılayan, yani kendi kendine yeterli olan Somali, yurtdışından gıda ithal eden bir ülke olmuştur.<br />
+Kısacası bu rapora göre, aslında tarım yapılamadığı için değil, tarım yaptırılmadığı için Somali’de gıda üretimi sağlanamamış durumdadır. Yoksa normal şartlarda bir bahar yağmurlarındaki düşüş gıda üretimini düşürse de bu derece ciddi bir sorun olarak karşımıza çıkmazdı.<br />
+IMF politikalarının sonucu olarak tarım alanında yaşanan geriye gidiş diğer alanlarda da yaşanmaya başlar. Son yıllarda takip edilen politikalar yüzünden gıda ithal etmek zorunda kalan Somali, ulusal para biriminin değer kaybetmesi sonucu gıda ithalatında zorlanmaya ve bunun sonucu olarak daha fazla borçlanmaya başlar.<br />
+Bu arada yapılan devalüasyon sonrası Somali parasının değer kaybetmesinin Somali’de en çok hayvancılıkla uğraşanları olumsuz etkiler. Oysa, o zamana kadar hayvancılık ve hayvan ihracı Somali’nin en önemli gelir kaynağı ve ihraç kalemidir.<br />
+Bu sırada Somali‘nin hayvan ihracatında bir numaralı müşterisi olan Suudi Arabistan’da, nedense 1983 Haziran ayında aldığı bir kararla artık hayvan ithalatını Somali’den değil Avustralya’dan yapacağını duyurur.<br />
+Bu arada Somali çiftçilerine tarım yaptırılmadığı için boş kalan tarıma elverişli topraklara da batı ülkeleri kendi topraklarında kuramadıkları kirli sanayi tesislerini (Termik santralleri, çevresine zehirli atıklar bırakan kimya tesisleri) Taşımaya başlar. Yirmi yıl sonra artık o bereketli topraklar yerini kirletilmiş ve tarım yapma özelliğini kaybetmiş arazilere bırakmıştır.<br />
+Ekonomisi giderek kötüleşen Somali’de iktidar, iç huzurun da bozulmaya başlamasıyla oluşan muhalefeti sindirmek için şiddete de başvurur. Tek parti iktidarına karşı gelen gruplara yönelik son derece sert bir politika uygulanmaya başlar.<br />
+Sonra ki yıllarda ülke içi çatışmalar artar ve Hükümet batılı ülkelerden farklı amaçlarla aldığı yardım paralarını aldığı yardım paralarını silaha yatırmaya başlar. Buna rağmen batılı ülkelerden Somali’ye gıda ve silah yardımı hiç aksamadan sürer.<br />
+Yani batılı devletler yaptıkları yardım ile bir diktatörü ve diktatörlüğü desteklerken, bir halkın da mahvoluşuna yardım etmiş olmaktadırlar.<br />
+Yukarıda kısaca anlatmaya çalışılan Somali’nin 1980’ li yıllardaki durumu hükümetin halkın gözünde ki gücünü neredeyse tamamen kaybetmesine yol açmıştır.   Kuraklık ve kıtlık bir yerin coğrafi koşulları ile doğrudan ilintilidir. Doğal bir afet olan kuraklık, tıpkı deprem gibi, önceden tahmin edilemez ve kaçınılmazdır.<br />
+Yaşanmakta olan kuraklık ve kıtlık aslında Dünya Bankası ve IMF’ nin insani yardım anlayışının ve yapısal uyum stratejisinin iflas ettiğini gözler önüne sermektedir.<br />
+SONUÇ:<br />
+En doğru tespiti, Somali’de ki gelişmeleri en yakından izleyen Birleşmiş Milletler eski Genel sekreteri Boutros Ghali 18 yıl önce şu sözlerle açıklamıştır.<br />
+Somali’ de gıdadan çok silah var. Bu silahlar Somalililer tarafından üretilmedi. Onlara dış güçler tarafından, dış güçlerin çıkarlarına hizmet etmeleri için verildi. Bu silahları tedarik edenler, bugün işlenen suçların da ortaklarıdırlar.<br />
+Bugün bizim de tarıma elverişli topraklarımızın çoğunda tarım yapılmadığı için boş durmaktadır. Nitekim en önemli alüvyon ovalarından birisi Çarşamba Ovamızın termik santrallerle kirletiliyor oluşu, kötü bir örnek olarak bu endişeleri akla getirmektedir.<br />
+Umarım, ülkemizde de aynı yanlışlar nedeniyle tarım üretimimize sınırlamalar getirilmemektedir.<br />
+Güzel ve şehit haberleri almayacağımız sorunsuz geçecek bir hafta dileğiyle. 03.07.2017</p>
+<p>Ecz. SADİ SUBAŞI<br />
+SAMSUNLULAR, LÜTFEN! UNUTMAYINIZ.<br />
+AY SONUNDA HAVA ALANIMIZ ONARIM İÇİN KAPATILACAK.<br />
+Uzun yıllardır bilinmesine rağmen gündeme dahi alınmayan bu alanın kapatılarak onarılacak olması düşündürücüdür.<br />
+Böylece acil bir neden olmadığının ortaya çıkması ile kapatmanın asıl nedenin, bunlar olmadığı kuşkuları artmaktadır.<br />
+Bu, açıkça Samsun’a yapılan yeni bir dayatmadır.<br />
+Soru şu; Neden bu dayatmaya sessiz kalınıyor?<br />
+NEDEN? NEDEN? NEDEN?</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0865-ben-demistim.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0875-samsunspor-un-en-onemli-sorunu-kurumsallasamamasidir.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Bu Kez Güç Birliği Yapalım</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Bu Kez Güç Birliği Yapalım
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2005
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0165
+
+</div>
+
+
+<div class="article-content">
+
+<p>a-mail: sadisubasi@denizeczaneoptik. com                                             SUNUŞ</p>
+<p>BU KEZ GÜÇ BİRLİĞİ YAPALIM</p>
+<p>Geçtiğimiz haftanın Samsun açısından en önemli gündem maddesi, bir Kore firmasının Türkiye’de yapacağı yatırım için sahile kıyısı olan bir ilde yer aradığı haberiydi. Haberin kaynağı bir bakan olunca işin ciddiyeti anlaşılıyordu. Haberi Samsun gündemine Ticaret Borsası Başkanı sayın Yusuf Özer taşımıştı. Aranan yerin sahilde olması isteği, Samsunluları bir anda umutlandırmıştı. Geçmişte TOYOTO firmasının da Türkiye’de yer aradığı haberleri çıkınca, SAM-SEV olarak dönemin valisi ve milletvekilleri ile temas kurulmuş ancak her zaman olduğu gibi adı geçen firma yine İstanbul civarında bir yeri tercih etmiş ve Adapazarı bu yatırımı kapmıştı.1500 işci çalıştıracağı açıklanan firma KİA Otomotiv firmasıydı. Neden bu kez Samsun olmasındı? işte bu noktada yerel basın bu konuda gereken kamuoyunu yaratmış ve sivil toplum kuruluşlarıda destek verdiklerini açıklamıştı. Gerçektende gerek ulaşım ve gerekse yan sanayii açısından Samsun çok uygun gözüküyor. Ancak Karadeniz Bölgesinin Trakya ve Marmara havzasına göre şansı her zaman az olmuştur. O nedenle bu kez çok iyi koordine olmalı ve planlı hareket ederek şansımızı zorlamalıyız. Gerçektende bölgemizdeki işsiz sayısının çokluğu, enerji sorunun bulunmaması, uluslar arası havaalanına sahip oluşumuz, deniz yolu ile yapılan ro-ro taşımacılığında Samsun’un öne çıkması artılarımız olarak sunulabilir. Bence zaman geçirilmeden başta Büyük Şehir Belediye Başkanı ile Ticaret ve Sanayi Odası Başkanı ve Milletvekillerimiz olmak üzere diğer sivil toplum kuruluşlarının temsilcilerinin de içinde olacağı bir komite oluşturularak, aşağıdaki işlemler zaman geçirilmeden tamamlanarak ilgili firma yetkililerine davet yapılmalıdır. Öncelikle firmaya ihtiyacını karşılayacak yer temin edilmelidir. Milli Emlak Genel Müdürlüğü ile temas kurularak ilimiz çevresideki en uygun yerin tahsisi olanağı yaratılmalıdır. Bu konuda Milletvekillerimizin ciddi katkıları gerekmektedir. Alt yapının hazırlanmasında yardım sözü verilmeli ve firma özendirilmelidir. Sanıyorum adı geçen firmanın Türkiye temsilcisi ANADOLU HOLDİNG  isimli kuruluş. İlk etepta önemli olan bu Holdingin ikna edilmesidir. Cuma akşamı SAM-SEV’e yeni dönemde başarı dilemek üzere ziyarette bulunan SİAD yönetimi ile bu konu görüşülmüş ve hafta başında Ticaret ve Sanayi Odası başkanı sayın Adnan Sakoğlu ile görüşülerek bu konuda öncülük yapmasının istenmesi ortak karar oalrak benimsenmiştir. Son dönemlerde umut kırıcı gelişmelerin yaşandığı Samsun’da  bu olayın gerçekleşmesi halinde büyük bir moral ortamı oluşacaktır. Umuyorum ki bu kez tüm kesimleri ile Samsun’da gerekli birliktelik sağlanır ve zaman kaybetmeden girişimlere başlanır. Sonuç ne olursa olsun sağlanacak bu birliktelik dahi Samsun için kazanç olacaktır.<br />
+Geçen haftanın ortasına kadar 10 gün süreyle bir kongre nedeniyle Samsun dışındaydım. Bulunmadığım bu süreçte Samsun’a yeni bir vizyon kazandıracak sahil kordonunda ki gölet, üst geçit ve hayvanat bahçesinin açılışı yapılmış. Bundan 4 yıl önce başkanı olduğum SAM-SEV tarafından başlatılan ‘’SAHİLİMİ İSTİYORUM’’ kampanyası ile gündeme gelen ve dönemin valisi sayın Muammer Güler’in gerekli devlet desteğini sağlaması ve Büyük Şehir Belediye Başkanı sayın Yusuf Ziya Yılmaz’ın inanılmaz çabası ile hizmete giren SAHİL KORDONU bence son otuz yılda Samsun’da gerçekleştirilen en güzel ve önemli projedir. Şimdi bu sahil hayvanat bahçesi ve gölet ile taçlandırılmıştır. Işıkladırılması ile de muhteşem bir gece manzarası yaratmıştır. Fuar döneminde çevre illerden hafta sonları Samsun’a önemli miktarda ziyaretçi gelir ve Samsun ekonomisine büyük katkı verirdi. Umarım bu güzellikler ve özellikle hayvanat bahçesi de aynı cazibeyi oluşturur. Yıllardır Samsun’un görüntüsünü bozan TCDD ye ait hangarların ve atölyelerin şehir dışına taşıma işlemi ile sahilde kazanılan alanların Samsunluların kullanımına sunulması yıllardır hayalimdi. Geçte olsa bunun gerçekleşiyor olması her Samsunlu gibi beni de çok mutlu ediyor.<br />
+Yakın bir tarihte bir başka güzel tesis daha hizmete girecek. Yapımı sırasında bazı spekülasyonlara neden olan Yelken Kulübünün yeni tesisleri tamamlanmak üzere. Gerçektende son derece güzel bir mekan olacağını sanıyorum. Bu tür tesislerin çağdaş kent imajı için gerekli olduğuna inananlardanım. Bir deniz kenti  olan Samsun’a bu tür tesisler çok yakışacaktır. Zoru başaran başta başkan Serhat Belli olmak üzere yönetim kurulu üyelerini kutluyorum. Zaman zaman yaşadığımız olumsuzluklar nedeniyle eleştiriler yapsakta böylesine güzelliklerde içimizi ısıtıyor. Bu kenti seven birisi olarak sergilediğim tavır , Samsun’un her şeyin en iyisine ve güzeline sahip olmasını istemekten kaynaklanmaktadır. Yukarıda belirttiğim güzelliklerin Samsun’a kazandırılmasında katkısı olan herkesi tüm Samsunlular gibi bende kutluyor ve kendilerine teşekkür ediyorum.<br />
+Bu güzelliklerin artarak devam etmesi dileğiyle, güzellikler dolu bir hafta diliyorum.24-NİSAN-2005</p>
+<p>SADİ  SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0164-samsunlulara-moral-veren-basari.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0166-samsun-un-gururu-ile-oynaniyor.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

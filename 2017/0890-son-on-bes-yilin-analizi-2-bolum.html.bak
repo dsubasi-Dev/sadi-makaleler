@@ -1,0 +1,334 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Son On Beş Yılın Analizi 2. Bölüm</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Son On Beş Yılın Analizi 2. Bölüm
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2017
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0890
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>SON ONBEŞ YILIN ANALİZİ<br />
+2. BÖLÜM<br />
+Bu hafta ki köşe yazımın dün yayınlanan birinci bölümünde son onbeş yılın öncesini ve sonrasında yaşananları özetlemeye çalışmıştım.<br />
+Yazımın 2. Bölümünde ise, dış politikada ve ekonomide yaşanan değişimleri sizlerle paylaşmak istiyorum.<br />
+DIŞ POLİTİKDA YAŞANANLAR;<br />
+Türkiye, Cumhuriyetin ilan edildiği 1923 yılından itibaren Atatürk’ün belirlediği “Yurtta barış, dünyada barış” İlkesi doğrultusunda sınır komşusu olan tüm devletlerle iyi ilişkiler içerinde olmaya özen göstermiştir.<br />
+Hatta Türkiye bu ilkeye bağlı kalmak adına son Ecevit Başkanlığında ki Koalisyon Hükümeti, Amerika’nın çıkarları doğrultusunda Irak’a askeri müdahale yapmak için Türk topraklarını kullanmak istemesine karşı çıkmış ve onay vermemişti.<br />
+2002 de iktidara gelen AKP Hükümeti’nin bu izni vermek için TBMM’ e getirdiği teskere de TBMM tarafından ret edilmişti.<br />
+Ancak, sonra ki yıllarda Amerika’nın asıl amacının Ortadoğu haritasını yeniden düzenlemek olduğu, uygulamaya koyduğu Büyük Ortadoğu Projesi (BOP) ile ortaya çıkmıştı.<br />
+Ortadoğu ülkelerine demokrasiyi getirmek adına “Arap Baharı” Gibi sempatik bir isimle uygulamaya konulan bu projenin Asbaşkanlığına da Türkiye’nin getirilmesi ile Türkiye’nin de komşuları ile olan ilişkileri yara almaya başlamıştır.<br />
+Daha sonra Amerika’nın amacının bu ülkelere demokrasi getirmek olmayıp, ülkelerinin çıkarları doğrultusunda ürettikleri petrole sahip çıkmak için ulusalcı tavır sergileyen bu ülkelerin liderlerini devirmek olduğu anlaşıldı.<br />
+Bu doğrultuda önce Irak işgal edildi ve Saddam yakalanarak idam edildi. Irak kan gölüne dönerken Irak paramparça oldu.<br />
+Ardından Kıbrıs harekâtında bize en çok destek veren Libya lideri Kaddafi rejimi devrildi ve biz de bu ülkeye yapılan müdahaleye destek verdik. Libya hala çıkan iç savaşla boğuşuyor.<br />
+Ardından aynı şeyler Mısır’ın başına geldi. Sıra Suriye gelince işler karıştı. Suriye dirençli çıktı. Esat ayakta kalırken, Esat Rejimi ’nin devrilmesi için Amerika tarafında yer alan Türkiye’nin Irak, Libya ve Mısır’dan sonra en uzun sınırlara sahip olduğu komşusu Suriye ile de ilişkileri bozuluyor ve dış ticaretimiz büyük yara alıyordu.<br />
+Tüm bunlar yetmiyormuş gibi Suriye sınırında düşürdüğümüz Rus savaş uçağı nedeniyle Rusya ile de ilişkilerimiz yara alıyor ve Rusya, Türkiye ekonomisine büyük zarar verecek bir kararla, Türkiye’den sebze ve meyve alımını durduruyordu.<br />
+Zaten inişli çıkışlı bir ilişkimiz olan İsrail ile de mavi Marmara Gemisi nedeniyle ilişkilerimiz bozulmuştu.<br />
+Amerika’nın Suriye politikasını değiştirip Suriye’de Esat Rejimi ‘nin devamına karar vermesi ile Amerika ile de bozulmaya başlayan ilişkilerimiz Zarab ve en son Kudüs olayı ile iyice sıkıntıya girmiş bulunuyor.<br />
+Avrupa ülkeleri ile zaten gerginleşmiş olan ilişkilerimiz, Avrupa Birliği’ne girme şansımızı da en azından şimdilik yok etmişe benziyor.<br />
+Üzülerek söylemek gerekirse, bu kadar çok ülkeyle ilişkilerimizin bozulmuş olması, ülkemize ciddi zararlar vermeye başlamıştır. Bu ülkelerle ilişkilerimizin nasıl düzeleceği ise ayrı bir sorun olarak gözükmektedir.<br />
+EKONOMİ DE YAŞANANLAR;<br />
+Yukarıda özetlemeye çalıştığım tüm komşu ülkelerle bozulan ilişkilerimiz en büyük darbeyi ülkemizin ekonomisine vurmuştur.<br />
+Çünkü ticari ilişkilerimizin en yoğun olduğu bu komşu ülkelerleydi. Gerek bu ülkelerle olan siyasi ilişkilerimizin bozulması ve gerekse de bu ülkelerde devam eden iç savaş, bu ülkelere yaptığımız dış satımı büyük çapta sonlandırmıştır.<br />
+Bu olumsuz gelişme özellikle en çok da sebze ve meyve üreticilerimizi etkilemiş ve tonlarca meyve ve sebze elde kalırken, üreticiler iflas noktasına gelmiştir.<br />
+Cumhuriyet döneminden günümüze ülkemizin kazanımı olan ve ciddi boyutta kar edenlerde dahil olmak üzere üretim ve hizmete dönük hemen hemen tüm milli kuruluşlarımız son onbeş yılda özelleştirildi.<br />
+Kamuoyunu ikna etmeyen ve çok eleştirilen düşük fiyatlarla özelleştirildiği iddia edilen bu kuruluşlarımızın çoğu da yabancı ülkelerin şirketlerine verildi.<br />
+Karşılığında ise daha çok yol, köprü, tünel, havaalanı gibi hizmet ve ulaşım sektörü yatırımlarına öncelik verildi.<br />
+Bu yol ve köprülerin bir kısmı, geçiş rakamları garantisi verilerek yap-işlet modeli ile ihale edildiği ve garanti edilen geçişlerde olmadığı için arada ki farklar da devlet bütçesinden karşılanmaktadır.<br />
+Üretime yönelik işsizlik sorununa çözüm olacak yatırımlar ise önemsenmediği için işsizlik oranları da tüm dönemlerin üzerine çıkmış bulunuyor.<br />
+Üretim olmadığı için dışsatım rakamlarına göre dışalım rakamlarının daha fazla olmaya başlaması ile birlikte dış ticaret açığımız da hızla büyümüş bulunuyor.<br />
+Ülkemizin 2002 de dışsatım (İhracat) Rakamı 36.059 milyar dolarken, bu rakam 2016 sonunda 142.064 milyar dolara çıkmış bulunuyor.<br />
+Buna karşı dışalım (İthalat) Rakamları 2002 de 51.053 Milyar dolarken, 2016 da 198.600 Milyar dolara çıkmıştır.<br />
+Dış Ticaret açığı da 2002 de 15.494 Milyar Dolarken, bu açık 2016 sonunda 56 Milyar dolara yükselmiştir.<br />
+Devlet güvencesinde olan özel sektörün dış borcu da eklenince Türkiye’nin dış borcu 442 milyar dolara ulaşmış bulunuyor.<br />
+Döviz rakamlarının tüm dönemlerin üzerine çıkması ile hızla değer kaybeden Türk Lirası nedeniyle piyasada güven kaybı yaşanmakta ve bu belirsiz ortamda, yatırım yapacakların önünü kesmektedir.<br />
+Diğer yandan Suriye olayında taraf olmamız nedeniyle, iç savaştan kaçan ve sayılarının 3,5 milyona dayandığı açıklanan Suriyeli ve Iraklı mülteci ülkemize sığınmış bulunuyor.<br />
+Yine Hükümet kanadından yapılan açıklamalara göre, bu mültecilere 35 milyar dolar harcanmış bulunuyor.<br />
+Bu sığınmacıların kentlerimizin sosyal yapısını bozması ile yerel halkın bu sığınmacılara olan tepkisi de giderek artmaya ve sokak kavgalarına neden olmaya başlamıştır. Bunların arasına karışarak ülkemize giren terörist sayısı da bilinmemektedir.<br />
+Türkiye kendi işsizine iş bulamazken, bu sığınmacılara harcanan para ve bunların sigortasız çalışmayı kabul etmesi de işsiz kalan insanlarımızın da tepkisini giderek artırmaktadır.<br />
+Kısacası ülkemizin üretmeden, hem de çoğunluğu lüks tüketim malzemesi olan tükettikleriyle ile dış ülkelere olan borcu giderek artmaktadır.<br />
+Sınırlarımızda süren askeri harekatlara harcanan paranın da ekonomimizi ciddi boyutta olumsuz olarak etkilediği görülmektedir.<br />
+Üzülerek söylemek gerekirse, günümüzde insanlarımız giderek daha da fakirleşirken, ülkemiz en temel gıda maddelerini dahi dış ülkelerden alacak duruma gelmiştir.<br />
+Görülen o ki, bölgemizde ki ateş sönmediği ve iç siyasette ki gerginlik sürdüğü sürece, bu olumsuzluklar da devam edecektir.<br />
+Umarım kısa sürede bu olumsuzluklar ortadan kalkar ve ülkemiz de huzur sağlanır. Güzel ve sorunsuz geçecek bir hafta dileğiyle.<br />
+11.12.2017<br />
+Ecz. SADİ SUBAŞI</p>
+<p>e- http://www. hedefhalk. com/</p>
+<p>Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0889-son-on-bes-yilin-analizi-1-bolum.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0891-lutfen-elde-kalan-son-marka-okullara-bari-kiymayin.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

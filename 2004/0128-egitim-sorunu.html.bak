@@ -1,0 +1,295 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Eğitim Sorunu</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Eğitim Sorunu
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2004
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0128
+
+</div>
+
+
+<div class="article-content">
+
+<p>a-mail: sadisubasi@ttnet. net. tr                                                                                    SUNUŞ  ü i</p>
+<p>SAMSUN’DA EĞİTİM SORUNU VE BİRAZ NOSTALJİ</p>
+<p>Son yıllarda Samsun’da eğitim seviyesinin düştüğünün yetkili yetkisiz hemen herkes farkında. Bu amaçlada konulan ilk teşhis sınıflardaki fiziksel yetersizlik. Daha açık şekliyle sınıflardaki öğrenci sayısının çok kalabalık oluşu. Bunu gidererek eğitim seviyesini yükseltmek amacıyla bir dizi çalışma yürütülüyor. Geçen yıl milletvekilimiz sayın Cemal Yılmaz Demir’in öncülük ettiği derslik yaptırma kampanyası oldukça ilgi gördü. Belediyeler, kamu kurumları, sivil toplum örgütlerinin desteğiyle oldukça önemli sayıda derslik kazandırıldı. Bu çalışmalara milli eğitim müdürlüğüde olanakları ölçüsünde destek veriyor. Bu çalışmalar temposu artırarak sürdürülmeli ve bu işin içine gönüllü insanlarımızında katılımı mutlaka sağlanmalıdır. Ben bugün sorunu bir başka yönü ile gündeme getirmek istiyorum.<br />
+Bu yıl yapılan üniversite giriş sınavları sonrası açıklanan iller başarı sıralamasında Samsun yine kendisine yakışmayan bir sırada. Bu konuda milli eğitim müdürlüğü başarı oranının  yükseldiği, bazı basın ve sendikalarda dahada düştü şeklinde çelişkili açıklamalar yapsada, ortada bir gerçek var. O da Samsun’un ilk yirmi il içinde olmadığı. Samsun’un sahip olduğu bir çok olanağa dahi sahip olmayan bazı doğu ve güneydoğu ilinin bizden önde oluşu , hatta Türkiye birincileri çıkartması çok düşündürücü. Oradaki olanaksızlıklar nedeniyle sınıf sayılarının bizden az olmasıda olanaksız. Ayrıca Samsun’daki bir çok okulda sınıf sayısı 30-40 indirilerek özel eğitim statüsüne kavuşturuldu. Öte yandan sınıflardaki öğrenci sayısı özellikle 30 civarında tutulan 5 tane anadolu lisesi var. Peki, bu iş sadece sınıflardaki öğrenci sayısına bağlı ise bu okullar neden başarılı olamıyorlar? Bu sorunu başka yönleri ilede ele almak gerekir sanıyorum.<br />
+Urfa bu yıl ÖYS sınavlarında en başarılı illerin başında geliyor. Bu başarılarını Anadolu Liseleri seçme sınavlarındada göstererek Türkiye birincisi çıkarttılar. Cuma günü Urfa Milli Eğitim Müdürünü arayarak kendilerini kutladım ve başarılarının sırrını öğrenmek istedim. Kendilerinden aldığım cevabı kısaca özetliyeyim. Öncelikle halkı bu konuda bilinçlendirip okul ve sınıf sayısını artırma kampanyalarına katılımını sağlamışlar. Okul aile birlikleri ile yakın ilişki kurarak velilerin okullara desteği konusunda çok iyi sonuçlar almışlar. Velilerin girişimi ile öğretmen sayısını artırmışlar. Sınıf yapımında çok büyük sayılara ulaşmışlar. Öğretmenlere her açıdan moral desteği yapılarak motivasyonları artırılmış.<br />
+Dönelim yeniden Samsun’a. Bunlar yapılmıyormu? Ben en azından yapılmaya çalışıldığına inanıyorum. Yukarıda anlattığım kampanyalar devam ediyor. Bu amaçla kurulmuş eğitim dernekleri çaba harcıyor. Ama bunlar henüz yeterli değil. Eğitim sistemimizdeki çarpıklıklar sonucu kendiliğinden yeni bir eğitim sistemi oluştu. Özel desaneler işi o hale geldiki okullara alternatif bir eğitim kurumu şeklini aldı. Velilerde öylesine yanlış bir kanı oluştuki, artık veliler çocuğunu özel dersaneye göndermeden başarılı olma şansı görmüyorlar. Bu uğurda olanakları sınırlı çok velinin banka kredilerine boğulup perişan olduğunu, göndermeyenlerinde bu yükün altında ezilip, suçluluk kompleksine girdiğini yakından izliyorum. Bu iş artık o kadar rayından çıktı ki okullardaki başarısını kanıtlamış öğretmenler daha cazip tekliflerle devlet okullarından kopartılıyor. Olaya arz talep açısından bakınca olağan karşılamak doğru olur. Ancak ozaman bu dersanelerin Samsun ortalamasını yükseltecek başarıları nerede? Devlet ya eğitime sahip çıkarak öğretmenlerini özel dersanelere gitmek zorunda bırakmayacak gerekli destekleri yapmalı, okullarında başarılı olan ve dereceye öğrenci sokan öğretmenlere  özel teşvik sağlamalıdır. Ben öğretmenlerimizin devlet okullarında kalma yanlısı olduğunu çok iyi bilenlerdenim. Veya bu işi tamamen özel sektöre bırakmalı sadece olanakları kısıtlı öğrencilere eğitim olanağı sağlayarak mevcut olanaklarını daha verimli kullanmalıdır. Yoksa bugünkü sistem daha kötüleşerek devam edecektir. Özel dersanelerde bu işin kalitesini aldıkları ücretleri hakedecek seviyeye taşımalıdır. Aksi halde başka kentlerdeki dersanelerin dereceye giren öğrencilerini kutlamak zorunda kalacaklar ve onların isminden yararlanarak göz boyamaya devam edeceklerdir.<br />
+Nostalji yaparak bir başka şeyin altını çizeceğim. Gazeteci dostum Ahmet kamil Demir’in geçen hafta, benimde 6 yıl orta ve lise eğitimi aldığım Ondokuzmayıs Lisesinin içler sızlatan durumunu manşete taşıması ve  bendende bahsederek köşe yazısındada bu konuyu işlemesi beni eski anılara ve bazı gerçeklere götürdü. Yazısında Ondokuzmayıs Lisesinin mezunlarından çok az sayıda öğrencinin üniversitelere girebildiğini, oysa geçmişte Türkiye’nin en başarılı okullarından birisi olduğunun altını çizerek Türkiye çapında önemli yerlere gelmiş mezunlarından bazı örnekler sunmuştu. Bende bu okulun 1962-1963 dönem mezunuyum. Sınıfımız , dikkat ediniz ,55 öğrenciden oluşuyordu. Bugünkü sayılardan farklı değildi. O yıl beşi haziranda olmak üzere hepsi mezun oldu. Bu sınıfın ellisi üniversiteye girdi. beş tanesi evlilik ve erken iş hayatına girerek üniversiteye devam etmedi. O yıl 20 tane İstanbul Teknik Üniversitesi ve ortadoğu Teknik Üniversitesi , üç tane tıp fakültesi, bir tane  diççilik fakültesi,2 tane eczacılık fakültesi , bir tane de burslu olarak Amerika yurdışı sınavı olmak üzere 50 mezunun hepsi en iyi fakültelere girme başarısını gösterdi. Bunun bence en büyük nedeni öğretmenlerin yılların deneyimine sahip, mesleğinin aşığı ve mütevazi insanlar oluşuydu. İkinci nedeni ise bizim sınıfın çoğunluğunun bu okulun orta böümünden gelen 6 yıılık öğrencilerin oluşuydu. Yani uzun bir dönem birarada oluşun ve hemen, hemen aynı öğretmenlerden eğitim görmenin yarattığı sinerjiydi.<br />
+Bence sorun sadece derslikte değil. benim dönemim bunun en güzel örneği. Bu dönemle ilgili çok ilginç ve bugüne ışık tutacak anılarım var. Ancak okuyucularım yine ‘’çok uzun yazmışsın’’diyeceklerdir. Burada kesiyorum. Bu anıları gelecek hafta sizlerle paylaşırım. Bu ülkenin geleceği olan çocuklarımızı emanet ettiğimiz öğretmenlerimize bir mesaj ileterek sizlere iyi haftalar diliyorum. Sevgili genç öğretmenlerimiz. Çok anlamlı bir görev yapıyorsunuz. sizlere karşı belki haketiğiniz şeyleri veremiyoruz, sizleri motive edemiyoruz ama ne olur siz bunları ön plana almadan görevinizi yapın. Bilinizki bu çocukların başarısı dahi sizi mutlu etmeye yetecektir. Gelecek haftaki yazımı okursanız bunu çok daha iyi anlayacaksınız sanırım. Hoşçakalın..</p>
+<p>SADİ  SUBAŞI.</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0126-kurultay-hazirlik-toplantisi.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0129-egitim-uzerine-nostalji.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

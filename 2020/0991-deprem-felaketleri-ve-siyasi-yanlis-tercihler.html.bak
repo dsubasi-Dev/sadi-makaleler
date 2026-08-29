@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Deprem Felaketleri ve Siyasi Yanlış Tercihler</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Deprem Felaketleri ve Siyasi Yanlış Tercihler
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2020
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0991
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>DEPREM FELAKETLERİ VE SİYASİ YANLIŞLAR.</p>
+<p>Daha Van Depreminin yaraları tam sarılmadan ve 15.10.2020 tarihinde önce İstanbulluların yüreğini ağzına getiren deprem ve ardından da 30 Kasım 2020 tarihinde İzmir’i vuran deprem ile bir kez daha tüm Türkiye olarak içimiz yandı.<br />
+Depremin gündüz olması belki de daha çok sayıda can kaybını önledi. Yazımı kaleme aldığım saatlerde 83 olarak verilen can kaybının 6 binada daha devam eden arama çalışmaları sonucu artacağı endişesi yaşanıyor. Aradan 72 saat geçmiş olmasına rağmen hala yaralı da olsa sağ vatandaşlarımızın çıkarılıyor olması umutları yaşatıyor.<br />
+Yer bilimci ve Kandilli Rasathanesi yetkilileri İzmir ve İstanbul’da 7 üzeri şiddette deprem beklendiğini yıllardır söylüyor ve yetkilileri uyarıyorlardı. Ne yazık ki, bunlara kulakların tıkandığı anlaşılıyor.<br />
+Bilim adamlarının açıklamalarına göre İstanbul büyük bir risk altındadır. Beklenen deprem her gün biraz daha yaklaşıyor ve depremde binlerce binanın yıkılacağı ve onbinlerce vatandaşımızın yaşamını kaybedeceği artık herkesçe biliniyor.<br />
+Bu gerçeğe rağmen görüyoruz ki, İstanbul’da ki olası bir deprem de vatandaşların sığınacağı toplanma alanlarının çoğu gözü dönmüş siyasetçi ve paragöz müteahhitlerin çıkarlarına kurban edilerek gökdelenlerle doldurulmuş.<br />
+Bugün İzmir’de yaşamını kaybeden vatandaşlarımız ve yakınlarımıza yanıyoruz. Umarım yarın beklenen İstanbul depreminde çok daha acısını yaşamayız.<br />
+Muhtemel İstanbul depreminin hiç konuşulmayan korkutucu bir başka yanı da, ülkemizin sanayi kuruluşlarının neredeyse % 80’inin İstanbul ve Marmara Bölgesinde bulunuyor olması. Böylesine olası yıkıcı bir depremde zaten ekonomik darboğaza girmiş bulunan ülkemizin ne hale düşeceğini düşünmek dahi istemiyorum.<br />
+Buraya kadar anlattıklarımda, kaçınılmaz olan bir doğal afet olan depremlerin yarattığı ve yaratacağı muhtemel sonuçları paylaştım. Şimdi de neden biz bu kadar can kaybı veriyoruz sorularının cevabını sizlerle paylaşacağım.<br />
+En şiddetli depremlerin olduğu Japonya’da, 7’nin üzerinde ki çok daha şiddetli depremlerde dahi ya can kaybı olmuyor veya bizdekilerden çok daha az sayıda can kayıpları oluyor.<br />
+Biz daha depremin şiddeti konusunda kafaları karıştırıyoruz. Devletin yetkili kurumu AFAD 6.6, bu konuda en yetkili bilim kurulu olan Kandilli Rasathanesi 6.9, depremin asıl merkezi olan Yunanistan ve Amerikalı sismograflar 7 olarak belirliyor.<br />
+İşte soruların cevabı da burada yatıyor. Onların uyguladığı deprem de can kaybını önleyen yöntemlerini örnek almak çok mu zor? Kısa cevabım bu kafayla olanaksız. Neden mi? Sırlayayım;<br />
+Üzülerek söylüyorum ki, bizi yöneten siyasetçiler Japonya’yı yöneten siyasetçiler kadar dürüst ve kararlı değiller.<br />
+Bizde siyaset, bir gelir kapısı olarak görüldüğü için toplumun beklentileri hep göz ardı edilmektedir.<br />
+Bizde ki siyasi anlayış seçim kazanma üzerine oluşturulmuş olup, bu uğurda akıl almayacak yanlışlara (İmar afları ve dinimizin siyasi çıkarlar için kullanılması gibi) başvuracak kadar hırsla yoğurulmuştur.<br />
+Bu ülkenin başına bela olan bir imar affı konusu vardır. Toplumun beklentilerine yönelik çözümler üretemeyen siyasi iktidarlar, çözümü hemen her konuda sık sık af kanunu çıkarmakta bulmakta ve bunların sonuçları da ülkemiz adına beklenmedik olumsuzluklara neden olmaktadır.<br />
+Yukarıda ki olumsuzlukların birisi de yaşanan depremlerde ki can kayıplarını artıran imar aflarıdır. Bu imar afları genellikle seçim öncelerinde oy kazanmak amacı ile yapıldığı için genelde ciddi hiçbir denetim yapılmamaktadır.<br />
+Son dönemlerde binaların kontrolü ve sağlamlığı hakkında rapor hazırlama yetkisi verilen Yapı Denetim Kurumları ne kadar düzgün çalışmaktadır? Onlarda denetlenmekte midir? Yoksa mimarlar gibi onlarda amacı para kazanmak olan müteahhitlere mi mahkûm edilmiştir? Çünkü Kocaeli Depremi sonrası çürük binaların yıkılarak yenilerinin yapılması için çıkartılmış olan “Kentsel Dönüşüm Yasası” zamanla “Rant Yasasına“ dönüşmüştür. Artık değerli yerlerde sağlam binası olanların binaları dahi bu yapı denetim firmalarının verdiği çürük raporları ile yıkılabilmekte ve böylece büyük bir çıkar sağlanmaktadır. Zaten bu tür müteahhitlik firmaları kendi yapı denetim firmalarını da kurmuşlardır. İstanbul’da ki Sulukule sakinlerinin değerli arsaları onları İstanbul’un alıştıkları yerlerinden uzak ve çok daha az değerli mekânlarına gönderilerek ellerinden alınan Sulukule’de çok katlı siteler kurulmadı mı? Samsun’da sapasağlam binalar (SGK Binası gibi) çürük raporları ile yıkılmadı mı?<br />
+Ülkemizde en son çıkartılan “İMAR BARIŞI” adlı af kanunu için 10 milyon kişi başvurmuş ve onbinlerce kaçak veya yasaklanmış alanlarda yapılmış riskli bina yasal nitelik kazanırken, Devlet Hazinesine de 23.5 milyar TL. Gelir sağlanmıştır. Bunun adı düpedüz siyasi çıkar ve boşalan Devletin Hazinesine gelir sağlamaktır.<br />
+Türkiye’nin deprem riski en büyük şehirlerinden biri olan İzmir’de ruhsatsız yapı stoku da çok büyüktür. İzmir Bayraklı ve Bornova’da ki yapıların önemli bölümü hayati risk taşımaktadır.<br />
+Sözcü Gazetesinin bir haberine göre; 2018 yılında Çevre ve Şehircilik Bakanlığı’nın uygulamaya koyduğu ve 31 Aralık 2017 tarihinden önce yapılan ruhsatsız yapıları yasal hale getiren İmar Barışı’nda nüfusa oranlandığında Türkiye’de ki % 10 ile en çok başvuru İzmir’de gerçekleşmiştir. Bunun açıklaması<br />
+Türkiye genelinde 10 milyon 79 bin vatandaş imar barışından yararlanmıştır. Bir başka deyişle 10 milyondan fazla kaçak yapı yasal hale getirilirken, İstanbul’da 1 milyon 747 bin, ikinci sırayı da, 811 bin 452 başvuruyla İzmir almıştır.<br />
+Son depremde en büyük hasarı gören Bayraklı ’da 34 bin kaçak bina İmar Barışından yararlanmış olması, çok şeyin cevabını vermiyor mu?<br />
+Tüm bu korkunç yıkımların bir sorumlusu olmalıdır. Bunlar;<br />
+Bu yıkılan binaların ilk sorumlusu, bir türlü denetim sistemini işletemeyen, her seçim öncesi af çıkartan ve mimarlar ve inşaat mühendisleri ile Yapı Denetim Firmalarını müteahhitlere mahkûm eden sistemi değiştiremeyen,<br />
+Devlet olarak Mimar ve İnşaat Mühendisleri Odalarını denetim konusunda güçlendirmesi ve yetkilendirmesi gerekirken, onların olan yetkilerini dahi kısıtlayan, belediyeler ve siyasi iktidarlardır.<br />
+Ailesinin dahi sağlığını düşünmeden dere yataklarına, gevşek zemin olarak belirlenmiş alanlara yaptığı binalarını yasal hale getirmek için sürekli belediye ve siyasetçilere baskı yapan vatandaşlarda bir o kadar suçludur.<br />
+ÇÖZÜM;<br />
+Müteahhitlik kurumunun konumu ve sorumluluk sınırları bir yasa ile düzenlemelidir.<br />
+Mimarlar ve İnşaat Mühendisleri Odaları denetim konusunda bir an önce yetkilendirilmelidir.<br />
+Sorunlu alanlarda yapılan inşaatlara aldığı ceza paraları karşılığı göz yuman belediye başkanlıkları birinci derece de sorumlu tutulmalıdır.<br />
+Vatandaşların başa başlarını sokacağı sağlıklı binaları yapabilmeleri için kentlerin imarsız alanlarının imar planları tamamlanmalıdır.<br />
+İnşaatların fenni mesulleri yasayla koruma alınarak, görevlerini rahat ve dürüst yapmaları sağlanmalıdır.<br />
+Bu önlemler alınmadığı takdirde olabilecek depremlerde çok daha büyük acılar yaşamaya mahkûm olacağımız unutulmamalıdır.<br />
+İzmir’de yaşamını kaybeden tüm yurttaşlarımıza rahmet, yaralı çıkarılanlara sağlık ve başta aileleri olmak üzere tüm İzmir’e baş sağlığı diliyoruz.<br />
+Depremsiz ve sağlıklı bir hafta diliyorum. 02.11.2020<br />
+Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0990-kusatilmis-kent-samsun.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0992-genc-kusagi-en-buyuk-sanssizligi.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

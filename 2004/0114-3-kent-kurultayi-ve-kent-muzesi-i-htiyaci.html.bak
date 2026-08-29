@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>3. Kent Kurultayı ve Kent Müzesi İhtiyacı</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+3. Kent Kurultayı ve Kent Müzesi İhtiyacı
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2004
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0114
+
+</div>
+
+
+<div class="article-content">
+
+<p>SAMSUN 3. KENT KURULTAYI VE KENT MÜZESİ İHTİYACI</p>
+<p>Bu yıl 3. sü yapılan SAMSUN KENT KURULTAYLARI artık Samsun için vazgeçilemez bir platform haline geldi. İlk günden itibaren bu düşünceyi ve oluşumu destekleyen 13 sivil toplum örgütü , bu platformun daha iyi bir noktaya gelmenin çabasını sürdürüyor. Yapılan her yapıcı eleştiriyi en ince noktasına kadar değerlendiriyor ve her yı daha beğeni alan kurultay yapabilme çabası içinde oluyorlar.3. Kent Kurultayı yapılalı henüz 1,5 ay geçmeden 3. toplantısını gerçekleştirdiler. Yapılan ilk toplantıda kurultayın bir değerlendirmesi yapıldı.2. toplantıda önümüzdeki yıl yapılacak 4. kent Kurultayının ön hazırlıkları konuşuldu.3. toplantıda ise iki konu karara bağlandı. Daha önce açıklandığı ve kurultaydada gündeme getirildiği gibi bu yılki kurultay iki aşamalı olarak planlanmıştı. Birinci aşaması olan kurultay gerçekleştirildi. Bu kurultayda öne çıkacak bir veya iki önemli sorun sonbaharda yapılacak bilimsel ağırlıklı bir panelde konunun uzmanlarınca tartışılarak önümüze bir yol haritası çıkartılacaktı. İşte karara bağlanan konulardan ilki bu iki sorunun öne çıkartılmasıydı.3. Kurultaya damgasını vuran konu Samsun'un '' işsizlik ve yeni iş alanlarına kavuşturulması'' sorunuydu. Bu sorunun cevabı kurultayda ''Tarımsal Sanayinin kurulması ve hayvancılığın geliştrilmesi'' olarak ortaya çıktı. Bu konunun  eylül ayı içinde yapılması planlanan panele taşınması kararlaştırıldı.2. sorun olarak Samsun Kent Müzesinin kurulması yönünde başlatılan çalışmaların sonuçladırılmasıydı. Buna aşağıda değineceğim. İkinci konu ise 3. kent Kurultayının sonuç bildirgesinin hazırlanarak kamuoyuna açıklanmasıydı. Bunun da hazırlıkları tamamlandı ve önümüzdeki hafta bir basın toplantısı ile kamuoyuna açıklanması kararlaştırıldı. Yapılacak 4. toplantıda eylül paneline çağırılacak bilim adamı ve teknik adam ile konuyu Türkiye kamuoyuna duyurabilecek tanınmış bir medya mensubunun kimler olabileceğinin çalışması yapıldı. Sanırım kısa sürede bu isimler belirlenerek kamuoyuna duyurulacak.<br />
+Yukarıda da belirtiğim gibi bu yıl Kurultayda üzerinde en çok konuşulan ve tartışılan konu belkide Kent Müzesiydi. Bir yığın ekonomik ve eğitim sorunu olan kentimizde bu konunun kurultyda öne çıkması siyasilerimizi de şaşırtmış olacak ki tepkiyle karşılandı. Bence böyle bir konunun öne çıkması Samsun İnsanının tarihsel birikimi ve kültürel konularda nekadar duyarlı olduğunun bir göstergesiydi. Dar kadrolara ve tüm olanaksızlıklara rağmen bir ideal etrafında bir araya gelerek ''Yerel tarih grubu ''adı altında çok önemli kültürel çalışmalar yapan bir avuç insan çok önemli kültürel olaylara imza atmışlardır. Yaptıkları son çalışma ise Samsun'a bir Kent Müzesi kazandırılması içindi. Bu konuyu kamuoyuna çok iyi anlatmış olmalılarki, son kent Kurultayının üç ana grubunun ikisi, birbirinden habersiz bu konuyu gündeme taşımışlardı. Perşembe günü yapılan son değerlendirme toplantısındada katılan tüm sivil toplum örgütleri aldıkları ortak bir kararla, bu konunun sonuçladırılması için ortak çalışma yapmayı ve hemen gerekli girişimleri başlatmayı karar altına aldı. Koallisyon hükümetince tarihi Samsun evlerinin bir simgesi olan eski bir binayı Kültür bakanlığına devrederek restore ettirmeye başlanmıştı. Restorasyon AKP hükümetleri döneminde tamamlandı. Ortaya Samsun'un geçmişini çok güzel yansıtan bir yapıt çıktı. Samsun'un en işlek caddesindeki bu bina bu amaca tahsis edilirse , inanıyorumki Samsun'a çok yakışacak. Kentlerin tarihinin ve tarihi buluntularının saklanacağı , kent arşivininin toplanarak gelecek kuşaklara taşınacağı böyle Kent Müzeleri artık bir ihtiyaç olarak  ortaya çıkmaktadır. Bu kentin tarihine sahip çıkmak hepimizin görevi olmalıdır. Düne kadar derinliğine araştırılmış bir Samsun Tarihinin dahi olmadığı bir gerçekti. Bu gün bu gerçekleşmiş ve iki ciltten oluşan detaylı bir araştırma ürünü olan Samsun Tarihi Kitabı yazılmıştır. Bu araştırmayı yapan ve kitabı gerçekleştiren tarihçi ve araştırmacı sayın Baki Sarısakal'a Samsunlular adına teşekkür ediyorum. Kendisi Samsun tarihi ve yapıtları ile ilgili arşiv oluşturma çalışmalarını sürdürüyor. Konu valimiz sayın Mustafa Demir'e de geçtiğimiz yıl kendisi tarafından anlatıldı ve destek istendi. Benimde bulunduğum toplantıda sayın Valimiz destek sözü verdiler. Kendisinin Samsun dışında yürüttüğü çalışmaları yakından takip eden birisi olarak çok önemli harita ve belgelere ulaştığını biliyorum. Bu çalışmalar boşa gitmemeli ve mutlaka sağlıklı bir şekilde gelecek kuşaklara aktarılmalıdır. Böylesine ciddi çalışmaların kentimiz milletvekillerincede destekleneceğine inanıyorum. Ancak bu çalışmaların henüz, başta milletvekillerimizle Büyük Şehir Belediye Başkanımız olmak üzere yetkililere anlatılmamış olmasının bir eksiklik olduğunu son toplatıdada vurguladım. Sonuçta o gün alınan karar doğrultusunda bu hafta girişimler başlatılacak. Bu konuda Üniversitemizin de çok büyük katkıları olacağına inanıyorum. Önümüzdeki günler bu konunun çözümü için çok önemli. Seçilmiş ve atanmış tüm Samsunluların gerekli desteği vereceğine inanıyorum.<br />
+Bu kentin ekonomik, eğitim, kültür ve sosyal  içerikli sorunlarını bir bütün içinde gündeme almak ve çözüm yolları aramak , hepimizin görevi olmalıdır diye düşünüyor ve iyi haftalar diliyorum..</p>
+<p>SADİ  SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0113-uzulerek-yazdigim-bir-elestiri.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0115-ab-sevdasi-ve-yasanan-carpikliklar.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

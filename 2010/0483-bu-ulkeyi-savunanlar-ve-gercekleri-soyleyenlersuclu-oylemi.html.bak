@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Bu Ülkeyi Savunanlar ve Gerçekleri SöyleyenlerSuçlu. Öylemi.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Bu Ülkeyi Savunanlar ve Gerçekleri SöyleyenlerSuçlu. Öylemi.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2010
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0483
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>BU ÜLKEYİ SAVUNANLAR VE GERÇEKLERİ<br />
+SÖYLEYENLER SUÇLU. ÖYLE Mİ?</p>
+<p>Yüce Tanrım, bu ülkeye tüm güzel olanakları vermiş. Sahip olduğumuz 760.000 Metrekare toprağı çok verimli ovalarla ve bol akarsularla bezemiş.<br />
+Tahılın, sebzenin ve meyvenin de neredeyse her bir cinsi yetişiyor. Çok ülkeye bahşetmediği dört mevsimi birden bize vermiş.<br />
+Üç tarafımızı denizle donatmış. Koyları, kanyonları, platoları, yaylaları, denizin ve kumsalın en güzellerini de bize sunmuş.<br />
+Yetmemiş, sana bir de dünyaya hükmetme şansı vermiş ve koskoca bir imparatorluk kurmuşsun.<br />
+Ne var ki, Tanrı bir yerde ayrıcalık yapmamış ve “Akılı” Tüm insanlara vermiş. Nasıl kullanacağını ise bize bırakmış.<br />
+Biz ne yapmışız?<br />
+Çocuklarımızın geleceği olan bu ovaları ve akarsuları yok edebilme becerisini göstermişiz. Dünyanın kovduğu kirli yatırımları ülkemize davet etmişiz, ne eksen biter denen ovalarımızı yok etmek istercesine.<br />
+Akarsularımızı kirletebilmenin ve yataklarını kurutabilmenin modellerini keşfetmişiz. Hem de dünyanın, 21. yüzyılın kâbusu olarak gördüğü “küresel ısınma tehlikesine” karşı önlemler aldığı sırada.<br />
+En ekonomik ve en kolay ulaşım yolu denizlerimiz süs gibi dururken, dağı taşı delip tüm Anadolu’yu milyon dolarlar harcayıp karayolları ile donatmaya kalkmışız. Ağababalarımız borç verirken ürettiği karayolu araçlarını satabilmek adına karayolu yapımını dayattığı için.<br />
+Doğanın, güneşin, denizin, kumsalın en güzeli bizde olduğu için, her geçen gün artan sayıda ki turistleri ile tüm dünya milletlerinin bizi zengin etmeye can attığı sırada, onların gelmesini önleyebilmek için akıl almaz yanlışların mimarlığına soyunmuşuz.<br />
+Bir zamanlar hükmettiğimiz toprakları birer birer kaybetmişiz. Kaybettiğimiz topraklarda ortaya çıkan devletçikler dahi, bize kafa tutmaya başlamış. Uluslarası arenalarda bize karşı tavır sergiler olmuşlar.<br />
+Neden?<br />
+Çünkü biz Tanrı’nın verdiği akılı doğru kullanamamışız.<br />
+Bizi yönetsin diye seçtiklerimizi denetleyememişiz. Onları sorgulamayı ise hiç düşünmemişiz.<br />
+Senin, benim, bizim oylarımızla yönetime gelenler, her dönem yeni bir modeliyle tanıştığımız yöntemlerle bizleri soymuş.<br />
+Onlar her dönem biraz daha zenginleşirken, sen ben kısacası bizler, biraz daha fakirleşmişiz.</p>
+<p>Ülkemizin en değerli ve en karlı kuruluşları özelleştirme Birileri ceplerini biraz daha doldurabilmek için bizim seçtiklerimizle kol kola girmiş ve gözümüzün içine baka, baka çocuklarımızın geleceği olan en verimli toprakları yok edecek tesisleri kurmaktan kaçınmamışlar. Adı altında değerlerinin altında elimizden çıkartılırken, iç ve dış borcumuz da katlanarak büyümüş.<br />
+Yazboz senaryoları ve kurguladıkları sistem karmaşası ile halkımızın daha iyi eğitim almasını engellemişler. Köylümüzün aydınlanmasının, modern tarım yapmasının ve çok kapsamlı eğitim almasının yolunu açan Köy Enstitüleri mucizesini dahi kapatma becerisini göstermişler.<br />
+Her tarafı işgal edilmiş toprakları düşmandan temizleyerek son vatan toprağında özgürce ibadet edebilmemizi ve özgürce yaşamamızı sağlayan, halkını aydınlığa çıkartacak devrimleri yapan Büyük Önderi dahi karalamaktan kaçınmamışız.<br />
+O’nun açtığı çağdaşlaşmanın önünü kesmişiz. Ezilmiş bütün uluslar O’nun kurduğu yönetim biçimini örnek alırken, bize sömürülmeyi kader edinmiş ülkelerin yönetim biçimi sunulmaya çalışılmış.<br />
+Osmanlı dönemlerinden beri hiçbir zaman yanımızda yer almamış, ulusal arena da hiçbir konuda destek vermemiş, yüz binlerce askerimizi Yemen cephesinde arkadan vurmuş, Kurtuluş Savaş’ın da bize karşı işgalci İngilizlerle işbirliğinden kaçınmamış Arapların, referans gösterilmesini ve “Onların eli kolu olduğumuzun ve Onlarsız yaşayamayacağımızın” Söylenmesini açıkçası içime sindiremiyorum.<br />
+İşin en acısı da, bunları yapanlar hepimizin ortak paydası olan inancımızı kullanmaktan çekinmiyorlar. Hem de bizlerden daha çok inançlı olduklarını söyleyerek...<br />
+Üstüne üstlük, olan biteni anlatmaya çalışanları da ihanetle suçlayarak…<br />
+Ulusal çıkarlarımızı savunanları da adi suçlularla aynı kefeye koyarak “Ergenekoncu” ilan ederek...<br />
+Eğer tüm bunların olanı biteni anlamamamız için yapıldığını hala algılayamıyorsak, yarın ağlamaya da, şikâyet etmeye de hakkımız olmayacaktır.<br />
+Sözün özeti, yıllardır tüm hükümetlerce hedef diye belirlenen AB yolunda olup bitenleri gözden kaçırmayalım istedim.<br />
+İyi haftalar… 13 Haziran 2010<br />
+SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0482-bir-valimizi-daha-yolcu-ettik.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0484-toplumsal-hassasiyetin-tukendigi-ve-toplumsal-uzlasinin-saglanamadigi-bir-donemde-bolucu-terorun-azmasi-rastlanti-olabilir-mi.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

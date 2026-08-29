@@ -1,0 +1,300 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>14-Nisan Mitingi ve Sivil Toplumun Sorumluluğu</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+14-Nisan Mitingi ve Sivil Toplumun Sorumluluğu
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2007
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0284
+
+</div>
+
+
+<div class="article-content">
+
+<p>14-NİSAN MİTİNGİ VE SİVİL TOPLUMUN SORUMLULUĞU..</p>
+<p>Ülkemiz, geçmişinde sıkça yaşadığı sıkıntılı dönemlerin bir yenisini daha günümüzde yaşamaktadır. Şöyle biraz gerilere gidersek, Osmanlı döneminde de o zamanlar batlılaşma hareketi olarak adlandırılan aydınlanma ve çağdaşlaşma girişimlerinin yaşandığını görürüz. Ancak, bu girişimler her defasında tutucu ve bağnaz karşı koyuşlarla istenen sonuca ulaşamamıştır.<br />
+Birinci Dünya savaşından yenik çıkan Osmanlı’nın toprakları istila edilirken bu oldu- bittiye isyan bayrağı açan Büyük Asker ve Büyük Önder Mustafa Kemal yok olmak üzere olan toplumu aşıladığı inançla ayağa kaldırmış ve son Türk toprağı olan Anadolu’yu düşmandan temizleyerek yepyeni Türkiye Cumhuriyeti’ni kurmuştur. Mustafa Kemal Atatürk Cumhuriyetin kuruluşundan ölümüne kadar geçen 15 yıl gibi çok kısa bir dönem de yaptığı devrimlerle kurduğu Türkiye Cumhuriyeti’ni çağdaş ve laik bir sisteme oturtmuştur.<br />
+Yapılan devrimlerle çağdaş dünyaya hızla adapte olmaya başlayan Ülkemiz daha Atatürk’ün sağlığında başlayan bölücü ve gerici akımların da hedefi olmaya başlamıştır. Özellikle zaman, zaman çağdaş ve laik cumhuriyetimizi tehdit edecek boyutlara ulaşan kökten dinci akımlar silahlı kuvvetlerin uyarıları ile frenlenebilmiştir. Genç Cumhuriyetimiz 84 yıllık kısa geçmişinde iki ihtilal, bir ihtilal denemesi, iki de askeri muhtıra olayı yaşamıştır. Demokrasi adına bir ayıp olan bu ihtilaller yapıldığında büyük halk desteği almış olsa dahi, yaptığı tahribat ve sonrasında farkına varılan birikimli siyasi kadroların erimesi, Ülkemiz demokrasisine büyük zararlar vermiştir.<br />
+Cumhuriyetin ilanından beri bir türlü laik ve çağdaş bir yaşam tarzını benimsemeyen bir kesim, şeriat rejiminin özlemi içersinde olmuştur. Her defasında da ülke bütünlüğü ve çağdaş laik sistemi koruma ve kollama görevini üstlenen silahlı kuvvetlerimiz bu konuda uyarı görevini yapmıştır. Üzülerek söylemek gerekirse, demokrasi adına kabulü mümkün olmayan bu tutumun tek sorumlusu, demokrasinin asıl unsuru olan siyasetçilerimiz ile hala yeterli vatandaşlık bilinci ve kültürüne ulaşamadığı için bu gibi durumlarda sivil toplumların göstermesi gereken duyarlılığı ve tepkileri gösteremeyen halkımızdır.<br />
+Çağdaş demokrasiler de eğer askere veya başka zorlamalara gerek duyulmuyorsa, en büyük neden, oralarda ki siyasetçilerin hiçbir şekilde dini siyasi çıkar amacı olarak kullanmamaları, yolsuzluklara izin vermeyişi ile halklarının da sivil toplumun denetim gücünü gerektiği zaman en sert şekilde gösterebilmesindendir.<br />
+Bu gün Türkiye demokrasisi yine sıkıntılı bir dönem geçirmektedir. Seçim kanunlarının çarpıklığı sonucu % 35 civarında oy alan bir siyasi parti mecliste % 65 lik bir oy gücüne sahip olmuştur. Toplumun büyük bir kesimi yıllarca koalisyonların uyumsuzluğundan bıkarak, tek parti iktidarı ile birçok sorununun çözüleceğini umarak mevcut hükümete büyük prim vermiştir. Ancak geçen süreçte “benim dediğim ve yaptığım doğrudur” anlayışı ve dayatmaları toplumu ciddi endişelere itmiştir. Seçim öncesi verilen sözler tutulmamış, milletvekili dokunulmazlığı kaldırılmamış, hatta yasal hüküm giymiş milletvekilleri dokunulmazlık zırhına sığınarak işledikleri suçla ilgili bakanlıklara getirilebilmişlerdir. Laik düzene karşı olduğunu açıkça söyleyenler hükümet içinde yer alabilmişlerdir. Yolsuzlukların üzerine gitme sözü ile iktidar olan partinin çok sayıda üyesi ve belediye başkanı, hatta bakanın adı bu tür şaibeli işlerle anılır olmuştur. Hükümet üyelerinin çocukları ve aile fertleri ile ilgili çok sayıda olay kamuoyuna yansımıştır. Tanrı ile kul arasında kalması gerekli olan bazı dini konular acımasızca çıkar amaçlı olarak kullanılmaya devam etmiştir.<br />
+Tüm bu ve buna benzer olaylar, laik ve çağdaş düzenden yana olan halk kesiminde doğal olarak kaygı ile karşılanmaktadır. Bu yıl içinde yapılacak iki seçim, belki de bu nedenle ilk kez bu kadar önem kazanmış bulunmaktadır. Mevcut demokratik kurallar içersinde mecliste çoğunluğu olan bir partinin kendi içersinden bir kişiyi Cumhurbaşkanlığına aday göstermesi en doğal hakkıdır. Ancak bu isim toplumun çoğunluğu tarafından benimsenmeli ve bu isim de topluma saygılı, toplumu kucaklayan uzlaşmacı bir kimliğe sahip olmalıdır. Eğer bugüne kadar bu vasıflarda bir aday çıksa ve toplumu endişeye itecek açıklamalar yerine ılımlı mesajlar verebilseydi, inanıyorum ki şu an da yaşanan belirsizlik ve huzursuzluk büyük olasılıkla yaşanmayacaktı.<br />
+Bugün, ne yazık ki hiç de istenmeyen şeylerin söylendiği, askeri müdahalenin kaçınılmaz hale geldiği senaryolarının dahi konuşulduğu gergin bir noktaya gelinmiştir. Korkulan şey, Meclis üstünlüğünü elinde tutan ve yukarıda anlattığım anlayıştaki bir partinin iktidarda bulunduğu bir dönem de, Cumhurbaşkanlığına da uzlaşma yerine dayatma ile gelecek bir isimin seçilme olasılığıdır. Çünkü böylece, meclisten gelecek her yasaya aynı görüşleri paylaşan bir Cumhurbaşkanının onay verecek olması ile laik rejimi kökten sarsacak bazı gelişmeler olabilecektir. Verilen mesajlar da bu endişeleri doğrular niteliktedir.<br />
+İşte tam bu kritik noktada, demokrasimiz adına umut verici bir ilkin hazırlıkları sürmektedir. Sivil toplum sesini ve tavrını sergileme kararı almıştır. Çağdaş demokrasilerin vazgeçilmez unsuru olan sivil toplum kuruluşları adına Atatürkçü Düşünce Derneği bu göreve öncülük etmektedir. Yapılan çağrı doğrultusunda çok sayıda STK, 14-Nisan Cumartesi günü saat 11.00 de Ankara Tandoğan Meydanın da yapılacak uyarı mitingine destek vermektedir. Hiçbir siyasi partinin güdümünde olmadan, tamamen bir halk hareketi olarak planlanan bu miting sonrası yürüyüş korteji halinde Anıtkabir’e gidilecek ve çağdaş ve laik düzene sahip çıkma adına ortak talep dile getirilecektir.<br />
+Laik sistemden yana olan herkes o gün orada bulunarak bu demokratik hakkını kullanmalı ve yasal çerçevede tepkisini ortaya koymalıdır. O gün, bu demokratik desteği vermeyenlerin yarın söyleyecekleri ve konuşacakları hiçbir şey olmayacaktır. Eğer çok güçlü sayısal bir katılım ile gür bir ses verilebilirse, bu sese hiç kimse duyarsız kalamaz, kalmamalıdır.<br />
+Bu mitingin her türlü provokasyona ve muhtemel engellemelere karşı korunması ve gerekli tedbirlerin alınması hem hükümetin, hem de ADD’nin en önemli görevi olmalıdır. O gün Ankara’ya girecek otobüslerin park alanları çok iyi düzenlenmeli ve Tandoğan meydanına ulaşım kolaylaştırılmalı ve bir kargaşaya meyden verilmemelidir.<br />
+Bu ülkede demokrasi dışı güçlerin devreye girmesini önlemenin en güzel yolu sivil toplumun davasına sahip çıkmasıdır. Siyasilere düşen görev bu sivil çıkışı saygı ile karşılamak olmalıdır. Türk toplumunun bu demokrasi sınavını başarı ile vereceğine inanıyorum. Laik ve çağdaş  Türkiye Cumhuriyetinin devamı ve Atatürk ilkelerinin yaşatılması için el    ele diyor ve iyi haftalar diliyorum.. 08-Nisan-2007<br />
+SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0283-osman-kara-nin-kose-yazisi-ve-kent-kurultayi.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0285-14-nisan-mitingi-ve-ortaya-cikan-aymazliklar.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

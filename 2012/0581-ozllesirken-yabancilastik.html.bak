@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Özlleşirken Yabancılaştık.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Özlleşirken Yabancılaştık.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2012
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0581
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>ÖZELLEŞİRKEN YABANCILILAŞTIK.</p>
+<p>Öncelikle belirteyim ki, özelleştirmeye kayıtsız şartsız karşı duranlardan değilim. Hele de, “Kitleri” siyasi çıkar alanı haline getiren siyasetçileri gördükten sonra bu konuda katı olmam mümkün değil.<br />
+Ancak bu da, ülkemizde süregelen özelleştirmeleri gözü kapalı onaylıyorum anlamına gelmemeli.<br />
+Çünkü özelleştirmeler korkarım ki, ülkemizin çıkarlarına uzun vade de zarar verecek bir boyuta ulaştı.<br />
+İş sadece kitleri özelleştirmekle sınırlı kalmadı ve ulus olarak övündüğümüz ve sanayileşiyoruz diye gurur duyduğumuz çok sayıda özel teşebbüse ait kuruluşlarda “yaşasın yabancı sermaye geliyor” sloganları eşliğinde yabancı şirketlere satıldı.<br />
+Büyük özverilerle kurdukları işletmeleri ülkemizde ki yasaların ve bürokrasinin akıl almaz zorlayıcı çarkı altında işletmeye çalışan yerli yatırımcılar, yabancı sermayeden gelen tatlı teklifleri görünce işletmeleri ellerinden çıkartmaya başladılar.<br />
+Özelleştirme ve yabancı sermaye girişi amacından uzaklaştı ve adeta ülkemizin en önemli değerleri yabancıların eline geçti.<br />
+Oysa yabancı sermayeyi teşvik etmenin amacı, yabancı kuruluşların kendi sermayeleri ile ülkemizde yeni yatırımlar yaparak istihdamı artırmasını, katma değeri yükseltmesini ve yeni teknolojileri ülkemize getirmesini sağlamaktı.<br />
+Bu el değiştiren işletmelerin tamamı kar eden, istihdam yaratan ve katma değeri yükselten kendi kuruluşlarımızdı. Ülkemizin yüz aklarıydı.<br />
+Kazanıyorlardı, işçi çalıştırıyorlardı, ihracat yapıyorlar ve ülkemize döviz kazandırıyorlardı. Her şeyden önce bunlar bizimdi. İşletmeler de kendi insanlarımız söz sahibiydi. Artık bunlar üzerinde söz sahibi değiliz.<br />
+Bu kuruluşların bir kısmı, ticari işletme olmanın ötesinde bir ülke için çok önemli olan stratejik öneme de sahipti. Özellikle de iletişim gibi ülkemizin istihbarat açısından gizlilik taşıyan bilgilerinin korunması da artık olanak dışı.<br />
+İlaç ve bankacılık gibi bir ülkenin can damarları da, artık yabancı ülkelerin denetimi altına girmiştir.<br />
+Bu yazıyı kaleme aldığım sırada TV haberleri, gece yarısı özelleştirmeler ile ilgili olarak TBMM’den geçen bir yasa tasarısını duyuruyordu.<br />
+Bu yasa ile özelleştirmelerde gerektiğinde başvurulabilen yargının alacağı kararların, gerektiğinde Bakanlar Kurulunca dikkate alınmamasının önünü açılmış oluyordu.<br />
+Bu arada, bir iktidar sözcüsünün de özelleştirilen firmalar üzerinde artık Devletin hiçbir şekilde söz sahibi olmayacağını söylemesinin hangi anlamlara geleceğini düşünmek dahi insanı ürkütüyor.<br />
+Bu konuyu yeniden gündeme taşımama neden, benim de mesleğim gereği olarak ilgili bulunduğum ilaç sektöründen bir çınarın daha yabancıların eline geçmesidir.<br />
+En son olarak geçtiğimiz günlerde ülkemizin en eski ve köklü yerli ilaç sanayinin lokomotiflerinden birisi olan Mustafa Nevzat İlaç Sanayi’nin tüm hisseleri de ABD’li Amgen firması tarafından satın alındı.<br />
+1923 yılından bu yana tam 90 yıldır ilaç üreten ve her geçen gün gelişen teknolojisi ile üretilen yerli ilaç oranını yükselten bu firma ile yerli ilaç sanayinin en önemlileri yabancıların eline geçmiş oldu.<br />
+Son günlerde de Almanya’nın ilaçta ki devi Bayer İlaç’ın da Türkiye’de ki bazı firmaları satın alacağı haberleri yoğunluk kazanmış bulunuyor.<br />
+İran-Irak Savaşı sırasında bu ülkelere ambargo konması sonrası büyük bir ilaç ve serum sıkıntısı yaşanmış ve çok sayıda yaralı da serum yokluğu nedeniyle hayatını kaybetmişti.<br />
+Bu gerçeği yaşamış bir eczacı olarak, ülkemizin kendi ilacını kendisinin üretir hale gelmesinden büyük bir mutluluk duyuyordum<br />
+Yazık oldu. Yıllarca emek vererek kazanılan bu yerli firmaların Türkî Devletlerinde ki pazar payları da yabancıların eline geçecektir.<br />
+Ne güzel değil mi?. Yatırım yapma ve pazar aramakla uğraşma derdi yok. Ülkemizin işsizlik sorununa çare olacak yeni işçi istihdam katkısı da olmayacak. Hazıra kon. Kar et. Karını da dışarı götür.<br />
+Özelleşen firmaların yatırım yaparak daha çok işçi çalıştırmak yerine işçi sayını azaltmaya giderek binlerce işçiyi de işsizler ordusuna katması da bir başka çarpıklıktır.</p>
+<p>Şimdi size son 10 yılda yabancıların eline geçen bazı firmaların listesini veriyorum. Lütfen inceleyin.</p>
+<p>Özelleşme Ve Satış Yolu İle Yabancı Ülkelerin Eline<br />
+Geçen Türk Firmaları</p>
+<p>Eczacıbaşı İlaç,      Çekler’in.<br />
+Mustafa Nevzat,    ABD’nin.<br />
+Fako İlaç,               İzlanda’niın.<br />
+Deva İlaç,               Lüxemburg’lunun.<br />
+Münir Şahin İlaç,  İngiltere’nın.<br />
+Biofarma İlaç,       ABD/İngiltere’nin<br />
+Yeni İlaç,                İtalya’nın.<br />
+Dr. Feridun Frik,  İtalya’nın.<br />
+Türk Telekom,      Arapların.<br />
+Telsim                    İngiliz’in.<br />
+Avea                      Lübnanlı'nın<br />
+Türkcell'in            Yarısı Finli'nin Yarısı Rus'un.<br />
+Kuşadası Limanı  İsrailli'nin.<br />
+İzmir Limanı        Hong Kongolu'nun.<br />
+Araç Muayene İst. Alman'ın.<br />
+Başak Sigorta       Fransız'ın.<br />
+İETT Garajı        Dubaili'nin.<br />
+Petkim? Ermeni’nin.<br />
+Rakı, Amerikalı'nın.<br />
+Garanti'nin Yarısı Amerikalı'nın.<br />
+Fınansbank Yunanlı'nın...<br />
+Oyakbank Hollandalı'nın.<br />
+Denizbank Belçikalı'nın.<br />
+Türkiye Finans Kuveytli'nin.<br />
+TEB Fransız'ın.<br />
+Cbank İsrailli’nin.<br />
+MNG Bank Lübnanlı'nın.<br />
+Alternatif Bank Yunanlı'nın.<br />
+Dışbank Hollandalı'nın.<br />
+Şekerbank Kazak'ın.<br />
+Yapı Kredi'nin yarısı İtalyan'ın.<br />
+Adabank Kuveytli'nin.<br />
+Beymen'in Yarısı Amerikalı'nın.<br />
+Enerjisa'nın Yarısı Avusturyalı'nın.<br />
+İzocam, Fransız'ın.<br />
+TGRT (FOX) Amerikalı'nın.<br />
+Süper FM Kanadalı'nın.<br />
+Demirdöküm Alman'ın.<br />
+Döktaş Fransız'ın<br />
+POAŞ Avusturya’nın<br />
+Bunlara daha önce satılan Şeker fabrikalarını, Çimento fabrikaları, Seydişehir Eti Alüminyum AŞ, Erdemir, İsdemir, Tüpraş, KBİ, Etibank Bakır AŞ, Gümüş AŞ ve Krom AŞ. Tesislerini ve yazamadığın daha onlarcasını da eklerseniz işin boyutlarını çok daha iyi anlarsınız.<br />
+Bu son yazdığım tesislerin bir kısmı yerli firmalara satılmıştır. Ancak yerli firmaların çoğu aldıkları bu dev kuruluşları kısa süre sonra ya ortaklık yolu ile veya tamamını yabancı kökenli şirketlere devretmiştir.</p>
+<p>Bizim lise öğrencilik yıllarında “ASKERLİK DERSİ” Adıyla bir dersimiz vardı. Hani, şu son günlerde askeri vesayeti çağrıştırıyor denerek liselerden kaldırılan ders.<br />
+Zaman zaman görsel ve eğlenceli geçen bu dersten aklım da kalan bir konu var. O konuda geçen bir madde günümüzde yaşananlara da çok uyuyor ve insana “acaba” dedirtmeye yetiyor.<br />
+Ders konusunun başlığı “Soğuk Harp’ti.”<br />
+Bir maddesinde şunlar yazılıydı; “Soğuk savaşta ülkeler tüketime alıştırılır, böylece az üretip çok tüketmeye başlarlar. Ülkenin ithalat-ihracat dengesi ithalat ( dışalım) lehine bozulur. Ülke ekonomisi bozulur. Ülkeler hızla dışa bağımlı hale getirilir. ”<br />
+Bunun anlamı şudur; “Artık silahla savaş devri bitmiş ve ekonomik savaş başlamıştır. Artık ülkeler silahla değil ekonomik değerleri çökertilerek işgal edilir.”<br />
+Günümüzde buğday, şeker pancarı, pamuk, tütün ve fındık gibi ülkemiz açısından çok önemli ürünlerin ekilmesi caydırıcı uygulamalarla asgariye düşürülmüş ve köylümüz üreten olmaktan çıkartılmış, en verimli araziler dahi kaderine terk edilmiştir.<br />
+Bu tablo içinizi burkmuyor mu? Benim yüreğimi acıtıyor. Acıtmanın da ötesinde, bu işin sonu nereye varacak diye de düşündürüyor..<br />
+Ne yazık ki, dün varsayım veya paranoya olarak tanımlananların bugün gerçekleşiyor olmasını görmekte çok şaşırtıcı gelmiyor..<br />
+İyi haftalar.. 29 Nisan 2012</p>
+<p>Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0580-egitim-camiasi-kendini-sorgulamalidir.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0582-elestiri-hakki-ve-elestiriye-tahammul.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

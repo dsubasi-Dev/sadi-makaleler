@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Samsun 3. Kent Kurultayı Yapıldı</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Samsun 3. Kent Kurultayı Yapıldı
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2004
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0109
+
+</div>
+
+
+<div class="article-content">
+
+<p>SAMSUN 3. KENT KURULTAYI YAPILDI</p>
+<p>Samsun'un sorunlarının tartşıldığı ve bu sorunları çözmekle yükümlü olan yerel yöneticiler  ile<br />
+milletvekillerimizinde katıldığı kent kurultaylarından 3. cüsü cumartesi günü Kurumahmutoğlu Büyük Samsun oteli salonunda gercekleştirildi. Klas TV tarafından canlı olarak tüm Samsun halkına izleme olanağı sağlandı. Geçen hafta detaylı olarak yazdığım gibi kurultay formatında yapılan değişikllik yararlı oldu sanıyorum. Konuşmacı sayısının azaltılması ile hem konuşmacılara daha uzun süre sağlanmış,  hemde izleyicilerin sıkılması önlenmiş oldu.<br />
+SAM-SEV başkanı olarak tarafımdan yönetilen kurultayın giriş bölümünde geçen yıl gündeme taşınan sorunların hangilerinin çözüme ulaştığı veya hangilerinin çözümü için başlangıç yapıldığının altını çizdim. Özellikle SAM-SEV yönetiminin üç yıl süren ısrarlı çalışmaları sonunda genel müdürlüğün tozlu raflarından indirilerek Samsun gündemine taşınan Tersane Projesinin son iki kurultayında gündeminde yer almıştı. Bugün bu projenin hayal olmaktan çıkarak temel atma aşamasına geldiğini , bunun son bir yıl içinde sonuca ulaşan bir proje olduğunu belirttim. Okullarımızdaki sınıf sayısının yetersizliğine bağlı olarak eğitim seviyesinin hızla düşmekte oluşu , geçen yılki kurultayın bir başka önemli gündem maddesiydi. Bilindiği gibi o kurultayda alınan kararlar doğrultusunda son bir yılda çok önemli girişimler başladı. Milletvekilimiz sayın Cemal Yılmaz Demir'in başlattığı derslik yaptırma kampanyası büyük destek gördü. Sivil toplum örgütleri ve hayırsever Samsunluların katkısı ile çok sayıda okulumuza yeni sınıflar eklendi. Birisi SAM-SEV üyesi olan iki Samsunlu işadamı iki okul inşaatı başlattı. Bu girişimlerde geçen yılki kurultayın önemli sonucuydu. Yine 1. kurultayda Samsun gündemine bomba gibi düşen ve üç yıldır sivil toplum gruplarının oluşturduğu ''çevre birlikteliğinin''öncülük ettiği tepki mitingleri ve yöre halkınında verdiği büyük destekle bugün bu çevre düşmanı mobil santrallar artık çalışmıyor. Samsun Barosunun sürdürdüğü yasal mücadelede sonuca ulaştı ve bu santrallar mahkeme kararı ilede mahkum edildi. Meclis araştırma komisyonu raporuda bu santralların 6 nolu fuel-oille çalıştırılmasının sakıncalı olduğunu belgeledi. Bu karar şimdi mecliste görüşülecek. Bu santralların bugün çalıştırılmayarak çevreyi kirletmiyor oluşuda bu kurultayların bir başka başarısı olarak tarafımdan vurgulandı. Ancak tüm yasal dayanaklarını yitirmesine rağmen hala kesin olarak kapatılmamış olmasının nedenini, başından beri bu santrallara karşı olduklarını katıldıkları Tekkeköy mitingindede halkın huzurunda açıklayan milletvekillerimizin, bu kurultayda açıklamalarını istedim. Burada şunuda vurgulamakta yarar var. Eğer bu santrallar yasal dayanağını yitirmişse, bu fakir ülkenin İMF ten faiz ödeyerek aldığı paraların bir kısmının bu santral sahiplerine ödemeye devam edimesinin nedenini yetkililerin açıklaması gerekir diye düşünüyorum. Bu konuya kısaca değinen iktidar milletvekilleri açıkçası kimseyi tatmin etmedi. Muhalefet adına konuşan sayın Sezai Önder'in ''meclis araştırma raporunun''meclis gündemine bir türlü getirilmediği yakınmasıda düşündürücüydü.<br />
+Türkiye'nin en genç milletvekili olma ünvanını taşıyan sayın Suat Kılıç'ın biraz da toplantıya geç katılması ve başlangıç bölümündeki konuşmaları kaçırması nedeniyle  olacak sunum yapan sivil toplum örgütlerinin sunumlarını yetersiz bulması ve ''Kent Müzesi Projesinin''günemde çok yer almasını anlamadığı yönündeki heyecan dolu konuşması biraz gerginlik yarattı. Çok başarılı işler yapan milletvekillerinin biraz da desteklenerek motive edilmeye ihtiyaçları olduğunu söyleyen sayın Kılıç gençliğinde verdiği heyecanla düşündüğü gibi konuşuyordu.<br />
+Son bölümde, milletvekillerinin ülkeye hizmet etmek arzu ve kendi istekleri bu göreve seçildiklerini, bulundukları makamın eleştri makamı olmadığını, eleştirileri dinleyerek çözülebilecekleri çözmeye çalışmaları gerektiğinin altını çizdim. Ayrıca Samsunlunun hizmete susadığını hangi siyasi görüşten olursa alsun Samsun'a yapılacak her güzel şeyin alkışlanacağına inandığımı , bunu giriş bölümündede yaptığımı açıklayarak toplantıyı kapattım. Gelecek yıl 4. yapılacak kurultaydada burada konuşulanların bazılarının çözülmüş olduğunu görmeyi diliyorum.<br />
+Başta bu kurultayın hazırlanmasına destek veren sivil toplum örgütlerine ve Ankara'dan bu kurultay için Samsun'a gelerek katkı veren milletvekillerimiz ile katılımcı milletvekillerinin belirlenmesi konusundaki destekleri için AKP ve CHP nin sayın il başkanlarına teşekkür ediyorum. Özel bir teşekkürümde B. Şehir Belediye Başkanımız sayın Yusuf Ziya Yılmaz'a olacak. Kurultaya iki gün kala sayın Başbakan tarafından belediye başkanlarının Ankara'da üç günlük bir seminere çağrıldığını duyunca doğrusu çok üzüldük. Kendileri ile görüşerek hiç olmazsa bir gün izin alıp katılmasını rica ettik. Sayın Yılmaz büyük bir özveri göstererek kurultay sabahı Ankara'dan dönerek kurultay'a katıldı ve Kurultay'ın son bölümünde ayrılarak tekrar Ankara'ya döndü. Anlayışı için kendilerinede teşekkür ediyorum. Her zaman olduğu gibi bize her türlü kolaylığı gösteren Kurumahmutoğlu B. samsun Oteli sahip ve genel müdüründen en alt kademesine kadar tüm çalışanlarına, büyük bir özveri ile bu kurultayıda Samsunlulara canlı olarak izleten KLAS TV genel yeyın yönetmeni sayın Kenan Engizli ve ekibine, toplantıyı izleyen köşe yazarları ile bsın emekçilerine yönetim kurulu üyelerim adına şükranlarımı sunuyorum. Yönetim kurulumdan bu kurultayın hazırlanmasına işlerini bırakarak destek veren arkadaşlarıma sevgilerimi iletiyorum.<br />
+İyi haftalar dleğiyle....<br />
+SADİ  SUBAŞI<br />
+SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0108-samsun-3-kent-kurultayi.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0110-toplum-i-cin-caba-harcayanlari-yureklendirmeliyiz-1.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>PKK Terörünün Çözümü Sürecinde Yaşanan Karmaşa ve Bakan Yorumu…</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+PKK Terörünün Çözümü Sürecinde Yaşanan Karmaşa ve Bakan Yorumu…
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2013
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0632
+
+</div>
+
+
+<div class="article-content">
+
+<p>www. sadisubasi@denizeczaneoptik. com         SUNUŞ</p>
+<p>PKK TERÖRÜ ÇÖZÜM SÜRECİNDE YAŞANAN<br />
+BELİRSİZLİKLER VE ÇÖZÜM SÜRECİNE BAKAN<br />
+YORUMU..</p>
+<p>Güneydoğu Bölgemizde yıllardır süren ve geçmişi Osmanlı dönemine dayanan bir ayaklanma ve buna bağlı kanlı terörist eylemlerin bitirilmesi noktasına gelinmiş gözüküyor.<br />
+Aslında işin bu noktalara gelmesinin altında, Avrupa’nın ve bölgenin en büyük Ordusu olan Türkiye’nin bu işi askeri yönden çözememiş olması yatmaktadır.<br />
+Sonunda, “Teröristle görüşmeyiz, terör başı ile görüşmek bu ülkeye ihanettir” noktasından, bu günkü noktaya gelinmiştir.<br />
+Türk askerinin bu konuda ki başarısız gözükmesinin altında ise, çok acı bazı gerçeklerin bulunduğunu ilgililer çok iyi bilmektedir.<br />
+Bunların başında da, bize dost gözüküp elimizi kolumuzu bağlayan ve el altından kendi çıkarları doğrultusunda PKK’ya maddi ve silah desteği veren ABD ile Avrupa devletlerinin ikiyüzlülüğü ve bunu siyasi alanda önleyemeyen tüm dönemlerin siyasi iktidarlarının eksikliği yatmaktadır.<br />
+Her şeye rağmen, bugün biz kez daha kanlı terörün biteceği umutları doğmuştur. Çok dikenli yollardan geçecek bir çözüm süreci başlamıştır.<br />
+İktidar ve PKK’yı temsilen BDP, bu sürecin şu an ki baş aktörleridir.<br />
+Ne var ki, muhalefet partileri bu süreci başlatan anlaşmanın şartlarının açıklanmamış olmasından dolayı endişeli gözükmekte ve bu konuda TBMM’nin bilgilendirilmesini istemektedirler.<br />
+Gerçekten de kimin kime ne ödün verdiği veya vereceği şartlarla bu çözüm süreci noktasına gelinmiştir? Bunu bilmek bu milletin temsilcileri başta olmak üzere, bu ülkede yaşayan herkesin hakkıdır.<br />
+Hele de ortada çok sesli demokrasiyi ortadan kaldıracak ve bir nevi sivil diktatörlüğe yol açacak “Başkanlık Sistemi’nin” ve Anayasa’nın olmazsa olmaz ilk dört maddesinin değiştirilme taleplerinin gündemde olduğu ve bu çözüm sürecinin şartlarından birisinin, yeni hazırlanan “Anayasa’nın” içinde olup olmadığı netlik kazanmamıştır.<br />
+Önceleri “Akil Adamlar” önerisine karşı çıkan iktidar, bugün bu komisyonu alelacele kurmuş ve sürece dâhil etmiştir.<br />
+Ana Muhalefet Partisi’nin bir yıl önce önerdiği, “TBMM Çözüm Komisyonu” kurulsun önerisi, o gün iktidar tarafından anında reddedilirken, bugün aynı önerinin İmralı’dan gelmesi ile “TBMM Çözüm Komisyonu” kurulması kararı da alınmıştır..<br />
+Aslında çözüm süreci konusunda sadece toplumun en az % 50’nin değil, İktidar Partisi’nde de kafaların karışık olduğu gözükmektedir.</p>
+<p>Geçtiğimiz hafta sonu bir dizi program için Samsun’a gelen Gümrük ve Ticaret Bakanı Sayın Hayati Yazıcı’nın, Cuma sabahı yerel gazetelerin muhabir ve köşe yazarları ile yaptığı kahvaltılı toplantıda da ki konuşması ve sorulara verdiği cevaplar da doyurucu olmadı.<br />
+Daha kahvaltıya başlamadan gerginliği hissedilen Sayın Yazıcı, çözüm sürecini kısaca özetledikten sonra “Önümüze çıkan çıyanları ve yılanları dikkate almayacağız” gibi sözlerle, sürecin belirsiz yanlarını sorgulayanları muhatap almayacaklarını ve bu süreci iktidarın tek başına götüreceği izlenimini güçlendirdi.<br />
+Sayın Yazıcı’nın açıklamaları sırasında, sık sık hukuktan bahsetmesi üzerine bir köşe yazarının, “Habur’da ki buluşma da hukuki miydi? “ sorusunu, “Geçmişe takılmayalım” diyerek geçiştirdi.<br />
+Ben de, “Bu ülkede hiç kimse kan dökülmesinin önlenmesi için yapılacaklara karşı çıkmaz ama bu konuda uygulanan yöntemlere itirazlar var” dedikten sonra, “PKK terörünün uyuşturucu baronlarının taşeronluğunu yaparak uyuşturucu trafiğini yönetmesi ile ilgili bir proje var mı? Silah bırakacak bu militanların bu gelirden mahrum olması karşısında onların yaşamlarını yürütebilmelerine yönelik nasıl bir tedbir alınacak?” şeklinde ki iki aşamalı bir soru sordum.<br />
+Sayın Bakan soruma, süreçle ilgili bilinenleri anlatmakla yetindi. Araya girerek, “Benim sorum bunlar değildi.” Demem üzerine de, güvenlik güçlerinin uyuşturucu ile mücadeleyi sürdürdüğünü söyleyerek geçiştirdi.<br />
+Bir başka deneyimli gazetecinin, “Akil Adamlar Kandil ve İmralı’ya da gidecekler mi?” Sorusunu da “Onlar bilirler” şeklinde cevapladı.<br />
+Bir gazetecinin, “Lütfen siz de, size destek vermeyen % 50’nin de samimiyetine güveniniz” sözü, süreçte ki sıkıntının özetiydi.</p>
+<p>Belirlenen isimler nedeniyle çokça eleştirilen “Akil Adamlar Heyetinin” oluşturulması sırasında yaşanan bir görüşme, bu heyetin nasıl oluşturulduğu konusunda yeterince bilgi vermektedir.<br />
+Cumartesi sabahı özel bir işini görüşmek üzere beni İstanbul’dan arayan bir arkadaşım, iş konusunu görüştükten sonra geçen hafta yaşadığı bir görüşmeyi anlattı.<br />
+Muş’un en geniş ailelerinden birisinin kızı olan arkadaşım, uzun yıllar Elazığ’da görev yapmış ve o yöreleri çok iyi bilen ve o yörelerde çok sevilen birisidir.<br />
+Sosyal demokrat görüşte ki bu arkadaşım, siyaset sahnesinde de yer almış ve geçmişte Merhum Ecevit’in yakın ekibinde yer almıştır. Ecevit döneminde Muş, Tunceli, Elazığ, Bingöl ve Bitlis yöresinde aktif olarak çalışmıştır.<br />
+Şu an da İstanbul’da yaşayan bu arkadaşım, önceki hafta telefon ile aranır ve kendisi ile “Akil Adamlar” konusunda bir görüşme yapmak istediklerini söyleyerek kendisini bir araçla alırlar ve Mecidiyeköy’de ki çok iyi döşenmiş bir apartman dairesine götürürler.<br />
+Kendisine bir dizi sorular sorarlar. Kendisi ile tüm özel bilgilere sahip oldukları ve geçmişini çok iyi bildikleri anlaşılmaktadır.<br />
+Neden Muş’tan çıktığı ve siyasi görüşleri ile ilgili sorular bazılarıdır. Sayın Recep Tayyip Erdoğan’ı başarılı bulup bulmadığı gibi sorularda sorulur.<br />
+Arkadaşım, “On yıl tek başına iktidar olan parti ve lideri başarılı olmak zorundadır. Ecevit’ de tek başına on yıl başbakanlık yapabilseydi O’da çok başarılı olurdu” der.<br />
+Kendisinin Atatürk ilkelerine ve O’nun kurduğu Türkiye Cumhuriyeti’ne inandığını ve sahip çıktığını da söyler.<br />
+Görüşme sonrası, araçla gideceği yere bırakılır ve kendisine geri döneceklerini söyleyerek teşekkür edilir.<br />
+Tabii ki, daha sonra arayan soran olmaz.<br />
+Çok fazla söze gerek olduğunu sanmıyorum.</p>
+<p>Çözüm sürecini yöneten iktidarın en etkili Bakanlarından birisinin dahi inandırıcı şeyler söyleyemediği, soruları yuvarlak sözlerle geçiştirdiği bu süreci, anlatacak ve kafası karışıkları ikna turuna çıkacak “Akil Adamların” işi kolay olmayacağa benziyor.<br />
+Her şeye rağmen bu kez akan kanı durduracak bu sürecin başarı ile bitmesi en büyük dileğim. Yeter ki, bu süreç ve alınacak kararlar, yaşamlarının baharında ki evlatlarını kaybeden ailelerin yüreğini bir kez daha dağlamasın.<br />
+Bir çözüm anlaşması yapılıyorsa, karşılıklı verilecek ödünler de olacaktır. Yeter ki, neler olduğunu birkaç kişiden fazla kimsenin bilmediği bu ödünler, Türkiye Cumhuriyeti’nin geleceğini olumsuz etkileyecek bazı kararları da peşinden getirmesin.<br />
+İç barışın sağlandığı huzur ortamında hep birlikte yaşamak dileğiyle, iyi haftalar.. 07.04.2013</p>
+<p>Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0631-turkiye-uzerinde-oynana-oyun-ve-sartli-refleks-uygulamasi.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0633-bilber-gazi-kullanmak-i-nsanlik-sucudur.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

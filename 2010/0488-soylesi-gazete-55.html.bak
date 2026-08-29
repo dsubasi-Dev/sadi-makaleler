@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Söyleşi Gazete 55</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Söyleşi Gazete 55
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2010
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0488
+
+</div>
+
+
+<div class="article-content">
+
+<p>SUBAŞI’NDAN VEKİLLERE, BAŞKANLARA, TSO’YA SALVO</p>
+<p>SAMSEV Başkan Sadi Subaşı, EMO sunumunda yaşananları rezalet olarak yorulmadı. Subaşı, sürekli kan kaybeden lidersiz kent olarak değerlendirirek, “Samsun’un Samsun’da devletin varlığından da söz etmek mümkün değil hale geldi. Samsun'</p>
+<p>Hazırlayan : Erdem Erol</p>
+<p>SAMSEV Başkan Sadi Subaşı, EMO sunumunda yaşananları rezalet olarak yorulmadı. Subaşı, sürekli kan kaybeden lidersiz kent olarak değerlendirirek, “Samsun’un Samsun’da devletin varlığından da söz etmek mümkün değil hale geldi. Samsun'da siyaset var, siyasetin de çirkini var. Siyaset Samsun'un çıkarları için değil; kişisel çıkarlar için yapılır haline geldi.” dedi…</p>
+<p>SAMSEV Başkanı Sadi Subaşı, Gazetemiz Yayın ve Yazıişleri Koordinatörü Erdem Erol’a gündeme yönelik değerlendirmelerde bulundu. Subaşı’nın değerlendirmeleri adeta ‘Salvo’ gibiydi. Bu Salvo’dan bürokratlar, milletvekilleri, siyasetçiler, belediye başkanları, sivil toplum kuruluşları ve basın da nasibini aldı.</p>
+<p>GAZETE55: hafta içinde EMO'nun düzenlediği, Samsun'un geleceğine yön vermek için enerji alanında yapılması gerekenlerin rapor olarak ortaya konulduğu toplantıya bir tek SAMSEV katıldı. Tüm sivil toplum kuruluşları, siyaset, bürokrasi böyle bilgilenmeye ihtiyaç duymuyordu, siz neden böyle bir ihtiyaç duydunuz, etkinliğe katıldınız?<br />
+SUBAŞI: Biz 22 seneyi tamamlamış olan bir sivil toplum kuruluşuyuz. Hani Avrupa Birliği'ne giriyoruz, bizim için sivil toplum kuruluşları çok önemli diyenlerin bahsettiği o sivil toplum kuruluşlarından birisiyiz. Her ne kadar birileri bizi yeterli güçte görmeseler de, 20 senedir, çizgisinden ayrılmayan bir STÖ olmanın onurunu yaşıyoruz. Biz Samsunla ilgiline toplantı yapılmışsa ve davet edilmişsek oraya gideriz. Kaldı ki bu toplantı bir sunumdu. EMO'nun yaptığı, izledikten sonra benim de bilmediğim şeyleri öğrendiğim, dört dörtlük bir enerji sunumu yapıldı orada. Tabi burada sorgulanması gereken ne EMO, ne de SAMSEV. Tabi Samsunla ilgili bir toplantıya, sunuma gösterilen ilgisizlik yaşanan ilk değil ama bu boyutta ilk defa oluyor. Birileri çıkıyor, "Samsun'da birliktelik yok, birliktelik olmadan işler yürümez" diyorlar, onlara kimse "Siz böyle diyorsunuz ama bu tür etkinliklere siz katılıyor musunuz, bu tür etkinliklere liderlik ediyor musunuz?" diye sormuyor. Samsun'da çok kötü, utanç verici bir tablo oluştu. Birileri, görev alması gereken birileri ne yapıyorlar, ne de yaptırıyorlar. Yapanı da engelliyorlar. Sonra da kalkıyorlar, bunları söyleyen kendileri değilmiş gibi, Samsun'da birlik olmadığından bahsederek şehrin gündemine oturmaya çalışıyorlar. Samsun yatırıma aç, Samsun işsizi en çok illerden başında, Samsun'da sesi çıkması gereken hiçbir sivil toplum örgütünün susma hakkı yoktur, bu kenti yönetmeye talip olanların susma hakkı yoktur. Bu kenti temsil etmek için siyaset yapanların susma hakkı yoktur. Bu kent Türkiye'nin son 40 senede en çok mağdur edilmiş kentidir. Sürekli kan kaybediyorsa bir kent, sürekli ekonomik olarak zayıflıyorsa, sosyal yönden geri kalıyorsa ve geçmişindeki güzellikleri arıyorsa bir kent, o kentte çok ciddi bir yönetimsel sıkıntı vardır. Bunların sorumlusu, bu kentte siyaset yapanlar, yerel yöneticiler, sivil toplum örgütlerinin başında oturanlar. Samsun halkı uyuşturulmuş, hak aramasını talep etmesini bilmeyen toplum haline getirilmiş. İşte SAMSEV bunu değiştirmenin çabasında, 20 yıldır doğru bildiklerimizi her türlü tehdide rağmen  söylüyoruz. Samsun'da çoğu kez tek kaldığımız için söylemlerimizin bir kısmı havada kalıyor. Birileri de 'ya konuşsunlar ne olacak" diyor ve teşvikte olduğu gibi 'gözünüze girsin' denilerek hakarete uğrayan kuruluşların başında geliyoruz.<br />
+Bu böyle gitmez, atanmışlardan çok fazla bir şey beklediğimiz yok. Çünkü Samsun'a atanmışlar, hepsinin bir hedefi var, hepsi de daha iyi bir yere gitmek için Samsun'daki geçiş sürecini kazasız, belasız atlatmaya çalışıyorlar. Çünkü Türkiye'de yanlış bir atama ve devlet yönetim sistemi oluştu. Eskiden kent yönetimine gelenler, atamayla da gelseler devletin yöneticisiydi; artık kente gelen yöneticiler hükümetlerin yöneticisi oldu. Bu 20-25 senedir böyle oldu. Olay böyle gelişince Samsun’da devletin varlığından da söz etmek mümkün değil hale geldi. Samsun'da siyaset var, siyasetin de çirkini var. Siyaset Samsun'un çıkarları için değil; kişisel çıkarlar için yapılır haline geldi. Sözlerimin ağır olduğunu biliyorum ama artık Samsun'da bunların tartışılması lazım. Samsun'da çok önemli olaylar, çok önemli söylemler oluyor. Bunları gündeme taşıyan basınımız da çok ciddi sıkıntılar baş gösterdi. Birileri bir şeyleri iddia ediyorlarsa, bir şeyler söylüyorlarsa bunları sorgulama görevini de yapmıyorsa basınımızın da güç kaybettiği ortaya çıkar. Hele son zamanlarda gruplaşmalar, gazetelerin bir yerlerde bloklaşmaya başlaması, bunlar Samsun adına kötü tabloların devamını gösteriyor.</p>
+<p>GAZETE55: EMO'nun sunumunun yapıldığı toplantıya dönecek olursak...<br />
+SUBAŞI: EMO 40 yakın sivil toplum örgütü ve yerel yöneticiyi davet etmiş. Son dönemlerde valiliğe bağlı planlama ofisine göre 36 tane büyük yatırımın Samsun'a geleceği söylemleri üzerine EMO kendi konusu olan enerjiyle ilgili olarak, bu kadar sanayi kuruluşunun enerji ihtiyacının durumuyla ilgili araştırma yapıp, rapor hazırlamış. Raporun içeriği son derece önemli, Samsun’da yatırım yapmayı düşünenlerin belki de önce gelip bu raporu incelemesi gerekir. Türkiye'de enerji sıkıntısı var deniliyor ama EMO, şuan Türkiye'de enerji sıkıntısı yok ama yarın olacak diyor. Sanayi yeniden canlanırsa olacak, şuan sıkıntı yok., hele Samsun’da hiç yok. Ama Samsun’da bir başka büyük sıkıntı var. Samsun’da 4 tane trafo merkezi var ve EMO'nun verilerine göre dördü de dolu kapasitede çalışıyor. Yani Samsun’da büyük ölçekte bir sanayi kuruluşunun elektrik alma şansı yok, elektrik olduğu halde yok. Çünkü dağıtım sistemi şuanda dolmuş durumda. Samsun’da yeni bir kuruluşun enerji alması için Samsun'da yeni bir trafo merkezine ihtiyaç var. Bunların raporlarını sunuyorlar. Şimdi böyle bir toplantıya Samsun Valisi katılmıyor, 4'ü alt kademe biri büyükşehir olmak üzere 5 belediye başkanı katılmıyor.  İlçe belediye başkanları, belde başkanları katılmıyor. Bu elektrik enerjisini dağıtan kurumun başındakiler de katılmıyor. Sanayiyi teşvik edecek, sanayicilerin önünde her gün pembe tablolar çizen sivil toplum kuruluşları da yok, işadamları dernekleri de yok... Ha deniliyorsa ki bu iş EMO'ya mı kaldı. O zaman bir karar çıkarırsınız, tüm sivil toplum kuruluşlarını kapatırsınız, dönersiniz 70'li yılların öncesine al, gülüm ver gülüm devam edersiniz... Şimdi bu ilgisizliği, bu rezaleti kim sorgulayacak. Bunu sorgulaması gereken de Samsun basınıdır. EMO'da yaşanan rezaletin ertesi gün resimler basılmış boş koltukların ve haber niteliğinin ötesinde bir tek köşe yazısının dışında ne bir yazı var, ne de niye gelinmediğini sorgulayan bir yazı var. Yıl içinde iki ayrı sempozyum daha yapıldı, bu toplantılara da hiç kimse katılmadı... Ama bakıyorsunuz, bu kuruluşlar kendi aralarında pembe tabloların çizildiği toplantılar yaptığız zaman bu şehrin en yüksek yöneticisi dâhil herkes orda. Gelen kişi Samsun’un kötü tablosunu dahi ortaya koymuş olsa, alkışlamak için orada varlar. Oralarda biz, TMOBB ve tabipler odası çağrılmıyor. Niye, çünkü SAMSEV katıldığı toplantılarda bu şehrin ve insanlarının haklarını korumak için doğru bildiği şeyleri bakan da olsa çıkıyor, soruyor. Bu birilerini rahatsız ediyor.</p>
+<p>GAZETE55: Niye Samsun’un haklarını korumak için SAMSEV soruyor, konuşuyor ki? Bu şehrin 6'sı iktidarda olmak üzere 9 milletvekili, valisi, belediye başkanları yok mu? Bunlar varken, SAMSEV’e görev düşer mi?<br />
+SUBAŞI: Doğru söylüyorsunuz, bu işler SAMSEV’e kalmaması lazım. Hatta teşvikte olduğu gibi başka kimse yok mu diyorlar. Ama teşvikte de basın bangır bangır bağırırken, SAMSEV birileri çıkıp Samsun adına konuşu sahiplensin diye bir hafta bekledi. Ama ses çıkmayınca SAMSEV misyonu gereği bu sorumluluğun altına girdi. Kim sabote etti? En başta bu işin önüne geçmesi gereken kuruluşlar. Hatta o kadar ki, en önemli kurumun başındaki kişi Sayın Osman Kara'nın benimle yaptığı canlı yayına katılarak, benden de daha fazla süre kullanarak, Samsun’un neden teşviğe ihtiyacı olmadığını anlattı. Şimdi aradan 3,5 yıl geçiyor, bu sefer aynı kuruluşun başkanı Samsun’un teşvikle kuşatıldığını ve Samsun'lu işadamı ve sanayicilerinin büyük sıkıntılar yaşadığını söylüyor... Yine bekliyoruz 2 gün, kimseden çıt yok, hiç bir basın kuruluşundan sorgulama yok. Ve biz basın açıklaması yapmak zorunda kalıyoruz. Ertesi gün açıyoruz gazeteleri, sadece haber var. Hiç kimse ne bizi, ne o yanlışı yapanları, ne de 3,5 yıl önce teşvik için oluşturulan birliktelikten niye çekildiklerini hiç kimse sorgulamıyor.</p>
+<p>GAZETE55: Samsun sadece teşviği mi kaybetti, başka kaybettikleri karşısında da ses çıkmadı galiba?<br />
+SUBAŞI: Evet, teşviğin ardından yeni bir umut saçılmıştı. ‘Samsun cazibe merkezi ‘olacak denilerek avutuldu. Samsun bir süre oldu olacak gibi sözlerle avutulurken Samsun’a gelen bakan Nazım Ekren, yine aynı zevatın katıldığı toplantıda; "siz nerden çıkardınız Cazibe Merkezi'ni” diyor. Teşvikten sonra Samsunluyu kandırmak için bunu pompalayanların da bulunduğu toplantıda Sivas, Diyarbakır ve Trabzon'a bunun verildiğini söylüyor. Samsun’un valisi orada, büyükşehir belediye başkanı, alt kademe belediye başkanları, pembe tablolar çizen sivil toplum örgütünün yöneticileri, bu sözleri Samsun’a pompalayan milletvekilleri orada ama hiç kimse ağzını açıp bir şey diyemiyor. SAMSEV orada olsaydı, TMOBB, tabipler birliği orada olsaydı, terbiye kuralları içinde Samsun’un neden oyalandığını, Samsunlunun neden aldatıldığını sorardı.</p>
+<p>GAZETE55: Tüm bu sıkıntı nereden kaynaklanıyor?<br />
+SUBAŞI: Samsun gibi çok kan kaybetmiş şehrin en büyük eksiği, bu kentin lideri olmamasıdır. Kentin lideri kim olması gerekir, bu şehrin insanlarının oylarını alarak, bu kenti temsil etmesi gereken insanlardır. Bu insanların görevleri, Samsunlunun oylarını alarak belediye hizmetleri, alt yapı yapmak değildir, bu kentin insanlarına hamilik yapmaktır, önderlik yapmaktır. Çünkü o makamların anlamı şehrülemindir. O şehrin, güvenilir en üst kişisi demektir. Başka kentten örnekler verince bozuluyorlar ama önümüzde bir Eskişehir mucizesi var. O kentin belediye başkanı iktidardan değil, ana muhalefetten ya da meclisteki muhalefetten değil, meclis dışındaki bir partinin belediye başkanı, Belediye meclisinin hâkimi de iktidar partisi ama adam Eskişehir’de harikalar yaratıyor... Benim kentimin insanı, Tekkeköy’de çirkin yatırımlara mahkûm edilip, doğasının, sağlığının bozulmasına mahkûm edilmişken; beni yönetenler bize sahip çıkamadılarsa, tavırlarını koyamadılarsa onlar lider değildir. Samsun teşvik dışı bırakılırken, bunun sorgulamasını yapmayanlar, bu kentin lideri olamazlar. Samsun, cazibe merkezinin dışına bırakıldığında oturdukları yerden sayın bakana, Samsunlular adına iki tane soru soramayanlar bu kenti temsil edemezler. Bu kent adına siyaset yapanlar, yeri geldiği zaman Samsunlunun haklarını savunmak için eğer kendi hükümetlerine dahi bir soru soramıyorlar, biat içinde oturuyorlarsa bu kentin lideri yok demektir. Lideri olmayan kentin de hiç bir şekilde başarılı olma şansı yoktur.</p>
+<p>GAZETE 55: Bu kentin seçilmişleri, belediye başkanları bir araya gelebiliyor mu ki içlerinden lider çıksın, diğerleri de o liderin peşinden gitsin?<br />
+SUBAŞI: Sayın vekiller birliktelik yok diyor. Bunu sorgulayacak onanlar sizsiniz. Benden temsil oyu almışınız, 6'nız bir araya gelemiyorsunuz, muhalefetin iki vekili bir araya gelemiyorlar. Samsunspor’a destek kampanyası başlatan vekilin partisinden bir milletvekili destek vermiyor. Böyle bir kentte nasıl işler iyi gidecek. Bunları söyleyince SAMSEV tu-kaka oluyor. Susan, konuşmayan talep etmeyen, milletvekillerinin koluna girip sadece kendileri için bir şeyler isteyen toplumdan ne olur. Samsun halkı bunları sorgulamadığı sürece, bir şey sorgulamaya kalkanın kafasına vurulduğu sürece tabi susacaktır, susan toplumda bu kadar olacaktır. Ben Samsun adına çok üzgünüm, umutlu olmak istiyorum. Bu kentin insanıyım, çocuklarım bu kentte yaşıyor, üniversiteyi bitiren çocuklarımız şehirlerine dönemiyorlarsa, ziraat mühendisleri, elektrik mühendisleri çiftlikteki kahvelerde okey oynamak zorunda bırakılıyorsa bu Samsun'un utancıdır, bu utanç ta Samsun halkından çok Samsun'da 30-40 yıldır Samsun'u yönetenlerin ve siyaset yapanlarındır.</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0487-devlet-nedir-neden-ve-nasil-cokertilir.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0489-aydinlarin-yarin-eyvah-yanilmisim-deme-hakki-olamaz.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

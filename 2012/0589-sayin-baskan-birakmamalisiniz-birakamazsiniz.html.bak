@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Sayın Başkan Bırakmamalısınız…Bırakamazsınız</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Sayın Başkan Bırakmamalısınız…Bırakamazsınız
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2012
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0589
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>SAYIN BAŞKAN;<br />
+BIRAKMAMALISINIZ, BIRAKAMAZSINIZ..</p>
+<p>Samsunspor’un geleceği için bırakmamalısınız…<br />
+Sayın Yılmaz,<br />
+Basın ile yaptığınız toplantıda hemen herkesi suçlamış,<br />
+tehdit edildiğinizi ve yalnız bırakıldığınızı söylemişsiniz.<br />
+Samsunsporluları karamsarlığa iten kararınızı görev<br />
+almamak olarak açıklamışsınız.<br />
+Sayın Başkan, hatırlarsanız bundan tam on üç ay önce Samsunspor’un Bank Asya’da şampiyonluk ipini göğüslemesine iki maç kala akıl almaz bir yöntemle, daha açık bir deyimle darbe yapılarak yönetim görevden uzaklaştırılmıştı.<br />
+Alınacak tek puanın şampiyonluğa yeterli olacağı bir sırada, yönetim acilen şirketleşme maddesinin de yer alacağı bir gündemle genel kurul kararı almaya zorlanmıştı.<br />
+Beş yıl bir alt lige düşmemek için çırpınan bir takımı, çok kısıtlı imkânlarla Süper Lige taşıyan Sayın Erkut Tutu yönetiminin, bu başarının apoleti olacak kupayı alması ve bir yıllık çok zorlu bir mücadelenin yorgunluğunu giderecek şampiyonluk zevkini tatması engellenmişti.<br />
+Hepsinden öteye, beklenmedik kongre ortamı ile motivasyonu bozulan Samsunspor, gerekli olan tek puanı alamamış ve şampiyonluğu kaçırıp 2. likle yetinmek zorunda kalmıştı.<br />
+Belki de, yönetimden başka kimsenin şampiyonluğa inanmadığı dönemlerde dahi, kar soğuk demeden büyük bir inançla içerde ki ve dışarıda ki maçlarda desteğini esirgemeyen cefakar Samsunspor taraftarlarına, uzun yıllar sonra yaşanacak şampiyonluk turu çok görüldü..<br />
+Ne için yapıldı? Amaç neydi? Acelecilik nedendi? Kimse anlamadı. Genel Kurulda konuşan az sayıda ki birkaç kişiden birisi de bendim. Bu konuda sorulan sorulara karşı ikna edici açıklamalar yapılamamasına rağmen, Genel Kurul Samsun’un önemli işadamlarının görev talebine onay verdi.<br />
+Samsunspor’u Süper Lige taşıyan Sayın Erkut Tutu Yönetimi, yeni yönetime federasyondan gelecek 20 milyonun<br />
+(Yirmi trilyon) üzerinde bir de kaynak sağlamıştı.<br />
+Yine Sayın Tutu Yönetimi 30 Milyon civarında devir aldığı Samsunspor’un borcunu 24 milyona indirmiş ve bu borcu da kolay ödenecek bir şekilde yapılandırmıştı.<br />
+Sayın Yılmaz, siz işte bu şartlarda ve Süper Lige çıkmış bir takım aldınız. Yapılan bir sürü yanlış ve beceriksizliğin yanında hiçbir uyarıyı da dikkate almayarak,  Samsunspor’u geldiği lige düşürdünüz.<br />
+Yapılan açıklamalardan anlaşıldığına göre, sizin kişisel alacaklarınızla birlikte borç yükü 40 milyonu geçmiş, hatta 50 milyon TL. sınırına dayanmış ve bir alt lige düşmüş bir Samsunspor bırakıyor ve ben yokum diyorsunuz..<br />
+Bu olmaz Sayın Başkan.. Buna hakkınız yok..<br />
+Tehdit edildim diyorsunuz. Kimlerse açıklamak da sizin sorumluluğunuzdur. Samsunspor camiası her türlü olumsuzluğu, ilgisizliği, hatta ihaneti yaşadı ama tehdit lafını hiç duymamıştı. Bu da sizinle Samsunspor tarihine geçti. Sanıyorum Cumhuriyet Baş Savcılığı bu açıklamayı ihbar kabul ederek gerekli incelemeyi yapacak ve suçluları ortaya çıkartacaktır.<br />
+Yalnız bırakıldım diyor ve başta vali olmak üzere bazı kişi, kurum ve kuruluşların destek vermediğinden yakınıyorsunuz..<br />
+Valilerimizin özel durumlarına rağmen, her zaman ellerinden geldiğince destek vermeye çalıştıklarını bilen birisi olarak valilerin bu sözü hak ettiklerini sanmıyorum. Ancak diğerleri için söyledikleriniz doğrudur.<br />
+Ama bu kent, bugüne kadar hangi belediye başkanının, hangi siyasetçinin veya hangi sivil toplum kuruluşunun yeterli destek verdiğini gördü ki, siz de görebilecektiniz.<br />
+Bu gerçeği bilmeden ve onlara güvenerek göreve talip olduysanız büyük yanlış yapmışsınız.<br />
+Siz başarılı işadamısınız. En azından resmi kayıtlar bunu söylüyor. İşadamı planlamayı iyi yapabildiği ve ileriyi görebildiği ölçüde başarılı olur.<br />
+Sayın Başkan, bırakmayı düşündüğünüz takım bu kentin göz bebeğidir. Size de en zor gününüzde dahi desteğini esirgemeyen cefakâr Samsunspor taraftarlarının yaşam biçimidir. Çoğunun olmazsa olmazıdır.<br />
+Şimdi siz borç yükü 40 milyonu aşmış ve küme düşürülmüş bir takımı bırakmayı düşünüyorsunuz.<br />
+Bu karar Samsunspor’un felaketi olur. Bugün durum öncekilerden çok farklıdır. Bu şartlarda bu kulüp yönetim dahi bulamaz. Her yıl bir alt lige düşer ve koskoca bir Büyükşehir kentinin takımı spor tarihinin karanlık derinliklerinde kaybolur gider. Bunun sorumluluğu da, vebali de ağır olur.<br />
+İşte bu nedenle Samsunspor’u bırakmamalısınız.<br />
+Parayı sorun etmediğinizi tahmin ediyorum. Bunu sizde söylüyorsunuz. Sizin moral desteğine ihtiyacınız var ki, bunu da verecek kesim Samsunspr taraftarı ve kamuoyudur. Taraftarın desteği hep yanınızda oldu. Yine olacaktır.<br />
+Kamuoyunun da her şeye rağmen, tercihini kalmanızdan yana kullanacağına inanıyorum.<br />
+Bilmediğiniz için yanıltıldığınızı söylüyorsunuz.. Artık bu işin inceliklerini öğrendiniz. Siz ancak Samsunspor’u yeniden süper lige çıkarttıktan sonra gönül rahatlığı ile ayrılabilirsiniz. Size yakışan da budur.<br />
+Lütfen tekrar düşününüz.. Samsunspor’u sonu kötü olacak bir kadere terk etmeyiniz.</p>
+<p>Kendiniz için ise, bırakamazsınız..</p>
+<p>Sayın Başkan, siz bir işadamısınız. İşadamlığında nasıl başarılı olduysanız, bu işi de başarmalısınız.<br />
+Görevde olduğunuz dönemde çok büyük yanlışlar yapıldı. Kendi ifadenizle yanıltımdım diyorsunuz. Oysa çok sayıda spor adamı sizi sürekli uyardı. Nerede yanlış yapıldığını söyledi. Ama bunların hiç birisini dikkate almadınız. En azından onları bir toplantıya davet edip endişelerini paylaşmadınız. Yanlış yönetici ve yanlış teknik kadro tercihleri yaptınız.<br />
+İşlerin iyi gitmediği ve bu işin sonunun kötü olacağını hemen herkes gördü ama siz göremediniz. Belki de en çok bu noktada yanıltıldınız.<br />
+Bu takım ilk kez düşmüyor. Son düşüşlerinin hemen hepsinin de en büyük nedeni yanlış yönetim ve yanlış uygulamalardı.<br />
+Ne var ki, o yönetimler ve başkanlar biraz da kamuoyu baskısı ile görevi zoraki kabul etmişlerdi. Siz ise, tam tersine çok başarılı bir yönetimi istifaya zorlayarak, yani isteyerek görev aldınız. Çalışacağınız yönetimi de siz yaptınız.<br />
+Takım süper lige çıkmıştı ve federasyondan 20 milyon üzerinde bir kaynak gelecekti. Böyle bir kaynağa Samsunspor tarihinde ilk kez kavuşuyordu.<br />
+Teknik konularda yapılan hataların detayına hiç girmek istemiyorum. Gelinen nokta da buna gerek de görmüyorum.<br />
+Ancak, size çok fazla sözleşme sorunu olmayan ve başarılı olmuş bir takım teslim edilmişti. Döneminiz de ise, ne vereceği belli olmayan onlarca oyuncu alındı. Anlamsız inatla bazı oyuncular işe yaramaz diye gönderildi.<br />
+Bırakıyorum dediğiniz Samsunspor hem takım küme düşmüş, hem de alınan hiçbir futbolcu kadroda tutulamamıştır. Yani hem küme düşmüş, hem de içi boşaltılmış ve borç yükü katlanmış bir takım bırakıyor ve “Ben yokum” diyorsunuz.<br />
+Bunu söylemek, sizin iddialı işadamı kimliğiniz ile bağdaşmıyor.<br />
+Eğer bırakır giderseniz biliniz ki, boynunuza takılmış bir yafta ile yaşamak zorunda kalırsınız. Bu yafta, düşmüş değil küme düşürülmüş bir Samsunspor yaftasıdır. İyi niyetinizden hiçbir kuşkum olmadığı için böyle bir yaftayı hak etmediğinize inanıyorum. Bu tür bir tanımlama her şeyden önce sizin kendinize olan saygınızı da zedeleyecektir.<br />
+İşte bu nedenlerle, sizin ve Samsunspor’un daha fazla zarar görmemesi için göreve devam etmelisiniz.<br />
+Doğru olan, tercihinizi doğru yapıp Samsunspor’u Süper Lige çıkartarak boynunuza başarısızlık değil, onur apoleti takarak ayrılmanızdır.</p>
+<p>Evet, Sayın Başkan,<br />
+Öncelikle kendiniz için sonra da,<br />
+Samsunspor’un varlığını sürdürebilmesi için<br />
+göreve devam etmek zorundasınız.<br />
+Lütfen! Meydanı, parasız reklam peşinde koşanlarla, macera arayanlara bırakmayınız…</p>
+<p>İyi bir hafta dileğiyle..24. 06. 2012</p>
+<p>Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0588-asil-hedef-cumhuriyet-donemi-ve-kazanimlari-mi.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0590-kose-donucu-kusaktan-dindar-kusaga.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

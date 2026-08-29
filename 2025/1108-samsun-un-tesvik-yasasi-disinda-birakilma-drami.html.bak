@@ -1,0 +1,314 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Samsun&#x27;un Teşvik Yasası Dışında Bırakılma Dramı</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Samsun&#x27;un Teşvik Yasası Dışında Bırakılma Dramı
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2025
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+1108
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>SAMSUN’UN TEŞVİK YASASI DIŞINDA BIRAKILMA DRAMI</p>
+<p>10.01.2025 tarihli HALK GAZETESİ’NİN arka sayfasında yer alan tam sayfa ilanda, yeni kurulmuş çok kapsamlı bir tesisin fotoğraflar ile yapılan tanıtımı, yüreğimi bir kez daha sızlattı.<br />
+İlanda, dünyanın 25. Büyük vitrifiye seramik üreticisi olan İtalyan İSVEA’ NIN ECE HOLDİNG tarafından satın alındığı ve duş teknesi, evye, klozet kapağı, gömme rezervuar ile banyo mobilyası üretiminin yapılacağı 5 adet dev bir tesisin ÇORUM’DA kurulduğunu kamuoyuna duyuruyordu.<br />
+2005 yılında “TEŞVİK YASASI” kapsamı genişletilirken bu kapsama giren ÇORUM, teşvik yasasının sağladığı büyük desteklerle yatırım anlamında son yıllarda büyük bir gelişim yaşıyor. Bu nedenle, komşu il Çorum adına çok mutlu olduğumu belirtmek isterim.<br />
+Ama bir Samsunlu olarak, yıllardır Samsun halkının %60 civarında oyunu alan AKP İktidarının, 2005 yılında “Teşvik Yasası” Kapsamını genişletirken tüm Karadeniz Bölgesi illeri içerisinde sadece Samsun’u dışarıda bırakan kararına, bir kez daha isyan ediyorum.<br />
+Daha da acısı, Samsun’u dışlayan kapsamı genişletilmiş bu yasa, Samsun Ticaret ve Sanayi Odası’nın konferans salonunda o dönem Başbakan olan Sayın Recep Tayyip Erdoğan ve Maliye Bakanı Kemal Unakıtan tarafından Samsunlu sanayicilerin gözünün içine baka baka açıklanırken, salondaki iş insanları ve sanayiciler tarafından alkışlanıyordu.<br />
+İşte o gün alkışladıkları yasa ile teşvik kapsamı dışında bırakılan Samsunlu sanayiciler, bugün civar illere sağlanan çok önemli vergi muafiyeti, yer tahsisi ve SGK prim kolaylıkları gibi nedenlerle haksız rekabetle karşı karşıya kalmış olmaktan yakınıyorlar.<br />
+Bugün en büyük zararı Samsun’da üretim yapan sanayicilerimiz yaşamaktadır.<br />
+O yasanın çıkacağı günlerde Samsun’un “Genişletilen Teşvik Yasası” kapsamına girdiği müjdesini vermek için birbiriyle yarışan Samsun milletvekilleri o günden sonra suskunluğa gömülürken, TBMM’ de Samsun’a yapılan haksızlığı gündeme taşıyanlar Kastamonu ve Konya Milletvekilleri olmuştu.<br />
+Söz verdikleri halde tüm Karadeniz Bölgesi’nde sadece Samsun, Teşvik yasası kapsamı dışında bırakılırken,<br />
+Bölge müdürlükleri teker teker Samsun’dan kopartılıp başka kentlere gönderilirken,<br />
+Ülkemizin en verimli alüvyon ovalarının başında gelen Çarşamba Ovasının Termik ve mobil santrallerle yok edilmesine göz yumulurken,<br />
+Tersane, şeker fabrikası, “Samsun-Ankara Hızlı Tren Projesi” yerinde sayarken,<br />
+Hala açılamamış Doğu ve Batı Çevre yolları belirsizliğini korurken,<br />
+Samsunspor’un iç saha maçlarında Samsunspor taraftarlarına gösterilen aşırı güvenlik önlemlerinin, konuk takım taraftarlarına gösterilmemesine (Son maçta konuk takım tribününe her türlü patlayıcının sokulabilmiş olması gibi)<br />
+Kent içi trafik akışını düzenleyeceği iddiası ile uygulamaya konduğu andan itibaren Samsun içi trafiğini kördüğüm haline getiren “Akıllı Şehir Trafik Güvenliği Projesinde” Hala bir düzeltmeye gidilmemişken,</p>
+<p>SUSAN,<br />
+Ve bugüne kadar Samsun’a dişe dokunur hiçbir katkısı olmayan tüm milletvekillerimizi, bir Samsunlu olarak ayırım yapmadan Samsun Halkına şikâyet ediyorum.<br />
+Lütfen çalışmayan ve Samsun’a hiçbir katkısı olmayan vekilleri TBMM’ ne göndermeyelim.<br />
+Hemen her gün Samsun adına bir yenisini yaşadığımız bu tür haksızlıkların bu kente reva görülmesinin nedenleri de, bu ülkeyi ve kentimizi yönetenler tarafından açıklanmalıdır.<br />
+Eğer bu konuda da suskunluk devam ederse,<br />
+Benim kendi adıma söyleyebileceğim en büyük neden, Samsun’un gelişmesi ve kalkınmasından rahatsız olan “SAMSUN KARŞITI BİR LOBİNİN” Varlığı konusundaki söylentilerin doğru olabileceğidir.<br />
+SONUÇ;<br />
+Üzülerek söylemek isterim ki, kendisini Samsun’a adamış gerçek Samsun sevdalısı insanların, milletvekili ve belediye başkanı olmasını sağlayamadığımız sürece, Samsun gelişmeyen ve her geçen gün biraz daha kaybeden kent olamaya mahkumdur.<br />
+Hiç olmazsa, çocuklarımızın ve torunlarımızın sorunlarını çözmüş Samsun’da yaşamaları umuduyla, sorunsuz ve güzel hafta diliyorum. 13.01.2025<br />
+Ecz. SADİ SUBAŞI</p>
+<p>e- http://www. hedefhalk. com</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="1095-yanlis-yapanlar-bedelini-odemelidir.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="1109-ulkemiz-buyuk-bir-komployla-karsi-karsiya.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

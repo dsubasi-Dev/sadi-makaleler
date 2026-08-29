@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Samsun&#x27;daki Trafik Anarşisi Neden Durdurulamıyor.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Samsun&#x27;daki Trafik Anarşisi Neden Durdurulamıyor.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2007
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0298
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>SAMSUNDA Kİ TRAFİK ANARŞİSİ NEDEN DURDURULAMIYOR?</p>
+<p>Trafik sorunu Samsun’da her geçen gün çok daha büyük boyutlara ulaşıyor. Samsun’un kent içi yollarının geçmişte ki yerel yönetimlerin büyük hataları sonucu, günümüz trafiğini kaldıramayacak kadar yetersiz kaldığı gerçeğini kabul etmek zorundayız. Bu olguyu kısa sürede düzeltmeye de kimsenin gücünün yetmeyeceği de bir gerçek. Kent içersinde ki yolların yetersizliği yanında otopark sayısının da azlığı sonucu, ana arterler artık günün hemen her saatinde sıkışmakta, hatta zaman, zaman kilitlenmektedir.<br />
+Kent içersinde yaşanan bu sıkışlık yanında bulvarlarda da bir başka trafik işkencesi yaşanmaktadır. Özellikle Atatürk Bulvarı ile 100. yıl Bulvarında yolcu taşıyan dolmuş taksi ve minibüslerinin kural tanımaz sürücüleri, hem yayaları hem de diğer sürücüleri canından bezdirmiştir. Olur, olmaz yerde yolcu almak için durmaları, durdukları yerden arkadan gelen araçları hiçe sayacak şekilde aniden şerit değiştirerek hareket etmeleri, Atatürk Bulvarında ise aşırı sürat ve önlerindeki araçların adeta üzerinden geçecekmiş gibi sıkıştırmaları olası kazalara davetiye çıkartmaktadırlar. Bu işten ekmek yiyen sürücü dostlarımızın kurallara saygılı olması sorunları biraz olsun azaltır diye düşünüyorum. Özel araç sürücülerinin kural dışı davranışlarını ise kabul etmek ve tartışmak dahi mümkün değildir.<br />
+Üzülerek söylemek gerekirse bu içinden çıkılmaz trafikte trafik ekiplerinin de ceza yazmanın ötesinde fazla bir etkinlikleri yok . Daha önce de yazdım. Bir kez daha altını ısrarla çiziyorum. Aşağıda belirteceğim iki nokta da, sürekli trafik kontrolü ile çözülebilecek bir sorun çözülemiyorsa, hiç kimse alınganlık göstermesin ama trafik polisinin görevini yaptığı söylenemez.<br />
+Bu iki noktadan birisi, Atatürk Bulvarından Cumhuriyet Meydanına dönüş kavşağıdır. Minibüslerin yolcu indirme ve bindirme yeri çok geride olmasına rağmen, canları istediği gibi kavşağın hemen dönüş noktasında durabilmekte, minibüsler durduğu için onların solundan meydana dönüş yapmak isteyen araçları riske sokarak da ani kalkışlar yapabilmektedirler.<br />
+İkinci nokta ise, 19 Mayıs Bulvarı ile 100. Yıl Bulvarının kesiştiği yerde yapılan geçittir. 100. Bulvarının altından geçen yolun her iki tarafı araçlar için tam bir tuzak haline gelmiştir. Alt geçidin iki yanından doğu ve batı yönüne üstten geçiş yapan araçların yolu alt geçitten hızla bulvara çıkan araçlarla kesişmektedir. Üstte ki geçiş yollarının sağ tarafına araçların park yapması ile üstten geçen araçlar zorunlu olarak daha da sola kaymakta ve alt geçitten gelen aracın önüne düşmektedir. Bu geçidin her iki tarafında da ciddi sorun yaşanmaktadır. Bu bölümlere park yapan araç sürücüleri ne kadar saygısızsa, bu geçidin iki tarafı ile Cumhuriyet Meydanı Kavşağında ki bu kuralsızlığı önleyemeyen Trafik Polisi de bir o kadar başarısızdır.<br />
+Üç ay kadar önce bu sorunlar bir rapor halinde SAM-SEV tarafından Emniyet Müdürlüğüne sunulmuştur. Emniyet Müdürlüğü de bu raporu görüşülmek üzere kent içi trafiğini düzenleyen Büyük Şehir Belediyesi Başkanlığı bünyesinde ki UKOME’ YE  ( Ulaşım Koordinasyon Merkezi ) havale etmiştir. SAM-SEV yöneticileri bu toplantıya davet edilmeyi beklerken, bu kurul toplanmış ve konuya hassasiyet gösteren bu sivil toplum kuruluşunun görüşlerine başvurmaya gerek dahi görmemiştir.<br />
+Böyle bir ortam da, trafik sorunlarının artarak devam etmesi ve kısa bir süre sonra tüm arterlerin çalışamayacak kadar tıkanması artık kaçınılmaz hale gelecektir. Samsun da araç kullananların işi Allah’a kalmış gözüküyor.<br />
+Yazık. Çok yazık. İyi haftalar..   24- Haziran -2007<br />
+SADİ SUBAŞI</p>
+<p>Belediye otobüslerini de yaz.</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0297-samsunspor2un-asil-sorunu-guven-bunalimidir.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0299-hayvan-sevgisine-dini-acidan-olumlu-bir-yaklasim.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

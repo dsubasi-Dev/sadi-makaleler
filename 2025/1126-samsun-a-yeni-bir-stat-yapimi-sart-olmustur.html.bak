@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Samsun&#x27;a Yeni Bir Stat Yapımı Şart Olmuştur.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Samsun&#x27;a Yeni Bir Stat Yapımı Şart Olmuştur.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2025
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+1126
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>SAMSUN’A YENİ BİR STAD YAPILMASI KAÇINILMAZ OLMUŞTUR.</p>
+<p>Samsun’un en önemli tanıtım markası olan Samsunspor, artık sadece ülkemiz sınırları içinde değil, yurt dışında da Samsun’un tanıtımını yapacak konuma gelmiştir.<br />
+Uzun yıllar önce kazandığı Balkan Kupası Şampiyonluğundan sonra Samsunspor, ilk kez Avrupa Kupalarında da ses getirmeye başlamıştır.</p>
+<p>Yaşı 60-65’in altında olanlar bilemezler. Samsunspor kurulduğu 1965’li yıllarda maçlarını bugün İlkadım Atletizm Sahasına dönüştürülen Fener Stadında oynardı. Samsunspor’un o statta oynadığı en önemli maç ise, Avni Bulduk’un takımı Güneşspor ile oynadığı ve hakem Muzaffer Sarvan’ın futbolu katlettiği maçtır.</p>
+<p>Fener Stadı, yıllarca Samsun amatör futbol takımlarına ev sahipliği yapmış, Samsun’un çok ünlü futbolcuları (Kefen Nejat, Çolak Sebahattin, Gafur, Hakkı Tomaç, Küçük ve Büyük Metin, Hamdi Tezol, Numan Okumuş, Nuri Asan gibi) bu sahada yetişmiştir. Samsun için korunması gereken bir spor merkeziyken, bu stat yok edildi.</p>
+<p>Daha sonra Gülsan Sanayi Sitesinin arka tarafında yeni bir stat yapıldı. Adı, Samsun Ondokuzmayıs Stadıydı. 1970 yılında temeli atılmış ve 23 Şubat 1975 yılında hizmete girmişti. Bu stat sonraki yıllarda tadilat görmüş seyirci kapasitesi 25.000’e çıkartılırken, maraton tribününün üstü de kapatılmıştı.</p>
+<p>Bu stadın tribünlerinin konum olarak sahaya çok hâkim olması nedeniyle, taraftarların Samsunspor’a çok etkin şekilde destek verebilmesi, bu stadı Samsunspor taraftarlarının mabedi haline getirmişti.</p>
+<p>Her şeyden önce, binlerce taraftar bu stat da ki maçlara marşlar söyleyerek yayan olarak gidip dönebiliyordu. Aracı ile gelenlere ise, Çevre Yolu, Atatürk Bulvarı ve 100. Yıl Bulvarlarına yakın bağlantıları olması nedeniyle, çok büyük kolaylık sağlıyordu.</p>
+<p>Aradan geçen 42 yılda özellikle çatı ve soyunma odaları yıpranmıştı, otoparkı yeterli değildi ve ciddi bir onarım gerektiriyordu. Bunlar doğru…</p>
+<p>Ama yerinin çok büyük artıları nedeniyle kolay kolay gözden çıkartılabilecek bir Stat değildi. Bu stat, yapılacak yeni bir stat için harcanan paranın 1/5’ i kadar bir harcamayla yenilebilir, otopark alanına da katlı park yapılarak taraftarımızın MABED’ İ olarak gördüğü bu stat yaşatılabilirdi. Hatta yaşatılmalıydı da…</p>
+<p>Ne var ki tüm uyarı ve önerilere rağmen, bu stat yıkıldı ve Tekkeköy yöresinde yapılan 33.000 kişilik yeni stat, 2017 yılında Yeni Ondokuzmayıs Stadı ismi ile hizmete girdi.</p>
+<p>Yeni stat açıldı ama açılmasıyla, daha ilk oynanan maç sonrası yapılan uyarıların ne kadar haklı olduğu ortaya çıktı.</p>
+<p>Organize Sanayi Sitesinin içine yapılan Yeni Ondokuzmayıs Stadının bulunduğu Tekkeköy yöresi, Türkiye’nin hava kirliliği açısından en riskli bölgelerinin başında gelmektedir.</p>
+<p>Ülkemizin geleceği olan Çarşamba Ovası, üzerine yağan bu asit yağmurları ile yok olurken, göz göre göre bu alana bir de stat yapıldı.</p>
+<p>Bu bölgede bulunan ve havayı sınırların ötesinde kirleten sanayi kuruluşlarından salınan H2S ve SO2 gazları havanın yüksek nem oranı ile sülfürik asite dönüşerek bölgeyi zehirlemekte olup, insan sağlığını da tehdit eder boyuta ulaşmıştır.</p>
+<p>Sporcular maç sırasında büyük bir enerji harcadıkları için sürekli temiz havaya ihtiyaç duyarlar. Sadece bu neden dahi, bu stadı tartışmalı hale getirmektedir.</p>
+<p>Böyle bir ortamda maç oynatılması futbolcu ve maça gelen taraftarlar açısından da ciddi sağlık sorunudur.<br />
+Hava kirliliğinin etkisi o kadar belirgin bir hale gelmiştir ki, tribünlerdeki koltukların rengi dahi asit yağmuru nedeniyle bozulmakta, sahadaki çimlerin ise bir türlü sağlıklı olması sağlanamamaktadır.</p>
+<p>Kaldı ki yeri itibariyle de son derece yoğun trafiğin olduğu Samsun-Ordu Karayolu üzerinde oluşu ve alternatif başka yolları olmayan bu stadın, ulaşım sorunu da içinden çıkılmaz hale getirmiştir.</p>
+<p>Bu stadın hemen yanı başında yapılan Yaşar Doğu Kapalı Spor Salonu da seyircilerin gelmesinin zor olması nedeniyle işlevsiz olarak durmakta ve kapalı salon müsabakaları şehir içindeki Mustafa Dağıstanlı Kapalı Spor Salonunda oynanmaktadır.</p>
+<p>Çevreye bu kadar zararı olan bir yerdeki bu statta, Avrupa maçları da oynanıyor. Korkarım konuk takımlardan birisinin şikâyet halinde, UEFA sahamıza yasak da getirebilir.</p>
+<p>ÇÖZÜM ÖNERİSİ;<br />
+Tüm bu nedenlerle, Çevre Yolu, 100. Yıl Bulvarı ile Atatürk Bulvarı gibi üç alternatif yolu bulunan ve çok sayıda taraftarın yaya ulaşabildiği eski Ondokuzmayıs Stadımızı yıkmak bu kente yapılmış en büyük kötülük olmuştur.</p>
+<p>Kaldırılması planlanan Gülsan Sanayi Sitesi yerine, yerleşim ve ticaret merkezi yapılması düşünülmektedir. Önerim, bu projenin geliştirilmesi ile bu sanayi sitesi alanı ile atıl olarak duran Millet Bahçesi birleştirilerek yeterli sayıda yer altı ve yerüstü otoparkları, alışveriş ve eğlence yerleri olan modern bir stat yapılmalıdır.</p>
+<p>Sayın Valimiz ile Samsun Büyükşehir Belediye Başkanımız Sayın Halit Doğan ve TBMM Bütçe Komisyonu Başkanı milletvekilimiz Sayın Mehmet Muş’un öncülüğünde bu alana yeni bir stat yapımı planlanmalıdır.</p>
+<p>Bu konuda uzun bir süredir Samsunspor Başkanı Sayın Yüksel Yıldırım’da yeni stadın yapımına katkı vereceğini söylemiştir. Kısa sürede bu stadın Samsun’umuza kazandırılacağına inanıyorum.<br />
+Bu konu artık sürekli Samsun’un gündeminde tutulmalıdır. Çünkü bu, siyaset üstü bir konudur. Yerel basınımızı ve tüm sivil toplum kuruluşlarını ortak tavır koymaya davet ediyorum.</p>
+<p>Samsunsporumuza bu hafta oynayacağı Avrupa Konfederasyon kupası maçında başarılar diliyorum. Güzel ve sorunsuz bir hafta dileklerimle…<br />
+04.11.2025<br />
+Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="1125-turk-siyasetinde-artik-tek-muhalefet-partisi-kalmistir.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="1127-samsun-u-yonetenlere-cagri-yapiyorum.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

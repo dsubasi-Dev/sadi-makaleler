@@ -1,0 +1,332 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>01 Kasım Seçimlerinde Yaşanan Sürprizin Analizi 2. Bölüm</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+01 Kasım Seçimlerinde Yaşanan Sürprizin Analizi 2. Bölüm
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2015
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0774
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>KASIM SEÇİMİNDE YAŞANAN SÜRPRİZİN ANALİZİ.<br />
+2. BÖLÜM</p>
+<p>Dün birinci bölümü yayınlanan köşe yazıma başlarken kullandığım bir bölümü buraya da alarak devam etmek istiyorum.<br />
+Aslında bu seçim 07 Haziran akşamı bitmiş olmalıydı. Çünkü toplum, üzerine düşen görevi yapmış ve oyları ile hiçbir partiyi tek başına iktidar yapmamıştı. Seçmen bu kararı ile de, tek parti dayatmalarına karşı olduğunu belirtmiş ve partilere bir araya gelerek uzlaşı gerektiren bir koalisyon hükümeti kurun demişti.<br />
+Bence de asıl olay buydu.<br />
+Tamam, son seçimlerde muhalefet partilerinin yenilgisini eleştirelim ama sonuçlanmış bir seçimin sonuçlarını beğenmeyerek hükümet kuruluşunu engelleyen üst iradenin tavrını ve o gücün baskısı ile AKP’nin koalisyon görüşmelerini uzatarak ülkeyi yeni bir seçime zorlamasını, nasıl yok sayabiliriz?<br />
+Şimdi buradan başlayarak CHP’ nin beklenen oy oranına ulaşamamasının analizini yapabiliriz. Çünkü yukarıda sözünü ettiğim koalisyon hükümetinin kurulabilmesi için her türlü özveriyi gösteren ve diğer üç partiyle de görüşebilen ve bir ayı aşkın sürece sabır gösteren tek parti CHP idi. Ama AKP bu süreci CHP’ ni oyalayarak geçiştirmiş ve yasal sürenin dolması ile ülkemizi yeni bir seçime mecbur etmişti.<br />
+CHP’nin eksiklerini söylemeden önce bu gerçeğin de altını çizmek istedim.<br />
+CHP NEDEN BEKLENEN OYA ULAŞAMADI?<br />
+Sonuçlar belli olduktan sonra kazananı alkışlamak ve kaybedeni eleştirmek en kolay iştir. Önemli olan, testi kırılmadan kaybedeceğini gördüğünü uyarmak ve neden kaybedeceğini ve kazanacağını gördüğünün kazanmak için neler yaptığını ona anlatmaktır.<br />
+Aslında CHP bu seçimde kaybeden konumunda değildir. En azından diğer muhalefet partileri gibi dağılmamış ve oyunu korumuş, hatta az da olsa artırmıştır.<br />
+Bu nedenle, CHP’ nin neden oyunu yeterince artırarak seçmenleri için umut olamadığını söylemeden önce, CHP ve diğer muhalefet partileri için mazeret olabilecek noktalara da dikkat çekmek gerekir diye düşünüyorum.<br />
+Bunların başında muhalefet partilerinin, iktidar partisinin sahip olduğu sınırsız mali olanakların onda birine dahi sahip olmamasıdır. Oysa güçlü ve etkin propaganda çin en fazla gerekli olan şey paradır.<br />
+AKP’ i eleştiren yazılı ve görsel basın baskı altına alınarak susturulurken, yandaş basının her türlü hukuk dışı söylemleri kullanarak toplumu yönlendirmesine göz yumulmuştur.<br />
+Muhalif basın ve sözcüleri tehdit ve dayakla yıldırılmaya çalışırken, bu olaylara karıştığı belli olan AKP üyesi olanlar dahi kollanmış ve AKP Genel Başkanı ile ele ele görüntü vermekten kaçınmamıştır.<br />
+Bürokratlar ve mülki amirlerde tarafsız olmaları ilkesini koruyamamışlardır.<br />
+Tarafsız kalacağı konusunda yemin eden Cumhurbaşkanı, 07 Haziran Seçimlerinde olduğu kadar olmasa da, AKP’ e destek anlamında toplantı ve konuşmalarını sürdürmüştür.<br />
+Demokrasinin tam uygulandığı ülkelerde söz konusu dahi olamayacak şeyler bizim ülkemizde olmuştur. Yazmaya dahi utandığım bir ayıp, ne yazık ki ülkemizde işlendi. Kemal Kılıçdaroğlu’nun mezhebi, 2011 seçimlerinden başlayan bir şekilde sürekli gündeme getirilerek çok büyük çoğunluğu Sünni olan ülkemizde, CHP aleyhine yaratılan bir algı sürdürülmüştür.<br />
+1950’de Demokrat parti ile başlayan tüm insanlarının ortak paydası dinimizin, siyasi amaçlar uğruna kullanılması, son dönemde tavan yapmıştır. Bu konuda camilerin ve avlularının dahi siyasi mesaj alanı olarak kullanılması, bu döneme damgasını vurmuş ve ortak paydamız olan dinimiz siyasetin emrine sokulmuştur.<br />
+Özet olarak söylemek gerekirse, çoğunluğu muhafazakâr olan ve muhafazakârlığı dindarlıkla eş gören bir toplum yapımız olduğu, yasaların işlediği bir hukuk düzeni kurulamadığı bir ortamda, dinimiz siyasete böylesine alet edilmeyi sürdürdüğü sürece, Türkiye’de sol bir partinin iktidara gelmesi imkânsız gibi gözükmektedir.<br />
+Tüm bunlar ne kadar doğru olursa olsun, bunların hiç birisi muhalefet partilerinin, en çok da ana muhalefet partisi CHP’nin, yetersiz kalışına gerekçe olamaz.<br />
+Bunları söylerken, CHP Genel Başkanı Sayın Kemal Kılıçdaroğlu’na haksızlık etmek istemiyorum. Çünkü Sayın Kılıçdaroğlu’nun, özellikle 07 Haziran Seçimleri sonrası takındığı uzlaşmacı tavır ve ülkenin çıkarları için AKP ile dahi bir koalisyon hükümeti kurmaya çabalaması, diğer parti seçmenleri tarafından da övgü ile karşılanıyordu.<br />
+Ama bunların hiç birisi sandığa oy olarak yansımadı. Kısacası, kendisine umut bağlayanları ve özgürlerinin kısıtlamasından rahatsız olan seçmenleri rahatlatmak için yola çıkan CHP, bunu başaramamıştır.<br />
+Yıllardır ana muhalefet partisi olması CHP’ ne hiçbir şey kazandırmadığı gibi yıllardır iktidarın hukuku yok sayan, hatta kendine bağımlı hale getiren, özgürlükleri kısıtlayan davranışlarına da engel olmayı sağlayamamıştır.<br />
+CHP adına bu sonucun çıkmasında ki nedenleri, şu ana başlıklar altında sıralamak gerekir;<br />
+CHP, sosyal demokrat bir parti olarak tuttuğunu kopartan bir eylem partisi olma becerisini gösterememiştir.<br />
+Bu konuda en büyük yanlışı, çok iyimser bir davranışla 07 Haziran Seçimi sonrası AKP ile başlattığı koalisyon görüşmelerinin bir oyalamaca olduğunu algılayamamış ve yasal sürenin dolmasına kadar görüşmeleri sürdürerek AKP’ nin, daha doğrusu üst iradenin istediği sonucun oluşmasına, yani seçimin yenilenmesi kararının alınmasına zemin hazırlamıştır.<br />
+Oysa bu sürecin uzamasına izin vermeyecek bir tavırla masadan kalkılarak oynanmaya çalışılan oyun bozulabilse ve bu, kabullenmeye hazır kamuoyuna anlatılsaydı, sanıyorum ki AKP uzlaşmaz bir parti durumuna düşerek puan kaybedecekti.<br />
+CHP, AKP’ nin TBMM’ de sayısal üstünlüğe dayanarak gece yarıları çıkardığı yasaları engelleyememiş, bunu kamuoyuna yeterince anlatacak tavırları sergileyememiş ve kendilerinin TBMM’ de yok sayılmalarına tavır koyarak, gerektiğinde TBMM’den çekilme cesaretini gösterememiştir.<br />
+Ülkemizde ki hukuk düzeninin çökertilmesi ve özgürlüklerin kısıtlanmasına karşı, risk üstlenecek eylem modelleri sergileyememesi, kendisini son umut olarak gören kesimi karamsarlığa sürüklemiştir.<br />
+CHP, eylem konusunda “Gezi Olaylarını” Doğru okuyamamış ve bu akımın desteğini alamamıştır.<br />
+CHP ve lideri, toplumun kendisinden beklediği Yunanistan’ın yeni genç lideri CİPRAS türü çıkışları yapamamış, restleri çekememiş ve yıllardır süregelen sıradanlığını sürdürmüştür.<br />
+Buna rağmen, Genel Başkan’ın çabası sürerken hemen hiçbir teşkilatı ona ayak uyduramamıştır. Hiç kimse teşkilatların görevini yaptığını, halkla buluşabildiğini söyleyemez.<br />
+Partiye sağdan oy almak umuduyla yanlış isimlerin monte edilerek vitrine çıkartılması, sağdan oy getirmediği gibi partinin asıl tabanını oluşturan çok sayıda insanı partiden uzaklaştırmıştır.</p>
+<p>Sonuç olarak söylemek gerekirse,<br />
+Sayın Kılıçdaroğlu’nun tüm iyi niyetine, dürüst ve çalışkan kimliğine rağmen görülen o ki, CHP’ nin oylarının bu yapı ile %25 bandını aşması mümkün olamamaktadır.<br />
+Sağlıklı çalışan demokrasilerin, özelliklede sosyal demokrat yapıda ki partilerin değişmez kuralı, başarılı olamayanların koltuklarını bir başkasına devretmesidir.<br />
+90 yıllık bir geçmişi olan ve Türkiye Cumhuriyeti’nin kurucusu bir partide hiç kimse vaz geçilmez değildir. Hiç kimsenin de, benden daha iyi kimse yönetemez diye düşünebilme hakkı olamaz.<br />
+Şu anda daha iyi bir lider adayı gözükmüyor demek de, 90 yıllık demokrasi geçmişi olan bir partiye inançsızlıktır.<br />
+Unutulmamalıdır ki, gerçek liderler sorumluluk yüklendiği zaman ortaya çıkar. Yeter ki, koltuklar zamanı gelince boşaltılabilsin ve yeni lider adaylarının önü demokrasi dışı kurallarla kesilmesin.<br />
+Ben CHP’ de ve başında da Sayın Kılıçdaroğlu’nun gibi bir düzgün insanın olduğu partide, yeni lider adaylarına kapının açılacağına inanıyorum.<br />
+CHP hem lider kadrosunu, hem de yönetimini, çoğunluğu genç olan bir toplumu daha anlayabilecek genç kuşaklardan oluşturarak yenilemesinin, % 25 bandını aşabilmenin tek yolu olarak görüyorum.<br />
+Tek çözüm yenilenmek ve yeni mesajlarla toplumun güvenini kazanmaktır. İyi haftalar dileğiyle..04.11.2015<br />
+NOT: Yazımın son bölümü olan 3. Bölümü HDP ve AKP ile ilgili yorumlarımı içerecek olup, Pazartesi gün ki köşe yazımda yer alacaktır.</p>
+<p>Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0773-01-kasim-secim-surprizinin-analizi-1-bolum.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0775-01-kasim-secimlerin-de-yasanan-surprizin-analizi-3-bolum-1.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Samsun 3. Kent Kurultayı</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Samsun 3. Kent Kurultayı
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2004
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0108
+
+</div>
+
+
+<div class="article-content">
+
+<p>SAMSUN 3. KENT KURULTAYI YAPILIYOR</p>
+<p>SAM-SEV tarafından düzenlenen SAMSUN KENT KURULTAYLARINDAN 3. cüsü bu yıl 01 mayıs 2004 cumartesi günü yapılacak. Kent kurultayları artık Samsun'un sorunlarının enine boyuna tartışıldığı çözüm önerilerinin belirlendiği bir platform haline geldi. Kurultaya katılan yerel yöneticilerimizle, milletvekillerimiz için bir anlamda takip eden  yıl için yol haritası çıkarılmış oluyor. Geçen yıl yapılan kurultay sonrası yayınlanarak yetkililere dağıtılan ''kurultay sonuç ve değerlendirme''kitapçığı ve CD ler yanında sivil toplum örgütleri belirli aralıklarla toplanarak kurultay sonuçlarının takipçisi olmuştur.2. KENT KURULTAYININ  sonuç bildirgesinde yer alan ve çözüm bekleyen üç önemli sorun bugün çözümlenmiş veya çözüm aşamasına gelmiş bulunuyor.1. KENT KURULTAYINda Samsun gündemine oturan ''MOBİL SANTRALLAR'' ile son iki kurultayın önemli konusu ''TERSANE''ve ''OKULLARDAKİ SINIF YETERSİZLİĞİ'' bugün çözüm noktasına gelmiştir. Kesin sonuç resmen açıklanmasada Mobil Santrallar kapatılmıştır. Okullarda sınıf sayısını artıran kampanyalar ve kampus alanları yaratma çalışmaları hızla devam ediyor. SAM-SEV yönetimince üç yıldır Ankara da genel müdürlük yetkilileriyle sürdürülen ısrarlı çalışmalar ve milletvekillerimizin bu kez hükümet düzeyindeki inançlı çabası sonucu ''TERSANE PROJESİ'' de gerçekleşmiş bulunuyor. Proje hükümet tarafından onaylandı. Mart ayında Samsun'a gelerek SAM-SEV merkezinde temel atma töreninin yaz başında atılabileceği müjdesini veren Tersaneler Genel Müdürü ve Denizcilik Müsteşar Yardımcısıda bu sonucu perçinledi.<br />
+Yukarıdaki açıklamalarımdanda anlaşılacağı gibi Kent Kurultayları oldukça başarılı oluyor. Ancak hemen belirtmeliyimki kurultaylar sonrası bazı eleştirilerde yapılıyor. Her yıl bu eleştirilerden ders çıkartarak daha iyi şeyler yapmanın çabasında oluyoruz. Bu yıl yapılacak kurultay öncesi yapılan sürekli toplantılarda kurultay formatı önemli ölçüde değiştirildi. Bu konuda destek veren ve yardımcı olan sivil toplum örgüt temsilcilerine SAM-SEV yönetimi adına teşekkür  ediyorum.3Kent Kurultayı iki aşamalı planlandı. Birinci aşaması 01 mayıs cumartesi günü yapılacak olan ''kurultay ''aşaması. İkinci aşamada ise kurultayda çıkacak sonuçları üç ana konuda davet edilecek konularının uzmanı bilim adamları ve sorunların ulusal basına taşınabilmesi amacıyla çağrılacak bir önemli basın mensubunun katılımı ile düzenlenecek panelde  değerlendirmeye alacağız. Değiştirilen formatın önemli eleştirileride ortadan kaldıracağına inanıyorum. Yeni formata göre gündeme taşınacak sorunlar üç başlık altında toplanarak bu konuda çalışma yapacak sivil toplum örgütleride bu başlıklar altında belirlendi. Çalışmalarını uzun bir süredir devam ettiren gruplar üç ana maddeden oluşacak ''sorun ve çözüm önerilerini''20 nisan salı günü yapılacak ortak toplantıda sunacaklar ve buna göre kurultayda tartışılacak konu başlıkları az ve öz olarak belirlenecek ve tekrarlar önlenmiş olacak. Bu esasa göre belirlenen konu başlıkları ve çalışmalarını sürdüren sivil toplum örgütleri şöyle oluşturuldu;<br />
+1-EKONOMİK SORUNLAR VE ÇÖZÜM ÖNERİLERİ:<br />
+Katılan sivil toplum örgütleri: Ticaret ve Sanayi Odası öncülüğünde Ticaret Borsası, tüm İşadamları Dernekleri ile Serbest Muhasebeciler ve Mali Müşavirler odası,<br />
+2-KENTSEL SORUNLAR VE ÇÖZÜM ÖNERİLERİ :<br />
+Katılan sivil toplum örgütleri: TMMOB öncülüğünde Samsundaki tüm mimar ve mühendis odası başkanlık ve temsilcilikleri,<br />
+3-SOSYAL İÇERİKLİ SORUNLAR (eğitim, tanıtım, sosyal yaşam, turizim vs.) VE ÇÖZÜM ÖNERİLERİ:<br />
+Katlan sivil toplum örgütleri: Yerel Gündem 21 öncülüğünde Samsun daki tüm dernek ve konseyler,<br />
+Yukarıdaki üç ana başlıktaki sorunlar bu grupları temsilen bir veya iki sözcü tarafından 45 er dakikalık süreyle kurultaya sunulacaktır.<br />
+İkinci bölümde yerel yöneticilerimiz sayın Valimiz, sayın B Şehir belediye Başkanımız ile sayın Ondokuz mayıs Üniversitesi Rektörümüz sorunlara bakış açılarını ve çözüm önerilerini sunacaklar.<br />
+Son bölümde ise İktidar milletvekilleri 60, muhalefet milletvekilleri ise 30 dakikalık süreyle bu sorunların çözümü yönündeki görüşlerini sunacaklar. İktidar adına iki veya üç muhalefet adınada bir milletvekilinin konuşması ilke olarak benimsendi.<br />
+Böylece hem zaman tasarrufu hemde izleyicilerin sıkılmaması yönünde bir düzenleme yapılmış oldu. Bizlerin böylesine eleştirileri dikkate aldığımız ortamda, bizimde  bu çabalarımızın yeterince değerlendirilmesini beklemek hakkımızdır diye düşünüyorum. Özellikle kurultayları izleyen basın emekçileri yanında, daha sonra kurultayı Samsun gündemine taşıyan ve tartışmaya açan yazılı ve görsel basınımızın köşe yazar ve program sunucularınında bu kurultayı başından sonuna kadar izlemelerini diliyorum. Aksi halde hiç gelmeden veya açılış seromonisinden sonra salonu terkedip ''dışı hoş, içi boş''gibi başlıklar ve yorumlar bizi üzmekten öte bir yarar sağlamayacaktır. Kurultayın uzun olması nedeniyle izlenmediği eleştirisinide çok haklı bulamıyorum. Bir kenti böylesine yakından ilgilendiren bir konunun tüm boyutları ile görüşülebilmesini 5-6 saatin altına indirilebilmenin olanağını bulamadık.<br />
+Bu yılda Kurumahmutoğlu Büyük Samsun otelinde yapılacak olan kurultay , canlı olarak Klas TV tarafından yayınlanacak. Umarım daha yararlı olacak ve Samsun'un geleceğine ışık ve katkı verecek bir kurultayı gerçekleştirmenin onurunu hep birlikte yaşarız. iyi haftalar..</p>
+<p>SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0107-yerel-secimlerin-genel-degerlendirmesi.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0109-samsun-3-kent-kurultayi-yapildi.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

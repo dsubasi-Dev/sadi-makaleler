@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Seçim Sürecinde Akıllarda Kalanlar…</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Seçim Sürecinde Akıllarda Kalanlar…
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2011
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0537
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>SEÇİM SÜRECİNDEN AKILDA KALANLAR..</p>
+<p>Bu yazıyı okuduğunuz da seçim bitmiş ve kesin olmayan sonuçlarıda alınmış olacak.<br />
+Umarım seçim sonuçları, ülkemizin en önemli kurumları arasında oluşan güvensizliğe ve siyasi ortamda süregelen gerginliklere son verir ve sağ duyunun hakim olduğu siyasi bir yapının önünü açar..<br />
+Yazımı seçim öncesinde yazdığım için seçim sonuçlarını değerlendirmeyi gelecek hafta ki yazıma bırakıyor ve seçim sürecinde yaşananlar ile akıllarda kalanları sizlerle paylaşmak istiyorum.<br />
+Kırkbeş yıldır yapılan tüm seçim süreçlerini yaşamış, bir kısmının da içinde bulunmuş bir seçmen olarak, böylesine kural dışı her yolun denendiği bir seçim sürecinin yaşandığına tanık olmadım.<br />
+Öylesine olmaması gereken ve söylenmemesi gereken şeyler yapıldı ve söylendi ki, böyle bir seçim süreci hiç bir çağdaş demokrasi de yaşanmaz ve demokratik rejime de yakışmaz.<br />
+Seçim sürecine dönelim ve yaşananlarla, konuşulanları hatırlayalım.<br />
+“Bu seçim sürecine damgasını vuran nedir?” Sorusuna, çoğu kişi “Şantaj kasetleri” Diye cevabını veriyor.<br />
+Evet, şantaj kasetleri ile yapılan belden aşağı siyaset ve bu yolla bir partinin zora sokulması, gerçekten de bu seçim sürecinin akıllarda kalacak bir olayıdır.<br />
+Tamamen kişilerin özel yaşamı ile ilgili olan bu olayların MHP’YE yararı mı?, Zararı mı? olduğu, seçim sonuçları ile net bir şekilde ortaya çıkacaktır.<br />
+Eğer seçim sonuçlarını etkiler ve MHP barajın altında kalırsa, işte o zaman bu seçim döneminin akıllara çakılacak olayı “Şantaj kasetleri” Olacaktır.<br />
+Yok MHP normal oyunu alırsa, bir süre sonra şantaj kasetleri hafızalardan silinecektir.<br />
+Ama bana göre bu seçim sürecinin çok daha önemli olayı, “Aşırı kaynak kullanımına bağlı olarak oluşan haksız rekabet” Olmuştur.<br />
+Bundan önceki hemen her seçim sürecinde de siyasi iktidarların kamu olanaklarını kendi siyasi çıkarları doğrultusunda kullandığı bilinen bir gerçektir.<br />
+Ancak bazı valiler dahil olmal üzere üst düzey kamu yöneticilerinin ve yerel yöneticilerin iktidarın birer siyasetçisi gibi taraf olduğu ve makamlarının tüm olanaklarını iktidar partisinden yana kullandığı görülmemişti.<br />
+Bir seçim kampanyasında siyasi partiler arasında böylesine parasal kaynak uçurumu da yaşanmamıştı.<br />
+Bunlara ek olarak bir de, Referandum sonrası yargıda yapılan operasyonlar ile yargının da iyice iktidardan yana tavır sergilemesi,<br />
+Dinlenme korkusu,<br />
+Biraz baskı, biraz da yandaşlık anlayışı ile yazılı ve görsel basının  tarafsızlığını yitirmesi,<br />
+“Ergenekon tutuklamaları”, toplumu sindirdirmeye yetti.<br />
+Böylesine korku dolu ve tedirgin ortam da “Şantaj Kasetlerinin” ortaya sürülmesi çok da şaşırtıcı değildir. Sayın Baykal’a yapılan şantajın üzerine gidilerek çözülmemesi, zaten yeni şantajların da habercisi gibiydi.<br />
+Seçim sürecine damgasını vuran bir başka olumsuzlukta, kampanya konuşmalarında ki seviye düşüklüğüydü. Seviye zaman zaman ancak sokak kabadayılarının kullanabileceği seviyeye kadar düştü.<br />
+Fakat tüm bunların hepsinden de önemlisi, son günlerde artan seçim sonuçlarına sıçrayabilecek hile ( Şüpheli durum) söylentileridir.<br />
+Özellikle de üniversite giriş sınavlarında yaşananlar, bir türlü giderilemeyen şifre şüpheleri,<br />
+Kaybolan sınav kağıtları,<br />
+ÖSYM Başkanı’nın takındığı umursamaz ve dayatmacı tavır,<br />
+Siyasi erkin iddiaların üzerine giderek sorunu aydınlatmaması,<br />
+Hükümet sözcülerinin çözümü, “İkna olmakta” Bulması,<br />
+En sonunda da bir bakanın TV ekranında, sunucunun sorduğu bir soruya karşılık, “Kendi adamımızı kurban mı edecektik?” Gibi çok manidar bir cevap vermesi ile gözler, bir anda Yüksek Seçim Kurulu’na çevrildi.<br />
+Son günlerin en çok yazılan ve sorgulanan konusu da, seçim sonuçları üzerinde internet ortamında etkileme yapılıp yapılamayacağıydı.<br />
+Umuyorum, 13 Haziran sabahı uyandığımızda, seçim sonuçları üzerinde hiç kimsenin aklına takılı bir soru kalmaz.<br />
+Bunların düşünülüyor ve konuşuluyor olması dahi, bu sürecin demokrasimiz açısından yaşanmış şanssız bir dönem olarak akıllarda kalacaktır.<br />
+İşte bu nedenlerle, bence bu seçim sürecine damgasını vuran en önemli iki şeyden ilki, “ ÖLÇÜSÜZ KAYNAK KULLANIMI İLE OLUŞAN HAKSIZ REKABET”,<br />
+İkincisi de, “SEÇİM GÜVENLİĞİ VE SEÇİM HİLELERİNİN” Konuşulur hale gelmesidir.<br />
+Seçim sonuçlarının ülkemizdeki gerilimi azaltması ve kurumlar arasında ki güven sorununu sonlandırması dileğiyle, iyi haftalar..<br />
+10 Haziran 2010</p>
+<p>SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0536-samsun-artik-vaadlerde-dahi-yok.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0538-12-haziran-secimlerinin-dusundurdukleri.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

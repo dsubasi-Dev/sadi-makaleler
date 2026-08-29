@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Samsun&#x27;un Sorunu İletişim ve Paylaşım Eksikliğidir…</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Samsun&#x27;un Sorunu İletişim ve Paylaşım Eksikliğidir…
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2011
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0550
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>SAMSUN’UN SORUNU İLETİŞİM VE PAYLAŞMA<br />
+KÜLTÜRÜ EKSİKLİĞİDİR.</p>
+<p>Öyle bir kentte yaşıyoruz ki ve öylesine olaylara tanık oluyoruz ki, sokakta ki insanın neyin doğru, neyin yanlış olduğunu anlamasına imkân yok.<br />
+Sokakta ki insandan kastım, olayların tarafı olmayan veya bir şekilde söz konusu konu ile ilişkisi olmayan sade insanlarımızdır.<br />
+Konuyu biraz daha açmak için söz konusu olayların en azından bazılarını hatırlatmakta yarar görüyorum.<br />
+Ancak soruna değinmeden öncelikle bir şeyin de altını çizmek istiyorum.<br />
+Samsun son 20 yılda olumlu ve olumsuz önemli bir değişim yaşadı. Tüm eleştirilecek yönlerine rağmen, kent görsel anlamda olumlu yönde gelişti ve de güzelleşti.<br />
+Kabul edelim ki, bu kentte yaşayan bizler bu değişimi kademe kademe yaşadığımız için olacak çok önemsemiyoruz veya yeterince algılayamıyoruz. Ancak uzun yıllar sonra Samsun’a gelenler çok daha iyi gözlemliyorlar. İlk kez Samsun’u görenler de Samsun’dan övgü ile söz ediyorlarsa, yukarıda ki değerlendirmem doğrulanıyor demektir.<br />
+Bu tespitlerimi yaptıktan sonra akıllara şu soru geliyor; Öyleyse, böylesine olumlu değişimin yaşandığı bir ortamda, kamuoyunda ki bunca söylenti ve eleştirinin nedeni nedir? Asıl sorgulanması ve cevap bulunması gereken de budur.<br />
+Bu konuda ki benim yorumum, Samsun’un idari ve siyasi yönetim kadrolarında söz sahibi olanların toplumla yeterli ve de gerekli iletişim ile paylaşım kültürüne sahip olmamalarıdır.<br />
+Son yıllarda en çok eleştirilen ve üzerinde konuşulan konuların başında, “Teşvik“, Mobil ve Termik Santraller”, “Raylı Sistem”, “Sokak işgaller ve işportacılar”,”Alt geçitler, otopark, trafik karmaşası, cadde fakiri Samsun’da bazı caddelerin trafiğe kapatılması ve viyadük yapımları ile Atakum hattına çalışan dolmuşların sorunu” ve en son da “Saathane Meydanı ve Taşhan Çevresinin yeniden düzenlemesi” öne çıkıyor.<br />
+Yukarıda ki projelerde eleştirilerin büyük bir çoğunluğu haklılık kazanıyorsa bunun en büyük nedeni, bu projelerin ve uygulamaların çoğunun halktan saklanarak yapılmaya çalışılmasıdır.<br />
+Bir proje veya uygulama sonucunda olumlu veya olumsuz ondan etkilenecek kesimi bilgilendirmeden, hatta onayını almadan yaparsanız,  bu eleştirilerin gelmesi normal karşılanmalıdır. Bu paylaşmayı yapmadan uygulamaya koymak “Ben yaptım, oldu” anlayışını çağrıştıran bir dayatmadır, bir oldu-bittidir.<br />
+Paylaşma kültürünün yer almadığı uygulamaların çağdaş yöneticilik anlayışında yeri yoktur. Amaç hizmet götürülen kesimi mutlu etmek ise, bu projeden yararlanacak kesimin bu projenin onlar için ne getirip, ne götürdüğünü bilmesi de en doğal hakkıdır. Hiç kimsenin ve sorumlunun toplumu dışlayarak uygulama yapması normal karşılanamaz.<br />
+Son günlerde üzerinde çok konuşulan konusu, Saathane Meydanı ile Taşhan ve çevresinin yeniden düzenlenerek oradaki karmaşaya son verme projesidir.<br />
+Eğri oturup doğru konuşmak gerekirse, bu bölgenin yeniden düzenlenmesine ve Samsun’a yakışır hale getirilmesine bu kentte yaşayan ve o bölgeyi iyi bilen hiçbir Samsunlunun itirazı olamaz.<br />
+Bölgenin trafiği de tıkayan ve çağdaş kent anlayışına uymayan görüntüsünün yeniden düzenlenmesi ile bölgenin çok güzelleşeceğine inanıyorum.<br />
+Bu düşüncelere sadece o bölge de işyeri olan ve işyerlerini kaybetme korkusunu yaşayanlar katılmayacaklardır ki, bunda da son derece haklıdırlar. Tanrı hiç kimsenin iş düzenini bozmasın.<br />
+O zaman sorun nedir? Sorun, bu projede de ortaya çıkan iletişim eksikliği, daha da önemlisi de gerekli paylaşmanın yapılmamış olması gibi gözüküyor.<br />
+Proje, son Belediye Meclisi toplantısında da tartışmalara neden olmuş ve oylama sonucunda sorun ekim ayı toplantısına ötelenmiştir. Anlaşılan bu proje konusunda Belediye Meclisi de yeterince aydınlatılmamış.<br />
+Çözüm nedir?<br />
+Projenin uygulanmasında kararlı olunmalıdır.<br />
+Bence yapılması gereken ilk iş, proje tüm detayları ile bu projeden etkileneceklerle paylaşılmalıdır.<br />
+Büyükşehir Belediye Meclisinde her yönü ile görüşülerek meclis üyeleri aydınlatılmalıdır.<br />
+Proje için Mimarlar Odası ile Şehir Plancıları Odası’nın görüşleri alınmalı ve onların endişeleri giderilmelidir.<br />
+O bölgede iş yeri olanlara mutlaka işyeri sağlanmalıdır. O bölge de ki iş yerlerin çoğunluğunun benzer işleri yapıyor olması nedeniyle onlara özel bir mekân sağlanmalıdır. Çünkü bu işyeri sahipleri tek tek değişik yerlerde işlerini sürdüremezler. Aynı mekânda olmaları işlerinin gereğidir.<br />
+Ortak akılla son şeklini alacak proje, kentin muhtelif yerlerinde ki ilan panolarında Samsun Halkının bilgisine sunulmalıdır.<br />
+Bunların yapılması halinde inanıyorum ki, projeye Samsun Halkı da bilinçli bir şekilde destek verecektir.<br />
+Aksine ısrar edilmesi halinde o yörede ki işyeri sahipleri ekmek teknelerini koruyabilmek için her yolu deneyecek, siyasetçileri yanlarına alacak, Belediye Meclisinin bölünmesine neden olacak ve huzursuzluk iyice artacaktır.<br />
+Bir kenti güzelleştirmek için girişimlerde bulunmak ne kadar doğruysa, o projeden olumsuz etkilenecek insanlara inandırıcı güvenceler vermek bir o kadar doğrudur, hatta şarttır.<br />
+Kentin güzelleştirilmesine destek vermek de her Samsunlunun görevidir.<br />
+Gerekli paylaşım sağlanmadan proje de ısrar etmek, ekonomik baskının da yoğun olduğu bir dönemde insanlarını ekmeği ile oynamak demektir ki, bunun vebali büyüktür.<br />
+İyi haftalar… 18 Eylül 2011</p>
+<p>Ecz. SADİ SUBAŞI</p>
+<p>Yazıyı beğendim. Tespitinize  % 100 katılıyorum. Saathanede yapılacak olan çalışma ile ilgili gerçekten oldukça yoğun bir  bilgi kirliliği var.<br />
+Bu konu her ne kadar Saathane esnafını ilgilendiriyor gibi gözükse de, Aslında tüm sehri etkileyecek önemli bir proje. Dolayısıyla bu konu hakkında tarafların görüsünü alarak yayınlayacağınız bir yazının  son derece etkili ve ilgi çekeceğini düşünerek size en derin sevgi ve saygılarımı sunuyorum.</p>
+<p>Coşkun Zeren</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0549-yasanabilir-i-ller-siralamasi-ve-samsun.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0551-avm-ler-samsu-da-ki-ticaris-hayati-olumsuz-etkiliyor.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

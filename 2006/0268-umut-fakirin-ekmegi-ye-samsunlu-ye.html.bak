@@ -1,0 +1,310 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Umut Fakirin Ekmeği. Ye Samsunlu Ye…</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Umut Fakirin Ekmeği. Ye Samsunlu Ye…
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2006
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0268
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>UMUT FAKİRİN EKMEĞİ, YE SAMSUNLU YE..</p>
+<p>Geçen hafta sonu Samsun yine önemli konukları ağırladı. Bafra Ticaret odasının 103. Samsun Ticaret ve Sanayi Odasının 104. ve 105. kuruluş yıldönümlerine katılmak üzere Samsun’a gelen Sanayi ve Ticaret Bakanı Sayın Ali Coşkun ile TOBB ( Türkiye Odalar Birliği Başkanı ) Sayın  Rıfat Hisarcıklıoğlu  Samsunlulara umut saçan mesajlar vermişlerdir. Samsun Ticaret ve Sanayi Odası Başkanlığının geleneksel olarak her yıl düzenlediği kuruluş yıldönümü ve vergi sıralamasında dereceye giren tüccar ve ihracatçılara plaket verilmesi töreninde, bu kez geçmiş yıllarda olduğu gibi Başbakan veya eski Cumhurbaşkanı yoktu.<br />
+Bu arada bir konuya açıklık getirmek istiyorum. Özellikle gelir vergisinde plaket alan vergi mükellefleri, tüm Samsun vergi mükellefleri arasında dereceye girenler yerine, haklı olarak sadece kendi üyesi olanlar arasından seçildiği için, Samsun’da bu plaket alanlardan çok daha yüksek gelir vergisi ödeyenlerin bulunduğunu belirtmek istiyorum.<br />
+Şimdi, sizlere bu tören sırasında gerek Sanayi ve Ticaret Bakanı ile TOBB. Başkanının ve yerel yöneticilerin söylediklerinden alıntılar yapacak ve sonra da bu konulardaki görüşlerimi sizlerle paylaşacağım.<br />
+Sanayi ve Ticaret Bakanı Sayın ALİ COŞKUN diyor ki; “ İMF ile nikahımız var. Bu nedenle Samsun teşvik dışı kaldı. İlçelere de bu nedenle sektörel teşvik verilmesi uygun görülmedi. İllerde makro ekonomik gelişmişlik seviyesi baz alındı. Tabii Samsun’da zengin iller arasında yer aldı. Yani Samsun zengin göründüğü için teşvik alamadı. İMF ile yapılan anlaşmalar nedeniyle teşvik vermemiz şu anda uygun görülmüyor”. Bakan konuşmasının son bölümünde bir temel fıkrası anlatıp, bu fıkrayla bağlantılı olarak “RAFİNERİ geliyor”  müjdesini de vermeyi ihmal etmiyor.<br />
+TOBB Başkanı Sayın RIFAT HİSARCIKLIOĞLU da Samsun için şu önemli saptamalarda bulunuyordu. Türkiye’de ekonominin çok iyi yerlere gittiği söylemlerinin aksine, tüm Türkiye’de ve Samsun’da ticaret yapanların ciddi sıkıntılarının olduğu gerçeğini şu cümlelerle vurguluyordu. Hisarcıklıoğlu diyor ki;  “ Türkiye genelinde protesto olan senetlerde artış vardır. Bu oran Türkiye genelinde % 45 iken, Samsun’da % 60 a ulaşıyor. Kapanan iş yeri sayısında da artış var ”. Devamla; “Bugün Samsun’da ki ekilebilir alanlar 450.000 hektar olup, bu ekilebilir alanlar Türkiye’nin gıda ambarı olacak niteliktedir. Bu açıdan şanslısınız. Büyükbaş hayvancılıkta da Samsun Türkiye’nin ihtiyacını karşılayan dördüncü kentimizdir. Ama bunlara paralel olarak gerek tarımsal sanayi ve gerekse hayvan ürünlerine dayalı sanayi Samsun’da geliştirilememiştir. O halde, Samsun’da bir sıkıntı var demektir”  diyor.<br />
+Bir de yerel yöneticilerimizin dediklerine bakalım. Büyük Şehir belediye başkanı Sayın YUSUF ZİYA YILMAZ, “ şehir sadece güzel parklar, güzel bahçeler ve güzel yollardan ibaret değildir. Şehrimiz de kişi başına gelir yeterli düzeyde değilse, siz istediğiniz kadar güzel bir şehir yapın, halka yavan geliyor. Samsun Büyükşehirler arasında en az vergi toplayabilen şehir. Ödenen vergilerden % 5 pay alabildiğimiz için bizim payımız da çok düşük kalıyor. Diğer şehirlerin paylarını görünce içim sızlıyor. Samsun’da iş yapıp vergilerini başka şehirlerde ödeyenler var “ diyerek bazı acı gerçeklerin altını çiziyor.<br />
+Ev sahibi konumunda ki Samsun Ticaret ve Sanayi Odası Başkanı Sayın ADNAN SAKOĞLU’da, “son dört yılda siyasi istikrara kavuşan Türkiye’de, Hükümetin uyguladığı ekonomik politikalar sonucu, ekonomik göstergelerin iyiye gittiğini belirterek, RAFİNERİ projesinin gerçekleşeceğini, ihtisas fuarları için gerekli fuar kompleksinin 2007 de hizmete gireceğini ve Samsun’un Türkiye’nin lider kentlerinden birisi olacağını”  müjdeliyordu.<br />
+Şimdi gelelim söyleyeceklerime; Yukarıda gördüğünüz gibi Sayın Hisarcıklıoğlu Samsun adına bazı acı gerçekleri dile getirmiştir. Sayın Yusuf Ziya Yılmaz’da sadece kenti güzelleştirmenin bu kent insanının karnını doyurmadığını cesaretle söylemiştir. Ancak başta Bakan  Ali Coşkun olmak üzere yine müjdeler verilmiş ve cekli, caklı söylemlerle yetinilmiştir. Bu kent adına siyaset yapanlar, bu kenti yönetenler ve Samsun halkının sözcülüğünü yapmak sorumluluğunu üstlenmiş olan sivil toplum kuruluşu yetkilisinden hiç birisi, Samsun Halkının beklentilerini, uğradığı haksızlıkları dile getirememişlerdir. Sayın Hisarcıklıoğlu’nun açıklamaları ile zemin oluştuğu halde, Samsun’un  sahip olduğu potansiyeli harekete geçirecek teşvikin Samsun’a neden çok görüldüğünü soramamışlardır. Sayın Bakanın öne sürdüğü, İMF ile kıyılan nikah nedeniyle teşvikin  Samsun’a verilemediği aldatmacısına karşı, aynı anda Samsun dışında ki tüm illere nasıl verildiğini dahi soramamışlardır.<br />
+Gerçi, bundan tam bir yıl önce, teşvik kapsamında bulunan Samsun dışında ki  tüm illere teşviki veren Başbakanın aynı salonlarda, teşvik diye tutturan Samsunluları, “ neden fakir gömleği giymek istiyorsunuz? Siz zengin kentsiniz “ diyerek azarladığında alkışlayanlardan, bugün bu soruları sormalarını beklemek zaten safdillik olurdu. Aynen, Samsun mevduat yönünden zengin il olduğu için teşvik verilemezdi diyen bakana,                   “ Samsun’da ki bankalarda bulunan mevduatın çok büyük bir kısmının Ordu ve Giresunlu fındık tüccarlarının mevduatı olduğu gerçeğini “       söyleyemeyecekleri gibi.<br />
+Gelen hükümet yetkililerine, işsizliğin Türkiye ortalamasının çok üstüne çıktığını,  bu nedenle iş bulamadıkları için üniversiteyi bitiren çocuklarımızı  kendi kentimiz Samsun’a getiremediğimizi,<br />
+Samsun’un Türkiye’nin tahıl ambarı olacak kapasitede olduğunu söyleyenlere, uygulanan tarım politikaları nedeniyle, başta Vezirköprü olmak üzere köylerin boşaldığını ve yüzlerce traktörün yıllardır branda ile kapatılarak kaderine terk edildiğini,<br />
+Türkiye’nin en verimli ovasına Samsunlunun tepkisine rağmen zoraki yapılan ve mahkeme kararı ile kapatılan iki  MOBİL SANTRALA,  yasal engele rağmen tekrar çalışma izninin nasıl verildiğinin ve bu ovaların katledilmesine nasıl göz yumulacağını,<br />
+Her yeni düzenlemede Samsun’un kobay gibi görülerek neden pilot il seçildiğini, bu nedenle de denetimlerden bunalan büyük vergi mükelleflerinin kayıtlarını Samsun dışına taşıdıklarını, aile hekimliğinin ilk denemesi için neden Samsun’un seçildiğini söyleyemiyor ve nedenini soramıyorlarsa, bu tantanaya ne gerek var?<br />
+Son üç yılda bu kente yanılmıyorsam Başbakan üç kez geldi. Sayısız da Bakan geldi. Ama hepside Samsunluya ninni söylemeye geldi. Geçtiğimiz aylarda Kayseri’ye giden Abdullah Gül ve geçen hafta Konya’ya giden Başbakan yüzün üzerinde fabrika açtı. Bu kente gelenler ise, ya daha önce açılmış tesisleri açıyor veya halkımıza bir dönem daha oyalanacağı boş müjdeleri verip gidiyorlar.<br />
+Bu kadar haksızlığa uğrayan bir kente, bu kadar çok sayıda hükümet yetkilisinin, bu kadar sık ve cesaretle gelmesini Samsun adına hem üzücü, hem de çok şaşırtıcı buluyorum. Aslında bunun cevabı çok kolay. Bu kente bu kadar çok ve sık gelen hükümet yetkililerini sıkıştırmaz ve onlara dertlerimizi anlatmak yerine, pembe tablolar çizerek onları mutlu etmek adına kentin gerçek yüzünü saklarsanız, tabii ki onlarda bu cesareti bulacaklardır.<br />
+Merak ettiğim şey, sadece bir teşvik rezaletinden sonra dahi, hangi il bu yetkililere bu kadar hoşgörülü davranırdı? Samsunlu yatırımcılara yararı olacak teşvik uygulaması sırasında, Samsun’un  kapsam dışında bırakılmasına isyan ederek kampanya başlatan 80 sivil toplum kuruluşu yöneticilerine, “ teşvik gözlerine girsin” diyebilen veya hayvan benzetmesi yapabilen milletvekili hangi kentte, hiçbir şey olmamış gibi hüsnü-kabul görürdü?<br />
+Teşvik olayının tüm sıcaklığını koruduğu sırada, Samsun’da düzenlenen mitinge katılan Başbakanın konuştuğu meydana,  “ Bize Ne Teşvik, Ne Yatırım Gerek, Bize Sizin Güler Yüzünüz Yeter “ diye pankart asılırsa, bu kentte bunları hak ediyor demektir. Yazık, çok yazık..<br />
+Bu kenti yönetenler, bu kent adına halka sözler vererek seçilen siyasiler ile halkın haklarını savunma görevini üstlenen Sivil Toplum Kuruluşların yöneticileri  cesur söylemlerle sorunlarımızı yetkililere anlatamadıkça, yeri gelince halk adına tavır sergileyemedikçe ve kişisel çıkarları uğruna toz pembe tablolar sundukları sürece, Samsun’un iki yakasının bir araya geleceğine inanmıyorum.<br />
+Bunları söyledim diye, yine bazı dostlarımın moralinin bozulacağını da biliyorum. Sözlerimi, Halk Gazetesi Genel Yayın Yönetmeni ve baş yazarı Sayın Osman Kara’nın, çok beğendiğim  23-Aralık-2006 tarihli baş yazısının son paragrafını sizlerle paylaşarak ve yorumunu sizlere bırakarak bitirmek istiyorum. Sayın Kara, “ Ben mi çok kötümserim, yoksa olaylar mı kötü; bilmiyorum, bilemiyorum. Bir bilen varsa haber versin lütfen. Ben bir psikoloji uzmanına mı gitmeliyim bu kötümserlikten kurtulmak için, yoksa iyimserler, geçmişin olaylarında geleceğin ip uçlarını bulmak üzere, bir kütüphaneye mi gitmeliler? Ne dersiniz?”  diyor. Siz ne dersiniz?<br />
+İyi haftalar. Yaklaşan Kurban Bayramınızı kutluyor, 2007 yılının  size, ailenize, Samsunumuza ve Ülkemize güzellikler getirmesini diliyorum..<br />
+24-ARALIK-2006<br />
+SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0267-kan-kaybeden-karaneniz-bolgesi.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0269-sevgi-ve-dostluk-oykusu.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

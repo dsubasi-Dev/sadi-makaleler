@@ -1,0 +1,308 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Bilimsel Gözle Samsun Gerçekleri - 1. Bölüm</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Bilimsel Gözle Samsun Gerçekleri - 1. Bölüm
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2006
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0230
+
+</div>
+
+
+<div class="article-content">
+
+<p>e-mil: sadisubasi@denizeczaneoptik. com                                                 SUNUŞ</p>
+<p>BİLİMSEL GÖZLE SAMSUN GERÇEKLERİ..<br />
+1. BÖLÜM</p>
+<p>Köşe yazım uzun olması nedeniyle bugün ve yarın olmak üzere iki bölümde yayınlanacaktır.</p>
+<p>Geçtiğimiz hafta Samsun’da çok önemli bir sempozyum gerçekleştirildi. Büyük Şehir Belediye Başkanlığı tarafından düzenlenen ve  üç gün süren sempozyum da Samsun çeşitli yönleri ile masaya yatırıldı. Sempozyum sonuçlarının bir kitapçık halinde yayınlanacağı açıklandı. Bu sempozyum da gündeme gelen konular önümüzde ki günlerde çeşitli platformlar da tartışılacaktır sanıyorum. Samsun dışından da çok sayıda konuşmacının yer aldığı bu sempozyumu düzenleyen Büyük Şehir Başkanlığı Kültür Daire Başkanlığını kutluyorum. Daire Başkanı Sayın Necmi Çamaş önemli bir etkinliğe imza atmış. Emekleri için teşekkür ediyorum.<br />
+Sempozyumun açış konuşmalarından oluşan sabah programı gerçekten çok ilginç söylemlere sahne oldu. Sempozyumun açış konuşmasını yapan Büyük Şehir Belediye Başkanı Sayın Yusuf Ziya Yılmaz son zamanlarda kent merkezinde yapılan önemli projeleri ve kültürel anlamda yapılmakta olan güzel etkinlikleri sıralayarak, Samsun’un hızla sorunlarını çözen bir kent olduğunu anlattı.  Şu noktanın altını önemle çizmek istiyorum; Samsun Yusuf Ziya Yılmaz ile gerçek anlamda belediye hizmetleri yönünden önemli atılımlar yaptı. Eleştirilecek olanları bir yana bırakırsa, ortaya çıkan önemli güzellikler var. Devam edenleri de göz önüne alırsak yıllardır kent merkezi adına çözüm bekleyen önemli sorunlar gideriliyor diyebiliriz. Tabii bu uygulama da öncelik  sıralaması her zaman tartışılacaktır. Sayın Başkanın dinleyenlerin içini ısıtan bu açıklamalarından sonra, sempozyumun panelistlerinden bir bilim adamı Sempozyum bildirisini sunmak üzere kürsüye geldi. Samsun Ondokuzmayıs Üniversitesi  Fen-Edebiyat Fakültesi Coğrafya bölümü öğretim üyesi Doç. Dr. Cevdet Yılmaz adeta tüm cilaları silinmiş gerçek bir Samsun  fotoğrafı sundu. Sayın Yusuf Ziya Yılmaz’ın sundukları ne kadar Samsun gerçekleri ise, Sayın Cevdet Yılmaz’ın sundukları da bir o kadar Samsun’un bir başka doğrularıydı. Sayın Cevdet Yılmaz konuşurken kürsüde bir SAM-SEV yönetim kurulu üyesi konuşuyor sandım. Yıllardır SAM-SEV ‘in gündeme taşıdığı ve giderilmesi için çaba harcadığı Samsun gerçeklerini, bu kez bir bilim adamı gözüyle bu önemli bilimsel sempozyumun resmi kayıtlarına geçirtiliyordu. Bu gün bu sunumu satırına dokunmadan sizlerle paylaşmak istiyorum. Yıllardır bunları söyleyerek, Samsun’u gerçek yönleriyle tartışmaya açmak ve sorunlara dikkat çekmek  istediği için zaman, zaman ağır ithamlarla karşılaşan , hatta “karamsar tablolar çizmekle” suçlanan SAM-SEV’İN Başkanı olarak bizleri doğrulayan Sayın Doç. DR Cevdet Yılmaz’a teşekkür ediyorum.<br />
+Sayın DoçDr Cevdet  Yılmaz’ın sunumu şu başlıklardan  oluşuyordu;<br />
+Samsun yıllardır yerinde sayan bir ildir. Son 30 yıldır bu süreç devam etmektedir. Görünüm değişse de gelişmişlik seviyesinde bir ilerleme görülmemektedir. Son 15 yıla bakıldığında da durum aynıdır.<br />
+İl nüfusu 1990 da 1158,400, 2000 de 1209,137  buna karşı  kent nüfusu 1990 da 369,000, 2000 de 437,000 dur. Bu artış oranları Türkiye ortalamasının altındadır.<br />
+İl genelinde az da olsa bu artış olurken Samsun’un  1990 da 633,000 olan kırsal  nüfusu,  2000 de 573,000 e düşmüştür.<br />
+2000 de işsizlik oranı % 7 görünüyor olsa da bu yanıltıcıdır. Çünkü işsizler iş bulmak umuduyla Samsun’dan ayrılmaktadır.% 7 sadece Samsun da kalarak iş arayanları ifade edebilir.<br />
+Rakamlarda da görüleceği gibi Samsun da kırlar hızla boşalıyor. Peki bu insanlar nereye gidiyor?<br />
+Türkiye’nin en verimli ve gözde tarım toprakları olan Bafra ve Çarşamba ovalarında ki köyler dahi nüfus kaybediyorsa Vezirköprü, Kavak, Asarcık, Salıpazarı’nı  siz düşünün. Terme’li ve Çarşamba’lı köylümüz bu verimli topraklarına fındık ekip soluğu kentlerde alıyor.<br />
+Türkiye genelinde kırsal nüfus % 35 e inerken Samsun’da bu oran hala % 50 ler seviyesindedir. Samsun’da kente göçüş devam edeceğine göre Samsun’un hali ne olacaktır? Bu insanlara barınma ve iş imkanı nasıl sağlanacaktır? Bu nedenle Samsun’u tartışırken olayı sadece Samsun merkezi ile sınırlamamak gerekir.<br />
+Belki dikkat çekmiyor ama, belki de en önemli sorunlardan birisi de Samsun da ki beyin göçüdür. Samsun da çok başarılı dershaneler de başarı sıralamasına girerek, çok iyi üniversitelerde eğitim alan çocuklarımızdan mezun olanların kaç tanesi bu kentte kalabilmektedir? Bunlar sadece iş bulamadıkları için değil, Samsun’u aldıkları kültür ile örtüşecek ve ihtiyaçlarına cevap verecek düzeyde bulmadıkları için de büyük şehirlere kaçmaktadırlar. Sadece öğrenciler değil  diğer kentlerde ki kaliteli Üniversitelerin başarılı öğretim üyelerini Ondokuzmayıs Üniversitesine getirmekte zorlanıyoruz. Gelenlerde  kadro almak için geliyor. İşleri hallolunca Samsun’u terk ediyorlar.<br />
+Bir başka önemli olay da, Samsun’un 1980 li yıllara kadar bölgenin çekim merkezi olma özelliğini sürdürmesine karşın , son 25 yılda bu özelliğini hızla kaybediyor olmasıdır. Daha da kötüsü, son yıllarda Samsun hızla İstanbul kökenli ulusal ve uluslar arası şirketlerin etki alanına girmektedir. Örneğin sadece dış merkezli büyük market zincirleri aracılığı ile Samsun’dan kaçan para  miktarının günlük 300,000,00 YTL. olduğu söylenmektedir. Ülkemizin dış ticaret açığı gibi her gün sadece bu alanda bu kadar açık veren bir il, nasıl kalkınacaktır? Dışardan gelen mal kadar dışarı mal satamayan ve üretemeyen bir ilin kalkınması mümkün müdür? Bu sonucu ortaya çıkartan problemler nelerdir? Bunların tartışılacağı, çözüm önerilerinin getirileceği ortamları hazırlamak kimlerin görevidir? Üniversite, Belediye, Ticaret odası ve diğer kurumlar ayaklarına top gelmesini bekleyerek veya gelen topları gole çevirecek vuruşu yapamadıkları sürece köklü bir sonuca ulaşmak mümkün müdür? Bu kentin gollerini atacak, tribünleri ayağa kaldıracak dinamik insanları nerededir?<br />
+Samsun’un sorunlarının çözümü için, Vali sadece Devletin kenti yönetmek için gönderdiği Vali olmamalı, Samsun’un Valisi olmalıdır. Milletvekille, gerçekten Samsun’un vekilleri, Rektör Samsun’un rektörü, emniyet müdürü Samsun’un emniyet müdürü, sanayicisi ve esnafı Samsun’un sanayicisi, bilim adamı Samsun’un bilim adamı olmalıdır. Bu insanlar Samsun’u yüreklerinde bir sızı olarak kabul etmedikçe, Samsun için uykuları kaçmadıkça Samsun’un problemleri bitmeyecek, Samsun yerinde saymaya devam edecektir.<br />
+Samsun bir üniversite şehridir. Fakat bundan Samsun ne derece faydalanmaktadır.? Üniversite şehri olmak dışardan gelen öğrencilerin kolay barınmalarını sağlamak ve onları rahat ettirmekten mi ibarettir? Ebette hayır. Bilim adamları araştırmalarını Samsun üzerine yoğunlaştırmalı, üniversite ile şehir arasında ki ilişki artık laftan öteye geçmeli, örneğin ilin ve şehrin sorunları üniversite tarafından değerlendirilmeli, tez ve araştırma konuları bunlar arasından seçilmelidir.<br />
+İlgisiz kişilerin Samsun hakkında bilgili görünüp hemen her konuda Samsun hakkında ahkam kesmesinin de önüne geçilmeli ve gerçek bilgilerin kaynağına inilmelidir.<br />
+YAZARIN NOTU: Lütfen köşe yazımın yarın yayınlanacak ikinci bölümünü okumadan bir değerlendirme yapmayınız..<br />
+07-Mayıs-2006<br />
+SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0229-sivil-toplum-kuruluslarina-tepki-neden.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0231-bilimsel-gozle-samsun-gercekleri-2bolum.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

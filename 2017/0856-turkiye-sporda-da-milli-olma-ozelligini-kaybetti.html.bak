@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Türkiye Sporda da Milli Olma Özelliğini Kaybetti.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Türkiye Sporda da Milli Olma Özelliğini Kaybetti.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2017
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0856
+
+</div>
+
+
+<div class="article-content">
+
+<p>e-posta; denizeczaneoptik. com                            SUNUŞ</p>
+<p>TÜRKİYE SPORDA DA MİLLİ OLMA ÖZELLİĞİNİ KAYBETTİ.</p>
+<p>Herhangi bir konuda amaç ve hedef sadece kazanmak olunca, kurallar ve etik değerlerin bir anlamı kalmaz.<br />
+Üzülerek söylemek isterim ki, bugün ülkemizdeki hemen her alanı kapsayan bir ahlaki çöküntü ve yozlaşma, sonunda spora da bulaşmış bulunuyor.<br />
+Tabii ki bu sorun bugün başlamış değil. Özellikle toplumun sporda en büyük tutkusu olan futbol dünyasında ki transfer borsalarında dönen dudak uçuklatan paralar ve yönetici- menajer ilişkilerinde ki parasal söylentiler, yıllarca süren şike rezaletleri ve tribün anarşisi, sonunda spor seyircisini de statlardan kopartmış bulunuyor.<br />
+Kalkınma sürecinde yıllardır çaba harcayan bir ülkede yaşıyoruz. Yaşamını bu ülke insanlarının hizmetine sunmuş hekim, hukukçu, asker, mühendis, eczacı, sanayici ve ticaret yapanlar gibi üst düzeyde kazanan meslek sahiplerinin dahi tüm yaşamları boyunca elde edemeyecekleri kazanımlardan fazla paraları sadece bir transfer döneminde alan futbolcuların, dikkatleri toplamaması mümkün değildir.<br />
+Bu paraları alan futbolcular bir de bunun karşılığı olarak futbol sevdalılarına spor zevkini yaşatamamalarının sonucunda statlar da boşaldı..<br />
+Bunun da etkisi ile üç büyük takımın öncülüğünde dünyanın neredeyse her tarafından yabancı futbolcular liglerimizde boy göstermeye başladı.<br />
+Her konuda olduğu gibi üç büyüklerin bitmek bilmeyen yabancı oyuncu kotasının artırılması yönünde ki hırsları ve bu kulüplerin Futbol Federasyonu üzerindeki hâkimiyetleri, sonunda Süper Lig takımlarında yabancı oynatabilme sayısı 14 çıkartıldı.<br />
+Gelen yabancı futbolcuların büyük bir çoğunluğunu, gerek yaşları ve gerekse kaliteleri nedeniyle artık Avrupa’da oynama şansı azalmış futbolcular ile Afrika ülkelerinde adı sanı çok da bilinmeyen futbolcular oluşturmaktadır.<br />
+Bu değişimler de statları doldurmaya yetmediği gibi milli takımlara da futbolcu seçmekte zorlanılan bir ortam yarattı.<br />
+İş, sonunda başarılı olmak adına yabancı oyuncuları Türk vatandaşı yaparak onlara milli formayı giydirmeye kadar vardırıldı.<br />
+Bu tür kolaycı başarılar adına milli takımda yabancı oynatmak, bizim gibi milli duyguları yüksek bir ulusun sindirebileceği bir şey değildir. Zaten bu model de tutmadı.<br />
+Böylesine çok yabancı futbolcunun yer aldığı bir lig de, yetişmiş Türk futbolcular kadroya giremezken, alt yapılarda ki oyuncular da A takımında oynama umudu kalır mı? Bu şartlarda genç oyuncu yetişir mi?<br />
+2000 li yılların başında transfer politikalarının futbolcular lehine değiştirilmesi sonucu, Anadolu takımları yetiştirdikleri genç sporcularını ve dışarıdan bulup getirdiği başarılı futbolcularını elinde tutamaz oldu.<br />
+Geçmiş yıllarda Anadolu takımların çıkardığı gol kralları (Tanju, Serkan, Fethi ve diğerleri) artık çıkıyor mu?<br />
+Futbol Federasyonu ve kurulları üç büyüklerin güdümünden çıkarak tüm Türkiye’nin Federasyonu konumuna gelmeden, Türk Futbolun da gelişme olacağını düşünmek hayaldir.</p>
+<p>Ve Basketbol ile atletizm.<br />
+Futbol kalite ve seyirci kaybederken, basketbol de çok ciddi gelişmeler yaşanıyordu. Sporcularının büyük bir çoğunluğunun eğitimli olmasının da kattığı kalite ile basketbol, hem takımlar düzeyinde, hem de milli takım seviyesin de önemli bir aşama kaydetti.<br />
+Ne var ki, son dönemlerde artık Avrupa kupalarında çok sayıda takımımızın şampiyonluğa oynar hale gelmesi ne kadar sevindirici ise, kendi takımlarında yer bulmakta zorlanan Türk sporcuların gelişememesi ve deneyim kazanamaması nedeniyle, milli takım kurmakta zorlanmamız ve Basketbol Milli Takımlarımızın Avrupa ve Dünya Şampiyonalarında istenen başarıları yakalayamaması o derece üzücüdür.<br />
+Devşirme sporcularla başarı yakalamak kolaycılığı, futbol ve basketbol dışında ki diğer bazı spor dallarına da sıçramış bulunuyor.<br />
+Son yıllarda atletizmde de belli bir aşama kaydetmiş ve bu dalda Avrupa ve Dünya yarışmalarında kendi sporcularımız derecelere girerek madalyalar kazanmaya başlamıştı.<br />
+Bayan ve erkek atletlerimizin başarıları ile gurur duyarken bir anda yabancı sporcu virüsü atletizme de bulaştı.<br />
+Artık Afrika kökenli sporcular milli forma ile dereceler alıyor ve bu dalları yönetenler de bu başarılarla bolca reklamlarını yapıyorlardı. Ne var ki, bu aşı bir anda bizi dünyaya rezil etti.<br />
+Avrupa, dünya hatta olimpiyatlarda derece alan atletlerimiz art arda doping cezaları alarak cezalandırılırken, unvanları ve madalyaları da geri alınıyordu.<br />
+Türk sporcuların tanımadığı doping türü ilaçlar, bu yabancı atletler ve dışarıdan gelen hocalar aracılığı ile atletlerimize de bulaştırıldı. Onları yanlışa iterek spordan koparttı.<br />
+Geçtiğimiz hafta basında gördüğüm, “Dünya Kros Bayrak Şampiyonasında yarışan Kros milli Takımımızın dünya 3. Oldu” Başlığı ile büyük bir gurur yaşadım.<br />
+Ama spor sayfasını açıp da 3. Madalyası alan milli takımı oluşturan altı tane Afrikalı sporcuyu görünce, bende ki gurur yerini büyük bir hayal kırıklığına bıraktı.<br />
+Umuyorum bu son yaşanan yüz kızartıcı olaylar, tüm spor dallarında kendi sporcularımızı öne çıkartabileceğimiz politikaların uygulanmasının yolunu açar.<br />
+Yabancı sporculara verilen milyon Euroları, kendi sporcularımızın yetiştirilmesi için kullanmak en akılcı yol olacaktır..<br />
+Umarım, giderek her şeyin para ile ölçüldüğü günümüzde, bu yanlıştan sıyrılmış bir spor dünyasında milli değerlerimizi öne çıkarttığımız yeni bir döneme gireriz. İyi haftalar.. 02.04.2017</p>
+<p>Ecz. SADİ SUBAŞI</p>
+<p>SAMSUNLULAR, LÜTFEN! UNUTMAYINIZ..<br />
+HAVA ALANIMIZ ÜÇ AYLIĞINA KAPATILACAK..<br />
+Altı üstü 3,5 Km. uzunluğunda ki 2. Pistin maliyetinin gerekçe olarak gösterilerek yapılmaması ve alanın kapatılarak onarılacak olmasının şimdi de üç ay ertelenmiş olması düşündürücüdür.<br />
+Böylece acil bir neden olmadığının ortaya çıkması ile kapatmanın asıl nedenin, bunlar olmadığı anlaşılmaktadır.<br />
+Bu, bir kez daha Samsun’a yapılan bir dayatmadır.<br />
+Soru şu; Neden bu dayatmaya sessiz kalınıyor?<br />
+NEDEN? NEDEN? NEDEN?</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0855-toplumun-tumune-hitap-etmeyen-medya-ve-siyaset-kutuplasmaya-neden-olur.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0857-referandum-surecinde-son-hafta.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

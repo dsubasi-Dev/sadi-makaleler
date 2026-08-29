@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Türkiye Algı Yöntemlerinin Kıskacındadır.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Türkiye Algı Yöntemlerinin Kıskacındadır.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2015
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0748
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>ALGI YÖNTEMLERİNİN KISKACINDA Kİ TÜRKİYE.<br />
+Bir toplumu belli bir doğrultuda yönlendirmenin günümüzde ki en geçerli yolu, toplumu yapılması istenilenler doğrultusunda psikolojik olarak hazırlamaktır. Bu uygulamanın günümüzde ki adı, “Algı yöntemidir.”<br />
+Ülkemiz son yıllarda adeta çok çeşitli ve değişik amaçlarla uygulanan “Algı yöntemlerinin” Kıskacı altında kalmıştır. Algı yöntemlerinin en çok uygulandığı yerler ise, siyaset, ekonomi, eğitim ve idari konularıdır.<br />
+Ülkemiz, gerek jeopolitik konumunun özelliği ve gerekse, bölgede ki laik düzeni benimsemiş tek Müslüman ülke olması nedeniyle, son derece karmaşık çıkar çevrelerinin ve bölgede de çıkar hesapları olan devletlerin gizli servislerinin at koşturduğu bir ülke haline gelmiştir.<br />
+Tabii ki suç oluşturması nedeniyle örgütlerin çalışmalarını açıktan yürüttüğü düşünülemez. O nedenle en çok kullandıkları yöntem, amaçları doğrultusunda toplumu psikolojik olarak hazırlamaktır.<br />
+Bu yöntemle, toplumların ekonomisini, siyasi yapısını, hatta rejimini dahi değiştirmek kolaylaşır.<br />
+Algı yöntemlerinin uygulanması sırasında en çok yararlanılan kuruluşlar, anket firmaları ile iletişim araçları ve en yaygın şekilde de yazılı ve görsel basındır.<br />
+Ama bunların içerisin de, en belirleyici algı yöntemini kullananlar “Anket Firmalarıdır.” Özellikle siyasette, karasız seçmenlerin oyunu yönlendirerek seçim sonuçlarını etkileyecek güçte etki yaratırlar.</p>
+<p>Üzülerek söylemek gerekirse, son dönemlerde toplumun anket firmalarına olan güven büyük ölçüde sarsılmıştır.<br />
+Siyasi partiler veya onlara destek veren bazı sivil toplum kuruluşlarının siparişle yaptırdığı anketler, sıkça TV kanallarında yayınlanarak toplum önceden seçim sonuçlarına hazırlanmakta ve toplumuzun güçlüden yana olma zaafı çok güzel değerlendirilmektedir.<br />
+Basın kanalıyla yaratılan algı yöntemlerinin son 50-60 yıl içerisinde öylesine çok örneğini yaşadık ki, birçoğunda farkında olmadan toplumun çok büyük kesimi olarak da bu yöntemle yanlışlar yaptık.<br />
+Örneğin, altında yatan nedenler ne kadar haklı da olursa olsun, demokratik bir ülkenin insanları olarak birçoğumuz pompalanan psikolojik etkinin altında kalarak darbeleri alkışlamadık mı?<br />
+Bugün herkesin eleştirdiği özgürlük ve yetişmiş aydınları yok eden 1982 Anayasası’na, % 92’ miz onay vermedi mi?<br />
+Son olarak da, tartışmalı olsa da iyi-kötü işleyen “Yargı Bağımsızlığını” kökten yok eden, “2011 Referandumuna”  Evet ama yetmez diyerek, onay vermedik mi?<br />
+Onüç yıldır ülkemizi yöneten İktidarın tüm aydın çevrelerin uyarılarına rağmen, adı çok bilinen “Cemaatle” kola kola girerek yarattıkları algı yöntemleri sayesinde, demokrasinin koruyucusu tüm kurumlarının yok edilmesine, buna direnen çok sayıda askerin, gazetecinin, bilim adamının ve yazarın, düzmece CD’ler eşliğinde cezaevlerine tıkılmasını seyretmedik mi?<br />
+17 Yedi Aralık’ta ortaya çıkan rüşvet ve yolsuzluklar sonrası ortalığın karışması ile Cemaat ile bağlarını kopartan iktidar, o günden sonra, “Tüm yanlışların Cemaatten kaynaklandığı algısını” Yaratarak kendisini yapılan yanlışlardan arındırma çabasına girmedi mi?<br />
+O dönemlerin Genelkurmay Başkanı Orgeneral İlker Başbuğ, her platform da “Asker psikolojik saldırı ile karşı karşıya” Diye feveran ederken, yaratılan “Vesayet algısının” etkisinde kalan bazıları da ordumuzun darmadağın edilmesine göz yummadı mı?<br />
+Bugün Türkiye’de rejimi değiştirebilecek hayati yeni bir seçimin öncesindeyiz. Yine meydanlarda ki toplumu psikolojik etki altına alacak yeni “Algı yaratma modellerini” ibretle izliyoruz.<br />
+1950 sonrası dönemleri yaşayanlar hatırlayacaktır. O dönemlerde iktidarın kullandığı en önemli algı yöntemi, iktidara karşı olan herkesi o dönemlerin öcüsü, “Komünist“ Olmakla suçlayan algı yöntemiydi.<br />
+Bugün ise, iktidarın kendisine karşı olan herkesi                 “Cemaatçi” Olmakla suçlayarak tüm suçlamalardan sıyrılmaya çalışması da, bir başka algı yöntemi değil midir?<br />
+Görünen o ki, toplumumuz bu algı yöntemleri ile yapılan psikolojik kurgulamalara inanmayı sürdürdüğü sürece, Türkiye’de bağımsız yargı sistemini geri getirmek de, toplumu tam özgür yapmak için de alınacak daha çok yolumuz var demektir.<br />
+Tüm bu nedenlerle, 07 Haziran’da yapılacak Genel Seçimler her zamankinden fazla önem kazanmıştır. Topluma düşen en büyük görev, sandığa gitmek ve takım tutar gibi parti tutma anlayışından uzaklaşarak özgürce oyunu kullanarak ülkemizin geleceğinde söz sahibi olmaktır.<br />
+Sağlıklı ve güzel bir hafta dileğiyle. 17. 05. 2015</p>
+<p>Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0747-lutfen-samsun-un-onur-aniti-na-bakar-misiniz.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0749-07-haziran-genel-secimleri-kuskuya-yer-birakmaz.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Eczacı Nın Mdat! Çılı.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Eczacı Nın Mdat! Çılı.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2011
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0562
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>ECZACININ İMDAT! ÇIĞLIĞI.. LÜTFEN! BU SESİ DUYUN..</p>
+<p>Eczacılık bir yanı ile kamu hizmeti, diğer yanı ile de ticaret sayılmaktadır. Son yıllarda eczacıya öylesine uygulamalar dayatılmıştır ki, eczacı ne yapacağını şaşırmıştır.<br />
+Teorik ve pratik çok ağır bir eğitim alan eczacıların ülkemizde üç çalışma alanı vardır. Bunların ilki üniversite kalıp bilim adamı olmak, ikincisi ilaç sanayinde yer alıp imalatta görev almak, sonuncusu da eczane açarak halka sağlık hizmeti vermektir.<br />
+Ne var ki, üniversitelerde çok kısıtlı kadrolar nedeniyle fazla yer bulamazlar. Sanayici ise daha uygun şartlarda çalıştırabildiği için çoğu kadrosunu kimya mühendisleri ile doldurarak sadece zorunlu olduğu sayıda eczacıya yer vermektedir. Yani bu kadrolarda yer bulabilen eczacı sayısı, toplam eczacı sayısının % 5’ni geçmemektedir. Sonuçta, % 95 oranında ki eczacı, zorunlu olarak eczane açmaya mecbur bırakılmaktadır.<br />
+Eczane açmak ise önemli bir sermayeyi gerektirmektedir. Eczacıya fakülte eğitimi sırasında hiçbir ticari bilgi de verilmemektedir. Ticareti bilmeyen eczacı, bilmediği bir alanda iş yaşamına girmektedir.<br />
+Üniversite ve İlaç sanayinde yer bulabilen eczacıların da çok önemli sorunları bulunmaktadır. Ancak günümüzde çoğunluğu temsil eden eczane eczacıları, yok olma korkusunu yaşatan dayatmalarla karşı karşıya bırakılmıştır. Bu dayatmaların hiç ticari anlayışta yeri yoktur. Amaç toplumun çıkarlarını kollamakta olsa, bu bir mesleğin yok edilmesine haklılık kazandıramaz. Yeri gelince “Ticaret yapıyorsunuz” denerek en ağır mali denetim ve yaptırımlarla karşıya bırakılan eczanelere bu kez de, yaşamasını ve ticaretini sürdürmesini imkânsız kılan “Ticari yaptırımlar” dayatılmaktadır. Kamu hizmeti veriyorsunuz denerek de bir yığın katı kurala tabi tutulmaktadır.<br />
+Toplumun tüm kesimlerinin SGK kapsamına alınması ile SGK eczanelerin ilaç satabileceği tek müşteri haline gelmiştir.. Eczacıların pazarı teke düşmüş, dolayısıyla da ilaca para verecek tek kuruluş olarak SGK kalmıştır.<br />
+SGK ilaç konusunda tekel konumuna geçmiş ve bu gücünü kullanarak her türlü kuralı tek taraflı belirlemekte ve eczacılara dayatmaktadır. Bunun anlamı, eczane eczacısının yaşam şansı SGK’ nın insafına terk edilmiştir.</p>
+<p>Eczaneler bu uygulamalar ve yaptırımlarla ayakta duramaz hale gelmiştir.<br />
+İş alanı zaten sınırlı olan ve eczane sayısının 25.000 i bulduğu ve eczanelerin yaşam mücadelesi verdiği ülkemizde hala eczacılık fakültesi açımının sürdürülmesi ne kadar mantıklıdır, anlamak zor.<br />
+Toplumun tüm kesimlerini sosyal güvenceye kavuşturmak son derece yerinde olmuştur. Ancak bu yapılırken bunun getireceği yükün nasıl karşılanacağı iyi hesaplanmamış görülüyor. Bunun sonucu olarak aşağıda altını çizeceğim yaptırımlar eczacıya dayatılmaktadır.<br />
+Türkiye genelinde uygulanan ve tüm kamu reçetelerinin verilebilmesi için reçetelerin SGK’ NIN uygulamaya soktuğu “MEDULA” sistemine girilerek sorgulanması gerekmektedir. Ancak sistem bu yükü kaldırmamakta ve hemen her gün birkaç kez devre dışı kalmakta ve hastanın ilaca ulaşması aksamakta, eczanelerde tek müşterisine ilaç veremez hale düşmektedir. Hatta bazı günler tüm güne yansıyan kesintiler olabilmektedir. Kısacası tek alıcısı SGK olan eczanelerin ilaç satışı engellenmektedir. Bu da, sistemin tam oturtulmadan işleme konduğunu göstermektedir.<br />
+Sigortalı kapsamının genişlemesi nedeniyle Maliye Bakanlığı’nın ilaca ayırdığı bütçenin aşılması sonucu, SGK aldığı bir takım yaptırım kararları ile faturayı sürekli eczacıya çıkartmakta ve zaten kar oranı iyice düşen ve ayakta zor duran eczaneler yaşamlarını sürdüremez hale gelmektedir.<br />
+SGK aslında ilk yaptırımı ilaç sanayicisine uygulamış gözükmektedir. Ancak ilaç sanayicisinin her verdiği ödün eczacıya yansımaktadır. Sağlık Bakanlığı fiyatı düşen ilaçların farkının sanayici tarafından ilaç depoları kanalı ile karşılanacağını söylemesine rağmen, ecza depoları sanayiciden bir güvence alamadıkları için haklı olarak uygulamayı yapmamakta direnmektedirler. Eczacı bakanlık, sanayici, depo üçgeni içersinde ezilmekte, adeta dövülmektedir.<br />
+Aslında asıl sorgulanması gereken yer ilaç sanayicileridir. Son üç yıldır Sağlık Bakanlığının bastırması ile ilaç fiyatlarını sürekli aşağıya çeken ilaç sanayicisinin, fiyatını dörtte bire düşürdüğü çok sayıda ilaç vardır. O zaman neden sorulmaz ki, “Siz yıllardır bu ülkeye yüksek fiyatlarla ilacı nasıl ve neden sattınız? Bu ülkenin kaynaklarını acımasızca sömürmüş konumuna düşmüyor musunuz?” Bunları cevaplamak yerine her dayatma da sürekli fiyat düşürerek suçunuzu kabul etmiş olmuyor musunuz? İşte asıl sorgulanması gereken konu bu olmalıdır.</p>
+<p>Düşen ilaç fiyatları ile zaten % 20 gibi sınırlı kar oranıyla çalışan eczanelerin ciroları tabana vurmuştur. Eczaneleri en çok etkileyen uygulama ise eczanelerin önceki fiyatlardan aldığı ve rafında duran ilaçlara da bu indirimler yansıtılmakta ve eczacıyı örnek olarak 10.00 TL. ye aldığı ilacı 8.00 TL. ye satmak zorunda bırakmaktadır. BU hangi ticari kurala sığar? Çünkü tek alıcı olan SGK Medula Sistemine yeni fiyatları anında koymakta ve eczaneleri zararına ilaç vermek durumunda bırakmaktadır.  Düşen cirolar ve kar oranları bu kurumları yaşatılamaz hale getirmiştir.<br />
+Eczacıların bir başka sorunu da SGK ile yaşana reçete kontrollerinde ortaya konan acımasız ve suçla hatayı ayırt etmeksizin reçete bedellerinde yapılan fahiş kesintilerdir. Reçete fiyatlarıyla ilgili olmayan basit kayıt hatalarını dahi, “Örnekleme” diye sözleşmelerde eczacıya dayatılan bir maddeye göre işleme koyarak fiyat hatası olmasa dahi, reçete fiyatının onlarca katı ceza tutarı faturalardan düşürülmektedir. Bu kesintiler, adeta yeni bir reçete ıskontosuna dönüşmüştür.<br />
+Eczacı ile hastasını karşı karşıya getiren ve hasta-eczacı ilişkilerini zedeleyen bir başka uygulama ise eczanelerin hastadan kesmek zorunda bırakıldığı muayene ücretleridir. “Tedaviler ücretsiz”<br />
+Denildiği halde hastalardan değişen miktarlarda<br />
+“Muayene ücreti” alınmakta ve bu da eczanelerde<br />
+eczacıya kestirilmektedir. Eczacılar kasalarına girmeyen bu<br />
+kesintilere kasa fişi veremeyerek mali suça itilmektedir. Bazı ilaçların<br />
+muadillerinin fiyatından ödeme yapılması nedeniyle kullandığı ilacı<br />
+alan hastalar fark ödemek zorunda kalmaktadır. Dayatılan bu<br />
+yaptırımlar ve yapılan kesintiler eczacıyı korkarak reçete verir hale<br />
+getirmiştir. Eczacılar fatura kesme zamanı geldiğinde<br />
+büyük bir strese girmekte, faturalarını defalarca<br />
+kontrol etmek zorunda bırakılmaktadır. İşin bir başka<br />
+garip yanı ise bu uygulamaların bölgelere göre değişkenlik<br />
+göstermesidir. Bazı bölgelerde kurallar bu kadar katı<br />
+uygulanmamakta ve hata ile kasıt ayırt edilmektedir.<br />
+Her meslekte yanlış yapanlar olduğu gibi eczacılar arasında da zaman zaman mesleklerini haksız çıkar adına kullananlar olmaktadır. Bu tür yanlışı olanların en ağır şekilde cezalandırılması ise tüm eczacıların ortak talebidir. Ancak siz hata ile kastı karıştırırsanız eczacıyı korkarak reçete verir hale getirirsiniz.<br />
+Tüm bunların sonucunun eczaneleri yok olma noktasına getirdiği ve konuştuğum çok sayıda meslektaşımın büyük bir panik yaşadığını üzülerek görüyorum. Ne devletin, ne de hiçbir kurumun bir mesleğin sahiplerini böylesine güvencesiz hale düşürmeye hakkı olmamalıdır.<br />
+Eczane dışına taşınan beşeri ilaçlar, zirai ve veteriner ilaçlar, çocuk mamaları, serbest bırakılan ilaç reklamları ile eczacının meslek hakkı olan çok önemli kalemler eczacının elinden alınmıştır. Bu gidişin sonu biliniyor ve bu bilinçli olarak yapılıyorsa yapılmak istenen açıktır. Eczacıların kendi istekleri ile eczanelerini kapatması sonrası kalanları zincir eczanelere çevirip bazı sermaye guruplarına teslim etmektir. Ancak şu unutulmamalıdır ki, 25.000 eczane bu yaptırımı kabul etmeyecek ve direnecektir. Bir meslek örgütünü tümüyle yaşam kavgası verir duruma düşürmek ise devlet olma anlayışı ile bağdaşamaz.<br />
+Reklamla başlayan ilaç satışını artırma isteği frenlenemez, uyuşturucu ve alışkanlık yapan ilaçlar konusunda sağlanan başarı yok olur.<br />
+Eczacı örgütleri her zaman ülke çıkarlarını göz önüne alarak meslektaşlarının haklarına sahip çıkmıştır, çıkacaktır. En üst kuruluşumuz olan Türk Eczacılar Birliği’ne de (TEB)  seslenmek istiyorum. Eczacının size olan güvenini sarmayınız. Hükümetle iyi ilişki içinde olmakla sorunların çözüleceği ön yargısının sonuçlarını almanız gerekir. Aksi halde bu tavır eczacılara indirilecek en büyük darbe olur.<br />
+Göz boyayan bir iki afişle adres şaşırtmaya gerek yoktur. Bizim hedefimiz sorunları çözecek olan Sağlık Bakanlığı olmalıdır. İlaç satış elemanlarını eczaneye sokmamak veya çözümü yanlış yerlerde aramak bizim sorunumuzu çözemez.<br />
+İlaç fiyatlarını düşüren Sağlık Bakanlığı’ndan istenecek şey, eğer bu fiyat farklarının sanayici tarafından ödenmesi kararı alınmışsa bunun uygulamasının sağlanmasını istemek olmalıdır.<br />
+T. E. B’NİN sürdürdüğü politikayı yeniden değerlendirmesinde yarar vardır. Aksi halde eczacıyı oylamak gibi bir zannın altında kalacaktır. Eczacılar her platform da haklarına sahip çıkan ve gereğini yapan bir TEB’E alışmıştır. Bu güven sarsılmamalıdır.<br />
+Eczacı, İMDAT! Diye bağırmaktadır. Bu çığlık duyulmalıdır..<br />
+Tüm meslektaşlarımın bu zor günlerde gereken sabrı ve direnci göstereceğine inanıyorum.<br />
+İyi haftalar...11 Aralık 2011<br />
+Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0561-simdi-yuzlesmek-moda.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0563-kuralsizlik-ozgurluk-kravat.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

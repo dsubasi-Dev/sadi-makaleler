@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Bu Ülke Bu Yaklaşımlarla Devam Edemez.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Bu Ülke Bu Yaklaşımlarla Devam Edemez.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2021
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+1021
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>BU ÜLKE BU AYRIŞTIRMALARLA DEVAM EDEMEZ.<br />
+Bu ülkenin bir vatandaşı olarak ülkemi çok seviyorum ve bu ülkede yaşamaktan mutluyum.<br />
+O nedenle ülkemde olan güzel şeylerden söz etmek en büyük isteğim. Ne var ki, son 20 yılda ülkemizi yöneten siyasi irade artık “Eski Türkiye dönemi bitti, Yeni Türkiye’nin temellerini atıyoruz” Söylemleri ile Cumhuriyet dönemini  tartışmaya açarak büyük bir kavram karmaşası yaratmış bulunuyor.<br />
+Değerli dostum Osman Kara’da, geçen hafta internet sitesinde ki köşe yazısında bu konuyu işlemişti. Ben de bugün bu kavram karmaşasının ülkemizde yarattığı anlaşılması güç bu durumu değişik yönleri ile paylaşmak istiyorum.</p>
+<p>Öncelikle YENİ TÜRKİYE denerek yaratılmaya çalışılan dönemden ne kast ediliyor?  Eğer bundan kasıt demokratik rejimi dönüştürmek ve laik düzeni kaldırmak ise, bunu düşünmek dahi endişe vericidir. O nedenle, buradan başlayalım.<br />
+İşte Yeni Türkiye;<br />
+Evet, 20 yıla yaklaşan bir süredir ülkemizi yöneten siyasi irade döneminde de güzel işler yapılmıştır. Bana göre yapılan en önemli iş, bu iktidara yirmi yıla yakın sürecek bir yönetim şansı verecek kapıyı da açan, sağlık alanında yapılan dönüşümlerdir.<br />
+Günümüz Siyasi İradesi, son elli yıldır konuşulup bir türlü gerçekleştirilemeyen Genel Sağlık Sigortasını gerçekleştirerek toplumun tümünü, primlerini ödemek şartı ile sağlık güvencesine kavuşturmuştur. EMEKLİ SANDIĞI, SSK ve BAĞ-KUR, Sosyal Güvenlik Kurumunu (SGK) adı altında birleştirerek halkın sağlık hizmetlerine daha kolay ulaşması sağlamıştır.<br />
+Bu siyasi irade, 3. Boğaz Köprüsünü, İstanbul Boğazını altından geçerek Avrupa Yakasını Anadolu Yakasına bağlayan Avrasya Tüneli, Ankara-İzmir Otoyolu, Hızlı Tren Projeleri ve yapılan çok sayıda hava alanı ile ulaşım alanında ciddi kolaylıklar sağlamıştır.<br />
+Başta sağlıkta yaptıkları düzenlemeler ve ulaşım projeleri, günümüz Siyasi İradesini yirmi yıla yakın iktidarda tutmuştur.<br />
+Ne var ki,  yapılan bu güzel işler yanında son derece tartışmalı yatırımlarla ülke ekonomisi perişan edilmiş ve ülkemiz tümüyle üretimden kopartılarak ”Tüketen Ülke” haline getirilmiştir.<br />
+Yapılan tüm bu güzel işlerin yapımı, artık isimleri tüm Türkiye’de siyasi iktidarla iç içe olduğu bilinen aynı beş müteahhite (Yüklenici), kazan kazan olarak bilinen hasta, yolcu ve araç geçiş sayıları garantileri (Yap-İşlet modeli) ile verilmiştir.<br />
+Verilen çok yüksek sayısal garantilerin tutmaması sonucu, bu beşli yüklenici ekibe milyonlarca dolar fazladan paralar hazineden karşılanarak bu firmalara haksız kazançlar sağlanmış ve hala da sağlanmaktadır.<br />
+Ülkemizin tarımı için son derece gerekli olan akarsularımız üzerinde gecekondu yapar gibi yüzlerce HES santrali yaptırılarak doğamız ve tarım alanlarımız talan edilmiştir.<br />
+Yeraltı kaynaklarımız yabancı ve onların yerli ortaklarına açılmış ve “ÇED” Raporuna gerek görülmeyerek talan edilmesine göz yumularak, doğamız ve ormanlarımız yok edilirken, yöresine sahip çıkarak direnen halkımız Devlet ile karşı karşıya gerilmiş, hatta direnen köylülere terörist damgası vurulmuştur.<br />
+Tarım ve hayvancılık neredeyse bitirilmiş, saman ve buğday dâhil çok önemli gıda maddelerimiz, tütün gibi döviz getiren ürünlerimiz ile canlı hayvan yurt dışından ithal edilmek zorunda kalınırken, Türk çiftçisi toprağından kopartılmış ve tarımdan soğutulmuştur.<br />
+Bir zamanlar kendi kendimize yeten bir ülkeyken, giderek artan dışalımlarla kendi üreticimizin işsizliğe mahkûm edilmesiyle,  döviz rezervlerimiz hızla erimiş ve ülke ekonomisi büyük bir dar boğaza girmiştir.<br />
+Bu arada beğenilmeyen Türkiye Cumhuriyeti’nin yarattığı onlarca fabrika, yüzlerce tesis yok pahasına özelleştirilerek elden çıkartılırken, binlerce çalışanımız işsiz kalıyor, yerli olarak ürettiğimiz birçok ürünü yurt dışından almak zorunda kalıyorduk.<br />
+Tarikatlar kontrolsüz bırakılmış ve siyasi iktidarın desteğiyle hızla büyüyerek ekonomik olanaklara sahip olmuşlardır. Daha sonra bunlardan Fetullah Gülen Cemaati siyasi iktidara destek vererek, seçimlerin sonuçlarına etki edebilecek güce erişmiştir.<br />
+Sonunda işi iktidarı ele geçirmeye kadar götürmesi ile ilişkiler bozulmuş ve devletin kadrolarına yerleşen Fetullah Gülen’in, içine sızdığı ordunun bir kısım askerlerinin aracılığı ile darbe yoluyla ülkeyi ele geçirmeye kalkışması ile Fetullah Gülen ve O’nun başı olduğu anlaşılan FETÖ Terör Örgütünün, Amerika’nın kullandığı bir hain olduğu anlaşılmıştır.<br />
+Doğalgaz bulunduğu müjdeleri dahi bu güvensizliği önleyememiştir<br />
+Ülkemiz ekonomisinde ki bu ekonomik olumsuzluklar, ortaya çıkan yolsuzlukların soruşturulmaması, yargının büyük baskı altında kalarak tarafsız olarak görevini yapamaz hale gelmesi, ülkemizde büyük bir güven kaybının doğmasına yol açmıştır.<br />
+Tüm bu olumsuz gelişmeler tek adam rejiminin yarattığı dayatmaların artmasına ve giderek siyasi iradenin daha da sertleşmesine yol açmıştır.</p>
+<p>Bu bölümde anlattıklarım, siyasi iradenin yaratmaya çalıştığını iddia ettiği “Yeni Türkiye’de” Yaşananların olumlu ve olumsuz yönleriydi. Şimdi günümüz siyasi iradesinin beğenmeyip sürekli aşağıladığı Türkiye Cumhuriyeti’nin 1923-2002 arası döneminde nasıl bir Türkiye vardır? Şimdi de bunlara bir göz atalım;<br />
+Eski Türkiye diye horlanan Türkiye Cumhuriyeti, 1. Dünya Savaşını kaybederek tüm topraklarını kaybeden ve son vatan toprağı Anadolu’nun da işgal edilmesi ile dağılan Osmanlının küllerinden yaratılan bir devlettir.<br />
+Osmanlı dönemini cephelerde geçirmiş genç bir subay olan Mustafa Kemal’in önderliğinde, bu işgale bayrak açarak Anadolu Türklerinin direnci ile Anadolu’yu düşman işgalinden kurtarmış ve Laik, Çağdaş Hukuk düzenin de yepyeni bir devlet yaratmıştır.<br />
+1923 de kurulmuş bu yeni devlet, Osmanlı’dan sanayisi olmayan, eğitim düzeyi % 2-3’lerde olan, kaybettiği 1. Dünya Savaşından gelen büyük bir borcu üstlenmiş bir devlettir.<br />
+Yeni kurulmuş bu devlet, ilk onbeş yılında, Osmanlının borçlarını ödemiş, Lozan ile boğazların kontrollünü eline almış, tüm komşuları ile barış içinde yaşamayı sağlayacak diplomasi başarısını sağlamış, ülkemize özgü eğitim modelleri ile eğitim düzeyimizi % 10-15’lere çıkartmıştır.<br />
+Böylesine önemli işlere imza atılan beğenilmeyen bu dönemde, onlarca fabrika yapılarak halkın temel gıda maddeleri, ayakkabı ve giyecek ihtiyaçları giderilirken çivi bile yapılamayan bir ülkede, ilk demir sanayi kurulmuş, kömür çıkartılmaya başlamıştır.<br />
+Bu tukaka edilen eski Türkiye’nin, Avrupa’yı kan gölüne çeviren 2. Dünya savaşı girmesi, büyük bir diplomasi zaferi ile önlenmiştir.<br />
+Yine bu devlet, çok partili demokrasiyi getirmiş, 1960 sonrası başlayan hızlı sanayileşme ve imar hareketlerini görmüştür. Ağır sanayileşme başlamış, akarsularımız üzerinde kurulan Keban, İrfanlı, Karakaya ve Ayvacık gibi onlarca baraj yapılarak ülkemizin önemli miktarda elektrik enerjisi çok ekonomik bir şekilde sağlanmıştır.<br />
+Kıbrıs Barış Harekâtı ile Kıbrıs Türkleri mezalimden kurtarılarak, kurulan Kuzey Kıbrıs Türk Cumhuriyeti ile Kıbrıs Türklerine özgürlük sağlanmıştır. Bu harekâta itirazı olan Amerika’nın baskısına direnilmiş, getirilen ekonomik ambargoda milli direnişle atlatılmış ve silah ve harp gemilerimizi yapacağımız yerli silah sanayimizin temelleri atılmıştır.<br />
+Yine bu ilk dönemde yaşanan iki askeri darbe, dış güçlerin kurgulaması ile düzenlenen sağ-sol ve mezhep çatışmaları ile yaşanan karmaşalar atlatılmıştır.</p>
+<p>Eski ve yeni Türkiye diye ayrıştırılmaya çalışılan dönemlerin artı ve eksilerinden aklıma gelenleri paylaştım.<br />
+Gönül isterdi ki, bu ayrıştırmaya gerek duyulmadan, son yirmi yılda ilk dönemlerde yapılan güzel işlere yenilerini ilave etmek, hedef seçilse ve bunda da başarılı olunsaydı.<br />
+Bu ülkede, son yirmi yıla yakın ülkemizi yöneten siyasi iradeyi destekleyenlerin de, karşı çıkanların da tek bir vatanı vardır. O da Türkiye’dir.<br />
+Bunun değerini bilmek ve bu ülkenin vatandaşları olarak ayrıştırılarak değil, birlikte huzur içinde yaşamayı ilke edinmemiz gerekli, hatta zorunludur.<br />
+Ben, dünkü ile bugünkü Türkiye olarak tanımlanan ayrıştırmaya bir durum tespiti yaptım.<br />
+Tabii ki son karar sizlerin. Güzel bir yaz haftası dileklerimle… 21.06.2021</p>
+<p>Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="1020-nazim-hikmet-vatanseverlik.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="1022-amac-tarimi-bitirmek-yerine-gelistirmek-olmalidir.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

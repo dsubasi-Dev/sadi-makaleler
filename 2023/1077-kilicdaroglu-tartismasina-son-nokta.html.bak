@@ -1,0 +1,348 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Kılıçdaroğlu Tartışmasına Son Nokta.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Kılıçdaroğlu Tartışmasına Son Nokta.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2023
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+1077
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>SAYIN KILIÇDAROĞLU TARTIŞMASINA NOKTA…<br />
+14 ve 28 Mayıs 2023 de yapılan seçimleri kaybeden “Altılı Masa Bileşenleri” ve Sayın Kılıçdaroğlu ile ilgili olarak seçim sonrası birer hafta aralıkla üç köşe yazısı yazmıştım.<br />
+Aralıklı yayınlanan bu yazılarımın üçünü de okuma şansı bulamayan dostlarımdan bazıları Kılıçdaroğlu’na sahip çıktığım şeklinde yorum yaparken, bazı dostlarımda Sayın Kılıçdaroğlu’na haksızlık yaptığımı söyledi.<br />
+O nedenle, üç yazımın ilk ve son bölümlerinin önemli kısımlarını bir yazıda toplayarak sizlere sunmaya karar verdim.<br />
+03.7.2023 tarihli ilk yazımdan alıntılar;<br />
+KILIÇDAROĞLU GENEL BAŞKANLIĞI BIRAKARAK DEĞİŞİMİN<br />
+YOLUNU AÇMALIDIR.<br />
+Evet,<br />
+Hem milletvekili seçimini hem de iki aşamalı yapılan Cumhurbaşkanlığı seçimini hem “Altılı Masa Bileşenleri”, hem de bu masanın ortak adayı olan Sayın Kılıçdaroğlu kaybetmiştir.<br />
+Öncelikle belirtmek isterim ki, bu seçimin kaybedilmesinin bence en büyük nedeni, CHP’nin merkez ve yerel teşkilatları ile Altılı Masa Bileşenlerini oluşturan partilerin hiç birisinin, Sayın Kılıçdaroğlu kadar çalışmamış olmasıdır.<br />
+Bu gerçeğe rağmen, altılı masa bileşenlerinin bu yenilgide sorumlulukları yokmuş gibi davranmalarını en azından siyasi bir sorumsuzluk ve nankörlük olarak görüyorum.<br />
+Sayın Kılıçdaroğlu tüm iyi niyetine, dürüstlüğüne ve gösterdiği beklenenin üstündeki çabasına rağmen, bence son şansını da başarı ile sonuçlandıramamıştır.<br />
+İnanıyorum ki kazansaydı, O’nun uzlaşmacı, dürüst ve ahlaklı kimliği ile siyasette yeni bir sayfa açılır ve toplumdaki umutlar tazelenir ve hukukun hâkim olacağı demokratik düzen yeniden sağlanırdı.<br />
+Ne yazık ki, Sayın Kılıçdaroğlu çok çalışmasına ve tüm muhalif partileri bir masa etrafında toplamasına rağmen bu seçim de kaybedildi.<br />
+“Sayın Kılıçdaroğlu artık kenara çekilerek değişimin önünü açmalıdır.<br />
+Ama bu yenilginin parti içindeki özeleştirisi yapılmadan, bu yenilgide sorumluluğu olanlar, hatta ihanet edenler varsa, onlar temizlenmeden yapılacak sadece Genel Başkan değişimi çözüm olamaz.<br />
+Bu düzenlemeler yapılmadan Genel Başkanlığa kim gelirse gelsin, “CHP’deki karmaşa giderilemeyecek ve yeni Genel Başkan da umut olamayacaktır”, diye düşünüyorum.<br />
+SONUÇ:<br />
+Sayın Kılıçdaroğlu’nun, tüzüğün yenilenmesini takiben, Yerel Seçimlerden önce Kurultayın yapılacağını ve Genel Başkanlığa aday olmayacağını bir an önce açıklayarak, değişimin yolunu açması zorunlu hale gelmiştir.</p>
+<p>14.07.2023 tarihli 2. Yazımdan Alıntılar;<br />
+SAYIN KILIÇDAROĞLU ŞU ANDAN SONRA GENEL BAŞKANLIK YAPMAMALIDIR.<br />
+İlk yazımın yayınlanmasından bir gün sonra Sayın Kılıçdaroğlu, çok yanlış ve hakkında yapılan suçlamalara çanak tutarcasına aldığı bir kararla, yenilediği yardımcıları ve danışmanları ile Genel Başkanlık görevine devam edeceğini açıklamıştır.<br />
+Sayın Kılıçdaroğlu şimdi aldığı bu devam kararı konusunda, CHP seçmeni ile “Başkanlık Sistemi” Değişsin diye oy veren diğer seçmenlere de bu kararının nedenlerini açıklamak ve<br />
+Sayın Kılıçdaroğlu, kamuoyunun bilmediği bir nedenle mi görevini sürdürme kararı almıştır?<br />
+Başkanlığa talip olan veya başkanlık için adı geçen isimler ile ilgili olarak kamuoyunun bilmediği bir endişesi mi vardır?<br />
+Sorularını cevaplamalıdır.<br />
+Sayın Kılıçdaroğlu, bu konuda seçmenlerini ikna edemediği sürece, Genel Başkanlıkta kalmak için yeni yardımcıları ve danışmanlarının da dolduruşu ile ısrarcı olursa, yalnızlığa mahkûm olacağı gibi CHP’nin olası parçalanmasının da sorumlusu olarak tarihe geçecektir.<br />
+Bu ısrarı, parti içinden ve dışından SOROSCU olmakla dahi suçlanırken, kendisine inanarak destek verenlerin kafasını da karıştıracaktır.<br />
+SONUÇ:<br />
+Sayın Kılıçdaroğlu, bugüne kadar kendisinin dürüstlüğüne, vatanseverliğine inanarak destek verenleri daha fazla üzmemek ve toplumda kazandığı saygınlığa zarar vermemek için noktayı koymalıdır.<br />
+2023 yılı sonuna kadar tüzük değişikliğinin de yapılacağı Kurultayı toplamalı ve “Danışılacak bilge kişi” konumuna çekilerek, CHP’ ne çok yakışacak bir geleneği başlatmalıdır.</p>
+<p>23.07.2023 tarihli 3. Yazımdan alıntılar<br />
+SAYIN BAŞKANLAR BİTTİNİZ… GİDİN ARTIK…<br />
+SAYIN KILIÇDAROĞLU,<br />
+SAYIN AKŞENER,<br />
+SAYIN KARAMOLLAOĞLU, SAYIN BABACAN, SAYIN DAVUTOĞLU, SAYIN UYSAL,<br />
+14 ve 28 Mayıs tarihlerinde iki aşamalı yapılan Cumhurbaşkanlığı Seçimleri, Mustafa Kemal Atatürk’ün Laik ve Çağdaş Hukuk temeli üzerine kurduğu Türkiye Cumhuriyeti’ne ve O’nun koyduğu ilkelere sıkı sıkıya bağlı olan bu ülkenin % 50 nüfusunun, “Tek adam yönetimine dönüşen Cumhurbaşkanlığı Sisteminden” kurtulmak için belki de son şansıydı.<br />
+Yirmi yıldır bu ülkeyi yöneten siyasi iktidarın çok kötü ekonomi politikaları sonucu, ülkemiz sanırım Cumhuriyet tarihinin en büyük ekonomik sıkıntısına düşmüştü.<br />
+Tarikatlar ve dini cemaatler FETÖ Örgütünden sonra bir kez daha devlet kurumlarına yerleşmişti.<br />
+Ortak paydamız olan dinimiz ve camilerimiz iktidarın siyasi arenası haline gelmişti.<br />
+Yargı tam anlamıyla Siyasi İradenin güdümüne girmişti.<br />
+Toplumda güven duygusu büyük ölçüde aşınmıştı.<br />
+Sayın Altılı Masayı oluşturan siyasi parti başkanları,<br />
+Siyasi İradenin böylesine yıprandığı bir ortamda gidilen seçimleri, altınız bir araya gelerek kurduğunuz ittifaka rağmen kaybettiniz.<br />
+Siz bu seçimleri kaybederken, aslında bu ülkenin çağdaş yaşamdan yana olan insanlarının da umutlarını yok ettiniz.<br />
+Çok az farkla kaybedilen seçimlere, itiraz etme becerisini dahi gösteremediniz.<br />
+SONUÇ:<br />
+Başta Sayın Kılıçdaroğlu ve Akşener olmak üzere Altılı Masanın bileşenleri olan Partilerinin Genel Başkanları, artık kabul ediniz ki artık sizlerle “Tek Adam Rejimine” Muhalefet yapma olanağı kalmamıştır.<br />
+Ülkemizde yaşanan 20 yılın yanlışları sonucu oluşan büyük ekonomik yıkımın cezasını kazanılan seçim sonrası halka çıkartarak, akıl dışı zamları devreye sokan siyasi iradeye tavır koymak yerine, hala parti içi sorunları ile uğraşan sizler, siyaseten bittiniz.<br />
+Hemen her gün Siyasi İradenin ve Tek Adam Rejimine destek veren yazılı ve görsel medyanın iddia ettiği, “Türkiye’nin en büyük sorunu ciddi bir muhalefetin olmamasıdır.”  Sözlerini artık duymak istemiyoruz.<br />
+LÜTFEN!<br />
+O koltukları, kendi geleceklerini belirleyebilmeleri için genç siyasetçilere bırakınız. Bu, sizlerin bu ülkeye yapacağı en büyük iyilik olacaktır.<br />
+Sanırım, bu üç yazımın özetini okuyacak okurlarım, yazdıklarımı daha iyi yorumlayacaktır.</p>
+<p>Son Sözlerim;<br />
+Ülkemiz bugün büyük bir ekonomik, ahlaki, güven ve sosyal yaşam yıkımı ve birileri tarafından bilinçli bir şekilde ülkemize sokuşturulmuş sayıları on milyonu aşan ve amaçlarının ne olduğu bilinmeyen Arap kökenli yabancıların yarattığı korkutucu beka sorunu ile karşı karşıyadır.<br />
+Ülkemiz ancak ve ancak, sosyal adaleti ve güveni sağlayacak, ayrımcılığa son verebilecek SOL BİR İKTİDAR, kısacası bu kimlikteki bir CHP ile mümkün olacağına inanan birisiyim.<br />
+Bu nedenle, üyesi olmakla her zaman onur duyduğum CHP’ nin, bir an önce geleceğimiz olan gençlere umut olacak bir Genel Başkan değişiminden başlayıp, tüzük ve tüm kadrolarını yenileyerek, Mustafa Kemal Atatürk tarafından belirlenmiş kuruluş ayarlarına dönmesi şarttır.<br />
+Bunun için ilk adımı atacak kişi de Sayın Kılıçdaroğlu olmalıdır. NOKTAAAA…<br />
+Güzel bir hafta dileklerimle… 01.08.2023<br />
+Ecz. SADİ SUBAŞI<br />
+e- http://www. hedefhalk. com</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="1076-bittiniz-artik-gidiniz.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="1078-bu-yazi-karamsar-degil-aci-gerceklerin-ozetidir.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

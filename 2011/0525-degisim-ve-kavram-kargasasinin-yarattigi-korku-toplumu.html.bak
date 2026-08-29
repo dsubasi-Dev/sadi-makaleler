@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Değişim ve Kavram Kargaşasının Yarattığı Korku Toplumu.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Değişim ve Kavram Kargaşasının Yarattığı Korku Toplumu.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2011
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0525
+
+</div>
+
+
+<div class="article-content">
+
+<p>e-pota; sadisubasi@denizeczaneoptik. com                            SUNUŞ</p>
+<p>DEĞİŞİM VE KAVRAM KARGAŞASININ<br />
+YARATTIĞI KORKU TOPLUMU</p>
+<p>Cumhuriyet Türkiye’si, belki de olumlu-olumsuz olayların birbirine karıştığı en karmaşık dönemini yaşıyor.<br />
+Her şey öylesine birbirine karıştı ki, artık bu ülkede neyin doğru neyin yanlış, neyin ülkemizin çıkarına neyin ülkemizin zararına olduğunu dahi anlayamaz hale geldik.<br />
+Çok insanın altına gözü kapalı imza atacağı yazıları yazanlar, sonu belirsiz bir tutukluluğa mahkûm oluyorlar.<br />
+İş öylesine rayından çıktı ki, neredeyse insanların beyninden geçenleri okuyup gözaltına alacaklar..<br />
+Bu gelişmeler, çok kişi gibi beni de ürkütüyor..<br />
+Tutuklanan gazeteci ve yazar Ahmet Şık’ın cezaevine giderken söylediği, “Dokunan yanar” Sözleri, beni ürkütüyor..<br />
+Bir yanda, her şeyin güllük gülistanlık olduğu söylenen bir ülke.. Öte yanda ise, dilenci görüntüsünün dahi değişime ayak uydurduğu bir ülke..<br />
+Artık düzgün kıyafetli ve dilenci olmadıkları her halinden belli olan insanların, evlerine bir ekmek götürebilmek için onurlarını ayaklar altına alarak işyerlerinden para istemesi olayları yaygınlaşıyor..<br />
+Kırk yılı aşan serbest ticaret yaşamım da kimin dilenci, kimin dilenci olamayacağını öğrendim. İnsanların içine düştüğü bu acizlik ve çaresizlik beni yaralıyor.<br />
+Daha da kötüsü, bunlar beni ürkütüyor..<br />
+Bir yanda, bankaların soyulduğu döneme son vermek ve hortumculardan hesap sormak iddiası ile halkın desteğini alanlar..<br />
+Diğer yanda da, onların döneminde de özel uçakları ile cirit atmayı sürdüren hortumcular ve onların uçaklarıyla seçim gezileri yapanlar..<br />
+Bir yanda, 1980 ihtilalcilerini yargılama iddiası ile Anayasa değiştirmek için Referandum yapılan bir ülke..<br />
+Öte yanda, yargılanacağı iddia edilen darbeciler yerine, darbe yapmayı aklından geçirdiği! İddia edilenlerin tutuklandığı bir ülke..<br />
+Bir yanda, acımasız diktatörlerin yönettiği ve açlıktan her gün binlerce insanın öldüğü, özgürlükten nasibini almamış fakir ülkeler..<br />
+Diğer yanda, yine acımasız diktatörlerin yönettiği petrol zengini ülkeler..<br />
+Birisin de binlerce insan sefaletten ölürken kılı kıpırdamayanların, diğer ülkeleri özgürlük getirmek adına işgal ederek ve binlerce günahsız insanı öldürmeyi göze alması..<br />
+Bu yaman çelişkinin tek nedeni, birisinin sahip olduğu çalınacak bir servetinin olmaması, diğerlerinin ise zengin petrol yataklarına sahip olması…<br />
+“Özgürlük getirmek” İddiası ise, işin makyajı..<br />
+İşin bizim açımızdan acı ve düşündürücü yanı ise, Mustafa Kemal Atatürk ile başlattığımız ve örnek olduğumuz, “Ezilen ülkelerin sömürgeci ülkelere karşı ayağa kalkıp özgürlüklerine sahip çıkması” İddiasını yok sayacak noktaya gelmemiş olmamızdır..<br />
+Bir başka gerçek ise, 1980 darbesinin ve onun yaptığı Anayasanın getirdiği kısıtlamalarla siyasetten soğutulmuş, Özal’ın köşe dönmeci kültürü ile yetişmiş ve Kemal Derviş öğretileri ile ihtisasını tamamlamış gençlerin, bugün ülkemizi yönetiyor olması..</p>
+<p>Bugün geldiğimiz nokta ise, sömürgeci ülkeler adına ve onlar gibi, diktatörlerle yönetilseler de bağımsız olan ülkelerin işgalinde rol almamız ve liderlerine, “Çekil” çağrısı yapmamızdır.<br />
+Bugün Türkiye bir büyük oyunun tarafı olmayı göze almıştır.<br />
+En büyük oyun, “Kumardır”. Kumarın kazanını ise, tektir. Kumarda kazanan sadece ve sadece, “Kumarhanenin sahibidir”.<br />
+Gözüken o ki, gün 1. ve 2. Dünya Savaşları sonrası özgürlüklerine kavuşan sömürgelerini kaybeden sömürgeci ülkelerin, sömürge düzenini bir başka şekliyle yeniden kurmaya başladıkları gündür.</p>
+<p>Ülkemizde bu olan biteni dert edenlerin sayısı azınlıkta kalırken, üzülerek söylemek gerekirse çoğunluğun böyle bir derdi yok.<br />
+Son nokta; Ya, ülke de olup bitenin farkında olmayacak kadar dizi çılgınlarından olacaksınız. Ya da, bu olanlara kafa yoracak ve korkup ürkenlerden olacaksınız..<br />
+Peki, sizler hangi gruptasınız?<br />
+Eğer ikinci grupta iseniz, sizde benim gibi yapın.<br />
+Çünkü ben Ülkem de olup bitenden, kendi adıma değil ama geleceğimiz ve çocuklarımız adına korkuyorum.   O nedenle, görmeyen-düşünmeyen-duymayan bir kafa transplantasyonu ( organ-kafa nakli) yaptırmaya karar verdim ve Kurban Bayramını bekliyorum..<br />
+Korkusuzca ve özgürce konuşup, düşünüp, yazacağımız günler dileğiyle..</p>
+<p>27 Mart 2011</p>
+<p>Ecz. SADİ SUBAŞI</p>
+<p>Sadi Bey,<br />
+Güzel, anlamlı bir yazı. Kutlarım.<br />
+N e aci ki ülke aydınları bunları düşünür ve yazar oldu?<br />
+BESTEPE</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0524-buyuk-ortadogu-projesi-ve-arap-ve-kuzey-afrika-ayaklanmalari.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0526-toplumsal-bir-ayip-ve-vicdan-muhasebesi.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

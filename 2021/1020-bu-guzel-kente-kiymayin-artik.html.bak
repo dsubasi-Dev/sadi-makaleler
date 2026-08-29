@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Bu Güzel Kente Kıymayın Artık.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Bu Güzel Kente Kıymayın Artık.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2021
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+1020
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>BU GÜZEL KENTE KIYMAYIN ARTIK.</p>
+<p>Samsun sadece Karadeniz Bölgesi’nin değil, çoğunu gördüğüm birçok Anadolu kentinden çok daha güzel ve kültürel, sosyal etkinliklere sahip bir kenttir. Ayrıca hiçbir kentin sahip olmadığı, Ondokuzmayıs Kenti olmak gibi tarihi bir özelliğe de sahiptir.<br />
+1. Dünya savaşını kaybeden blokta yer alarak neredeyse tüm topraklarını kaybederek tarih sayfalarına gömülen Osmanlı İmparatorluğu’ndan geriye kalan son vatan toprağı Anadolu’da, savaşı kazanan devletler tarafından bölüşülerek işgal edilmişti. Türkler kendi vatanları Anadolu’nun ortasında adeta esarete mahkûm edilmişti.<br />
+İşte, ulusumuzu bu esaretten kurtarmak için başlattığı Milli Mücadelenin ilk adımını 19 Mayıs 1919 sabahı Samsun’a çıkarak atan Büyük Önder Mustafa Kemal Paşa Samsunlulara büyük bir onur ve Samsun’a da tarihi bir anlam kazandırmıştır.<br />
+Bu kent Mustafa Kemal Paşa ve 18 silah arkadaşının Milli Mücadele’nin ilk planlarını yaptığı tarihi Gazi Müzesi’ne, Mustafa Kemal ve arkadaşlarını Samsun’a getiren Bandırma Vapuru ’nun birebir aynısı olan Bandırma Vapuru Müzesi’ne, göz kamaştıran Amisos Hazinesi ve Amisos Mozaiklerinin de yer aldığı Arkeoloji Müzesine sahiptir.<br />
+Samsun, Devlet Opera Balesine ev sahipliği yapan Atatürk Kültürü Merkezi gibi bir sanat merkezine sahiptir.<br />
+Birçok kentte olmayan Kent Müzesi, Batı Park’ta ki Amazon Köyü, Doğu Parkta ki Sahil Gezi Yolu, Teleferikle çıkılan Amisos Tepesinde ki müthiş deniz manzaralı Samsun pidesi yenilebilecek kafe ve ören yeri ile Atakum sahilinde bulunan Menderes Bulvarında ki kafe ve tavernalar, Çakallı Taşhan Samsunlular ve Samsun’a gezmeye gelen konuklarımızca beğeni almaktadır.<br />
+Bafra Asarkale, Tekkeköy Mağaraları, Vezirköprü Şahinkaya Kanyonu, Bafra Altınkaya Baraj Gölü, Ayvacık Baraj Gölü gezilip görülecek yerler arasında aklıma gelenler.<br />
+Samsun’a gelenlerin tatmadan gidemeyeceği Samsun (Bafra-Terme) Pidesi ve Kavak Çakallı ’nın Türkiye’ye tanıttığı meşhur Çakallı Menemenimiz Samsunumuzun en beğeni alan yemekleridir. Özellikle Pazar günü Pide yemek her Samsunlunun vaz geçilmez tutkusudur.<br />
+Değerli okurlarım,  bir Samsun güzellemesi ile yazıma başladım. Samsun’a bu güzellikleri kazandıranları bu kent hiçbir zaman unutmayacaktır.</p>
+<p>Yazımın bu bölümünde de, başlığı açıklayan bazı şeylerden söz etmek istiyorum;<br />
+Kentler, o kentte yaşayanların seçtiği yerel yöneticiler tarafından yönetilir. Bir belediye başkanının yapacağı en akıllıca yönetim tarzı, yönettiği kentin halkı ile görüş alış verişi yaparak yönetmek olmalıdır.<br />
+Özellikle kentin her bakımdan donanımlı kent dinamikleri olan sivil toplum kuruluşları ile meslek kuruluşlarının proje ve önerilerinden yaralanmaktan kaçınmamalıdır.<br />
+Unutulmamalıdır ki son kararı verecek olan zaten belediye başkanıdır ve istediklerinden yararlanma ve uygulama hakkına sahiptir.<br />
+Bu, hem ortak akılın, hem de toplumsal desteğin sağlanması açısından çok önemlidir.<br />
+Çünkü o yöneticinin göstereceği başarı oranında kentler, ya daha da güzelleşir, ya da geçmişini arar hale gelir.<br />
+Samsun yerel yönetimler açısından çok şanslı bir kent değildir. Zaman zaman yapılan güzel işlerden mutlu olurken, en güvendiğimiz Başkanların dahi akıl almaz yanlışlarına dur diyemedik.<br />
+Bir deniz kıyı kenti olan Samsun, eğer biraz şiddetli yağan yağmurda sel baskınına uğruyorsa, bu kentte yapılan belediye hizmetler yetersiz demektir.<br />
+2000’ li yılların başlarında korkunç bir doğa olayına neden olacak hatalı siyasi bir tercihle uzatılan Dereköy Balıkçı Barınak Mendireği nedeniyle oluşan kumsal kaybını önlemek amacıyla, Türkiye’nin en güzel kumsalı olan Atakum, Çatalçam, Taflan’ı yok eden, Çatalçam ve Taflan Sahili’nin kayalarla doldurulması, tam bir belediyecilik faciasıdır.<br />
+Günümüzde ise, hiç kimseyi dinlemeyerek kendince doğru bulduğu birçok yıkım projesini uygulamaya koyan Büyükşehir Belediye Başkanımızın uygulamalarına karşı, Samsunluların tepkisi de giderek artmaktadır.<br />
+Bir belediye başkanının görevi, kendisinden önceki belediye başkanının yaptığı güzel şeyleri yıkmak değil, daha da iyilerini yapmak olmalıdır.<br />
+Sayın Büyükşehir Belediye Başkanımız Mustafa Demir’e önerim, eğer yıkarak iyi şeyler yapmak istiyorsa,  geçen dönemin en büyük yanlışlarından birisi olan ve her Samsunlu için büyük anılar barındıran Mecidiye (Gazi) Caddesi’ne el atmasıdır.<br />
+Mecidiye Caddesi’ni ortadan bölerek Samsun’un en önemli ticari merkezine darbe indiren ve Bulvar AVM’ den de kopartan anlamsız alt geçidi kaldırarak, Mecidiye Caddesini bütünleştiriniz.<br />
+Çünkü ortak akıldan uzak, kent halkını dışlayarak başarı sağlanamaz. Bu kent, dayatarak yönetilmeyi de hak etmiyor.<br />
+Bir Samsunlu olarak beni en üzen şey, bir türlü yaşamını bu kentte geçirmiş, Samsunlunun sorunları iç içe yaşamış, kent sorunlarını ve çözüm önerilerini içselleştirerek kent bileşenleri ile ortak çalışma alışkanlıkları kazanmış bir Samsunlu yerine,<br />
+Yaşamı hep karar verici görevlerde geçmiş, görevleri gereği Samsun’dan uzak kalmış bürokratlardan belediye başkanları seçmek zorunda bırakılmış olmamızdır.<br />
+Umarım bir an önce ortak akılla kent yönetim anlayışı, kent yönetimlerince de benimsenir ve güzel Samsunumuz biraz olsun rahatlar.<br />
+Bizleri daha güzel günlere taşısın diye seçtiğimiz Sayın il Yöneticilerimiz,<br />
+LÜTFEN! Bu kente zarar vermeyiniz. Bu güzel kente kıymayınız.<br />
+Her şeyi hak eden Ondokuzmayıs Kenti Samsun’un, ekonomi, eğitim ve sosyal yaşam bakımından daha güzel günlere ulaşması dileğiyle, güzel ve sağlıklı bir hafta diliyorum.<br />
+ÖNEMLİ NOT: Covid-19 salgını henüz bitmedi. Gördüğüm kadarı ile kısıtlamalardan bunalan Samsunlular bir anda her şey normale dönmüş gibi sosyal yaşama dönmüş gözüküyor. Aman dikkat! Maske, mesafe ve temizlik kurallarını göz ardı etmeyelim. 14.06.2021</p>
+<p>Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="1019-sevgi-sevgi-yine-sevgi.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="1020-nazim-hikmet-vatanseverlik.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

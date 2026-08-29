@@ -1,0 +1,338 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Samsun&#x27;a Neler Oluyor, Anlayan Var mı.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Samsun&#x27;a Neler Oluyor, Anlayan Var mı.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2016
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0795
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>SAMSUN’A NELER OLUYOR ANLAYAN VAR MI?<br />
+Bu kent geçmişin de şöyle moderndi, ekonomisi öylesine güçlüydü ki bölgenin lider kenti olmuştu, sosyal yapısı itibariyle Türkiye’nin en önde gelen çağdaş kentlerinden birisiydi gibi ağlaşmalar artık bir şey ifade etmiyor.<br />
+Çünkü gerçek Samsunluların ve Samsunlu olmakla gurur duyanların bu özlemini anlayan ve Samsun’u yeniden eski gücüne ulaştırmayı görev edinmiş ne siyasetçimiz, ne de yöneticimiz var.<br />
+Ben bunları bugün söyleyen birisi değilim. Bu tür eleştiri ve daha güzel bir Samsun için önerilerimi, SAM-SEV’İ kurduğumuz 1988 yılından beri yüksek sesle söylüyorum.<br />
+Bir Samsunlu olarak bu konuda en azından bir şeyler yapmanın çabasında olmuş birisi olarak, artık ben de her geçen gün biraz daha umutlarımı yitirmeye başladım.<br />
+1990 lı yıllara kadar tayin ile Samsun’a görevli olarak gelen asker, doktor ve üst düzey bürokratlar emekli olunca Samsun’a yerleşiyordu. Bugün çevrenize bakın, görev süresi dolan veya emekli olanlardan kalan var mı?<br />
+Bırakın sonradan gelip de Samsun’da yerleşmeyi düşünmeyenleri, bu kentin çok sayıda seçkin ailesi de artık Ege ve Akdeniz Bölgesine yerleşiyor, onların yerini ise kırsaldan gelenler alıyor.<br />
+Şimdi sizlerle, son otuz- kırk yılda nereden nereye geldiğimizi ve neleri kaybettiğimizi paylaşacağım. Bu yazacaklarım, yukarıda çizdiğim olumsuz tablonun kanıtlarıdır.<br />
+Kentlilik bilincinin oluşmaması ve sosyal yapının bozulması;<br />
+Samsun, tarihler boyu göç almış ve çok değişik medeniyetlere ev sahipliği yapmıştır. Bu da Samsun’u hem ticari, hem de ekonomik yönden bölgenin lider kenti yapmış ve sosyal yaşam yönünden de Türkiye’nin en çağdaş kentlerinin ilk sıralarına taşımıştır. Ne var ki, Samsun sahip olduğu bu özelliklerini sonra ki yıllarda kötü yönetilmesi ile birer birer kaybetmiştir.<br />
+Samsun sahip olduğu bu potansiyel nedeniyle, 1960 ve 1980’ li yıllar da özellikle Doğu Karadeniz Bölgesinden yoğun göç almaya başlamıştır.<br />
+Kenti yönetenlerin kentlilik bilincini oluşturarak, değişik yörelerden gelenlerin Samsun ile bütünleşmesini sağlayamaması sonucu, bu kenti yeni yaşam yeri olarak seçenler de bu kentle bir aidiyet duygusu oluşmamıştır.<br />
+Tam tersine, o dönemlerde kent yönetiminde bulunanların Samsun’u siyasi kazanımlar sağlamak adına giderek artan bölgecilik ve hemşerilik anlayışı ile yönetmesi, Samsunluların birlikte hareket edebilmesinin ortamını yok etmiştir. Bu olumsuz tablo sonra ki yıllarda daha kemikleşmiş ve ilk gelenler bir yana, Samsun’da doğan sonra ki kuşakları dahi Samsun ile bütünleşmemiştir.<br />
+Tarım kenti olma özelliği kaybedildi;<br />
+Türkiye’nin en verimli iki alüvyon ovasına sahip olmanın getirdiği ürün zenginliğine rağmen, Samsun bir tarım sanayi kenti haline gelememiştir. Yanlış ve kirli yatırımlarla bu ovaların yok edilmesi engellenememiş, bu kent adına siyaset yapanlar da bu yanlışlara seyirci kalmıştır<br />
+Bütün kentlere onlarca sanayi kuruluşunun devlet eliyle kurulduğu yıllarda, Samsun’a da tarihinin en büyük sanayi kuruluşu olarak Azot ve Bakır Sanayileri kurulmuştur. Ama bula bula çocuklarımızın geleceği olan ve binlerce yılda oluşan ovanın ortasına kurulmuş ve yıllarca ovayı kirletmiş, Samsunlunun en önemli gelir kaynağı olan tütün üretimine zarar verilmiştir.<br />
+Bu yanlışlara günümüzde de devam edilmekte ve ovayı tamamen bitirmenin yanında, bu kentte yaşayanları da kansere mahkûm edecek termik santraller zincirlerinin sıralanmasına göz yumulmaktadır.<br />
+Ne yazık ki, tüm bu yanlışlar bizim seçtiğimiz milletvekillerimiz ve kentimizi yönetenlerin suskunluğu altında yapılıyor.</p>
+<p>Sanayi kenti olmayı da beceremedik;</p>
+<p>Çok çeşitli ürünlerin yetiştiği iki ovanın değerini bilemedik. Tütünümüze sahip çıkamadık. Sigara Fabrikasını kapattık ve dünyaca meşhur tütünümüzün yerine Virginia Tütünü öne çıkartacak yanlışlara alet olduk. Sonunda yeni Sigara Fabrikası’nı da yabancı tekellere bırakarak, tütünümüzün ekimine sınırlamalar getirerek Samsun köylüsünün en büyük gelir kaynağını yok ettik.<br />
+Bir meyve suyu veya konserve fabrikası kurarak köylümüzün üretimini teşvik edemedik.<br />
+Bu kente can suyu olacak “Teşvik Yasası” Dışında bırakılan tek Karadeniz ili olma aşağılanmasını dahi alkışladık. Teşvik Yasasının kapsamının genişletileceği günlerde, iktidarın Samsun Milletvekilleri hemen hergün Samsunluya müjde vermek için yarışıyordu.<br />
+Ne var ki, Sayın Başbakan ve Maliye Bakanı’nın Ticaret ve Sanayi Odası salonun da Samsun’un Teşvik Yasası’nın dışında bırakıldığını açıklarken, aynı milletvekillerimiz ve bu kentin çıkarlarını savunmak için seçtiğimiz belediye başkanlarımız ayakta alkışlıyordu.<br />
+STK’ ların o günlerde hazırladığı ve sadece Samsun’un dışarıda bırakıldığını gösteren teşvik haritasına baktıkça, hala bu aşağılanmayı içime sindiremiyorum.<br />
+Bu nedenle, kişisel çabalarla kurulmuş bazı diğer sanayi kuruluşlarına da (Cerrahi aletler sanayii, İlaç sanayii, pompa sanayii gibi) Can suyu veremedik.<br />
+Samsunlunun en önemli geçim kaynağı olan ticareti de baltaladık;<br />
+Üretimin yeterli olmadığı Samsun’da, zaten sınırlı olan ticari piyasayı da kent içerinde açılan AVM’ ler aracılığı ile bu kente ait olmayan firmalara bıraktık. Kent içerisinde ki önemli markalarda bu AVM’ ler açılınca peş peşe kapandı. Ticaretin merkezi olan Mecidiye Caddesi ve Çiftlik Caddesi önemini yitirdi, onlarca dükkân kiralık tabelası astı.<br />
+Bunlar olurken bu kenti daha güzel günlere taşımak için oy verdiğimiz kent yöneticileri ve ticaret yapanlara sahip çıkması gereken Ticaret ve Sanayi Odası sadece seyretti.<br />
+Samsun ihracatından daha fazla ithal eden, yani tüm olanaklarına rağmen hazır yiyen kent haline geldi.<br />
+Samsun, genç kuşağını kaybetti;<br />
+Yeni istihdam alanları yaratılamadığı ve olanları da yok ettiğimiz için bu kentin üniversiteyi bitiren gençlerini bu kente getiremedik, getiremiyoruz.<br />
+Bu acı gerçek, bu kenti yönetenlere ve bu kent adına siyaset yapanlara çok ağır bir vebal yüklemektedir. Bu kent bu olguyu değiştiremezse, yakın bir gelecekte sadece emeklilerin, devlet memurlarının ve işsizlerin yaşadığı bir kent haline gelmesi kaçınılmazdır.<br />
+Bu kent geçmişte ilk on sırada yer aldığı, ekonomik gelişmişlikte, eğitim de ve yaşanabilir kent sıralamasında otuzlu sıraların altına yuvarlanmışsa, hiç kimsenin bunu savunması mümkün değildir.<br />
+Bu kentin tek markası olan Ondokuzmayıs Misyonuna sahip çıkamadık;<br />
+Hiçbir kentin sahip olmadığı bir Ondokuzmayıs Misyonuna sahibiz ve biz ona sahip çıkmak yerine, Samsun’un tarihi, kültürel ve turizmine katkısı olabilecek bazı simgeleri ( Sülün ve Amazon kadınları gibi) Öne çıkartma veya öyle anlaşılacak yanlışlara düşüyoruz.<br />
+Samsun’un en önemli tanıtım organı Samsunspor’a gerekli desteği veremedik;<br />
+Sevsek de, sevmesek de futbol bugün toplumların en önemli tutkusu haline gelmiştir. İnsanlar bu tutku ile yatıp kalkmaktadır. Ülkemizde de bu tutku, kentleri Türkiye gündemine taşıyan en önemli reklam aracı haline gelmiştir. Bu kentin Türkiye liglerinde ki tek takımı ise, Samsunspor ’dur.<br />
+Üzülerek söylemek gerekirse, 2005 yılından sonra Samsunspor başkan bulmakta dahi zorlanmış ve sporla hiçbir alakası olmaması gereken siyasilerin desteği ile zoraki göreve getirilen başkanlarla yönetilmiş bir takım durumuna düşmüştür.<br />
+Ekonomisi güçlü olmayan bu kentte takımı sahiplenecek güçte bir işadamı da çıkmadığı için, kent yöneticilerinin ve siyasilerinin sınırlı desteği ile ayakta durmaya çalışan bir Samsunspor olgusu, bu kentin dramatik durumunun en açık göstergesidir.</p>
+<p>SONUÇ;<br />
+Bu kent, kan kaybetmektedir. Samsun’un yaşadığı sorunlara ve uğradığı haksızlıklara karşı toplumsal tavır sergileyecek ve seçtiklerini sorgulayacak bir kent iradesi yoktur.<br />
+Bu kent, bu kentle özdeşleşmiş Samsuncu olma anlayışını benimsemiş, kendi içerisinden insanları TBMM’ ne gönderememektedir.<br />
+Samsun’un kendisine ve sorunlarına sahip çıkacak, bu kente önderlik edecek bir lideri yoktur.<br />
+Bu kentte kentlilik bilincini oluşturacak, kentte ki bölünmüşlüğü ve bölgecilik yapma anlayışını giderecek, toplumun tüm kesimlerini kucaklayacak bir lidere ihtiyacı vardır.<br />
+İster bu kentte doğmuş olsun, isterse bu kenti sonradan yaşam alanı olarak seçmiş olsun, bu kentte yaşayan herkesin bu kentte yaşamaktan mutlu olmasının tek yolu, bu gerçeği kabul ederek tek vücut olmasından geçmektedir.<br />
+Bu kentin insanı olarak herkesin, hemşerilik ve siyasi hesapları bir yana iterek bu kenti ayağa kaldıracak isimleri TBMM’ ne göndermesi ve kent yönetimlerine seçmesi tek çözüm olarak gözükmektedir.<br />
+Kent olarak bu iradeyi göstereceğimiz inancıyla, güzel ve sorunsuz, şehitlerin gelmediği bir hafta diliyorum.<br />
+NOT: Hafta sonu İstanbul’da gerçekleştirilen canlı bomba saldırısını nefretle kınıyor ve yaşamını kaybedenlere rahmet, yaralılara acil şifalar diliyorum.<br />
+20.03.2016<br />
+Ecz. Sadi SUBAŞI</p>
+<p>http://www. hedefhalk. com/)</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0794-suriyelinin-drami-turklerin-kabusu-olamaz-olmamalidir.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0796-bir-dine-ancak-boyle-zarar-verilebilir.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

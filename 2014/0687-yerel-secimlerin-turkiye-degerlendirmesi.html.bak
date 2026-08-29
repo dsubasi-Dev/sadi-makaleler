@@ -1,0 +1,333 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Yerel Seçimlerin Türkiye&#x27;değerlendirmesi.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Yerel Seçimlerin Türkiye&#x27;değerlendirmesi.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2014
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0687
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>YEREL SEÇİMLERİN TÜRKİYE DEĞERLENDİRMESİ<br />
+Son iki yazımda seçimin güvenliği konusunun ilk kez bu seçimler sonrası çok tartışılacağının altını çizmiştim.<br />
+Nitekim seçimlerin hemen ertesi günü başlayan itirazlar sonrası bazı belediye başkanlıklarının el değiştirmesi ve bazı büyükşehirler başta olmak üzere çok sayıda kent ve ilçede oyların yeniden sayılıyor olması ve itirazların Yüksek Seçim Kurulu’nda da devam edecek olması, seçim öncesi endişelerini doğruladı.<br />
+Bugüne kadar yapılan seçimlerin hiç birisinin öncesinde, seçimlerin güvenirliğinden hiç bu kadar endişe duyulmamış ve siyasi partilerin bu defa ki gibi değişik önlemler aldığı görülmemişti.<br />
+Tüm bunların altında yatan neden, son aylarda ortalığa dökülen dinleme tapelerinde yapıldığı görülen akıl almaz yolsuzluklar, manipülasyonlar ve çok önemli devlet kurumlarının iktidarın güdümüne sokulmuş olması ile, yargıya ve güvenlik güçlerine olan güvenin temelinden sarsılmış olmasıydı.<br />
+Üçüncü dünya ülkelerinde ve Ortadoğu’da hemen her seçim sonrası rastlanan bu tür “Seçimlerde hile yapıldı” İddiasının bu boyutta ilk kez ülkemizde de yaşanıyor olması, demokrasimiz ve ülkemiz adına çok üzücüdür.<br />
+Önümüzde ki bir yıl içerisinde çok önemli iki seçim daha var. Bu seçimlerde de hile korkusunu ortadan kaldıracak uygulamalar ve şeffaflık ilkeleri için şimdiden önlemler alınmalı ve toplumda ki bu kuşku giderilmelidir.</p>
+<p>Gelelim seçim sonuçlarının irdelemesine;<br />
+İtirazların hepsi bir yana ortaya çıkan sonuç, bir kez daha kazananın tartışmasız AKP’nin olduğunu göstermiştir.<br />
+Seçimin hemen ertesi gün yayınlanan bazı analiz anketleri de göstermiştir ki, eğitim seviyesi yüksek kesimlerde CHP’ nin oy oranı, eğitim seviyesi düşük kesimlerde ise AKP’ nin oy oranı yüksektir. Gerçi bazıları bu gerçeği görmezden gelerek, bu farklılığı zevk ve sefa içerisinde yaşayan zengin kesim ile yoksul kesimler olarak tanımlamaktadır.<br />
+Bence de seçimin gerçek yorumu eğitim eksenine dayanarak yapılabilir. Aslında bu yorum sadece bugünün seçimleri için değil, dünden bugüne yapılan tüm seçimler içinde geçerlidir. AKP’ nin bugün hükmettiği oylara, geçmişte de sırasıyla Demokrat Parti, Adalet Partisi ve daha sonra da DYP ve ANAP hükmetmiştir.<br />
+İşte asıl sorgulanması gereken bu yapıdır. Bu konuya demokrasi ve özgürlükler açısından bakmak lazımdır. Çünkü bu sorunun açıklaması bu anlayış tarzında yatmaktadır.<br />
+Demokrasi birbirine yakın eğitim seviyesinde ki topluluklarda sağlıklı işleyen bir rejimdir. Gerçek demokrasiler, özgürlükler ve çağdaş yaşam anlayışı temeline oturmuştur.<br />
+Özgür ve çağdaş yaşam ise, eğitimi, emeği ve bedel ödemeyi gerektirir. Özgür ve çağdaş olabilmek için insanların alın teri döktükleri bir işleri olması ön şarttır. İnsanlar ancak hak ederek kazandıkları parayla onurluca ve özgür yaşayabilirler. Bunlara sahip olmak için de emek harcamaları lazımdır.<br />
+Özgür olabilmek ve bunu koruyabilmek de, cesur olmayı ve sorgulama kültürüne sahip olmayı gerektirir. Bu da özgür ve çağdaş olabilmenin bedelidir.<br />
+Demokrasilerde korkuya ve korkaklara yer yoktur. Korkan insan özgürlüğünü koruyamaz. Alın teri ile evine para götürdüğü bir işi olmayan insanın da, dik durabilme ve sorgulayabilme cesareti olamaz. Hele de yaşamını birilerinden aldığı yardımlarla sürdürüyorsa, o insanın ne özgür olabilme şansı, ne de hakkını arayabilecek cesareti olabilir.<br />
+Bu anlayışa sahip olabilmenin de temelinde çağdaş eğitim yatar. Bu noktaların altını çizdikten sonra dönüp yaşadığımız topluma baktığımız da, bu gerçeklerle ne kadar uyuşan bir toplum olduğumuzu sorgulamak gerekir.<br />
+Türkiye, Atatürk sonrası dönemlerde üreten ve sorgulayan birey olmayı değil, susan ve kendisine verilenlerle yetinmeye rıza gösteren insan yetiştirecek bir eğitim sistemini benimsemiştir.<br />
+Özellikle de bizim kuşak, kurulu düzenin değişmesi yönünde ki her itirazında askeri darbelerle sindirilmiştir. Ancak bizim çocuklarımız olan yeni kuşak, internet denen öğreticinin de etkisi ile sorgulayan ve hakkına sahip çıkmak için sesini yükselten dinamik ve eğitimli gençlerden oluşmaktadır.<br />
+Bu genç kuşağın şanssızlığı ise, her zaman ki gibi alışılagelmiş düzeni ve çıkarlarını korumakta kararlı iktidar güçlerinin her türlü acımasız yöntemi kullanarak, onları yıldırmaya yönelik uygulamaları ile karşı karşıya kalmış olmasıdır.<br />
+Ancak, bu kez gençlerin umut verici dik duruşu ve korkudan uzak bir anlayışla sahip oldukları sorgulama kültürü, kurulu düzeni korkutmaya başlamıştır.<br />
+Ne var ki, çağdaş yaşamlarını ve özgürlüklerini korumaya kararlı bu kuşağa umut olması gerekenler görevini yapamamaktadır.<br />
+Bilinçli veya bilinçsiz yapılan seçim hataları ile seçim hileleri bir yana, son seçimde ortaya çıkan tablo geleceğine sahip çıkmaya çalışan gençliği hayal kırıklığına uğratmış olabilir. Ancak onların umudu ve dik duruşu sürdüreceğine inanıyorum.<br />
+Son on yılda yaşananlara bakıldığında da, bu genç kuşağın taleplerine sahip çıkması gereken muhalefetin de, onları anlayamadığı gerçeği ile karşı karşıya kalıyoruz.<br />
+2007 seçimleri öncesi “Cumhuriyet Mitingleri” ile ortaya çıkan tepkinin doğru değerlendirilememesi gibi bu kez de, “Gezi Direnişi” doğru algılanmamıştır.<br />
+Muhalefetin son seçimlerde yaşadığı hayal kırıklığının altında da bu algılama ve değerlendirme yeteneksizliği yatmaktadır.<br />
+Son aylarda ki olayların rüzgârını dahi kullanamayan muhalefet partilerinin, çok ciddi bir yeni anlayışa yönelmesi şart olmuştur.<br />
+Muhalefet parti genel başkanları, meydanlarda yaptıkları konuşmaların tümünü yeniden izlemeli ve geleceğimiz olan gençliğe hangi geleceği vaat ettiklerinin kırıntılarını aramalıdır.<br />
+Bu seçimlerin çok güvenilir ortamlarda yapılacağı konusunda ciddi endişeler bulunduğunu haftalardır yazıyorum. Bu konuda ki itirazlar bir yana, muhalefetin bu manüplasyonlara sığınarak kendisini kurtarma hakkı yoktur.<br />
+Muhalefet sözcülerinin 17 Aralık yolsuzluk iddiaları dışında topluma umut verecek bir şeyler söylediğini duyan var mı? Yaşanan yolsuzlukları ve demokrasi ayıplarını gündeme taşımak tabii ki görevleriydi.<br />
+Ama bu seçim genel seçim havasına sokulduğuna göre, eleştirdikleri konuları da kabul edelim ama karşı modelleri neydi? Duyan var mı?<br />
+Toplum inanacağı şeyleri duymak istiyor ama üzülerek söylemek gerekirse, muhalefetin geleceğe yönelik söylemleri yoktu.<br />
+Örneğin, muhalefet 3. Boğaz Köprüsüne, 3. Havaalanına veya diğer bazı projelere itiraz ediyor. Buraya kadar tamam da, eğer itiraz bunların yapılmasına değil de örneğin yer seçimine ise, belediyeyi aldıkların da nereye ve hangi projeyle bunların yapılacağını açıklamaları gerekmez miydi?<br />
+Eğer bunlara hiçbir alternatif önermeden karşı çıkılıyorsa, hiç kimse kusura bakmasın, bunu kimseye anlatamazsınız. Boynunuza asılacak olan, “Bunlar, yapılan her iyi şeye karşı çıkarlar” Yaftasından da kurtulamazsınız.<br />
+TV programlarında çokça sorulan, 17 Aralık yolsuzluk ve rüşvet tapeleri olmasaydı, muhalefet sözcüleri kürsülerde ne söyleyecekti?” Sorusu, muhalefetin içine düştüğü açmazı anlatmaya yeter diye düşünüyorum..<br />
+Üzülerek söylemek gerekirse, sonuçlarının il kez tartışıldığı bir seçim ayıbı ve muhalefet partilerinin beceriksizliğinin öne çıktığı bir seçimi daha arkamızda bıraktık.<br />
+Ancak seçimde hile yapıldığı iddiaları ve bunu yer yer doğrulayan tespitler, 2014 Yerel Seçimlerini bu ayıpları ile tarihe geçirecektir.<br />
+İktidarın da, muhalefetin de geleceğimiz olan genç kuşağın beklentilerine cevap verecek proje ve uygulamalara ağırlık vermesi artık zorunluluk haline gelmiştir.<br />
+Şurası atlanmamalıdır ki, yarınlarımıza hâkim olacak genç kuşak, çağdışı uygulamalara, hukuksuzluğa ve özgürlüklere pranga vurulmasına yönelik dayatmalara izin vermeyeceğinin işaretlerini vermiştir.<br />
+Bu nedenle, iktidarın ve muhalefetin politikasını bu gençlerin beklentisi yönünde yeniden gözden geçirmesi ve toplumun beklentilerine cevap vermekten uzak kalan muhalefet partilerinin genel merkez yönetimlerini ve il teşkilatlarını yeni baştan ve hiçbir gücün icazeti olmaksızın yenilemesi şart olmuştur.<br />
+Başarılı olmayanın gitmesi kuralı, artık bu ülkede işlerlik kazanmalıdır.<br />
+Önümüzde iki önemli seçim vardır. Bu seçimler Türkiye’nin bundan sonra izleyeceği yolu belirleyecektir.<br />
+O halde, hedef çağdaş ve hukuk düzeninde özgürlüklerin doyasıya yaşandığı bir Türkiye ise, her kesim üzerine düşen görevi yapmalıdır.<br />
+Bu konuşmaların yapılmadığı huzur dolu bir Türkiye dileğiyle, iyi haftalar..<br />
+Not: Gelecek hafta ki yazımda da Yerel Seçimlerin Samsun açısından değerlendirmesini yapacağım.   06. 04. 2014<br />
+Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0686-yerel-secimler-sonrasi-yeni-bir-turkiye-beklentisi.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0688-yerel-secimler-sonrasi-samsun-degerlendirmesi.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

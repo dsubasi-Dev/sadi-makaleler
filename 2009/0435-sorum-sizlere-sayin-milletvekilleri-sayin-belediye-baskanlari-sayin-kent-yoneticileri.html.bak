@@ -1,0 +1,323 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Sorum Sizlere. Sayın Milletvekilleri, Sayın Belediye Başkanları, Sayın Kent Yöneticileri.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Sorum Sizlere. Sayın Milletvekilleri, Sayın Belediye Başkanları, Sayın Kent Yöneticileri.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2009
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0435
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>SORUM SİZLERE,<br />
+SAYIN MİLLETVEKİLLERİMİZ, SAYIN BELEDİYE<br />
+BAŞKANLARIMIZ VE SAYIN KENT YÖNETİCİLERİMİZ.</p>
+<p>Bu kentin dokuz milletvekili var. O nedenle, parti ayırımı yapmaksızın soruyorum sorularımı…<br />
+Bu kentin insanları sizleri kendilerine hizmet getirsin, sorunlarını çözsün, daha güzel bir yaşam sağlasın, Türkiye ortalamasının üzerinde ki işsizlerine yeni iş alanları yaratsın, daha yaşanabilir bir kent ortamı sağlasın diye seçmedi mi?<br />
+Sizler de bu yönde sözler vererek, bu görevlere kendi isteğinizle talip olmadınız mı?<br />
+Devlet sizleri kamu kurumlarının başına benzer amaçlarla atamadı mı?<br />
+Peki, sizler Samsun için neler yaptınız? Hiç aynaya bakıp da bir özeleştirinizi yaptınız mı?<br />
+İsterseniz ben hatırlamanız için size yardımcı olayım.<br />
+Bakın sizler neler yaptınız;<br />
+2004 yılında “TEŞVİK YASASI” Yeniden düzenlenir ve genişletilerek illere yeni olanaklar sağlanırken, tüm Karadeniz Bölgesinde sadece ve sadece Samsun, adeta cezalandırılır gibi, bu yasa kapsamı dışında bırakılırken, SİZLER SUSTUNUZ…<br />
+“TEŞVİK YASASI” TBMM’de görüşülürken de SİZLER SUSTUNUZ… Sizler sustuğu için, Samsun’a yapılan haksızlığı başka illerin milletvekilleri gündeme taşıdı.<br />
+Aylarca “SAMSUN CAZİBE MERKEZİ” Olacak diye bizleri umutlandırdınız. Devlet Bakan’ı Nazım Ekren, Samsun’un Cazibe Merkezi iller dışında bırakıldığını, hem de Samsun’da, hem de gözlerinize baka, baka açıklarken, SİZLER YİNE SUSTUNUZ…<br />
+Adı dahi “Samsun-Ceyhan Boru Hattı” olan petrol taşıma tesisleri bir gecede Bakan’ın kenti Ünye’ye kaykılırken de SUSTUNUZ…<br />
+Yakın geçmişimiz de başka illerden kovulan ve sahipsiz görülerek gizli, saklı Samsun’a konuşlandırılan “MOBİL SANTRALLERE”, o gün muhalefette olanlarınız karşı çıktınız. Sonra iktidara gelenlerinizin sesi kesildi. Sizler susarken Sivil Toplum Kuruluşları Samsun Barosu aracılığı ile bir hukuk zaferi kazandı ve bu santralleri susturdu. SİZLER BİR KEZ DAHA SUSTUNUZ…<br />
+Samsun’un tek beş yıldızlı oteli kapatılır ve Samsun otelsizliğe mahkûm edilirken, çözüm yolu dahi aramadınız. SİZLER BU KONUDA DA SUSTUNUZ…<br />
+SAMSUNSPOR’UMUZ yerlerde sürünüp, Türkiye’ye rezil olurken de SUSTUNUZ..<br />
+Dünyamız küresel ısınma tehlikesi için tedbirler alırken, küresel ısınmanın ilacı olacak su bakımından zengin ve tahıl üretimi için verimli ovalarımızdan birisi olan Çarşamba Ovası’nın kirli yatırımlar merkezi haline getirmesine de seyirci kalıyorsunuz.<br />
+Sanayi yatırımları için alacağı kararları hayati önem taşıyan “TARIM KORUMA KURULU” toplantılarına katılan siz kent yöneticilerimiz, oylarınızla bu kirli tesislerin önünü açarken neden hiç vicdanınızın sesini dinlemediniz?<br />
+Siz, kentimizi yönetmek için seçilen Belediye Başkanlarımız, bu konularda söyleyeceğiniz hiçbir şey yok muydu ki?, Sizler de seyirci kaldınız. Kenti sahipsiz bıraktığınızı bir kez olsun neden aklınıza getirmediniz?</p>
+<p>AMA BU KEZ SUSMAMALISINIZ.</p>
+<p>Eğer bizler için görev yapıyorsanız, bu kez bir tercih yapmalısınız.<br />
+Çünkü Çarşamba Ovasına bu kez de çok sayıda “TERMİK SANTRAL” ve BAŞKA KİRLİ TESİSLER yapılması aşamasındayız.<br />
+Sayın Milletvekillerimiz, Sayın Belediye Başkanlarımız ve Sayın Kent Yöneticilerimiz, Sizlerden bir tercih yapmanızı bekliyoruz.<br />
+Ya, çıkıp bu tesislerin Samsun için gerekli olduğunu, hiçbir olumsuz çevresel etki yaratmayacağını ve sağlık sorunlarına neden olmayacağını, buralarda binlerce işçi çalışacağını, Samsun’un ekonomisine de çok önemli katkısı olacağını, bu nedenlerle bu ovayı gözden çıkartıldığını söyleyecek ve buna kefil olacaksınız. Bizleri de bu konuda ikna edeceksiniz. Samsunlular olarak bizler de karşı çıkmaktan vaz geçerek bu yatırımları alkışlayacağız.<br />
+Ya da, bu tesislerin çevreye ve insan sağlığına zararı olacağını, Çarşamba Ovasını olumsuz etkileyeceğini, dolayısıyla bu tesislerin Ülkemizin ve Samsunumuzun çıkarlarına uygun olmadığını kabul ederek bu tesislerin kurulmaması için çaba harcayacaksınız. El ele vererek hep birlikte çocuklarımızın geleceği olan Çarşamba Ovasını ve bu yörede yaşayan on binlerce insanımızın sağlığını koruyacağız.</p>
+<p>YOK, EĞER BU KEZ DE SUSMAYI TERCİH EDERSENİZ…</p>
+<p>Bizler de sizlerin bizi temsil ettiğinize olan inancımızı kaybedeceğiz, bizleri yönetemediğinizi, kısacası bize sahip çıkamadığınız gerçeğini kabul edecek ve bundan böyle tavrımızı da ona göre belirleyeceğiz.</p>
+<p>İŞTE BU NEDENLERLE, BU KEZ SUSMA HAKKINIZ YOKTUR. OLAMAZ DA.<br />
+KARAR DA, TERCİH DE SİZLERİN.</p>
+<p>Samsun adına güzel gelişmeler olması umudumu yineleyerek iyi haftalar diliyorum. 30 Ağustos 2009</p>
+<p>SADİ SUBAŞI</p>
+<p>30 Ağustos ZAFER BAYRAMINIZ KUTLU OLSUN</p>
+<p>Toprakları işgal edilmiş, inancını yitirmiş bir toplumu aşıladığı inançla ayağa kaldırarak Kurtuluş Savaşını başlatan Büyük Önder Mustafa Kemal Paşa, Anadolu’yu düşmandan temizlemiştir. Bu Büyük Milli Mücadelenin 30 Ağustos Zaferi ile sonuçlanmasının 87. yılını yaşıyoruz.<br />
+Esaret zincirinin kırılarak bu topraklarda özgürce yaşamamızı sağlayan 30 Ağustos Zafer Haftanızı kutluyor, bu zaferi Dünya Tarihine geçirterek bizlere Bayram olarak armağan eden Mustafa Kemal Paşa ve silah arkadaşları ile bu toprakları kanları ile sulayan aziz şehitlerimizi saygıyla ve minnetle anıyorum.<br />
+Ecz. Sadi Subaşı</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0434-kirli-yatirim-i-stemiyoruz.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0436-kamu-kurumlari-halkin-yaninda-olmak-zorundadir.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

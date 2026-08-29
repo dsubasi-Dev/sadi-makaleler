@@ -1,0 +1,320 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Korkutulan Toplum ve Şantaj Soygunu…</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Korkutulan Toplum ve Şantaj Soygunu…
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2012
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0568
+
+</div>
+
+
+<div class="article-content">
+
+<p>www. sadisubasi@denizeczaneoptik. com                     SUNUŞ</p>
+<p>KORKUTULAN TOPLUM VE SOYGUN ŞANTAJI..</p>
+<p>Gün geçmiyor ki, Emniyet genel Müdürlüğünden telefonlarımıza uyarı mesajı gelmesin. Gelen uyarılarda emniyet müdürlüğünden aradıklarını söyleyip tehdit ederek ve korkutarak para sızdırılmasına karşı polisin haberdar edilmesi istenmektedir. Ancak tüm uyarılara rağmen çok sayıda vatandaşın bu yolla dolandırıldığı anlaşılmaktadır.<br />
+Önceki gün bu tür bir dolandırıcılık denemesini yaşayan birisinin kızı olan arkadaşımdan olayı dinledim.<br />
+Olay şöyle gelişiyor; Yaşı ve rahatsızlığı nedeniyle evinde dinlenmekte olan arkadaşımın babasını cep telefonundan arayan ve bulunduğu ortamdan telsiz sesleri gelen kişi, ”Ev telefonunuza girilerek suç örgütleri ile görüşüldüğü tespit edilmiştir, eğer verilecek hesaba şu kadar TL. Yatırırsanız işleme konmayacak, aksi halde hakkınızda yasal soruşturma açılacaktır.” Denilerek şantaj yapılıyor. Bu arada şahsın aile bilgileri ve “şu banka da şu kadar hesabınız var” gibi bilgilerle inandırıcılığı ve korku boyutları yükseltiliyor.<br />
+Zaten sağlık sorunları olan baba telaşlanıyor, panikliyor. Tehditler de artarak sürüyor. Telaşla, “Ben hastayım oğlumu arayın” diyerek oğlunun telefonunu veriyor.<br />
+Bu kez oğlu aranıyor. Oğlunun itirazları üzerine, ”Şimdi sizi babanızla görüştüreceğiz” denerek tele konferansla babası ile görüştürülüyor. Bu sırada arka fondan, “Savcıya bağlayalım” sesleri duyuluyor.<br />
+Başlangıçta oğlu da telaşlanıyor ama mesleği avukatlık olan oğlu çabuk toparlanıp telefonu kapatıp savcılığa suç duyurusunda bulunuyor.<br />
+Bu olayı neden anlattım? Önemli olan bu olayların hızla yayılması ve korkan çok sayıda kişinin de bu yolla dolandırılıyor olmasıdır. Emniyet Genel Müdürlüğü’nün cep telefonlarına sürekli uyarıcı mesaj göndermeye devam etmesinin nedeni de bu olsa gerek.<br />
+Bu olay anlatılırken bir üst düzey emniyet mensubu da aramızdaydı. Konu, arkadaşımın “Telefon şantajları önlenemeyecek mi? Diye sorması üzerine, emniyet yetkilisinin de “Tüm uyarılarımıza rağmen çok kişi bizi aramak yerine şantaja boyun eğiyor” demesi üzerine anlatıldı.<br />
+Emniyet yetkilisinin bu sözleri üzerine, ben de kendi düşüncelerimi söyledim. “Eğer bir ülkede ifadeye çağrılan kişiler soluğu tutuklanarak ceza evinde almayı sürdürürse, karakola götürülen kadınlar dahi dövülür ve tacize uğrarsa, bir de üstüne üstlük, suçlu polislerden daha büyük ceza almakla karşı karşıya kalırsa, o ülkenin vatandaşları devleti temsil eden kuruluşlardan korkmaya başlar”, dedim.<br />
+Bu sorum orada bulunanlar tarafından büyük destek gördü. Eminim ki, emniyet yetkilisi de içinden beni onaylamıştır.<br />
+Namuslu olan ve hiç bir açığı bulunmayan insan, polisten veya yargıdan neden korksun? Denebilir. Ne yazık ki, çağdaş ülkeler için doğru olan bu kural ülkemizde çok da geçerli değildir.<br />
+En basit bir trafik kazası olayına tanıklık etmek yürek ister. Hele de ölümlü bir trafik kazasına tanıksanız, karakola ve her duruşmada adliyeye gidip gelmekten bitap düşersiniz. İşinizden gücünüzden olursunuz. Suçlu tarafın baskı, tehdit ve tacizleri de işin cabasıdır.<br />
+Apartman dairesinde tabanca ile çok sayıda mermi sıkılarak cinayet işlenir, silah sesini dahi duyan yoktur. Ana caddede kadın şiddete uğrar, hatta öldürülür. Görgü şahidi bulamazsınız..<br />
+Eğer bir devlet, tanığını bunaltmadan ifadesini alma yöntemini bulamazsa, tanığı koruyamazsa, olay sonrası görgü şahidi de bulamaz.<br />
+Çocukları başka kentlerde eğitim yapan ailelerin eli yüreğindedir. Gençlerin sorumluluk bilincinin gereği olarak yanlışa direnmesini dahi terör suçu kabul edip, onları yıllarca cezaevinde kalmaya mahkum ederseniz, insanlar korkar ve siner..<br />
+Bir teğmenin cep telefonuna sehven! bir terör suçlusunun telefon görüşmelerinin yüklenmesi sonucu suçlu duruma düşerse ve durum ortaya çıkmasına rağmen kendini aklayamazsa, sokakta ki insan korkar ve yargıya güvenini yitirir..<br />
+Özgürce yazısını yazmaya çalışan köşe yazarları her geçen gün artan bir korkuyla kalem oynatırsa, bu yüzden onlarca gazeteci terör örgütleri ile ilişkilendirilmekten yıllardır cezaevinde tutulursa, olan biteni seyreden sade vatandaş ürker ve suskunluğu tercih eder..<br />
+Çözüm, karakola ve savcıya başvurun demekten geçmez.<br />
+Çözüm, bu ülkede insanların en çok güveneceği ve başı derde girince ona sahip çıkacak bir yargının bulunduğuna inanacağı ortamın hazırlanmasıdır.<br />
+Çözüm, başı derde giren kişinin gönül rahatlığı ile korkmadan polise koşması gerektiğine onları inandırmaktadır. Bunun koşullarını sağlamaktır..<br />
+Üzülerek söylemek gerekirse, ülkemizde böylesine bir korku paranoyası giderek güçleniyor. Bu durum, ülke yönetiminden sorumlu olan herkesi endişelendirmelidir.<br />
+Yoksa “Bu insanlar neden polise ve savcıya gitmiyor da şantaja boyu eğiyorlar?” Sorusu boşlukta kalır.<br />
+Bu sorunlar giderilmezse, durum daha da ağırlaşır ve özgür bir toplum olmaktan hızla uzaklaşır, sinmiş, korkak ve hakkını arayamayan bir toplumla karşı karşıya kalırız.<br />
+Kimliğini ve benliğini yitirmiş toplumlarla, çağdaş bir yaşam düşünülemez ve ülkeye yazık olur..<br />
+İyi haftalar.. 29 Ocak 2012</p>
+<p>Ecz. SADİ SUBAŞI</p>
+<p>Günaydın Sadi Bey,</p>
+<p>Bugünkü yazınızdan dolayı tebrik eder başarılarınızın devamını dilerim, ülkenin dile çokta getirilmeyen en önemli sorunlarından biri olduğunu düşünüyorum. İyi bir hafta geçirmenizi temenni ederim. Saygılarımla,</p>
+<p>Mustafa KEFELİ</p>
+<p>Şube Müdürü</p>
+<p>Savgili Sadi. Yazdıklarına bayıldım. Benzeri bir durum Saliha'nın da başına gelmişti. Bereket beni aradı. Telefon edenin tlf numarsını bize verdi. Telefeonu açıp ana avrat küfür edip başka kapıya dedik. Tabi bir daha da aramadı. Eline kalemine sağlık. İşin en dibine kadar inmişsin.<br />
+Selam ve sevgiler.   Mahir Uzdil</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0567-kentlilik-bilinci-ve-kent-yoneticilerinin-yaklasimi.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0569-azalan-nufusun-nedenleri-isiginda-samsun-gercegi.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

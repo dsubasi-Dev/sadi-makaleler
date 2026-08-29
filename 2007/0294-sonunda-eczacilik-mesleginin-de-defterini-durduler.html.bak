@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Sonunda Eczacılık Mesleğinin de Defterini Dürdüler…</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Sonunda Eczacılık Mesleğinin de Defterini Dürdüler…
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2007
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0294
+
+</div>
+
+
+<div class="article-content">
+
+<p>SONUNDA ECZACILIK MESLEĞİNİN DE DEFTERİNİ<br />
+DÜRDÜLER..</p>
+<p>Bir zamanlar çoğu gencin hayali olan eczacılık mesleği son yıllarda uygulanan çarpık sağlık politikaları sonucu büyük prestij kaybına uğramıştır. Bu kötü gidişte bazı meslektaşlarımızın kural tanımaz ihtiraslarının da rolünü göz ardı edemeyiz. Mesleğimizin insanın en kutsal varlığı olan sağlığı ile ilgili olması, hemen her meslekte görülebilecek bu tür etik dışı davranışların olumsuz etkisini daha da ağırlaştırmıştır. Meslek örgütümüz olan Türk Eczacılar Birliği ve onun alt kuruluşları olan Bölge Eczacı Odaları yıllardır bir yandan bu kural dışı işlerle boğuşurken, bir yandan da ülkemizin ve halkımızın çıkarları doğrultusun da tavır sergilemiştir. Kendi meslektaşlarının lehine olduğu halde ilaç fiyatlarının yüksek oluşundan hep yakınmış ve ucuz ilaçtan yana politikalar üretmiştir.<br />
+Meslekte otuz dokuz yılını tamamlamış bir eczacı olarak onurlu mesleğimle hep gurur duydum. Meslek örgütümüzün her kademesinde bulundum. 6 yıl 6. Bölge Samsun Eczacı Odası Başkanlığı yaptım. İki yıl en üst kuruluşumuz olan Türk Eczacılar Birliği yönetiminde görev aldım. Odamızın onur kurullarında çalıştım. Bu süreçte meslek olarak çok onur kırıcı ve mesleğimizin gelişimini engelleyici hükümet kararlarına şahit oldum. Ancak üzülerek söylemem gerekirse, mesleğimiz adına son dört yılda karşılaştığım dayatmalar kadar bu mesleğin geleceğini karartan uygulamalara şahit olmadım.<br />
+Son yıllarda hemen, hemen tüm sektörlerde dışa bağımlı hale gelen ülkemiz de, ilaç sanayi ve eczacılıkta bu olgudan kurtulamadı. Önce, geçtiğimiz yıllarda önemli bir güce ulaşan yerli ilaç imalat sektörü İMF dayatmaları ile bitirildi. Bütün yerli ilaç firmaları birer ilaç ithalatçısı haline getirildi. Artık sıra serbest eczane sektörünün yok edilmesine gelmişti. Sömürgeci çok uluslu ilaç tekellerinin tezgâhladığı zincir eczanelerin getirilmesi ön hazırlıklarından endişe duyduğumuz bir sırada, bir başka yaptırımla karşı karşıya kalmış bulunuyoruz.<br />
+Geçtiğimiz günlerde yeniden düzenlenen ihale kanununa son anda yapılan bir ekleme ile eczanelerin yaşaması imkânsız hale getirilmiştir. Meslek kuruluşlarını devre bırakarak plansız ve programsız bir şekilde devletin kontrolünden çıkartılarak özelleştirilmeye başlayan sağlık hizmetleri, popülist politikalara kurban edilmiştir. Üç ay sonra yürürlüğe girecek olan uygulama ile hastalar tüm özel sağlık kuruluşlarına hiçbir sevke gerek kalmadan başvurabilecek olup, YATARAK YAPILACAK TEDAVİLERDE HASTAYA UYGULANACAK İLAÇLARIN TEMİNİ İÇİN SERBEST ECZANELER DEVRE DIŞI BIRAKILMIŞ VE BU İLAÇLARIN RESMİ VE ÖZEL TEDAVİ KURUMLARI TARAFINDAN VERİLMESİ KARARI ALINMIŞTIR. Bu kuruluşlar ilaçları ihale ile dağıtım kanallarından ( ecza depoları ) temin edeceklerdir. AYRICA GETİRİLEN BİR UYGULAMA İLE BİR KISIM İLAÇLARDA GÜNÜBİRLİK TEDAVİ ADI ALTINDA POLİKLİNİK BAŞVURULARINDA BU KURULUŞLAR TARAFINDAN KARŞILANACAKTIR.<br />
+Bunun anlamı ilacın hastaya ulaşım görevinin eczacının elinden alınması ve eczacılık mesleğinin bitirilmesi demektir. Ne yazık ki, alelacele çıkartılan ihale kanunu adeta gözden kaçırtılarak Cumhurbaşkanının onayına sunulmuş ve onaylanarak yürürlüğe girmiştir. İnsan sağlığı için olmazsa olmaz bir madde olan ilaç, bu güne kadar ticari bir mal olarak görülmemiştir. Üzülerek söylemek gerekirse son yıllarda ilaç sıradan bir ticari mal haline getirilerek yabancı ilaç tekellerinin sınır tanımaz reklâmları ve ahlak dışı tüketimi artırıcı uygulamalarına kurban edilmiştir. Getirilen son uygulama ile de ilaç, kar amacı ile kurulmuş özel sağlık kurumlarının   “  ne kadar çok yazarsan o kadar çoksatarsın ve o kadar çok kazanırsın” politikalarının insafına bırakılmıştır.  Böylece tam da çok uluslu ilaç tekellerinin istediği ve ilaç tüketimini hızla artıracak bir uygulamaya kapı açılmıştır. Bu, bir mesleğin gaspıdır ve 168 yıllık onurlu geçmişi olan bir mesleğin idam fermanıdır. Meslek yaşamının sonuna yaklaşmış bir eczacı olarak genç meslektaşlarım adına içim yanıyor ve buna isyan ediyorum.<br />
+Son yıllarda, önce eczacıların kendi kuruluşları olan eczacı kooperatiflerini yok eden, sonra da tüm ilaç dağıtım piyasasını ele geçiren üç ilaç dağıtım firması içinden bazılarının, bununla da yetinmeyerek dış ortaklar edinerek zincir eczaneler için alt yapı hazırlıklarını tamamladığı bilinmekteydi. Ayrıca bunların yeni oluşan sağlık düzenlemeleri içinde yer almak üzere özel hastane zincirleri kurma çalışmalarını da tamamladığı bilinmektedir. Böylece her türlü denetim ortadan kalkacaktır. İlacı yazan da, getirip dağıtan ve hastaya satan da aynı kurumun olması sonucu bir türlü doymak bilmeyen çok uluslu ilaç tekellerinin istekleri yerine getirilmiş olacaktır. Bu kişilerin hükümetle çok yakın ilişkiler içinde oluşu da son derece düşündürücüdür.<br />
+İşin asıl acı yanı ise, mesleğimiz açısından bu utanç verici oluşumu hazırlayanların içersinde, meslek örgütlerimizi teslim ettiğimiz meslektaşlarımızın da bulunmasıdır. Özellikle bir zamanlar benimde görev aldığım en üst kuruluşumuz olan Türk Eczacılar Birliği Başkanının son yıllarda bu dağıtım kuruluşları ve Sağlık Bakanlığı yetkilileri ile kol kola oluşu bu utanç verici bu tabloyu hazırlamıştır. Bu camia kendisine ihanet edenleri ve bunlara yıllardır anlaşılmaz bir şekilde şartsız destek veren eczacı odalarının yöneticilerini affetmeyecektir. Bu uygulamaların sonucunda çok daha fazla milyon dolarlarımız yabancı ilaç tekellerinin cebine girecektir.<br />
+Yaklaşan seçim öncesi, başta 23000 eczacı olmak üzere, aileleri ve çalışanları ile bir meslek camiası seçim yatırımı olarak kurban edilmiştir. Bu ortamı hazırlayanlar ve yataklık edenler karşılığını da iktidar partisinin aday listelerine yerleşerek almıştır. Savundukları halktan yana tavırları ile kendisine inanan meslektaşlarının oyları ile genel başkanlık makamına kadar gelip meslektaşlarının geleceğini karartanlara lanet olsun.<br />
+Eczacılık mesleğini düzenleyen ve sahip olduğu hakları belirleyen 6197 ve 1262 sayılı meslek yasaları ile de çelişen bu uygulamanın iptali için Anayasa mahkemesine götürülmesinden başka çıkar yol kalmamıştır. O nedenle buradan mecliste gurubu olan tüm siyasi parti yöneticilerine açık çağrı yapıyorum.<br />
+Bu güne kadar bu ülkenin çıkarları için ödünsüz çaba harcayan meslektaşlarımın, bu oldubittiye de gereken direnişi göstereceğine inanıyorum. Sağlıklı bir hafta dileğiyle.. 10- Haziran- 2007<br />
+SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0293-milletvekili-aday-adaylarinin-belirlenmesinde-olmasi-gerekli-olan-basinin-etkinligi.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0295-bolucu-terorun-bu-kadar-artmasi-surpriz-mi.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

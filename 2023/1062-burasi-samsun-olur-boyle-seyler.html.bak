@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Burası Samsun Olur Böyle Şeyler.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Burası Samsun Olur Böyle Şeyler.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2023
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+1062
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>BURASI SAMSUN, OLUR BÖYLE ŞEYLER.</p>
+<p>Bazı olaylar olunca, “Olur böyle şeyler, burası Türkiye” Deriz ya, Samsun’da işte bu sözleri sıkça söyleten bir kent oldu. Açıkçası, bu kentte olan bazı olayları, bu kentte yaşayanların da aklı almıyor.<br />
+Son zamanlarda tanık olduğumuz sadece iki olayı anlatınca, sizlerde hak verirsiniz sanıyorum.<br />
+OLAY BİR:<br />
+Geçen hafta emekli bir öğretmen dostum elinde dilekçeler ve dilekçelerin muhataplarından gelen cevapları içeren resmi yazıları masama koyarak, “Bu konuda ne yapmam lazım? Bana yardımcı olabilir misiniz?” diye bir soru yöneltti. Sonra da olayı anlattı.<br />
+Anlattığı olay, aslında bu emekli öğretmenin her duyarlı vatandaşın yapması gereken bir şeyi yapmasından başka bir şey değildi.<br />
+Çözümü de, dilekçeyle başvurduğu resmi makamlardan herhangi birisinin emirlerinde ki ekiplere verecekleri bir talimatla sonuçlandıracakları kadar basit bir çevre olayıydı.<br />
+Buna rağmen, bakın yerel yönetimlerin her biri vatandaşın talebini nasıl birbirlerine paslamışlar;<br />
+Adalet Mahallesi ile Kılıçdede Mahallesi arasında yer alan Karadeniz Caddesi’nin Adliye Lojmanları yakınında oturan emekli öğretmen Bayram Ali Y…bu cadde üzerinde bulunan ÖKSÜRÜK TEPE ismi ile anılan SİT alanının kaderine terkedilmesi sonucu, adeta bir çöplüğe dönüştüğünü söylüyordu.<br />
+Çevre binalarda ki inşaat artığı taş, mermer ve seramik kırıklarının da bu alana atıldığını vurgulayarak, bu alanın temizlenmesi ve kontrolsüz büyüyerek görüntü kirliliği yaratan bitki örtüsünün düzenlenmesi amacıyla, 18.10.2022 tarihli bir dilekçe ile Samsun Valilik Makamına başvurmuştu.<br />
+Valilik, gereğinin yapılması için dilekçeyi ilgili yerel birimlere gönderiyor.<br />
+İlkadım Belediyesi Temizlik İşleri Müdürlüğü, 30.11.2022 tarih ve 144595 sayılı yazısı ile Samsun Valiliğine ilgilinin dilekçesinin İlkadım Belediyesi sorumluluk alanında olmadığı gerekçesi ile Samsun Büyükşehir Belediye Başkanlığına havale edildiğini bildiriyor.<br />
+Samsun Büyükşehir Belediye Başkanlığı Park ve Bahçeler Daire Başkanlığı da, Daire Başkanı Ekrem Şahin imzası ile Çevre Koruma ve Kontrol Dairesi Başkanlığına 14.12.2022 tarih ve 144376 sayılı bir yazı yazıyor.<br />
+Yazı da, bu alanda dikenliklerin bulunması nedeniyle iş makinesi çalıştırılması gerektiği, ancak SİT alanı olması nedeniyle herhangi bir çalışma yapılamayacağını Samsun Valilik Makamına bildirilmesini talep ediyor.<br />
+Bu kez, Çevre Koruma Daire Başkanlığı Genel Sekreter Yardımcısı Dr. Şenol Yıldız imzası ile Samsun Valiliğine 19.12.2022 tarih ve 492-47482 sayılı bir yazı gönderiliyor. Bu yazı da, “Temizliği istenen ÖKSÜRÜK TEPE olarak anılan alanda ki çöplerin temizlendiği ancak, ot biçme ve bölgenin düzenlenebilmesi için Kültür Tabiat Varlıkları Koruma Kurulu izni gerektiğinden bir çalışma yapılmamıştır.” Bilgisi iletiliyor.<br />
+SONUÇ:<br />
+Aradan 2.5 ay geçiyor ve ilgili kuruluştan alınacak son derece basit bir izin ile yapılabilecek bir iş bürokrasinin çarkları arasında kaderine terk ediliyor. Şimdi çevreci vatandaş, başka ne yapabilirim diye soruyor?<br />
+Cevabım; çevre konusunda ki hassasiyetini bildiğim Samsun Valisi Sayın Doç. Dr. Zülkif Dağlı, konudan bilgi sahip olduğu anda bu sorunu çözecektir.<br />
+Öneri: Bu Sit alanı da Amisos Tepesi gibi düzenlenip çevre sakinlerinin dinlenme alanı olarak hizmete açılabilirse, bakımı ve temiz kalması da sağlanmış olabilir.<br />
+Olay iki:<br />
+Son yirmi yıldır Samsun Büyükşehir Belediye Başkanlığı’nın hemen her projesinin yargıya taşınması ve çoğunun da yargı kararı ile durdurulması, hatta iptal edilmesi normal bir şey midir?<br />
+Hatta yargı kararları tanınmayarak yasa dışı projelerin tamamlanması, yasal dayanağı olmadığı için Sayın Valimiz başta olmak üzere, kenti yöneten üst bürokratların katılmadığı açılış törenleri düzenlenmesi, bu kentin insanlarına yapılmış büyük bir saygısızlık, yargı kararlarının yok sayılması ise, akıl alacak iş değildir.<br />
+Samsun Büyükşehir Belediye Başkanı’nın, “Bu tür karşı çıkışlar başka kentlerde olmuyor” Sözleri ise, oldukça düşündürücüdür. Ben de diyorum ki, başka kentlerde böylesine halkına ve yasalara karşı zorlama işler yapılıyor mu ki, oralarda da bu tür karşı direnişler olsun?<br />
+SONUÇ:<br />
+Yasaların dahi işlemediği bir kent haline getirilen Samsun’un, karşı karşıya kaldığı bu durum, “Sahipsiz Kent Samsun” Sözlerini bir kez daha doğrulamaktadır.<br />
+Not:<br />
+Samsun İl Kültür Müdürlüğü kayıtlarına göre, yukarıda adı geçen Öksürük Tepe veya diğer adıyla Dündar Tepe denilen sit alanı Kılıçdede Mahallesi, 4131 Ada, 12 parselde yer alan 10-12 dekarlık bir alan olup 15 metre yüksekliğe sahip bir höyüktür.<br />
+Höyükte Kalkolitik, eski Tunç ve Hitit çağlarına ilişkin üç ayrı kültüre ait kalıntılar bulunmuştur. Höyüğün en tepesinde ki en son yerleşke, Eski Tunç Çağına aittir. Höyüğün eteklerinde ise, Hitit yerleşke kalıntıları bulunmuştur.<br />
+Hafta başında girdiğimiz 2023 yılının tüm insanlarımıza sağlıklı ve huzur dolu günler getirmesini diliyorum.<br />
+Bu yıl yapılacak seçimle de, Cumhuriyetimize, Laik Yönetim Yapımıza, Hukuk ve Adalet Sistemimize yeniden işlerlik kazandıracak değişimin yaşanmasını diliyorum. 05.01.2023</p>
+<p>Ecz. SADİ SUBAŞI<br />
+e- http://www. hedefhalk. com</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="1056-ulkemizin-durumu-ve-altili-masanin-degerlendirmesi.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="1063-samsun-sahili-yok-olurken-susanlar-simdi-konusuyor.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

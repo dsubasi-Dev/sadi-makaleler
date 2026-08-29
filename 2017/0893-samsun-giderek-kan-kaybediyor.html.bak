@@ -1,0 +1,334 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Samsun Giderek Kan Kaybediyor.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Samsun Giderek Kan Kaybediyor.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2017
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0893
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>SAMSUN NEDEN HER KONUDA KAYBEDEN KENT OLDU?</p>
+<p>Beni yakından tanıyanlar çok bilirler ki, ben de bu kenti en az bu kenti çok seven herkes kadar seven bir insanım.<br />
+Belki de bu nedenle, çok kişi benim bu özelliğime rağmen bu kentle ilgili yaptığım eleştirileri anlamakta zorlanıyor.<br />
+Ben bu kentte doğmuş ve bu kentin son altmış yılını doya doya yaşamış bir Samsunlu olarak, bu kentin dününü de bugün yaşadığı sorunlar sarmalını da çok iyi analiz etmiş bir kişiyim.<br />
+Gerek SAM-SEV Başkanlığı yaptığım dönemlerde ve gerekse, çeşitli diğer sivil toplum kuruluşlarında ki görevlerim sırasında Samsun’un sürekli gerilemesinin altında yatan nedenleri gözlemlemiş bulunuyorum.<br />
+İşte bu nedenle, Samsun’un sürekli kan kaybetmesinin altında yatan yönetimsel yanlışların çözümlenmesi için bunları fırsat buldukça  kamuoyuna taşımayı bir Samsunlu olarak görev kabul ettim.<br />
+Tek amacım, Samsun’un dünden daha alt sıralarda değil, sorunlarını çözmüş ve dün olduğu gibi bugün de Türkiye’nin önde gelen ilk on kentinden birisi haline gelmesidir.<br />
+Üzülerek söylemek gerekirse, Samsun’un adı Türkiye’nin gelişmiş iller sıralamasında artık otuzuncu sıraların altında yer alıyor.<br />
+Samsun olarak eğitim seviyemiz, ekonomik gücümüz, yaşanabilir kentler sıramız, sosyal yaşam standardımız sürekli düşerken, işsizlik oranı Türkiye ortalamasının üzerine çıkmış, kadına şiddet uygulamasında ilk on içine girme şanssızlığını yaşar hale gelmiş, Samsun’un adı ulusal gazetelerin 3. Sayfa haberlerinin en önde geleni olmuştur.</p>
+<p>Samsun, çoğunluğunu üniversite mezunu gençlerin oluşturduğu işsizlerin, emekli ve kamu görevlilerinin yaşadığı kent haline geldi.<br />
+Kendi işsizimiz yetmiyormuş gibi kentimize yerleşen Suriye ağırlıklı mültecilerle kentin sosyal yaşamının iyice bozulan görüntüsü de Samsun’un geçmişini mumla aratır hale geldi.<br />
+Samsun son yıllarda sosyal yaşam tarzı olarak da ayrışmış bulunuyor.<br />
+Samsun’un merkezi olan Gaziler, Saathane, Mecidiye, Bankalar Caddesi Subaşı ve Cumhuriyet Caddesi civarında ki sokak işgallerinin yarattığı çirkinlikler, dilenci bolluğu ile sokakta ki insanların yaşam tarzı, Samsun’un giderek fakirleşen ve gerileyen yüzünü yansıtıyor. 100. Bulvar üzerinde ki semtleri zaten saymaya gerek yok.<br />
+Buna karşı, 56’lar ve Atakum’un sahil bandı ise, Samsun’un geçmişten gelen çağdaş yüzünü yansıtıyor.<br />
+1960’lı yıllardan itibaren çoğunluğu Doğu Karadeniz Bölgesinden olmak üzere aldığı göçlerle, dışarıdan gelenlerin sayısı Samsunluların sayısının üzerine çıkmış ve Samsun, çok farklı kültürden gelen insanların yaşadığı metropol bir kent haline gelmiştir.<br />
+Bu karmaşık sosyal doku, Samsun’da kentlilik bilincinin oluşmasını da engellemiştir.<br />
+Bugün Samsun’un en büyük sorunu da budur. Üzülerek söylemem gerekirse, Samsun’un sorunlarına çözüm üretmek için kuruluşuna öncülük yaptığım SAM-SEV’İN kuruluş yıllarında sıkça vurguladığım “Sahipsiz Samsun” Sözü, hala geçerliliğini sürdürüyor.<br />
+Bu sahipsizliği aşamamamızın en büyük nedeni ise, Samsun’u yönetmek ve TBMM’ de temsil etmek üzere bu kente gönül vermiş ve bu kent için çaba harcamış birikimli insanların seçilmesini sağlayacak bir Samsun Lobisini oluşturamamış olmamızdır.<br />
+Samsunlular olarak bunu yapamazken, bölgecilik anlayışı ile bir araya gelen birtakım lobilerin belirlediği ve adını seçim öncelerinde çoğumuzun ilk kez duyduğu isimlerin, seçmenin önüne aday olarak çıkartılmasıdır.<br />
+İşte bu lobiyi oluşturamamış olmamız nedeniyle, Samsun’a yapılan haksız uygulamaları kabul etmek zorunda kalıyoruz.<br />
+Hiçbir döneminde sanayileşmeyi gerçekleştiremeyen Samsun, iki yanında bulunan alüvyon odaları nedeniyle düne kadar bir tarım kentiydi.<br />
+Ne var ki, tütüne, şeker pancarına ve fındığa getirilen ekim kısıtlamaları ile Tekkeköy, Çarşamba, Terme’yi içine alan çok verimli topraklara kurulan termik santrallerle tarım da bitirilmiştir.<br />
+Özelleştirme ile kapatılan Tekel Sigara Fabrikası, Azot ve Bakır Sanayi kuruluşları Samsun’u ekonomik olarak da bitirmiş ve işsizlik sayısını patlatmıştır.<br />
+Samsun, 2005 yılında teşvik alan bölgelerin genişletilmesi ile ilgili yasanın düzenlenmesi sırasında son bir şans yakalamıştı.<br />
+Özellikle iktidar partisinin Samsun Milletvekilleri de Samsun’un bu kez Teşvik Yasası kapsamına alındığını müjdelemek için birbirleri ile yarışıyordu.<br />
+80 civarında sivil toplum kuruluşu da bir araya gelerek Samsun tarihinin en büyük sivil toplum birlikteliği olan “Teşvik Platformunu” Oluşturmuştu.<br />
+Bu oluşum Samsun’un neden teşvik kapsamına alınması gerektiği ile ilgili çok detaylı bir de rapor hazırlanmıştı.<br />
+O günlerde Samsun’a gelen dönemin Başbakanı Sayın Recep Tayyip Erdoğan ve Maliye Bakanı merhum Kemal Unakıtan, Samsun Ticaret ve Sanayi Odası’nın toplantı Salonun da Teşvik Yasasına alınan illeri açıklamıştı.<br />
+Sivil Toplum Platformunun hazırladığı raporun Sayın Başbakan’a sunulması dahi engellenirken, Sayın Başbakan Samsunlu milletvekillerinin, Samsun’un başta Büyükşehir Belediye Başkanı olmak üzere tüm belediye başkanlarının ve daha da önemlisi, bu yasadan yaralanacak tüccar ve sanayicilerin gözlerinin içine baka baka, doğudan batıya ve kuzeyden güneye tüm Karadeniz Bölgesi illerinden sadece Samsun’un teşvik Yasası dışında bırakıldığını açıklıyordu.<br />
+Bu yasadan hiçbir yararım olmayacak olmasına rağmen bir Samsunlu olarak içim yanarak bu açıklamayı dinlerken, daha bir gün öncesine kadar müjde vermek için yarışan milletvekillerimiz, kent yöneticilerimiz ile salonda bulunan iş adamlarımız, Samsun ekonomisini iyice çökertecek bu kararı alkışlıyordu.<br />
+Bunun anlamı, artık Samsun’da hiçbir iş adamının yatırım yapma şansının kalmadığı, yapmaya kalkışacaklarında iş bilmez olarak tanımlanması demekti.<br />
+Bu uygulama ile Samsun’un tüm komşu illerinde işsiz insan kalmazken, Samsun işsizlikte tavan yapıyordu.<br />
+Bu kentin haklarını savunmaları ve Samsun’u daha güzel günlere taşımaları için oy verdiğimiz kent yöneticilerimizden ve müjdeci milletvekillerimizden hiçbir ses çıkmamıştı.<br />
+Bu kararı alkışlamak, bu kentin gelişmesine ihanet demekti. Bu kararın, bu kentin tüccar ve sanayicilerinin haklarını korumak için kurulmuş olan Samsun Ticaret ve Sanayi Odasının toplantısında açıklanabilmesine ise, hala isyan ediyorum.<br />
+İşte o gün, Samsun son şansını da kaybediyor ve bugün ki ekonomik çıkmaza mahkûm oluyordu.<br />
+Lütfen aşağıda ki haritaya bakınız ve bu haritanın adını siz koyunuz.<br />
+O günlerde Samsun’u bu yasa kapsamına aldıramayanlar ve susanlar, Samsun’a en büyük kötülüğü yapanlardır.<br />
+Onların sonra ki yıllarda yeniden seçilerek Samsun’u yönetmesi ve TBMM’ de temsil ediyor olması ise, Samsun Halkı adına sorgulanması gereken en büyük sorundur.<br />
+Gelin de şimdi 1960’lı yıllarda Türkiye’nin en gelişmiş 10 ilinden biri olan Samsun’u aramayın?<br />
+Artık TV programlarında ve gazete haberlerinde Karadeniz Bölgesi denince ilk akla gelen kent Samsun değil.<br />
+Yazık ettik Samsun’a, yazık…<br />
+Bu olumsuzlukları yazdığım için kimse bana kızmasın ve aynaya bakıp biz ne yapıyoruz diye kendisine sorsun.<br />
+Bir kent, tüm çevresi özel desteklerle teşvik edilen illerle çevrilerek bir ada gibi kaderine terkedilirse, o haritanın adı Samsun’un utanç haritası olarak tarihe geçer.<br />
+/<br />
+Yeşil olan iller teşvik alanlar, turuncu olanlarda Samsun gibi teşvik dışı kalan illerdir.<br />
+İyi haftalar. 24.12.2017<br />
+Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0892-samsunspor-i-cin-yarin-cok-gec-olacak.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="../2018/0671-i-radesi-olmayan-kentten-basari-beklenemez.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

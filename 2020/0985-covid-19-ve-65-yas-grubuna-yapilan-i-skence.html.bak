@@ -1,0 +1,328 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>COVID - 19 ve 65 Yaş Grubuna Yapılan İşkence.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+COVID - 19 ve 65 Yaş Grubuna Yapılan İşkence.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2020
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0985
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>65 YAŞ ÜSTÜNDEKİLERE YAŞATILANLAR İŞKENCEYE DÖNÜŞTÜ.</p>
+<p>Her şey 21. yüzyılın salgını olarak kayıtlara geçecek olan Covid-19 Virüsünün neden olduğu salgınının, özellikle ileri yaş gurubu ile kronik rahatsızlığı olanlar üzerinde ölümcül etkilerinin olduğunun açıklanması ile başladı.<br />
+65 ve üzeri yaşta ki insanlarımızı korumak adına konulan yasaklar ve kısıtlamalar ile ülkemizin en deneyimli ve iyi eğitim almış kesiminin günlük yaşamı dört duvar arasına sıkıştırılarak işkenceye dönüştürüldü.<br />
+Bu konunun sağlık ve moral açısından yarattığı olumsuzluklara geçmeden önce, son günlerin en çok konuşulan konusu olan 65 ve üzeri yaş gurubu insanlar kimdir? Bu gurubun önemi nedir? Onlara değinmek istiyorum.<br />
+65 Yaş ve üzeri gurup, 1935 ile 1955 arası doğumlu olanlardır. Yani bu yaş gurubu 1. Dünya Savaşı sonrası yeni kurulmuş olan Türkiye Cumhuriyeti Devletinin henüz kuruluşunun tamamlamadığı sürecin sıkıntıları ile büyümüştür.<br />
+2. Dünya Savaşı’nın yarattığı kısıtlamaların acılarını yaşamış, örneğin hava kararınca karartma kuraları gereğince siyah perdelerin sıkıca kapatıldığı güvenlik önlemlerine tanıklık etmiş, ekmeğin karne ile alınabildiğini görmüş, yoksulluğun dayattığı tasarruf yapmanın gerekleri ile büyümüş, 1950’den başlayarak günümüze kadar yaşanmış siyasi ve ekonomik çalkantılarla yoğrulmuştur.<br />
+Bu kuşak,<br />
+Cumhuriyet Döneminin çok partili siyasi sürece geçişi ile başlayan ve bugün hakkında ağıtlar yakılan Demokrat Parti İktidarı ’nın yarattığı sorunları birebir yaşamıştır.<br />
+Her akşam TRT’ de “Radyo Gazetesi” adı adıyla yayınlanan programlar da mezarlarda yatanların dahi Demokrat Parti’nin “Vatan Cephesi’ne“ katıldığının açıklanarak toplumun nasıl kamplara ayrıştırıldığına,<br />
+Köylerde ve mahallelerde kahvehanelerin dahi ayrıldığına, muhalefet parti liderlerinin can güvenliklerinin kalmadığına, bir muhalefet parti liderinin seçildiği ilin ilçe yapılışına, siyasetçi, bilim adamı ve gazetecilerin cezaevlerine kapatıldığına,<br />
+Bu sürecin sonunda yaşanan askeri darbeyi, darbecilerin acımasız yargıçlarının dönemin başbakanı ve iki bakanını idam ettirmesi ile dönemin tüm yanlışlarının unutulup, dönemin nasıl siyasi şehitler ve mağdurlar dönemine dönüştürüldüğüne tanıklık etmiştir.<br />
+Bu kuşak,<br />
+12 Mart 1971 askeri muhtırası ile bir siyasi iktidarın nasıl değiştirildiğini,<br />
+1980 askeri darbesinin yarattığı Özal Dönemi ile bankaların soyuluşunu, siyasi ahlakın çöküşünü, köşedönücülük ve rüşvetin sıradanlaşmasını, ithalat kapılarının ardına kadar açılarak yerli üretimin yok oluş sürecinin başlayışını izlemiştir.<br />
+Kimine göre özgürlüklere darbe, kimine göre şeriat düzeninin engellenmesi adına yaşanan 28 Şubat olaylarını görmüştür.<br />
+Bu kuşağın lise ve üniversite öğrencilik dönemi olan 1950- 1980 arası, Türkiye’de eğitimin en iyi olduğu, dönemdir.<br />
+Bu kuşak, Cumhuriyet Döneminin ilkelerini içselleştirmiş, “Tam Bağımsız Türkiye” Talebi ile tanınan sağcısıyla, solcusuyla 68 kuşağının tam da kendisidir.<br />
+Bu kuşak, son dönemlerin tüm yozlaşmalarının dışında kalmış, günümüzde ki olayları içi burkularak izleyen yaşı büyük, deneyim seviyesi yüksek, kurallara en azından bugünün kuşağından daha saygılıdır.<br />
+İşte bu kuşak, sağlığını korumak adına üç aydır evlerine kapatılmıştır. Yukarıda saydığım özellikleri nedeniyle yasaklara olabildiğince saygılı olmuş, izin saatlerinde kurallara uygun davranmış, toplumumuzun en aklı başında insanlarıdır.<br />
+Sağlıkçıların tüm itiraz ve endişelerine rağmen, yasakların hızla gevşetildiği son günlerde dahi onların zorunlu karantinası devam etmesi gerçekten büyük bir çelişkidir.</p>
+<p>Tabii 65 yaş gurubuna bu dayatmayı sürdüren irade, aynı yanlışı 18 yaş altında ki guruba da aynı kısıtlamayla sürdürmektedir.<br />
+O halde, yaşanan sıkıntılara onlarla başlayayım.<br />
+Bu yaşta ki çocuklarımız henüz okul çağındadır. Bunlar okullarında hem eğitim alıyorlar, arkadaşları ile kurdukları iletişim ile sosyalleşiyorlar, hem de ders aralarında oynayarak enerjilerini atıyorlardı.<br />
+Okullar açılmayacağına göre bu çocuklarımızın yapacakları tek şey, evlerinde TV seyretmek, bilgisayar veya tableti olanlar için masa başında oturmaktır. Yarın bu çocuklarımız okullarına ve arkadaşlarına nasıl uyum sağlayacaktır?<br />
+Zaten eğitim sistemimizde ki çarpıklıklar nedeniyle oynamaya zamanları kalmadığı ve taş yığınına dönüştürülen kentlerde oyun alanları bırakılmadığı için çocuklarımızın sosyalleşme ve yaratıcılık şansları kısıtlanmıştı. Bugünkü yasaklarda işlerini daha da zorlaştırmıştır.<br />
+Bu köşeden eğitimcilere ve pedagoglara sesleniyorum; Bu çocuklarımız için nasıl bir önlem alacaksanız alın ama bu çocukları ev hapsinden kurtarınız.</p>
+<p>Gelelim bu ülkenin en aklıselim ve birikimli kuşağı 65 yaş üzeri insanlarımızın ev hapsinin yarattığı sorunlara;<br />
+Tamam, Devletin ilk görevi insanlarının sağlığını korumak ve bu yönde önlemler almaktır. İleri yaşları nedeniyle sahip olabilecekleri sakıncalar, bu yaş gurubunun daha dikkatli olmasını gerektiriyor.<br />
+Evden çıkmama kurallarının geldiği andan itibaren zaten bu yaş gurubu yukarıda açıkladığım deneyim ve birikimleri sayesinde, kendilerini korumaya almış ve kurallara en çok uyan gurup olmuştur.<br />
+Asıl sorun, 1980 sonrasının yaş gurubunda gözlemleniyor. İlk normalleşme kararları ile birlikte sokaklar ve AVM’ ler her türlü korunma ve sosyal mesafe kurallarını takmayan bu kuşak tarafından doldurulmuştur.<br />
+65 Yaş üzeri insanların günlük aktivitelerini yapamamaları zaten onların yaşları gereği zayıflamış kaslarını iyice eritmiştir. Onlar Pandemi yasakları öncesi her gün dışarı çıkıp yürüyüp, eşini dostunu ziyaret eden insanlardı. Bu kuşak konuşan ve ikili ilişkileri seven bir kuşak olduğu için bunların hepsinden mahrum edilince, psikolojik sorunlar yaşamaya başladı. Dün rahat yürüyebilen bazı arkadaşlarımın bugün yürüyemediğini öğreniyorum.<br />
+Eğer bu yaş gurubu gerçekten korunmak isteniyorsa, bu yaş gurubuna da maske ve sosyal mesafe koşuluna uymak şartı ile yasaklar kaldırılmalı veya en azından her gün 3-4 saat gezip dolaşma izni verilmelidir.</p>
+<p>Sokağa çıkma yasaklarına uymama cezaları karmaşası;<br />
+Sokağa çıkma yasağı olanlara uygulanan 3000.00 TL. i aşan cezalar ceza olmaktan çıkmış, hazineye gelir sağlama amacına dönmüştür. %20 civarında işsizin olduğu, 2.500.00 TL. Asgari ücretle geçinmek zorunda olan çok büyük bir insanın bulunduğu bir ülkede, 3000.00 TL. Cezaları nasıl kesersiniz? Bu insanların bunları ödeyemeyeceğini ve ellerine geçen sınırlı paralara da haciz geleceğini bu ülkeyi yönetenler bilmiyor mu?<br />
+Cezaların caydırıcı olması için ödenebilir olması yeterlidir. Zaten üç kuruş para alabilmek için İŞKUR önünde bekleyenlere dahi ceza kesmek, hangi aklın işidir? Eğer amaç caydırıcı olmak ise, insanlara kesilecek 50.00 TL. Ceza bile yeterlidir.<br />
+Sonuç;<br />
+a-Ülke de Pandemi kurallarına (Maske ve sosyal mesafe) Uymanın sağlığımız açısından olmazsa olmaz bir zorunluluk olduğunu kabul ediyorum. Ama bunu bir korku paniği haline getirmek çok daha büyük yanlışları arkasından getirecektir. 18 yaş ve altı ile 65 yaş ve üzeri insanlarımıza da her gün belirlenecek saatlerde sokağa çıkıp yürüyüş yapma ve kurallara uyarak dostları ile konuşma olanağı yaratılmalıdır.<br />
+b-Para cezası uygulama ödenebilir sınırlara çekilmeli ve insanların giderek artan tepkileri dindirilmelidir.<br />
+Bu yaz aylarını Pandemi kuralları içinde geçireceğimiz öngörülmeli ve yaş gözetmeksizin maske ve sosyal mesafe kurallarına mutlak uyarak yaşamayı toplum olarak kabullenip, yaşantımızı buna göre düzenlemeliyiz.<br />
+Pandemi salgınından bir an önce kurtulmamız umuduyla güzel bir hafta diliyorum. 07.06.2020<br />
+Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0984-cumhuriyet-doneminin-devrimci-ruhunu-kaybediyoruz.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0986-samsunspor-un-kaza-anitini-divan-kurulu-yapacak.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

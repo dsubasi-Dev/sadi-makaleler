@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>İstiklal Savaşı mı, İstikbal Savaşı mı.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+İstiklal Savaşı mı, İstikbal Savaşı mı.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2013
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0673
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>SORUN İSTİKLAL Mİ? YOKSA İSTİKBAL Mİ?<br />
+Geçen hafta ki köşe yazım da, “Bu kavgayı kim kazanırsa kazansın, çağdaş- laik-hukuk devletinden yana olan kesimin endişeleri açısından iç karartıcı tablo devam edecektir.” Yorumunda bulunmuş ve umarım bu kavgadan asıl zararı ülkemiz görmez demiştim.<br />
+Yazımı tamalarken de, “Önümüzdeki haftanın da çok önemli gelişmelere gebe olduğu” Tespitinde bulunmuştum.<br />
+Öngördüğüm gibi yeni hafta, çok önemli açıklamalar, ayakkabı kutularında saklanan ve akıl almaz boyutlara ulaşan paralar, istifalar ve görevden almalarla başladı. Doğan karmaşanın ardından da, ülke ekonomisini alt üst edecek döviz ve borsa depremi geldi.<br />
+Türkiye’de ki siyasi anlayış ve uygulamalar her geçen gün azalan umut kırıntılarını dahi yok edecek saptırmalarla devam ediyor. Oysa bir siyasi erki temsil edenlerin en hassas olması gereken kural, hukuka saygı, dürüsttük ve samimiyet olmalıdır.<br />
+O nedenle çok daha düşündürücü olan, siyasi güce bağlı rüşvet alımı ve soyguna dönüşen kirli yolsuzluk ilişkilerinin boyutlarının, en üst derecede ki hükümet yetkililerine ve aile bireylerine kadar uzanmış olmasıdır.<br />
+En dikkati çeken konu ise, ortalığa dökülen bu derece pisliğe rağmen, soygun ve rüşvete kılıf uydurulmaya çalışılması ve bu gerçeğin unutturulması amacıyla hükümete komplo yapıldığının söylenebilmesidir.<br />
+Son on günde ki gelişmeleri alt alta yazarak olayların tamamına bakarsak, sanıyorum olan biteni çok daha iyi anlayabiliriz.<br />
+Ergenekon, Balyoz ve benzeri davalar öncesi yapılan dinlemeler ve takip sonrası sabah baskınlarından bir yenisi, bu kez hükümetin en önemli bakanlarının çocukları ve onlarla kirli ilişkiler içine girdiği iddia edilen işadamlarının evlerine yapılıyor ve üç bakanın oğlu ile bir bankanın genel müdürü ve işadamları gözaltına alınıyordu.<br />
+Bankacının evinde ayakkabı kutuları içerisinde 4,5 milyon dolar, bir bakan oğlunun evinde 1,5 milyon dolarla, altı kasa ve para sayma makinesi bulunuyordu.<br />
+Gözaltıların devamında, siyasetçiler “Alnımız ak, verilemeyecek hesabımız yok” Diye açıklamalar yaparken, iki bakan oğlu ile banka genel müdürü ve bazı işadamları tutuklanıyordu.<br />
+Harekete geçen hükümet, bunların bir komplo olduğunu ve bunun cemaat adıyla tanımlanan bir tarikat gurubundan yapıldığı iddialarını kamuoyuna yansıtıyordu.<br />
+Bu kirli işlere rağmen görevine devam etmeyi sürdüren İçişleri Bakanı, savcının talimatlarını yerine getiren polis müdürlerini görevden alıyor, ilk etapta 500 ü bulan polisi sürgüne gönderiyor ve savcılar cemaat yandaşı olmakla suçlanıyordu.<br />
+Ardından, Hükümet yasalara aykırı olduğu söylenen bir uygulamayla, kolluk güçlerine yapacakları tüm işlemler için üstlerine bilgi verme zorunluğu getiren bir yönetmelik yayımlayarak gizli ve güvence altında olması gereken savcılık talimatlarının engellenmesine çalışıyordu.<br />
+Emniyettin yeniden dizayn edilmesinden sonra İçişleri, Ekonomi ile Çevre ve Şehircilik Bakanları istifa ettiklerini açıklarken, Çevre ve Şehircilik Bakanı hem bakanlıktan, hem de milletvekilliğinden istifa ettiğini açıklıyordu. Bununla da yetinmiyor ve yaptıkları işler suçsa, bunların talimatını Başbakan’ın verdiğini ve onunda istifa etmesi gerektiğini söyleyecek kadar ileri gidiyordu.<br />
+İlk acil müdahaleleri yapan Başbakan, son olayda adı geçen bakanlarla, daha önce bazı akçeli işlere karıştığı kamuoyuna yansıyan bakanlarını, “Kirli bakanları dışarıda bıraktım” sözleri ile kabine değişikliğine gidiyordu.<br />
+İktidar Cemaat kavgası sürerken soruşturmayı sürdüren Cumhuriyet Savcısının, içerisinde Başbakanın oğlunun da bulunduğu çok önemli bazı işadamları için gözaltı ve tüm mallarına el konulması kararını çıkarttığı kamuoyuna yansıyordu.<br />
+Bu sırada çok daha korkunç bir şey oluyor ve soruşturmayı yürüten savcı, verdiği talimatın yeni atanan kolluk güçleri tarafından yerine getirilmediği ve soruşturmanın engellendiği yönünde bir açıklama yapıyordu. Bunu da, Cumhuriyet Başsavcısının soruşturma savcısının kendisinin bilgisi olmadan soruşturma açtığı için soruşturmanın bu savcıdan alındığını açıklaması, kamuoyuna yeni bir şok yaratıyordu.<br />
+Bu karmaşa arasında, Başbakanın baş danışmanı, adı geçen Cemaatin benzeri komployu Ergenekon ve Balyoz davalarında da ordu mensuplarına yaptığını söyleyerek, Türk Silahlı Kuvvetlerinin en üst komutanlarının mahkûm edilmiş olmasını da tartışılır hale getiriyordu.<br />
+Haftanın son gününde bu kez HSYK’NIN itirazı ile Danıştay, Hükümetin yayınladığı “Kolluk kuvvetlerinin savcıların verdiği talimatları üstlerine bildirme zorunluğu” Getiren Yönetmeliğini, yasalara aykırı olduğu gerekçesi ile yürütmesini durduruyordu. Bu açıklamanın ardından Başbakan HSYK’NIN yetkilerini aştığını, oğlu ile bazı işadamlarını ifade vermeye davet eden ve mallarına el konmasını talep eden soruşturma savcısını, “Yüz karası” olmakla suçluyor ve hesap sorulacağını söylüyordu.<br />
+Bu arada Başbakan’ın içeriği anlaşılamayacak bir şekilde, “Yeni Türkiye’nin istiklal savaşını veriyoruz” Sözleri gündeme düşüyordu.<br />
+Evet, son iki haftanın olayları ve gelişmeleri bunlardı. Şimdi olaya biraz yukardan bakıldığında neler görülüyor onu irdelemek ve sokakta ki insanlar olarak şu soruların cevabını öğrenmek hakkımız değil midir?<br />
+Dün ordunun en üst rütbeli komutanları, gazeteciler, işadamları ve akademisyenler aynı savcılar tarafından gözaltına alınmış ve uzun süre tutuklu kalmışlardı. Onların avukatları bazı bilgisayar kayıtlarının düzmece olduğunu ve komplo düzenlendiğini söylediklerinde hükümet kanadından, “Yargıya güvenin, suçunuz yok ise neden korkuyorsunuz” gibi serzenişte bulunuluyordu. Bugün hükümet üyelerini ve yakın aile bireylerini de içine alan büyük bir rüşvet ve soygun olayını soruşturmaya başlayan aynı yargı değil miydi? O zaman, dün destek verilen yargıyı bugün yüz karası ilan etmeye ve hesap sormaya kalkışılması ve bu savcıların devre dışında bırakılmaya çalışılması, tribünde ki vatandaşa nasıl açıklanacaktır?<br />
+Başbakanın baş danışmanı, bugün kendilerine komplo yaptığını iddia ettikleri Cemaatin, dün de Balyoz ve Ergenekon tutuklularına komplo yaptığını açıklıyordu. Birinci ağızdan yapılan bu açıklama doğruysa, hükümet olarak bugün gösterilen tepkinin, o gün büyük bir haksızlığa uğradığı anlaşılan Balyoz ve Ergenekon davalarında yargılanan insanlara neden gösterilmediği, topluma nasıl anlatılacaktır?<br />
+Ve bütün bu anlaşılmaz olgular içerisinde son söylenen “Yeni Türkiye’nin savaşını veriyoruz” Sözlerini nereye koyacağız.<br />
+Bir dönemin 2. Cumhuriyetçilerinden sonra bir de Yeni Türkiye iddiasını mı tartışacağız? Toplumun anladığı istiklal savaşı, bir halkın topluca özgürlüklerini korumak için yabancı düşmana karşı mücadelesi demektir.<br />
+Türk Halkı en son İstiklal Savaşını, Osmanlı’nın çöküşü ile son vatan toprağı Anadolu’nun da büyük bir kısmını işgal eden Avrupa’nın sömürgeci Devletlerine karşı vermiş ve bu savaşı 30 Ağustos Zaferi ile noktalamıştır.<br />
+Bugün verilen savaşın adı “İSTİKLAL SAVAŞI” Değil, olsa olsa yolsuzlukları kapatmak için verilen, “İSTİKBAL SAVAŞIDIR”<br />
+Bu ulus, birbirinden farklı değişik kendi çıkarları doğrultusun da, Türkiye Cumhuriyeti’nin yönetimini ele geçirmeye yönelik bu kirli kavgayı hak etmemektedir.<br />
+Neyse ki, bir tarafın rüşvet ve yolsuzluklarla yoğrulan tek adam olma amaçlarını, diğer tarafın ise Laik ve çağdaş Hukuk Devletini yıkmaya yönelik amaçlarını gerçekleştirmek için, önlerinde ki tüm anayasal engelleri kaldırmak üzere birlikte yürüttükleri eylemlerin sonunda, yönetimi paylaşamamaları ile kirli çamaşırlar ortaya dökülmüştür. Bu da, ülkesinin hak ettiği şekilde yönetilmesinden yana olan sokaktaki insanların şansı olmuştur.<br />
+Mehmet Akif’in söylediği gibi Allah bu millet bir daha İstiklal Marşı yazdırmak zorunda bırakmasın..<br />
+Olayın özeti budur. Gerisi ise, bunların Türkiye’yi dünyaya rezil ettiği gerçeğidir.<br />
+Ülkemizi yönetmeyi hakkedecek siyasetçilerin söz sahibi olduğu bir Türkiye’de yaşayabilmek dileğiyle, iyi haftalar..<br />
+29. 12. 2013<br />
+SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0672-gundem-siyaset-eksenli-rusvet-ve-hedef-saptirma.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="../2014/0674-sokaktaki-sade-vatandasin-sucu-ne.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

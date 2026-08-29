@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Samsunluların Havayolu İşkencesi</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Samsunluların Havayolu İşkencesi
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2017
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0878
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>HAVA YOLU ULAŞIMI SAMSUNLULAR<br />
+İÇİN İŞKENCEYE DÖNÜŞTÜ.</p>
+<p>Samsun’da yaşayanların çektiği sıkıntılar, bu kentin sahip olduğu geniş olanaklarla uyuşmuyor. Bir Samsunlu olarak kabullenemediğim de bu çelişki.<br />
+Son elli yılını dolu dolu yaşadığım bu kentin insanları, yaşamak zorunda kaldıkları bu sıkıntıları hak etmiyor.<br />
+Samsun gibi sahip olduğu doğal güzelliklere ve coğrafi avantajlara sahip kentlerin bunları yeterince değerlendirebilmesi için ilk şart, siyasi iktidarların desteğini alabilmesi, ikincisi de kentini yönetecekleri doğru seçebilmesidir.<br />
+Bu pencereden bakınca, Samsunluların bu iki konuda da kural olarak doğru işler yaptığı söylenebilir.<br />
+Çünkü son elli yılda yapılan genel seçimlere bakıldığında görülecektir ki, hemen her seçim de Samsunluların çoğu oyunu iktidar olan partilerden yana kullanmış ve seçilen milletvekillerinin çoğunluğu hep iktidar partisinden olmuştur.<br />
+Samsunlu seçtiği belediye başkanlarına da uzun yıllar görev yapma şansı vererek (50 yılda üç belediye başkanı görev yapmıştır) hizmet için gerekli olan süreyi onlara tanımıştır.<br />
+Ne var ki, Samsunlu oylarını verdiği iktidarlardan diğer kentlere göre hemen hemen hiç destek alamamıştır.<br />
+Seçtiği belediye başkanlarıda, bu kentin karşılaştığı haksızlıklara tavır koyamamış ve Samsun’a sahip çıkamamıştır.<br />
+Bu kadar doğru işler yapan bir kentte bunlar oluyorsa, yanlışı bir başka yerde aramak gerekir. Bu sorunun cevabını yazımın sonuna bırakarak, yazımın başlığına geçmek istiyorum.<br />
+Geçen hafta ki yazımda, Samsunluların yaşamak zorunda bırakıldığı kent içi trafik işkencesini işlemiştim.<br />
+Bugün de son bir yıla yakın süredir, Samsunluların “Havaalanı pistinin neden başka çözüm yolları aranmadan kapatılarak onarılmaya çalışıldığı” Sorusuna cevap aradığı ama göreve getirdiği tüm yetkililerin suskun kalması sonucu havaalanımızın kapatılması ile yaşanan işkenceye değineceğim.<br />
+Havaalanımızın kapatılması sonucu Samsunluların havayolunu kullanabilmesi için üç yol vardı. Ya 180 Km. Uzaklıkta ki ORGİ (Ordu- Giresun), ya da 156 km. Uzaklıkta ki Sinop veya 110 Km.  Uzaklıkta ki Merzifon Havaalanına karayolu ile gidilerek uçuş yapılabilecekti.<br />
+Samsunlu her zaman ki uyumlu hali ile bu yolları kullanarak uçmaya başladı. Ancak yaşanan sıkıntılar öylesine büyüktü ki, uçuş yapanların feryadı sosyal medyayı sallamaya başladı.<br />
+Uçak bileti almak için başvurulduğunda çoğunlukla gösterilen adres ORGİ Havaalanı oluyordu. Çünkü diğer iki havaalanından uçuş yönleri sınırlı ve sayısal olarak daha azdı. İstanbul ve Ankara dışında ki illere ve yurt dışına uçuşlar ise, sadece ORGİ’DEN yapılabiliyordu.<br />
+Havayolu ulaşımı, acil yolculuk gerektiğinde çok daha önem kazanır. Eğer istediğiniz gün ve saatte uçamıyor ve uçmak için uçuş öncesi 2-3 saatlik karayolu yolculuğu yapmak zorunda bırakılıyorsanız, tabii ki insanların tepkisi olacaktır.<br />
+Ama bu kenti yönetenlerde biliyor ki, Samsunlunun tepkisi saman alevi gibidir, çabuk söner. O halde havayolunu kullananlar bu işkenceye katlanacaktır.<br />
+Birkaç örnek vererek yaşanan işkenceleri kayıtlara geçirmek istiyorum. 20 gün önce eşim İstanbul’da dönerken diğer havaalanlarına o gün uçak seferi olmadığı veya saatleri uymadığı için ORGİ üzerinden bilet aldı.<br />
+Samsun’a gelecek yolcular indikleri ORGİ Havaalanından Samsun yönüne kalkacak servise gittiklerinde, “1,5 saat sonra bir uçak daha gelecek onu bekleyeceksiniz” Sözü ile karşı karşıya kalıyorlar.<br />
+İtirazlar artınca da Samsun yolcularını Ordu Otogarına götürüp bırakıyorlar. Orada da kalkış saatini bekledikten sonra bir midibüs ile Samsun’a ancak üç saatte gelebiliyorlar.<br />
+Eşim tam on saatte Samsun’a gelebildikleri bu yolculukta yaşadıkları zulmü sosyal medyada anlattı. Daha sonra onlarca kişinin daha aynı sıkıntıları yaşadıkları ortaya çıktı.<br />
+Eşimle birlikte İstanbul’a gitmek için bu kez Sinop’u deneyelim dedik. 19.45 de kalkacak uçağımız için zorunlu olarak 15.20 de gidecek servisle dura kalka ve 2.5 saate Sinop Havaalanına ulaştık.<br />
+Terminal çok küçük ve bekleme salonu da olmadığı için yolcular çağrı yapılana kadar dışarıda beklemek zorundaydı. Yeterli oturma yeri de yoktu. Valizler elde bekliyorsunuz. Hava yağışlı ise, ıslanmaya mahkumsunuz. Yağmurlu havada gidecekler tedbirli gitmelidir.<br />
+Giriş ve valiz kontrol odası çok az yolcu alabiliyor. Personel yetersiz ve acemi. Zaten havaalanı tesisleri henüz tam bitmemiş. Uçuş için iç salona geçiyorsunuz, orası da yolcu sayısına göre çok küçük ve oturma koltukları da sayısı yetersiz. Uçağa alış başlayana kadar insanlar ayakta balık istifi beklemek zorunda kalıyor.<br />
+Neyse ki, rahat bir uçuşla tam sekiz saat sonra İstanbul’da kalacağımız adrese ulaşabildik.<br />
+Kısacası görülen o ki, Samsunlular hangi alandan uçarsa uçsun, benzeri sıkıntıları yaşamayı göze almak zorundadır.</p>
+<p>Hepsi bir yana, bu sıkıntıların yaşanmasına neden olan havaalanımızın kapatılması olayına zemin hazırlayan asıl konunun, altını bir kez daha çizmek istiyorum.<br />
+Bir havaalanının pistinde arıza varsa ve bu onarım için havaalanın kapatılması gerekiyorsa, tabii ki kapatılacaktır. Ama bunu yaparken inandırıcı olacaksınız. Kafalarda kuşku yaratacak onlarca soru işaretini bu kentin insanlarının kafasında oluşturmayacaksınız.<br />
+Onarım ihalesini bir yıl süreli ve uçuşların devamı ön şartı ihaleye çıkartıp, sonuçlanan ihale onaylandıktan sonra bir bakan çıkıp, “Evet ihale onaylandı ama ben bu ihaleyi yok sayıyor ve alanı kapatarak onarım yaptıracağım” Demeyecek. Diyemeyecek.<br />
+Eğer bu söz, Samsun’u yönetenlerinin ve milletvekillerinin yüzüne karşı söyleniyorsa, bu kenti yönetmek ve siyaseten temsil etmek üzere bizlerden oy alanların, o bakana bunun nedenini Samsun Halkı adına sorması gerekmez miydi?<br />
+Madem pistte alanın kapatılması gerekecek kadar önemli bir arıza vardı, bu alanın kapatılması üç kez neden ve hangi cesaretle ertelendi? O sürede bu alandan kalkan ve inen uçaklarla yolculuk yapanların canı hangi hakla riske sokuldu?<br />
+Kısacası ülkeyi ve Samsun’u yönetmek adına bu kadar çelişkili işler yapılır ve de Samsun Halkının hakları savunulmazsa, bu sorulara cevap veremezsiniz.<br />
+Bu havaalanı kapatma olayının dışardan görünen gerçeği, bölgenin en büyük ve en gelişmiş kenti kabul edilen ve siyaseten siyasi iktidarın kalesi durumuna gelmiş Samsun’un siyasetçileri ile kentlilik bilincini geliştirememiş Samsunluların seçtiği yerel yöneticilerin, Sayın Numan Kurtulmuş’un öncülüğünde ki Ordu siyasetçilerine karşı yenilgisidir.<br />
+Yazımı bir soru ile tamamlamak istiyorum.<br />
+Bu tür inandırıcılıktan uzak nedenlerle kentlilik bilinci ve lobicilik anlayışını takdir ettiğim ve belki biraz da kıskandığım Trabzon Havaalanını kapatabilirler miydi? Tek bir kişi dahi, “Evet kapatabilirlerdi” Diyebilir mi?<br />
+Çünkü orada böyle bir durumda, o kenti yönetenler ya kalkar halkına gerçeği anlatırdı veya halkını da yanına alır ve başka çözüm yollarının    (Örneğin 2. Pistin yapılması gibi) uygulanmasını sağlardı.<br />
+SONUÇ:<br />
+Sonuç olarak söylemek gerekirse, bu olanların asıl sorumlusu bu kentte yaşayan biz Samsunlularız.<br />
+Demek ki, biz seçimlerde bu kenti yönetecekleri ve TBMM’ de temsil edecek olan milletvekillerimizi doğru isimlerden seçemiyoruz.<br />
+Kısacası, Samsunlular olarak bu kente yapılan haksızlıklara ortak tepki koyamayışımız ve seçtiklerimizi sorgulamayışımız.<br />
+Samsunlular bunu öğrenmedikçe, bu sıkıntıları çekmeye mahkumdur.<br />
+İyi haftalar.10.09.2017</p>
+<p>Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0877-samsunlunun-trafik-i-skencesi.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0879-i-slami-teror-orgutleri-i-slam-i-yipratiyor.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

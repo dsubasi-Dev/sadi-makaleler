@@ -1,0 +1,313 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Kurban Kesim İşi Artık Profosyonelleşmelidir.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Kurban Kesim İşi Artık Profosyonelleşmelidir.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2009
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0450
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>KURBAN KESİM İŞİ ARTIK PROFOSYONELLEŞMELİDİR.</p>
+<p>İslam dini, ekonomik koşulları uygun olanların kurban kesmesini, yardımlaşmanın ve dayanışmanın bir göstergesi olarak kabul etmiştir. Bilindiği gibi kesilen kurban etinin öncelikle fakirlere dağıtılarak onların sevindirilmesi esastır.<br />
+Ne var ki, kentlere göçün hızlanması ve artan nüfusları hızla artan kentlerde, kurban bayramlarında kurban kesme işi artık ciddi boyutta sorun olmaya başlamıştır. Eskiden evlerin bahçeli oluşu, bu işlemin evlerin bahçesinde usulüne uygun yapılabilmesine olanak veriyordu. Bahçeli evlerin yerini apartmanların aldığı kentlerde artık buna olanak kalmadı.<br />
+Sonuçta sokaklara taşınan kurban kesme işleri, sokakları kan gölüne çevirirken, hemen her bayram televizyonlara yansıyan kurban kesimi adına yaşanan çağ dışı görüntülerin onaylanacak tarafı kalmamıştır.<br />
+Kurbanları korunaklı bahçeler yerine sokakta kesmek, büyük baş hayvanların kaçırılması ile yaşanan trajik komik olaylar dışında daha da önemlisi, acemi kasap veya üç kuruş için kasaplığa özenenlerin kurban yerine kendilerine zarar vermesidir. Bunlar artık her kurban bayramının alışılagelmiş olayları haline gelmiştir.<br />
+Tüm bu olumsuzluklardan daha da önemlisi, Avrupa Birliğine girebilme çabasında olduğumuz bir dönemde kurban kesimleri sırasında yaşanan vahşet olaylarıdır. TV kameralarına takılan ve canlı hayvanı usulüne uygun kesmeyi bilmeyenlerin yarattığı insanlık dışı olaylar artık en hoşgörülü insanı dahi isyan ettirir hale gelmiştir.<br />
+Özelikle de bu bayramda TV’lere de yansıyan kurban edilmek istenen bir deveye gelişi güzel saplanan bıçak darbeleri ve canlı canlı ayaklarının kesilmeye çalışılması, bu işin artık bir sisteme bağlanmasını zorunlu hale getirmiştir.<br />
+Avrupa Birliği sürecinde gözleri Türkiye’nin üzerinde olan yabancıların, İslam dininin vahşete izin verdiği gibi bir izlenim edinmesine neden olmaya kimsenin hakkı yoktur.<br />
+Her isteyenin istediği yerde ve istediği kişiye kurban kestirmesinin engellenmesi ve bu işin profesyonel bir anlayışla yerine getirilmesi kent yönetimlerinin görevi haline gelmiştir. Özellikle de çağdaşlığı dilinden düşürmeyen büyük kentlerin, buna radikal ve kesin bir çözüm modelleri üretmesi gerekmektedir.<br />
+Bu konuda, Samsunlu bir işadamının ve kardeşlerinin sahibi oldukları aile işletmesinin yarattığı örnek bir tesisi ve uygulamasını, sizlerle paylaşmak istiyorum. Sayın FİKRET YALÇIN ve kardeşlerinin sahibi oldukları “FLORYA ENTEGRE ET TESİSİ”, bu işi örnek olacak bir düzeyde çözmüş ve bu tesisi bilenlerin bu kurban bayramında da yararlandığı tesis, her türlü övgüyü hak etmiştir.<br />
+Amacım, bu tesisi örnek göstererek istendiğinde kurban kesim işleminin çok güzel bir şekilde yapılabileceğini anlatmaktır. Yersizlik ve yeterli düzeyde kasap bulma zorluğu nedeniyle kurban kesimi, son yıllarda çoğu insan gibi benim içinde güçleşmişti.<br />
+Florya Entegre Et Tesislerinde kurban kesim işleminin yapıldığını duymuştum. Ancak bugüne kadar gidip görme ve inceleme fırsatım olmamıştı. Bu kez kurban kesim işi gündeme gelince, bir ön araştırma yaptım. Öğrendiğim ilk şey, tesiste kurbanlık büyük ve küçükbaş hayvan satışının da yapıldığıydı. Bayram öncesi bir arkadaşımla tesise gittik. Gerçekten de tesis mükemmeldi ve beş tane veteriner hekimin kontrolünde hayvan besiciliği de yapılıyordu. Kurbanlıklar büyükbaş ve küçükbaş olarak ayrı bölümlere konulmuştu. Her birinin kulağında veteriner kontrolünden geçtiğini belgeleyen birer künye bulunuyordu. İstediğinizi seçiyor, elektronik tartı aletinde tarttırıp, aldanma endişesi yaşamadan satın alıyordunuz.<br />
+Aldığınız kurbana hemen numara veriliyor ve satılanların konduğu ayrı bir bölüme alınıyordu. Kesim için de bir miktar ödeme yaptığınızda size kesim saatini de yazılı olduğu bir makbuz veriliyordu. Buraya kadar her şey güzeldi de, açıkçası kesim saatinde bu işlemin gerçekleşeceği bana çok da inandırıcı gelmemişti. Ama tesisin güzelliği, temizliği ve düzeninden etkilenmiştim. Kurbanlarımızı aldık ve bayram sabahı saat 09.00 olarak kesim zamanını belirleyerek ayrıldık.<br />
+Bayram sabahı saat 08.30 da tesislere gittiğimizde tesisin önünde ve civarında gördüğüm araç sayısı beni korkuttu ve “biz buradan akşama ancak çıkarız” diye düşündüm. Ancak içeri girdiğimizde yanıldığımızı anladım. Büyükbaş ve küçükbaş kesimleri ayrı kesimhanelerde yapılıyor ve bir görevli elinde ki listeden sırası geleni çağırıyordu. Kesim işi saat dilimlerine ayrılmış ve kurbanlıklar da 08.00, 09.00, 10.00 diye ayrı bölümlere konmuştu. Her saat başı uyarı anonsu ile o saat diliminde kesim randevusu verilenler çağrılıyordu.<br />
+Kesim yapılan saat dilimi dışında ki kurban sahipleri kesimhaneye alınmıyor ve onlar yan bölümde ki bekleme yerine davet ediliyordu.<br />
+Florya’nın işletmecileri bir başka güzel iş daha yapmış ve bu misafir bölümünü küçük bir restoran haline getirmişlerdi. Çoğu müşterinin bayram namazından çıkıp geleceğini, dolayısıyla da aç olacaklarını hesaplayarak bu bölüm de bir fırın oluşturmuşlar ve tüm müşterilere çay ve ayran eşliğinde pide, döner ikram ediyorlardı. Ücretsiz sunulan bu hizmet, bayram sabahını çok daha anlamlı hale getiriyordu.<br />
+İnanılacak gibi değil ama tam saat 08.55 de, 09.00 randevusu olanlar yapılan anonsla kurbanlarının olduğu bölüme davet edildi. İlk gelenden başlayarak kurbanlar kesimhaneye alınıyor, vekâletin verilmesinden sonra gerekli dini vecibelerin eşliğinde kurbanlarımız kesiliyordu. Kesilen kurban elektrikli vinç yardımı ile yürüyen banda asılıyor ve bu bantta sırasıyla yüzülüyor, iç organları alınıyor ve son bölümde de müşterinin istediği büyüklükte parçalara ayrılarak teslimi yapılıyordu. Yarım saat içersinde tüm işlemler tamamlanıp etinizi alıp ayrılabiliyordunuz. Derisini isteyen alıyor, isteyen de orada bekleyen THK veya diğer derneklere verebiliyordu.<br />
+İlk kez sağlıklı ve güvenli bir ortamda kurbanımızı almış ve son derece çağdaş yöntemlerle kurbanımızı kestirip evimizin yolunu tutmuştuk.<br />
+Bölgemizde bir benzeri olmayan bu tesisin, bir bayram da 2000 kurban kesilebilecek kapasiteye sahip olduğunu da öğrendik. Canlı hayvan besiciliği yanında, kentimizde kasap işletmeciliği de yapan Florya İşletmesi, toptan kesilmiş et ticaretini de sürdürüyordu.<br />
+“Hani, bir işi yapacaksan adam gibi yapacaksın” derler ya, işte böyle bir tesisti, FLORYA ENTEGRE ET TESİSİ.<br />
+İstenince her şey ne güzel de yapılabiliyormuş. Bu güzelliği sağlayan Sayın Yalçın ailesini ve orda çalışanlarını kutluyorum.<br />
+Bu arada bir başka milli kurumun da hakkını teslim etmek istiyorum. Bilindiği gibi son yıllarda, örnek bir çalışma ve sağladığı güven ile noter huzurunda vekâletle kurban kesim işini gerçekleştiren “MEHMETÇİK VAKFI”, benim gibi çok sayıda insanın da bu sorununa çözüm oldu. Kurban konusunda büyük bir olayı gerçekleştiren bu vakfımızı kuranları kutluyorum.<br />
+Bu konuya değinmişken üzülerek söylemek isterim ki, Mehmetçik Vakfı’nın yaptığı vekâletle kurban kesim işine son yıllarda kontrolden uzak başka derneklerin de girmiş olması düşündürücüdür. Kurban işinin dini bir vecibeyi yerine getirme amacından uzaklaşarak parasal getiriye dönüştürülmesi anlamına gelen bu tür bağış kabulleri sınırlandırılmalıdır. Kurban kesme ve bağış kabul konusunda Mehmetçik Vakfı ile Kızılay’ın, deri toplama konusunda da Türk Hava Kurumu’nun yetkili kılınması en uygunudur diye düşünüyorum.<br />
+Sonuç olarak dinimizin gereği olarak kurbanını kendisi kestirmek isteyenlerin bu doğal hakkını çağdaş ve sağlıklı ortamda yapabilmesine uygun zeminleri hazırlamak belediyelerin görevi olmalıdır. Ceza keserek sokaklarda kurban kesme işlemleri önlenemez. Yukarıda anlattığım tesise benzer tesisler kurularak bu sistem yaygınlaştırılmalıdır.<br />
+İyi bir hafta geçirmemiz dileğiyle. 01 Aralık 2009<br />
+SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0448-toplum-olarak-cinnet-geciriyoruz.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0451-eczacilarin-i-syaninin-altindaki-gercekler.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

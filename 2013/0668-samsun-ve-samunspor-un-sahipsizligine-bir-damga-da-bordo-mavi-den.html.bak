@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Samsun ve Samunspor&#x27;un Sahipsizliğine Bir Damga da Bordo-Mavi&#x27;den</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Samsun ve Samunspor&#x27;un Sahipsizliğine Bir Damga da Bordo-Mavi&#x27;den
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2013
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0668
+
+</div>
+
+
+<div class="article-content">
+
+<p><br />
+SAMSUN’UN VE SAMSUNSPOR’UN SAHİPSİZLİĞİNE<br />
+BİR DAMGA DA BORDO-MAVİ’DEN<br />
+Samsun’un sahipsizliğini kanıtlayan bir darbe de gözbebeğimiz diye tanımladığımız Ondokuzmayıs Üniversitesi’nden geldi.<br />
+Geçtiğimiz haftaya damgasını vuran olay, Ondokuzmayıs Üniversitesi Tıp Fakültesi Dekanlığının akıl dışı uygulamasıydı.<br />
+Bir başka kentin üniversitesinde görev yaptığını sananların talimatıyla, Tıp Fakültesi’nin öğrenci amfilerinin kapısında ki eski levhalar kaldırılıyor ve onların yerine renkli tabelalar konuluyordu.<br />
+Bu levhalardan bordo renkli olanın üzerinde yazı ile “BORDO” yazısı, mavi olanın üzerinde ise, “MAVİ” yazısı yer alıyordu.<br />
+Yani renklerin ne anlama geldiğini anlamayanların da, bu renklerin bir başka kentin takımının renkleri olduğunu daha iyi anlayabilmeleri için olacak ki, yazı ile yazılarak iş sağlama alınmıştı.<br />
+Daha sonra anlaşılıyor ki, iş bununla da kalmamış ve amfilerin koltukları da bordo-mavi olarak değiştirilmiş. Bu da yetmemiş, aman anlamayan kalmasın denircesine, üniversitenin Samsun-Bafra karayoluna bakan dış duvarlarının üzerinde ki demir korkuluklarda bordo-mavi renkte boyanmıştı.<br />
+Bir bilim yuvasında ve bilim adamı olduğu unvanlarında yazanlar böylesine bir yanlışı nasıl yapar? Akıl alacak gibi değil.<br />
+Kent insanlarını ayrıştırarak karşı karşıya getirecek bu kışkırtıcı tavrı sergileyenler, neyi amaçlamıştır? Topluma örnek olması gerekenlerin yaptığı bu uygulamanın geçiştirilecek tarafı yoktur. Ülkemizin zaten gergin olan ortamın da, olabilecek tatsız olaylara davetiye çıkartılmaktadır.<br />
+İşi yatıştırmak isterken söylenenler ise, çok daha inciticidir.<br />
+Hele de, yapılan yanlışa gerekçe yaratmak için Samsunluların çok sevdiği Ondokuzmayıs Üniversitesin de görev yapan değerli bir hekimin adının karıştırılması, yanlıştan da öte, ayıptır.<br />
+Yapılan yanlış değil ise, bu yanlışın fotoğraflanması nasıl yanlış olur? Bunun fotoğraflanmasından neden rahatsız olunur?<br />
+Bir eğitim yuvasında, bilim adamlarınca bir kentin sosyal yaşamına ayrıcalık sokacak bir tavır nasıl sergilenir? Bu cüretkârlık nasıl yapılır? Anlaşılır gibi değil.<br />
+Hem de, aralarında kıyasıya sportif rekabet olan iki kentin taraftarlarını karşı karşıya getirecek kışkırtma ile kimin eline ne geçecektir?<br />
+Bu haberlerin medyaya yansıması üzerine, Samsun ve Samsunspor konusunda hassasiyeti olanların tepkisi büyük olmuştur.<br />
+Bu gibi durumlarda beklenen şey, bu kentin yönetiminden sorumlu olanların bu yanlışın üzerine giderek, üniversite yönetiminden bunun düzeltilmesini sağlamaları olmalıydı.<br />
+Alınacak sonucun da kamuoyuna yansıtılması ile tepkilerin daha ileri boyutlara gitmesi önlenebilirdi.<br />
+Sayın Valimizin kent dışında olması, bu açıdan belki bir şansızlık olmuştur. Ama üzülerek söylemek gerekirse, bir başka kent yöneticisinin de olayın üzerine gitmemesi, taraftar dernekleri ile üniversite yönetiminin karşı karşıya getirmiştir.<br />
+Bu kenti yönetsinler ve bu kentin çıkarlarına sahip çıksınlar diye oy verdiklerimiz, ne zaman bu kentin insanlarına,  kurumlarına ve çıkarlarına sahip çıkacaklar? Merak ediyorum.<br />
+Üniversite yetkililerinin de ilk etapta ki açıklamalarının, işi geçiştirmek anlamında olması, tepkilerin büyümesine ve Samsunsporlu taraftar derneklerinin sert açıklamalarına zemin hazırlamıştır.<br />
+Bu arada Samsunspor Yönetiminin de yanlış yorumlara neden olabilecek açıklamaları üzerine tepkiler, Samsunspor Yönetimini de içine alarak genişlemiştir..<br />
+Olayın medyaya yansıması üzerine, SAM-SEV Başkanı Sayın Rüştü Araboğlu’nun Rektör Prof. Dr. Hüseyin Akan ile yaptığı görüşme sonrası, Sayın Rektör’ün “Yanlışın düzeltileceği sözleri” tansiyonu kısmen düşürmüştür.<br />
+Bunlar olurken, bazı kendini bilmezlerin sosyal medyada üniversite yönetimine karşı sarf ettikleri çirkin sözlerin de hoş görülmesi mümkün değildir.<br />
+Bundan sonrası ne olur? Bilemiyorum.<br />
+Umarım, başka boyutlara ulaşmadan sorun çözülür. Ama işin asıl acı olan yanı, bu kentin “Sahipsizlik duygusunu”  artık her konuda sıkça yaşar olmasıdır.  Bu konuda da kimler bu yanlışın düzeltilmesi için çaba harcayacak? Onu da izleyerek göreceğiz.<br />
+Başta kentimizde ki kurum yetkilileri olmak üzere herkesi, çeşitli illerden gelen insanların bir arada yaşamaktan mutlu olduğu kentimizin yapısını ve huzurunu bozacak her türlü hesapsız uygulamalardan kaçınmaya davet ediyorum..<br />
+İyi haftalar.. 24. 11. 2013<br />
+---ÇOCUKLARIMIZI GELECEĞE HAZIRLAMAK İÇİN HER TÜRLÜ ZOR ŞARTA GÖĞÜS GEREREK BÜYÜK BİR ÖZVERİ İLE TER DÖKEN, CEFAKÂR ÖĞRETMENLERİMİZİN “24 KASIM ÖĞRETMENLER GÜNÜNÜ” KUTLUYORUM. ARAMIZDAN AYRILAN EĞİTİMCİLERİMİZİ RAHMET VE MİNNETLE ANIYORUM.----<br />
+Not; Yazılarımı Hedef Halk Gazetesi’nin internet sayfası www. hedefhalk. com adresinden de takip edebilirsiniz...<br />
+Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0667-siyaset-aczi-affetmez.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0669-sam-sev-in-25-gurur-yili.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Samsunlunun Trafik İşkencesi</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Samsunlunun Trafik İşkencesi
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2017
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0877
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>SAMSUN’DA YAŞAYANLARIN TRAFİK İŞKENCESİ</p>
+<p>Bu kenti yönetenlerin iddiasına göre Samsun, çağdaş Avrupa kentleri seviyesinde bir kenttir.<br />
+Bu iddianın gerçeği yansıtıyor olması, tabii ki bu kentti seven ve bu kentte yaşayan herkesi mutlu edeceği kesindir. Keşke bu söylem, gerçeği yansıtıyor olsaydı.<br />
+Ne var ki, çağdaş kent olabilmenin asgari koşullarından ilki, bu iddiada olan kentlerin, “Yaşanabilir kentler” Sıralamasının ilk sıralarında yer alıyor olması,<br />
+İkinci önemli göstergede, kent içi ulaşımının yeterli olması ve trafik sorununun bulunmamasıdır.<br />
+Oysa geçtiğimiz aylarda yayınlanan yaşanabilir kentler listesinde Samsun ilk yirminin içerisine dahi yer almadığı gibi kent içi ulaşımı da kördüğüm olmuş bulunuyor.<br />
+Bugün sizlerle bu kentte yaşanan trafik keşmekeşini paylaşmak istiyorum.</p>
+<p>Bir kentin hızlı gelişebilmesin de rol oynayan en önemli şeylerin başında, kent yönetimlerinin devamlılığı gelir ki, Samsun bu açıdan son derece şanslıdır.<br />
+Çünkü Samsun, 1980 Darbe döneminde ki kısa süre hariç 1965 yılından bu yana geçen elli yılda sadece üç belediye başkanı tarafından yönetilmiştir.<br />
+Bu elli yılın ilk yirmi yılına Sayın Kemal Vehbi Gül, sonra ki on yılına Rahmetli Muzaffer Önder ve son yirmi yılına da şu anda görev de olan Sayın Yusuf Ziya Yılmaz imza atmıştır.<br />
+Ne yazık ki, Samsun’un bu şansı çok iyi kullandığı söylenemez.<br />
+Bu üç yönetimin de ortak sorumluluğu, bu kentin trafik sorununu çözecek önemli düzenlemeleri yapamamış olmalarıdır.<br />
+Samsun’da yaşayan herkesi canından bezdiren kent içi ulaşımını olumsuz etkileyen nedenleri üç ana başlıkta değerlendirmek gerekir.<br />
+Bunlar;<br />
+Kent merkezinde ki YOLLARIN,<br />
+Kent merkezinde ki OTOPARKLARIN,<br />
+TRAFİK EĞİTİMİNİN yetersizliğidir.</p>
+<p>YOL SORUNU;<br />
+Samsun gelişen kent olarak yol konusunda son elli yılda çok kötü yönetilmiştir. Sayın Kemal Vehbi Gül döneminde, şehircilik açısından olması gereken cesaretin bulunmasına rağmen, konusunun uzmanlarının görüşlerinin dikkate alınmaması ile Samsun, düzeltilmesi mümkün olmayacak çok büyük yanlışlarla anılan bir kent haline gelmiştir.<br />
+100. Yıl Bulvarı’nın açılabilmesi ne kadar büyük bir başarı ise, bir o kadarda yanlışı beraberinde getirmiştir.<br />
+Yine bu dönem de çok katlı imara açılan Çiftlik Caddesi’nde ki bahçelerinden ıhlamur, hanımeli kokuları gelen ikişer katlı Samsun mimarisini günümüze taşıyan evler, çıkara kurban edilmiştir.<br />
+Üstüne üstlük, Çiftlik Caddesi’nin alt ve üst tarafından geçen caddelerden birisi ile birleştirilerek çift yönlü bulvar olarak düzenlenmemesi, Samsun’un kalbi sayılan bu caddeyi bugünkü atıl durumuna düşürmüştür.<br />
+Merhum Muzaffer Önder Döneminde ise, kent merkezinde önemli bir yol çalışması yapılamazken, ana arterlerin kavşaklarında yapılan göbeklerle trafik sıkışıklığı giderilmeye çalışılmıştır.<br />
+Sayın Yusuf Ziya Yılmaz Döneminde kentin dış halkaları ve varoşlarında ki önemli yol açılımları ne kadar olumlu ise, kent merkezinde zaten yetersiz olan caddelerden bazılarının trafiğe kapatılması çok büyük yanlış olmuştur.<br />
+Kent merkezine girişlerin yapıldığı Cumhuriyet Meydanı kavşağı, Shell (Gar) Kavşağı ve Ticaret ve Sanayi Odası kavşaklarında hiçbir düzenlemenin yapılmaması, Atatürk Bulvarında ki trafik akışını günün belli saatlerinde işkence haline getirmektedir.<br />
+Çok önemli bu kavşaklar dururken kentin dış halkalarında ki kavşakların viyadüklerle çözülmesi, öncelik konusunda kafalarda soru işaretleri yaratmıştır.<br />
+Bu dönem de toplu taşımacılık adına yapılan en önemli iş, bazı yanlışlarına rağmen Samsun- Üniversite arasında yapılan “Raylı Sistem” Olmuştur. Bugün bu sistemin Tekkeköy’e kadar da uzatılmış olması da dönemin artısı olarak kayıtlara geçecektir.<br />
+Yusuf Ziya Yılmaz Dönemi ile asıl söylenecek söz, ilk başkanlık döneminde Samsun’un tüm bileşenleri ve sivil toplum kuruluşları ile kurduğu olumlu ilişkileri, sonra ki dönemlerinde terk etmesi ve “Ben yaptım oldu” Uygulamalarıyla kenti yönetmeye çalışmasıdır.</p>
+<p>OTOPARK SORUNU;<br />
+Samsun’un göç almaya ve nüfusunun hızla artmaya başladığı 1965’ den bu yana geçen son elli yılına imza atan üç belediye başkanı da bu kentin bugün yaşadığı trafik sorunlarının baş sorumlusudur.<br />
+İlk yirmi yılına imza atan Sayın Kemal Vehbi Gül’ün bu kente yaptığı en büyük kötülük, kentin nefes aldığı bütün yeşil alanları imara açması, estetik ve zevkten yoksun, cebinde parasının ve başkanın hemşerisi olmasından başka hiçbir özelliği olmayan müteahhit özentilerine göz yummuş olmasıdır.<br />
+Ama asıl sorumluluğu, yeni yapılan binalara getirilen otopark yapma zorunluluğunu, “Otoparkları belediye olarak biz yapacağız” Diyerek müteahhitlerden otopark paralarını toplayıp, döneminde tek otopark dahi yapmamış olmasıdır.<br />
+O’nun döneminde kent içinin rahatlatılması açısından yapılan en önemli uygulamalardan birisi, kent içinde caddeleri güvensiz hale getiren dolmuş anarşisinden kurtarılmış olmasıdır.</p>
+<p>Gerçek çağdaş kent yaratma anlayışı rahmetli Muzaffer Önder ile başlamış ve o dönemde ana kavşak düzenlemeleri ile trafik akışı biraz olsun rahatlatılmıştır. Samsun’da ilk toplu araç otoparkı da o dönemde Cumhuriyet Meydanı altında oluşturulmuştur.<br />
+Ne var ki, kökeninin bürokrasiden geliyor olmasından ötürü, devleti ve hazinenin çıkarlarını koruma noktasında çok hassas olmasının getirdiği çekingenlikle, borç yapmaktan kaçınması ve giderken arkasında borçsuz, hatta kasasında parası olan bir belediye bırakması, ne kadar doğru bir işti? Bu yönü hep tartışılmıştır.</p>
+<p>Yusuf Ziya Yılmaz döneminde ise, belediye olarak toplu otopark yapılmamış, onun yerine her boşluğun otopark haline getirilmesi noktasında özel şahısların otopark yapması desteklenmiştir. Ana arterlerin yaya kaldırım kenarları ihale karşılığı parkomat olarak kullanıma açılmıştır. Çok yönlü olarak eleştirilse de, kısa süreli otopark yapmanın araç sahipleri açısından olumlu olduğu kanısını taşıyorum.</p>
+<p>EĞİTİM SORUNU ve YAYALAR;<br />
+Yol ve otopark yoksunu Samsun’da, çok sayıda başka uygulamalarda bu trafik işkencesine yeni yüklemeler yapmaktadır.<br />
+Şehir içi trafik düzenlemesi, UKOME denilen bir kuruluşa verilmiştir. İçerisinde Trafik Şube Müdürlüğünden, Jandarmadan, Şoförler Derneğinden birer kişi bulunsa da çoğunluğu Belediye bürokratlarından oluşmaktadır.<br />
+Bunun anlamı, kent içi trafik akışının Büyükşehir Belediye Başkanlığının istekleri doğrultusunda düzenleniyor olmasıdır.<br />
+Görevli olduğum dönemlerde katıldığım Trafik Şube Müdürlüğü toplantılarında, gündeme taşıdığım eksiklerin hiç birisinin dikkate alınmaması da, Trafik Şube Müdürlüğü’nün ceza yazmanın ötesinde bir etkinliğinin kalmadığının bir göstergesidir.<br />
+Cumhuriyet Meydanı adeta şehirler arası otobüs işletmelerinin işgali altındadır. Belli saatlerde servis minibüs ve midibüslerinin bu kavşağı işlemez hale getirmesi, trafik lambalarının görüş alanının dahi kapatılmasının hiçbir şekilde önlenememesi düşündürücüdür.<br />
+Bazı bankaların bankamatiklerinin hemen sokak başlarına konmuş olması ve araçların önlerine park ederek sahiplerinin işlem yapması, sokak çıkışlarında görüşü kapattığı için kazalara zemin yaratılmaktadır. Örneğin 56’ Larda ki DSİ 7. Bölge Müdürlüğü önünde ki Bankamatikler.<br />
+Okul civarlarında konuşlanan ve o bölgeleri felç eden okul servisleri ise, bir başka sorundur.<br />
+Yaylar kesinlikle trafik ışıklarına uymamakta ve her fırsatta canlarını tehlikeye atarak karşıya geçme çabasında olmaktadırlar. Bu davranışların okul önü kavşaklarda da olması ise düşündürücüdür.<br />
+Bu kavşaklarda yayalara yönelik eğitim çalışmaları yapılması artık zorunluluk haline gelmiştir.</p>
+<p>SONUÇ; Samsun’un bu görüntüsü sürdüğü sürece, Samsun’da yaşayanların çektiği sıkıntı da sürecektir. Böyle bir kente, çağdaş kent denemez.<br />
+Samsunlu bunu hak etmiyor. Bir an önce bu konularda uzman bir yetkili davet edilmeli ve Samsun’un kent içi trafik sorununa çözüm aranmalıdır.<br />
+Aksi halde, bu kentte yaşamaktan usananların kaçışı devam edecektir.<br />
+Araç trafiğine kapatılan Çiftlik Caddesi, Gazi Caddesi’nin BULVAR AVM önünde ki bölümü mutlaka trafiğe açılmalıdır.<br />
+Eski Havaalanımın yerine okulların toplanması ve boşalan okul yerlerinin üstlerinin dinlenme alanına, altlarının da otoparka dönüştürülmesi fırsatı, ne yazık ki TOKİ inşaatları uğruna feda edilmiştir.<br />
+Sorunları azaltılmış, en azından bu yönde çabaları göreceğimiz bir Samsun özlemi ile güzel bir hafta diliyorum. 04.09.2017</p>
+<p>Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0876-samsun-da-olan-biteni-anlayan-var-mi.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0878-samsunlularin-havayolu-i-skencesi.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

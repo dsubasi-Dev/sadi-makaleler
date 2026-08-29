@@ -1,0 +1,336 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>CHP&#x27; de Değişim Zorunlu Hale Gelmiştir.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+CHP&#x27; de Değişim Zorunlu Hale Gelmiştir.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2018
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0903
+
+</div>
+
+
+<div class="article-content">
+
+<p><br />
+CHP’DE DEĞİŞİM ZORUNLU HALE GELMİŞTİR.<br />
+CHP konusunu değerlendirebilmek için son haftalarda sıkça yazdığım ülkemizin içerisinde olduğu özel durumlara bir kez daha değinmek istiyorum.<br />
+Bunların başında da bugün ülkemizde yaşanan ve HDP hariç tüm siyasi kesimlerin üzerinde hemfikir olduğu beka sorunu gelmektedir.<br />
+Bu konuda tüm siyasi partilerde askerimizin güney sınırlarımızda kurulmak istenen terör devletini engellemek için yaptığı harekâta destek vermektedirler.<br />
+Bu milli sorunumuza destek verilmesi konusunda hiçbir tartışma yapılamaz, yapılmamalıdır ve bu konu iç siyasete de alet edilmemelidir.<br />
+Bunlar yapılırken, böylesine hassas bir konuda farklı düşünce ve önerisi olan siyasetçilerin söylediklerine de kulak verilmelidir.<br />
+Hele de bu konuda görüş ve öneri sunanlar, ana muhalefet partisi ve geçmişte bu ülkenin en önemli kurumlarında sorumluluk almış olanlar ise, onları dinlemek yerine gayri milli olarak damgalamak, ülkemizin birlikteliğine zarar vermekten başka bir işe yaramaz.</p>
+<p>ÜLKEMİZDE YAŞANAN ALGI OPERASYONLARI.<br />
+2. ci önemli sorun ise, ülkemizde yürütülmekte olan algı operasyonlarıdır.<br />
+Ülkemiz adına böylesine önemli bir beka sorunuyla uğraştığımız günlerde TV’lerde yayınlanan tartışma programları en sabırlı insanları dahi çileden çıkartacak sorumsuzlukla devam ediyor.<br />
+Hangi haber kanalını açarsanız açın, karşınızda hemen hemen aynı konuşmacıları görüyorsunuz.<br />
+Bunların içerisinde bazı anket firmalarının sahipleri, firmalarının inandırıcılığını yok edercesine ve adının başında Prof. Unvanı ve adı sanı duyulmamış bir üniversitenin öğretim üyesi olduğu yazılı olan birileri, sahip oldukları unvanlarla hiç uyuşmayacak şekilde iktidar partisi tarafından yürütülmekte olan algı operasyonlarının en sıkı sözcüleri konumunda konuşmaktadırlar.<br />
+Bu konuşmacılar bir iktidar sözcüsünden çok daha fanatik bir üslupla CHP’ni eleştirmekte, hatta daha da ileri giderek CHP’ni aşağılamakta, oy kaybettiği algısını yerleştirmeye ve bu ülkenin kurucu partisini gayri milli olarak tanıtmaya çalışmaktadırlar.<br />
+Siyasi kimliği olmayan bu konuşmacıların karşısına CHP’li siyasetçilerin çıkarılmasını ve çekildikleri tartışma ortamında savunma yapmaya çalışmalarını, CHP adına büyük bir taktik hatası olarak görüyorum.</p>
+<p>CHP’NİN AÇMAZI<br />
+Yukarıda kısaca değindiğim ülkemizin içerisinde bulunduğu hassas durum yanında, iktidar kanadı ile yandaş basın ve bazı sözde bilim adamları ile tarafsızlığını yitirmiş anket firma sahiplerinin CHP karşıtı söylemleri ile yarattıkları algı operasyonları, tüm ana kurumları çökertilmiş demokrasi ortamında siyaset yapmayı zorlaştırmış bulunmaktadır.<br />
+HDP’ nin devre dışı kalması, MHP’ nin de AKP’ nin kanatları arasına girmesi ile ülkemiz siyasetinde muhalefet yapma görevi, tek başına CHP’ ne kalmıştır.<br />
+Ne var ki, 15 Temmuz FETÖ darbe girişimi sonrası Hükümete verilen KHK çıkartma yetkisinin Cumhurbaşkanı tarafından sürekli hale getirilmesi ve zaten 2010 Referandumu ile Anayasa’nın bazı maddelerinin değiştirilmesi sonucu büyük çapta bağımsızlığını yitirmiş bulunan hukuk kurumu, tam anlamı ile güven kaybına uğramış bulunmaktadır.<br />
+Yazılı ve görsel basının çok büyük bir kısmının iktidar yandaşı olduğu ve hukukun da güven kaybettiği bu ortamda, CHP’den çok daha etkin siyaset yapması beklenmektedir.<br />
+İşte CHP’ nin açmazı da burada başlamaktadır.<br />
+Yukarı da anlattıklarım çerçevesinde, CHP’ den adeta kolları bağlanmış bir boksörün rakibini dövmesini istemek gibi bir başarı beklenmektedir.<br />
+Tabii ki CHP’ nin tek açmazı bu değildir.<br />
+Artık KHK uygulamaları ile yönetilen ülkemizde hem parti içi hem de ülkenin yönetiminde demokrasinin tüm kuralların işletilmesini isteyen CHP, yandaş medya nedeniyle sesini topluma duyurmakta da sorun yaşamaktadır.</p>
+<p>CHP ve KEMAL KILIÇDAROĞLU<br />
+Öncelikle belirtmek isterim ki Sayın Kılıçdaroğlu, rahmetli Bülent Ecevit’ten sonra bu ülkenin en dürüst siyasetçisi olarak Türk siyaset tarihinde ki yerini alacaktır.<br />
+Sayın Kılıçdaroğlu eğer bir Avrupa devletinde siyaset yapıyor olsaydı, inanıyorum ki çok büyük başarılara imza atan bir lider olurdu.<br />
+Gerek ailesi ve gerekse siyaset öncesi bürokratik görevleri ile ilgili olarak bugüne kadar hiçbir yanlışı ortaya konamamıştır.<br />
+Üstelik de tüm yargı ve denetim kurumlarının hükümetin emrinde olduğu bir dönemde Kılıçdaroğlu’nıun SSK Genel Müdürlüğü dönemi ile ilgili yapılan suçlamaların hiç birisi kanıtlanamamış ve iddialar da Kılıçdaroğlu ’nu yıpratmaya yönelik algı operasyonu olmaktan öteye geçmemiştir.<br />
+Ne var ki, bu algı operasyonlarının etkili olmadığını da iddia edemeyiz.<br />
+Yine üzülerek söylemek gerekirse gerek yukarıda belirttiğim ve gerekse Sayın Kılıçdaroğlu ile yürütülen algı operasyonlarının özellikle kırsal kesimlerde etkin olduğu görülmektedir.<br />
+O kesimlerden konuştuğumuz çok sayıda kişi, sanırım bu algı operasyonlarından etkilendikleri için Kılıçdaroğlu’ nun dürüstlüğüne vurgu yaparak çok beğendiklerini ama oy vermediklerini söylüyorlar.<br />
+CHP teşkilatları, tüm kadroları ile bugüne kadar bu algı operasyonlarını yıkmak için Sayın Kılıçdaroğlu’ nun arkasında durmuş ve Genel Başkan olduğu 2010 yılından bu yana tüm seçimlere O’nun liderliğinde girmiştir.<br />
+Ama ne yazık ki, her defasında bu algılar CHP’ nin oylarının artmasında ki en büyük engellerden birisi olmuştur.</p>
+<p>ÜLKEMİZİN GELECEĞİ İÇİN ARTIK CHP’DE DEĞİŞİM ŞARTTIR.<br />
+Ülkemiz Cumhuriyet döneminin en sıkıntılı dönemini yaşamaktadır.<br />
+Bölgemizde yaşanan emperyalist kuşatma ve iç savaşlar devam ederken ülkemizde de yaşanan kamplaşma, hukukun çökmesi, çağdaş eğitimden uzaklaşma ile yaşanan karmaşa yanında, demokrasimizin de önemli ölçüde yara alması, ülkemizin en azından %50’ni ciddi anlamda endişelendirmektedir.<br />
+İşte bu kesimin son umudu olarak ortada sadece CHP kalmıştır. O nedenle, CHP’ nin artık bu kesimin umutlarını kırmaya hakkı kalmamıştır.<br />
+CHP gibi sosyal demokrat ve tüm kurumları ile işleyen demokrasiden yana olan bir partinin, artık bu değişimi sorunsuz bir şekilde yapması zorunlu hale gelmiştir.<br />
+Bu değişim, tüm artılarına rağmen Genel Başkan Sayın Kılıçdaroğlu’ nun, yerini bu toplumu yeniden heyecanlandıracak ve umutlandıracak genç bir isime bırakması ile gerçekleştirilmelidir.<br />
+Bu isim, rahmetli Bülent Ecevit’in yarattığı Karaoğlan efsanesini ve komşumuz Yunanistan’ın en kötü döneminde başına geçerek bir an da Yunan Halkı’nı ayağa kaldıran bir Aleksis Çipras benzeri bir model olmalıdır.<br />
+Bu isim kesinlikle dışarıdan değil, partinin üst kademelerinde yer alarak deneyim kazanmış ama üstünü çizerek söylüyorum bugüne kadar böyle bir göreve hiç talip olmamış ve toplumda yukarıda yazdığım özellikleriyle kabul gören yeni bir isim olmalıdır.<br />
+Böyle birkaç isim CHP içerisinde vardır ve CHP bu sorunu çözecek birikim ve deneyime sahiptir.<br />
+İnanıyorum ki, Sayın Kılıçdaroğlu’ da bu değişim gerçeğini görecektir.<br />
+SON SÖZ;<br />
+Paylaştığım çok sayıda kişinin de ortak görüşü olarak belirtmek isterim ki, CHP önümüzde ki Yerel, Genel ve Cumhurbaşkanlığı Seçimlerine yukarıda belirttiğim özelliklere sahip yeni bir liderle girmelidir, girmeye de mecburdur.<br />
+Çünkü önümüzde ki üç seçim sadece CHP’ nin değil, bu ülke de ki yönetim biçiminden yakınan diğer %50’lik kesiminde son şansıdır.<br />
+Bu yazımın çok sayıda CHP’liyi üzeceğini, hatta kızdıracağını biliyorum ama ne yazık ki gerçek bu.<br />
+Askerimizin Güney sınırlarımızın ötesinde sürdürdüğü harekâtın başarı ile sonlanmasını ve bu ülke için yaşamlarının baharında canlarını veren şehitlerimize rahmet, ailelerine sabırların en büyüğünü, yaralanan gazilerimize de acil şifalar diliyorum. 18.02.018<br />
+Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0902-cirkinlesen-siyasetin-yozlastirdigi-demokratik-ortamda-chp-nin-direnisi.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0904-mhp-nin-acmazi-ve-devlet-bahceli-nin.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

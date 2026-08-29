@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Çelişkili Söylemler ve Yandaşlık Demokrasimizi Aşındırıyor.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Çelişkili Söylemler ve Yandaşlık Demokrasimizi Aşındırıyor.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2013
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0647
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>ÇELİŞKİLİ SÖYLEMLER VE YANDAŞLIK<br />
+DEMOKRASİMİZİ AŞINDIRIYOR.</p>
+<p>Tek parti olarak on yılı aşkın süredir iktidarda olan AKP’de ki tek adama dayalı yönetim anlayışı gittikçe katılaşan bir sürece girmiş bulunuyor.<br />
+AKP’nin üst yönetimine her geçen biraz daha uzlaşıdan uzak ve dayatmacı bir yönetim anlayışı hâkim olurken, çelişkili söylemler de demokrasi anlayışına zarar vermeye başladı.<br />
+Tek adamların belirleyici olduğu ortamların her türlü hataya zemin hazırlaması kaçınılmazdır.<br />
+Demokrasimiz adına üzücü olan, AKP içerisinde tek karar vericiye bağlı doğabilecek hatalarda devreye girebilecek 2. ve 3. adamların olmaması veya suskun kalmayı tercih etmeleridir.<br />
+Demokrasiler her türlü kararı tek kişinin verdiği bir yönetim biçimi değildir. Böyle bir uygulamaya seyirci kalan siyasetçilerin de demokratik rejimlerde yeri olamaz.<br />
+“Daha çok özgürlük ve daha çok demokrasi” iddiası ile iktidar da olan AKP’nin, bu söylemlerinin başörtüsüne sağlanan özgürlükle sınırlı kalması da, demokrasimizin ilerlemesi adına umut kırıcıdır.<br />
+Özellikle de yargının bağımsızlığını iyice yitirdiği ülkemizde, bu yönetim anlayışı ciddi çelişkilerin artmasına neden oluyor.<br />
+Son kırk beş gün içerisinde yaşanan GEZİ PARKI eylemleri karşısında Sayın Başbakan’ın gösterdiği son derece sert tepkiler ve olaylara yaklaşım farklılıkları, toplumun bir bölümünde ki umutsuzluğu artırıyor.<br />
+“Toplumun diğer % 50’sini zor tutuyorum” şeklinde ki bir başbakanın söylememesi gereken sözler sonrası korkulan olmuş ve kendilerine görev çıkartan birileri sokaklarda ellerinde sopalarla göstericilere saldırmıştır. Bir başka densiz silah kullanırken, bir diğeri de elindeki palayla gençlere saldırmıştır.<br />
+Hiçbir MOBESE kaydı ile henüz nasıl olduğu kanıtlanamayan başörtülü bir kadına yapılan insanlık dışı saldırıyı, Sayın Başbakan hemen her gün gündeme taşıyıp kınarken, bu olaylarda dövülerek veya polis silahı ile öldürülen gençlerin ailelerine bir başsağlığı dahi dilememiş olması, toplumsal ayrışmaya zemin hazırlamaktadır.<br />
+Camide içki içildiği, camiye ayakkabılarla girildiği yönünde ki sözler, toplumun en azından bir kısmını galeyana getirecek sözler değil midir?<br />
+Toplumsal tepkileri anlamak ve toplumun beklentilerine olumlu yaklaşmak yerine, Gezi Parkı eylemcilerinin bazılarını sabaha karşı evlerinden toplayıp gözaltına almanın, evlerinde tencere çalarak tepkilere katılan insanları dahi acımasızca suçlamanın, normal demokrasilerde yeri olabilir mi?<br />
+Hoşgörünün bolca yaşanması gereken Ramazan ayındaki iftar yemekleri dahi, siyasi söylemler için fırsat olarak değerlendirilmekte ve toplumu ayrıştıracak üslupla gözdağı verilmektedir.<br />
+Sayın Başbakan’ın Cuma günü Bingöl’de ki bir iftarda Gezi Parkı direnişini kastederek söylediği, “Şiddete şiddetle karşılık verilecektir, üniversitelere de devletin polisleri yerleştirilecektir” Şeklinde ki sözlerin toplumsal barışa ve de demokrasimize ne yararı olacaktır?<br />
+Bu tavır ve söylenenler toplumu yatıştırmaya değil, daha da gerginliğe itecek bir üsluptur.<br />
+Gençliğin çok daha etkin olabileceği ve çok daha büyük gösterilerin yapılabileceği üniversiteler şu anda tatildedir.<br />
+Gençlerin toplu hareket edebileceği bir başka alan olan futbol maçlarında da sezon kapanmıştır.<br />
+Bir ay kadar sonra maçlar başlayacak ve iki ay sonra da üniversiteler açılacaktır.<br />
+Bu ara iyi değerlendirilmeli ve özgürlüklerinin kısıtlanmamasını ve yaşam biçimlerine dokunulmamasını isteyen gençlerin beklentilerine doğru teşhisler konularak onlara güvence verilmelidir.<br />
+Son konuşmasında, “Bu gençlerin neyi eksik? Daha ne istiyorlar?” sözleri ile Gezi Parkı Eylemlerini doğru algılamadığı veya böyle algılamak istemediği anlaşılan Sayın Başbakan’ın bu sertleşme tavrı sürerse, korkarım gerginlik artarak sürecek ve iyi kötü işleyen demokrasimiz bu kez de sivillerin eliyle yaralanacaktır.<br />
+Yeni Anayasa’nın yapılması konusunda ki dayatmacılığı sürdüren ve gerekirse mecliste ki sayısal gücünü kullanarak uzlaşma sağlanmadan çıkartmayı düşünen,<br />
+Karşıt düşüncelerini söyleyen (TMMOB başta olmak üzere) sivil toplum kuruluşlarının yetkilerini, yine meclisteki sayısal gücünü kullanarak gece yarısı yapılan yasal düzenlemeler ile kısıtlayan,<br />
+AKP İktidarı büyük bir yanlışa koşmaktadır.<br />
+Eli sopalı ve palalı sokak eşkıyaları serbest bırakılıp yurt dışına kaçmasına göz yumulurken, demokratik haklarını kullanan Taksim Gezi Platformu üyeleri suç örgütü kurma suçlaması ile gözaltına alınıp bazıları tutuklanırsa, toplumsal barış nasıl sağlanacaktır?<br />
+Toplum yapılan bu ayrımcılığa nasıl sessiz kalacaktır?<br />
+Bu sertleşme süreci ve toplumsal tepkiler artarak sürerse, bugüne kadar olanlara sessiz kalan başta Sayın Cumhurbaşkanı olmak üzere, iktidarın bakan ve milletvekilleri de gelişecek olası olumsuzlukların sorumluluğuna ortak olacaklardır.<br />
+Çevremizi kasıp kavuran olayları ve dökülen kardeşkanlarını görerek, başta bizleri yöneten iktidar ve muhalefetin siyasetçileri olmak üzere herkes, üzerine düşen sorumluluğu üstlenmeli ve aklı-selimle hareket etmelidir.<br />
+Umuyorum, Ramazan ayının doyasıya yaşanması gereken hoşgörü öğretileri, toplumumuza en doğru yolu gösterir.<br />
+Güzel ve huzurlu bir hafta dileğiyle..14. 07. 2013</p>
+<p>Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0646-bakkalliga-ozenen-super-marketler-cokertilen-samsun-esnafi-ve-seyreden-meslek-odalari.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0648-milletvekillerimiz-ve-sayin-belediye-baskanlarimiz-lutfen-bu-sesi-duyunuz.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

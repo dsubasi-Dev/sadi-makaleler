@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Hiçbir Devlet Asli Görevlerini Devredemez.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Hiçbir Devlet Asli Görevlerini Devredemez.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2016
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0834
+
+</div>
+
+
+<div class="article-content">
+
+<p>e-posta; denizeczaneoptik. com                            SUNUŞ</p>
+<p>BİR DEVLET, ÇOCUKLARININ EĞİTİM VE BARINMA SORUMLULUĞUNU BAŞKA GÜÇLERE DEVRETMEZ..</p>
+<p>Devlet, çağdaş toplumlar da her bireyinin en üst düzey yaşam koşullarında güven ve huzur içerisinde yaşamasını sağlamaktan sorumlu en üst iradeyi temsil eder.<br />
+Çağdaş ülkelerde Devlet, bu işlevini belirlenmiş kurallara (Anayasa) bağlı olarak eşitlik ilkeleri içerisinde yerine getirir.<br />
+Yine kendisini çağdaş olarak tanımlayan devletlerde, toplumu yönetme görevini üstlenen siyasi iradelerin en başta gelen görevi, toplumun eğitim seviyesini yükseltmektir.<br />
+Eğitim konusunun önemine değinirken, Türkiye Cumhuriyeti’nin kuruluş aşamasında dahi, eğitime ne kadar önem verdiğinin altını çizmek gerekir.<br />
+Bilindiği gibi 1. Dünya Savaşından yenik çıkarak tüm topraklarını kaybeden Osmanlı’nın elinde kalan son vatan toprağı Anadolu’da sömürgeci güçler tarafından işgal edilmiştir.<br />
+Mustafa Kemal, Anadolu halkını arkasına alarak başlattığı Kurtuluş Savaşını kazanarak bağımsız bir Türk Devleti kuracaklarına öylesine inanmaktadır ki, bir gün cephede birlikte mücadele ettiği dava arkadaşlarını toplar ve onlara, “Bu savaşı zaferle noktaladıktan sonra Ankara’ya döndüğümüzde ilk işimiz, bir Eğitim Şurası toplamak olmalıdır” Talimatını verir.<br />
+İşte bu anlayış doğrultusunda eğitime çok önem verilmesi ile Türkiye Cumhuriyeti’nin kurulduğu ilk yıllarda % 2’lerde olan okuryazar seviyesi, yapılan devrimler sonrası 1927 de % 11’e, 1945 yılına gelindiğinde ise,% 35’e çıkmıştır. Bugün ise bu oran, % 90’nın üzerindedir.<br />
+Genç Türkiye Cumhuriyeti’n de, o dönemler de geliştirilen “Köy Enstitüleri Eğitim Modeli” ile köy çocukları çok yönlü öğretmenler olarak yetiştirilmiş ve kendi köylerinde görevlendirilmişlerdir.<br />
+Bu eğitim modeli ile yetişen öğretmenler sayesinde köy çocuklarımız eğitilirken, diğer yandan da onların modern tarım, el becerileri, sanat ve müzik alanlarında donanımlı birey olmaları sağlanıyordu.<br />
+Çiçeği burnunda ki Türkiye Cumhuriyeti Devleti, yoksulluğun diz boyu olduğu, toplu iğnenin dahi yapılamadığı bu toplumu bir yandan hızla eğitirken, diğer yandan da kurduğu sanayi kuruluşları ile büyük bir kalkınma hamlesini gerçekleştiriyordu.<br />
+Bu Devlet, Osmanlı’dan kalan dış borçları da üstlenerek ödemeyi başarıyordu.</p>
+<p>İşte böylesine zor bir süreçten başarı ile geçen Türkiye Cumhuriyeti Devleti, çok daha donanımlı ve o günlere göre ekonomik yönden çok daha güçlü olduğu günümüzde, çocuklarını kendi köylerinde eğitemez ve onları köylerinden uzaklarda ki okullara gitmek zorunda bırakan bir Devlet durumuna düşürülmüştür.<br />
+Üzülerek söylemek gerekirse asıl sorun, 1950 sonrası tüm Müslümanların ortak paydası olan dinimizin, iktidar olabilmenin en etkin aracı haline getiren siyaset anlayışının, adeta kurumsallaşmasıdır.<br />
+Bu yanlış siyaset anlayışının koruması altında giderek yaygınlaşan tarikatlar, çeşitli isimler altında geleceğimiz olan küçük yaşta ki çocuklarımızı amaçları doğrultusunda yönlendirmeye başlamıştır.<br />
+Özellikle okulları kapatılmış köylerde ki yoksul anne- babaların çocuklarını eğitebilme çabası ve çaresizlikleri, bu insanları tarikatlara ait yurtlara mahkûm etmiştir.<br />
+Bu yurtlarda küçük yaşta ki çocuklara barınma olanağı yanında dini eğitim de veriliyor olması, yukarıda belirttiğim din-siyaset ilişkisi nedeniyle bu yurtların yeterince denetlenemediği tartışmalarını gündeme taşımıştır.<br />
+Ne yazık ki, geçtiğimiz hafta bir kez daha köyleri dışında eğitim yapmak zorun da bırakılan ilk ve ortaokul çağında ki küçücük çocuklarımız, barınmak zorunda bırakıldıkları Adana’nın Aladağ ilçesinde ki bir tarikat yurdunda cayır cayır yanmıştır.<br />
+Birisi eğitmen olmak üzere onbir çocuğumuz, daha çocukluklarını dahi yaşayamadan can verirken, 22 çocuğumuz da ya camdan atlayarak, ya da yanarak hastanelik olmuştur.<br />
+Bu ne ilk faciaydı, ne de bu yanlış eğitim ve konaklama uygulamaları sürdüğü sürece son olacaktır.<br />
+Son yıllarda yanlışlarına göz yumulan ve yeterince denetlenmeyen çeşitli tarikatlara ait olduğu anlaşılan bu yurtlarda yaşanan yangın, yıkılma, patlama ve zehirlenme vakalarında kaybettiğimiz çocuklarımızın vebalini kim ve nasıl ödeyecektir?<br />
+Son yıllarda bu tür yurtlarda ortaya çıkan taciz ve tecavüz olaylarını örtbas etmek veya üzerine gitmemek, bu çocuklarımıza, ailelerine ve de, bu yanlışların din şemsiyesi altında işlenmesi nedeniyle, dinimize yapılan en büyük haksızlık olacaktır.<br />
+Hiçbir Devlet anlayışı, bu yanlışlara göz yumamaz.<br />
+Bu nedenle, Devleti temsil eden siyasi irade hiçbir siyasi ayırım yapmadan bu konuya cesaretle yaklaşmalı ve gerekli düzenlemeleri yapmalıdır.<br />
+Bu ülke de kendisini Müslüman olarak kabul eden herkesin ortak inancı ve dini olan İslam’ı, sadece bir kesimin tekelinde gösterip karşı siyasi görüştekileri İslam karşıtı gibi algılayan siyasi anlayış terk edilmeden, bu ülkeyi kamplara ayrıştıran tartışmalar son bulmayacaktır.<br />
+Bunların yapılamadığı günümüzde, en azından şu soruların cevabı verilmeli ve bu yanlışlardan vaz geçilmelidir. Bu, Türkiye Cumhuriyeti Devleti’nin bir an önce yerine getirmek zorunda olduğu asli görevidir.<br />
+Öğrenci Yurtlarına verilen ruhsatlar sadece konaklama amaçlı değil midir?<br />
+Bu yurtlarda din veya bir başka eğitim verilmesi yasal mıdır?<br />
+Bu öğrenci yurtlarına yetişkinlerin girip çıkması veya orada toplantılar yapması yasal mıdır?<br />
+İlkokul ve ortaokul çocuklarının barındığı bu yurtlara dışarıdan yetişkinlerin de gelip toplu ibadet edebilmesi yasal mıdır? (Örneğin çevresinde yeterince cami bulunan kent merkezinde ki bu tür bir yurda yetişkinlerin namaz kılmak için girebilmesi gibi)<br />
+SON SÖZ…<br />
+Devletimiz hiç zaman geçirmeden, bu ülkenin insanlarının ve özellikle de çocuklarımızın gerçek anlamda İslam Dinini en doğru şekilde öğrenmesini sağlamalıdır.<br />
+Din eğitimi, tarikatların görev alanı olmaktan çıkartılmalıdır.<br />
+Bu tür hoşgörülerin sonucunda palazlanan FETÖ adıyla anılan bir tarikatın ülkemizi ele geçirmeye yönelik darbe girişiminin üzerinden henüz altı dahi geçmedi. Hiç kimse bu gerçeği görmezden gelemez.<br />
+Din eğitimi, devlet okullarında yapılmalı ve daha önceki bir yazımda da belirttiğim gibi bu eğitimin verilmesini isteyen velilerin çocuklarına okullarda orta ve lise eğitim sürecine yayılarak verilmeli, en önemlisi de Kur’an’ın içeriğinin kendi lisanımızdan öğretilmesi sağlanmalıdır.<br />
+Ülkemizi yöneten siyasi iradelerin yıllardır süren bu yanlışlara bir an önce son vererek, ülkemizi huzur ortamına taşıması dileğiyle, iyi haftalar.<br />
+06.12.2016<br />
+Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0832-anket-firmalari-guvenilirligini-kaybetmistir.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0837-samsun-unutmaya-devam.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

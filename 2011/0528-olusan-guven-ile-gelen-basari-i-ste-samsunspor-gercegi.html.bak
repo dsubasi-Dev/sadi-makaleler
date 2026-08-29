@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Oluşan Güven ile Gelen Başarı. İşte Samsunspor Gerçeği.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Oluşan Güven ile Gelen Başarı. İşte Samsunspor Gerçeği.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2011
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0528
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>OLUŞAN GÜVEN İLE GELEN BAŞARI.<br />
+İŞTE! SAMSUNSPOR GERÇEĞİ.</p>
+<p>Samsunspor’un beş yıllık zorunlu Bank Asya gezintisi sona ermiş gibi gözüküyor. Tüm Samsunsporlular olarak umut dolu, çok güzel günler yaşıyoruz.<br />
+Bütün kent buna inandı ve Samsun’u kırmızı-beyaz Samsunspor Bayrakları ile donatmayı sürdürüyor.<br />
+Samsunluların bu günleri ne kadar özlediği, tüm Türkiye’nin hayranlıkla izlediği taraftarların tribün gösterilerinden başlayarak kentin tüm kesimlerinde izleniyor.<br />
+Yaklaşan bu mutlu sonu, başta cefakâr taraftarlarımız olmak üzere futbolcularımız, teknik heyetimiz ve bu başarıda imzası olan yönetim kurulu ile tüm Samsun sevdalıları sonuna kadar hak etti.<br />
+Bugün oynayacağımız Erciyes maçını da kazanarak, şampiyonluğu erken kutlayacağımıza inanıyorum.<br />
+Ne var ki, bu başarı hiç de kolay sağlanmadı. Şimdi Samsunspor Camiasının içinden birisi olarak bu başarının perde arkasını sizlerle paylaşmak istiyorum.<br />
+Bence bu başarının arkasında yatan en büyük etken, başlıkta da vurguladığım gibi, her alanda sağlanan BÜYÜK GÜVEN DUYGUSUDUR.<br />
+Şöyle geride kalan beş yıllık süreci hatırlarsak, nereden nereye geldiğimizi çok daha iyi algılarız diye düşünüyorum.<br />
+Samsunspor taraftarlarının efsane Başkanı İsmail Uyanık’ın bir takım çevreler tarafından desteksiz bırakılarak istifaya mecbur kılınması ile başlayan süreç sonrası yaşananlar, güven ortamını da yerle bir etmişti.<br />
+Aslında İsmail Uyanık’ın bir dönem ara verdikten sonra yeniden görev aldığı son döneminde başlayan yanlışlar ve düşen başarı grafiği, Samsunspor’da kötü günlerin yaşanacağının habercisiydi.<br />
+Öyle de oldu. İsmail Uyanık’ın bırakması ile kulübe başkan dahi bulmakta zorlanılan bir dönem başladı.<br />
+İşte bu dönemde, hala nedeni tam bulamadığım bir şekilde spora siyaset karışmış ve siyasi iradenin destek sözü ve icazeti ile görev alan yönetimler dönemi başlamıştı.<br />
+Spor camiasının dışından bazı isimlerin ve siyasetin içersinde aktif rol alanların da yer aldığı yönetim başarılı olamamış ve Samsunspor o yıl bir alt lige düşmüştü.<br />
+Sporun içinden gelmeyenlerin yaptıkları hatalar ile dostumuz olan bazı kulüplerle de ilişkiler bozulmuştu. Buna birde bazı hakemlerin hata sınırlarını aşan yönetimleri eklenince Samsunspor o yıl düşmedi, adeta düşürüldü.<br />
+Düştüğü Bank Asya ligine bir türlü adapte olamayan Samsunspor’da ertelenen Genel Kurullar ve rica minnet greve getirilen başkanlar dönemi başladı. Hemen her sezon bu ligden de düşme tehlikesini yaşandı.<br />
+İşte tüm bunlar, Samsunspor camiasında büyük bir güven sorunu yarattı.<br />
+Samsunspor’a olan güven duygusunun yerle bir olduğu bu süreci analiz edince, şunları görürüz;<br />
+İsmail Uyanık dönemlerinde sportif yöneticilik alanında gösterilen başarı, ne yazık ki kulübün mali yönetiminde gösterilememiştir.<br />
+Nitekim o görevdeyken konuşmayanlar, sonraki genel kurullarda bazı iddiaları gündeme taşımış ve fısıltı haberleri pompalanmaya başlamıştır.<br />
+İsmail Uyanık döneminde kent yönetimlerince verilmeyen destek,    İsmail Uyanık sonrası dönem yönetimlerine verilmiş, mali kaynakta sağlanmıştır. Ancak,<br />
+Transferler menajerlere havale edilmiştir.<br />
+Aynı sezonda onlarca futbolcu alınmış ama hemen hepsi ya gönderilmiş veya kaçarak gitmiştir.<br />
+Bu futbolculara olan borçlar ödenmediği için Samsunspor’un Futbol Federasyonu’nda ki transfer tabelasının kapatılması alışkanlık haline gelmiştir.<br />
+“Kayyum” dahi önerilir ve konuşulur hale gelmiştir.<br />
+Kulübe aktarılan önemli kaynaklar iyi kullanılamamış, borçlar azaltılamamıştır.<br />
+Yaşanan şanssız bazı olaylar da eklenince, Samsunspor’a olan güven duygusu ciddi oranda yara almıştır.<br />
+Bu da Samsunspor’a kent yönetimlerinin zaten sınırlı olan desteğini yok etmiştir.<br />
+Bu kötü gidiş, her defasında kapısı çalınan işadamlarını da bıktırmış, Valilerin düzenlediği destek kampanyaları fiyasko ile sonuçlanmıştır.<br />
+İktidar Milletvekili Sayın Suat Kılıç’ın başlattığı “Bin altın” kampanyasına, kendi partisinin diğer milletvekilleri dahi destek vermemiştir.<br />
+Taraftar grupları ve basın ile ilişkiler bozulmuştur.<br />
+Kısacası, zorlanarak göreve getirilen yönetimler de başarılı olamamıştır.<br />
+İşte bu umutsuzluk ve güven duygusunun kalmadığı günler bugün geride kalmışsa, bu başarıyı sağlayanları avuçlarımız patlayana kadar alkışlamamız gerekir.<br />
+Bana göre, kötüye gidişin durdurulmasının ve bu günlere gelmemizin temelleri Sayın Fuat Köktaş’ın Başkanlık döneminde atılmıştır. Çünkü ilk kez bir başkan, yaşanan sıkıntıları ve nedenlerini Genel Kurul’da söyleme cesaretini göstermiş, borçların iyi bir yönetimle aşılabileceğinin işaretini vermiş ve azalan umutları tazelemiştir.<br />
+Bu umut, güven duygusunu da beraber getirmiştir.<br />
+Bu sürecin sonunda, önceki yıl göreve gelen Sayın Erkut Tutu ve yanında yer alan yönetim kurulu üyeleri tutarlı bir yönetim anlayışı gösterdi.<br />
+Her kesim ile kurdukları sıcak iletişimle, kaynak yaratma başarısını gösterdiler. Verilen paraların iyi kullanılamadığı yönünde ki olumsuz izlenimi giderdiler.<br />
+Menajerlere bırakılmayan transfer politikası ile doğru oyuncular alınmış ve Samsunspor’u düşmemeye oynayan değil, hedefinde Süper Lige olan bir takım haline getirmişlerdir.<br />
+Sayın TUTU Yönetimi, bu uygulamalarıyla borçları artırmadığı gibi azaltmayı da başarmıştır. Zaten güven ortamını sağlayan ve sportif başarıyı getiren de bu olmuştur.<br />
+Yönetimsel anlamda ki başarıda en büyük pay, Başkan Sayın Erkut Tutu’nundur. O’nun yarattığı enerji ile yönetim kurulu da bu başarıya imza atmıştır.<br />
+Sayın Tutu Yönetimi herkesle ilişki kurma ve her kesimden destek alabilme becerisi yanında, geçmişte siyasi irade ile başarılı olmayan ilişkileri başarıya dönüştürmüşlerdir. Siyasetçilerin, Samsunspor’a reklamsız ve gösterişsiz desteğini sağlamışlardır.<br />
+O nedenle, Bakan Sayın Mustafa Demir ile Sayın Suat Kılıç’ın kaynak yaratmada ki özel çabası da, takdiri hak etmiştir.<br />
+Bu başarıya,<br />
+Sınırlı da olsa destek veren kent yöneticilerimize,<br />
+Sıkıntılı dönemlerde kulübün kapısına kilit vurulmasını önlemek için başkanlık görevini üstlenme cesaret ve özverisini gösteren Sayın Hakkı Tomaç ve arkadaşlarına da bir Samsunlu olarak teşekkür ediyorum.<br />
+Bu kadar övgünün yanında eleştirilecek bir şey yok mu? Tabii ki var ama bugün zamanı değil. Bugün bu mutluluğun tadını çıkartma zamanı.<br />
+Artık yeni hedefimiz Süper Lig’de de geçmişteki başarıyı yakalamak olmalıdır.<br />
+Gördüğünüz gibi, ben kendi adıma Bank Asya’da ki maceramızın bittiğine inanıyorum. Bu inancıma tüm Samsun sevdalılarının da katıldığına eminim.<br />
+Emeği geçen herkesi ayakta alkışlıyorum. Samsunumuza ve Samsunsporumuza hayırlı olsun.<br />
+Samsunsporumuza Erciyes maçında başarılar diliyorum.<br />
+İyi haftalar.. 16 Nisan 2011</p>
+<p>SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0527-1970-sonrasinin-kusagi-cocuk-dahi-olamadi.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0529-samsun-da-samsunlu-olmak-i-stanbul-da-i-stanbullu-olmak-demektir.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

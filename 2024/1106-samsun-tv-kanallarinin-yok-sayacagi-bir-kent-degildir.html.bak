@@ -1,0 +1,337 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Samsun TV Kanallarının Yok Sayacağı Bir Kent Değildir.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Samsun TV Kanallarının Yok Sayacağı Bir Kent Değildir.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2024
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+1106
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>SAMSUN TV KANALLARININ YOK SAYACAĞI<br />
+BİR KENT DEĞİLDİR.</p>
+<p>Bazı TV kanallarının, Samsun’un büyüklüğü ile örtüşmeyen yayın politikası izlediğini tespit ettiğimiz için, benim de içinde olduğum “Samsun ve Samsunspor Dostları Gurubumuz” tarafından bu kanallar bir yazı ile uyarılmıştır.<br />
+Konunun içeriğine girmeden kısaca gurubumuzdan söz etmek istiyorum.<br />
+2018 yılında İsmail Uyanık ve iş insanı Sayın Yüksel Yıldırım Samsunspor’u şirketleştirmek üzere görev aldıklarında, Şirketleşme sırasında Samsunspor’un haklarının zarar görmemesi amacıyla benim başkanlığımda oluşturulan Danışma Kurulu, görevini başarı ile tamamladıktan sonra yapılan Samsunspor Genel Kurulunda da Divan Kurulu olarak görev almıştı.<br />
+Bu Divan Kurulu, mesleklerinde ve işlerinde çok başarılı olmuş insanlardan oluşuyordu.<br />
+Sonraki yıllarda görevi bırakan Divan Kurulumuzu oluşturan arkadaşlar, bu kurul ile oluşan dostluğun ayda bir kez toplanarak sürdürülmesi kararını almıştı.<br />
+O günden bu yana da “Samsun ve Samsunspor Dostları Gurubu” Adıyla bir araya gelerek, başta Samsun ve Samsunspor olmak üzere çeşitli konularda sohbet eden bir gurubuz.<br />
+İşte bu gurubun bu ay başında yaptığı toplantıda, bir arkadaşımızın uyarısı ile başlıktaki konu gündemimize geldi.<br />
+Arkadaşımızın dikkati sayesinde takip edince bizlerde gördük ki, birçok TV kanalı sundukları hava raporlarında Samsun’u yok sayıyordu.<br />
+Bu kanalların Samsun’un adını hiç yazmadıklarını veya Karadeniz Bölgesini verirken büyük harflerle bir başka kentin adını başlık olarak veriyor, Samsun’un adı ya hiç yazılmıyor veya alt panelde küçük harflerle yer alıyordu.<br />
+Oysa Samsun sadece nüfus olarak değil, ekonomik ve sosyal yaşam düzeyi açısından da Karadeniz Bölgesi’nin en donanımlı kentidir.<br />
+Hepsi bir yana, Samsun Laik ve Çağdaş Hukuk temelinde Türkiye Cumhuriyeti’nin kuruluşunun yolunu açan, Ulusal Kurtuluş Savaşının ilk adımının atıldığı ONDOKUZMAYIS KENTİ olarak da, çok önemli tarihi özelliğe sahiptir.<br />
+Samsun’a yapılan bu haksız yayınlar nedeniyle ekte yer vereceğim yazı, bu TV kanallarına gönderildi.<br />
+Bu yazımıza rağmen, TV Kanallarının hemen hepsinin ısrarla bu yanlış uygulamayı devam ettirmesi nedeniyle, bu köşe yazımla konuyu Samsun kamuoyunun bilgisine sunmak istedim.<br />
+Umuyorum Samsun kamuoyu bu konuya ilgi duyacaktır.<br />
+Hiç kimse bu konuyu, “Ne var bunda? Küçük yazılmış veya hiç yazılmamış ne olacak” Şeklinde görmemelidir.<br />
+Samsun ne yazık ki, kent olarak uğradığı çok daha önemli haksızlıklara zamanında tepki koyamadığı ve gerekli lobiyi oluşturamadığı için birçok kurumun Samsun’dan kopartılmasına seyirci kalmıştır.<br />
+Yine, tüm Karadeniz Bölgesi’nde sadece Samsun’un “Teşvik Yasası” kapsamı dışında bırakılmasına da suskun kalınmıştı.<br />
+Samsun’a karşı yürütülen bu uygulamalar artık yol olmaya başladığını gördüğümüz için bu uyarıyı yapmak zorunda kaldığımızın altını çiziyorum.<br />
+Bazı TV Kanallarına gönderdiğimiz yazımızı da ekte değerlendirmenize sunuyorum.<br />
+Samsun adına bu sorunun çözüleceği umuduyla, güzel bir hafta diliyorum.<br />
+22.12.2024<br />
+Ecz. SADİ SUBAŞI<br />
+e- http://www. hedefhalk. com</p>
+<p>SAYIN ……… TV GENEL YAYIN YÖNETMENİ,<br />
+09.12.2024 tarihinde aşağıdaki yazımızı Samsunlular adına size göndererek bu konudaki yanlışın düzeltileceği umudunu taşıdığımızı iletmiştik.<br />
+Ertesi sabah hava raporunuzda bunun düzeltildiğini gördük.<br />
+Ancak daha sonra yine bölgemizin gerek nüfus ve ekonomik açıdan en büyük, gerekse en donanımlı sosyal yaşama sahip kenti olan Samsun’un hangi nedenle dışlanmaya çalışıldığını anlayamıyor ve bu konuda tarafımıza bir açıklama yapılarak bu yanlışın düzeltilmemesi halinde, bu konu tüm Samsun kamuoyuyla paylaşılarak, gereken tepki daha geniş bir alanda sürdürülecektir.<br />
+Bu konuda gereken düzenlemenin yapılacağı umudumuzu koruyarak saygılarımızı sunuyoruz.<br />
+16.12.2024<br />
+Samsun ve Samsunspor Dostları Gurubu adına<br />
+Ecz. SADİ SUBAŞI</p>
+<p>SAYIN ……… TV GENEL YAYIN YÖNETMENİ<br />
+Aşağıda isimleri ve onayları olan bizler, TV Kanallarınızı seyreden onbinlerce Samsunlu adına Samsunluları üzen bir konuyu size iletmek istiyoruz.<br />
+Samsun Karadeniz Bölgesi’nin sadece nüfus ve ekonomik yönden değil, sosyal yaşam bakımından da en büyük ve en donanımlı kentidir.<br />
+Bunlardan daha da önemlisi Samsun, bugün özgürce yaşadığımız Türkiye Cumhuriyeti’nin kuruluşunu sağlayan Ulusal Kurtuluş Savaşı’nın ilk adımının atıldığı Ondokuzmayıs kentidir.<br />
+Sadece bu özellikleri ile dahi, Karadeniz Bölgesinden bir şekilde söz edilirken adı ilk anılacak kent, Samsun olmalıdır.<br />
+Buna rağmen, TV Kanalınızın hava raporlarında Samsun adının yok sayılmasını ve Süper Lig’de bu yıl büyük bir başarı gösteren Samsunspor’un maç sonuçlarının alt yazılarda dahi gösterilmemesini, büyük bir haksızlık olarak görüyor ve kabul edemiyoruz.<br />
+Bu hataların düzeltileceği umuduyla, saygılarımızı sunuyoruz.</p>
+<p>09.12.2024</p>
+<p>Ecz. Sadi SUBAŞI,               Ahmet HAYVALI,   Prof. Dr. Ferit BERNAY   SAM-SEV Vakfı Onursal Bşk. MMMO Onursal Bşk. 19 Mayıs Ün. Eski rektörü</p>
+<p>Cevat ÖNCÜ                      Seyit ESEN            Prof. Dr. Şaban SARIKAYA<br />
+İnşaat Mühendisi                       İş İnsanı                 19 Mayıs Ün. Öğr. Üyesi</p>
+<p>Cengiz UZDİL                   İsmail UYANIK        Ecz. Onur F. KARACAN<br />
+İş İnsanı                         Samsunspor Eski Bşk.   Samsun Eczacı Odası Bşk.</p>
+<p>Av. S. Serkan GÜLER.          Mehmet ATALAY             Özlem ZEREN<br />
+Avukat                 Azot San. Em. Genel Müdürü           İş İnsanı</p>
+<p>Fikret KOÇ                                Hasan GUDA<br />
+SMMM-Bağımsız denetçi                         İş İnsanı</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="1105-sayin-genel-baskanim.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="1107-bu-tahriklere-artik-dur-denilmelidir.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

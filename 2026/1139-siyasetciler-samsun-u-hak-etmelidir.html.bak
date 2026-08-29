@@ -1,0 +1,314 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Siyasetçiler Samsun&#x27;u Hak Etmelidir.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Siyasetçiler Samsun&#x27;u Hak Etmelidir.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2026
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+1139
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>SAMSUN SİYASETÇİLERİ BU KENTİ HAK ETMELİDİR.</p>
+<p>Son günlerde sıkça duyulan sözlerin başında, “Samsun şanssız bir kent” veya “Samsun Sahipsiz Bir Kent” söylemleri geliyor.</p>
+<p>Aslında bu sözler bugün yeniden kullanılıyor olsa da “Samsun’un Sahipsiz Bir Kent” olduğunu Samsun gündemine ilk kez getiren SAM-SEV’İ kurduğumuz 1988 yılında Başkan olarak bendim. SAM-SEV’i kurmamızın bir amacının da bu olduğunu her platformda vurgulamıştım.</p>
+<p>Ne yazık ki, bu sözler bu kent adına görev yapmak üzere seçilmiş hiçbir milletvekilini ve belediye başkanını rahatsız etmedi.</p>
+<p>Zaten Samsun’a yapılan haksızlıklarda birkaçı hariç, iktidar milletvekillerimizin ve belediye başkanlarımızın Samsun’a yeterince sahip çıktığını göremedik.</p>
+<p>2004 yılında günlerce,” Samsun Teşvik Yasası” kapsamına alınıyor diye birbiriyle yarışan iktidar milletvekillerimiz, “Yeni Teşvik Yasası” kapsamına giren iller, o dönemin başbakanı tarafından Samsun Ticaret ve Sanayi Odası Salonunda açıklanmıştı.</p>
+<p>O gün salonda bulunan iktidar milletvekilleri ve belediye başkanları, Samsun’un Karadeniz Bölgesinde teşvik kapsamı dışında bırakılan tek il olduğu açıkladığında, bırakın tepki göstermeyi ayakta alkışlamışlardı.</p>
+<p>Bu konu TBMM’de gündeme geldiğinde ise, Samsun’u bizim vekiller yerine yanılmıyorsam Konya ve Kastamonu milletvekilleri savunmuştu.</p>
+<p>Geçtiğimiz günlerde de, Havza’nın uğradığı sel baskını ile perişan oluşu ve yüzlerce işyerinin büyük zarar görmesi nedeniyle, TBMM’ de “Havza’nın Afet Bölgesi İlan Edilmesi” Önergesi de ne yazık ki, Samsun’un iktidar milletvekillerinin de oyları ile reddedildi.</p>
+<p>Şimdi soruyorum? Bu vekillerimiz “Biz Samsun halkının haklarını korumak için seçildik”, Nasıl diyecekler ve Samsunludan nasıl oy isteyecekler?</p>
+<p>Havza Belediye Başkanı Sayın Murat İkiz, Havzalıların oyları ile 2004-2009, 2009-2014, 2014-2019 arasında 15 yıl belediye başkanlığı yaptıktan ve bir dönem aradan verdikten sonra 2024 de dördüncü kez yeniden belediye başkanı seçildi.</p>
+<p>Sayın İkiz’i dördüncü kez seçen Havzalılar, yaşanan sel faciasından ancak üç gün sonra karşılarına çıkabilen Belediye Başkanları Murat İkiz’i, çok ağır sözlerle protesto etmişler.</p>
+<p>Sayın Havzalılar, seçtiğiniz Başkan Havza’yı tam 15 yıl yönetmiş. İlk 15 yılda Havza’ya çağ mı atlattı da 4. kez yeniden seçtiniz?</p>
+<p>Sayın İKİZ’İ protesto etmekte haklı olabilmek için önce ona oy verenler kendisini sorgulamalıdır. Nokta…</p>
+<p>Samsun, son onbeş gündür durup dururken bir tartışmanın içine düşürüldü. Samsun’da yapılan bir kütüphaneye bir önceki belediye başkanının adının verileceğinin söylenmesi ile çok büyük bir tepki oluştu.</p>
+<p>Bu haber duyulduğunda bende tepkimi Face Book sayfamda paylaşmıştım. Bu yazım, köşe yazarı olduğum Hedef Halk Gazetesi’nde ise, “Samsun’a Sormadan Alınan Karar Yanlış Olur” Başlığı ile yer almıştı.</p>
+<p>O yazımda, rahmetli olmuş geçen dönem BŞB Başkanın isminin konması için öne sürülen “Çok emeği geçti” Gerekçesi için de “O, hiçbir zaman Samsunlu olamadı ve emeğinin karşılığını da fazlası ile aldı” demiştim.</p>
+<p>Bu isim konusu sosyal medyaya düşünce, yazılan yorumlar çok ağır ve inciticiydi. Bu tepkiler geri adım attırır diye düşünürken, bugüne kadar akla gelmeyen rahmetli Muzaffer Önder’in adının, bu kararlılığı sonuçlandırmak için alet edilmesini de son derece yanlış buluyorum.</p>
+<p>Nitekim bu karar, Samsun Büyükşehir Belediye Meclisinden de AKP ve MHP’li üyelerin zorlama oyları ile onay almış görünüyor.</p>
+<p>İlk yazımda da Sayın Büyükşehir Belediye Başkanımıza seslenmiş ve küllenmiş tepkileri yeniden gündeme getirmeyin demiştim. Ama “Ben Yaptım Oldu” anlayışı, bir kez daha kazandı.</p>
+<p>Sayın Başkanım Halit Doğan, bu karar da ısrar ederek B. Ş. B Meclisinden geçirmeniz ile birisi sizin adınıza, diğeri de rahmetli eski başkan adına yanlış olmuştur.</p>
+<p>Siz, göreve geldiğiniz günden beri olumlu işlere imza atıyor ve toplum tarafından takdir ediliyorsunuz.</p>
+<p>Hatta çevremde, “Biri mühendis, diğeri mimar olan önceki iki Büyükşehir Belediye Başkanının 25 yılda ulaşımı felç eden yol ve kavşak düzenlemelerini, 2024 de Samsun Büyükşehir Başkanı seçilen bir hukukçu düzeltiyor” Diye size övgüler düzülüyordu.</p>
+<p>Bu kararınızla bir anlamda bu imajınıza zarar verirken, adını vereceğiniz eski başkana olan tepkilerin küllendiği sırada, O’nun adını o binaya yazarak oradan geçen Samsunluların her gün onu bilinen tepkilerle anmasına zemin yaratmış olacaksınız.</p>
+<p>Değer miydi Sayın Başkan?</p>
+<p>Son sözüm bu kent adına görev alan milletvekillerimiz ve belediye başkanlarımıza. Ne olur Samsun ve Samsunlular adına seçildiğinizi unutmayınız. 18.05.2026<br />
+Ecz. Sadi Subaşı</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="1138-turkler-ve-benim-ulkem-bu-yapilanlari-hak-etmiyor-2-bolum.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="1140-butlan-sonrasi-samsunlu-siyasetcilerine-uyari.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Samsun&#x27;un Geleceğini Karartacak Santraller Birbiri Ardına Yapılırken Susan Kent Yönetimi.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Samsun&#x27;un Geleceğini Karartacak Santraller Birbiri Ardına Yapılırken Susan Kent Yönetimi.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2015
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0736
+
+</div>
+
+
+<div class="article-content">
+
+<p>www. sadisubasi@denizeczaneoptik. com              SUNUŞ</p>
+<p>SAMSUN’UN GELECEĞİNİ KARARTACAK SANTRALLER<br />
+VE SUSAN KENT YÖNETİMİ.</p>
+<p>Samsun’un geleceğini karartacak olan enerji üretecek santrallerin Samsun’a konuşturulması hikâyesinin başlangıcı 2000’li yılların başlarına rastlar.<br />
+Üzülerek söylemek gerekirse en büyük yanlış, bu kenti daha güzel günlere götürmek ve kenti geleceğe hazırlamak üzere oy verilmiş olan Büyükşehir Belediye Başkanımız tarafından davet edilen “MOBİL SANTRAL” ile başlamıştır.<br />
+6 numaralı fueloil ile çalıştırılacak olması nedeniyle zehir kusacak olan bu santral, daha önce planlanan illere sokulmamıştı. Başta o kentin belediye başkanları ile milletvekilleri göğüslerini siper etmiş ve bu santrali kentlerine kurdurmamışlardı<br />
+Yer aranan santral, en başta karşı çıkması gereken en önemli kent yöneticimiz tarafından Samsun’a davet ediliyordu. Hem de hiç kimseye duyurulmadan, iş yapım safhasına kadar getiriliyordu.<br />
+Samsun ezeli sorunuyla bir kez daha karşı karşıya kalıyor ve sivil toplum kuruluşları bu yanlışa direnirken kent yöneticileri ve o dönemin iktidar milletvekilleri, sanki bu kent adına seçilmemişler gibi sessizce izliyordu.<br />
+Buna rağmen SAM-SEV ve TMOBB öncülüğünde oluşturulan “Çevre Birlikteliği” Etrafında kenetlenen sivil toplum kuruluşları, bu yanlışa dur demek için büyük bir çaba harcıyordu. Sonun da bu birliktelik içerisinde yer alan Samsun Barosu, imkânsız gözüken bir işi başarıyor ve Danıştay kararı ile bu santralin ruhsatını iptal ettiriyordu.<br />
+Sonrasında olanları bu kentte yaşayan herkes biliyor. O nedenle detaylarına girmeyeceğim ama bu olayı neden gündeme getirdiğimi de hemen söyleyeyim.<br />
+Bir de belirtmek isterim ki, ülkemizin ihtiyacı olan enerji üretimine karşı olmam düşünülemez ama yer seçiminin böylesine yanlış ve sadece yatırımcının çıkarlarına hizmet edecek şekilde belirlenmesini kabul etmem mümkün değil. Zaten itiraz edenlerinde hepsinin karşı çıkış nedeni budur.<br />
+Evet, bu santral o gün için durdurulmuştu ama Samsun’un ezeli bir eksiği de açık seçik ortaya çıkmıştı.<br />
+“SAMSUN SAHİPSİZ BİR KENTTİ.”<br />
+İşte yönetici ve siyasetçilerinin neden olduğu bu “Sahipsiz Kent” Zaafımızı keşfeden çıkar çevreleri, gözünü Samsun’un en bereketli ovalarına dikti.<br />
+Bu arada yeni siyasi iktidar dönemi ile başlayan özelleştirmelerle Tekkeköy ve Çarşamba Ovası’nın en önemli tarım alanları olan Gelemen Üretme Çiftliği gibi yerler, modern tarım yapılacak maskesi altında çıkar çevrelerinin eline geçiyordu.<br />
+Bu önemli tarım alanlarını eline geçirenlerden birisi de, her iktidarın yanında yer almayı becermiş Rizeli bir yatırımcıydı. Bu yatırımcının bir özelliği Mobil Santral belasını Samsun’un başına sarması, değer bir özelliği de geçtiğimiz yıl milletimize dümdüz küfür edebilen birisi olmasıydı.<br />
+Milletine küfür etmekten çekinmeyen birisinin, Samsun’a ve çocuklarımızın geleceği olan ovalarımıza acıması düşünülemezdi. Öyle de oldu.<br />
+Tam da bu sırada Samsun’un bu ovalarının yer aldığı bölgesinin, “Enerji Koridoru” Olarak seçildiği yönünde duyumların gelmesi, tabii ki rastlantı değildi.<br />
+Sonun da korkulan oldu ve Tekkeköy, Çarşamba, Terme üçgeninde çeşit çeşit Termik Santraller oldubittiye getirilerek sıralanmaya başladı.<br />
+Nasıl olsa kent yönetimlerinin ve siyasi iradesinin suskun kalacağının hesaplandığı bir ortamda, sivil toplum kuruluşlarını susturmak kolay olacaktı.<br />
+Üstelik de, 2002 sonrası iktidara gelen siyasi iradenin sivil toplum kuruluşlarının bir kısmını susturan, bir kısmını ve yargıyı bağımlı hale getiren yasal düzenlemeleri de, işlerini kolaylaştırmıştı.<br />
+Bu nokta da, kömür ve doğal gazla çalışacak bu termik santrallerin yaratacağı zararları sıralayacak değilim. Onu ilgili sivil toplum kuruluşları raporlarla anlatıyor.<br />
+Söyleyeceğim şu; Sürüye saldıran aslanlarla yaptıkları pazarlık sonucu kendilerini kurtarmak için sürülerinde ki “Sarı kızı” Feda eden öküz sürüsünün başına gelenler gibi biz de, davayı “Mobil Santrali” Samsun’a davet ettiğimiz de kaybetmiştik.<br />
+Sonuçta gelinen nokta, gelecekte nüfusunun çoğunun kanserle boğuşacağı, tarım alanlarının ve su kaynaklarımızın en azından verimini kaybedeceği gerçeği ile karşı karşıyayız.<br />
+Bir Samsunlu olarak çok sayıda Samsunlunun da katılacağını sandığım bazı soruları, kentimizin seçimle gelen yerel ve siyasi yöneticilerine sormak istiyorum.<br />
+Samsun Halkının oyları ile kent yönetimine geldiğiniz ve siyaseten bu kenti temsil görevi aldığınız bir ortamda, bu kentin başına örülen bu kirli yatırımlar zinciri ile ilgili olarak neden ve nasıl suskun kalıyorsunuz?<br />
+Eğer, bunlar hiçbir sorun yaratmaz iddiasında iseniz, neden toplumu rahatlatacak bir açıklama yapmıyorsunuz?<br />
+Yok, eğer sizlerde bu santrallere kuşku ile bakıyorsanız, arkanızda güçlü bir siyasi irade varken, neden bu yanlışın önlenmesi için çaba harcamıyorsunuz?<br />
+Çağımızın korkulu rüyası olan “Küresel ısınma” tehlikesinin varlığına inanmıyor musunuz?<br />
+Yok, böyle bir tehlikeye inanıyorsanız, bu tehlikeyi en son yaşayacak ülkeler arasında olmamızı sağlayacak ovalarımızın ve akarsularımızın kirletilmesine neden seyirci kalıyorsunuz?<br />
+Ve SAYIN BÜYÜKŞEHİR BELEDİYE BAŞKANIM SİZE SORUYORUM;<br />
+Bu kent için güzel işler yaptığınız bir gerçek. Böylesine güzel işler yapan ve kenti Avrupa kenti yapma iddiasında ki bir başkan olarak, kentin geleceğini karartacak kirli yatırımlara nasıl göz yumarsınız?<br />
+Yarattığınız bir eserin yok edilecek olması karşısında neden bir şeyler yapmıyorsunuz? Zararlı olduğuna inanmıyorsanız, neden açıklama yaparak toplumun korkularını silmiyorsunuz?<br />
+Etrafınızda ki her yaptığınızı doğru yanlış demeden alkışlayanları dinlediğiniz kadar, neden bu kentin diğer kesimlerine fırsat tanımıyorsunuz?<br />
+SAYIN KENT YÖNETİCİLERİMİZ VE MİLLETVEKİLLERİMİZ,<br />
+LÜTFEN!<br />
+ARTIK KONUŞUNUZ. BİZLERDE HANGİ DOĞRU VE HANGİ YANLIŞLA KARŞI KARŞIYAYIZ, ÖĞRENELİM.<br />
+Son olarak söylemek isterim ki, ileride bu kentin insanları, suyu ve toprağı zarar görmeye başlarsa bunun en büyük sorumluları bugün susan kenti yöneten ve temsil eden sizler olacaksınız.<br />
+Bu vebal kolay kolay altından kalkılacak bir vebal de olmayacaktır.<br />
+Umarım bu suskunluk biter ve kentini önemseyen çağdaş bir yönetim anlayışı Samsun’da yaşanmaya başlar..<br />
+“08 Mart Kadınlar gününü” hemen hergün bir kadınımızın kendini erkek sanan canavarlar tarafından katledildiği bir dönem de anmanın utancını bir erkek olarak derinden hissediyorum.<br />
+Tek dileğim, kadınlarımıza çağdaş ve özgürce yaşam hakkı tanıdığımız dönemleri yaşamak ve böyle ortamlarda kadınlarımızı kutlamaktır.<br />
+İyi haftalar..08. 03. 2015<br />
+Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0735-sayin-aday-adaylari-heybenizde-ne-var.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0737-mahkemelere-takilan-samsun.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

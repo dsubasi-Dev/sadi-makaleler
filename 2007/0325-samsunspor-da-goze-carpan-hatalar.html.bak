@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Samsunspor&#x27;da Göze Çarpan Hatalar</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Samsunspor&#x27;da Göze Çarpan Hatalar
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2007
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0325
+
+</div>
+
+
+<div class="article-content">
+
+<p>SAMSUNSPOR’DA GÖZE ÇARPAN HATALAR.</p>
+<p>Amacım kesinlikle teknik yönetimi ilgilendiren konulara eleştiri getirmek değil. Ancak 1970 yılından itibaren yönetici, denetçi, divan kurulu başkanı veya üyesi olarak Samsunspor’un içinde olan birisi olarak bazı tespitlerimi sizlerle paylaşmak istiyorum.<br />
+Samsunspor süper ligden düştüğümüz sezon ve geçtiğimiz sezon mali sıkıntıların yanın da çok ciddi yönetimsel sorunlar da yaşamıştır. Geçtiğimiz sezonun bitmesi ile birlikte başkanın istifası ve yönetimin de yenisi seçilene kadar istemeyerek devam etmek durumunda kalması ile başlayan kongreler süreci olumsuz sonuçlanmıştı. Kulübe sahip çıkacak bir yönetimin çıkmaması ile kulübün kayyuma bırakılması gündeme gelmişti. Sayın Valimiz Hasan Basri Güzeloğlu’nun çabaları ile bu süreç uzatılmış ve doğan umutsuzluk ortamında oyuncuların çoğu da kulübü terk etmişti. Tam umutların tükendiği sırada genç işadamı Sayın Sezgin Gümüş arkadaşları ile kulübe sahip çıkmış ve transferin son günlerinde alınabilen birkaç oyuncu ve elde kalan çoğu alt yapı oyuncusu ile sezona girilmişti.<br />
+Böylesine olumsuz şartlarda sorumluluk üstlenen yönetime ve teknik kadroya tek söz söylemek dahi haksızlık olur diye düşünüyorum. Bir önceki yazımda da bu konulara değinmiştim. O nedenle, bu takımın sahaya çıkartılabilmesi ve futbol yaşantısı bitti denerek son iki yılda takıma dahi konmayan oyuncuların oynatılabilmesi bile sezon başı beklentilerinin çok ötesinde bir başarıdır.<br />
+Sezon başında gerçekleri görerek takıma iddialı hedefler koymayan yönetim kurulu, çok doğru bir yol izlemiştir. Ancak yönetim kurulumuzun özveri ile üstlendiği sorumluluk ve sağladığı güven ortamı takımada yansımış ve bana göre sporcularımız beklentilerin ötesinde bir çizgi yakalamışlardır. Bu güven ortamı taraftarımızı da motive etmiş ve cefakâr taraftarımız tam bir uyum içinde takımına sahip çıkmaya başlamıştır. Belki de bu beklenmedik çıkış, bir anda takımı ilk altı içine sokunca beklentilerin sınırı da yükselmiştir. Bende bu ortamda yönetimin takındığı tavrı doğru buluyor ve büyük hedefler koymadan gidilebilecek yere kadar gidilmesi düşüncesini destekliyorum.<br />
+Elimizde ki kadronun gücü ortada. Transfer ayının son günlerinde oluşturulan ve hemen hemen sezon başı hazırlığı yapmadan lige başlayan takımın hiçbir oyuncusuna söz söyleyemeyiz. Ancak bu demek değildir ki, göz göre, göre yapılan hatalar da tartışılmayacaktır.<br />
+Öncelikle oynadığımız ligi çok iyi tanıyan ve bu ligde önemli başarılara imza atmış bir hocaya sahip olduğumuz için şanslı sayılırız. Sayın Yücel İldiz’in ilk kez bir araya geldiği oyuncuları yeni yeni tanımaya başladığını da kabul etmek zorundayız. Belki de bu nedenden olacak takım tertibinde dışardan görüldüğü kadarı ile bazı tercih hatalarının yapıldığını sanıyorum. Kesinlikle teknik kadronun uzmanlık konusuna karışmak olarak yorumlanmaması dileğiyle, bazı düşüncelerimi değerlendirmeye açmak istiyorum.<br />
+İlk yarısı biterken maçı alacağımıza inandığım Eskişehirspor maçı bana göre, sezon başından itibaren yapılan bu tür tercih hatalarından kaybedilmiştir. Kalecimiz ceza sahası içine hâkim değildir. Yanlardan yapılan ortalara çıkıp çıkmamakta tereddüt etmekte ve çoğu kez kale içinde çakılı kalmaktadır. Geri dörtlünün ortası iki uzun adamdan oluşurken onların ne önünde, ne de arkasında oynayan çabuk adamımız yoktur. Sezon başından beri yenen goller, ya ortadan gelen hızlı verkaçlarda veya yandan gelen ortalarda adam kaçırmaktan gelmektedir. Eskişehir maçında yenen ikinci gol tam anlamı ile kaleci ve geri dörtlünün iki uzununun hatasından kaynaklanmıştır.<br />
+Yukarı da belirttiğim gibi çok kolay geçilen geri dörtlünün iki uzun oyuncusunun arasına veya birisinin yerine, yer toplarında toparlayıcı ve çabuk bir oyuncunun monte edilmesi ile bu sorunun çözüleceğini sanıyorum. Bu görüşümü doğrulayan tespitim, geçtiğimiz sezonun son maçlarında Hakkı Hocanın gelmesi ile geri dörtlünün orta ikilisinin Kenan-Emre Balak’tan oluşturulmasıyla sağlanan başarıya dayanmaktadır. İki sezondur yanına monte edilen oyuncularla uyum sağlayamadığı için başarı grafiği çok düşen, defansın tartışılmaz elemanı Kenan’ın bu tercihten sonra başarılı maçlar çıkardığı bilinmektedir.<br />
+Emre Balak gibi milli takımlarda başarı ile oynayan bir oyuncudan bu alanda mutlaka yararlanmak gerekir diye düşünüyorum. Kaldı k, sezon başında Hakkı’nın cezalı olması ile Kenan’ın yanında yer bulan Emre bu maçlarda çok da başarılı olmuştur.<br />
+Kaleci Mehmet olacağı kadar olmuş bir kalecidir. Refleksleri daha güçlü olan genç kaleci Ercüment’e şans vermek ve onu kazanmak daha yararlı olur diye düşünüyorum.<br />
+Celil’in büyük özveri ile yakaladığı form ve arkasında oynayan Can’ın da uyum sağlaması ile sol kanatta önemli bir sorun gözükmemektedir. Ancak sağ kanatta da bana göre oyuncu tercihine dayalı bir aksama bulunmaktadır. Murat’ın yaşlı oluşu ve henüz istenen formu yakalayamaması nedeniyle, sağ ileri kanatta oynayan oyuncuya yeterli destek sağlanamamakta ve o kanattan kalemize yapılan ataklarda da savunma açık vermektedir. Daha önce orta sahanın sağında şans verilen ve başarılı olamadığı için yedeğe çekilen Feridun’a geri dörtlünün sağında yer verilirse, inanıyorum ki Murat’tan daha çabuk olan Feridun hem geri dörtlüyü rahatlatacak, hem de sağ ileri kanadı daha iyi destekleyecektir.<br />
+Serkan’ın çok iyi bir konuma gelmiş ve kendine güvenini kazanmışken sakatlanması hepimiz için büyük şanssızlıktır. Bu durumda Caner’in sorumluluğu daha da artmıştır. Ancak Caner henüz sakatlık korkusunu üzerinden atamamış gözüküyor. Bu hafta önüne uzatılan bir topa kaleciden daha yakın olmasına rağmen, kalesinden çıkan kalecinin hamlesinden sakatlanmak korkusu ile çekindiği için olacak, ayağını topa sokmamış ve mutlak bir golü kaçırmıştır. Bu pozisyon oyunun kırılma noktası olmuştur. O’nun oyuna tam konsantre olamaması ve isteksiz oynuyor hissini vermektedir. Bu alanda Kemal Akbaba’dan da yararlanmak gerekir diye düşünüyorum.<br />
+Bunun dışında gerek alt yapıdan gelen oyuncularımız ve gerekse yeni alınan oyuncularımız kapasiteleri oranında ellerinden geleni yapmaktadırlar.<br />
+Yukarıda ki düşüncelerimi hoşgörülerine sığınarak teknik yönetimin değerlendirmesine sunuyorum.<br />
+Bu taraftarımız yakaladığı birlikteliği bozmadan desteğini sürdürürse ve oyuncularımız da bugüne kadar gösterdikleri performansı sürdürürlerse en azından utanarak maç seyretmeyiz ve puan da kaybetsek başımız önümüzde olmadan staddan ayrılırız. Ama bence büyük bir sorumluluk altına giren, elini taşın altına sokan yönetime yeterince destek olunamamaktadır. Bu tavır ve ilgisizlik devam ederse, yönetim kurulumuzu büyük bir çıkmaza sokarız ki, bu da her şeyi tersine çevirir. O nedenle herkesin üzerine düşeni yapması gerekmektedir. Camiamıza bundan sonra ki maçları için başarılar diliyorum.<br />
+İyi haftalar.. 12 Kasım 2007<br />
+SADİ SUBAŞI<br />
+SAM-SEV BAŞKANI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0324-kentlere-i-mzasini-atanlar-ve-bir-cagri.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0326-turkiye-nin-i-ki-yuzu-ve-medyanin-sorumsuzlugu-ile-rtuk.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

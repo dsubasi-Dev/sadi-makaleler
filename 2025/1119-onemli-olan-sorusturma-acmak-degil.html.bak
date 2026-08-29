@@ -1,0 +1,341 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Önemli Olan Soruşturma Açmak Değil</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Önemli Olan Soruşturma Açmak Değil
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2025
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+1119
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>ÖNEMLİ OLAN SORUŞTURMA AÇMAK DEĞİL,<br />
+SONUÇLARINI İNANDIRICI OLARAK AÇIKLAMAKTIR.</p>
+<p>Ülkemiz adına birbiri ardı sıra sorgulanması gereken çok üzücü olaylar yaşıyoruz.<br />
+Ne yazık ki, bu olaylar bir türlü engellenemiyor ve her defasında da “Soruşturma açılmıştır” şeklindeki alışılagelen açıklamaları ile ölen öldüğü ile kalıyor.<br />
+İş kazalarında ölümlerin artık sıradanlaştığı ülkemizde, öylesine yadırganacak ölümlü olaylara tanık oluyoruz ki, “Bu tür ucuz ölümler, neden bir Avrupa ülkesinde olmuyor” Diye sormak zorunda kalıyoruz.<br />
+Çok gerilere gitmeden son bir ayda yaşanan ölümlü birkaç olayı irdelemek istiyorum.<br />
+İlk olay;<br />
+06 Temmuz 2025 tarihinde yaşandı. Üç yıl önce Kuzey Irak’ta sürdürülen Pençe Kilit Operasyonları sırasında şehit düşen bir üsteğmenimizi aramak için bir mağaraya giren 19 askerimizden, 12’sinin metan gazı zehirlenmesi sonucu şehit olduğu açıklandı.<br />
+MSB’nin “Olayla ilgili soruşturma başlatılmıştır” açıklamasını yapalı 20 gün oldu. Ama ne olayla ilgili olarak toplumu ve şehit ailelerini ikna edecek bir açıklama, ne de hastaneye kaldırılan diğer yedi askerin sağlık durumu ile bir açıklama yapıldı?<br />
+İkinci Olay;<br />
+Her yıl olduğu gibi ormanlarımız cayır-cayır yanıyor. Yangın sayısı her geçen yıl artıyor. Bu yıl küresel ısınmanın sonucu aşırı sıcakların da etkisi ile seyretmekte olan yangınlar, tam bir felakete dönmüş bulunuyor.<br />
+Yangın karayollarını ve yerleşim yerlerini de etkileyerek çoğu yerde yayılarak sürüyor ve hala söndürülemedi. Yöre halkı traktörlerle su taşımak zorunda kalıyor.<br />
+Geçen yıllarda da çok eleştirildiği gibi açıkça görülen eksiklik, hala yeterli sayıda yangın uçağı ve helikopteri alınmamış olmasıdır.<br />
+Bu konuda öylesine çok eleştirilecek konu var ki, bunlara girmek istemiyorum ama şu kadarını söylemeliyim;<br />
+Savurganlığın tavan yaptığı ülkemizde Diyanet İşleri Başkanlığına gereğinden fazla ayrılan bütçenin bir kısmı ile bu yangınlara çözüm olabilecek uçak ve helikopter alınabilirdi.<br />
+Bu yangınlar sırasında da akıl almaz bir facia da yaşandı.  Orman içerisinde yangına müdahale eden AKUT ve orman görevlilerinden oluşan bir gurubun yangın alanında sıkışıp kalması sonucu beş AKUT gönüllüsü ile beş orman görevlisi yanarak şehit oldu.<br />
+Son Bursa’daki yangınlara su taşıyan tankerin uçuruma yuvarlanması sonucu üç vatandaşımızı daha kaybettik.<br />
+Yangın bölgelerinin valileri ve ilgili bakanlar hemen “Soruşturma başlatılmıştır” Açıklamasını yapıyor ama bir yetkilide çıkıp, “Biz yanlış yaptık” Diyerek sorumluluğu üstlenip istifa etmiyor.<br />
+İçişleri Bakanı bazı tutuklamalar olduğunu açıklarken, yangınlara neden olarak gösterdiği münferit olaylar ise, böylesine yaygın yangınları açıklamaya yetmiyor.<br />
+Üçüncü Olay;<br />
+Haftanın son günü öğle saatlerinde, yine “Olamaz böyle şey” Denecek şekilde iki mehmetçiğimizi kaybettiğimizi öğrendik.<br />
+MSB aşırı sıvı kaybı nedeniyle hastaneye kaldırılan 7 askerimizden ikisinin şehit olduğunu açıkladı. Her olay sonrası olduğu gibi yine, “Soruşturma açılmıştır.” Açıklaması geldi.<br />
+Birliklerinde acemi eğitimi almakta olan bu kadar çok sayıda askerimizin, aynı anda aşırı sıvı kaybı sonucu çoklu organ yetmezliği yaşamış olması, birçok soruyu da beraberinde getirmiş bulunuyor.<br />
+Bir sağlıkçı olmama rağmen , hata yapmamak için konunun uzmanı doktor arkadaşlarımdan bilgi aldım.<br />
+Aldığım bilgiye göre, bu yaştaki genç insanlarda kısa süreli yaşanacak sıvı kaybı ile ölümle sonuçlanacak çoklu organ yetmezliği, çok rastlanan bir olay değilmiş.<br />
+Soruşturma sonuçları kısa sürede açıklanmazsa, sorular artacak ve olayla ilgili yalan yanlış yorumlar yapılacaktır.<br />
+Vatan hizmeti için gönderdiğimiz bu çocuklarımız, hangi ihmal veya hangi görevlinin sorumsuzluğu sonucu, uzun süre güneşte kalmış ve aşırı sıvı kaybı ile çoklu organ yetmezliğine uğramıştır?<br />
+Meteorolojinin sürekli uyarılar yaptığı günlerde bu çocuklarımızın ölümü, mutlaka sorgulanacaktır.<br />
+Hastanedeki diğer beş askerimizin durumu ve gerçek ölüm nedenleri açıklanmadığı sürece, komuta kademelerini yıpratacak ve çocuğunu vatan görevine gönderecek aileleri de büyük bir endişeye düşürecektir.</p>
+<p>SONUÇ;<br />
+Bir ülke, soruların cevapsız bırakıldığı veya toplumu ikna edecek açıklamaların yapılmadığı bir düzende yönetilemez.<br />
+Birinci ve üçüncü olaydaki ölümlerin sorumlusu kim veya kimlerdir? O mağara kontrol edilmeden askerlerimizi o mağaraya sokan komutan kimdir?<br />
+Acemi er eğitimindeki çocuklarımız nasıl bir uygulama sonucu çoklu organ yetmezliğine girecek kadar güneşte ve susuz kalmıştır?<br />
+Bu konularda bir ihmal var mıdır? Acaba o mağaraya askerimizin gireceğini öğrenen PKK, bir tuzak mı kurmuş olabilir mi?<br />
+Hastane de ki diğer askerlerimizin sağlık durumları nedir?<br />
+“Silahsız Türkiye” Sürecine zarar vermemesi için bazı şeyler açıklanmıyor olabilir mi?<br />
+Ülkemizin hemen her bölgesinde çıkan orman yangınları kısa sürede söndürülemediği için artık yerleşim bölgelerine da zarar vermeye başlamış ve çok sayıda ölümler yaşanmıştır.<br />
+Bunun en büyük nedeni,<br />
+Küresel ısınma ve meteorolojinin uyarılarına rağmen yangınları çıktığı an da söndürecek donanıma sahip olmayışımızdır.<br />
+Önemli gelişmeler gösterdiğimiz hava savunma sanayisi ile övündüğümüz bir dönemde, kendimiz yapamıyorsak bile bu yangınlara anında müdahale edebilecek gece görüşüne de sahip, yeterli sayıda yangın uçak ve helikopterlerini almamakta neden ısrar edilmektedir?</p>
+<p>Bu nedenle;<br />
+Yeterli yangın uçağı ve helikopteri almayan Siyasi İrade, bu yangınların yaygınlaşmasının baş sorumlusudur.<br />
+Şimdi şu soruların açık ve net cevapları verilmelidir;<br />
+Ormanlarımızın ülkemiz için artık bir anlamı yok mudur?<br />
+TBMM’ de büyük itirazlara rağmen kabul edilen “İKLİM YASASI” ile zeytinliklerin, tarım ve orman alanlarının maden aramaları için feda edileceğinin tartışıldığı bir ortamda, bu yasanın orman yangınlarıyla bir ilgisi olabilir mi?<br />
+Yanan alanlarda hangi maden kaynaklarımız vardır? Bu alanlar yarın maden aramalarına açılırsa, bunu kim nasıl açıklayacaktır?<br />
+Açılan soruşturmalara göre, bu yangınların kaç tanesine piknik yapanlar ve anız yakanlar neden olmuştur?<br />
+Yanan ormanlarımızın bir kısmının zor ulaşılır kesimlerde başlaması, nasıl açıklanabilir? Sabotaj nedeniyle tutuklananlar var mıdır?<br />
+Yanan alanlarda yarın çıkar sağlayanlar olursa, bu nasıl açıklanacaktır?<br />
+Şurası gözden kaçırılmamalıdır ki,<br />
+Bu sorular toplumu ikna edecek şekilde açıklanmaz ve zamana yayılarak    unutturulmaya devam ederse, bundan en büyük zararı ülkemizi yöneten siyasi irade görecektir.<br />
+Artık ülkemizi yönetenlerin her olay sonrası “Soruşturma başlatılmıştır” Şeklindeki açıklamaları da inandırıcılığını yitirecektir.<br />
+Hala sürmekte olan yangınların çok daha fazla can ve mal kaybına neden olmadan söndürülmesi dileğiyle, sorunsuz bir hafta diliyorum. 28.07.2025<br />
+Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="1118-eti-bakir-in-denizi-doldurarak-yapacagi-zehirli.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="1120-cagri.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

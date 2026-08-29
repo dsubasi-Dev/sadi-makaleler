@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Yanıltıcı Sağlık Reklamları ve Bir Şiir</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Yanıltıcı Sağlık Reklamları ve Bir Şiir
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2007
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0282
+
+</div>
+
+
+<div class="article-content">
+
+<p>YANILTICI SAĞLIK REKLAMLARLARI VE<br />
+DÜŞÜNDÜRÜCÜ VE MESAJ GİBİ BİR ŞİİR..</p>
+<p>TV Kanallarının yaygınlaşması ve seyirciyi televizyonlara bağımlı hale getiren dizi ve spor programları en çok reklâm sektörüne yaramış gözüküyor. Reklâm sektörü de bu rüzgârın etkisi ile gerçekten birbirinden ilginç ve çok güzel reklâm spotlarını ekranlara getiriyorlar. Reklâm sektörünü bu başarısından dolayı kutlamak gerekir. Ancak, bu güzellikleri vurgularken reklâmların denetiminin de yeterince yapılamadığının üzülerek izliyoruz.<br />
+Reklâmların çok geniş halk kitlelerini görsel olarak çok kolay etkilediği gerçeğini gözden uzak tutamayız. Olaya bu açıdan bakınca bazı reklâmların amacını aşarak toplumu yanıltıcı boyutlara ulaştığını söyleyebiliriz. Özellikle başta çocuklara yönelik reklâmlar olmak üzere,                   bazı reklâmların çok daha iyi denetlenmesinin zorunlu olduğuna inanıyorum. Ancak bugün sağlık konusunda ki bir reklâmı sizlerle paylaşmak istiyorum. Uzun süredir yayınlanmakta olan bir reklâm spotu, belki de mesleki açıdan değerlendirebildiğim için beni çok rahatsız ediyor. İzleyen çok sayıda tansiyon ve damar sertliği sorunu bulunan insanımızı etkisini altına aldığını sandığım bu reklâm, ilaca gerek bırakmadan kolesterol düşürdüğü iddia edilen bir gıda maddesine aittir. 50 yaş ve üstü grup insanların ciddi bir sorunu olan böylesine hassas bir sağlık konusun da ki bu reklâma, Sağlık Bakanlığı nasıl izin verir anlayamıyorum.<br />
+Son dönemler de hızla büyüyen bir holdinge ait bu reklâmda sözü edilen gıda maddesi için öne sürülen iddiaların bilimsel bir yönü olduğuna inanmıyorum. En çok şaşırdığım konu da, Tıp Fakülteleri ile Eczacılık Fakültelerinin değerli öğretim üyelerinin bu konuda sessiz kalışlarıdır. Ayrıca, hemen her sosyal sorunda görüş açıklayan Türk Tabipler Birliği ile Türk Eczacılar Birliğinin Sayın Başkanları, böylesine önemli bir sağlık rezaleti karşısında neden suskun kalıyorlar? Hele, hele bu tür reklâmlara para karşılığı destek vererek halkın yanıltılmasına bilimsel zemin hazırlayan öğretim üyelerini de ayıplıyorum.<br />
+İşin bir başka çarpıcı ve düşündürücü yanı ise bu reklâmın, Sağlık Bakanlığının kolesterol düşürücü ilaçların kullanımını kısıtlayan, hatta sağlık güvencesi ile alınamaz hale getiren uygulamalarının başlaması ile gösterdiği paralelliktir. Bu konunun da her açıdan iyi değerlendirilmesi gerekmektedir. Son dönemlerde bu tür önemli bazı hükümet kararlarının ardından, birilerinin bu kararlara özgü çıkar sağlaması artık alışılagelmiş olaylar haline geldi. Ama insanların en kolay yanıltılabileceği bir konu olan sağlık konusunda bu yapılanlara mutlaka dur denilmelidir. Denetim kurulları bu reklâmı ve benzerlerini ciddi bir şekilde yeniden ele almalıdır.<br />
+Yazımın başında sözünü ettiğim duygu ve mesaj dolu şiiri geçen hafta içersinde dinledim. Bizim Çarşamba Grubunun Çarşamba akşamları yaptığı yemekli toplantılara okuduğu şiirlerle renk katan değerli dostumuz, eski bir asker olan Dr. Naci Şen, son toplantıda aşağıdaki şiiri okuyarak hepimize bazı şeyleri yeniden düşündürdü. Hatta bu heyecan ile toplantı sırasında şiiri yazan jandarma Yüzbaşı ile görüşerek duygularını paylaştık. Jan. Yzb. Lice’de Şehit düşen jandarma Komanda Astsb. Kd. Çvş. KADİR AYDIN için kaleme almış bu şiiri.<br />
+Hiçbir milletle derdimiz olmadığı halde, Avrupa Türkiye’yi neredeyse Nazilerle aynı kefeye koymaya çalışıyor. Milletimiz belki de bunun etkisin de kalarak, tüm Türkiye tarafından lanetlenen Hrant Dink cinayeti sonrası düzenlenen cenaze töreninde tepkisini biraz da abartarak gösterdi. Aydınlarımızın bunu yaparken aziz şehitlerimizi, ailelerini ve Doğu Anadolu’da ki topraklarımızı korumak uğruna canlarını veren ordumuzu nasıl incittiklerini bu şiir çok güzel anlatıyor. Sanırım şiiri okuyunca bu konuda herkes kendi payına düşen özeleştiriyi yapacaktır.<br />
+EY KOCA DÜNYA BEN DE ÖLDÜM..<br />
+Ey koca dünya bende öldüm,<br />
+Belli ki hiç birinizin haberi yok.<br />
+Hem de Dink’ten sadece bir gün önce,<br />
+Ama sen ne duydun, ne gördün, ne de umursadın…</p>
+<p>Ölümümden hemen sonra kameralar gelmedi oraya,<br />
+Halk’ta toplanmadı ellerinde karanfil ve mumlarla,<br />
+Hiçbir devlet büyüğü ve Amerika’da kınamadı ölümümü,<br />
+Ve yazmadılar adımı mezar taşımdan başka hiçbir yere…</p>
+<p>Hâlbuki benim adım öz ve öz Tükçe idi, “ KADİR AYDIN”<br />
+Okunması, söylenmesi ve yazılması onunkinden daha kolaydı,<br />
+Ama anmadı beni babamdan gayrı kimse, onu andıkları gibi,<br />
+Ve yazılmadı başka hiçbir yere, anamın yüreğinden başka…</p>
+<p>Ben gencecik fidandım, daha hiç tomurcuk vermemiş,<br />
+Ve soldurdular beni Lice’de, hayatımın baharında,<br />
+Beni de vurdular, ben de öldüm, bilmem duydunuz mu? Ama<br />
+Bulamadılar beni vuranı 32 saatte, belki de hiç aramadılar…</p>
+<p>Ben kendi vatanımda, vatanımı vatansızlardan korumak için öldüm,<br />
+Ben Türk’tüm, adım Tükçe, ama öğrenemedi adımı hiç kimse,<br />
+Bir kez bile manşet olmadım ya o gül yüzümle gazetelere,<br />
+İşte EY KOCA DÜNYA BEN ASIL O GÜN ÖLDÜM…</p>
+<p>Bu topraklar için canını veren aziz şehitlerimizi saygıyla anarak iyi haftalar diliyorum.. 25- MART- 2007–03–2007<br />
+SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0281-ataturk-aniti-ve-dev-turk-bayragi-cagrisi.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0283-osman-kara-nin-kose-yazisi-ve-kent-kurultayi.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Hergün Yeni Bir Markayla Avutulurken, Gözden Kaçan Samsun&#x27;un Gerçek Markaları.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Hergün Yeni Bir Markayla Avutulurken, Gözden Kaçan Samsun&#x27;un Gerçek Markaları.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2010
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0469
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>HER GÜN YENİ BİR MARKAYLA AVUTULAN<br />
+SAMSUN’UN, GÖZARDI EDİLEN ASIL MARKALARI.</p>
+<p>Birileri hemen her gün Samsun’a yeni bir marka biçiyor. Bir gün bakıyoruz, Samsun bölgenin “Sağlık Merkezi” olmuş. Bir başka gün “Turizm merkezi”, “Ekolojik Tarım Merkezi” veya “Eğitim Merkezi” ilan edilmiş.<br />
+Yaz- boz uygulamaları ile tam bir karmaşa yaratan sağlıkla ilgili yeni politikalar ve özel sağlık kuruluşlarının devamlılığı tartışılır durumdayken, Devletin sağlıktan elini çekmeye başlaması ile sağlık personelinin içine düştüğü belirsizlik ve tedirginlik de giderek artıyor. Özel sağlık kurumları için belirlenen ücretlerle ve gecikmeli geri ödeme planları ile özel hastaneler ve özel polikliniklerin ayakta kalabilme savaşı verdiklerini görmezden gelerek, nasıl bölgenin “Sağlık Merkezi” olacağız? Merak ediyorum.<br />
+Yatak sayısı ve otel yetersizliği sürerken, yeni açılan otellerin de, dönemin modası ve psikolojik baskısı ile bira dahi vermeyen uygulamaları ile nasıl “Turizm Merkezi” olacağız? Merak ediyorum.<br />
+Türkiye’nin en verimli iki alüvyon ovasını zehirli kimyasallarla kirletecek, zaman içersinde yok edecek kadar yüksek güce sahip çok sayıda kömürlü ve doğalgazlı termik santral yapımına göz yuman yönetim anlayışı ile kirlenen bu topraklarda nasıl “Ekolojik tarım merkezi” olacağız? Merak ediyorum.<br />
+Hızla tarikatların eline geçen ve tarikatlarca hemen her gün bir yenisi açılan eğitim kurumları ve yurtlarla mı, Laik ve Çağdaş Türkiye’nin “Eğitim Merkezi” olacağız? Merak ediyorum.<br />
+Gıda Organize Sanayi Bölgesi ile Samsun’un yüz akı kuruluşu ADEKA İlaç Sanayi AŞ’ ye Samsun’dan ayrılmaması için söz verilen yerlerle ilgili sorunlar bir türlü çözülemezken, Samsun’da kirli yatırımlarını sürdüren bir özel kuruluşa bölgenin en değerli yerinden 70 dönüm alanı bir meclis kararı ile verirseniz, “Bölgenin merkezi oluyoruz” iddiası, kulağa hoş gelen söylemden öteye geçemez.<br />
+Samsun’un en önemli tanıtım organı Samsunspor’u, Samsun’un liglerde ki tek ilçe takımı Bafraspor ile Samsun Basketbol Takımını yalnızlığa ve kaderine terk ederek mi, bölgede lider kent olacağız?<br />
+Samsun’un en büyük sorunu olan işsizliğe çare olacak bir tek tesis kuramamışız. Kuramadığınız gibi mevcutları da ya kapatarak, ya da özelleştirerek çalışanlarını da sokağa dökmüşüz. İşsizlik tavan yapmış. Bu görüntüyle mi bölgenin lider kenti olacağız?<br />
+Bölgenin lider kenti rüyalarını görürken ve birilerinin Samsun’a yakıştırmaya çalıştığı hayali markalarla oyalanırken, Samsun’un gerçek markasını ve değerlerini gözden kaçırıyoruz.<br />
+Büyük Önder Mustafa Kemal’in kurduğu Laik ve Çağdaş Türkiye Cumhuriyeti’nin ilk adımlarının Samsun’da atıldığı tarih olan “ONDOKUZMAYIS 1919” gibi bir markamız varken, hala marka arıyorsak, buna söyleyecek söz bulamıyorum.<br />
+Samsun için çok özel bir bayram olan, “19 MAYIS ATATÜRK’Ü ANMA GENÇLİK VE SPOR BAYRAMININ” en azından bir bölümünün Devlet Töreni ile Samsun’da kutlanması için yeteri çabayı neden gösteremiyoruz? Neden hala 19 MAYIS’I en azından ulusal boyutta bir festival seviyesine taşıyamadık?<br />
+Türkiye’nin neresinde olursa olsun Samsun denince herkesin aklına “19 Mayıs 1919’un” geldiği gerçeğini bilmemize rağmen, Samsun’u tanıtmak için neden ve kimler yeni markalar yaratmaya çalışır? Anlamak mümkün değil.<br />
+Göz ardı ettiğimiz bir başka konu, Samsun’un sanat alanında ki başarısıdır. Bu alanda Samsun, sadece bölgenin merkezi olmakla kalmayıp, Türkiye’nin de sanatçı yetiştiren en önemli merkezlerinden birisi olduğu gerçeğidir. Açıkçası bu başarımızın da farkında değiliz.<br />
+Samsun müzik alanda çok önceki yıllara dayanan bir namı vardır. O dönemlerde hobi olarak başlayan sanatsal çalışmalar bugün, bilimsel ortamda meyvelerini vermektedir. O dönemlerde kendi dallarında ülkemizin en ünlülerinin başında yer alan rahmetli Yıldıray Çınar ve başarılarını günümüzde de sürdüren Orhan Gencebay birer simge isimdir.<br />
+1970’li yıllarda dernek çatısı altında toplanan Türk Sanat Müziği ve Türk Halk Müziği tutkunlarının önderliğinde kurumsallaşan çalışmalar sonraki yıllarda konservatuar düzeyine ulaşmıştır.<br />
+Bugün Samsun Devlet Konservatuarının yanında belediyelerin, kamu kurumlarının, meslek odaları ve STK’ların oluşturduğu çok düzeyli korolar, TRT Radyo ve Televizyonlarına onlarca sanatçı yetiştirmiştir.<br />
+Heykel ve seramik ve resim alanında da çok önemli sanatçılarımız olmasına rağmen bunlara sahip çıkamıyoruz. Üzülerek söylemek gerekirse, hepsinin ortak sorunları ve üzüntüleri, başka illerin yöneticilerinden gördükleri ilginin onda birini, kendi illeri Samsun’u yönetenlerden görememeleridir.<br />
+Samsun’un belki de en başarılı olduğu sanat dalı, tiyatrodur. Geçmişi 1960 lı yıllara dayanan tiyatro tutkusu, Halk Eğitim Merkezleri ile Oda Tiyatrolarında yıllarca devam etmiştir. Günümüzde amatör tiyatro grupları Gazi Sahnesin de hemen her gün oyun sergiliyorlar.<br />
+TV’lerin en ünlü dizilerinde rol alan sanatçılarımız var. Bunlar Samsun’un gurur kaynaklarıdır. Büyük uğraşılar sonunda kurulan Samsun Devlet Opera ve Balesi AKM’ de üst üste opera eserleri sergilemekte, klasik müzik konserleri dolup taşmaktadır.<br />
+Yazımın son bölümünde Samsun adına benim tanımımla, “Tiyatro Misyonerliğine” soyunmuş bir tiyatro grubundan söz etmek istiyorum. Yıllardır her 19 Mayıs Sabahı Mustafa Kemal Atatürk’ün Bandırma Vapurundan Samsun’a çıkışını canlandıran Yaşar Gündem liderliğinde ki Samsun Sanat Tiyatrosu, iki buçuk yıldır Türkiye’nin 90 ü aşkın il ve ilçesinde Turgut Özakman’ın “ŞU ÇILGIN TÜRKLER VE DİRİLİŞ” oyunlarını sergilemekteler. Bu süreçte 620 kez “Şu Çılgın Türkler’i”, 360 kez de” Diriliş’i” oynamışlar. Gittikleri il ve ilçelerde ki arkadaşlarımla yaptığım görüşmelerden çok güzel yorumlar alıyorum.<br />
+Satın aldıkları bir otobüsü çok güzel mesajlarla donatmışlar. Bu otobüsle il, il ve ilçe, ilçe dolaşıyorlar. Her gittikleri yerde Vali, Kaymakam ve Belediye Başkanlarına, Samsun’un simgesi “Atatürk Anıtı’nın Maketini” sunarak Samsun’un tanıtımına da katkıda bulunuyorlar. Türkiye’de böylesine çok yerde oyun sergileyen bir başka tiyatro gurubu var mı? Bilmiyorum. Böylesine tiyatro aşkı ve özverisi ile oyunlarını her yörenin insanın ayağına götüren bu gruba, “TİYATRO MİSYONERLERİ” adını vermem, hakları değil mi?<br />
+Neredeyse tüm Türkiye’yi dolaşan bu ekip geçen hafta içersinde pazartesi ve Salı akşamı Samsun AKM’ de ikişer seanstan toplam 4 seans, “DİRİLİŞ” adlı oyunu sergilediler. Sayın TURGUT ÖZAKMAN’IN yazdığı Çanakkale Zaferini anlatan “DİRİLİŞ” adlı oyun, Çanakkale Zaferi’nin 95. yıldönümünün kutlandığı günlerde oynanmasına rağmen ne yazık ki, yeteri ilgiyi görmedi.<br />
+Elimizde kalan son vatan toprağı olan Anadolu’nun işgaline karşı ilk direnişin yapıldığı ve 200.000 üzerinde Mehmetçiğimizin kanı ile sulanan Gelibolu Yarımadasında kazanılan Çanakkale Zaferi’ni anlatan ders niteliğinde ki bu şahane oyuna, başta Milli Eğitim Müdürlüğü olmak üzere kent yöneticilerinin duyarsız kalmasını anlamakta güçlük çekiyorum.<br />
+Bir seansı bir mahallenin çocukları için kapatan Türk Mimar ve Mühendisleri Odası Samsun Şube Başkanlığını, öğrencilerini bu tarih dersinden mahrum bırakmayan bazı özel okul yöneticileri ile bir avuç tiyatro sever Samsunluyu kutluyorum.<br />
+Sırf isimleri meşhur diye konusu dahi olmayan sıradan oyunlara koşa koşa gittikleri halde, çok anlamlı bu oyuna zaman ayırmak zahmetinde bulunmayanlara, oyunu seyrettikten sonra gece bana telefon açarak teşekkür eden bir arkadaşımın, “İyi ki gitmişiz. Görmeyenler için büyük kayıp” sözlerini iletmek istiyorum.<br />
+Sevgili YAŞAR GÜNDEM ve DEĞERLİ SANATÇI ARKADAŞLARI, sizleri yürekten kutluyor ve bu inançlı sanat yürüyüşünüzde başarılarınızın devamını diliyorum.<br />
+Birilerinin hala marka arayışını sürdürdüğü SAMSUN’UN gerçek markalarından birisi de sizsiniz. İyi ki varsınız. Alkışlar sizlere..<br />
+İyi haftalar dileğiyle..04 Nisan 2010<br />
+SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0468-bilgi-kirliligi-kirlenen-toplum-ve-kirletilen-kurumlar.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0472-dersimiz-ataturk-filmi-ve-dusundurdukleri.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

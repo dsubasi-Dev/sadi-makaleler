@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Yerel Seçimler Sonrası Değerlendirme</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Yerel Seçimler Sonrası Değerlendirme
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2004
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0106
+
+</div>
+
+
+<div class="article-content">
+
+<p>YEREL SEÇİMLER SONRASI DEĞERLENDİRME</p>
+<p>28 mart yerel seçimlerinin ardından gelişmeleri Türkiye ve Samsun ölçeğinde değerlendirmekte yarar olduğuna inanıyorum. Seçimleri ve sonuçlarını öncelikle Samsun açısından ele almak istiyorum. Son yerel seçimler Samsun'daki belediye başkanlarını hemen, hemen tamamen değiştirdi. Büyük şehir belediye Başkanı sayın Yusuf Ziya yılmaz ile çok az sayıda ilçe ve belde belediye başkanı koltuklarını koruyabildi. Bu seçimlerin Samsun'daki gerçek galibi tüm Türkiye'de olduğu gibi AKP dir. Büyük bir başarı ile rakiplerine fark atan sayın Yusuf Ziya Yılmaz ve 4 alt belediye ile ilçe ve belde başkanlıklarını kazanan belediye başkanlarımızı kutluyor ve başarılı bir çalışma dönemi diliyorum. Bu arada geçen dönem görev yapan ve bu seçimde koltuklarını yeni başkanlara bırakan belediye başkanlarımızada Samsunlular adına teşekkür ediyorum. Gelelim Samsun açısından bu seçimin değerlendirilmesine.<br />
+Bu seçimler her yönüyle iktidar partisi AKP nin etkinliği ile geçti. Seçimler öncesi her platformda vurgulanan ''yerel yöneticiler iktidar partisinden olursa yatırımlar kente gelir ve projelerin önündeki bürokratik engeller kalkar''mesajı sanıyorum oldukça etkili oldu. Bunu söylerken AKP nin inkar edilemez Ülke çapındaki başarısının Samsun'daki yansımasını göz ardı etmek istemiyorum. Ancak yıllardır önemli yatırımları alamayan bir kent konumundaki Samsun insanı bu mesajıda iyi değerlendirdi. Burada bir konunun altını çizmek istiyorum. Geçen beş yıllık çalışması ile Samsun'da çok önemli işler başaran ve yıllardır Samsunlunun özlemi olan 4-5 büyük projeninde alt yapısını oluşturarak yeniden aday olan sayın Yusuf Ziya Yılmaz'ın bence bu seçimde alternatifi yoktu. Arkasına AKP oylarınıda alınca Büyük Şehir Belediye Başkanlığı seçimi başlamadan bitmiş bir seçimdi. Öylede oldu ve önemli bir farkla seçimi kazandı. Önemli projelerin ancak iktidar partisinden seçilmekle gerçekleşeceğine inanan sayın Yılmaz bu şansı yakaladı. Bu projelerin bu dönem gerçekleşmesi tüm Samsunluların en büyük beklentisi. Geçen dönem ciddi bir hükümet desteği olmamasına rağmen çok başarılı bir dönem geçiren sayın Yusuf Ziya Yılmaz'dan bu kez beklentiler çok daha farklı ve büyük. Özellikle 4 alt belediyeninde iktidar partisinden olması ve  geçmiş yıllarda yaşanan sorunlarında yaşanmayacak olması, sayın Yılmaz'a ve AKP ye önemli bir sorumluluk yüklemiştir. Bende dün olduğu gibi Samsun Halkının ve sivil toplum örgütlerinin doğru projelere vereceği destekle sayın Yılmaz'ın bunları gerçekleştireceğine inanıyorum.<br />
+Bu seçimin bence Samsun'daki en büyük yanlışı CHP yaptı. CHP yıllardır aşamadığı genel başkan sorunu ile zaten kendi seçmeninin dahi oyunu almakta zorlanıyordu. Akıl dışı politikalarla soldaki bölünmüşlük en büyük etkiyi Atakum da yaptı. Belkide Samsun da alınacak tek seçim bu yanlışlıklar sonucu kaybedildi. AKP istese böyle bir ortamı hazırlayamazdı. Ana muhalefet partisi konumundaki partinin il yöneticileri bunun faturasını ödemek zorundadır. Büyük Şehirdeki olay biraz daha farklı. Bir önceki seçimi kaybetmiş bir partinin kendini yenileyip seçimlerden en az iki yıl önceden iddialı olacak genç ve dinamik ve parti tabanının tamamının sahipleneceği bir adayı hazırlamayışı bu partinin il ve merkez ilçe yöneticilerinin en büyük eksikliğidir. Bunları kesinlikle aday gösterilen sayın Muzaffer Önder'i eleştirmek için söylemiyorum. Sayın Önder bence görevini fazlası ile yapmış alabileceğinden fazla oy almıştır. Ancak bir önceki seçimi kaybetmiş ve yılların etkisi ile yıpranmış, yine yıllardır parti içindeki hiziplerin bir tarafı olarak tabanın bir kesimi tarafından tepki almış bir kişi olarak, daha işin başında çok ciddi bir hendikap üstlenmişti. Büyük şehire çıkan oyları kimse yanlış değerlendirmesin. Bu oyların tamamı CHP oyu değildir. Bunun içinde önemli miktarda tepki oylarıda vardır. Seçimlerden bir süre önce Samsun'daki tabuları yıkarak  bu konuda etkili olan kesimin karşısında tavır koyarak İl seçimini kazanan yönetim, aday belirlemelerinde Genel Merkezin dayatmalarına karşı çıkabilmeliydi. Partide geleceği olan gençlerin önünü açabilmeliydi. Belki böyle bir direnç onların görevden alınmasıyla sonuçlanırdı ama bu, yönetimi iddiaları açısından güçlü hale getirir ve bu günkü seçim sonuçlarının faturasına ortak etmezdi. Bir sonraki yazımda değinmeyi düşündüğüm Genel Başkandan kaynaklanan sorunların temelinde İl yöneticilerinin günü kurtarma ve de görevde kalabilme çabasıyla ilkelerinden ödün vermesi yatmaktadır. Sayın Baykal ve etrafı bu yapıyı çok iyi bildiği için ''nası olsa sonunda benim koyduğum kuralları inanmasalarda kabulleniyorlar''önyargısı ile bugüne kadarki partinin bir yarısını gözardı eden tavırlarını sürdürebilmektedir.<br />
+Böylesine büyük hatalar yapan, üst yönetimlerin dayatmalarına direnemeyen yönetimlerin göreve devam etmeleri zor gözükmektedir. Gelişmiş demokrasilerde bu tür hataların diyetini ödemeden siyaset yapmanın örneği yoktur. Helede bu parti sosyal demokrat bir parti olma iddiasındaysa. Bu seçimlerin en önemli incelenmesi gereken bir noktada seçimlere katılım oranıdır. Kesin sonuçlar açıklanmamış olsada sandığa gitmeyen seçmen sayısı  %30 civarındadır. Bu oran hem iktidar hemde diğer partiler tarafından çok iyi irdelenmelidir. Bu oranda ders çıkartılacak çok çok önemli hususlar vardır. Bu oranla ilgili bir serzenişimde aydın olma iddiasındaki insanlarımıza olacak. Yıllardır yapılan istatistikler seçimlere katılmayanların çoğunluğunun aydın kesim olduğunu göstermektedir. Bu gerçekten düşündürücüdür. Hiç kimse kızmasın, bu tür aydınlarımız hava iyiyse gezi yerlerini, hava soğuksada evde kalmayı oy kullanmaya tercih ederler. Bu tatlısu aydınlarımızın aymazlığı sürdüğü sürece gerçek demokrasinin nimetlerinden yararlanmak için daha çok beklememiz gerekecek.<br />
+Seçime katılmak sorumluluğunu ve cesaretini gösteren tüm adayları bu onurlu davranışları için kutluyorum. Çoğu gelecekte çok şanslı konuma geleceklerdir. Özellikle seçimlere çok geç giren sevgili dostum sayın Mazhar Başoğlu'nun geleceğin favori adaylarından biri konumuna geldiğini ve bu yönde çalışmalarını sürdürmesinin yararlı olacağını düşünüyorum.<br />
+İyi haftalar....</p>
+<p>SADİ  SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0105-ankara-da-yeni-samsunlular-dernegi.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0107-yerel-secimlerin-genel-degerlendirmesi.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

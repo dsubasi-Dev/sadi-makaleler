@@ -1,0 +1,334 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Ukrayna-Rusya Savaşını Bitirebilecek Zelensky-Putin</title>
+
+    <link rel="stylesheet" href="../style.css">
+
+
+    <style id="article-print-style">
+        /* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+        .print-button-container {
+            display: flex;
+            justify-content: flex-end;
+            margin: 0 0 20px 0;
+        }
+
+        .print-button {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+
+            padding: 9px 15px;
+
+            border: 1px solid #b9a36a;
+            border-radius: 6px;
+
+            background: transparent;
+            color: #333;
+
+            font-family: Georgia, "Times New Roman", serif;
+            font-size: 15px;
+
+            cursor: pointer;
+
+            transition:
+                background-color 0.2s ease,
+                color 0.2s ease,
+                border-color 0.2s ease;
+        }
+
+        .print-button:hover {
+            background: #b9a36a;
+            color: white;
+            border-color: #b9a36a;
+        }
+
+        .print-icon {
+            font-size: 16px;
+            line-height: 1;
+        }
+
+
+        /* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+        @media print {
+
+            /* Remove everything that should not appear on paper */
+
+            .print-button-container,
+            nav,
+            footer,
+            .top-nav,
+            .article-navigation,
+            .article-nav,
+            .site-header {
+                display: none !important;
+            }
+
+
+            /* White page background */
+
+            html,
+            body {
+                background: white !important;
+                color: black !important;
+            }
+
+
+            /* Remove decorative shadows and borders */
+
+            * {
+                box-shadow: none !important;
+                text-shadow: none !important;
+            }
+
+
+            /* Main article area */
+
+            main {
+                width: 100% !important;
+                max-width: none !important;
+
+                margin: 0 !important;
+                padding: 0 !important;
+            }
+
+
+            .container {
+                width: 100% !important;
+                max-width: none !important;
+
+                margin: 0 !important;
+                padding: 0 !important;
+            }
+
+
+            /* Article card */
+
+            .article-card {
+                width: 100% !important;
+                max-width: none !important;
+
+                margin: 0 !important;
+                padding: 0 !important;
+
+                border: none !important;
+                background: white !important;
+            }
+
+
+            /* Article title */
+
+            h1,
+            h2 {
+                color: black !important;
+            }
+
+
+            /* Article text */
+
+            p {
+                color: black !important;
+            }
+
+
+            /* Links should print as normal text */
+
+            a {
+                color: black !important;
+                text-decoration: none !important;
+            }
+
+
+            /* Prevent awkward page breaks */
+
+            h1,
+            h2,
+            h3 {
+                break-after: avoid;
+            }
+
+            p {
+                orphans: 3;
+                widows: 3;
+            }
+        }
+    </style>
+
+</head>
+
+
+<body>
+
+
+    <header>
+
+        <div class="container">
+
+            <h1 class="site-title">
+                Köşe Yazılarında
+                <br>
+                <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+            </h1>
+
+
+            <nav>
+
+                <a href="../index.html">
+                    Ana Sayfa
+                </a>
+
+            </nav>
+
+        </div>
+
+    </header>
+
+
+    <main>
+
+        <div class="container">
+
+
+
+            <article class="article">
+
+
+                <h1 class="article-title">
+
+                    Ukrayna-Rusya Savaşını Bitirebilecek Zelensky-Putin
+
+                </h1>
+
+
+                <div class="article-meta">
+
+                    <strong>Yıl:</strong>
+
+                    2025
+
+                    &nbsp; | &nbsp;
+
+                    <strong>Makale No:</strong>
+
+                    1124
+
+                </div>
+
+
+                <div class="article-content">
+
+
+                    <p>UKRAYNA-RUSYA SAVAŞINI BİTİREBİLECEK ZELENSKY-PUTİN<br />
+                        GÖRÜŞMESİ İÇİN EN UYGUN YER SAMSUN’DUR.</p>
+                    <p>Ukrayna ile Rusya arasında devam eden savaş, artık tüm bölge barışını tehdit eder hale
+                        gelmiştir.<br />
+                        Ukrayna’ya ait Karadeniz kıyısında bir yarımada olan Kırım’ın 2014 mart ayında Rusya tarafından
+                        işgali ile başlayan Ukrayna Rusya arasındaki gerginlik, giderek bölgeyi tehdit eder hale
+                        gelmiştir.<br />
+                        Rusya Devlet Başkanı Vladimir Putin’in, Rusya'nın bölgedeki jeopolitik çıkarlarını,
+                        vatandaşlarını ve konuşlandırılmış askerlerini korumak amacıyla 24 Şubat 2022 tarihinde Rus
+                        parlamentosundan aldığı onay sonrası, Rusya Ukrayna'yı işgal etmeye başlamıştır.<br />
+                        Rusya’nın Ukrayna sınırları içerisindeki Donetsk ve Luhansk’ı ayrılıkçı Halk Cumhuriyetleri
+                        olarak tanıması ile savaşın boyutları değişmiş ve ABD’nin de Ukrayna’ya silah ve maddi destek
+                        vermesi ile ABD ile Rusya karşı karşıya gelmiştir.<br />
+                        Günümüzde dünyanın en büyük ve en acımasız sömürgeci devleti konumuna gelen ABD, zorda kalan
+                        Ukrayna’ya desteğini sürdürmek için tam anlamıyla ahlaksızca bir şart öne sürmüştür.<br />
+                        ABD, Ukrayna’yı korumak ve ona destek vermek için Ukrayna’nın sahip olduğu 500 milyar dolar
+                        değerindeki nadir toprak elementi olarak tanımladığı (Altın, gümüş, grafit, titanyum, doğal
+                        taşlar, bor, uranyum, toryum, petrol ve doğal gaz) çok zengin yer altı madenlerini
+                        istemektedir.<br />
+                        Rusya’nın işgal ettiği Ukrayna topraklarındaki çok değerli yer altı madenlerinin değerinin de
+                        350 milyar dolar değerinde olduğu söylenmektedir.<br />
+                        Ukrayna, değerli yer altı madenleri dışında sahip olduğu verimli ovaları ile Avrupa’nın en büyük
+                        buğday üreticisi konumundadır.<br />
+                        Bütün dünyanın gözleri önünde sürdürülmekte olan savaş ve pazarlıklar, sıkıştırdıkları büyük bir
+                        avı paylaşma kavgası veren aslanla kaplanın kapışmasını andırmaktadır.<br />
+                        ABD bir yandan uygulamaya koyduğu BOP (Büyük Ortadoğu Projesi) ile Ortadoğu ülkelerinde
+                        çıkardığı iç savaşlar sonrası kendi güdümünde oluşturduğu yönetimlerle Irak, Mısır, Suriye ve
+                        Libya’nın, başta petrol kaynakları olmak üzere tüm kaynaklarını kontrolüne almıştır.<br />
+                        Bir türlü doymak bilmeyen ve giderek daha acımasız bir sömürü politikası yürütmeye başlayan ABD,
+                        şimdi de İsrail’in geleceğini garantiye almak için İran üzerinde de yeni oyunlar
+                        kurgulamaktadır.<br />
+                        Tüm dünya ülkeleri başta kendi gelecekleri olmak üzere, bölgenin ateş çemberine dönmesini
+                        önlemek için bu savaşın yayılmadan önlenmesi için çaba harcamalıdır.<br />
+                        Ukrayna Devlet Başkanı Zelenski, ABD’ nin milli kaynaklarının yarısına el koymasını önlemek için
+                        Rusya ile anlaşmak zorunda kalmıştır.<br />
+                        Bu nedenle, son günlerde Zelenski-Putin görüşmesi yeniden gündeme gelmiştir. Ancak Putin’in,
+                        “Gel Rusya’da görüşelim” önerisine, Zelenski “Rusya’ya gelmem ama bir başka yerde görüşebiliriz”
+                        Diye bir açıklama yapmıştır.<br />
+                        Her ikisi de Karadeniz’e sınırı olan ülkelerdir. Karadeniz’e sınırı olan bir diğer büyük ülke
+                        ise, Türkiye’dir.<br />
+                        Bu köşeden ülkemizi yöneten Sayın Cumhurbaşkanı ile Dış İşleri Bakanı Sayın Hakan FİDAN’A bu bir
+                        çağrı yapıyorum; Buluşma için devreye girerek PUTİN-ZELENSKİ buluşmasına Samsun’un ev
+                        sahipliğini yapmasını sağlayınız.<br />
+                        Sayın Valimiz, Büyükşehir Belediye Başkanımız ve başta Sayın Mehmet Muş olmak üzere tüm
+                        milletvekillerimizden de bu konuda sorumluluk almalarını ve ülkemizin kurtuluşunun ilk adımının
+                        atıldığı, güneşin doğduğu kent Samsun’un bu kez de dünya barışını sağlayacak kent olmasını
+                        sağlamaları için bir Samsunlu olarak çağrı yapıyorum.<br />
+                        Samsun, bu buluşmaya ev sahipliği yapmak için her türlü donanıma sahiptir ve böyle önemli bir
+                        barışa ev sahipliği yapmak Türkiye adına Samsun’a çok yakışacaktır.<br />
+                        12.09.2025<br />
+                        Ecz. SADİ SUBAŞI</p>
+
+                </div>
+
+
+                <div class="navigation">
+
+
+                    <div>
+
+                        <a href="1123-turkiye-de-yasananlarin-nedeni-bop-projesidir.html">← Önceki Makale</a>
+
+                    </div>
+
+
+                    <div>
+
+                        <a href="1125-turk-siyasetinde-artik-tek-muhalefet-partisi-kalmistir.html">Sonraki Makale →</a>
+
+                    </div>
+
+
+                </div>
+
+
+            </article>
+
+
+
+        </div>
+
+    </main>
+
+
+    <footer>
+
+        <div class="container">
+
+            <p>
+                © Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+            </p>
+
+        </div>
+
+    </footer>
+
+
+</body>
+
+</html>

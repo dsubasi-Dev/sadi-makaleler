@@ -1,0 +1,323 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Bu Ülkede Olup Bitene Aklım Ermiyor</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Bu Ülkede Olup Bitene Aklım Ermiyor
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2019
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0929
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>ANLAMAKTA ZORLANDIĞIM KONULARA<br />
+CEVAP ARIYORUM.</p>
+<p>1960 sonrası 58 yılda ülkemizde olan biteni yakından takip eden birisi olarak, ülkemizin hiçbir dönemde gerçek demokrasi kuralları ile yönetildiğine tanık olmadım.<br />
+Bu 58 yılda demokrasimiz iki askeri darbe, bir de 15 Temmuz darbe denemesi ve birkaç askeri muhtıra ile ciddi boyutta yara aldı. Askeri darbelerde en büyük şansımız, askerlerin 2-3 yıl içinde yönetimi sivillere teslim etmiş olmasıydı. Ama masum onbinlerce insan hayattan kopartıldı.<br />
+Bu olaylara tanıklık etmemize, sivil yönetimlerin uzlaşma kültüründen uzak olmasının da zemin hazırladığını göz ardı edemeyiz.<br />
+Askeri yönetimlerin ülkemize en büyük zararı, geleceğimiz olan çok sayıda birikimli gencimizin yaşamını söndürmesi ve deneyimli çok sayıda siyasetçiyi siyasetten kopartması olmuştur.<br />
+Bu girişten sonra kafama takılan soruları sıralayabilirim.<br />
+Bu ülke 1950 yılına kadar dış borcu olmayan bir ülkeyken, neden ilerisini düşünmeden kabul edilen Marshall yardımı ile dış borcu olan ülke durumuna düşürülmüştür? Anlayamıyorum.<br />
+Bizimle yakın uzak bir ilişkisi olmayan Kore’ye asker gönderip yüzlerce şehit vermemiz neyin diyetidir? Anlayamıyorum.<br />
+İlkokul çocuklarına yıllarca Amerika’nın bağışı olan süt tozları içirilmiştir. Bu bağışın bir amacı var mıydı? Bu süt tozlarının ciddi bir tetkiki yapıldı mı? Anlayamıyorum.<br />
+Bu süt tozu yardımları sonrası ülkemizde çocuk felcinin patlama yaptığı, sonrasında da bunun aşısını ithal etmek zorunda kalışımız bir tesadüf müydü? Kafam karışıyor, neden bunlar bugüne kadar cevapsız kaldı? Anlamıyorum.<br />
+Amerika’nın, eğitim sistemimizin ezbere dayalı test sistemine geçilmesinde etkisi olmuş mudur? Olduysa, eğitimcilerimiz neden karşı çıkmadılar? Anlayamıyorum.<br />
+Kurtuluş Savaşı’nın ne zor şartlarda kazanıldığını en güzel anlatan NUTUK, orta okul ve liseler de eğitim gören çocuklarımıza ders olarak okutulmamış olmasının nedeni nedir? Anlayamıyorum.<br />
+Tüm dünya ülkeleri dinlerini kendi lisanından öğrenebilme şansına sahipken, bu milletin dinini kendi lisanından öğrenmesine neden engel olunmuştur? Anlayamıyorum.<br />
+Ülkemizde ki eğitim düzeyini kısa sürede yükseltmek ve çok donanımlı öğretmen yetiştirmek için kendimize özgü bir eğitim modeli olarak yaratılmış ve kısa sürede inanılmaz başarılı olmuş “Köy Enstitüleri”, eğer varsa yanlışlarının düzetilerek devam ettirilmesi yerine, neden kapatılmıştır? Anlamıyorum.<br />
+1960 sonrası seçim kazanan sağ parti başkanları neden seçimler öncesi Amerika’ya gitmeyi gelenek haline getirmiştir? Anlayamıyorum.<br />
+1980 sonrası iktidara Rahmetli Turgut Özal dönemin de ülkemizde üretilebilen her türlü maddenin ithalatının önünün açılması ile ithalat patlatılırken, neden üreticilerimiz adeta cezalandırılmış ve toplumun tüketime alıştırılmasının önü açılmıştır? Anlamıyorum.<br />
+Bu ithalat modasının devamında, o güne kadar “Kendi kendine yeten yedi ülkeden birisi olan ülkemizin” bir gün buğday için dahi yabancılara el açmak zorunda kalacağı neden düşünülememiştir? Anlamıyorum.<br />
+1945 yılında başta Avrupa olmak üzere çok sayıda ülkeyi kan gölüne çeviren 2. Dünya savaşının bitmesi ile dünya yeni bir sürece girmiştir.<br />
+Bu süreçte, 2. Dünya Savaşı’nın insanlarda bıraktığı derin izler nedeniyle, gözü dönmüş bazı diktatörlerin dışında kalan tüm ülkeler sıcak savaşın dışında kalmaya özen göstermiştir.<br />
+Ne var ki, kendi halkının bolluk ve kaliteli yaşamı için 2. Dünya savaşı sonrası güç kazanarak dünyanın başına bela olan bazı sömürgeci ülkeler, dünyanın diğer bölgelerinde zengin yer altı kaynaklarına sahip ülkelere gözünü dikmiştir.<br />
+Süper güç adıyla da anılan bu devlet veya devletler, o ülkelerin yönetim kadrolarında görevli olanları ele geçirerek kurduğu kukla hükümetler aracılığı ile o ülkelerin öz kaynaklarını ele geçirmektedir.<br />
+İşte bu yeni sömürü sisteminin yarattığı canavarın adı “SOĞUK SAVAŞ’TIR”.<br />
+Ülkesinin çıkarlarını korumayı ön plana alan tüm devletler, bu sömürüden korunma yolu olarak kendi ülkesinde yetiştirilebilen başta tarım ürünleri üreticileri olmak üzere üreten diğer sektörleri de desteklemeyi ilke edinmiştir.<br />
+Bu konuda en kötü örnekler, bugün açlıkla boğuşan bazı Afrika Devletleridir.<br />
+Geçmişte tüm Afrika’ya buğday satan bazı Afrika Devletleri, zamanla topraklarını sömürgeci devletlerin kirli yatırımlarına açtıkları için artık o topraklar tarım yapılamaz hale gelmiş ve bugün açlıkla boğuşmak zorunda kalmışlardır.<br />
+Ülkemizde de son yıllarda uygulanan yanlış tarım politikaları ile en verimli ovalarımıza kirli yatırımların yapılmasına göz yumulmuştur. Bunun sonu, Afrika’nın yaşadığı kabusa davetiye çıkartmaktır.<br />
+Kendi köylüsünün ürettiği buğdayın pahalı diye desteklemeyerek yurt dışından alınmaya başlaması ile tarım üretimine vurulan darbe, daha sonra şekerpancarı ve giderek çoğalan tarımsal ve hayvansal ürünlerle devam etmiştir.<br />
+Oysa, pahalı da olsa kendi köylümüzden alınacak buğdayın parası üreticimizde, yani iç piyasada kalacak ve o para birçok sektöre can suyu olacaktı. Dışalımla alınacak her maddeye ödenecek döviz ise, Devletin cebinden çıkacaktı.<br />
+Üzülerek söylemek gerekirse, artık bugün Türkiye üreten değil tüketen bir ülke haline gelmiştir.<br />
+Soğuk harbin acımasız yüzü ile tanışmak istemiyorsak, çok üretip az tüketerek gözü dönmüş sömürgeci devletlere mahkûm olmamalıyız.<br />
+Son zamanlarda siyasi iradenin bu yanlışları görerek üretime önem vereceğinin işaretleri görülmeye başlaması, umut verici bir gelişmedir.<br />
+SON SÖZ;<br />
+Ülke olarak bu dar boğazdan çıkışın anahtarı, çok, çok, çok üretim. Az tüketimdir.<br />
+Umarım, ülkemizi yöneten siyasi irade bir an önce üretim odaklı bir planla ülkemizi yeniden üreten bir ülke haline getirir. 29.01.2019</p>
+<p>Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0928-bu-nasil-yerli-ve-milli-olmak.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0930-genc-beyin-gocu-aileleri-parcaliyor.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

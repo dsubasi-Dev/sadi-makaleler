@@ -1,0 +1,334 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>EMO Bülten-Samsun&#x27;a Yapılması Planlanan Bu Yanlış Yatırımlar Mutlaka Durdulmalıdır.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+EMO Bülten-Samsun&#x27;a Yapılması Planlanan Bu Yanlış Yatırımlar Mutlaka Durdulmalıdır.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2008
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0334
+
+</div>
+
+
+<div class="article-content">
+
+<p>SAMSUN’A YAPILMASI PLANLANAN BU YANLIŞ<br />
+YATIRIMLAR MUTLAKA DURDURULMALIDIR..</p>
+<p>Küresel ısınmanın etkisi ile Dünyamızı önümüzde ki 50 yılda bekleyen en büyük tehlike açlık ve susuzluk olarak belirlenmiştir. Dünya kendisini bu sorunların çözümü için odaklamışken, Ülkemizi yönetenlerin, Tanrı’nın bize bahşettiği en verimli ovaları ve su kaynaklarını göz göre, göre yok edilmesine olanak veren projeleri uygulamaya sokmasını anlamakta sıkıntı çekiyoruz.<br />
+Ziraat mühendislerinin aktardığı bilgilere göre bir ovanın oluşması için on binlerce yıl gerekiyor. Böylesine zor oluşan ve “ne atsan biter” denen ovalardan iki tanesi Samsun’un doğu ve batısında yer alan Çarşamba ve Bafra Ovalarıdır. Yıllarca Anadolu’nun iç bölgelerinden taşıdıkları alüvyonları Karadeniz’e döküldükleri yerde biriktirerek bu ovaları meydana getiren Kızılırmak ve Yeşilırmak, aynı zamanda bu ovaları sulamaktadır. Bu ovalar Türkiye’nin yakın bir gelecekte hem açlık, hem de susuzluk tehlikesi yaşamasını önleyecek birer Tanrı lütfudur.<br />
+Ne yazık ki, beş yıl kadar önce dönemin Koalisyon Hükümeti çevre yasalarını askıya alarak, belirli çevrelere çıkar sağlama amacı ile Çarşamba Ovası’nın Tekkeköy yöresine altı numaralı fuel-oil ile çalışacak adı mobil, kendisi sabit iki adet 100’er MW. lık MOBİL SANTRAL yapımına izin vermiştir. O dönem de Sivil Toplum Kuruluşları Platformunun oluşturduğu Çevre Birlikteliği Samsun Barosu’nun büyük bir uğraşısı ile MOBİL SANTRALLERİN sözleşmesini iptal ettirmiş ve santrallerin çalıştırılması durdurulmuştu.<br />
+22 Temmuz seçimlerinin hemen ardından bu iki santral yasalar çiğnenerek, “Bakan Talimatı” ile devreye sokturulmuştur. Davayı takip eden o dönemin Baro Başkanı Sayın Av. Arif Yılmaz Üney’in ifadesi ile Bakan ve çalıştırılmasını önlemeyen il yöneticileri anayasal suç işlemektedirler. Yeniden davalar açılmış olup, Çarşamba Ovasını bitirecek ve bu santrallere 2,5 km. mesafede bulunan Samsun içme suyunu sağlayan Çakmak Barajını kansorejen maddelerle kirletecek santrallerin durdurulması çabaları sürdürülmektedir.<br />
+İki mobil santralin yeniden kapattırılma çalışmaları sürerken, bu santrallerin hemen yanına, aynı firma ( Cengiz İnşaat ve Enerji ) tarafından bu kez 600’er MW. lık kömürle çalışacak iki termik santral yapımı için işlemlerin tamamlanmak üzere olduğu öğrenilmiştir. Bu inanılması güç haber Samsunlular için tam bir şok olmuştur.<br />
+Yine bu ovanın ortasına Yeşilırmak’ın Karadeniz’e döküldüğü yere yakın 4 adet daha termik santral yapımı için bazı şirketlere onay verildiği duyumlarını almış bulunuyoruz<br />
+Yatağan ve Afşin-Elbistan Termik Santrallerinin çevrelerini yok ettiği ve yöre insanlarının solunum hastalıkları ve kanser kıskacında inlediği biliniyor. Bu gerçekler ortadayken Enerji Bakanlığının bu ovayı yok edecek, çocuklarımızın geleceğini karartacak ve kanser hastalıklarına mahkûm edecek bu santrallerin yapılmasına nasıl onay verdiğini anlamakta sıkıntı çekiyoruz.<br />
+Yatağan Bölgesinde inceleme yaparak üç değişik konuda rapor hazırlayan Muğla Üniversitesi Öğretim üyeleri bölgede yaşanan felaketi tüm açıklığı ile ortaya koymuşlardır. Yrd. Doç. Muammer Tuna’nın araştırmasında alınan bazı alıntılar da şu bilgiler yer almaktadır;<br />
+Aslında bir tarım alanı olan Yatağan yöresinde bu santralin çalışması ile birlikte bacasından savrulan kükürt dioksitin ve nitrojen oksidin iklimsel olaylarla nemle birleşerek yakıcı asitlere dönüşüp asit yağmuru olarak yeryüzüne inmesi ile yörede ki bitki örtüsü yok olmuş, insanlarda solunum yolu hastalıklarına yol açmıştır. Doğal denge ve doğa ile insan arasındaki ilişkinin bozulduğu ve yörenin derinliğine etkilendiği görülmüştür.<br />
+Fosil atıklar içersinde kansorejen etkili Radon ve Uranyum gibi radyoaktif maddeler bulunmaktadır.<br />
+Bu santraller yoğunlaştırıcılarda kullandığı suyu ( deniz veya ırmak ) 7 ile 10 derecede ısınmış olarak geri verir. Gerek suyun çekilişi ve gerekse ısınmış suyun geriye verilmesi ciddi çevresel sorunlar yaratmakta, ortamın ısı dengesini bozduğu için sudaki canlı yaşamını olumsuz etkilemektedir.<br />
+Son yıllarda kamuoyu baskısı ile desülfürizasyon filtresi takılmasına rağmen kaygılar giderilememiştir.<br />
+Kömüre bağlı kirliliği azaltmak üzere Yatağan’da evlerde ısınma amaçlı kömür yakımı yasaklanmış, ama tüm Yatağanlıların bir yılda yaktığı kömürü bu santral bir günde yaktığı için sonuca hiçbir katkısı olmamıştır.<br />
+Raporun sonunda, “çevreden toplanan örnekler Ege Üniversitesi Fen fakültesi Kimya Bölümü’nde ve Nükleer araştırma Enstititüsü’nde incelenmiş ve sonuçta elde edilen veriler santralin verdiği zararların yararlarını çoktan aştığını göstermektedir” denilmektedir.<br />
+Yörede ki kanser vakaları da önceki yıllara göre % 300 oranında artış göstermektedir.<br />
+Yine Muğla Üniversitesi Öğretim Üyesi Yrd. Doç. A. Levent Tuna’nın 2005 yılında yaptığı araştırmanın bir yerinde, “çevredeki yeraltı ve yerüstü su kaynakları ile barajlarda yapılan bir çalışma da sularda rastlanan kalsiyum, kadmiyum, kurşun, antimuan ve kükürt metallerinin miktarlarının Türkiye, EPA ve WHO ( dünya sağlık teşkilatı) tarafından belirlenen normların üzerinde olduğu görülmüştür.” Denmektedir. Bu, kanserojen etkili ağır metallerin sulara karıştığını göstermektedir.<br />
+Aynı araştırmacı, santralin çalışmaya başlaması ile birlikte o yörede yoğun olarak bulunan kızılçam ormanının 35800 hektarının tahrip olduğunu ve yaklaşık 100.000 metreküp ağacın kesilmek zorunda kalındığını belirtmektedir.<br />
+Aynı Üniversitenin bir başka öğretim üyesi Yrd. Doç. Dr. Tayfun Büke, santralden çıkan kül örnekleri üzerinde çalışmıştır. Araştırmaya göre uçucu ve dip kül örneklerinde rastlanan radyoaktif maddeler, santral bacalarından atmosfere yayılarak yörede ki 44037 nüfuslu Yatağan ile 107108 nüfuslu Milas ilçelerinde yaşayan halk üzerinde radyoaktif (kansorejen ) riskler yaratmaktadır.<br />
+Bundan iki ay kadar önce NTV’nin Kahramanmaraş’tan yaptığı canlı yayında konuşan Ticaret Odası Başkanı da, yukarıda ki bilgileri doğrulayacak şekilde Afşin-Elbistan termik Santralinin çevreyi tamamen öldürdüğünü ve arazilerinde ot dahi yeşermediğini söylerken, yöre halkının çok ciddi sağlık sorunları yaşadığını vurguluyordu.<br />
+Gözüken köy kılavuz istemez. “O tesisler eski teknoloji, biz en son teknoloji ile olanı yapıyoruz” söylemleri bizleri yanıltmamalıdır. En iyi filtre sistemlerinin ancak % 90 verimle çalıştığını bütün bilim adamları kabul ediyor. Bunun anlamı % 10 zehirli gaz doğaya veriliyor demektir. MOBİL SANTRALLER ile ilgili suyu, toprağı, havayı kirleten ve canlı sağlığını tehdit eden kirlilik hesabı zaten bu % 10 kaçak üzerinden yapılıyor. Daha çalışalı 4 ay olmasına, tepkileri ve riskleri azaltmak için maliyeti artırıcı bir uygulama ile kükürt dioksit kaçağını tutmak üzere kireç kullanılmasına rağmen, yöre halkının solunum şikâyetlerinin arttığı Tabipler Odasının araştırmaları ile saptanmıştır. Deniz kirliliğine yol açmamak için fuel-oilin karayolu ile taşınmasına ne kadar dayanacaklardır? Kaldı ki çevre İl Müdürlüğü bu kadar tedbire rağmen MOBİL SANTRALLERİN çevreyi kirlettiği gerekçesi ile yüklü bir para cezası kesmiştir. Burada önemli olan para cezası ve miktarı değildir. ASIL ÖNEMLİ OLAN, BU CEZA İLE MOBİL SANTRALLERİN DAHA ŞİMDİDEN ÇEVREYE ZARAR VERDİĞİNİN BELGELENMİŞ OLMASIDIR.<br />
+Gelinen nokta Samsun’un geleceği için çok büyük önem taşımaktadır. Sonuçları çok ağır olacak bu sürecin tüm sorumluluğunu Çevre Birlikteliğinin omuzlarında bırakamayız. Samsun bu açmazdan, başta Sayın Valimiz ve Büyükşehir Belediye Başkanımız olmak üzere milletvekillerimiz, tüm alt ve yöre belediye başkanları, ilgili il müdürleri ile sivil toplum kuruluşlarının toplumun beklentileri yönünde güç birliği yaparak ortak tavır koyması ile kurtulabilir.<br />
+Birkaç yıl sonra olasıdır ki, bürokrat olan Valimiz, Çevre İl Müdürümüz, Tarım İl Müdürümüz ve ilgili diğer bürokratlar Samsun’da görev yapıyor olmayacaklardır. Ancak bu kentin insanı olan belediye başkanlarımız görev de olmasalar dahi, bu kentte yaşamlarını sürdürüyor olacaklardır. İnanıyorum ki, dönemlerinde seslerini çıkarmadıkları bu santrallerin, birkaç yıl sonra binlerce insanı solunum yetmezliği ve kanserle boğuşuyor hale getirdiğini görmek istemeyeceklerdir. Çünkü bu vebal kolay taşınır bir yük değildir.<br />
+Sanıyorum halktan gelen tepkileri görerek duyarlı bir davranış sergileyen yöre belediye başkanları ( Çınarlık, Aşağıçinik, Büyüklü, Dikbıyık, Hürriyet ve Ağcagüney Belediye başkanları), Mobil ve Termik Santraller karşısında ortak tavır sergileme kararı almışlardır. Sağduyulu davranış sergileyen bu belediye başkanlarımızı kutluyor ve başta Çarşamba olmak üzere Tekkeköy, Kutlukent ve tabii ki Samsun Büyükşehir Belediye Başkanımızı da aynı hassasiyeti göstererek, Samsun’un geleceğini karartacak bu yatırımları engellemek noktasında siyasi sorumluluk üstlenmeye davet ediyoruz.<br />
+Bu bilgiler ve değerlendirmelerin ışığında Samsun’a yapılan bu haksız dayatmayı içimize sindiremiyoruz.<br />
+TEMİZ ENERJİ PROJESİ OLAN RÜZGÂR SANTRALLERİNİN ENERJİ BAKANININ MEMLEKETİ ORDU’YA, KİRLİ PROJELERİN İSE SAMSUN’A YAPILMASI KARARINA İSYAN EDİYORUZ..</p>
+<p>BİZLERİ TEMSİL EDİP TBMM’NE GÖNDERDİĞİMİZ VEKİLLERİMİZİN SUSKUNLUĞUNU KABULLENEMİYORUZ.</p>
+<p>BİZLERİ YÖNETSİN, BİZLERE DAHA İYİ YAŞAM KOŞULLARI SAĞLASIN, KENTİMİZE SAHİP ÇIKSINLAR DİYE SEÇTİĞİMİZ SAMSUN BÜYÜKŞEHİR BELEDİYE BAŞKANINA, ÇARŞAMBA BELEDİYE BAŞKANINA, TEKKEKÖY BELEDİYE BAŞKANINA, KUTLUKENT BELEDİYE BAŞKANINA VE YÖREDE Kİ DİĞER BELDELERİN BELEDİYE BAŞKANLARINA OYLARINI ALDIKLARI İNSANLARI KADERLERİ İLE BAŞBAŞA BIRAKTIKLARI İÇİN İSYAN EDİYORUZ..</p>
+<p>VE BİZİ YÖNETENLERE SORUYORUZ;</p>
+<p>BU OVA KİRLİ YATIRIMLAR İÇİN PİLOT BÖLGE OLARAK MI SEÇİLDİ? BUNU AÇIKLAYINIZ..</p>
+<p>BU KENT SAHİPSİZ VE NASIL OLSA SESLERİ ÇIKMAZ DİYE Mİ DÜŞÜNÜYORSUNUZ?</p>
+<p>EĞER BU KENTİN İNSANINA HİZMET İÇİN ATANMIŞ VE SEÇİLMİŞLERSE, MİLLETVEKİLLERİMİZİN, BELEDİYE BAŞKANLARIMIZIN, BAŞTA ÇEVRE VE ORMAN İL MÜDÜRÜ İLE TARIM İL MÜDÜRÜ OLMAK ÜZERE İLGİLİ TÜM İL MÜDÜRLERİMİZİN BU SORULARI CEVAPLAMAK VE HALKI AYDINLATMAK GÖREVLERİDİR.</p>
+<p>SAMSUN BU CEZAYI HAKETMEK İÇİN NE SUÇ İŞLEDİ?</p>
+<p>22 TEMMUZ SEÇİMLERİNDE VERİLEN % 58 OYUN KARŞILIĞI BU MU OLMALIYDI?</p>
+<p>VE DİYORUZ Kİ,</p>
+<p>BU KENTİN SUSUKUNLUĞU KİMSEYİ YANILTMASIN. BU KENT TÜRKİYE CUMHURİYETİ’NİN KURULMASI İLE SONLANAN KURTULUŞ SAVAŞININ MEŞALESİNİN YAKILDIĞI KENTTİR.</p>
+<p>BÖYLESİNE ÖNEMLİ BİR MİSYONU OLAN BİR KENTE YAPILANLARA SUSKUN KALMAK VEYA ÖRTÜLÜ DESTEK VEMEK BU KENTE VE ÇARŞAMBA OVASI NEDENİYLE ÜLKEMİZİN GELECEĞİNE İHANETTİR.</p>
+<p>DÜN BU KENTE TEŞVİKİ VERMEYEN ZİHNİYET, BU PİS YATIRIMLARA KARŞI ÇIKANLARI YATIRIM DÜŞMANI OLARAK İLAN ETME KOLAYCILIĞINA SIĞINAMAZ.</p>
+<p>EĞER BU HALKIN TÜM DİRENİŞİNE RAĞMEN BU YATIRIMLAR YAPILMAKTA İSRAR EDİLİRSE, KORKARIM BU DAYATMANIN ÇOK DAHA BAŞKA NEDENLERE DAYANDIĞI SORULARI DA TARTIŞILMAYA BAŞLAYACAKTIR.</p>
+<p>LÜTFEN, SAMSUN’A VE ÇARŞAMBA OVASINA KIYMAYINIZ VE KIYDIRMAYINIZ..<br />
+ECZ. SADİ SUBAŞI<br />
+SAM-SEV<br />
+YÖNETİM KURULU BAŞKANI<br />
+ÇEVRE BİRLİKTELİĞİ YÜRÜTME KURULU ÜYESİ</p>
+<p>YATAĞAN VE AFŞİN-ELBİSTAN TERMİK SANTRALLERİ<br />
+İLE SAMSUN MOBİL SANTRALLERİNİN DÜŞÜNDÜRÜCÜ<br />
+GÖRÜNTÜLERİ</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0319-hizli-tren-fiyaskosu.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0335-i-ki-konu-i-ki-yorum.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

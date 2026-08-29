@@ -1,0 +1,329 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Burası Samsun. Olur Böyle Şeyler - 2</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Burası Samsun. Olur Böyle Şeyler - 2
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2008
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0386
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>BURASI SAMSUN. OLUR, BÖYLE ŞEYLER DENMEMELİ.</p>
+<p>İki bölüm halinde yazmayı planladığım köşe yazımın ilk bölümünü iki hafta önce “Olur böyle şeyler burası TÜRKİYE denememeli” başlığı ile sizlerle paylaşmıştım. İkinci bölümü ise bir sonra ki hafta üstteki başlıkla sizlerle paylaşacaktım. Ancak bildiğiniz gibi köşemi önce<br />
+“ MUSTAFA FİLMİ’NE”, sonra da 10 KASIM nedeniyle MUSTAFA KEMAL ATATÜRK’ÜN 70. ölüm yıl dönümüne ayırdım. Şimdi sıra bu iki bölümlük yazı dizimin ikincisine geldi.<br />
+İlk bölümde, çağdaş bir ülkede olamayacak, hatta ayıplanacak bazı sıra dışı olayların ülkemizde olağan hale geldiğini bazı örneklerle anlatmıştım.<br />
+Türkiye’de bunlar olurken, Samsun’da da çoğu kentte görülmeyen gariplikler sürüp gidiyor. Adının başında Büyükşehir unvanı bulunan Samsun, bunu ne kadar hak ediyor orası tartışmalı.<br />
+. .  Çağdaş kent olmanın en önemli unsurlarından birisi olan otel konusu, Samsun için tam bir kâbus haline gelmiş bulunuyor. Yatak kapasitesinin artırılması gereken Samsun’da bulunan tek beş yıldızlı otel, bir yıl önce işletmecisinin yıllardır kirasını ödememesi nedeniyle icra yoluyla tahliye edildi. Tahliye sonrası çıkan sorunlar nedeniyle de satış veya kiralama yolu ile yeniden hizmete girmesi sağlanamadı.<br />
+Otel ilk etapta satışa çıkartıldı. Kıyı kenar çizgisinin belirsizliği yüzünden tadilat ve büyütülmesine olanak yaratılamadı. Mevcut konumu ile de alıcı da çıkmadı. Kamuoyunun baskısı üzerine bu kez de kiralanması için duyurular yapıldı. Şimdilik kiralama konusunda da bir ışık gözükmüyor. Koca kent, kıyı kenar çizgi sorununu çözemiyor ve Samsun otelsizliğe mahkûm ediliyor. İşadamları yırtınıyor. “Konuk işadamlarını yatıracak otel bulamıyoruz, Havza’ya götürmek zorunda kalıyoruz” diyorlar.<br />
+Eski otogarın arazisi beş yıldızlı otel ve alışveriş merkezi yapılacak diye bir firmaya satılıp, tantanalı bir temel atma töreni yapılıyor. Aradan bir yıl geçiyor, çivi çakılmıyor. Söylentiler bitmiyor. Ama bir gerçek var ki, o da Samsun otelsiz.<br />
+.. Çağdaş kent diye övündüğümüz Samsun’da hala beş yüz kişilik toplantı yapılabilecek bir salon yok. Koca kent hala bir kongre merkezi yapamamanın ayıbını yaşıyor.<br />
+Kentler turist çekmek için her türlü olanağı kullanıyor. Samsun ise hiçbir ile nasip olmayacak “ 19 Mayıs “ gibi tarihi bir mirası kullanamıyor.<br />
+. . Samsun’un onur kaynağı “ GAZİ MÜZESİ ”, bir takım söylentilere zemin hazırlayacak şekilde tam da turizm sezonunda onarım gerekçesi ile beş aya yakın bir süredir kapalı tutulabiliyor.<br />
+Geçtiğimiz yıl Türkiye’de ki müzeler arasında ziyaretçi sıralamasında 9. sırada yer alan müzenin kapalı tutulmasına koca kentten ses çıkartan yok. Yaz ayları boyunca Samsun’a gelen konukların kapalı buldukları Gazi Müzesi önünde koydukları tepkiler ve söyledikleri, 19 Mayıs Kenti Samsun’un adına yakışmıyordu.<br />
+Bu onarımın zamanlamasının ve ne kadar gerekli olduğunun sorgulanmaması dahi, bu tür işlerin ancak Samsun’da olabileceğinin en somut göstergesidir.<br />
+İzleyici sıralamasın da Türkiye’nin ilk on müzesi arasında yer alan GAZİ MÜZESİ adına bir başka gariplik ise, kentimize gelen konukların Bandırma Vapur’una götürülmesine karşılık, Gazi Müzesi’nin anlaşılmaz bir şekilde yok sayılmasıdır.<br />
+. . Samsun’un kötü kaderini değiştirebilecek “ TEŞVİK” Samsunluya çok görülürken, sahibinin sesine uyarak “ Samsun’un teşvike ihtiyacı yok” diyebilenler, aradan 3,5 yıl geçtikten sonra arşivlere giren sözlerini unutarak, “ Samsun üç yanından teşvikli illerle çevrilerek haksız rekabete uğratılmış ve ekonomik yönden büyük kayba uğratılmıştır” diyebilecektir.<br />
+Katıldıkları toplantıda Samsun’un teşvik dışı bırakıldığını açıklayan Sayın Başbakan ve Maliye Bakanı’nı, teşvik olanaklarından en fazla yararlanacak olan Samsunlu işadamı ve sanayicilerine alkışlatan aynı kafalar değil midir? Böyle bir çelişki de ancak Samsun’da olabilir..<br />
+Teşvik kapsamında ki 50 il içersinden sadece Samsun’un yeni düzenlemeler dışında bırakılmasına itiraz ederek, kentinin yatırımcıları adına çaba harcayan sivil toplum kuruluş yöneticilerine hangi ilin milletvekilleri  “teşvik gözünüze girsin“ veya “aportta bekliyorlar“ diyebilir?<br />
+. . Teşvik hayali suya düşünce yeni umut olarak şişirilen “Samsun Cazibe merkezi” oluyor balonu, ilgili bakan tarafından patlatılırken, salonda bulunan ve bu balonu şişiren milletvekilleri, yerel yöneticiler, sanayi ve borsa başkanları ile işadamı derneklerinin başkanları nasıl sessiz kalabildiler anlamak mümkün değil. Bu ancak ve ancak Samsun’da olabilirdi.<br />
+Samsun’un içine düştüğü çıkmazın ve sahipsizliğin son bir yıl içersinde yaşanmış başka üç örneğinden söz etmek istiyorum.<br />
+. . Samsun’un yaşadığı büyük sel felaketi sonrası Mimarlar Odası Şube Başkanlığı, Samsun’da ki sel baskınlarını masaya yatıran “SEL SEMPOZYUMU” düzenler. Türkiye’nin önemli üniversitelerinden saygın ve konularının uzmanı bilim adamlarının katıldığı bu toplantı da ne bir kent yöneticisi, ne de selle boğuşan bir belediye başkanı vardır.<br />
+.. Samsunlu, dayatılan mobil ve termik santral sorunları ile boğuşurken, enerji sorunu EMO tarafından düzenlenen bir başka sempozyumda tartışılır. Bu sempozyumda da ne atanmış, ne de seçilmiş bir il yöneticisi yoktur.<br />
+.. Geçen hafta sonunda, EMO tarafından düzenlenen bir başka toplantı da, Samsun’da yapılması planlanan yatırımlarda yeterli enerji üretimi olmasına rağmen kullanabilecek enerjinin bulunmadığının açıklandığı bir rapor yayınlanıyordu. Bunun anlamı, enerji yetersizliğinden değil, Samsun’da kurulu enerji dağıtım trafolarının kapasitesinin tamamen dolu oluşundan kaynaklandığı ve acilen trafoların büyütülmesi gerektiğinin altı çiziliyordu. Bu önemli toplantıda çağrılı sivil toplum kuruluşlarından sadece SAM-SEV katılırken, kentin hiçbir atanmış ve seçilmiş yöneticisinin bulunmaması Samsun’un asıl sorununun sahipsizlik olduğu gerçeğini bir kez daha kanıtlıyordu.<br />
+.. Bu kez de önümüzde, bünyesinde bulundurduğu çok sayıda ki mühendis ve mimar odaları ile Türkiye’nin en büyük meslek kuruluşlarından birisi olan TMMOB’nin düzenlediği “KENT SEMPOZYUMU” var. 26, 27, 28 Kasım 2008 tarihinde Türkiye’nin 6-7 ili ile birlikte Samsun’da da yapılacak olan bu sempozyum da, Samsun’un “Kentsel dönüşüm, sosyal ve ekonomik yapısı” gibi çok önemli sorunlarında bildiriler sunulacaktır.<br />
+Bu sempozyum için tüm seçilmiş ve atanmış yerel yöneticilerle sivil toplum kuruluşlarına çağrı yapılmasına rağmen, son dakikada katılacağını bildiren Canik Belediyesi dışında hiçbir yerel yönetici ve iş dünyasının önemli oda, borsa ve işadamı derneklerinden cevap dahi alınamamıştır.<br />
+Başvuru süresinin bittiği son dakikaya kadar bildiğim kadarı ile SAM-SEV’İN sunacağı iki bildiri ile birlikte toplam 36 bildiri kabul görmüş bulunuyor.  Üzülerek söylemek gerekirse yazılı ve sözlü başvuruya rağmen kentimizin en üst seviyede ki seçilmiş yerel yöneticisinden randevu dahi alınamamıştır. Neyse ki, geçen hafta içersinde Sayın Valimiz HASAN BASRİ GÜZELOĞLU TMMOB İKK Sekretaryasını kabul ederek her türlü destek sözünü vermiştir. Sayın valimize verdiği destek için teşekkürlerimi sunuyorum.<br />
+Düşünebiliyor musunuz? İş dünyasının çok önemli sivil toplum kuruluşlarının! Samsun’un sorunlarının masaya yatırılacağı bu sempozyumda ya söyleyebilecekleri bir şeyleri yok veya kendilerinin düzenlemediği organizasyonlar onları ilgilendirmiyor.<br />
+SAM-SEV tarafından “ SAMSUN KENT KURULTAYI” adı ile üç kez düzenlenen benzeri bir KURULTAYINDA sürdürülmesi, yine bu ekipler tarafından engellenmişti.<br />
+Burada bir konunun da altını çizmek istiyorum. Her zaman destek verdiğim ve bunu da her ortamda vurguladığım yerel basınımızın, bu kentte yaşanan yukarıda ki olayları haber yapmanın dışında sorgulamaması beni şaşırtıyor. Özellikle de köşe yazarları dostlarımın bir ikisi hariç bu konuları sorgulamaktan kaçınmaları da bir başka düşündürücü olaydır.<br />
+İşin asıl üzücü ve düşündürücü yanı bu kuruluşların takındığı<br />
+“ NE YAPARIM, NE DE YAPTIRIRIM” Şeklinde ki tavrıdır.<br />
+Siz yapın bizler destek olalım diyoruz, onu da yapmıyorlar veya yaptıklarına da Samsun’un çok önemli ve söylemleri olan sivil toplum kuruluşlarını davet dahi etmiyorlar. Yukarıda ki örneklerde olduğu gibi, kendileri dışında düzenlenen organizasyonlara ya katılmıyorlar, ya da yapanları engelliyorlar.<br />
+Sonra da kalkıp, kentimiz için çok önemli olan birlikteliğin oluşamamasından en başta onlar yakınıyorlar.</p>
+<p>Söyler misiniz böyle bir anlayışa hangi ilde hoşgörü ile bakılır?<br />
+Evet, bu kentte kentin güzelleşmesi adına çok güzel şeyler yapıldı ve yapılıyor. “Sahilimi istiyorum” kampanyası ile bu güzelliklerin başlatılmasında fikir babası olan SAM-SEV’İN Başkanı olarak en mutlu olanlardan birisi de benim. Yapılanları görmemek nankörlük olur. Bu nedenle, başta Sayın Yusuf Ziya Yılmaz olmak üzere destek olan ve emeği geçenlere, tüm Samsunluların teşekkür borcu vardır.<br />
+Ancak üzülerek söylemek gerekirse işsiz sayısının yüksekliği, ekonomide ki geri kalmışlığı ve bir yığın sorunu ile boğuşan Samsun’a bunlar yetmiyor.<br />
+Artık su yüzüne çıkan Samsun’un en büyük eksiğinin, Samsun’u ve Samsunluyu sahiplenecek ve yönlendirecek bir LİDERİNİN olmayışıdır.<br />
+Sözünü ettiğim şey, Samsun’a yapılacak her türlü haksızlıkta ilk dikilecek ve Samsunluyu arkasına alarak yapılacak her türlü girişimin öncülüğünü yapacak, Samsun’da en çok yakınılan konu olan birlikteliğin de yapısını oluşturacak LİDER MODELİDİR.<br />
+Bu “ LİDER”, Samsun’un tüm dinamiklerini kucaklayacak, kentin önemli sorunlarını konunun ilgili sivil toplum kuruluşları ile iletişim sağlayarak ve onların da görüşlerini değerlendirerek çözecek bir anlayışın sahibi olmalıdır.<br />
+Bu “ LİDER”, kentin seçilmiş en büyük yerel yöneticisi olan Büyükşehir Belediye Başkanı olmalıdır.<br />
+Bu yapı ve anlayışa sahip bir “ LİDERİN”, etrafında toplanacak kentin dinamikleriyle aşamayacağı sorun olamaz. Yeter ki lider sahip olduğu yetki, sorumluluk ve sağladığı halk desteğinin gücünü doğru değerlendirsin.<br />
+İyi haftalar.. 16 Kasım 2008<br />
+SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0385-oumunun-70-yilinda-yasamayi-surduren-buyuk-lider-mustafa-kemal-ataturk.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0388-eczacilik-mesleginin-gelecegi-karartiliyor.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

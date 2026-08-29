@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Sadi Subaşı ile Kent Kültürü Söyleşisi</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Sadi Subaşı ile Kent Kültürü Söyleşisi
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2012
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0613
+
+</div>
+
+
+<div class="article-content">
+
+<p>SADİ SUBAŞI İLE KENT KÜLTÜRÜ SÖYLEŞİSİ:</p>
+<p>Sadi SUBAŞI:1945 yılında Samsun’da doğmuştur. İlkokulu Fazılkadı ve İstiklal İlkokulu’nda, orta eğitimini Samsun Ondokuzmayıs Lisesi’nde tamamlamıştır.<br />
+İstanbul Üniversitesi Eczacılık Fakültesi mezunudur.  1970 yılında DENİZ ECZANESİ’Nİ açmıştır. 1978–1984 arasında 3 dönem 6. Bölge Samsun Eczacı Odası Başkanlığı, 1984–1986 arası ‘Türk Eczacılar Birliği Merkez Yönetimi’nde görev yapmıştır. 1984–2012 yılları arasında SHP ve CHP’de aktif olarak siyaset yapmış, 1994 yerel seçimlerinde SHP Samsun Büyükşehir Belediye Başkan adayı olarak yerel seçimlere katılmıştır. Gazi Müzesi’nin Samsun’a yakışır hale getirilmesi restorasyonunu yapan ekibin başında yer almıştır. Atatürk Kültür Vakfı’nda kurucu başkanlık görevi yapmıştır. SAM-SEV’İN ( Samsun Eğitim, Spor ve Tanıtım Vakfı) ise kurucusu olup 14 yıl başkanlıktan sonra kendisine SAM-SEV Onursal Başkanlığı unvanı verilmiştir.  Şiir denemeleri de bulunan Sadi Subaşı’nın Samsun’da yayınlanan gazete ve dergilerde 1975 yılından bugüne kadar 700’ün üzerinde makalesi yayınlanmıştır.  “DÜNDEN BUGÜNE KÖŞE YAZILARINDA SAMSUN” isimli 645 sayfalık bir kitapta toplamıştır. İngilizce bilen Sadi Subaşı, Nur Subaşı ile evli olup ve birisi erkek diğeri kız iki çocuğu vardır.”<br />
+UĞUR DEDE: Hayatı ve mücadelesi Samsun olmuş merkezde bir isimsiniz. Sadi SUBAŞI’ DA Samsun nasıl bir kimliktir? Kentlilik bilinci ve kent kültürü dediğimizde neler hisseder, neler söylemek ister?</p>
+<p>SADİ SUBAŞI:<br />
+Öncelikle şunu söyleyeyim. Samsunlu olmamla övüyor gurur duyuyorum ama Samsun’un merkezi gibi tanımlamaları hak ettiğimi zannetmiyorum. Onu belki bizden daha çok hak edenler vardır. Kendi payıma düşen Samsunlu olmanın görevini yerine getirmeye çalışıyorum. Burada doğdum, burada eğitim aldım. Samsun kültürü ile büyüdüm. 50’li 60’lı yılların kültürüyle... 1970’de eczanemi açtığımdan beri Samsun bana çok şey verdi. Samsun’a çok şey borçluyum. Beni bu duruma Samsun getirdi. Bu kente karşı sorumluluklarım olması lazım diye düşünüyorum. Bu konuda ne yapabilirimi sonuçlandırmaya çalıştım bu güne kadar. Başından başlarsak talebelik yılları, çocukluk yıllarını doyasıya yaşamış birisiyim.  Çocukluğum çok sıkıntılı geçmesine rağmen sağlık sorunlarım yüzünden Samsun’u doya doya yaşamış biriyim. Limanın temel atma töreninden itibaren olayları hatırlıyorum.<br />
+Ama esas bende Samsun bilincinin gelişmesi, Samsun’dan dışarı çıktığımda başladı. Fakülteyi okumak için İstanbul’a gittiğimde artık her fırsatı değerlendirip Samsun’a gelmeye çalışırdım. İlk senelerin verdiği bir bağımlılık değildi, son sınıfa kadar böyle devam etti. Askerliği 2 yıl yine Samsun dışında yaptım. Samsun’a geldikten sonra da Samsun’daki sorunları birebir yaşamaya başladım. Kemal Vehbi Gül’ün birkaç doğrunun yanında Samsun’a yaptıkları yanlışları çok iyi hatırlıyorum. Samsun’un nasıl bir kabuk değiştirdiğini, 1960’ta başlayan göç alımı ile Samsun kültürünün nasıl eridiğini Samsun’a özgü özelliklerin nasıl birer birer yontulduğunu, kaybolduğunu… Neticede kozmopolit bir kent haline gelişinin iyi harmanlanamaması nedeniyle de Samsun’un geçmişini arayan bir kent haline gelmesi noktasına ulaştık. En büyük sorumluluk bu kenti yönetmeye talip olanların yani belediye başkanlarının, bu kentte milletvekili seçilip bu kenti temsil için Ankara’ya gidenlerin çok büyük sorumluluğu var.<br />
+Bütün bu haksızlıklara nasıl bir cevap verebilirim diye düşünmeye başladım. Yapılan haksızlıklar 1980’li yıllardan sonra daha bir etkiledi, olup bitenleri daha bilinçli bir şekilde görmeye başladım. Samsun her gün kan kaybediyordu. İktidarların odağı haline gelmesine rağmen iktidarlardan payını alamıyordu. Bu her dönem için geçerli. Samsun kendi içinden milletvekili göndermiyordu. Burada doğmuş burada büyümüş buranın kültürü ile büyümüş insanlarını gönderemiyordu. Bunları ilk günler çok yadırgardım. Çok şaşırdığım şeylerdi.  Bir tarihte bir olayla karşılaştım. O zaten benim için bu mücadelenin bir yerinden başlamam gerektiğini açıkça göstermişti. Oda şuydu; Samsun’dan giden milletvekilleri maalesef başka kentlere daha çok hizmet ediyorlardı! Samsun’da şu olgu beni çok rahatsız etti. İnanıyorum ki her kentin insanı dışarıdan gelmiş olabilir, son derece doğaldır. Hepimiz bu ülkenin insanlarıyız. Ben bugün burada yaşıyorsam, geçmişte 2 sene Konya’da yaşadım.  Ama Samsun’da yaşayanların hala Samsunlu olamadıkları, bu kentte yaşayıp bu kentte kazanıp bu kentten her şeylerini sağladıkları halde memleketleri soruldukları zaman bir türlü Samsunluyum diyemediklerini gördüm. Bu benim çok yadırgadığım bir husustu. Tabi ki insanların kökenleri, geldikleri yerlere bağlı olmaları ve buna sevgi duyarak sahip çıkmaları,  saygı duymaları doğal bir şeydir saygısızlık göstermiyorum ama Samsun’a gelenlerde değişik bir ortam oluştu. Samsun bu yapıyı bağdaştıramadı.<br />
+Bu konuda yapabileceğim şeylerin tek başına yapılamayacağını gördüm. Etrafımıza ne kadar çok insan toplarız çabasında oldum. Ben değil, “BİZ” ne yapabiliriz? Biz, Samsunlular, ne yapabiliriz?<br />
+Benim için doğduğu yer önemli değil, bu kentte yaşaması çok önemli, bu kentte bir şeyler yapıyor olması çok önemli. Benim babamın kökeni de Samsun değil ama ben burada doğdum burada büyüdüm bu kente hizmet etmek gerektiğine inanıyorum, kaldı ki bu kent Türkiye Cumhuriyeti’nin başlangıç noktasındaki bir kentidir. SAM-SEV ile işte böyle bir başlangıç yaptık.</p>
+<p>UĞUR DEDE: Şüphesiz söyledikleriniz son derece önemli. İddiası olan öncü bir isimsiniz, bütün bunları anlatırken bir an kurucusu olduğunuz ve uzun yıllar başkanlığını yaptığınız SAMSEV ile çok uzun zaman önce başlatmış olduğunuz “Sahilimi istiyorum” kampanyası canlandı gözümde. Paralel olarak neler söylemek istersiniz?</p>
+<p>SADİ SUBAŞI:<br />
+Sizin gibi birçok kişi hakkını veriyor SAM-SEV’in. SAM-SEV’e mal ederek söylüyorum. Gerçekten bu sahilimi istiyorum projesi, bizim bir hayalimizdi ama bu hayalimiz bu işin yapılamaya başladığı 1999–2000 yıllarında başlamadı. 1984 senesinde o dönemin belediye başkanı rahmetli Muzaffer ÖNDER’E SAMSEV adına sunuldu. Ama rahmetlinin devletçi anlayışı o gün bu işi gündeme getirmemizi engelledi. Çünkü rahmetli ÖNDER, “Demir yollarını oradan kaldıralım” dediğimizde bize; “Siz devleti tanımıyorsunuz. Bu demiryollarını kaldırmaya kimsenin gücü yetmez çünkü Devlet Demir Yolları devlet içinde devlettir.” aynen bu cümleyi kullandı ve bütün hevesimizi kursağımızda bıraktı. Belki devletten gelmiş olmanın tutuculuğu vardı, belki o zaman buna henüz hazır değildi Samsun, bilemiyorum. Dolayısıyla bu konu yeniden tekrar SAMSEV tarafından belediye başkanlığı makamı değişip de yeni bir belediye başkanı gelince kendisine bu konuyu ilettik.  Çok şey yapma iddiasındaydı ve kendisi de bu projeyi önemsediğini söyledi. Bize dedi ki; “Siz bu işin neresinde olacaksınız?” Biz de dedik ki; “Biz bu işin kamuoyunu oluşturacağız, halkı ayağa kaldıracağız. Siz burada iyi bir oy alarak geldiniz arkanızda iyi bir siyasi güç var, arkamıza da halkı alırsak bu işi başarırız.”<br />
+Zorlukları biz de biliyorduk. Orada Liman İşletmesi var engel çıkaracak, Devlet Demir Yolları engel çıkaracak daha bir sürü engel vardı. Eski halini hatırlıyorsanız korkunç bir manzarası vardı. İnsanlar geçemiyordu. Hapçıların, alkoliklerin yeri olmuştu.<br />
+Bir de şunun altını çizmek lazım, o dönem şanslı bir dönemdi. Samsun’un bir daha zor yakalayacağı bir dönemdi. Gaziantep’ten iddialı bir şekilde gelmiş iddialı bir Vali Muammer GÜLER; bir şeyi kafasına koyduğunda yapan birisi.  Yusuf Bey de aynı tandanstan o da kafasına bir şey koyduğu zaman yapan birisi. Bir de o dönem Garnizon Komutanı diğer mülki amirler son derece uyumlu. Yani bir kentin çok başarılı olmasının altında yatan en büyük neden; idari otorite askeri otorite ve diğer birimler homojen olacak, anlaşmalı olacak. Zaman zaman Samsun bundan çok çekti. Bu makamların birbirinden koptuğu karşı karşıya geldiği dönemler yaşandı. Siz daha mülki idari yönetimle yerel yönetimi bağdaştıramıyorsanız burada bir koordinasyon kurulmamışsa burada bir kopukluk varsa siz orada zaten bir şey yapamazsınız ki. Samsun bunları da yaşadı. Dikkat ediyorsanız son zamanlarda bu uyum tekrar sağlandı o şans tekrar yakalandı.<br />
+Biz o günlerde SAM-SEV olarak aldığımız bir karar doğrultusunda Sayın Valimize bilgi verdik. Sayın Valim dedi ki; “Ben sizi destekliyorum”. Gazi Müzesi’nin eski halinde alt katta küçük bir toplantı salonu vardı, o salonda bir toplantı yaptık. Sivil toplum örgütlerini çağırdık Sayın Valimizi çağırdık. Tabi biz sivil toplumun önde gelenleriyle konuşmuştuk hepsi destekliyorlardı. Garnizon Komutanı geldi, belediye başkanı geldi, emniyet müdürü geldi, Valimiz geldi burada bir toplantı yaptık. Barkovizyon gösterisiyle biz ne yapmak istediğimizi anlattık ve bir imza kampanyası başlatıyoruz dedik. “SAHİLİMİ İSTİYORUZ “ diye de adını koyduk. Patenti bize aittir ve pankartlarını, afiş ve broşürleri bastırdık. Vali Bey dedi ki; “ İlk imzayı ben atıyorum.” İkinci imzayı Yusuf Bey attı üçüncü imzayı da ben attım. Arkasından 2 odak noktada stant açtık. Birini Konak Sineması önünde açtık diğerini de Çiftlik’te Merkez Eczanesi önünde açtık. Hiçbir baskı, yalvarma, yakarma olmadan tam 40 bin imza topladık, yirmi gün içinde. İnanılmaz bir rakam.<br />
+Sonra bu imzaları götürüp makama koyduk,  “İşte imza” bu dedik; “ Halk arkanızda artık ne yapacaksanız yapın” Tabi Yusuf Bey gibi iddialı birinin belediye başkanı olması; Samsun’un şansıydı. Bizim de hedeflerimiz içinde hiç olmayan, o kadar büyük hedefler koymamıştık, bunu itiraf ediyorum açıkça söylüyorum. Yani bizim düşüncemiz şuydu: Devlet Demir Yolları’nın orada asgariye düşürülmesi, o pisliklerin temizlenmesi ve insanların oradan kolayca sahile gitmesiydi ama Yusuf Bey daha ileriye taşıdı, zaman zaman tepkiler de aldılar, belki sahil dolduruldu ama Samsunlu sahiline kavuştu. İnsanların ne kadar mutlu olduğunu oradaki kalabalıktan görüyoruz zaten.<br />
+Liman işletmesi bir çivi çaktırmazdı limanda, dolgu yaptırmazdı! İşte orada Sayın Vali devreye girdi, nüfuzunu ve yetkisini kullandı, kendini riske attı açık söyleyeyim. Hem Devlet Liman İşletmesi’ni hem de Devlet Demir Yolları’nı frenledi ve oradaki demir yolları rayları kaldırıldı asgariye düşürüldü oralar düzenlendi yıkıldı geçildi. Yani siz arkanızda devleti göremezseniz yerel yönetimler çok şeyler yapamaz.</p>
+<p>UĞUR DEDE: Atatürk’ün şehri, kimlik şehir dediğimizde dolayısıyla da Atatürk ve Samsun dediğimizde o kimliğe dair neler söylemek istersiniz?</p>
+<p>SADİ SUBAŞI:<br />
+Tanrı’nın lutufu olarak Atatürk 19 Mayıs 1919’da harekâtı başlatmak üzere Samsun’a çıktı. Bu Samsun’a verilmiş en büyük hediyedir. Samsun, bir kere bunun farkında olması lazım. 19 Mayıs tarihi misyonu; Samsun’u uçuracak bir misyondur. Eğer bu misyon, inanın bir başka kentin elinde olsa baş tacı eder. Gidin Ankara’ya Adana’ya gidin Mersin’e, “Nereden geldiniz” dediklerinde “Samsun“ deyince “Ha 19 Mayıs kentinden” diyorlar. İnsanların kafasında Türkiye’nin kafasında Samsun 19 Mayıs kenti.<br />
+Oysa biz ne yapıyoruz: 19 Mayıs gibi bir simgesi var, siz bu kadar güzel büyük bir misyonu yakalamışsınız, kalkmış Samsun’a hayvan heykelleri dikiyorsunuz, Samsun’a bilmem neler yapıyorsunuz, yeni yeni simgeler arıyorsunuz!<br />
+Samsun halkı bunu kabul edemez! Ben bir Samsunlu olarak bunu kabul etmiyorum. 19 Mayıs’a sahip çıkmak, insanlarımızın görevidir.  Samsun’un eğer elinden 19 Mayıs misyonu alınırsa garip bir kent haline gelecektir. Hiç kimse bunu göz ardı etmesin. Onun için herkesin 19 Mayıs misyonuna iyi sahip çıkması lazım, bununla övünmesi lazım.</p>
+<p>UĞUR DEDE: Çok teşekkür ediyoruz üstadım vakit ayırdınız eksik olmayın.</p>
+<p>SADİ SUBAŞI:<br />
+Rica ederim. Biz teşekkür ederiz.</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0612-ozellesen-telekom-ve-yedas-da-garip-uygulamalar.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0614-demokrasinin-sagladigi-zeminde-ayipli-siyaset.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

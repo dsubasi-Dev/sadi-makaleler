@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Toplum Olarak Cinnet Geçiriyoruz</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Toplum Olarak Cinnet Geçiriyoruz
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2009
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0448
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>TOPLUM OLARAK CİNNET GEÇİRİYORUZ.</p>
+<p>Gazete ve TV’lere bakamaz hale geldik. Dünyanın duymadığı iğrençlikte vahşet, şiddet, tecavüz, gasp, darp, intihar ve cinayet türleri artık günlük olaylar haline geldi.<br />
+Gün geçmiyor ki, kafası, kolu bacağı kesilerek öldürülmüş kadınların, tecavüz edilerek öldürülmüş küçücük çocukların, garip şekilde kaybolan çocukların ve bunlara bağlı organ mafyası haberlerinin, kaçırılarak seks kölesi yapılmış gencecik kızların haberleri gazete ve TV’lerin ilk haberi olmasın.<br />
+Bir yanda bankasını soyan müdürler, yan bakana fütursuzca sıkılan kurşunlar, barışmak istemeyen eşini tavuk keser gibi boğazlayıp, onlarca bıçak darbesi ile günahsız kızını delik deşik eden babalar, öte yanda insanlık dışı kan davaları ve töre cinayetleri.<br />
+Bunlar artık arada sırada olan münferit olaylar değildir. Her gün onlarcası gündeme oturuyor. Bunun adı, toplumsal cinnet geçirmekten başka bir şey değildir.<br />
+Ne oldu bize? Neler oluyor? Bu duruma durup dururken mi geldik?<br />
+Tabii ki hayır. Üzülerek söylemek gerekirse, bu olanların zeminini hazırlayanlar, ne yazık ki bu ülkeyi yönetmeye soyunan basiretsiz siyasetçilerden başkası değildir.<br />
+Siyasi iradenin demokratik sistemi kökten sarsacak uygulamaları, yargının bağımsızlığını yitirmesi, telefon dinlemelerinin yarattığı korku toplumu, tarikatların kontrol edilemez etkisi altına giren üniversiteler, milli eğitim ve diğer önemli devlet kurumları, toplumun devlete olan güven duygusunu ciddi boyutta sarstı.<br />
+Ekonomi çöktü. Gizli işsizler bir yana, resmi kurumların verilerine göre işsiz sayısı 12 milyona ulaştı. Maaşları komik oranlarda artırılan işçi, emekli ve memur, gizli enflasyonun altında açlık sınırında yaşama mahkûm oldu. Halk hızla fakirleşir, kömür ve erzak kolileri ile susturulurken, bizleri yönetenlerin her geçen gün bir başkası ortaya çıkan villaları, gemileri toplumu umutsuzluk karabasanına mahkûm etti.<br />
+Bizi yönetenlerin olumsuzluklarının hiçbir şekilde üzerine gidilmeyişi ve artarak devamı, toplumu umutsuzluğa düşürdü. Bu umutsuzluk ve çaresizlik de toplumu cinnet noktasına getirdi.<br />
+Tarafsız olması gereken medyanın büyük bir kısmı akıllara durgunluk verecek bir şekilde yandaşlığa soyunurken, diğerleri büyük bir baskı altına alındı. Mesleki kuralları halkı aydınlatmak olan gazetecilerin çoğu, beyinlerini ve kalemlerini siyasi iradenin hizmetine sundu.<br />
+Ülkenin milli değerleri olan tesisler ve yeraltı kaynakları yok pahasına hep aynı yandaş kişi ve kuruluşlara verildi. Bunlara direnen gazeteciler, siyasetçiler, bilim adamları, üniversite rektörleri, hatta ülkemizin bağımsızlığını koruma görevi verilmiş generaller Ergenekon soruşturması kapsamına alınarak tutuklanırken, ne gariptir ki bu kapsamda hiçbir iktidar yanlısı yer almadı.<br />
+Köylü üretimden kopartıldı. Benim köylüme pahalı diye buğday, şekerpancarı ektirilmezken, borç içinde yüzen bir ülke olmamıza rağmen buğday, şeker Amerika’dan almaya başlandı. Köylüye ekim yapmasın diye dönüm başı sus payı paralar verildi. Dış borç Türkiye Cumhuriyet tarihinde görülmemiş seviyeye çıktı.<br />
+Milletin gözbebeği olan ordu üzerinde dahi yıpratmaya yönelik operasyonlar gündeme geldi. Başsavcılar garip suçlamalarla karşı karşıya bırakıldı.<br />
+Söyler misiniz? Böyle bir ortamda yaşamaya zorlanan bir toplum cinnet getirmez mi?<br />
+Bir yanda bölgemiz de çıkar hesabı olan Amerika ve AB’nin dayatmaları, diğer yanda bunların taşeronluğuna soyunmuş hainlerin çabası, ülkesini seven herkesi büyük bir endişeye itmiş bulunuyor.<br />
+İşin belki de en tehlikeli yanı, yukarıda sözünü ettiğim olayların artık kanıksanır hale gelmiş olması ve birçok aydının da, “Bu ülkeye bir şey olmaz” safsatasıyla aymazlık uykusuna yatmış olmasıdır. Umarım uykudan uyandıkların da çok geç olmaz.<br />
+Aslında olaylar artık toplumun uyuştuğu ve aymazlığın en üst noktaya çıktığı hale geldi. Bunu çok güzel özetleyen bir bilim adamının yazısını kısaltarak sütunlarıma alıyor ve sizleri Prof. Dr. KEREM DOKSAT’IN internet sayfalarında da yer alan yazısı ile baş başa bırakıyorum.<br />
+OKUYUNUZ VE BİZLERE NELERİN NASIL      DAYATILDIĞINI VE NASIL UYUŞTURULDUĞUMUZU<br />
+KENDİNİZ YORUMLAYINIZ.</p>
+<p>Şartlı refleks teorisinin günümüz de psikolojik savaş aracı olarak ülkemiz de nasıl uygulandığını göreceksiniz.<br />
+<em>Pavlov'un köpekleri ve refleks kırılması</em>    Bilirsiniz ünlü Rus fizyolog Pavlov, köpeklerine et verirken zil çalınca ve bunu çok kez tekrarlayınca, zil sesini işittiğinde et görmeden de hayvanın salyası akmaya başladığını tespit eder.. Bu, bir "şartlı refleks"tir. Hayvanın "tabiatında olmayan" bir uyaran (zil sesi), onu "tabiatında olan" eti görmüş gibi heyecanlandırmaktadır. Eğer sürekli olarak zil çalar ama hiç et göstermezseniz, bir süre sonra şartlı refleks söner. Devamın sağlanması için arada bir et gösterilerek refleks pekiştirilmelidir.<br />
+Hiçbirimiz dünyaya Türk, Meksikalı, Sünni veya Katolik olarak gelmeyiz. Bunlar bize öğretilen değerler, bir başka deyişle de, şartlı reflekslerdir. Eğer pekiştirilmezlerse, zamanla sönerler. Bir gün Pavlov’un enstitüsünü su basar. Köpeklerin bir kısmı boğulur, bir kısmı da günlerce korkuyla titreşir, çünkü ölümden zor kurtulmuşlardır. Kurtarılabilenler tekrar enstitüye toplanır. Pavlov zili çalar, köpeklerde tık yoktur. Şu müthiş sonuca varır Pavlov: Ağır travmalar, şartlı refleksleri ortadan kaldırmaktadır. Hayvan en doğal, en ilkel durumuna geri dönmektedir.<br />
+Özeti: Ağır travmalar, şartlı refleksleri ortadan kaldırmaktadır. Şimdi de bu teori ülkemizde nasıl da<br />
+uygulanıyor onu görün.<br />
+Bir yandan her gün güneydoğu şehitleri için "kanları yerde kalmayacak" denmesine rağmen kanların sürekli "yerde kalması",    Bir yandan "Ergenekon" denilerek büyük bir çoğunluğunun tek suçu "Atatürk’ü sevmek" olan insanların sabaha karşı evlerinden alınarak hapse atılmaları, bir yandan araba yakıp polise taş atarak gelişen etnik kalkışmalar…    Hepsini toplarsanız, temel güvenlik duygusunun artık zaten ortadan kalktığını görürsünüz. Pavlov'un köpeklerindeki gibi, ağır sarsıntılar bizim de şartlı reflekslerimiz (milli duygularımız ve tepkilerimiz) kırılıyor. Emperyalistler sinsi savaşlarında psikoloji bilimini kullanırlar. Mesela Ermenilerle Türkler arasında ulusal bir düşmanlık mı var, orada psıkıyatrıst Vamık Volkan girer devreye ve bu düşmanlığın kökenlerini "inceler" (!) Burada izlenen yol, ABD’nin tehdit olarak gördüğü ulusların ulusal bilinçlerinin, tarihlerinin ve benliklerinin sorgulanması, "aşındırılmasıdır”.    Kısacası, milli duygunun yok edilmesidir etnik psikiyatrinin görevi. Bir ulusun ulusal bilincini, ulusal duygusunu ve reflekslerini nasıl yok edersiniz? Bunun denenmiş, sınanmış bir yöntemi vardır: "o ulusun tarihsel varlığını sorgulamaya açarsınız". Yani o ulusun tarihi yeniden tartışırsınız. Mesela Türkler kendilerini kahraman bir ulus olarak mı görüyorlar? Onlara ne kadar korkak bir ulus olduklarını göstermek gerekir. Ya da Türkler Atatürk’ü çok mu yüceltiyorlar? Onlara Atatürk’ün ne kadar sıradan birisi olduğunu göstermelisiniz.    Farkındaysanız son on yıldır tam da böylesi bir dönemden geçiyoruz."Demokratlık, tartışma kültürü" adına neyi tartışıyoruz ve bizden neyi kabul etmemiz isteniyor? Diyorlar ki, "siz soykırımcı bir milletsiniz! Ermenilere soykırım uyguladınız ..." Biz diyoruz ki, "hayır, uygulamadık !" O zaman deniyor ki: "tamam, madem uygulamadınız, bunu tartışalım, öyle sonuca varalım". Size mantıklı geliyor, "Nasılsa suçlu değiliz, tartışmadan galip ayrılırız", diyorsunuz. Ama tartışma masası kurulduğunda eşit bir tartışma şansı olmadığını görüyorsunuz.   Bakıyorsunuz, tüm televizyonlar, gazeteler, "aydınlar!" sizin Ermenileri katlettiğinizi yaymaya başlıyor. Kanıtları var mı? Elbette yok. Ama yalan bir kez yayıldı mı ve yalanı söyleyenlerin sayısı da yeteri kadar çok oldu mu, gerçeğin sesi baskılanıyor. "Hayır" diyorsunuz, "gerçekleri bir de biz anlatalım", ama anlatamıyorsunuz. Çünkü tüm propaganda kanalları size kapatılmış durumdadır. İşte o zaman anlıyorsunuz, "tartışmaya açmak" denilen tuzağı. Bu sürecin sonunda, ulusal gururu ve hassasiyetler yüksek insanlar bile "acaba" demeye başlıyor. "Acaba gerçekten Ermenileri biz mi katlettik?". "Ulusal benlikte ilk kırılma" yaşanıyor... Psikolojik harbin etkisi büyük bir hızla bu şekilde yayılıyor.<br />
+Sıra Kürtlere geliyor. Sizden tartışmanızı istiyorlar. Tartışma başlıyor ve yine kaybediyorsunuz. Bir düşünün lütfen, son dönemde neleri tartışmaya açtık ve şimdi neredeyiz: Bugün misak-ı milli’yi dahi pek önemsemiyoruz.    Kırmızıçizgileri umursamıyoruz. Türk dilinin önemi kalmamış. Bu ülkede federasyon da olabilir, Ermenilerden özür de dileyebiliriz, Kürtlere "biraz" toprak da verebiliriz. Kısacası, ulusal varlığımıza ait hayatı her alanda kaybetmiş durumdayız.     Sırada ne var? Atatürk var elbette... Çünkü önemli olan, ulusal önderleri yok etmek. O halde, onun ne kadar zalim bır diktatör olduğunu tartışalım. Onun zaaflarını tartışalım. Hatta onun anasını bile tartışalım. Evet, emperyalistlerin gündeminde bu bile var. " Tartışın" Diyorlar. Biz sizinle önderinizin anasını tartışmak istiyoruz. " Sonra sıra sizin ananıza gelecek elbette. Hepinizinkine gelecek... İşte psikolojik harp budur arkadaşlar...<br />
+Hiçbir insan kendisine, anasına, babasına, milletine, bayrağına küfrettirmez. En basit insan gerçeğidir bu. İlkokulda bir çocuğun anasına küfretmeye kalkarsanız, sizinle "anasının durumunu" "tartışmaz". Bunun cevabı, suratınıza yiyeceğiniz bir yumruktur. Çünkü çocuğun en insani ve sıradan yanıdır bu.     İşte, Ergenekon, Ermeni sorunu, Kürt açılımı ve Can Dündar’ın "insani" denilen "Mustafa" belgeselinin bam teli "burasıdır". ..<br />
+Her şeye rağmen, umutlarımızı yitirmeden dik durmamız gerektiğini vurgulayarak iyi bir hafta diliyorum.<br />
+15 Kasım 2009</p>
+<p>SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0447-halkin-i-cinde-olmadigi-onemsizlestirilen-ulusal-bayram-kutlamalari.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0450-kurban-kesim-i-si-artik-profosyonellesmelidir.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

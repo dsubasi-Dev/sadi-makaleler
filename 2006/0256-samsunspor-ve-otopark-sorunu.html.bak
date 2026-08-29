@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Samsunspor ve Otopark Sorunu</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Samsunspor ve Otopark Sorunu
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2006
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0256
+
+</div>
+
+
+<div class="article-content">
+
+<p>SAMSUNSPOR VE  19 MAYIS STADINDA OTOPARK İŞKENCESİ</p>
+<p>Samsunspor açısından belki de tüm dönemlerin en kötü ve sorunlu sezonunu yaşıyoruz. Tam anlamı ile bir paniğin yaşandığı durum için  hemen herkes bir yorum getiriyor. Ben bu konu da, başta sayın başkan olmak üzere tüm yöneticilerimize daha az konuşmalarını ve her söylenene cevap yetiştirme  çabasına bir nokta koymalarını öneriyorum. Özellikle de sevgili dostum Başoğlu’nun, bu polemiklerin dışında kalarak son sözü söyleyen olmasının, hem takımın hem de yönetimin  daha fazla yıpranmaması açısından yararı olacağına inanıyorum.<br />
+Gelelim otopark rezaletine; 2. ligi gerçekten unutmuşuz. Küme düşmenin ne anlama geldiğini şimdi çok daha iyi anlıyoruz. Her şey kötü gidiyor. İnsanlarda ne moral, ne de umut kaldı. Artık maçlara gerçek Samsunspor sevdalıları geliyor. İstanbulspor maçında ki seyirci bizim gerçek seyircimizdir. Geçen haftalara göre çok daha fazla ve canlı bir taraftar, takımı motive edebilmek için çırpındı durdu. Kendilerine yürekten teşekkürler.<br />
+Yukarıda  da söylediğim gibi her şey can sıkıyor. Tam bir otorite boşluğu yaşanıyor. Geçen sezonun son maçlarında uygulamaya konulan ve çilekeş taraftarı isyan ettiren garip uygulama, bu haftaki maç sonrası da taraftarı isyan ettirdi. Yeri gelince taraftarın kombine bilet almadığından yakınacaksınız. Sonra da, VİP de dahil kombine bilet alana dahi en basit hizmeti vermeyeceksiniz. Olmaz böyle şey. Gidenlerin bir kısmını da bu hafta kaybettiniz. Elinde ki kombine biletine rağmen bir daha maça gelirsem… diye başlayan tepkilerin doğmasına zemin hazırlamaya hiç kimsenin hakkı yoktur. VİP ve kombine bileti alanın amacı maça saatinde gidip, yer sorunu yaşamadan koltuğuna oturmak, ve devre arasında parasıyla da olsa bir bardak çay içebilmektir. Siz kombine biletini vereceksiniz ve alınacak  en basit tedbirlerle maça gelen kombine biletlinin aracını koyacağı otopark sorununu çözmeyeceksiniz. Stada girebilmek için uğraşan taraftarın maçın başlama saatinde içeri girmesini sağlayamayacaksınız. Bunun adı gayri ciddiliktir, taraftara saygısızlıktır.<br />
+Lütfen! Etrafınıza bakıp, bir avuç kalan Samsunspor sevdalısı insana olsun sahip çıkınız. Onları polis gücü ile karşı karşıya getirmeyiniz.<br />
+Elinde stada giriş kartı bulunanların dahi stad önünde ki otoparka sokulmayışı anlaşılır gibi değil. Bir ikinci sorun da, stadın Çarşamba tarafında ki otoparka araç bırakanların, maç sonrası bu otoparka girmesinin ve kale arkası tribünden çıkanların da bu kapıdan dışarı çıkmasının  polis tarafından engellenmesi. Geçen sezonun son maçları sonrası da  kapatılan bu demir kapı önün de tatsız tartışmalar olmuş ve konu Emniyet Müdürlüğü yetkililerine ulaştırılmasına rağmen hiçbir düzelme sağlanamamıştır.<br />
+Böyle çağdışı güvenlik tedbiri olmaz. Bu hafta olduğu gibi, çoğu VİP tribün biletlisi olan aklı başında insanları dahi çileden çıkartan polis engellemesi kabul edilemez. Hele, hele genç bir polisin, amirinin önünde bir iki arkadaşımıza karşı takındığı hiç de hoş olmayan davranışı anlaşılır gibi değil. Zaten takımın aldığı sonuçlar ve oynadığı berbat futbolla sinirleri gerilmiş, bir an önce çıkıp iftar için evine gitmek amacında olan  insanların bu şekilde horlanması, böyle sürerse korkarım hiç de istenmeyen bir olaya neden olacaktır. Son maç çıkışı yaşananlar, sonradan  kendime hiç de yakıştıramadığım bir şekilde, protokol tribünü çıkışına kadar gidip, Emniyet Müdürümüz Sayın Mustafa İlhan’a “ bu yanlış uygulamaların düzelmesi için mutlaka kan mı akması lazım “ dedirtecek kadar  beni dahi isyan ettirdi. Taraftarın muhatabı polis olmamalıdır. Polis, uygulamanın yönetim kurulu kararı olduğunu söyleyerek, biz ne yapalım demektedir. Yönetim kurulunun bu sorunu bir büyük tatsızlık yaşanmadan çözmesi gerekmektedir.<br />
+Maça giriş eziyet, maçın seyri eziyet, maç çıkışı bir başka eziyet. Taraftara bu kadar işkence yapmaya kimsenin hakkı yoktur. Lütfen, sorumluluğu olanlar üzerine düşeni yapsınlar. Kötü günlerin geri de kalması dileğiyle..<br />
+09-EKİM-2006<br />
+SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0255-sivil-toplum-kuruluslarina-gosterilen-haksiz-tepkiler.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0257-bir-tv-programi-ve-genclerimizin-isiltisi.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

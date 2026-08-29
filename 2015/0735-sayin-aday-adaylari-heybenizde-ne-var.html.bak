@@ -1,0 +1,346 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Sayın Aday Adayları Heybenizde Ne Var.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Sayın Aday Adayları Heybenizde Ne Var.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2015
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0735
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>SAYIN ADAY ADAYLARI, HEYBENİZ DE NE VAR?</p>
+<p>07 Haziran 2015 de Türkiye için bir dönüm noktası sayılan Genel Seçimler yapılacaktır. Eğer AKP bu seçim Anayasayı değiştirebilecek sayıda milletvekilini çıkartabilirse, büyük bir ihtimalle Türkiye’nin yeni yönetim biçimi “Başkanlık Sistemini” Olarak değiştirilecektir.<br />
+Aksi durum da AKP seçimleri kazanamazsa veya yeterli sayısal üstünlüğü sağlayamazsa, nelerin olacağını da bugünden kestirmek zor gözüküyor.<br />
+İşte böylesine önemli bir seçim süreci başlayınca, sadece Samsun’da 150’nin üzerinde milletvekili aday adayı gövde gösterisi yapmaya başladı.<br />
+Bu aday adaylarının en az 100 tanesi iktidar partisinden olması, her seçim döneminde görmeye alıştığımız, “Koşan ata binme veya güçlüden yana olma” tercihini doğrulamaktadır.<br />
+AKP’de ilk etabın temayül yoklaması ile olacağının belli olması ile aday adayları ilan panoları ve gazetelerde ki ilanları ile öne geçmeye çalışıyor. CHP’ de ise, uzun bir aradan sonra ön seçim yapılacak olması, aday adaylarını üyelerle birebir ilişki kurmaya yöneltmiş gözüküyor.<br />
+MHP’ de ise, il başkanlık seçiminin gecikmesi nedeniyle olsa gerek, adayların kamuoyuna yansıyan önemli bir açıklaması henüz yok.<br />
+Artık çoğunluğun da kabul ettiği gibi Samsun sorunları gittikçe artan bir kent olmasına rağmen, bunları çözmeye yönelik yeterince bir çaba ve kenti sahiplenme görülmemektedir.<br />
+Çocukluğumdan beri bu kentte yaşayan ve 1970’ den itibaren de bu kentin hemen her konusuna duyarlılık gösteren bir kişi olarak gözlemlerime göre, bu kent son 45 yılda 100’ ün üzerinde milletvekilini TBMM’ ne gönderdi.<br />
+Ne var ki parti ayırmaksızın söylemek isterim ki, bu kentin sorunlarının çözümünde rol almış ve bu kentin 1980’ den beri hemen her konuda kan kaybetmesini önleme çabasında olmuş bir milletvekili hatırlamıyorum.<br />
+Çok da haksızlık etmemek adına geçmişte bu kente bugüne kadar kazandırılmış tek ve en büyük sanayi kuruluşu olan Azot- Bakır Sanayileri ile Ballıca Sigara Fabrikasını bir kazanım olarak sayabilirim.<br />
+Bitirilememiş olsa da Çarşamba ve Bafra Ovalarında üretimi artırmaya yönelik sulama projeleri ile “Teşvik Yasası” dışında bırakılmamızın nedeni gösterildiği için Samsun’a “Yararı mı? Yoksa zararı mı? Olduğu tartışılan Suat ve Hasan Uğurlu, Ayvacık ve Altınkaya Barajlarını da geçmiş dönemlerin hanesine yazabiliriz.<br />
+Bunları söylerken şunu da belirtmem gerekir ki, o dönemler devletin kentlere yatırım yaptığı dönemlerdir. Dün bizden geride olan kentlerin çoğu, o dönemlerde aldığı Devlet Yatırımlarıyla bizi gerilerde bırakmıştır.<br />
+Son onüç yıllık dönem de ise, işler Samsun adına çok daha kötüye gitmiştir. Spor tesisleri dışında bırakın yeni kazanımları, sürekli bir şeylerin kaybedildiği dönem olmuştur.<br />
+Geçmişte üniversite seçme sınavlarında Türkiye birincileri çıkartan bu kent, bu sınav sonuçlarında 32 ve daha alt sıralara düşmüştür.<br />
+Geçmişte ekonomik gelişmişlik sıralamasında ilk altıda yer alan Samsun, otuzuncu sıraların altına yuvarlanmıştır.<br />
+Verilen sözlere rağmen yenilenen ve kapsamı genişletilen “Teşvik Yasası” Dışında bırakılan Karadeniz Bölgesi’nin tek ili olma ayıbını yaşamıştır. Yapılan bu haksızlıkla, Samsunlu işadamları adeta cezalandırılmış ve Samsun’a yatırım yapmasının önü kesilmiştir.<br />
+Sayısı zaten ikiyi üçü geçmeyen sanayi kuruluşlarımız da özelleştirme adı altında devredilmiş, bir kısmı kapatılmış, işsizlik oranı Türkiye ortalamasının üzerine çıkmış ve kentin geçim kaynağı olan tütün ile şeker pancarı ekimi sınırlanarak köylü üretimden uzaklaştırılmıştır.<br />
+Samsun’da istihdam yaratacak işyerleri açılamazken, Türkiye’nin en verimli iki ovası kirli sanayilerin merkezi haline getirilmeye başlamıştır.<br />
+Türkiye’ de enerji koridoru yapılacak başka yer yokmuş gibi bula bula çocuklarımızın geleceği olan bu iki ova seçilmiştir. Kısa sürede bu ovayı yok edecek kömürle ve doğal gazla çalışacak termik santraller, yöre insanlarını hiçe sayılarak ardı ardına yapılmaya başlamıştır.<br />
+Tüm bu yapılanlar, Samsun adına sonu karanlık bir geleceği yansıtmaktadır. 25 yıldır altını çize-çize her platformda söylediğim ve yazdığım gibi bu kentin en başta gelen sorunu, “SAHİPSİZ BİR KENT” Oluşudur.</p>
+<p>HER SEÇİM YENİ BİR UMUT DEMEKTİR.<br />
+Şimdi gündem de yeni bir seçim dönemi ve umutlanmamız gereken yeni vekil adaylarımız vardır. Ama üzülerek söylemek gerekirse, şu ana kadar ilk mesajlarını veren aday adaylarından, bu kentin sorunlarına çözüm olacak ve kötü kaderini değiştirmeye yönelik iddialı adaylar ve projeler görülmemektedir.<br />
+O nedenle, SAYIN VEKİL ADAY ADAYLARIMIZA SORUYORUM, HEYBENİZDE NE VAR?<br />
+Geçtiğimiz günlerde bir dost sohbetinde bu konu tartışılırken, ben “Gördüğüm kadarı ile bu aday adaylarının heybesi boş” Dedim. Grupta ki bazı arkadaşlar da bana karşı çıktılar. Onlara göre;<br />
+İçlerinde avukat, doktor, mühendis gibi meslek sahipleri var diyorlardı.. Ben hala, “Heybelerinde ne var? Diyordum. Onlarda saymaya devam ediyordu. Ek kariyerleri var, iki lisan biliyor, şu devlet kurumunda çalışmış deneyimi var gibi eklemeler yapıyorlardı. Ben hala ısrarla, “Heybelerinde neleri var? “ Diyordum. Baktım bu heybe işini anlatamayacağım, başladım heybedekilerin neler olması gerektiğini sıralamaya.<br />
+Eğer aday olduğu kentin sorunlarını çok yakından bilmiyor ve bu konularda o güne kadar ortaya koyduğu bazı çalışmaları kamuoyuna yansımamışsa,<br />
+Toplumun sorunlarına duyarlı olup sivil toplum kuruluşları içerisinde yer alarak elini taşın altına sokmamış ve buralarda elde edilmiş deneyimler kazanmamışsa,<br />
+Samsun halkının gözünün içine baka baka Türkiye’nin en verimli iki ovasına konuşlandırılmaya başlayan çevre ve canlı düşmanı kömür ve doğalgaz termik santrallerini araştırmamış ve bu konuda olumlu veya olumsuz bir tavır ortaya koymamış ve bu konuda ki düşüncelerini kamuoyu ile paylaşmamışsa,<br />
+Samsun, işsizlik sorununa çözüm olacak Teşvik Yasası dışına itilen tek Karadeniz ili olma ayıbını yaşarken söyleyecek tek söz sözleri olmamışsa,<br />
+Bir tarım kenti olan Samsun’da tütün ve şeker pancarı üretimi sınırlanırken neden? Diye sormamışsa,<br />
+Samsun’u bölgenin merkezi yapan bölge müdürlükleri<br />
+birer birer bu kentten götürülürken, farkında bile olmamışsa,<br />
+Samsunspor zor günler geçirir ve haksızlıklara uğrarken ilgilenmemişse,<br />
+Ekonomide ve eğitimde alt sıralara yuvarlanışını ilgi duyup çözüm için kafa yormamışsa,  HEYBELERİ BOŞ DEMEKTİR.</p>
+<p>Sayın aday adayları bu yazı çerçevesinde durumlarını değerlendirmeli ve aynanın karşısına bakıp böyle bir sorumluluğa hazır olup olmadıklarını sorgulamalıdırlar..<br />
+Aday adayının eğitimli, kültürlü, ahlaklı ve düzgün insanlar olması yeterli değildir. Bunlar, zaten adam gibi adam olmanın gereğidir.<br />
+İşte bu nedenle, aday olamadan önce heybelerine neler koydukları önem kazanmaktadır.<br />
+Çünkü Samsun’un, sorunlarını çözecek ve bu kentin vekili olduğunu hiçbir zaman unutmayacak Samsun sevdalısı milletvekillerine ihtiyacı vardır.<br />
+Umuyorum, seçilecek milletvekili adaylarımızın heybeleri doludur.<br />
+Umuyorum, bu özelliklere sahip olan ve Samsun milletvekili olmayı hak edenlerden oluşacak parti listeleri Samsunlu seçmenin önüne konur.<br />
+İyi haftalar.. 01. 03. 2015</p>
+<p>Ecz. SADİ SUBAŞI</p>
+<p>SADİ 'CİĞİM ,<br />
+Sabah ; yazını okumadan cevaplamıştım. Şimdi ise okumuş olarak cevaplıyorum.<br />
+1-Bu yazını, içeriğinde bahsettiğin gibi aday adaylarının çok dikkatli okumaları gerekir.<br />
+2- Yazının başlığını çok beğendim. '' heybenizde ne var ''<br />
+3- Benim bir düşüncem hatta  , arzum var. bu aday adayları ;<br />
+3.1- Hangi tarihte samsun ' a  yerleşmişler ? kaç senedir samsun ' dalar ?<br />
+3.2- Nereliler ? ( bu sorunun cevabı değişik şekillerde yorumlanabilir.)<br />
+3.3- Sizden daha önce samsun ' a yerleşmiş  en az üç kişiyi referans gösteriniz.</p>
+<p>Not : Cevapların şöyle olmasını isterdim.<br />
+3.1- ( minimum ). 2000 yılında Samsun ' a geldim.( 15 senedir Samsun ' dayım )<br />
+3.1- .................... yerden geldim ama kendimi Samsun ' lu hissediyorum.<br />
+3.3.......................( tanınmış , güvenilir isimler olmalı. )<br />
+sevgilerimle.<br />
+DOĞAN EMİRLİ</p>
+<p>Aylin Sahin Tat : Değerli büyüğüm beynimden geçen kalbimde sızı olan her bir noktayı öylesine güzel kaleme almışsınız ki, yazınızı bir solukta okudum. Bu ülkede milletvekili olabilmeyi düşünen kimseelbette ki nitelikli olmalı, Bu bir ayrıcalık değil bu özel makama talip olmanın gereğidir. Ve beni de ilgilendiren her birinin heybesi. Umarım ders niteliğindeki bu güzel yazınız onlara rehber olur. Kaleminize ve yüreğinize sağlık...</p>
+<p>Savaş Ovalı : İyi ki varsın Sadi Ağabeyim kalemine yüreğine sağlık versin Tanrım.</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0734-tecavuzler-ve-kadin-cinayetleri-i-grenclesti.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0736-samsun-un-gelecegini-karartacak-santraller-birbiri-ardina-yapilirken-susan-kent-yonetimi.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

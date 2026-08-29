@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Hava Alanı Nasıl Kapatıldı Demeyin. Burası Samsun</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Hava Alanı Nasıl Kapatıldı Demeyin. Burası Samsun
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2016
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0830
+
+</div>
+
+
+<div class="article-content">
+
+<p>e-posta; denizeczaneoptik. com                            SUNUŞ<br />
+ARTIK, SAMSUN’UN MİLLETVEKİLİ VE BAKANI<br />
+OLMASA DA OLUR<br />
+1. BÖLÜM<br />
+Geçtiğimiz hafta bir kent için akıl almayacak bir haber, Samsun adına gündeme düştü. Haber gerçekten bir kentin tüm dengelerini alt üst edecek düzeydeydi.<br />
+İlk okuduğumda tepkim, böyle bir haber doğru olamazdı oldu. Ama hemen aklıma 1980 sonrası yine Samsun’da yaşanan hava alanı kapatma olayı geldi. O günleri düşününce ve Teşvik Yasası kapsamının genişletilmesi sırasında tüm Karadeniz Bölgesinde sadece Samsun’un nasıl dışlandığını hatırlayınca, Samsun gibi sahipsiz kent için normaldir dedim.<br />
+Dedim ama bu yanlışı bir Samsunlu olarak kabul etmemizin mümkün olmadığını, dolayısı ile bu yanlışın düzeltilmesi veya makul bir çözüm bulunması için sonuna kadar mücadele etmemizin her Samsunlu için görev olduğuna karar verdim.<br />
+Geçen hafta basında çıkan haberlerin dışında kentimizi yönetenlerden ve Samsun’un daha güzel günlere götürmek için seçilmiş milletvekillerimizden bir ses çıkmaması da, her zaman olduğu gibi bu kez de Samsunlunun kaybedeceği gerçeği ile içim buruldu.<br />
+Şimdi bazıları, “ Büyük bir iyimserlikle, Samsun iktidara % 60 oy veren bir kent. Samsun’a bunu yapamazlar” Diyor.<br />
+Sanıyorum bunu söyleyenler, Samsun’un 1980 sonrası sürekli kaybettiğini, her türlü haksızlığa uğradığını ve bir kentin yükselişini gösteren ekonomik kalkınma, eğitim düzeyi ve yaşanabilir kentler sıralamasında gerileyerek Türkiye ölçeğinde 30. Sıraların altına düştüğünü, işsizlik oranında Türkiye ortalamasının üzerine çıktığını, ya bilmiyor veya görmezden geliyor demektir.<br />
+Hepsi bir yana, formasında 19 Mayıs Kenti Samsun’un simgesi olan Atatürk arması taşıyan tek Türk takımı olarak Samsun’un en önemli tanıtım organı olmasına rağmen, Samsunpor’un yıllardır süren perişanlığı da Samsun’un bu sahipsizliğinin bir başka örneği değil mi?<br />
+Birkaç hafta önce bu köşede, “ Samsun Bölge Liderliğini Kaybediyor” Başlıklı bir yazı yazdım. 1988’ de SAM-SEV’İN kuruluşundan bu yana da, “Bu kent sahipsiz” Demeyi sürdürüyorum. Bu sözlerime hiç itiraz eden birisini duydunuz mu?<br />
+Samsun’da gereken ilgiyi göremedikleri için oldukça önemli sayıda istihdam yaratacak yeni büyük yatırımını gerekli ilgiyi göremediği için bir güney iline taşıyan Samsun’un öz kuruluşu da, Samsun adına yaşanan büyük bir kayıp değil mi?<br />
+Bunları hatırlatmamın nedeni, hava alanımızın pist onarımı için bir süre kapatılacağının açıklanmış olmasıdır. İnsanın içini acıtan şey, bir başka çözüm yolundan söz etmeden bu açıklamayı bir Samsun Milletvekili ’nin yapmış olmasıdır.<br />
+İnanın, bu kenti her şeye rağmen seven ve hiçbir şekilde bazıları gibi Samsun’dan umudunu kesip başka illere taşınmayı düşünmeyen birisi olarak, bu yazdıklarım yüreğimi dağlıyor.<br />
+Bu konuda yetkililerin bir an önce konuşması ve bu pistin onarım için kapatılmadan bir başka çözüm bulmalarıdır. En çok konuşulan ve akla yatkın çözüm yolu ise, 2. Pistin yapılmasından sonra bu pistin onarıma alınmasıdır.<br />
+Bu pist bugün bozulmamıştır. Neden bu sorun önceden yetkililere iletilmemiş veya iletilmiş ise, neden 2. Pist yapımı önceden düşünülmemiştir.<br />
+Samsun Valiliğinin resmi sitesinde yapılan açıklamaya göre 2015 yılında Samsun hava alanını kullanan yolcu sayısı 1.694.212 olup, bu sayı 2016 yılı sonunda 2.000.000’ a ulaşacaktır. 2015 de hava alanına inen-kalkan uçak sayısı 17.073’dür.<br />
+Böylesine büyük sayıda yolcu taşıyan bir havaalanının genişletilmesinin düşünülmesi gerekirken, onarım yapılacak diye kapatılması, çağdaşlık iddiasında olan bir kent için kabul edilebilir bir şey değildir.<br />
+Hele de, siyasetçilerin gerekli olup olmadığına bakmadan yaptırdıkları komşu bir ilde ki havaalanının beklenen ilgiyi görmemesi nedeniyle, bu havaalanına yolcu aktarılması amacıyla Samsun Havaalanının geçici olarak kapatılacağı iddiaları doğruysa, bu yapılan Samsun ilini düpedüz aşağılamaktır.<br />
+Tüm sivil toplum kuruluşları bu sorunda birleşmeli ve ulaştırma bakanını ile görüşerek en akılcı çözüm olan 2. Pistin yapılmasını sağlamalıdırlar diyeceğim ama ne yazık ki, Samsun için çaba harcayacak bir STK’ da kalmadı.<br />
+Bazı STK’ lar, aman bize zarar gelmesin diyerek sisteme ayak uyduran, halkından kopmuş sembolik kuruluşlar, bazıları ise siyasi gelecek beklentisi ile iktidarın arka bahçesi haline gelmiş durumdalar.<br />
+Üzülerek söylemek isterim ki, yaşadığımız benzer olaylardan sonra artık Samsun’un sorunlarının çözümü için kent yöneticilerinden de, siyasetçilerinden de bir beklentimizin olamayacağı anlaşılıyor.<br />
+Değerli okuyucularım, yazımın ikinci bölümünü yarın bu köşede            “ SAMSUN HAVAALANI DAHA ÖNCE DE KAPTILMIŞTI” Başlığı ile okuyabilirsiniz. Yarın buluşmak dileğiyle, iyi haftalar.<br />
+13.11.2016<br />
+Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0829-asil-simdi-samsunspor-a-sahip-cikmanin-tam-zamanidir.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0831-samsun-havaalani-daha-once-de-kapatilmisti.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

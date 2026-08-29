@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Bu Nasıl Yönetmek. Yoksa Yönetmek Adına Birilerini Zengin mi Ediyoruz.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Bu Nasıl Yönetmek. Yoksa Yönetmek Adına Birilerini Zengin mi Ediyoruz.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2009
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0401
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>BU NASIL YÖNETMEK? YOKSA<br />
+YÖNETMEK ADINA BİRİLERİNİ ZENGİN Mİ EDİYORUZ?<br />
+1950 den bu yana ülkemizde olanları benim aklım da almıyor, mantığım da kabul edemiyor. O günden bu güne ülkemizi yönetmeye talip olanların iyi niyetinden kuşkum yok. Ama yönetmek adına, ülkemizi adım adım bugünkü ekonomik bağımlılığa ve sosyal çöküntüye uğratmış olmalarını kabullenemiyorum.<br />
+1950 den bu yana geçen dönemleri şöyle sıralayarak irdelediğimizde önümüze hiç de iç açıcı bir tablo çıkmıyor. İlk dönemi MENDERES dönemi, sonrakileri de 1960 İHTİLALİ dönemi, kısa bir İNÖNÜ dönemi, DEMİREL dönemi, 1972 MUHTIRA dönemi, kısa bir ECEVİT dönemi sonrası MİLLİYETÇİ CEPHE dönemi, 1980 İHTİLALİ dönemi, ÖZAL dönemi, tekrar DEMİREL dönemi, ardından KOALİSYONLAR dönemi ve günümüzde ki RECEP TAYYİP ERDOĞAN dönemi olarak sıralayalım. Sonra da bu dönemlerde neler olmuş bir bakalım.<br />
+Tüm bu dönemlere damgasını vuran ilk şey kamplaşmadır. Menderes döneminde, “VATAN CEPHESİ” ile başlayan insanlarımızı kamplara ayırma yanlışını, 1960 ihtilalinin ardından gelen uzun DEMİREL dönemlerinde yaşanan Sünni-Alevi ayrışması izlemiştir. Bu süreçte 1972 muhtırası ile noktalanmış ve ardından kısa süren ECEVİT dönemi ve yaşanan KIBRIS zaferi bu ayrışmaları bir an olsun unutturmuştur.<br />
+Ne var ki, ardından ülke yönetimini ele alan “MİLLİYETÇİ CEPHE” dönemi ülkemiz kan gölüne çevirmiş ve sağ-sol bölünmesi çok sayıda masum insanımızın canına mal olmuştur. Bu dönem de ülkeyi kamplara bölen de DEMİREL-ECEVİT inatlaşmasıdır.<br />
+Olayları küçümseyen en önemli söylem ise, patenti DEMİREL’E ait olup, “ Yollar yürümekle aşınmaz” ile “ Bana sağcılar adam öldürüyor dedirtemezsiniz” sözleridir.<br />
+Bu dönemde 1980 ihtilali ile noktalanır. 1980 ihtilal döneminin de ülkeye armağanı ÖZAL dönemidir. Yenilikçi ve liberal ÖZAL ile dünyaya açılan ülkemiz, döviz serbestsisi ve telekomünikasyon alanında ki açılımlar yanında yeni bir olguyla tanışır. Bu dönemde Amerika’da iyi eğitim almış veya eğitilmiş Özal’ın Prensleri ülkemizin ekonomisinde söz sahibi olmuşlardır.<br />
+Prenslerle birlikte, ülkemiz de geçmiş dönemlerde olmuş olsa bile boyutları saklanabilir ölçülerde kalmış, bir soygun düzeni başlamıştır. Ranta dayalı politikalar, bankaların içinin boşaltılması ve ÖZAL’A ait “ Benim memurum işini bilir” söylemi ile başlayan  ve “Rüşveti” yasal ek gelir aracı haline getiren uygulamalar, Türkiye’nin tüm değerlerini alt üst etmiştir..<br />
+Bu dönemin en önemli olaylarından birisi de, “ Üç beş çapulcu işi” diyerek küçümsenen GÜNEYDOĞU’DA yaşanan Kürt sorunudur. Bu bölgede hafife alınan olaylar, sonun da 30.000 i aşkın insanımızın canına ve milyarlarca dolar paramıza mal olmuştur. Günümüzde ise sorun boyut değişerek çok daha ciddi bir duruma gelmiştir.<br />
+Tabii bu arada ERBAKAN’IN, “kanlı mı olacak, kansız mı olacak?” diyerek körüklediği şeriat düzeni özleminin, askerin 28 Şubat Müdahalesini getirdiğini de hatırlamakta yarar vardır.<br />
+Bu çalkantıların ardından, “ECEVİT KOALİSYONU” ülke yönetimini ele alır. Büyük bir ekonomik krizin yaşandığı ve beş cent’e muhtaç olduğumuz bir dönemde göreve gelen koalisyon, tam işleri düzene sokarken, Ülkemizde o güne kadar kimsenin adını duymadığı “KEMAL DERVİŞ” isimli bir Türk ekonomi uzmanı Amerika’dan Türkiye’’ye gelir veya gönderilir. Türkiye’ye gelir gelmez hükümete girer ve bir süre sonra bilinen senaryo ile erken seçim ortamı yaratılır ve Türkiye için yeni bir dönemin önü açılır. Bu dönemin adı, “AKP dönemidir.”<br />
+Bu kez, Türkiye yeni bir ayrışmayla tanışır. Türkiye bir kez daha kamplara bölünür. Bu kez ayrışmanın adı “ İnananlar ve inanmayanlardır”. Artık her konuda tek referans geçerlidir. O da, İmam Hatipli olmak ve türbandır.<br />
+Türkiye, bir yanda Atatürk’ün kurduğu yüzünü çağdaş dünyaya dönmüş Laik ve Çağdaş Hukuk Devletinin yok edilme korkusunu yaşayan, öte yanda da Atatürk’e ve ilkeleriyle, kurduğu Cumhuriyete saldıran şeriat beklentisinde ki insanları ile birbirlerine olan güveni yitirmiş bir ayrışmanın içine düşürülmüştür.<br />
+Aslında günümüz dönemi ile çok şey söylemeye gerek yok. Her şey gözümüzün önünde oluyor. Gören gözleri olanlar, algılama yetisini kaybetmemiş insanlarımız adına yoruma da gerek yok.<br />
+Ne var ki, her dönemde rastladığımız çıkarları uğruna ülkemizi bir yerlere götürmeye çalışan ve dış güçlere hizmet sunan satılmışlar, beyni uyuşmuş “aymaz aydınlar” ile kendisini dizilere kaptırmış, ülke gerçeklerinden kopmuş ve kaderine razı olmuş geniş bir halk kitlesi, ülkemizin geleceği adına endişe yaratmaktadır.<br />
+1950 den bu yana geçen 60 yılın sonunda ortaya, yılların birikimiyle kartopu gibi büyüyen bir dış borçla ekonomik bağımsızlığını riske sokmuş, tüm dönemlerin en yüksek oranlı işsizlik sorunu ile üretimden kopartılmış, tükettiği temel gıda maddelerini dahi dışardan almak zorunda bırakılmış bir TÜRKİYE tablosu çıkmıştır.<br />
+Şimdi şöyle bir geriye dönüp baktığımız da gözüken gerçek, bu ülkeyi yönetmeye talip olanların bunu beceremedikleridir. Ancak iyi becerdikleri iki şey vardır. Yönetmek adına insanlarımızı kamplara ayırmak ve her kademede ki yönetici ile ülke kaynaklarının talan edilmesine, aile boyu soygunlara göz yumarak akçeli işleri olağan hale getirmek, tüm dönemlerin en iyi becerdikleri iş olarak gözükmektedir.<br />
+Ülkemizde, hiçbir çağdaş ülkede görülemeyecek oranda utanç verici çeşitte bir soygun düzeni yaşanmaktadır. Başbakanlar seviyesinden başlayarak, bakan, milletvekili, belediye başkanı, belediye meclis üyeleri ve her kademede ki bürokratın adının veya aile fertlerinin adlarının karıştığı akçeli suiistimaller olağan hale gelmiştir.<br />
+Bu arada, bir başka utanç verici soygun düzeni daha gelişmiş ve insanlarımızın dini inançları ile yardımlaşma duyguları istismar edilerek toplanan paralar bir takım kuruluşlara, kişilere aktarılmış, daha da kötüsü siyasi partilere de pay verildiği söylentileri yaygınlaşmıştır.<br />
+İşin en acı tarafı ise, bu pis işlerin ve bulaşanların siyasi güçler tarafından korunuyor olması ve adı bu tür pis işlere karıştığı için haklarında ağır cezalık davalar açılan bürokratların, ilgili bakanlar tarafından koruma altına alınarak yargılanmalarının dahi engellenmesidir.</p>
+<p>O HALDE SÖYLER MİSİNİZ?<br />
+BU ÜLKEYİ YÖNETMEYE TALİP OLANLAR BU İŞİ BECEREBİLİYORLAR MI?<br />
+ÜLKEYİ YÖNETMEK ADINA BU YOKSUL MİLLETİN HAKKI OLAN PARALARININ HORTUMLANMASINI ÖNLEYEBİLİYORLAR MI?</p>
+<p>SANIRIM ŞU SORUNUN CEVABI, DURUMU AÇIKLAMAYA<br />
+YETERLİ OLACAKTIR;<br />
+BİR DÖNEME İMZASINI ATAN BAŞBAKAN VE İKİ BAKANINI ASIP, ÇOK SAYIDA SİYASETÇİYİ SUDAN SEBEPLERLE MAHKÛM EDENLERE,<br />
+BU GÜN ÜLKEMİZİN İÇİNE DÜŞTÜĞÜ DIŞA BAĞIMLILIĞI 30–35 YIL ÖNCEDEN GÖREREK İSYAN EDEN GENCECİK İNSANLARI, “SOLCU” VE “ KOMİNİST” DAMGASI VURUP ASANLAR VEYA YARGISIZ İNFAZ EDENLERE,<br />
+YİNE BİR DÖNEM ŞERİAT ÖZLEMİ İLE SOKAKLARA DÖKÜLEN SAPKINLARLA BİRLİKTE ÇOK SAYIDA İNSANI DA, İNANÇ VE DÜŞÜNCELERİ UĞRUNA AYNI POTA DA MAHKÛM EDENLERE,<br />
+BİR DÖNEM DÜŞÜNCELERİ NEDENİYLE SOLCULARIN, BİR DÖNEM DE SAĞCILARIN YURT DIŞINA KAÇMALARINA NEDEN OLANLARA,<br />
+ÜLKEYİ SAĞCI-SOLCU, DİNDAR-LAİK, SÜNNİ-ALEVİ, TÜRK-KÜRT DİYE BÖLENLERE,<br />
+DEVLETİN KAYNAKLARININ AİLE FERTLERİNE VE YANDAŞLARINA AKTARILMASINA GÖZ YUMANLARA</p>
+<p>DEVLET ADAMI DENİLEBİLİR Mİ?<br />
+KARAR VE YORUM SİZİN..<br />
+Avrupa’da bu olayların olduğu veya göz yumulduğu bir ülke var mıdır?</p>
+<p>MUSTAFA KEMAL ATATÜRK’ÜN, ölümünden 70 yıl sonra hala aranıyor olmasının nedeni şimdi çok daha iyi<br />
+anlaşılmıyor mu? ?<br />
+İyi haftalar..22 şubat 2009<br />
+SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0400-kurallarin-ve-yasalarin-yer-yer-dislandigi-turkiye-nereye-kosuyor.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0402-degisen-degerler-ve-kaybolan-dostluklar.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

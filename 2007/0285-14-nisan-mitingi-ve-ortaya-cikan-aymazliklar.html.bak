@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>14 Nisan Mitingi ve Ortaya Çıkan Aymazlıklar…</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+14 Nisan Mitingi ve Ortaya Çıkan Aymazlıklar…
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2007
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0285
+
+</div>
+
+
+<div class="article-content">
+
+<p>e-mail; sadisubasiqdenizeczaneoptik. com                                      SUNUŞ</p>
+<p>MUHTEŞEM 14 NİSAN MİTİNGİ VE ÖNE ÇIKAN AYMAZLIKLAR..</p>
+<p>Ülkemiz, 14-Nisan- Cumartesi günü Ankara’da düzenlenen çok anlamlı muhteşem bir miting ve yürüyüşe tanık oldu. Bu mitinge katılmış birisi olarak değerlendirme ve saptamalarıma öncelik veriyor ve daha sonra da neden orada olduğumuzun cevabını sizlerle paylaşmak istiyorum.<br />
+Atatürk ilkelerine ve kurduğu laik ve çağdaş cumhuriyete sahip çıkmayı görev edinmiş Atatürkçü Düşünce Derneği Genel Merkezinin öncülüğünde, düzenlenen ve 300 sivil toplum kuruluşunun destek verdiği Cumhuriyet döneminin en yüksek katılımlı mitingi tek kelime ile muhteşemdi.<br />
+Atatürkçü Derneği Samsun Şubesinin organizasyonu ile destek veren sivil toplum kuruluşlarının, siyasi partilerin, 19 Mayıs Üniversitesi Öğretim Üyelerinin ve Öğrencilerinin temin ettiği otobüslerle toplam sayısı 52 e ulaşan bir konvoy ile Cuma akşamı saat 24,00 sıralarında Samsun’dan yola çıkıldı. Gecenin ilerleyen saatlerinde Sungurlu yakınlarındaki mola yerinde görülen manzara, 14 Nisan Mitingine katılımın çok yüksek olacağının ilk işaretiydi.<br />
+Miting için sabahın erken saatlerinde Ankara Hipodromundaydık. Tandoğan Meydanına kadar olan kısa mesafeyi o saatte toplanan büyük kalabalık ile ancak 1,5 saatte alabildik. Saat 10.30 da meydan neredeyse dolmuş, saat 11.00 olduğunda ise Ankaralıların da katılımı ile meydana bağlantısı olan beş ana cadde de tıkanmıştı. Saat 12.00 olduğunda ise Tandoğan’ı Anıtkabir’e bağlayan 2 Km. lik ana cadde artık yürüyüşe izin vermeyecek kadar dolmuş ve Anıtkabir içinde ve çevresinde inanılmaz bir insan kalabalığı oluşmuştu. Rakamlara takılmak ve herhangi bir rakamsal yorum yapmayı gereksiz görüyorum. Ancak bu konuda söyleyebileceğim şey, katılımın 500.000 nin altında olduğunu söyleyenlerin, büyük bir yanıltmayla, bir kısım yerlere moral servisi yaptığıdır. Pazar günü yapılan resmi açıklamaya göre, cumartesi günü Anıtkabir’i ziyaret edenlerin sayısı 370.000 i bulmuş. Tandoğan’dan Anıtkabir’e giden yolun tamamen dolması sonucu meydandakilerin yarısından çoğunun Anıtkabir’e gidemediğini de hesaplarsanız ulaşacağınız sayı ortaya çıkacaktır.<br />
+Sanıyorum 14 Nisan Mitingi katılım sayısı bakımından Türkiye’de bugüne kadar düzenlenmiş en yüksek katılımlı miting olmuştur. Büyük Önder’in cenaze törenine ait kesin veriler olmasa da, mevcut görüntülerden o töreninde çok muhteşem olduğu anlaşılmaktadır. Bu kez insanlar yine O’nun için, ama bu kez kurduğu ve bizlere emanet ettiği Laik ve Çağdaş Türkiye Cumhuriyetine sahip çıkmak için meydanları doldurmuştu. Katılımcıların büyük çoğunluğunun bayan olması ne kadar sevindirici ise gençlerin sayısının azlığı da o derece düşündürücüydü.<br />
+Bu mitingin bence en kayda değer yönü, son derece düzenli ve disiplinli bir şekilde geçmesidir. Mitingde hiçbir yanlış slogan atılmamış ve hiçbir amaç dışı pankart açılmamıştır. Hiç bir şekilde inançlara saygısızlık edilmemiştir. Konuşmacılar yanlış mesajlara neden olmayacak şekilde seçilmiştir. Böylesine muhteşem bir mitingi son derece düzenli ve disiplinli bir şekilde gerçekleştiren Atatürkçü Düşünce Derneği Genel Başkanlığı ile Şube Başkanlıklarına ve destek veren tüm sivil toplum kuruluşları ile üniversitelerimizi kutluyorum. Bir teşekkürüm de, böylesine bir mitingin güvenliğini sağlarken kimseyi huzursuz etmeden çok başarılı bir sınav veren emniyet güçlerimize olacaktır. Mitinge katılacakları caydırıcı pankartlarla Ankara’yı donatanlara ise en güzel cevabı, mitinge katılanların sayısı vermiştir. Kendilerini ilerici kabul ettikleri halde, sudan bahanelerle katılmayan STK ve sendikalar da sanıyorum bunu tabanlarına anlatmakta zorlanacaklardır.<br />
+Gelelim neden orada olduğumuza; Öncelikle şunu belirtmek isterim ki, bu ülkeyi son 50 yılda yönetenlerin başarısızlıklarını, gelenin gideni arattığı, milletvekili dokunulmazlığını işledikleri suçlara bir zırh gibi kullanmayı adet haline getirerek her geçen gün itibar kaybeden siyasetçiden fazla bir beklentim kalmadığı için, orada oluşum kesinlikle siyasi bir mesaj için değildi.<br />
+Tüm Müslüman ülkeler arasında Ülkemizi farklı ve çağdaş konuma taşıyan Laik ve Çağdaş Cumhuriyetimize sahip çıkmak için oradaydım..<br />
+Her geçen gün biraz daha dışa bağımlı hale gelen Ülkemizin onuruna sahip çıkmak için oradaydım..<br />
+Dünün çapulcusu, arkasına ABD i alınca aslan kesilip koskoca Türkiye’ye posta koyabilen Barzani’ye gereken tokadı atmak yerine, ABD Dışişleri Bakanından Barzani’yi uyarmasını isteyen bir dışişleri bakanına sahip olmayı, içime sindiremediğim için oradaydım..<br />
+Böyle bir küstahlık karşısında vazgeçtim İsrail’den, İran’ın yapacaklarının onda birini yapamayan bir yönetime olan isyanımdan oradaydım..<br />
+Zorunlu hale gelen sınır ötesi harekâtı gündeme getiren Genel Kurmay Başkanımızın açıklaması için “ Müdahale eden ülkenin elini keseriz” diyebilen Irak Meclis Başkanının haddini bildiremediğimiz için oradaydım..<br />
+Buğdayda, şekerde, ilaçta, demir çelik üretiminde ülkemizi dışalıma muhtaç eden ve bankalarımızın yabancı sermayenin güdümüne sokulmasını ülkemizin geleceği açısından çok tehlikeli gördüğüm için oradaydım..<br />
+Ülkemizin, komşularımızla çıkacak olası bir savaşta, konacak bir ambargo sonrası, üç gün dahi savaşı sürdüremez hale düşürülmüş olmasını içime sindiremediğim için oradaydım..<br />
+İçki masalarında, lokallerde demokrasi ve cumhuriyet savunucusu kesilip, taşın altına elini sokmaya sıra gelince ortada görünmeyen,  “ tatlı su aydınlarına”  inat oradaydım..<br />
+Laik ve çağdaş Cumhuriyetimizin sahipsiz olmadığını göstermek için oradaydım..<br />
+Çocuklarımızın çağdaş bir ülkede yaşayabilmeleri için oradaydım..<br />
+Sivil gücün, Laik Cumhuriyetimizin korunmasını başka güçlere ihale etmediğini göstermek için oradaydım..<br />
+Sessiz çoğunluğun bir gün silkinip kükreyeceğine olan inancımı canlı olarak yaşamak için oradaydım..<br />
+Ben, eşim, bizler ve tüm meydandakiler, daha da artırabileceğim işte bu nedenlerle oradaydık.. Yetmez mi?<br />
+Bu arada bu miting öncesi ve sonrası medyanın takındığı tavır, ülkemizin geldiği noktanın en büyük göstergesi olmuştur. Ulusal demeye artık dilim varmadığı için, yaygın meyde diye adlandırdığım yazılı ve görsel İstanbul medyası, nasıl bağımlı hale geldiğini bir kez daha göstermiştir. Son sözüm de yerel medyamıza olacak. Cumartesi ve Pazar günü yayınlanan yazılı medyamızın da bu akıma ayak uydurduğunu görünce içim burkuldu. Cuma akşamı 52 otobüsün büyük bir coşku ile hareket edişinin haber değeri de mi yoktu? 19 Mayıs Kenti flaması altında Samsun’u temsil edenlerin izlenimlerini yansıtmak da mı kimsenin aklına gelmedi? Pazar günü yayınlanan yerel gazetelerimizin, aydınlık Türkiye adına Ankara’da ki yüz binlerce insanın katıldığı muhteşem miting ile ilgili tek habere yer vermeyişi Atatürk Kenti Samsun medyasına hiç yakışmamıştır. Yazık..<br />
+Daha mutlu ve umutlu günler dileğiyle.. 15- Nisan -2007<br />
+SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0284-14-nisan-mitingi-ve-sivil-toplumun-sorumlulugu.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0286-cumhurbaskanligi-seciminde-son-raund.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

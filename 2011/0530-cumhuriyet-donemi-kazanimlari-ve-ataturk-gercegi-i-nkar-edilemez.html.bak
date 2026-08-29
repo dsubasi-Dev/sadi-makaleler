@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Cumhuriyet Dönemi Kazanımları ve Atatürk Gerçeği İnkar Edilemez.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Cumhuriyet Dönemi Kazanımları ve Atatürk Gerçeği İnkar Edilemez.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2011
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0530
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>CUMHURİYET DÖNEMİNİN KAZANIMLARI<br />
+VE ATATÜRK GERÇEĞİ İNKÂR EDİLEMEZ.</p>
+<p>Geçtiğimiz Cumartesi günü TBMM’NİN açılışının 91. Yılını kutladık. Son yıllarda milli bayramların kutlanmasında bazı sorunların yaşanması artık yadırganmıyor. Bu gerçekten üzücü, bir o kadar da düşündürücüdür.<br />
+Bunun altında ki asıl neden, belli bir kesimin artık saklamaya gerek duymadığı Atatürk düşmanlığıdır.<br />
+Bunun en somut örneklerini de, gazetelerde boy boy yer alan 23 Nisan Ulusal egemenlik ve Çocuk Bayramı kutlama mesajlarında görmek mümkündür. Nitekim bazı kişi ve kuruluşların verdiği ilanlarda, bu bayramı ulusumuza hediye eden Atatürk’ün adını göremezsiniz.<br />
+Etnik ayrılığa destek veren siyasetçilerin tepkisini yadırgamamak gerekir ama özellikle de, iktidar partisinin bazı il başkanlarının davranışlarının nedenini araştırmak gerekir diye düşünüyorum.<br />
+Bu tepkiyi, bazı il başkanları protokol gereği de olsa Atatürk anıtına çelenk koymaya gitmeyerek, bazı siyasetçiler de zorunluluktan yaptıkları açıklama metinlerinde Atatürk’ün adını anmayarak sergiliyorlar.<br />
+Çanakkale Zaferin de Atatürk’ü yok sayan törenler düzenleniyor. Bu zaferin, bazı ilahi güçlerle kazanıldığı senaryosu pompalanıyor.<br />
+Dünyanın gençlerine bayram hediye eden tek devlet adamı Atatürk’ün adını anmamak için, 19 Mayıs Atatürk’ü Anma Gençlik ve Spor Bayramını kaldırılmasını öneren valiler çıkıyor. Hem de Türkiye Cumhuriyeti İçişleri Bakanının düzenlediği Valiler toplantısın da.<br />
+Bu tepki artık Tanrı’nın evi camilere kadar girdi. Hem de Cuma namazı sırasında..  Buna tepki gösteren az sayıda ki cemaati engellemek için hutbeyi kesip namazı başlatan imamı överken, mabette bu iğrençliği yaratanı da her zaman olduğu gibi, “Bir meczubun işi” Deyip, olayı geçiştiriyoruz.<br />
+Peki, Atatürk’e ve Cumhuriyet Dönemine bu tepkinin nedeni ne olabilir.?<br />
+1920 yılı öncesine giderek o dönemi bir hatırlayalım. Son dönemlerin de çöküşe geçen ve Avrupalıların “Hasta Adam” Damgasını vurduğu koca Osmanlı İmparatorluğu<br />
+1. Dünya Savaşından yenik çıkınca, İmparatorluk sınırlarını çizen tüm toprakları elinden alınmış, Anadolu da galip devletler tarafından paylaşılmıştır.<br />
+Ecdadımız Osmanlı, son dönemlerinde çapsız padişahlar, onların yanlış yabancı evlilikleri, istikbal vadeden şehzadelerin taht kavgaları uğruna katli ile çok kötü yönetilmiş ve sonunda da parçalanmıştır.<br />
+Bunun anlamı, İmparatorluk kurmuş dünyayı titretmiş bir milletin yok oluşunun son noktası demektir.<br />
+İşte böyle bir ortam da, kendini milletine adamış birisi çıkacak ve yok olan Osmanlı’nın küllerinden yeni bir devlet yaratacaktı.<br />
+O, bağnazlığın pençesinde açlık ve sefalet içinde yaşayan bir topluma çağdaş ulus kimliği kazandıracaktı..<br />
+O, kazanılan Kurtuluş Savaşı sonrası 15 yıl gibi kısa süren yaşamında, onlarca devrimi gerçekleştirecek, kadınını Avrupalıdan daha çok haklara sahip kılacak, toplu iğne yapamayan bir ulusu şekerini, ununu, demirini, ayakkabı ve kumaşını yapabilecek hale getirecekti..<br />
+Topraklarımızda gözü olan Avrupa Devletlerinin dahi, hayranlığını kazanacaktı..<br />
+Diktatör olmak gibi insanı baştan çıkartacak bir fırsatı ret edip, “Egemenlik kayıtsız şartsız milletindir.” Diyerek TBMM’ ni kuracak ve Cumhuriyeti getirecekti..<br />
+Onunla da yetinmeyip çok partili rejimin ilk denemelerini daha o yıllarda yapacaktı.<br />
+Sonunda da, 20 yüzyılın en önemli “Devlet Adamı” İlan edilecekti.<br />
+Bunlardan daha büyük suç olabilir mi?<br />
+E, birde kalkar dinimizi herkesin kendi dilinden öğrenmesini sağlayacak reformları başlatırsan, bugünkü saldırıları hak edersin.<br />
+Her şeyi anlıyorum da, Cumhuriyet döneminde yapılan tüm fabrikaları özelleştirme adıyla, çoğunu da yabancılara satmalarına rağmen, istihdam yaratacak tek bir tesis kuramayan, işsiz sayısında patlama yaptıran, buna karşılık ülkemizin cari açığını tüm Cumhuriyet dönemlerininkini ikiye katlayarak artıran bir yönetimin tarzını anlayamıyorum.<br />
+Bir dönemi ve önderini acımasızca eleştirenlerin bir kısmının, ülkemiz insanlarına dinlerini öğretsinler diye kurulan din eğitimi ağırlıklı okulların mezunlarından olduğunu bilmek, insanı daha çok yaralıyor.<br />
+Yazımı Hz. Ömer’e ait olduğu söylenen bir öykü ile tamamlıyorum.<br />
+Hazreti Ömer’e “Falanca sana kötülük yapacak” Denince Hazreti Ömer, “”Ben ona iyilik yapmadım ki bana iyililik yapsın” der.<br />
+Başka söze gerek var mı?<br />
+Cumhuriyet dönemi, yokların var edildiği, sanayileşmenin en güzel örneklerinin verildiği, insan haklarının tanındığı, dilde, eğitimde, tarımsal üretimde reformların yapıldığı, köylünün milletin efendisi kabul edildiği, dış ülkelerle ilişkilerde dostlukların pekiştirildiği bir dönemdir.<br />
+Bir ülkenin yoktan var edildiği, çağdaş dünya ölçütlerinin hedef alındığı bir dönemi ve bunları yaratan Büyük Önder’i, isteseniz de yok sayamazsınız.<br />
+Bizlere kendi vatanımızda özgürce yaşama ortamını hazırlayanların hepsinin ruhu şad olsun.<br />
+Artık amaç ve hedef, geçmişimizi yargılamak değil, Onların açtığı yolda daha özgür, daha donanımlı insanların yaşadığı, huzurlu bir ülke yaratmak olmalıdır.<br />
+İyi ve gönlünüzce bir hafta dileğiyle.. 24 Ocak 2011</p>
+<p>Yalçın Demir 25 Nisan 2011 Pazartesi 15.42<br />
+Sadi beyin tespitlerine ismen katılıyorum..<br />
+Ülkemizde ne yazık ki hiçbir şeyin hakki tam olarak v...                 Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0529-samsun-da-samsunlu-olmak-i-stanbul-da-i-stanbullu-olmak-demektir.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0531-toplumsal-huzur-ve-barisin-yolu.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

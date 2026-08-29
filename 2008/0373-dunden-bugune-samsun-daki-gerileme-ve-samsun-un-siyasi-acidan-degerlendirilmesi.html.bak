@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Dünden Bugüne Samsun&#x27;daki Gerileme ve Samsun&#x27;un Siyasi Açıdan Değerlendirilmesi.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Dünden Bugüne Samsun&#x27;daki Gerileme ve Samsun&#x27;un Siyasi Açıdan Değerlendirilmesi.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2008
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0373
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>DÜNDEN BUGÜNE SAMSUN’DA Kİ GERİLEME VE<br />
+SAMSUN’UN SİYASİ AÇIDAN DEĞERLENDİRİLMESİ,</p>
+<p>Geçen hafta ki köşe yazımda, Samsun adına yerel yönetimlerin bazı önemli yanlışlarına, dayatmalarına ve iletişim eksikliklerine rağmen, son yıllarda eski dönemlere göre ciddi aşamalar yaptığını belirtmiştim. Üzülerek söylemek gerekirse, aynı şeyleri genel anlamda ve Samsun’un yarınları için, umut verici bir siyasi irade ve yönetim anlayışı konusunda söylememiz mümkün değildir.<br />
+1950 li yıllardan başlayarak gelen süreci derinliğine incelediğimiz de, Samsun’un bugün içine düştüğü çıkmazı çok da yadırgamamız gerekir diye düşünüyorum. Bu süreci aşağıda ki ana başlıklar halinde gözden geçirirsek, Samsun’un son 50 yılını yaşamış olanlar sanıyorum bana hak vereceklerdir.</p>
+<p>SAMSUN, DEVLETİN YATIRIM YAPTIĞI DÖNEMLERDE<br />
+GEREKEN DESTEĞİ ALAMAMIŞTIR.<br />
+Ülkemiz de 1970’ li yıllardan başlayan dönemde Devlet yatırımlara öncülük etmiştir. Bu anlamda DPT’nin beşer yıllık planları çerçevesinde Türkiye’de önemli sanayi yatırımları başlamıştır. İşte Samsun’un son kırk yıllık geçmişine baktığımız da, Türkiye’de ki bu sanayileşme ve devlet yatırımlardan pay alma noktasında Samsun’un çok gerilerde kaldığını görürüz.<br />
+Bu yatırımların siyasi iktidarlar tarafından belirleniyor olması ne yazık ki, Samsunlu siyasetçilerimiz tarafından yeterince değerlendirilememiştir.   Samsun’un o dönemlerden başlayarak güçlü bir siyasi irade oluşturamadığı görülmektedir. Oysa Samsunlu siyaset adına doğru olanı yapmış ve hemen her dönem de iktidarda ki partiye en büyük desteği veren iller arasında yerini almıştır. Ama bu desteğin karşılığını yeterince aldığını söyleyemeyiz.<br />
+Samsun’un 1970’ li yıllarda bu desteğin karşılığını sınırlı da olsa aldığını ve Samsun adına tek ciddi yatırım olan, o zaman ki isimleri ile AZOT ve BAKIR tesislerinin de bu dönemde yapıldığını söylememiz gerekir. Zaten Samsun’a ne yapılmışsa o dönemlerde yapılmıştır. Ancak o dönemler, devletin yatırım yaptığı ve siyaseten güçlü illerin Samsun’la kıyaslanamayacak yatırımları kaptığı yıllar olduğunu da gözden uzak tutmamalıyız.<br />
+Şöyle geriye dönüp baktığımız da bu iki tesis dışında en önemli yatırımlardan birisi de Türkiye’nin en büyük limanlarından birisi olan SAMSUN LİMANI’DIR. Sonra ki yıllarda bu limana gerekli destek sağlanamadığı için, bu büyük yatırım da Samsun’a yeterli yararı sağlayamamıştır. Bunların dışında yine o dönemlerde bölgemiz de yapılan Çarşamba Şeker Fabrikası ile Lâdik Çimento Fabrikası dışında Devletin Samsun’a yaptığı başkaca bir yatırım yoktur.<br />
+Bu ara da barajları unutmuş değilim. 1970’li yılların belki de en büyük yatırımları Kızılırmak ve Yeşilırmak üzerinde yapılmış olan dört önemli hidroelektrik santralidir. Ne var ki bu santrallerin de yararı enterkonnekte sistem aracılığı ile tüm Türkiye’ye elektrik sağlaması olmuştur. Çarşamba ve Bafra Ovaları sulama projeleri her dönem siyasilerin oy avcılığı için birer yem olmaktan öteye geçemezken, bu barajların Çarşamba Ovasını sel baskınlarından korumanın dışında Samsun’a faydası değil zararı olmuştur. Çünkü ileride söz edeceğim “ TEŞVİK” dışı kalışımızın gerekçesi olarak, bu santrallerin getirisinin Samsun’a yazılması gösterilmiştir.<br />
+Sonra ki yıllarda devletin yatırımlardan elini çekerek özelleştirme dönemini başlatması ile Samsun adına bir başka sorun başlamıştır. Ancak bu konuya geçmeden, yukarıda söz ettiğim Samsun adına siyasi iradenin yetersizliğini inceleyelim.</p>
+<p>SAMSUN’DA SİYASİ YAPI VE SAMSUNLUNUN TAVRI .</p>
+<p>Son 25 yılda Samsun adına siyaset yapanların, değil kentin ortak çıkarları için bir araya gelmesi, kendi aralarında dahi birliktelik sağladığı görülmemiştir. Bunda ki en büyük etken, rüyasında dahi Samsun’u görmeyenlerin, Samsunluluğu seçim zamanı aklına gelenlerin veya hayatını başka illere adamış ve o illerin sempatizanlığını yapmış olanların, siyasi parti genel merkezleri tarafından Samsun milletvekili adayı olarak Samsunluya dayatılmasından kaynaklanmıştır.<br />
+Samsun’un bugünkü siyasi yapısına bir bakınız. Dokuz milletvekilinin altısı iktidar partisinden, ikisi ana muhalefet partisinden, birisi de diğer muhalefet partisinden seçilmişlerdir. Ne altı iktidar milletvekilinin kendi aralarında, ne de ana muhalefet partisinin iki milletvekilinin arasında bir birliktelikten söz edilebilir mi? Bir araya gelebiliyorlar mı ki, Samsun’un sorunlarında güç birliği yapabilsinler? Bu siyasi anlayış tarzı Samsunlunun verdiği oy desteğine ihanettir. Siz Sayın İktidarda ki Milletvekillerimiz, bu kenti temsil etmek ve haklarını korumak adına bir araya gelemiyorsanız, nasıl hükümet üzerinde etkili olabilirsiniz?<br />
+Değerli Samsunlular. Şöyle gerilere giderek bir bakınız. Bu görev için Samsunlunun önüne aday olarak çıkartılanların, hangisi Samsun için ne yapmıştır, hatırlayanınız var mı? Kaç tanesi seçilmeden önceki yaşamın da Samsunlu ve Samsun’un sorunları ile iç içe yaşamıştır? Samsunlu hangisini tanıyordu?<br />
+Seçilemeyen veya bir dönem sonra aday yapılmayan milletvekillerini bir daha Samsun da gören var mı? Milletvekilliği dönemini kapatmış ve Samsun’da yaşamını sürdüren kaç milletvekili var, bilen var mı?<br />
+Oysa Sen! Samsunlu kardeşim, her dönem doğrusunu yapıp hizmet alabilmek için, çocuğuna iş kapısı açılabilmesi için, ülkeyi yönetecek iktidar partilerine oy vermedin mi? Buraya kadar sen doğrusunu yaptın. Ama ya sonrası? Bu kötü gidişte sen de sorumlusun Sevgili Samsunlum. Seçtiğin vekilini sorguladın mı? Bu kent, iş ve aş kapısı demek olan “TEŞVİK” dışına itilip, bölgede teşvik dışı kalan tek il olarak aşağılandığında, buna seyirci kalan oy verdiğin vekilini sorguladın mı?<br />
+Samsun’a kirli yatırımları ( MOBİL SANTRALLER, TERMİK SANTRALLERİ ) layık görenleri yeniden seçmedin mi? Yarın sahip olduğun tarla ve arazilerinin para etmeyeceğini ve çoluk çocuk kanserle boğuşmak zorunda kalacağını nasıl düşünmezsin?</p>
+<p>SORUMLULUKLARINI TAŞIYAMAYAN SİVİL TOPLUM KURULUŞLARI.</p>
+<p>Önemli bazı Sivil Toplum Kuruluşlarının statülerinin kendilerine kazandırdığı güç ve konumlarını, Samsun’un çıkarları doğrultusunda kullandığı ve tavır sergilediği görülüyor mu? Samsun’un önemli sorunları konusun da oluşan STK platformuna destek vermek bir yana, zaman zaman kişisel ve siyasi çıkarları uğruna karşı tavır sergilemiyorlar mı? İşin daha da ilginci, bunların bir de kalkıp, “Samsun’un sorunu, kentte yeterli birlikteliğin olmamasıdır” diye ahkâm kesmeleridir.<br />
+“Teşvik Birlikteliği” oluşumunu terk edenlerle, onların saygıdeğer üyeleri, Sayın Başbakan ve Sayın Maliye Bakanı’nın teşvik konusunda Samsunlulara en hafif deyimiyle tarizde bulunduğu toplantıda, onları avuçları patlarcasına alkışlamadılar mı?<br />
+Mobil Santraller konusunda oluşan “ ÇEVRE BİRLİKTELİĞİ” içersinde yer aldılar mı? Teşvik veremedik, sizi “CAZİBE MERKEZİ YAPACAĞIZ” diye uyutanlar ve bunu bayrak yapan bu önemli Sivil Toplum Kuruluşlarının Başkanları, STK’lar adına sadece kendilerinin çağrılı olduğu son ekonomi toplantısında, bu kez de Devlet Bakanı Sayın Ekren’in Samsun’u CAZİBELİ KENTLER dışına itişine ses çıkartabildiler mi? Geçiniz beyler geçiniz.. Artık güneş balçıkla sıvanamıyor.<br />
+Hangi siyasetçimizin hangi söylediği gerçekleşiyor? Veya birbiriyle çelişmiyor? Her gün bir yenisine tanık olduğumuz, aslı astarı olmayan bu vaatler, “ kime inanacağımızı şaşırdık ”diye Samsunluların tepkisini almıyor mu?<br />
+Siyasetin mutfağı olan il ve ilçe teşkilatlarında yer alanların kendi gelecekleri ve çıkarları doğrultusunda birbirleriyle uğraşmaktan Samsun adına bir proje üretenini görebiliyor musunuz? Samsun’un hangi sorunun da varlar? Onların yapması gerekenleri, sivil toplum kuruluşu olmanın sorumluluğunu taşıyan STK’ların yerine getirmesi de onları rahatsız etmiyor. Pes doğrusu.<br />
+Böylesine tüm kurum ve kuruluşlarının iletişimi kopmuş, siyasi gücü bulunmayan, teşvik dahil her türlü avantajını kaybetmiş bir kentte, işadamlarının bir araya gelerek yatırım yapmasını beklemek insaf ölçüleri ile bağdaşamaz.</p>
+<p>SONUÇ: Yereli ile geneli ayrı telden çalan, iki odaklı bir kentte yaşıyoruz. Her iki kesimin ayrı telden çaldığı, akordu bozuk orkestradan da bundan farklı bir eser ortaya çıkmayacağını kabul etmek zorundayız. Samsun bugüne kadar hep sağ partilerin kalesi olmuş ve gözü kapalı, sorgulamadan her dönem desteğini sürdürdüğü için olacak, hiçbir iktidar Samsun için bir şeyler yapmak zahmetine katlanmamıştır.  Bu yapıyı değiştirmek Samsunlunun elindedir. Ama bu yapıyı değiştirmek için, önce bu kentte yaşamanın bir ayrıcalık olduğunu ve bunun bizlere yüklediği bir sorumluluğunun olduğunu öğrenmemiz gerekmektedir.<br />
+İyi haftalar.. 25 Ağustos 2008<br />
+SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0372-dunden-bugune-i-lkadim-kenti-samsun-da-yerel-yonetim-anlayisi.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0374-30-agustos-zaferinin-de-ruhunu-kaybetmeye-basladik.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Bu Kentte Neler Oluyor. Lütfen Birisi Anlatsın.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Bu Kentte Neler Oluyor. Lütfen Birisi Anlatsın.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2008
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0336
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>BU KENTTE NELER OLUYOR? BİRİSİ ANLATSIN LÜTFEN!</p>
+<p>Tarih kitaplarında Türkiye Cumhuriyetinin ilanı ile sonlanacak Kurtuluş Savaşı’nın ilk adımının atıldığı kent olarak taçlandırılan, Büyük Önder Mustafa Kemal’in, “Ben Samsunluları tanıdıktan sonra, Milli Mücadeleyi kazanacağımıza olan inancım bir kat daha güçlendi” diyerek onurlandırdığı 19 Mayıs Kenti Samsun’da neler oluyor? Anlamak mümkün değil. Veya benim gibi düşünenlerin algılama yetisi yetmiyor. Onun için, ne olur bilenler anlamayanlara anlatsın diyorum.<br />
+Samsun güncelini takip edebilmek için her gün altı tane yerel gazete okuyorum. Yerel TV kanallarını izlemeye çalışıyorum. Okudukça aklım karışıyor. Ya gerçekten benim gibiler anlayamıyor veya birileri birilerini kandırıyor. Aşağıda anlatacaklarım bu kentte yaşanıyor. Bu olanları yan yana koyunca siz neler olduğunu anlayabiliyor musunuz?</p>
+<p>İNANILMASI GÜÇ HABER.<br />
+12 Ocak 2007 Cumartesi akşamı gazeteleri okumaya başlıyorum. Gazetelerin birinde manşette yer alan “GÜLER MİSİN, AĞLAR MISIN? “ haberi ile adeta şok oluyorum. Çünkü haberin içeriği Samsunlunun tam yedi yıldır gerçekleşmesini dört gözle beklediği, yerel seçim öncesi 15.000 işçi alınacak haberlerine kanarak uğruna oylarını verdiği TERSANE YAPIMI ile ilgiliydi. Tersane yapacak üç firmanın, yapım öncesi almak zorunda oldukları ÇED ( Çevresel Etki Değerlendirme) raporunun ön koşullarından olan “ Halkı Bilgilendirme Toplantısına” yöre halkından sadece bir kişinin katıldığını duyuruyordu. Toplantıya 39 kamu görevlisinin katıldığı toplantı açıldıktan bir süre sonra, Çevre ve Orman İl Müdürü Sayın Kadir Kılıç halktan katılanlar olabilir diye toplantıya ara veriyor, bir saat aradan sonra toplantıyı yeniden açıyor, ama bir de bakıyor ki salondaki 39 kamu görevlisi de arayı fırsat bilip toplantı salonunu terk etmiş. Toplantıyı iptal ediyor. Üç firma toplam 1700 kişiyi istihdam edeceklerini açıklıyor. Haberin özeti bu.<br />
+Hemen diğer gazeteleri tarıyorum, ama bu konuda en küçük bir haber göremiyorum. Gazete de haberi doğrulayan resimler olmasa bu işte bir yanlış var diyeceğim. Hemen haberi yapan haberi yapan gazeteci arkadaşı arıyorum. Haberi doğruluyor ama haklı olarak haber kaynağını söylemiyor. Zorunlu olan ilan yayınlanmış mı diye soruyorum. Sanıyorum bir İstanbul gazetesinde yayınlanmış diyor. Duyuru yapılmış mı? Duyan yok. Ondokuzmayıs Üniversitesi Mühendislik Fakültesi Dekanına ve Çevre Mühendisleri Odası Başkanına soruyorum. Onlar da haberi benden öğreniyor. Konuyla ilgisi olabilecek sivil toplum kuruluşlarının haberi yok. Tekkeköy ve Kutlukent yöresinde oturan ve bu tür konulara yakın ilgi duyan dostlara soruyorum, onların da haberi yok.<br />
+Bir ay için de ikinci ÇED faciası. İlkinde Samsun’u yönetenler hariç herkesin karşı çıktığı TERMİK SANTRAL toplantısı da çıkan karışıklık sonrası yapılamamış, yenilenmesi beklenirken bu toplantı yapılmış gibi gösterilerek, bir hafta sonra Ankara’da yapılan toplantıda ÇED raporunun verildiği duyulmuştu. O toplantıda da garip işler olmuş, soracakları soruları hazırlamış olarak toplantıya katılan STK yöneticileri ile Ondokuzmayıs Üniversitesi Mühendisliği Dekanı ve çevre mühendisi öğretim üyelerinin soru sormalarına fırsat verilmemiş ve o toplantıda iptal edilmişti. Daha sonra çıkarılan karışıklığın bir tertip olduğu söylentileri de duyulmuştu.<br />
+Hadi TERMİK SANTRAL yatırımı istenmediği için bunlar oldu diyelim. Tersane yatırımı Samsunluların dört gözle beklediği ve çok sayıda Sivil Toplum Kuruluşlarının da desteklediği bir yatırımdı. Üstelik işsizlik rekorları kırılan bir kent için alınacağı söylenen 1700 kişi müthiş bir umuttu. O halde neden duyurular davul zurna ile yapılmadı. Tekkeköy Belediye Başkanı toplantıya katıldığına göre, neden TERMİK SANTRALLERE sahip çıktığı kadar TERSANE YATIRIMINA sahip çıkarak Tekkeköy Halkına gerekli duyuruyu yapmamıştı. Kutlukent Halkı neden haberdar edilmemişti?<br />
+Yoksa bu yatırımlar dört gözle beklediğimiz gemi yapım tesisleri değil de, Samsunludan tepki alacak bir başka tesis miydi ki, gerekli duyuru yapılmıyordu.? Nasıl olsa bu toplantılar bir şekilde yapılamasa da sonuçta yapılmış gibi gösterilebiliyor ve yollar açılıyordu.<br />
+Bu ve buna benzer olaylar da, Samsunludan yana tavır sergileyen ve kamuoyuna duyuran Sivil Toplum Kuruluşları da ister istemez bazı kesimleri rahatsız ediyordu.<br />
+Değerli okurlarım. MOBİL SANTRAL’İN Danıştay’ca da onaylanan mahkeme kararına rağmen çalıştırılmasını, TEŞVİK KAPSAMI dışında bırakılışımızı, giderilmesi mümkün olmayacak zararlarına rağmen TERMİK SANTRALLERİN yapımında ısrar edilmesini, TERSANE konusunda ki karmaşayı anlamakta sıkıntı çekiyorum. Onun için diyorum ki, birileri çıksın ve olanları bizlere anlatsın.<br />
+SAMSUN’A BAKAN İKİ PENCERE..                                 Büyükşehir Belediye Başkanımızı dinliyoruz, bir kısmını da gerçekleştirdiği son derece güzel projelerini anlatıyor. Bir yerel TV de ki söyleşisinde Sayın Valimiz, Samsun adına umut verici projeleri gündeme taşıyor. Sayın milletvekillerimiz her gün sonu cek-cak ile biten müjdeler veriyorlar.<br />
+ANLAŞILAN SAMSUN’A BAKAN İKİ PENCERE VAR. BUNLARIN BİRİSİNDEN BAKANLAR SADECE YAPILAN VE YAPILACAK GÜZELLİKLERİ GÖRÜYORLAR. BU, PEMBE MANZARALI BİR PENCEREDİR. SAMSUN’U YÖNETEN SAYIN YETKİLİLER, NE OLUR BİR KEZ DE GÜZELLİKLER YANINDA EKSİKLERİ, YAPILAN VE YAPILMAYA ÇALIŞAN YANLIŞLARI DA GÖSTEREN ÖTEKİ PENCEREDEN SAMSUN’A BAKINIZ.<br />
+SAMSUN’U YÖNETEN DEĞERLİ YÖNETİCİLERİMİZ, SİZLERE SESLENİYORUM;<br />
+LÜTFEN, SADECE GÜZEL ŞEYLERİN YANINDA YER ALIP, YAPILAN VE YAPILMASI DÜŞÜNÜLEN YANLIŞLARA KULAKLARINI KAPATANLARI DİNLEDİĞİNİZ VE İLGİ GÖSTERDİĞİNİZ KADAR, BU KENTİN DAHA İYİ YERE GELMESİNDEN BAŞKA AMAÇLARI OLMAKSIZIN, SAMSUNLUNUN ZARARINA OLACAĞINA İNANDIĞI İŞLER İÇİN TAVIR KOYAN, ÇOK SAYIDA Kİ SİVİL TOPLUM KURULUŞUNA DA ZAMAN AYIRINIZ VE ONLARIN SESİNE DE KULAK VERİNİZ.<br />
+Eğer yanlış düşünüyorlarsa, onları ikna ediniz. Ediniz ki, Samsun’da ki iletişimsizlik sona ersin.<br />
+Unutmayınız ki, seçilmiş ve atanmış olan sizler bu kentte belli bir süre söz sahibi oluyorsunuz. Ama bu halk ve onların temsilcisi sivil toplum kuruluşları bu kentin kalıcı taşlarıdır.<br />
+Eğer, bu kentin daha güzel günlere ulaşması ortak paydasında buluşuyorsak, lütfen bu kenti yönetenler olarak gerekli birlikteliği sağlayınız. Kazanan Samsun ve Samsunlu olacaktır. Aksini düşünmek dahi istemiyorum.<br />
+İyi haftalar.. 13 Ocak 2008<br />
+SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0335-i-ki-konu-i-ki-yorum.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0337-pembe-pencerem-samsun-a-bakis.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

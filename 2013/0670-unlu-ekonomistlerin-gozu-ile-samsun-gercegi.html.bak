@@ -1,0 +1,348 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Ünlü Ekonomistlerin Gözü ile Samsun Gerçeği</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Ünlü Ekonomistlerin Gözü ile Samsun Gerçeği
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2013
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0670
+
+</div>
+
+
+<div class="article-content">
+
+<p>e-posta; sadisubaiı@denizeczaneoptik. com                   SUNUŞ</p>
+<p>ÜNLÜ EKONOMİSTLERİN GÖZÜ İLE SAMSUN GERÇEĞİ..<br />
+BÖLÜM- 1_</p>
+<p>Türkiye’nin en büyük bankası olan T. İş Bankası Genel Müdürlüğü, son yıllarda Dünya Gazetesi ile birlikte, “İŞ’LE BULUŞMALAR” adı ile çeşitli Anadolu kentlerinde paneller düzenlemeyi gelenek haline getirdi.<br />
+Bu panellerden birisi daha, 2. ci kez geçen hafta Salı günü Samsun Anemon Otel’in de gerçekleştirildi.<br />
+Panele katılımcı işadamı sayısı çok yüksekti. Panel öncesi İş Bankası Genel Müdürü Sayın ADNAN BALİ bir konuşma yaptı. Konuşmasında bu toplantıların amacını ve bu yolla kentlerin ekonomisine yaptıkları katkıyı özetledi.<br />
+Samsun’un bölgede en büyük kredi hacmine sahip il olduğunu söyledi. Ama ben bunun yatırıma dönük kredi yüksekliği mi? Yoksa tüketim ürünleri ithalatı nedeniyle mi arttığını anlayamadım.<br />
+Daha sonra konuşan Samsun Sanayi ve Ticaret Odası Meclis Başkanı Sayın Muharrem Durmuşoğlu Samsun’un sanayisinden söze ederek, yedi tane organize sanayisinin bulunduğunu, bunlarında dolmuş olduğunu anlattı.<br />
+Samsun’un ihracat hacminin 2012 de 450 milyon Dolar olduğunu belirterek, 2015 de hedeflerinin bir milyar dolar olacağını ve bunu 2023 de de beş milyar dolara çıkartmayı hedeflediklerini belirterek, bunun için alt yapının hazırlandığını, böylece Samsun’un 2023 de ilk on il içerisinde yer alacağını iddia etti.<br />
+Bu rakamlarla Samsun ekonomisinin iyiye gittiğini dile getirdi. Ne var ki, on bir ayını tamamladığımız 2013 yılının ihracat rakamının ancak 380 milyon dolara ulaşabilmiş olması bu iddialı rakamların daha ilk yılı olan 2013 de dahi tutturulamayacağını gösteriyordu.<br />
+Daha sonra söz alan Valimiz Sayın Hüseyin Aksoy’da, Samsun adına olumlu işleri anlatarak moral tazeleyici bir konuşma yaptı.<br />
+Özellikle de lojistik köy kurulması ve Viking Projesin de çalışmalarında önemli aşamaların geçildiğini belirterek, Rusya ile ortaklaşa yürütülen Kafkas- Samsun hattı projesi ile Rusya’dan vagonlarla gelen ürünlerin, burada vagon değiştirmeden götürülmesi gereken alanlara ulaştırılabildiğini anlattı.<br />
+Buraya kadar anlatılanlar her Samsunluyu mutlu edecek şeylerdi. Ancak, Eren Holding Yönetim Kurulu Başkanı olarak toplantıya davet edilen Sayın Ahmet EREN kürsüye çıkınca, bu umutların çok da gerçekçi olmadığı anlaşıldı.<br />
+Önce kendi yaptıklarını anlattı. Sayın Eren’i tüm salon hayranlıkla dinliyordu. İç çamaşırında EROS markasını yarattıklarını, kâğıt üretiminde Türkiye’nin ilk sırasında yer aldıklarını, enerji, turizm ve tekstil alanlarında da üretim yaptıklarını anlattı.<br />
+Ayrıca, Lacoste, Burberry gibi dünya markalarının Türkiye ithalatçısı ve dağıtımcısı olduklarını belirterek üretimin önemini vurguladı.<br />
+Ahmet Eren Samsun’a ilk kez geldiğini belirttikten sonra, ilk izlenimlerine göre Samsun ekonomisinin hiç de iç açıcı bir tablo sergilemediğini söyledi.<br />
+Samsun’un 2012 verilerine göre ihracat rakamının 450 milyon dolar, ithalatının ise bir milyar dolar olduğunu söyledi. Samsun’un üretmeden harcayan bir kent olduğunu, Samsun’un toplam ihracatının kendi şirketlerinden ancak bir iki tanesinin yaptığı ihracat kadar olduğunun altını çizerken, dinleyicileri hayal âleminden uyandırıyordu.<br />
+Sayın Eren, çok da alışık olmadığımız örnek olması gereken bir üslupla konuşuyor, yeri gelince Türkiye’nin yönetimde ve ekonomide ki yanlışlarını cesaretle eleştiriyordu.<br />
+Üretmeden, ürettiğine pazarlama alanları yaratmadan büyüme olamaz dedikten sonra, Gaziantep’e iki yıl önce gittiğinde oradaki sanayi üretiminin geldiği noktayı takdirle izlediğini anlattı.<br />
+Ardında da bu yıl gittiğinde, Gaziantep’te her şeyin ters yüz olduğunu, iş adamlarının Türkiye’nin Suriye dış politikasından yakındıklarını söyledi. İşadamlarının, “Bizim Suriyelilerle hiçbir sorunumuz yoktu, durup dururken Suriye ile ilişkilerin bozulması ile bu büyük pazarı kaybettik” Diye yakındıklarını ve büyük zararlar gördüklerini anlattı.<br />
+Bunları ilettikten sonra, üretimin çok emek istediğini ve üretilenin dış pazarlara satılabilmesinin önemli olduğunu, ülkeyi yönetenlerin üreticilerinin önünü açmasının şart olduğunun da altını çizdikten sonra, sözlerini “Herhalde beni bir daha bu toplantılara çağırmazlar” Esprisi ile bitiriyordu.</p>
+<p>Bu konuşmalardan sonra panele geçildi. Panelistler, Prof. Dr. Osman Ata Ataç ( Birleşmiş Milletler Uluslararası dış ticareti teşvik kurumları Emekli Kurucu Başkanı), Prof. Dr. Taner Berksoy (Okan Üniversitesi İİBF Dekanı), Dr. Rüştü Bozkurt ‘tu. (Dünya Gazetesi Ekonomi Yazarı)<br />
+Yazımın ikinci bölümünde, panelistlerin önemli bulduğum sözlerinden bazılarını sizlerle paylaşmak istiyorum.</p>
+<p>Prof. Dr. Osman Ata Atay;<br />
+Eğer üretim hammaddesi ithal ediyor ve bunu da değerlendirip beş katına satabiliyorsan, istediğin kadar ithal et, İthalat ihracat dengesinde zararlı çıkmazsın<br />
+Bizde bir dalda büyüyen şirketler o işi çok daha büyütmek yerine, başka iş dallarına atlıyorlar. Hiçbir dünya şirketi bunu yapmaz.  Eğer “Çip” üretiminden para kazanıyorsa, onu daha da geliştirmeye çalışır. “Şuraya da bir de lahmacuncu açayım” Demez. Küçük ama başarılı bir firma, başka iş dalları ile çok büyümeye kalkarsa bu vücut o yükü taşımaz.<br />
+Şampiyon şirketler de bu kafalardan çıkmaz.  Almanya’da 1300 tane şampiyon şirket vardır ama hepsi de küçük ölçekli şirketlerdir. Amerika da şampiyonlar büyüktür ama sayıları sadece 386’dır.<br />
+Bir ülkede başarılı olan Orta ve Küçük Ölçekli Şirketler ne kadar çok ise, o kadar iyidir. Büyüyen dünya şirketlerini yaratmak için çok vakit yoktur. Bu nedenle her şirketin bünyesinde, görevi sadece dünyada yeni nelerin üretildiğini araştırmak olan eleman çalıştırması gereklidir.<br />
+Bizde de, çok kaliteli birikimleri olan kadrolar var. Eksiğimiz dünya firmalarına yetişmek için çok daha hızlı çalışma temposuna ulaşamamış olmamızdır.<br />
+Prof. Dr. Taner Berksoy;<br />
+2014 de Türkiye’ye giren kredi miktarında azalma olacaktır. Bu da enflasyonun bir miktar artacağını göstermektedir.<br />
+Merkez Bankası Başkanı’nın açıklamaları inandırıcı değildir. Sorulunca, da zaten sokakta ki insanların da buna inanmadığı cevabını veriyor.<br />
+Hükümetin verilerine göre, enflasyon oranları İMF tahminlerinden fazla olacak. Bu arada İMF verileri de çoğu kez tutmuyor.<br />
+Hükümet enflasyon değerlerinin 2014 de 9,4 de tutarız diyor ama İMF bu rakamlar çift rakamlara çıkar diye yorum getiriyor.<br />
+2016 da enflasyon oranının 8,4 düşeceği, ama 2016 da büyümenin de azalacağı söyleniyor. Bunun açıklaması, 2016 da tahminlerin tutmayacağıdır.<br />
+Bu yıl cari açık 58 milyar dolar olur deniyor ama sanırım bu rakam da 60 milyar doları bulur.<br />
+Rüştü Bozkurt;<br />
+Sözlerine içinizde evlilik sözleşmesi yapan var mı? Sorusu ile başladı ve kalkan ellerin sadece üçte kaldığını belirtikten sonra Türkiye iş dünyasının, eltiler kavgası ve dırdırı ile kasaba kültüründen çektiği, rüşvetten çektiğinden çok daha fazladır dedi. Birçok başarılı şirketin bu nedenlerden dağıldığını veya küçüldüğünü anlattı.<br />
+Aile ortaklıklarında yaşanan boşanmalar önemli bir sermaye payının şirket sermayesinden ayrılmasına ve bu şirketlerin mali yapısının sarsılmasına neden oluyor.<br />
+Şirketlerde geçmişe çok takılarak zaman kaybetmek yerine, değişen yeni zamana ve koşullara çok çabuk uyum sağlamak gereklidir.<br />
+1930 yıllarında Tokat 37.000 nüfusa ve büyük bir ticaret potansiyeline sahipken, Samsun bir köydü. Ne zaman Gülcemal Gemisi ve Akdeniz Gemisi ile deniz ticareti başladı, işte o günden sonra Samsun hızla gelişti ve bölgenin lideri haline geldi.<br />
+Ancak sonra ki sürece ayak uyduramayan Samsun, düşüşe geçti. Şimdi Samsun için yapılacak iş, oluşmakta olan yeni dünya düzeninde nasıl yer alırımın hesaplarını yapmasıdır.<br />
+Örneğin Sivas. Sona yaklaşan hızlı tren projesi ile çevresinin gücünü eline geçirecektir. Bafra son yıllarda kan kaybetti. Tekel’den 5000, baraj inşaatından 1000 kişi işsiz kaldı.<br />
+Örgütlü tarımdan başka yol yok. Artık eski tarımla bir yere varılamaz. Örgütlü tarım ile büyük topraklara da gerek yok. Seracılığa dikkat çekerek, Kahraman Maraş örneğini gösterdi. Orada topraksız tarım ile (Bir yılda aynı topraktan dört kez ürün alarak) tarımda büyük bir sıçrama yaptılar.<br />
+Terme’de bir yılda üç kez yonca üretilebilir. Yonca keçi yetiştiriciliği çok önemli yemdir. Keçi sütü çok değerli bir ihracat ürünü haline geldi. Keçi çiftlikleri kurun ve dünyaya çocuk mamalarının ana maddesi olan keçi sütünü dünyaya satın.<br />
+Evet, bu panelin özeti buydu. Ben bir ekonomist olmadığım için bu anlatılanlara herhangi bir yorum katmadım.<br />
+Ancak, yapılan değerlendirmeler bir Samsunlu olarak içimi acıttı ve yıllardır savunduğum bir yorumu ve soruyu, son bölümdeki        “Katılımcıların yorumları ile soru-cevap bölümüne” geçilince, sormadan da yapamadım.<br />
+Anlatılanların hepsinin başarılı kentlerin bir iradesinin olduğunu gösterdiğini ve Samsun’un öncelikli sorununun, belirleyici bir kent iradesini oluşturamamasının olduğunu söyledim.<br />
+Devamla, bu kent iradesinin olmaması nedeniyle, 2005 yılında çıkartılan Teşvik yasası ile tüm Karadeniz Bölgesi’nde de sadece Samsun’un teşvik dışında bırakıldığını belirttim. Üzülerek söylemek isterim ki diyerek, bu kararın açıklandığı salonda ki iş adamlarımız tarafından alkışlandığını ve Samsun Milletvekilleri ile kent yöneticilerinin de, kentin çıkarlarına sahip çıkamadığını belirttim.<br />
+Samsun’un böylesine haksız rekabet yanlışının etkilerini her geçen gün biraz daha çok yaşadığını söyleyerek, teşvik yasasının bir kent için önemini sordum.<br />
+Cevap tatmin edici olmayıp, her zaman yapıldığı gibi kentlerin gelişmesi için teşvik çok önemli değil, önemli olan işadamlarının girişimciliğidir şeklindeydi.<br />
+İlerleyen süreçte tekrar söz alarak, “Sanıyorum sorumu çok anlaşılır şekilde soramadım” diyerek, sorumu açarak bir kez daha sordum.<br />
+Tüm çevre il ve ilçeleri Teşvik Yasasının kapsamına alınarak, düşük faizli kredi, arsa temini ve SGK primlerinin avantajlarından yararlanırken, Samsunlu işadamı nasıl girişimci olacaktı? Samsunlu bazı işadamları yatırımlarını zorunlu olarak bu kentlere kaydırdı.<br />
+Türkiye’nin tek cerrahi malzeme üreticileri Samsun’da bulunuyor. Almanların Aesculap Markası düzeyinde üretim yapıyorlar ama talepleri karşılayamıyorlar. Yakından biliyorum ki, teşvik kapsamında olsaydık bu firmalar teşvik alarak yatırımlarını büyüteceklerdi.<br />
+Örneğin, Merzifon teşvikten yaralanırken, on dakikalık mesafede ki teşvik dışı Havza’da nasıl yatırım yapılabilir? Havza’da ki bölgenin en büyük süt ürünleri üreten “OTAT” Firmasının da, Havza’dan ayrılma hesapları yaptığını üzülerek duyuyoruz.<br />
+Şimdi bir kez daha soruyorum? Bu haksız rekabet değil midir?<br />
+Cevaplar ne yazık ki, yine sorumun karşılığı ve ikna edici olmadı.<br />
+Bu paneli de izledikten sonra bir kez daha görüldü ki, Samsun’a içeriden bakanların gördüğü gibi pembe hayaller, dışarıdan bakanların tespitleri ile uyuşmuyor.<br />
+Bir konuya daha açıklık getirmek istiyorum. Biliyorum ki, çoğunuz bu teşvik konusunu her fırsatta gündeme taşımama “Ne gerek var? Diye düşünüyor. Cevabını vereyim. Bunları gündem de tutarak bizi yönetenlere bu yanlışları yeterince anlatamazsak ve unutturmayı sürdürürsek, bu yanlışların benzerlerinin hemen her gün bir yenisini yaşamayı sürdüreceğiz demektir..<br />
+Görünen o ki, Samsun bu sahipsizliğin bedelini uzun bir süre daha çekecek. Umarım Sayın Rüştü Bozkurt’un belirttiği 1930’lar Samsun’u haline gelmeyiz.<br />
+İyi haftalar…08. 12. 2013<br />
+SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0669-sam-sev-in-25-gurur-yili.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0672-gundem-siyaset-eksenli-rusvet-ve-hedef-saptirma.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

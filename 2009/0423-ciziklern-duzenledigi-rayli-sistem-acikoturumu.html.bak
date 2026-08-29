@@ -1,0 +1,328 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Çiziklern Düzenlediği Raylı Sistem Açıkoturumu</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Çiziklern Düzenlediği Raylı Sistem Açıkoturumu
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2009
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0423
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>ÇİZİKLERİN! DÜZENLEDİĞİ “RAYLI SİSTEM”<br />
+AÇIK OTURUMU</p>
+<p>Hatırlayacağınız gibi geçtiğimiz haftanın gündeme oturan konusu, “RAYLI SİSTEM” Üzerinde görüş açıklayan Mimarlar Odası ve SAM-SEV başta olmak üzere bazı sivil toplum kuruluşlarının ve bu köşenin yazarı Sadi Subaşı’nın, Samsun Büyükşehir Belediye Başkanlığı’nın haddini aşan bir bürokratı tarafından çizilmesiydi.<br />
+İşte, o “ÇİZİLEN” sivil toplum kuruluşlarının elebaşısı SAM-SEV, Mimarlar Odası Samsun Şube Başkanlığının teknik destek ve ortaklığı ile son günlerin tartışma konusu olan “Raylı Sistem’i” açık oturuma taşıdı. Konunun uzmanlarının ve taraflarının katılımı ile yapılması planlanan “AÇIK OTURUM” 27 Haziran 2009 Cumartesi günü gerçekleşti.<br />
+Açık oturuma, İstanbul Teknik Üniversitesi Şehir ve Bölge Planlaması Ana Bilim Dalı Öğretim Üyesi Sayın Prof. Dr. Mesture Aysan, Ondokuzmayıs Üniversitesi İnşaat Mühendisliği Bölümü Ulaştırma Ana Bilim Dalı Öğretim Üyesi Sayın Prof. Dr. Mehmet Çakıroğlu ile Mimarlar Odası Samsun Şubesi Başkanı Mimar Sayın Selami Özçelik, Büyükşehir Belediye Başkanlığı emekli Genel Sekreter Yardımcısı şehir plancısı Sayın Arif Katar ve “Raylı Sistem” yüklenici firma olan ALARKO’NUN proje ve yapım sorumlusu Sayın Bülent Sayın konuşmacı olarak katılmıştı.<br />
+Açık Oturumun tek eksiği, Proje sahibi Büyükşehir Belediyesi adına bilgi verecek ve tartışılan projeyi savunacak tek bir temsilcinin dahi bulunmamasıydı. SAM-SEV Yönetiminin bu konuda ki girişimleri ile son iki günde basında yer alan bazı yanlış değerlendirmelere de değinmek istiyorum.<br />
+SAM-SEV Yönetimi açık oturuma Büyükşehir Belediyesi Başkanlığı’nın katılımını sağlamak için büyük bir iyi niyet girişiminde bulunmuştur. Haberlerde de değinildiği gibi SAM-SEV Yönetim Kurulu, “ ÇİZİK” konusunda ki tepkisini ortaya koyduğu basın açıklaması sonrası, Büyükşehir Belediye Başkanı’nı makamında ziyaret etmiştir. Ancak bu ziyaret, üç aydır verilmeyen randevunun haberlerde değinildiği gibi basın açıklaması sonrası verilmesi ile yapılmamıştır. Randevu verilmesi de söz konusu olmamıştır.<br />
+Görüşme, SAM-SEV Yönetimi’nin aldığı ani bir kararla, bir türlü randevu alınamayan Sayın Büyükşehir Başkanı’nı makamında ziyaret etmesiyle oluşmuştur. Bu ani ziyaretin amacı, Cumartesi günü yapılacak açık oturum için Büyükşehir Belediye Başkanı’nın davetiyesini elden vererek, kendilerinin veya bir temsilcisinin açık oturuma katılımını sağlamaktı. Görüşme sırasında Büyükşehir Belediye Başkanı açık oturuma yüklenici firmanın proje sorumlusunu göndereceğini beyan etmiştir. Nitekim açık oturuma da Büyükşehir adına belediye yetkilisi yerine, Alarko’nun yetkilisi Sayın Bülent Sayın katılmışlardır.<br />
+SAM-SEV Başkanı Sayın Rüştü Araboğlu açış konuşmasında,  “Samsun gündemine oturan Raylı Sistem tartışmalarının karşılıklı kırıcı bir noktaya gelerek Samsun’a zarar vermeye başladığını” belirterek, “tarafları bir masa etrafında toplayarak bu tartışmalara bir nokta koymak istiyoruz” diyerek uzlaşmacı tavırlarını ortaya koyuyordu.<br />
+Ne yazık ki, SAM-SEV’İN Samsun için böylesine önemli bir konunun görüşüleceği ve kafalara takılan sorula cevap verilerek ortak bir noktada buluşulabileceği umudu boşa çıkmıştır. Konunun muhatabı ve kenti bu konuda aydınlatmak durumunda olan Büyükşehir Belediye Başkanlığını temsilen katılan olmamıştır. Bu tavır, “ben yaptım oldu” saplantısının en açık tespiti ve Samsun Halkını ve onların temsilcilerini ciddiye almamanın ifadesidir.<br />
+Bölgelerinde tartışmalar yapılan bir projenin konuşulacağı bu toplantıya katılma zahmetinde bulunmayan, İLKADIM ve ATAKUM Belediye Başkanları da sınıfta kalmıştır. Söyleyecekleri olumlu bir şeyleri de mi yoktu?<br />
+Bir kentin yönetimine talip olmuş hiçbir yöneticisinin böyle bir açık oturuma katılmadığı bir kentte, nasıl çağdaş kent yönetiminden söz edilebilir? Anlamıyorum. Bundan sonra hiç kimse çıkıp ta, “ Çağdaş Kent Samsun” yarattık diye övünmesin. Çünkü kendisini seçen topluma saygısı olmayan bir yönetim anlayışı, 3. dünya ülkelerinde dahi kalmamıştır.<br />
+Bu toplantı bir turnusol kâğıdı görevini yapmıştır. Toplantıyı yöneten moderatör Sayın mimar Ali ihsan Aka’nın da vurguladığı gibi açık oturum da söylenenler Samsun tarihine not olarak düşülmüştür.<br />
+Konuşmacılar, konularında projeyi her yönüyle değerlendirmiş ve görüşlerini aktarmışlardır. Ne yazık ki, toplantı da ki konuşmacıların söz ettikleri savların varsa yanlışlarına açıklık getirmesi gereken taraf olmadığı için, aşağıda ki çok soru kamuoyunu meşgul etmeye devam edecektir. Gerçekten de SAM-SEV’İN uzattığı bu uzlaşma eli hava da kalmıştır. Eğer korkulanlar olursa, bu inatlaşma ve uyarılara kulak asmayışın sonucu yaşanacak olumsuzluklar, Samsun’un geleceğine kara bir leke olarak geçecektir.<br />
+Bu arada büyük bir sorumluluk örneği sergileyerek toplantıya izinde olan İL Özel İdaresi Genel Sekreteri yerine O’nun yardımcısı Sayın Aydın Sarıyıldız’ı gönderen Valimiz Sayın Hasan Basri Güzeloğlu’na yine de teşekkürlerimi sunuyorum.<br />
+Konuşmacıların hemen hepsi bu projenin değişen güzergâhının yanlış olduğu konusunda birleşiyordu. Tabi bu değişikliği zorunlu kılan bir gerekçe varsa bunu da açıklaması gerekenler orada olmadığı için öğrenemedik.<br />
+Yorumların çoğunluğu, raylı sistemlerin daha çok yolcu taşıyabilmesini amaçladığı, bu nedenle bu sistemin kentin merkezinde yer alan ve toplayıcı arteri olan 100. Yıl Bulvarından geçmesinin doğru olduğu yönündeydi.<br />
+Ortak değerlendirmelerden birisi de, deniz tarafında zaten var olan demiryolu hattının kentin denizle bağını zorlaştırdığı, daha da öne alınan bu raylı sistem hattının çok daha sert engeller (çok sık geçecek tren nedeniyle) yaratmasının kaçınılmaz olduğuydu. O nedenle de, mevcut demiryolu yanına yapılmasının daha akılcı olduğuydu.<br />
+Üniversiteye çıkmayacak olması ve son durağın Kurupelit’te olması nedeniyle, 56’lar veya Söğütlübahçe gibi toplu konut alanlarından Üniversite’ye gidecek personel ve hastalar üç araç değiştirmek zorunda kalacaktır. Çünkü kentten Üniversite hattına çalışan minibüslerin yasaklanacağı bilinmektedir. Aynı şey Bafra tarafından Samsun’a sefer yapan minibüsler içinde geçerlidir. Böyle bir uygulamaya halkı nasıl mahkûm edecekleri sorgulanmıştır.<br />
+OMÜ adına açık oturuma katıla Prof. Dr. Mehmet Çakıroğlu’nun açıklaması ise çok çarpıcıydı. Sayın Çakıroğlu mühendis adayı öğrencilerini ulaşım tezi hazırlamaları için bilgi almaya Büyükşehir Belediyesi Başkanlığı’na gönderdiğini, ama bilgi ve belge alamadıklarını söylüyordu.<br />
+Sayın Arif Katar’da bu projenin Samsun adına bir prestij projesi olduğunu söyleyerek önemini vurguluyor ve Rahmetli Muzaffer önder döneminde Gürcistanlı uzmanlara bir proje hazırlattıklarını, onlarında güzergah olarak 100. Yıl Bulvarı’nı tercih ettiklerini açıklıyordu. Sayın Katar’ın, bu güzergâh değişikliğinin bir zorlama sonucu yapıldığı endişesini dile getirmesi ise düşündürücüydü.<br />
+Yüklenici firma yetkilisi Sayın Bülent Sayın ise, projenin teknik yönleri ile ilgili verirken dahi bir hayli zorlanıyordu.<br />
+Daha sonra sorulu cevaplı bölüme geçildi. İşte çoğu askıda kalan bazı önemli sorular ve cevapları.<br />
+Samsun Turizmciler Derneği Başkanı Sayın Mustafa Yavuz, demiryolu hattının geçtiği Kurupelit bölgesinde, Samsun için önemli Helenistik Dönemi öncelerine ait kalıntılar çıktığını ve kazılar yapıldığı için bu bölgede yapımın durdurulduğunu açıkladı. Bu eserlerin kurtarılması için acele edilmemesi gerektiğini, çünkü bunların Samsun turizmi açısından çok önemli olduğunu vurgulayarak konuyu gündeme taşıyordu. Bu konuda bende söz alınca, bu alanda yapıların kazılar için, işin çabuklaştırılması yönünde baskılar olduğunu, bunun üst makamlara duyurulması için benden yardım istendiğini ekledim.<br />
+İşte benim sorularım. Ne yazık ki, iki sorum dışında ki sorularım muhatap bulamadığı için boşlukta kaldı. Umarım kent yöneticileri yalnız beni değil yarın çok yüksek perdeden bağıracak halkı ikna edecek açıklamalar yapacaklardır.<br />
+Sayın Bülent Sayın’a soru sormanın insafsızlık olacağını vurgulayarak şu soruları sordum.<br />
+Viyadükler üzerinde durak olacak mı? Sayın Bülent Sayın hayır diyor. Bu, Raylı Sistemi kullanacak olanların 400 metrelik viyadükün ya başına veya sonuna yürümesi demektir.<br />
+Literatürlerde Raylı Sistem için istenen rantabl ( verimli olan)  hızın, saatte 80 Km. olması yazılı. Bizim Raylı Sistem’in hızı nedir diyorum. Cevap Sayın Bülent sayından geliyor. Normal hızı 60 Km/ saat, ama dur-kalklar ile ortalama 21 Km./ saate düşüyormuş.<br />
+Dünya’da % 7 eğim üzerine çıkan raylı sistem var mı diyorum. Tatmin edici bir cevap gelmiyor.<br />
+Sayın Rektör Prof. Dr. Hüseyin Akan bir canlı TV yayınında “Üniversiteye çıkmayan bir raylı sistem bize yarar sağlamaz” demişti. Hatta “ben 30.000 civarında ki personelime üç vasıta değiştirerek üniversiteye gelin diyemem. Gerekirse kendi servis sistemimi kurar ve personelimi taşırım.” Diye de eklemişti. Bir soruya karşılık olarak da, benim personelimin kullanamayacağı bir sistem, zaten rantabl olmayan sistem tamamen önemini yitirir” diye cevap vermişti. O halde bu sistem nasıl çalışacaktır? Sorum da açıkta kaldı.<br />
+Sayın Sarıyıldız’a sorduğum soru, “Büyük otel ile ilgiliydi. Samsunlu kendine ait olan bir taşınmazı size emanet etmiş. Değer kaybı olacağını ve bu taşınmaz ile ilgili olarak emanete sahip çıkabildiğinizi düşünüyor musunuz?” Oldu. Cevabı bu konuyu Büyükşehir ile yazıştık oldu.<br />
+Şimdi muhatabı olmadığı için orada soramadığım şu sorulara cevap bekliyorum. Bu sorular benim şahsi bir beklentimden çok, bu kentin konuşmayı sevmeyen halkı için önem taşıyor.<br />
+Büyükşehir Belediyesi Genel Sekreteri gibi açık oturum da Sayın Bülent Sayın’ın da söylediği bir şey, belki de bu projenin sorgulanmasının can damarını oluşturuyordu. Her ikisi de, “Bu projenin nüfusu 500.000 olan Samsun için rantabl olmadığının bilindiğini, bunun yapılmasının tamamen Büyükşehir Belediye Başkanının kişisel ikna gücünü kullanarak, Sayın Başbakana onaylattırma başarısıdır” diyorlar. Zarar edeceği en yetkili kişiler tarafından vurgulanan bir projenin yapılması, nasıl bir başarıdır? Anlamakta sıkıntı çekiyorum.<br />
+Bu açık oturumu asıl yapması gereken Şehir Plancılar Odası Samsun Temsilciliğinden olumlu veya olumsuz bir ses duyamadık. Bu nasıl sivil toplum kuruluşu anlayışıdır? Baskı altındaysanız bunu açıklayınız. Çekinceleri olan kişilerin bu kuruluşlarda görev kabul etmemesi gerekir diye düşünüyorum. Dün bu konuyu konuşmamın son bölümünde bir nebze olsun dile getirdim.<br />
+Büyükşehir Belediye Başkanı’nın şu ana kadar en önemli ve yararlı projesi Samsunluyu denizle buluşturan sahil projesidir. Bu güzergâh değişikliği ile bu güzel uygulama ciddi yara almıştır. Buna değer miydi?<br />
+Son olarak şunu söylemek istiyorum ki, bu ikna gücü Samsun’un önünü açacak geçmişte yaşanan TEŞVİK DIŞI BIRAKILIŞIMIZ DA kullanılabilseydi. Keşke bu kararlılık, ülkemiz kaynaklarının heba olmasına neden olan MOBİL SANTRAL DİRENİŞİN DE kullanılabilseydi.<br />
+Bu kentin geleceği adına sorgulama yapan insanları “ Bunlar hiçbir güzel işe sahip çıkmazlar, hep yıkıcı eleştiriler yaparlar” diye damgalamak ne kadar doğrudur? Bilemiyorum. SAM-SEV, Mimarlar Odası ve benim gibi kentin sorunlarına duyarlı insanları suçlamak nasıl bir anlayıştır. Bu kurum, kuruluş ve kişilerin Samsun düşmanı gibi görmek en azından bu insanlara karşı saygısızlıktır.<br />
+Bu insanlar çizilince sivrisinek sokması kadar rahatsız olurlar. Çünkü onlar bu kentin sevdalısıdır. Bu kent için her şeyi göze almışlardır. Ama toplum birilerini çizerse, bu can acıtır.<br />
+Cumartesi günü çok önemli bir fırsat kaçmıştır. Bunun sorumluları da Samsun adına siyaset yatığını zannedenlerle, bu kenti doğru düzgün yönettiğini sananlarındır.<br />
+İyi haftalar.. 28 Haziran 2009<br />
+SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0422-cizik-kamuoyu-aciklamasi.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0424-i-natlasma-samsun-a-zarar-veriyor.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Kirli Yatırım İstemiyoruz</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Kirli Yatırım İstemiyoruz
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2009
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0434
+
+</div>
+
+
+<div class="article-content">
+
+<p>Kirli yatırım istemiyoruz<br />
+Samsun Çevre Birlikteliği eski Üyesi ve SAMSEV Onursal Başkanı Sadi Subaşı,  "Sanayicinin çıkarlarını koruyan kirli yatırımlar, bu kente ve  ülkenin geleceğine ihanettir" dedi. Subaşı, Cengiz A. Ş´nin ortaya attığı ´Derin Deniz Deşarjı Projesi´ni ise ´kandırmaca´ olarak nitelendirdi. Samsun Çevre Birlikteliği eski Üyesi ve SAMSEV Onursal Başkanı Sadi Subaşı, Cengiz A. Ş tarafından Tekkeköy´de yapılacak doğalgaz çevrim santrali ile diğer termik santrallere tepkisini sürdürüyor. Doğalgaza ya da sanayi yatırımlarına karşı olmadıklarının altını çizen Subaşı, "Hiçbir kentin kabul etmediği kirli yatırımları, buraya getirmesinler" dedi.<br />
+´Defolu yatırım´ imasıSubaşı, Cengiz A. Ş´nin Tekkköy´de kuracağı doğalgaz çevrim santraliyle ilgili ´Derin Deniz Dişarjı Projesi´ni gündeme getirdiğini anımsattı. Bu projenin bilgilendirme toplantısının daha hiç kimseye haber verilmeden gerçekleştirildiğini anımsatan Subaşı, "İster açıktan gitsin ister derinden gitsin, bu santralden boşatılan atıklar, deniz suyunun dengesini bozacaktır. Bu proje bir kandırmacadır. Bu şekilde kimseyi kandıramazlar. Bu tür olaylar gözden kaçırılarak yapılırsa, biz de her zaman bu yatırımlara şüpheyle bakarız. Benim daha mobil santral, bu kente geldiğinde söylediğim birşey vardı. Bir yatırım eğer davul zurnayla, halka sunulmuyorsa o yatırım defoludur demiştim. Bu sözümü bir kez daha hatırlatıyorum" diye konuştu.<br />
+Doğalgazlı santral zararlı mı? Samsun´da kurulması planlanan termik santrallere ilk günden, yer seçiminden dolayı karşı olduklarını ifade eden Subaşı, bu santrallerin yaratacağı sera gazı etkisinin ciddiye alınması gerektiğini söyledi. Doğalgaz santrallerinin kirli yatırım olmadığı savına da yanıt veren Subaşı, "Eskişehir ve Bursa´da da doğalgaz çevrim santrali var ama her ikisi de oradaki organize sanayi bölgelerinin ihtiyaçlarını karşılayabilecek kapasitede. 230-250 megawvatlık güçte santraller. Bizde sadece Borasco´nun kuracağı santral 1000 megawat´ın üzerinde" diye konuştu.<br />
+Zincir tersine döndüBu santrallerin yapımında neden Samsun´un tercih edildiği ve kıraç alanlar dururken, en verimli ovanın ortasına neden bu santrallerin yerleştirildiği konusuna da açıklık getiren Subaşı, "Bir sanayi yatırımı yapılırken, önce ülkemizin sonra yöremizin , daha sonra yapımcının menfaati korunmalıdır. Bu üçlüyü kontrol etmek de devletin görevidir. Bu zincir parçalanırsa ki Samsun´da bu zincir tersine dönmüş durumda. Samsun´da sanayicinin çıkarları birinci planda, ülke ve Samsun´un çıkarları ise ikinci ve üçüncü plana bırakıldı. Samsun´da bu zincirin tersine önce sanayicinin çıkarları sahipleniliyor" dedi.<br />
+Yatırımcı karını düşünüyorSanayicinin yatırımını Tekkeköy´de kurmak istemesinin anlaşılır olduğunu, karayolu, deniz ve havaalanı avantajının yanı sıra üretilen enerjinin  ulusal elektrik ağına aktarımını sağlayacak enterkonnekte sistemin de Tekkeköy´den geçtiğini anımsatan Sadi Subaşı, "Bu yatırımı Asarcık´ta yapsa enterkonnekte sisteme hat çekmesi lazım. Bu da yüklü bir maliyet gerektiriyor. Tekkeköy´de ise hemen üstten geçiyor. Ama ben devletsem önce kendi çıkarlarımı sonra da yöre insanın çıkarlarını önde tutmalıyım" diye konuştu.<br />
+Sanayi düşmanı değilizAğır ve kirli sanayi yatırımlarının kente getirilmesini istemediklerinin altını çizen Sadi Subaşı, "Kirli sanayi yatırımlarını bu kente getirmek, Samsun´a ülkenin geleceğine ihanettir. Devleti göreve davet ediyorum. Hiçkimse bu  işe karşı çıkanları, yatırım düşmanı olarak göstermeye kalkışmasın. Sanayi yatırımlarının karşısında değiliz, temiz yatırımlarla bizi ihya etsinler. Hiçbir kentin kabul etmediği kirli yatırımları buraya getirmesinler" dedi.</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0433-20-yildir-bitirilemeyen-samsun-ankara-karayolu-ve-kazalara-cikartilan-davetiye.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0435-sorum-sizlere-sayin-milletvekilleri-sayin-belediye-baskanlari-sayin-kent-yoneticileri.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

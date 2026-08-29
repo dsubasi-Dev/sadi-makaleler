@@ -1,0 +1,321 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Ülkemizdeki Siyaset Anlayışı ve Siyaset Ahlakı.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Ülkemizdeki Siyaset Anlayışı ve Siyaset Ahlakı.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2019
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0960
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>ÜLKEMİZDE Kİ SİYASET ANLAYIŞI VE SİYASET AHLAKI.</p>
+<p>SİYASET ANLAYIŞI;<br />
+Bir ülke de bu iki deyimden söz edebilmek için öncelikli şart, o ülkede geçerli bir demokrasinin tüm kuralları ile uygulanıyor olmasıdır. Oysa, ülkemiz demokrasi anlamında henüz emekleme dönemini aşamamış bulunuyor.<br />
+Cumhuriyet dönemi ile başlayan devrimlerin henüz tamamlanmadığı ve yasal alt yapının tam oluşmadığı bir ortamda, çok partili demokrasiye geçiş, bazı görüşlere göre erken alınmış bir karar ve 1950 sonrası meydana gelen kesintilerin ana nedenidir.<br />
+Nitekim 1946 seçimleri ile çok partili siyasi yaşama geçilen ülkemizdeki demokratik yaşam bir türlü süreklilik kazanarak olgunlaşamamıştır.<br />
+Her on yılda bir darbe ve muhtıralarla kısa süreli de olsa askıya alınan demokrasimiz, bir türlü tüm kuralları ile işleyerek olgunlaşama fırsatı bulamamış ve sonunda tek adam rejimine teslim olmuştur.<br />
+Bunun altında yatan en büyük neden, insan yapımızdan kaynaklanmaktadır. 600 yılı aşkın bir süre Osmanlı Hanedanı’nın mutlak teokratik monarşi yönetimi altında yaşamış bir halkın, 50 yıllık bir Cumhuriyet dönemi deneyimi ile çok partili demokrasiyi kısa sürede içselleştirmesini beklemek mümkün değildir.<br />
+Bir de buna Kurtuluş Savaşını vererek Anadolu’yu işgalden kurtaran ve demokratik rejimin yolunu açacak Cumhuriyeti kuranların, Anadolu insanı olduğu gerçeğini eklemek lazımdır.<br />
+O Anadolu Halkı ki, Osmanlı Hanedanı tarafından hep 2. ci sınıf vatandaş olarak kabul edilmiş, eğitilmemiş, sadece vergi toplanacağı ve askere ihtiyaç duyulduğunda hatırlanmış Türklerden oluşmaktaydı.<br />
+Dünya tarafından 20. Yüzyılın askeri ve siyasi dehası olarak kabul edilen Mustafa Kemal Atatürk, işte böyle böylesine eğitimsiz ve yoksul bir insan yapısıyla yepyeni bir devlet yaratmıştır.<br />
+Yaşamını kaybettiği 1938 yılına kadar geçen sadece, evet sadece 15 yıllık Cumhurbaşkanlığı döneminde başlattığı devrimlerle, 600 yıl baskı altında yaşamış bir ulusu eğitimli ve çağdaş dünya seviyesine taşıma çabasında olmuştur.<br />
+Ne yazık ki, Büyük Önder’in başlattığı devrimleri tamamlamaya fırsat bulamadan çok genç yaşta aramızdan ayrılması, bu ulusun yaşayabileceği en büyük şanssızlıktır.<br />
+Bu ülkenin bir başka şanssızlığı d, a Mustafa Kemal Atatürk’ün başlattığı devrimlerin ondan sonra bu ülkeyi yönetenler tarafından tamamlanamamış olmasıdır.<br />
+İşte böyle bir ortamda, toplumumuzda demokrasi kültürünün ve anlayışının tam olarak gelişememiş olması nedeniyle, demokrasinin yarattığı özgürlükler siyaset yapanlar tarafından kötüye kullanılmıştır.<br />
+Siyaseti böyle anlayan ve hiçbir kural tanımayan siyasetçi anlayışı, toplumumuzda giderek yaygınlaşmış ve günümüz de toplumun ortak paydalarını dahi çıkarları için kullanacak kadar saygısız, umursuz ve vurdumduymaz bir anlayışa ulaşmıştır.</p>
+<p>SİYASİ AHLAK;<br />
+Yukarı da özetlemeye çalıştığım siyaset anlayışı, siyaseti maddi çıkar kapısı haline getiren siyasetçileri yaratmıştır.<br />
+Siyasetçi, toplumu daha güzel günlere taşımak için seçildiği meclislerde halkının çıkarlarına hizmet etme ilkesini terk ederek, kendisine, ailesine ve yakın çevresine çıkar sağlar hale gelmiştir.<br />
+Bu seviye kaybı son yıllarda öylesine düşmüştür ki, sonunda siyasetçi güven sıralamalarının en alt kademelerinde kendisine yer bulabilir hale gelmiştir.<br />
+Ne yazık ki, sistem de onları suç sayılacak işlemlerinden korumak üzere “Dokunulmazlık” Zırhı ile donatmıştır.<br />
+İş öylesine çığırından çıkmıştır ki, bırakın milletvekili ve belediye başkanlıklarını belediye meclis üyesi seçilebilmek için dahi çok büyük paralar harcanmaya başlamıştır.<br />
+Siyaset yapmak için gerektiğinde işinden, ailesinden fedakârlık yapma özverisini göstermesi gereken kişi, bir de üzerine seçilmek için büyük paralar harcıyorsa, biliniz ki seçileceği makamda bu paraları kat be kat geri almayı hedeflemektedir.<br />
+Bu, ülkemizde siyaset yapmanın yolsuzluk ve zenginleşme aracı haline getirildiğinin de resmen kabulüdür.<br />
+Yine üzülerek söylemek gerekirse, tüm bu yozlaşmanın altında yatan ana nedenlerin başında Siyasi Partiler Yasası ile Seçim Yasası’nın günün koşullarına göre yenilenmemesi gelmektedir.<br />
+Daha da acısı, bu konuda her seçim öncesi tüm siyasi partiler tarafından söz verilmesine rağmen seçim sonrası unutulmuş olmasıdır.<br />
+Bunun akla dayanacak bir nedeni olmadığı için söylenecek tek söz, seçilenlerin mevcut bu iki yasanın boşluklarından yararlanmayı sürdürme isteklerinin verilen sözlerin önüne geçmiş olmasının göstergesidir.<br />
+Daha açık söylemek gerekirse, bu siyasi yozlaşmanın ve siyaset ahlakının giderek erimesinin en başta ki sorumlusu, siyasi parti liderleridir.<br />
+Zaten bu yanlışların sonunda, milletvekilliği hiçbir yaptırım gücü kalmamış, tüm yetkileri tek adama verilmiş, tarihi anlamından kopartılmış TBMM’ de görev yapmaya mahkûm edilmişlerdir.<br />
+Büyük yönetim yanlışları ile güç ve toprak kaybederek tarihin karanlık sayfalarına gömülen Dev Osmanlı İmparatorluğu’nun küllerinden yepyeni ve çağdaş dünyaya ayak uyduracak Türkiye Cumhuriyeti’nin kuruluşunun 96. Yılında bunları konuşmak ve yazmak çok acı.<br />
+İnanıyorum ki, bundan 96 yıl önce dünyayı şaşırtan bir zafere imza atarak bu Cumhuriyeti kurma becerisini gösteren Türk Ulusu bu sıkıntılı süreci de başarı ile atlatacaktır.<br />
+Çağdaş ve laik Türkiye Cumhuriyeti’ne inanan ve onu kuran iradenin lideri Mustafa Kemal Atatürk ile silah arkadaşları ve bu toprakları kanları ile sulayan aziz şehitlerimize sevgi ve saygı duyan<br />
+TÜM CUMHURİYET SEVDALILARININ CUMHURİYET BAYRAMI KUTLU OLSUN.<br />
+Başta Büyük Önder Mustafa Kemal Atatürk ve dava arkadaşları olmak üzere tüm şehit ve gazilerimize rahmet diliyorum. Işıklar içinde yatsınlar…27.10.2019</p>
+<p>Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0959-vah-samsun-um-vah-olmuste-aglayani-yok.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0961-bolge-lideri-bir-kentin-60-yillik-cokertilis-hikayesi.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

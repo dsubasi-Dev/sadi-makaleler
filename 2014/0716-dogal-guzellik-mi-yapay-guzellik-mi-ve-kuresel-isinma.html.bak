@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Doğal Güzellik mi Yapay Güzellik mi ve Küresel Isınma</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Doğal Güzellik mi Yapay Güzellik mi ve Küresel Isınma
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2014
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0716
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>DOĞAL GÜZELLİK Mİ? YAPAY GÜZELLİK Mİ?<br />
+GÖLGEESİNDE KALAN KÜRESEL ISINMA KORKUSU<br />
+Güzellik anlayışı ve yorumu kişilerin eğitim, kültür ve algılama seviyesine göre değişiklik gösterir. Duyguları körelmemiş insanların dışında hemen her insan güzel şeyleri görmekten zevk alır.<br />
+İster kadın ister erkek olsun, insanları güzel yapan onun doğallığından gelen özellikleridir. Fiziksel güzelliği yanında insanları sevimli hale getiren belki çok daha önemli diğer özellikleri, insanların doğallığından gelen konuşması, güler yüzü ve ruh güzelliğidir.<br />
+Giyim ve makyaj insanın doğal güzelliğine katkı sağlayan yapaylıklardır. Eğer yapılan yapay eklemelerin tercihinde yanlışlıklar yapılırsa, bu yapaylıkların bırakın güzelliği artırmasını, Tanrı’nın (Yaradan’ının) insanlara sunduğu doğal güzelliğini de yok eder.<br />
+Yaradan, insanların sadece görünümlerine doğal güzellik vermemiş, insanların kullanımına su, toprak, hava, içerisinde hayvanların ve her türlü bitkinin bulunduğu doğal güzellikleri taşıyan bir de çevre sunmuştur.<br />
+Yaradan, bu güzelliklerin hepsini insanlar yararlansın diye yaratmıştır. Bu güzellikleri en doğru şekilde kullansın diye insanlara “Akıl” verirken, insan dışında ki tüm canlıların yaşam düzenini sağlamak üzere de, ekolojik bir düzen kurmuştur.<br />
+Doğal çevre, Yaradan’ın aklını kullanma şansı olan insanlara yaşamlarını sürdürebilmeleri için gerekli olan gıda, su, hava yanında dinlence olanağı olarak da sunulmuştur.<br />
+Bu doğal güzellikleri doğru kullanmak ve yapay eklemelerle yararlığını ve güzelliğini artırmak insanların elindedir. Ancak yapay olarak yapılacak eklemelerle yaratılacak güzellikler, onun doğallığını ve ekolojik dengesini bozmamalıdır. Çünkü yapay güzellikler (Her türlü ekleme) ile doğanın bozulması, doğanın insanlara sunduğu yaşamsal güzelliklerin yok edilmesi demektir.<br />
+Ne var ki, insanlar daha rahat yaşamak veya ekonomik kazançlarını artırmak adına doğal güzellikleri bozacak hoyratça yapıtlarla, doğanın insanlara sunduğu her türlü olanağı yok etmeye başlamıştır.<br />
+Bitkiler ve hayvanlar için kullanılan ilaçlarla, değişik amaçlı olarak kullanılan deodorant ve her türlü kimyasalların verdiği zararlar ile toprak, su ve havanın doğal dengesinin bozulması sonucu, dünya “Küresel Isınma” Denen bir felaketle karşı karşıya kalmıştır.<br />
+“Küresel ısınmanın” getireceği felaketlere hazırlanan dünya çözüm yolları ararken, eğitim seviyesi düşük ve kötü yönetilen ülkeler ise, doymak bilmeyen ihtirasların ve yanlış projelerin kurbanı olarak toprak su ve hava kaynaklarını kirletmeyi sürdürerek geleceklerini de yok etmektedirler.<br />
+Üzülerek söylemek gerekir ki, geleceğini yok eden ülkeler içerisinde arasında bizim ülkemiz ve Samsunumuz da yer almaktadır.<br />
+Küresel Isınma ve onun getireceği olumsuz yaşam şartlarının korkusu yaşanırken, kişisel çıkarlar uğruna hesapsız kitapsız yapımına izin verilen HES (Hidro Elektrik Santraller) ile akarsularımız ve onlarla beslenen tarım alanlarımız yok edilerek, açlığa davetiye çıkartılmaktadır.<br />
+Kumsallarının üzeri kayalarla doldurularak yapılan yollarla sahil güzelliklerimiz, sahilleri taş yığını binalarla doldurulan sahil beldelerimiz, insanların hava almasını dahi zorlaştıracak yüksek binalarla donatılan kentlerimiz, kalkınma adına yanlış yer seçimleri ile yapılan sanayi kuruluşları yaşam alanlarımızı yok etmekle kalmıyor, çocuklarımıza miras olarak bırakacağımız doğa da kirletilmektedir.<br />
+Gelecek kuşaklarımızın yaşam koşullarını da zora sokacak yapaylıklar artık o boyuta varmıştır ki, günümüz insanlarının en doğal hakkı olan dinlence ve göz zevkini de ellerinden almaya başlamıştır.<br />
+Özellikle de son dönemlerde yerel yönetimlerin yetkilerinin genişletilmesi ve gelir kaynaklarının artırılması, yerel yönetimlerin çok kapsamlı kentsel ve çevre düzenlemelerinin de önünü açmıştır.<br />
+Ne var ki, genişletilen bu yetkiler yanında, ortak aklın kullanılması yönünde hiçbir düzenlemenin yapılmaması, son dönemlerin hastalığı olarak öne çıkan “Ben yaptım oldu” anlayışının yaygınlaşmasına neden olmuştur.<br />
+Bir de buna yine son dönemlerin ayıbı olarak eklenen, “Yasa dinlemeyen veya yasaların arkasından dolanmak için belediye meclislerinde ki sayısal üstünlükleri kullanma” uygulamaları, toplumsal çıkarların ve beklentilerin dikkate alınmamasına neden olmuştur.<br />
+Kent bileşenlerinin ve kentlerin düzenlenmesi yönünde söz sahibi olması gereken meslek odalarının dahi görüşlerinin alınmaması sonucu, “Ben yaptım oldu” Anlayışı ile yapılan düzenlemelerden güzel işler yanında çok da tartışılacak yanlışlar da yapılmaktadır.<br />
+Tek adam kararları ile yapılan bu projelerden zaman zaman göze hoş gelen görsel güzellikler yaratılırken, çoğu kez de kent yaşamını etkileyecek ve geri dönüşü imkânsız olan doğal güzellikler yok edilmektedir.<br />
+Bu yanlışlar yapılırken, yapılan itirazları değerlendiren mahkemelerin “Durdurma kararlarının” dahi dikkate alınmayarak yapımların sürdürülmesi ise, yasalara direnmenin yanında toplumun da dikkate alınmaması demektir.<br />
+Oysa önemli olan, yaşayan ve gelecek kuşakların ortak çıkar ve beklentileri dikkate alınarak yapılacak doğru projeler olmalıdır.<br />
+Üzülerek söylemek gerekirse, Samsunumuzda da bu doğru ve yanlışların çokça örneğini görüyoruz.<br />
+Bir kaç değişik örnek ile yazımı noktalamak istiyorum.<br />
+Amisos Tepe’sin de yapılan çok güzel düzenleme ve buraya bağlanan teleferik ile doğal ve tarihi bir güzelliğe güzellik katılmıştır.<br />
+Samsun-Ankara Karayolu üzerinde bulunan Çakallı’da ki tarihi bir hanın restore edilerek “Çakallı Han” olarak Samsun turizmine ve halkın kullanımına sunulması, doğal güzelliğe katkı sağlayan bir başka yapay düzenleme olmuştur.<br />
+Bu iki doğal güzelliğe eklenen yapaylıklar, alkışı hak eden yapay güzelliklerdir.<br />
+Samsun’un denize girilebilecek tek sahili olarak kalan Atakum- Ondokuzmayıs İlçeleri arasında ki batı sahilinde bulunan kumsalın kayalarla doldurularak üzerine araç yolu yapılması Samsun’un deniz kenti olma özelliğini bitiren bir katliam olarak tarihe geçecek bir ayıbıdır.<br />
+Toplumun doğal ve yapay güzellikler arasında tercihe zorlanmadığı, kentimiz adına yapılacak düzenlemelerde ortak aklın kullanılacağı yönetim anlayışının yerleşmesi dileğiyle, güzel bir hafta diliyorum. 21. 10. 2014<br />
+Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0715-uyusturulan-toplum-ve-cevap-bekleyen-sorular.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0717-samsunspor-felakete-suruklenirken-son-cagri.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

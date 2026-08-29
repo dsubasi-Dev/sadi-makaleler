@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Azalan Nüfusun Nedenleri Işığında Samsun Gerçeği</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Azalan Nüfusun Nedenleri Işığında Samsun Gerçeği
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2012
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0569
+
+</div>
+
+
+<div class="article-content">
+
+<p>k</p>
+
+<p>AZALAN NÜFUSUN NEDENLERİ IŞIĞINDA<br />
+SAMSUN GERÇEĞİ…</p>
+<p>İki hafta kadar önce Türkiye İstatistik Kurumu (TÜİK), Türkiye’nin nüfus değişimi ile ilgili 2011 verilerini açıkladı.<br />
+Adrese Dayalı Nüfus Sayım sonuçlarına göre, 56 ilin nüfusu artarken Samsun'un nüfusu 2011 yılında bir önceki yıla göre 964 kişi azalarak 1 milyon 251 bin 729'a düştü.<br />
+Samsun'un nüfusu önceki yıllarda az da olsa artmış, 2008 yılında 1 milyon 233 bin 677, 2009 yılında 1 milyon 250 bin 076, 2010 yılında 1 milyon 252 bin 693 olarak tespit edilmişti.<br />
+Aslına bakarsanız nüfus artışının olmaması bir kentin sosyal yapısını koruması anlamına da gelir. Bu da geçmişinde çok göç alarak kozmopolit bir kent haline gelen Samsun gibi bir il için olumlu bir gelişmedir diye de düşünülebilir.<br />
+Ancak bu nüfus azalması, Samsun’un bazı eksiklerini de ortaya koyması bakımından incelemeye değer diye düşünüyorum.<br />
+Samsun ve ilçelerinde ki nüfus değişimine bir göz attıktan sonra bazı konulara değinmek istiyorum.<br />
+2011 yılı - 2010 yılı<br />
+Alaçam:          29.196   - 29.949<br />
+Asarcık:          18.597   - 18.867<br />
+Atakum:         131.355 - 123.904<br />
+Ayvacık:          23.611   - 24.211<br />
+Bafra:             143.706  -144.465<br />
+Canik:               91.861  - 91.052<br />
+Çarşamba:     137.538 - 137.362<br />
+Havza:              44.332 - 45.188<br />
+İlkadım:          312.185 -315.089<br />
+Kavak:               20.405 - 20.940<br />
+Lâdik:                17.551 - 17.849<br />
+Ondokuzmayıs:24.249 - 24.338<br />
+Salıpazarı:         19.902 - 20.393<br />
+Tekkeköy:          49.245 - 49.302<br />
+Terme:               74.486 - 74.912<br />
+Vezirköprü:     104.317 -105.447<br />
+Yakakent:            9.193  -   9.425<br />
+Toplam:        1.251.729 - 1.252.693<br />
+Tablodan anlaşılacağı gibi Samsun’un üç ilçesi Atakum, Canik ve Çarşamba ilçesinde az miktarlarda da olsa nüfus artışı olmuş buna karşılık diğer tüm ilçelerinde nüfus kaybı yaşanmıştır.<br />
+Eğer Samsun adına bazı olumlu gelişmeler yaşanmazsa bu düşüş artarak sürecektir.<br />
+Merkez ilçelerimizden Atakum ve Canik’ de ki artışları İlkadım ilçesinden bu ilçelere kayan nüfusla açıklayabiliriz.<br />
+İlkadım, kentin eski mahallelerini kapsar. İlkadım İlçe sınırları içersinde geçmişte yapılan büyük şehirleşme ve imar hataları sonucu İlkadım bölgesinde yaşam zorlaşmıştır.<br />
+Özellikle İlkadım’da ki otopark sorunları bu bölgede ki insanların bir kısmının, daha planlı olarak düzenlenmiş Atakum’a kaymasına neden olmuştur.<br />
+Canik’in de son yıllarda hızlı bir gelişme göstermesi ve Hasköy sırtlarında yapılan çok sayıda modern site ile TOKİ binaları nedeniyle İlkadım’dan da Canik’e nüfus kaymasına neden olmuştur.<br />
+İlkadım’ın nüfus kaybı 2904, Canik ve Atakum’un aldığı nüfus ise, 8260 kişidir. Arada ki fark ise komşu illerden ve diğer ilçelerden gelenler diye düşünebiliriz.<br />
+Bence sorun, Samsun’un nüfusun azalması değil, neden artmadığıdır.<br />
+Bunun tek açıklaması olabilir. O da Samsun’un artık cazibe merkezi olma özelliğinden hızla uzaklaşıyor olmasıdır.<br />
+Eskiden Samsun’da emekli olanlar yaşam yeri olarak Samsun’u seçerlerdi, artık seçmiyorlar.<br />
+Samsun’da son dönemlerde görsel anlamda önemli düzenlemeler yapılmış olsa da, bunlar yeterli olmuyor. Çünkü insanlar karınlarının doyduğu ve mutlu olabilecekleri kısaca yaşamın kolay olduğu yerleri yaşam yeri olarak seçiyorlar.<br />
+Son yıllarda Samsun’un yerli ve seçkin ailelerinden bir kısmı da, kentin bunaltan yaşam şartları nedeniyle, yaşamlarını sürdürmek üzere Ege ve Akdeniz Bölgesinin turizm merkezlerine kayıyorlar.<br />
+Samsun ekonomik yönden hızla fakirleşiyor. Bakmayın siz, bankalarda çok büyük bir sermaye olduğu söylemlerine. Bunlar Samsun içinden ve dışından az sayıda ki kişinin kişisel hesaplarıdır ve yatırıma girmeden faiz de veya gayrimenkul yatırımlarında değerlendirilmektedir.<br />
+Karadeniz Bölgesinin tüm illeri teşvik kapsamına alınırken, sadece Samsun cezalandırılırcasına kapsam dışında bırakılırsa, Samsun’da kimse yatırım yapmaz.<br />
+Bunun anlamı, yeni iş sahalarının açılmamasıdır. İşsiz kalanların da iş umudu ile Samsun’u terk etmesidir.<br />
+“Teşvik veremedik, sizi CAZİBELİ KENT yapacağız” diyenlere inanarak oyalanan ve sonra da başka illerin “Cazibeli Kentler” kapsamına alınışına seyirci kalan bir kent, göç vermeye mahkûmdur.<br />
+Vaatlere bu kadar kolay inanan ve yanılgılarından ders almayan bir kent, göç vermeye mahkûmdur.<br />
+Sivil toplum kuruluşlarının direnmesine rağmen, hala bu kente kirli yatırımların yapılmasını teşvik eden anlayışın devam ediyor olmasının doğal sonucu olarak, Samsun yaşam yeri olarak tercih edilmeyen bir kent olmaya mahkûmdur.<br />
+En büyük gelir kaynağı olan tütün ekim alanlarının kısıtlanmasına ve bu tarımın yok edilmesine seyirci kalan bir kent, göç vermeye mahkûmdur.<br />
+Buğday, mısır, ayçiçeği ekiminin teşvik edilmeyişine, maliyetini kurtarmayan alım fiyatlarının verilişine, şekerpancarı üretiminin Cagrill’in sömürgeci anlayışına kurban edilişine, sesi çıkmayan bir kent göç vermeye mahkûmdur.<br />
+Tarım sigortasının yaygınlaşması ile köylerde evlere giren birkaç BAĞ-KUR maaşını yeterli görüp toprağından kopan bir kent, gençlerinin iş umuduyla büyük illere göç etmesini kabullenmeye mahkûmdur.<br />
+İş alanları yaratamayan bir kent, üniversiteyi bitiren genç kuşağını da kaybetmeye mahkûmdur. Samsun’un belki de önemsenmesi gereken en büyük sorunu budur.<br />
+Yapılan tüm haksızlıklara, üniversiteyi bitiren genç kuşağının kendi kentine dönemeyişine, dolayısıyla kentine sahip çıkmayan vekillerine ses çıkartmayan bir kent, gerilemeye ve göç vermeye mahkûmdur.<br />
+Bu gidiş, Samsun’un bölgenin lider kenti olma özelliğini de kaybetmesi ile son bulur ki, o zaman da “Acaba yapılmak istenen de bu mu?” sorusunun akıllara gelmesi kaçınılmaz olur.<br />
+Çözüm, Samsun’u yaşam yeri olarak seçmiş olan Samsunluların hak arayan, sorgulayan bir toplum olmasından geçmektedir…<br />
+İyi haftalar…  05 Şubat 2012</p>
+<p>Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0568-korkutulan-toplum-ve-santaj-soygunu.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0570-toplum-kime-nasil-guvenecek.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

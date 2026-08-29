@@ -1,0 +1,308 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Samsunluluk Ruhuna Bir Darbe de CHP&#x27;den</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Samsunluluk Ruhuna Bir Darbe de CHP&#x27;den
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2008
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0339
+
+</div>
+
+
+<div class="article-content">
+
+<p>e-posta sadisubasi@denizeczaneoptik. com                      SUNUŞ</p>
+<p>SAMSUNLULUK RUHUNA BİR DARBE DE CHP’DEN.</p>
+<p>Samsun’da Büyükşehir Belediye Başkanlığının kentin güzelleşmesi adına yürüttüğü başarılı çalışmaları bir yana bırakırsak, Samsun’un kötü şansını değiştirecek önemli şeylerin yapıldığını söyleyemeyiz. İşsizlikte Türkiye ortalamasının üzerindeysek, tersane hikâyesi 7. yılında hala gerçekleşme aşamasına gelmemişse, teşvik yasası dışında bırakılmışsak, Samsun için önemli marka ve moral kaynağı Samsunspor kaderine terkedilmiş ve göz göre göre sonu bilinmeyen bir karanlığa yuvarlanıyorsa, bunları yok sayabilir miyiz?<br />
+Olumsuz yaklaşımlarda odaklanmak ne kadar yanlışsa, bu kentteki Büyükşehir Belediye’sinin kentin düzenlenmesine yönelik hizmetleri sınırlı kalan güzelliklerine saplanıp kalmak da, bir o kadar yanlıştır.<br />
+Samsun 1950 seçimlerinden bugüne kadar tüm seçimlerde iktidar olan partilere büyük destek vermiştir. Doğal olarak da bu seçimlerde milletvekillerinin çoğunluğu iktidar partilerinden seçilmiştir. Eğer iktidardan yana olmak hizmet almak demek ise, Samsunlu doğrusunu yapmıştır. Ne var ki, Samsunlunun böylesine destek verdiği hükümetlerin hiç birisinden, kaderini değiştirecek destek gördüğü söylenemez.<br />
+SİYASETİN BİTTİĞİ AN VE CHP’DE HARAKİRİ<br />
+Bu kent siyaseten dibe vurmuştur diyorum, kızan dostlarım oluyor. Bu kentte dünden bugüne siyaset yapan vekillerimizin, bazılarına haksızlık etmemek için birkaç milletvekilini dışarıda tutarsak, bu kent adına önemli şeyler yaptığını söyleyemeyiz. Bugün de iktidarın Samsun’a karşı verilen sözleri yerine getiremediğinden yakınıyoruz, duyan yok. Sanki iktidar duyarsız da, muhalefet çok mu duyarlı? Hele hele ana muhalefet partisi, bırakın bu kentin sorunlarına eğilmeyi, kendi içimizden çıkan ve bu kente hizmet edebilecek insanlarımızı dahi yok etmenin peşinde.<br />
+Geçen hafta sonu ana muhalefet partisi CHP’nin Samsun Merkez İlçe seçimi yapıldı. Bu arada içimizden birisi olan Sayın Prof. Dr. HALUK KOÇ’DA CHP Genel Başkanlığına adaylığını açıklamış ve kendi kentinde yapılacak bu seçim için Samsun’a gelmişti. Bu adaylık bir Samsunlu olarak çoğu insan gibi beni de heyecanlandırmıştı. Aynı heyecanı Sayın Ağar’ın istifasından sonra DP Genel Başkanlığına aday olduğunu açıklayan Sayın ERDEM DEMİRDAĞ içinde duymuş ve telefon açıp kutlamıştım.<br />
+Bu sevincin nedeni, hem ülkemiz için hem de Samsun adına doğan bir umuttan kaynaklanıyordu. Ancak bu umuda bel bağlayanların da benim gibi unuttuğu şey, bu ülkede kirlenen siyaset ve demokratik özgürlüklerin liderlerin hegemonyası altında oluşuydu. İşte bu göbekten bağlı siyaset anlayışı, bütün vahşiliği ile ortaya çıktı ve Samsun’u bir kez daha olumsuz bir olayla Türkiye gündemine oturttu. O gün siyaset gibi çok ulvi bir işi yapmaya soyunan, ama siyasi terbiye ve görgüden nasibini alamamış bir takım insanlar, sadece CHP’ye zarar vermediler, sosyal demokrasiye umut bağlamış insanların da umutlarını ayaklar altına aldılar.<br />
+O gün bir kez daha görüldü ki, bu ülkenin iyi idare edilebilmesinin yolu, ülkenin siyasi terbiye ve kültürü almış insanların oluşturduğu partilerce yönetilmesinden geçmektedir. Ancak üzülerek Pazar günü bir kez daha yaşadık ki, bizim partiler için siyasi terbiye ve kültürden çok, genel başkanına biat ( şartsız bağımlılık) etme içgüdüsü ile donanmış ve donatılmış insanlar önemlidir. Çünkü bu kültürü almayanlar için ne ülke, ne de kentlerinin çıkarı önemli değildir. Onlar için kendi çıkarları önemlidir. Liderler için de önemli olan, koltuklarında oturabilmeleri için bu insanları istedikleri gibi yönlendirebilmektir. Bu insanlar liderler için, istediklerini yaptırabildikleri birer kurşun askerdir.</p>
+<p>UMUDA DARBE<br />
+Üzülerek bir kez daha izledik ki, CHP’yi yönettiğini sanan insanlar için Samsun’un geleceğini karartacak mobil ve termik santraller ve de partiyi yeni ufuklara taşıyabilecek insanlar önemli değildir. Bu tür insanlar için önemli olan, kendilerinin de var olma nedeni olan ve istediği kadar başarısız olsun, istediği kadar ülke demokrasisine zarar versin, biat ettikleri liderin koltuğunu korumaktır. Geçen pazar günü Samsun’da yaşananlar bunun çirkin bir örneğidir.<br />
+Bu ülkede hızla tek parti düzenine doğru bir gidiş varsa, laik ve çağdaş yaşamdan uzaklaşma endişeleri yaşanıyorsa, bunu en büyük sorumlusu CHP ve onun seçim kaybetmekten yorulmayan genel başkanı ve etrafında ki şakşakçılarıdır.<br />
+Geçen Pazar günü gözlemlediğim en önemli şey, uzun bir aradan sonra bir CHP kongresinin ilk kez bu kadar kalabalık oluşuydu. Liderlerine olan güveni kaybettikleri için uzun zamandır partiye uzak duran çok sayıda partili, o gün salonu doldurmuş, bir o kadarı da dışarıda kalmıştı. İnsanları oraya getiren yeni bir umudun belirmesiydi. Son yıllarda o salonları terk edenler ve rüzgâra kapılmış yaprak gibi çaresiz dışarılarda gezenler, bir ışık görmüş olacaklar ki, o gün salonu doldurmuşlardı. Bunlara kimse bindirilmiş kıta diyemezdi, dememeliydi.<br />
+Sayın KOÇ’DA yaptığı konuşmada parti terbiyesine bağlı kalarak Genel Başkanını hiçbir şekilde kötülememiş, yönetim tarzını eleştirmişti. Ülkenin çağdaş ve laik düzenden uzaklaşma endişelerinin yaşandığı bir dönemde, partisinin önemine değinerek yeni politikalar üretemediği ve insanlara umut olamadığı için kaybettiğini, bu nedenle de bir değişimin şart olduğunu vurgulamıştı. Parti içi demokrasinin mutlaka uygulanacağını ve daha demokratik bir tüzük hazırlanacağını da belirtmişti.<br />
+Yazık olmuştur. Sayın KOÇ’U “ kendi kentinde kaybettirdik” diyerek önünü kesme ve liderlerine yaranma gayretkeşliği içine girenler, Samsun adına yanlış yapmışlardır. Bu yapı ile bir daha seçim kazanması mucizelere bağlı olanlar, sıralama da yer sözleri alarak Samsun için önemli kurumları bu pis işlere alet edenlerin de desteği ile Samsun’u bir kez daha Türkiye gündeminde zor duruma düşürmüşlerdir. Oysa Sayın KOÇ yalnız CHP için değil, Samsun için de umut olmuştur. Gelecekte çok önemli görevlere gelebilecek donanım ve birikime sahip bir Samsunlunun önünün, yine Samsunlu olan birileri tarafından kesilmeye çalışılması, bu yolda etik dışı tüm yolların kullanılması, Samsun’a hiç ama hiç yakışmamıştır.<br />
+CHP’de insanları umutlandıran değişimin önü kesilir ve aynı kadrolarla önümüzde ki yerel seçimlere girilirse, 22 Temmuz seçimlerinden çok daha kötü bir sonuca davetiye çıkartılmış olacaktır. Bunun sorumluları da Samsun’dan başlayan yanlış siyasetin uygulayıcıları olacaktır.</p>
+<p>SAHİPSİZ KENT<br />
+Siyasi gücünü kaybetmiş, kendi partisinden dahi aday olamayan Mesut Yılmaz’ı RİZELİLER 22 Temmuz seçimlerinde, sırf kendi hemşerileri olduğu için bağımsız olarak TBMM’NE göndermişlerdir. Tabii ki, kentine ve insanına sahip çıkma noktasında başka hiçbir şeyi dikkate almayan Rize’ye, hiçbir güç Mobil ve Termik Santral yaptıramaz. Teşvik dışına itemez, kentinin takımını yalnızlığa terk edemez. Yazıklar olsun.<br />
+CHP Samsun’da ayağına kuşun sıkmıştır. Bu yara, Samsunluları atılan kafadan daha çok yaralamıştır. Bu kenti beyni ve yüreği ile değil, attığı kafa ile temsil etmeye kimsenin hakkı yoktur. Bu anlayışın sonu hep birlikte yok olmaktır.<br />
+Bu kent kendisine dayatılan ve hiç de hak etmediği yanlışlara dur diyecek siyasetçiler bekliyor. Siyasetin çirkinliklerini kullanarak donanımlı ve düzgün insanların önünü kese kese, bu kenti siyaseten bitirenlerin artık aklını başına toplamsı gerekir diye düşünüyorum. 27 Ocak 2008</p>
+<p>SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0338-lutfen-bu-cagriya-kulak-veriniz.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0340-karamsarlik-ve-umut-isiklari.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

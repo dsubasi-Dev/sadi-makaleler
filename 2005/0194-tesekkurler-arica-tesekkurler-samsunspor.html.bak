@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Teşekkürler Arıca, Teşekkürler Samsunspor</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Teşekkürler Arıca, Teşekkürler Samsunspor
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2005
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0194
+
+</div>
+
+
+<div class="article-content">
+
+<p>YORUMe-mail: sadisubasi@denizeczaneoptik</p>
+<p>TEŞEKKÜRLER ARICA, TEŞEKKÜRLER SAMSUNSPOR</p>
+<p>Pazar günü korkarak geldiğimiz staddan büyük bir mutlulukla ayrıldık. Çoğunlukla boynumuz bükük çıktığımız Trabzon maçında sadece maçı kazanmadık, geleceğe yönelik umutlarımızı da dirilttik kanısındayım. Trabzon maçları Samsun açısından hep dönüm noktası olamuştur. Bu maçın sonucunu da bu açıdan önemsiyorum. Hemen her ayrılışının Samsunsporun  başarılı olduğu sıralara rastlaması nedeniyle Samsunluları üzen sayın Arıca’nın bu kezde başarılı olacağına inanıyorum. Umarım bu kez sonuna kadar götürecektir.<br />
+Bu maçın en sevinilecek yanı, takımın yeniden  kazanabilme inancını kazanmış olmasıydı. Takım  moral bulmuş, bu maça kadar açıkça görülen fizik yetersizlik büyük ölçüde giderilmiştir. Oyuncularımızın her golden sonra  yaşadıkları sevinci paylaşmaları, ilerisi için güzel şeylerin işaretidir.<br />
+Yaz başından itibaren yaşanan yönetim krizi ve belirsizlikten sonra yaşanan başıbozukluk giderilmiş gözüküyor. Şaban Yıldırım’ın bu kaosu aşamayacağı belli olmuştu. O nedenle yapılan operasyonun zamanlaması çok yerinde olmuştur. Takımı iyi tanıyan ve bir çoğu ile önceden de çalışmış olan sayın Arıca takımı çabuk toparlamıştır. Kaybedilen hiçbir şey yoktur. Büyük takımlarla ilk yarı maçlarını tamamladık. Sakat oyuncularımızın da takıma girmesi ile oyuncu zenginliği kazanacak olan Samsunspor, üç puanlı sistemde çok çabuk yukarılara çıkabilecektir. Beni en çok sevindiren husus, sezon başından beri büyük düşüş yaşayan Adnan’ın toparlanması ve Musa’nın kazanılması ile bu sezon beklenmedik kadar uyumsuz ve bozuk olan defansın bel kemiği Kenan Petkov ikilisinin toparlanmış olmasıydı. Kerem’in de form tutması ile kaleci sorunu da ortadan kalkacağa benziyor. Kısa sürede bu kadar önemli düzelmede sayın Arıca’nın çok önemli katkısı olmuştur. Böylece alt yapısı güçlü olan Samsunspor’un gerekli inanç sağlandığında istenilen seviyeye kolaylıkla çıkabileceği de görülmüş oldu. Bunlar Pazar günü içimizi ısıtan olumlu şeylerdi. Pazar gününün bir de dikkat çeken olumsuzlukları vardı. Bunları da sizlerle paylaşmak istiyorum.<br />
+Bu olumsuzlukların birisi şeref tribünün dışardan görüntüsü, diğeri de reklam panolarında ki renklerdi. Samsun da ve Samsunspor’un maçında Samsunlu bir firmaya ait reklam panolarında bordo mavi renklerin kullanılmış olması düşündürücüydü. Misafir takımın kentine ait firma panosu olsa diyecek bir şey olamaz, ama firma Samsunlu olunca bu nasıl Samsunluluk demeden geçemiyorum. Merak ediyorum bunun bir başka kentte örneği olabilirmi?<br />
+Bir diğer olumsuzluk pazar günü şeref tribünün düşündürücü görüntüsüydü. Samsunspor’un önde olduğu dakikalarda ve maç sonucunda şeref tribünün de adeta ölüm sessizliği dikkat çekiciydi. Tamam bu kentte çok değişik yörenin insanı var. Ama bu kentin yönetiminde görev üstlenenlerin de içinde olduğu bu görüntü hiç de hoş değildi. Hatta üzntüden başlarını elleri arasına alanların görüntüsü her şeyi çok iyi anlatıyordu.<br />
+Bu kentin ve Samsunlunun işi gerçekten çok zor. Bunlar hiçbir kentte kolay kolay rastlanamayacak görüntülerdir. Bir avuç Samsun sevdalısı Samsunluluk ruhunu canlandırmaya ve yaşatmaya çaba harcıyor. Ne varki kendini yönetenleri dahi bu duyguyla yüklü insanlardan oluşturamıyorsa bu görüntüleri yaşamaya mahkum demektir. Yazık çok yazık.<br />
+Oynayanını da oynamayanını da tüm sporcu gençlerimiz kutluyor ve Samsunluluk ruhunu taşıyanlar adına teşekkürlerimizi sunuyorum. Bu sonuçları sürekli yaşamak dileğiyle..<br />
+SADİ  SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0193-samsun-uzerine-cesitlemeler.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0195-17-kasim-samsun-i-cin-buyuk-bir-sanstir.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

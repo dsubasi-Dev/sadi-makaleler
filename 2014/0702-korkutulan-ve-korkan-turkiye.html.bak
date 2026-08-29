@@ -1,0 +1,341 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Korkutulan ve Korkan Türkiye…</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Korkutulan ve Korkan Türkiye…
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2014
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0702
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>KORKUTULAN VE KORKAN TÜRKİYE..</p>
+<p>Türkiye ihtilaller döneminde dahi yaşanmamış gerginlikte bir dönem geçiriyor. TBMM de ki sayısal üstünlüğü ile demokratik rejimlerin ana ilkesi olan uzlaşma yollarını dışlayarak her türlü yasayı istediği gibi çıkartıp uygulamaya koyan AKP İktidarı, toplumsal barışa da ciddi anlamda zarar vermektedir.<br />
+Kendisine oy veren % 50 e yakın seçmenin oyunu, diğer % 50 i tedirgin eden, hatta korkutan uygulamaları yapmak için yeterli gören anlayış nedeniyledir ki yargı, basın, Üniversiteler, sivil toplum kuruluşları, işadamları yasaların onlara tanıdığı özgürlük ve bağımsızlıklarını kaybetmişlerdir.<br />
+Bunların bir kısmı korkudan sinerek suskunlaşırken, bir kısmı da çıkarları doğrultusun da yandaş haline gelmiştir. Aksine davranarak yasalarla tanınan görevlerinin gereğini yapanların üzerine de,  mali denetimlerler, soruşturmalar veya uzak yerlere tayin yöntemi ile gidilmektedir.<br />
+Polis teşkilatı “Bendendir, değildir” Diye paramparça edildi ve polis müdürleri başka illere gönderildi.<br />
+Tüm bu korkutucu ve toplumu sindirici uygulamaların ilki ve en önemlisi, Türk Ordusu üzerinde uygulandı.<br />
+Türkiye’nin ve bölgenin en güçlü ve en dinamik kuruluşu olan Türk Ordusunun en üst komutanları tutuklandı. Komutanların, bugün çoğunun düzmece olduğu ortaya çıkan gizli tanık ifadeleri, ihbar ve dinleme kasetleri ile uzun yıllar cezaevlerinde tutulması, topluma verilen en büyük gözdağıydı.<br />
+İşadamı Aydın Doğan’ın asrın para cezasına mahkûm edilmesi ise, medya sahipleri ile işadamlarına uyarıydı.<br />
+Yukarıda ki örnekler başta olmak üzere, çeşitli baskı yolları ile toplumda yaratılan  korku yadsınamaz..<br />
+Korkunun hâkim olduğu ortamda ise, toplumsal barış ve huzurdan söz edilemez.<br />
+Toplumu yaratılmak istenen baskı altında tutma isteğinin en açık mesajı ise, “Bitaraf olan bertaraf olurdu. ” Ancak dikta rejimlerinde görülebilecek bu tehditle toplum taraf olmaya zorlanıyordu.<br />
+Toplumun bir kısmında oluşan tepkilerin “Gezi Olayları” İle patlama yapması üzerine, ülkenin bir yarısının duyduğu endişeleri dikkate almak yerine, Gezi eylemcileri ayırım yapılmaksızın “Çapulcu “ Olarak niteleniyordu.<br />
+Mitinglerde eskiden olduğu gibi sesini yükselterek, işsizliğine ve açlığına çözüm bulunması için bağıran köylü miting alanından kovuluyordu<br />
+Gezi olaylarında ne şekilde olursa olsun, sonuçta çocuğu can vermiş acılı bir anne, acısının da etkisi ile benimde onaylamadığım amacını aşan bir söz söyledi diye, alanda ki kalabalığa yuhalatılıyordu.<br />
+Daha onlarca örnek sayacağımız toplumu korkutan söylemlerin en tehlikeli ve ürkütücü olanı, Gezi eylemlerinin Türkiye geneline yayılması ile sokağa dökülen insanları tehdit edercesine söylenen “Ben diğer % 50 i zor tutuyorum” Sözleriydi.<br />
+Sonun da, ülkenin bir yarısı bu korkularla endişe yaşarken, diğer yarısı her türlü iddia ve şüpheli olaylarına, “ Dublajdır, montajdır, olmamıştır” diye kendini inandırmanın rahatlığı ile desteğini sürdürüyordu.<br />
+Cumhuriyet dönemin de böylesine bir kamplaşma ilk kez, 1950-1960 arasında ki Demokrat Parti’nin tek başına iktidar olduğu dönemde yaşamış ve bu kamplaşma ülkeyi büyük bir kaosa sürüklemiştir.<br />
+Umarım bugün yaşanan kamplaşmaya zemin hazırlayan tahriklere, daha tehlikeli ayrışmalara yol açmadan son verilir.<br />
+KORKU VE KORUMA DA DOZ AŞIMI.<br />
+Samsun geçtiğimiz Cumartesi günü bir başka korku ve bu korkunun getirdiği abartılı bir koruma mezalimi yaşadı. Bugüne kadar bu kente çok sayıda başbakan ve cumhurbaşkanı gelmiştir.<br />
+O zamanlarda kenti yönetenlerin “Kraldan çok kralcı”  Tavırları sonucu bazı ana yollar kapatılır ve zaten yol fakiri olan kentte trafik karmaşası yaşanırdı. Ancak bu defa ki koruma tedbirleri sözlerle anlatılamayacak kadar abartılıydı.<br />
+Sabahtan itibaren başlayan yolları kapatan barikatlar, öğleden sonra insanı isyan ettirecek boyutta artmıştı. Saat 14.00 sularında DSİ 7. Bölge Müdürlüğü arkasında ki evimden özel aracımla çıktım. Çıktım çıkmasına ama neye uğradığımı şaşırdım.<br />
+DSİ yanında ki sokaklar dahi her iki tarafından da kapatılmıştı. Polis hiçbir yöne geçiş izni vermiyordu. Lise Caddesi, 100. Yıl Bulvarı, Cumhuriyet Caddesi, Atatürk Bulvarın da trafik akışı durdurulmuştu. Akıl alacak gibi değildi.<br />
+Yollarda sıkışıp kaldıkları için sinirleri gerilen araç sürücüleri ile polisler arasında yaşanmaması gereken tartışmalar yaşanıyordu.<br />
+Sanırım Cumhurbaşkanı Adayı Sayın Tayyip Erdoğan geceyi DSİ de geçirecekmiş. Miting ve iftar yemeğinin de bittiği gece saat 23.00 de dahi, Lise Caddesine, İstiklal caddesine ve 100. Yıl Bulvarına Asri mezarlık kavşağından itibaren giriş verilmiyordu.<br />
+DSİ’nin çevresi ve tüm kavşaklara onlarca polis ve özel harekat timi yerleştirilmişti.<br />
+Ben bu kente gelen Süleyman Demirel, Turgut Özal, Bülent Ecevit, Tansu Çiller, hatta Kenan Evren için alınan koruma tedbirlerini de görmüş birisiyim. Böylesine abartıyı ilk kez görüyordum.<br />
+Miting sonrası gördüklerimden ise açıkçası ürktüm. Sayın Recep Erdoğan’ı taşıyan otobüs işyerimin önünden geçti.<br />
+Otobüsün üzerinde iki adet elinde makineli tüfek bulunan özel harekât polisi, otobüsü önünden ve arkasından koruyan üstü açık otoların üzerinde sağı solu kolaçan eden eli silahlı polislerin yarattığı tablo, yaşanan bir başka korkunun göstergesi gibiydi.<br />
+Anlaşılan toplumun bir yarısını korkutan irade de, bir şeylerden korkuyordu.<br />
+Ne hazindir ki, ülkemiz herkesin birilerinden korktuğu bir dönemden geçiyor.<br />
+Bunun adı ülke için yapılan siyaset olamaz. Yazık….</p>
+<p>NE DEMEK? “YENİ TÜRKİYE’NİN İSTİKLAL MÜCADELESİ”</p>
+<p>Sayın Erdoğan’ın Cumhurbaşkanı Adayı olduğunun açıklanması ile yeni bir slogan gündeme oturdu. “Yeni Türkiye’nin Yeni İstiklal Mücadelesi” Samsun’dan başlatılıyordu.<br />
+Nedir bu söylem? Ülkemiz işgal edildi de haberimiz mi olmadı?<br />
+Benim bildiğim istiklal mücadelesi, ülke topraklarının yabancılar tarafından işgal edilmesi üzerine halkın işgalcileri ülkelerinden atmak için verdiği mücadeleye verilen isimdir.<br />
+Mustafa Kemal Atatürk’ün Milli Mücadele dediği, Kurtuluş Savaşı ile ülke topraklarının düşman işgalinden kurtarılmasıdır. Bu zafere imza atanlar dahi ,“Allah bu ülkeyi bir daha İstiklal Marşı yazmak zorunda bırakmasın” demiştir.<br />
+Birileri ya bu sloganın anlamını bilmiyor veya seçim stratejilerini                                                                                                                                                                                                           toplumun böylesine iddialı sloganlara prim vereceği varsayımı üzerine kurgulamışlar.<br />
+Bu ülkeyi temeli olmayan sloganlarla oyalamak yerine gerçeklerle tanıştırmak, bu ülkede siyaset yapan herkesin görevi olmalıdır..<br />
+Sonuç olarak söylemek gerekirse, Cumhurun bir yarısına korku ile karışık endişe yaşatan bir lider, Cumhurbaşkanı olması halinde Cumhurun tümünü nasıl kucaklayacaktır?<br />
+Cumhurbaşkanı seçimlerine bir aylık bir süre kala, cevap bekleyen asıl soru bu olmalıdır.<br />
+Bu yazdıklarıma tepki gösterecek olanların, öncelikle bu yazdıklarımın neresinin yanlış olduğunu söylemesi gereklidir.<br />
+Her şeyin gönlünüzce olacağı  bir hafta dileğiyle.. 07.07.2014</p>
+<p>Ecz. SADİ SUBAŞI</p>
+<p>Günaydın Sadi Abi,<br />
+Yeni yaşınızla birlikte daha umutlu bakmayı istiyorum geleceğe, ve bunu sizin başaracağınızı biliyorum, teslim olmadan umutsuzluklara.<br />
+Her yeni gün, yeni bir dünya olacaktır bizlere. Yazınızda dediğiniz gibi, korkunç gerilimli hale getirenler ülkeyi, kendileri can derdine düşmüşler, nereden çıkartıyorlarsa bu korkuyu, anlamak mümkün değil. Hangi tehdit algılaması içindedir başbakan, bilende yok zaten.<br />
+Abartılı koruma gösterilerinin puana mı dönüşeceğini düşünüyorlar, nedir bu saçmalık?<br />
+Sizin de dediğiniz gibi, sanki Samsun’a ilk kez başbakan geliyor, diğerlerinde böyle saçmalık yaşamadık gerçekten. Garip bir korku sarmış bunları, kim tehdit ediyor bir bilebilsek,<br />
+Ancak; bu ülke bir değişim yaşamak zorunda, bu şekilde yürümez. Cumhurbaşkanlığı seçimi bu değişimi sağlayacaktır, 2015 genel seçimleriyle de pekiştirilecektir, buna inanıyorum ben.<br />
+Elinize, düşüncenize sağlık. Güzel ve uzun mutlu yıllaraaa…<br />
+Nural ÖZCAN<br />
+İnş. Müh.</p>
+<p>YENİ İSTİKLAL TÜRKİYE’NİN MİLLİ MÜCADELESİ SAMSUN’DAN BAŞLATILACAKMIŞ!</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0701-toplumun-devlete-olan-guveni-hizla-eriyor.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0703-samsunspor-un-kurtulusu-cesur-yonetimlerdedir.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

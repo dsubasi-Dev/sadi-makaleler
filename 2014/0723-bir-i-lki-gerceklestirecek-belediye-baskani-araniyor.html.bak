@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Bir İlki Gerçekleştirecek Belediye Başkanı Aranıyor…</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Bir İlki Gerçekleştirecek Belediye Başkanı Aranıyor…
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2014
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0723
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>BİR İLKİ BAŞLATACAK BELEDİYE BAŞKANI ARANIYOR<br />
+Türkiye’nin en büyük sorunu, kaynak israfını durduramamasıdır. Bu ülkede, ülkeyi ve kentleri yönetmek için halkın oylarını alan seçilmişlerin hemen tamamına yakını bu yanlışın sorumlusudur.<br />
+İşin acı tarafı, toplum da bu olguyu kabullenmiş olmalı ki, “Devletin malı deniz, yemeyen domuz” Gibisinden çok şanssız bir söylemi sıkça kullanır olmuştur.<br />
+Çağdaş ve hatta zengin hiçbir ülkede görülemeyecek bu savurganlıklara rağmen ayakta kalan ülkemiz bir de bu savurganlıklara son verebilse, nasıl bir ivme yakalar ve geçim sıkıntısı ile boğuşan memurumuz, emeklimiz, işçimiz nasıl rahatlar, düşünebiliyor musunuz?<br />
+Bugün, yönetirken kaynakları doğru kullansın diye seçtiğimiz kişilerin yönettiği belediyelerin bir savurganlığından söz etmek istiyorum.<br />
+Söz edeceğim kaynak israfı, ne yazık ki belediyelerde ki savurganlığın sadece birisi, belki de en önemlisidir.<br />
+Belediyelerin en önemli görevlerinin başında alt yapı eksiklerini gidermek gelir. Ancak, toplum çok bilinçli olmadığı için alt yapıya verilen önem seçimlerde oy getirmez.<br />
+Bu gerçek, belediye başkanlarını daha çok üst yapı ve görsel güzelliklere kaynak ayırmaya mecbur eder. Ne yazık ki, yasalarda belediyeleri alt yapı konusuna öncelik vermeye zorunlu kılmaz.<br />
+Nitekim Samsun, bu tür alt yapı eksikliklerinin nelere mal olduğunun en acı örneklerini sel felaketlerinde yaşayan bir kenttir.<br />
+Benim paylaşacağım ise, bir başka konu. Son bir haftadır Kefeli Sami İlköğretim Okulunda çocuğu olanların ve DSİ 7. Bölge Müdürlüğü’nün arkasında ve yanında ki sokaklarda evi olanların tanık olduğu kazı rezaletini yaşayan bir vatandaş olarak içim acıdığı için değinmek ve bir öneri ile bağlamak istiyorum.<br />
+Bu bölge de son iki yıl içerisinde yaşanan benim sayabildiğim üçüncü kazı. Önce Sam-Gaz bu bölgede ki cadde ve sokakları kazdı, ardından bir internet firması fiber kablo döşemek için kazdı. Son bir haftadır da, yer altı kablolarını yenilemek üzere sanırım YEDAŞ’IN taşeronları kazıyor.<br />
+Bu hizmetler tabii ki yapılacak, bu sırada yöre halkı sıkıntı çekecek, kış ayında ortalık çamur deryasına dönecek, bu kazılar sonrası yollar aylarca yapılıp asfaltlanmayacak. Hepsine kabul. Derdim bunlar değil.<br />
+Derdim, bu hizmetleri neden bir Avrupa ülkesinde yapıldığı gibi yapmıyor ve aynı yolu üç defa kazıp, üç defa onarıyor ve tonlarca asfaltı israf ediyoruz?<br />
+Yıllar önce bir yurt dışı gezisi için Fransa’ya gittiğimizde, Paris caddelerinde yürürken yaya kaldırımının ortasında bariyerle çevrilmiş bir boşluk gördüm. İçerisine baktığımda gördüklerim nedeniyle, o günden sonra bu yapılanın bizim ülkemizde neden yapılmadığına kafa yormaya başladım.<br />
+Gördüğüm şey, savurganlığı önleyen çağdaş belediye hizmetiydi. Sonra ki gezilerimde de, bunun tüm çağdaş ülkelerde vaz geçilmez bir belediye hizmeti olduğunu gördüm.<br />
+O gün gördüğüm şey tahminen bir buçuk metre derinliğinde, bir veya bir buçuk metre genişliğinde beton bir kanaldı. İçi çok güzel ışıklandırılmış ve üzerinde kapatılınca belli olmayan belli aralıklarla konmuş kapak vardı.<br />
+Kanalın her iki tarafında son derece düzgün sıralanmış, çok sayıda plastik boru sıralanıyordu. Aldığım bilgiye göre havalandırması da olan bu beton kanalet, kentin bütün önemli cadde ve sokaklarında bulunuyor ve tüm hizmet hatları (Telefon, internet, su, elektrik ve diğerleri) Bu kanal içerisine yerleştirilmişti.<br />
+Arıza halinde veya yeni bir hat geçirilmesi gerektiğinde, bu kanal kullanılıyordu. Böylece her defasında kaz-yap nedeniyle hem gereksiz harcamalar yapılmıyor, hem de halka eziyet edilmiyordu.<br />
+O günden beri, çok zor olmayan bu tür bir uygulamanın en azından önemli kent merkezlerinde neden uygulanmadığını, ondan da öteye, belediye yasalarına neden böyle bir zorunluk konulmadığını merak eder oldum.</p>
+<p>BU SAMSUN’DA YAPILAMAZ MI SORUSUNA BİR ÖNERİ.<br />
+Samsun Büyükşehir Belediyesince çok rahatlıkla yapılabilecek bu işlemin, tabii ki bir anda tüm Samsun cadde ve sokaklarında yapılmasına hem ekonomik yönden, hem de fiilen olanak yoktur.<br />
+O nedenle önerim, eğer bu yöntem inandırıcı bulunursa bir yerden başlanmasıdır. Bunun için yapılacak şey, herhangi bir firmanın yer altı çalışması başlatacağı yerde ilk adım atılabilir.<br />
+Şöyle ki;<br />
+Örneğin bir kurum İstiklal Caddesi’nde elektrik kablolarını yer altına alma veya hatları yenileme çalışması başlatacak olsun. Belediyenin önceden planladığı proje dâhilinde yukarıda sözünü ettiğim beton kanalet hazırlanır ve kablolar bu kanalın yan duvarlarına monte edilir.<br />
+Böylece daha sonra o bölge de benzeri yer altı çalışması yapacak kurumun cadde veya sokağı yeniden kazması, kapatması ve yeniden asfaltlama işlemine veya kaldırım taşı döşenmesine tekrar tekrar para harcanmasının önüne geçilmiş olur.<br />
+Bu sistem, belki ilk yapım sırasında maliyeti yüksek gelebilir ama hem, benzeri her kazı işleminde yapılacak kaynak israfının önüne geçilmiş olur, hem de kent insanlarının çektiği sıkıntılar önlenmiş olur.<br />
+Sanıyorum, bu tür yol kazısı yapacak kurumlar bozmak zorunda kaldıkları zemin için belediyelere ya bir bedel ödüyor veya yolun eski haline getirmekle yükümlü oluyorlar.<br />
+Bu nedenle, yer altı çalışması yapan kurumların tümü ile önceden bir protokol yapılarak bu sistemin giderlerine bu kurumlar ortak edilebilir.<br />
+Geçtiğimiz yıl Mecidiye Caddesi baştan sona kazılarak kanalizasyon sistemi yenilendi ve üst kaplaması da yeni baştan yapıldı.<br />
+Bu yılbaşından sonra başlayan bir çalışma ile Çiftlik Caddesi’ni AVM haline getirmek üzere, Lise Caddesi kavşağından Osmaniye Caddesi kavşağına kadar olan bölümü, tamamen kazılarak her şeyi ile yenilendi.<br />
+Bu çağdaş sistem eğer yenilenen bu iki caddede oluşturulmuş olsaydı, bu caddelerin bundan sonra bozulması ve yeniden onarılması savurganlığı yaşanmazdı.<br />
+Bu yöntem, belediyeleri sık sık bozulup yeniden yapılan cadde ve kaldırım düzenlemeleri yolu ile birilerine haksız kazanç sağlandığı vebali altında kalmaktan da kurtaracaktır.<br />
+Benim ki bir öneridir.<br />
+Yanlışları ve eksikleri olabilir. Ama belediyelerin kadrolarında ki mühendislerimiz inanıyorum ki bu önerinin eksiklerini gidereceklerdir.<br />
+Yeter ki, bir kent yaşayanı olarak bu önerim, en azından tartışmaya açılsın ve olabilirliği değerlendirilsin.<br />
+Başta Büyükşehir Belediye Başkanlığımız olmak üzere, tüm belediyelerimizin bu öneriyi geliştirerek dikkate alacağı umuduyla, sorunsuz bir hafta geçirmemizi diliyorum..07. 12. 2014</p>
+<p>Ecz. SADİ SUBAŞI</p>
+<p>şayia: yaygın söylentivuku: olma, oluş</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0722-suyuu-vukuundan-beter-olaylar.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0724-sahipsiz-kent-samsun-un-caresiz-i-nsanlari.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

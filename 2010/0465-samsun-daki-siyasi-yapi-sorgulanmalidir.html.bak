@@ -1,0 +1,420 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Samsun&#x27;daki Siyasi Yapı Sorgulanmalıdır.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Samsun&#x27;daki Siyasi Yapı Sorgulanmalıdır.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2010
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0465
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>SAMSUN’DA Kİ SİYASİ YAPI ÜZERİNE BİR<br />
+DEĞERLENDİRME.</p>
+<ol>
+<li>BÖLÜM<br />
+Geçen hafta ki yazım da Samsun’un önemli sorunlarının çözüm yerinin siyasi irade olduğunu belirtmiş, ancak Samsun’un siyaseten var olan sayısal gücünü iyi değerlendiremediğini yazmıştım.<br />
+O nedenle de, Samsun’da ki siyasi yapının hem iktidar, hem de muhalefet açısından her yönüyle sorgulanması gerektiğini vurgulamıştım.<br />
+Samsun’da yaşanan bu siyasi yetersizliğin artık tüm boyutları ile masaya yatırılmasının zamanının geldiğine inanıyorum. Yıllardır Samsun’un ihmal edilerek, Türkiye sıralamasında ki ilk sıralardan 35. sıralara yuvarlanmasında sorumluluğu olan tüm siyasetçilerin ve siyasi kimliğe sahip yerel yöneticilerin artıları ve eksileri irdelenmedikçe, Samsun’un geleceğine umut ışıkları yakılması olası değildir.<br />
+Gönül isterdi ki, böyle bir sorgulama sosyal ve siyasal bilimciler tarafından yapılsın. Ne yazık ki, bugüne kadar Samsun’un bence çok önemli bu sorununa bu açıdan yaklaşan ve sahip çıkan olmadı.<br />
+Geçte olsa, Samsun için son derece önemli olan bu sorunun, sosyal ve siyasal boyutlarının bir STK tarafından profesyonel bir araştırma kuruluşuna incelettirilmesini öneriyorum.<br />
+Yukarıda belirttiğim özelliklere sahip olmamama rağmen, yılların kazandırdığı siyasi ve sivil toplum deneyimlerimle dayanarak, bir başlangıç olması adına bu sorun üzerinde değerlendirme yapmak istiyorum.<br />
+Değerlendirmeme başlarken özellikle belirtmek isterim ki, Samsun’un yaşadığı bu siyasi yetersizliğin, sadece günümüzün sorunu olarak öne çıkartılmasının da haksızlık olacağını düşünüyorum. Bu sorun yıllara dayalı bir geçmişe sahiptir.<br />
+Bu sorunun, iktidar ve muhalefet açısından da ayrı ayrı değerlendirilmesi gerekir. Çünkü bu sorunda, iktidarların başarısızlığı kadar, muhalefet kanadının yetersizliği de önemlidir.<br />
+Samsun’un siyasi geçmişine baktığımızda, Samsunlunun yıllardır siyasi tercihini her zaman iktidara gelen partiden yana kullandığını görürüz. Bu nedenledir ki, Samsun seçim sonuçlarını da belirleyen il olarak anılmaya başlamıştır. Öyle ki, “Samsun’da seçimi kazanan parti, Türkiye genelinde de seçimi kazanır” söylemi adeta kural haline gelmiştir.<br />
+Çok kez söyledim, bir kez daha söyleyeyim. Sonuçta bu tercihin, bir kentin seçimden karlı çıkması açısından son derece doğru bir yaklaşım olması gerekir. Yani, iktidarın yanında olan bir ilin, bundan kent çıkarları adına büyük çapta yararlanacağı anlamı çıkar.<br />
+Oysa Samsun’a baktığımız da, tersine bir gerçekle karşı karşıya kalıyoruz. Her seçimde iktidar partisine en çok milletvekili veren illerin başında gelen Samsun, hemen hemen hiçbir dönem de bunun artılarını görememiştir. Hatta son 7–8 yıllık dönem de tam tersine, “ Mobil ve Termik Santral dayatmaları”, “Teşvik Yasası ve Cazibeli Kentler dışına itilmek” gibi uygulamalarla, adeta cezalandırılmıştır.<br />
+Bunların en büyük nedeni, Samsun’un sahip olduğu siyasi iradeyi kent çıkarına kullanamamasıdır. Çünkü dünden bugüne, Samsun’u TBMM’ de temsil etsinler diye seçtiklerimiz, seçildikleri partinin genel başkanına biat etmenin ötesine geçememişler ve bırakın Samsun’un çıkarlarını savunmayı, Samsun’un sorunlarını kendi genel başkanlarına dahi anlatamamışlar veya anlatabilme cesaretini gösterememişlerdir.<br />
+Samsun’un günümüzde ki siyasi yapısı incelendiğinde, geçmişte olduğu gibi hiç de umut verici gözükmemektedir.<br />
+İktidar partisi il teşkilatı, hükümetin de desteği ile tamamen yaklaşan seçimin hesaplarına yoğunlaşmış görünüyor. Kendi siyasi kazanımları açısından yapılanları çok da eleştiremeyiz ama bunların içinde Samsun’un kronikleşen sorunlarını olumlu etkileyecek bir projeye de rastlamak olanaksızdır.<br />
+Bu dönemde işsizliğe çare olacak hiçbir yatırım yapılmadığı gibi, bölgenin gelir kaynağı olan tütün ekimi bitirilirken, fındık ve şeker pancarı ekim alanları daraltılmış, buğday üretimi ise ithal buğdaya kurban edilmiştir.<br />
+Dönem başı verilen “Sus payı” niteliğinde ki paralarla köylü toprağından kopartılmıştır. Önceleri tatlı gelen bu paralarla toprağından kopartılan köylerin gençleri, bir süre sonra iş aramak üzere büyük kentlere gitmiş ve köyler boşalırken, traktörler brandalar altında kaderine terkedilmiştir.<br />
+Başta Ballıca Sigara Fabrikası olmak üzere Tekel, Azot ve Bakır gibi zaten sayısı az olan tesislerin özelleştirilmesi ile binlerce işçi işsiz kalmıştır.<br />
+Kent merkezi ile ilçelerde ise, denge tüm ülkede olduğu gibi fakir kesime dağıtılan yardım paketleri ve kömür ile sağlanmaya çalışılmaktadır.<br />
+Oysa ulufe gibi dağıtılan bu paralar ve yardım paketlerinin tutarları ile işsizliğe çare olacak yatırımlar yapılsaydı, binlerce gencimize ekmek kapısı açılmış olurdu.<br />
+Uzun bir aradan sonra bakanımız da olmasına rağmen, Samsun’un önemli herhangi bir sorununa çözüm bulunmuş gözükmemektedir.<br />
+Kendi içine ve geleceğine dönük bu siyasi çalışma ve her iktidarın yaptığı kadrolaşmayı belki kendi adına çok daha iyi yapan bir siyasi anlayışın, bundan önceki dönemlerde olduğu gibi Samsun’a vereceği çok fazla bir şey yoktur.<br />
+Olaya muhalefet cephesinden baktığımızda ise, bırakın Samsun’a katkı vermelerini, kendi üyelerine dahi moral verecek bir çalışmaları gözükmemektedir.<br />
+Samsun’da siyaset adına bence asıl sorun muhalefettedir. Siyaset yapmak adına muhalefet partileri açısından bugünkünden daha güzel ortam bulunamaz.<br />
+Hadi diyelim ki, iktidar partileri gözü kapalı her seçimde oy veren bir kente karşı, kendilerini bir şeyler yapmaya zorunlu hissetmemektedirler.<br />
+Peki, iktidarların bu kente karşı görevlerini yerine getirmemeleri, muhalefet partileri için bulunmaz fırsat değil midir?<br />
+Samsun bugün ekonomik sıralama da 35. sıralara yuvarlanmış mı?<br />
+Samsun’da ki işsiz sayısı, birçok doğu ilinin de üstüne çıkmış mı?<br />
+Samsun, bölgemizde Teşvik Yasası dışında bırakılma ayıbının yaşatıldığı tek il damgasını yemiş mi?<br />
+Samsun, verilen sözlere rağmen, “Cazibeli Kentler” dışın da bırakılmış mı?<br />
+Eğitimi çökmüş, ülke genelinde ki orta öğretim ve üniversiteye giriş sınavların da, Türkiye’nin geri kalmış illerinin dahi altına düşmüş mü?<br />
+Beş yıldızlı tek otelinin sorununu dahi çözemeyerek, 2,5 yıl kapalı kalmasına göz yumulmuş mu?<br />
+Koskoca kent, yeşil kart rekortmeni il haline düşürülmüş mü?<br />
+Tek markası Samsunspor kaderine terkedilmiş mi?<br />
+Samsun’un kirli yatırımların merkezi haline getirilmesine seyirci kalınmış mı?<br />
+Samsun’un geleceğine büyük bir borç yükü bırakacak, güzergâhı ve önceliği ile çok tartışmalı bir “Raylı Sistem” olayı yaşanmış mı?<br />
+Samsun’un adı, ulusal medya da cinayet, yaralama, tecavüz, gasp ve dolandırıcılıkla anılır hale gelmiş mi?<br />
+Hadi burada bir nokta koyalım ve daha fazlasını söylemeyelim<br />
+ve soralım.<br />
+Bir muhalefet partisi için, muhalefet yapmak adına<br />
+bundan daha güzel bir ortam olabilir mi? Seçim kazanmak için bundan daha hazır bir zemin bulunabilir mi?<br />
+Böylesine her şeyin muhalefetin lehine gözüktüğü Samsun’da ki muhalefet partilerinin Sayın İl Yöneticileri ve Sayın Milletvekilleri, söyler misiniz, nerelerdesiniz?<br />
+Samsun’un hangi sorunu için bayrak açtınız?<br />
+Hangi sorununa sahip çıktınız? Hangi sorun için bir komisyon kurarak rapor hazırladınız.<br />
+Yukarıda ki sorunların hangisi için Samsunlunun önüne düşerek hesap sordunuz?<br />
+Bir sivil toplum kuruluşu kadar dahi etkin olamıyorsanız, o koltuklarda neden oturuyorsunuz?<br />
+Mobil Santraller Samsun’un başına bela olunca, STK’lar oluşturduğu “Çevre Birlikteliği” ile bu santrallere mühür vurdururken, sizler ne yaptınız? Sizler de bir komisyon kurarak en azından bilimsel bir rapor hazırlayamaz mıydınız?<br />
+“Teşvik Yasası” dışında bırakıldığımızda hanginiz karşı koydunuz?  “Teşvik Birlikteliği’nin” hazırladığı elimizi güçlendiren rapora destek mi verdiniz? TBMM’de Samsun’u başka illerin vekilleri savunurken sizler neredeler deydiniz?<br />
+DSİ 7. Bölge Müdürlüğü’nün KUMKÖY Hidroelektrik Santrali’nin satışında hazinenin uğratıldığı zararı, titiz bir araştırma ile ortaya çıkaran ESM ( Enerji Sanayi ve Maden Kamu Emekçileri Sendikası) Samsun Şubesi’nin gösterdiği çabayı, muhalefet partileri olarak neden sizler gösteremediniz? Aslında bu sizlerin görevi değil miydi?<br />
+Seçimler kapıya dayanınca, Samsunludan nasıl oy isteyeceksiniz? Oylarını isteyebilmek için ne yaptınız?<br />
+Bu anlayış ve yönetim tarzı ile STK’ların dahi gerisinde kaldığınızın farkında değil misiniz?<br />
+Ana Muhalefet Partisi’ne bakıyorsunuz, iki milletvekili kendi<br />
+aralarında barışık değil. Samsunlunun sevip bağrına bastığı<br />
+milletvekili genel başkanına biat etmediği için dışlanmış. Bir kez<br />
+daha aday gösterilmeyeceğini ve parti içi demokrasi olmadığı<br />
+için ön seçimde yapılmayacağı için, bir kez daha aday olma<br />
+şansı kalmadığını gördüğü için olacak, biraz kırgın, biraz<br />
+küskün kenara çekilmiş.<br />
+Diğer milletvekili ise, Genel Başkanına biat etmenin<br />
+sorumluluğu ile vekilliği bir yana itmiş, koltuklara kendilerine oy<br />
+vermeyecek birileri oturmasın diye, kendisini il teşkilatını<br />
+yönetmeye adamış. Her geçen gün küskünlerin sayısını<br />
+artırmakla meşgul.<br />
+Kendilerinden farklı düşünen partililerine partinin<br />
+kapılarını kapatan ve bu siyasi anlayış nedeniyle, partili<br />
+olanların bir kısmının dahi oy vermediğini görmezden<br />
+gelerek yapılan siyasetin, ne Samsun’a, ne de Ana<br />
+Muhalefet partisine bir yararı olacağını sanmıyorum.<br />
+Üzülerek söylemek gerekirse, ülkede rejim endişelerinin<br />
+yaşandığı bir dönem de, dar kadroculuk ve biat esasına dayalı<br />
+siyaset yapılarak yalnız Samsun’un değil, ülkemizin geleceği<br />
+açısından da büyük bir sorumsuzluk örneği sergileniyor.<br />
+En çok ihtiyacımızın olduğu günlerde bütünleşmenin<br />
+önünü keserek ve söylemlere dayalı muhalefetle<br />
+yetinilerek ülkenin ve Samsun’un alternatifsizlik<br />
+çıkmazına sokulması, ülkemiz ve Samsun adına<br />
+yaşanan en büyük şansızlıktır.<br />
+Muhalefetin 2. büyük partisinin de ana muhalefet partisinden<br />
+çok farklı bir görüntü verdiğini söylemek mümkün değil. Buna<br />
+rağmen, tek milletvekili ile sınırlı da olsa, Samsun’un sorunlarını<br />
+TBMM’ne taşıdığını da yok saymamak gerekir.<br />
+Kendi içyapısında daha fazla disiplinin hâkim olduğu<br />
+gözlenen MHP’nin il düzeyinde medyayı kullanarak yaptığı<br />
+açıklamaların çok etkin olduğu söylenemez.<br />
+Muhalefet adına belki de yapılacak en doğru yorum,<br />
+muhalefet partilerinin bazı STK’lar kadar dahi etkin<br />
+olamadıkları gerçeğidir.<br />
+Bu arada bir parantez de kentin yerel yöneticilerine açmak gerekir. Samsun’un en kronik sorunlarından birisi de, kent yönetimine talip olan yerel yöneticilerimizin Samsun’u yönetmekten öteye, Samsun’a ve Samsunluya sahip çıkma sorumluluğunu gösterememiş olmalarıdır.<br />
+Samsun’un uğradığı her haksızlıkta kente ilk sahip çıkması gereken kişi, bu kentin hamisi konumunda olan Büyükşehir Belediye Başkanıdır. Ne yazık ki, bu kural Samsun’da hiçbir dönem de geçerli olmamıştır. O nedenle de Samsun ,“Sahipsiz Kent” olarak anılır hale gelmiştir.<br />
+Bu olumsuzlukların doğal sonucu olarak işsizlik, iletişimsizlik, koordinasyon bozukluğu ve bir araya gelememek Samsun’un kaderi olmuş.<br />
+Değerli okurlarım, yazımın bu bölümünde hoşgörünüze sığınarak Samsun’da ki siyasi yetersizliğin bir analizini yapmaya çalıştım. Yazımın 2. bölümünde ise sorunun sonuçları ile bu konuda ki önerilerime yer verdim.<br />
+Yarın 2. bölümde buluşmak üzere, haftanızın güzel başlamasını diliyorum. 07 Mart 2010</li>
+</ol>
+<p>SADİ SUBAŞI</p>
+<p>SAMSUN’DA Kİ SİYASİ YAPI ÜZERİNE BİR<br />
+DEĞERLENDİRME..</p>
+<ol>
+<li>BÖLÜM</li>
+</ol>
+<p>Değerli okurlarım, yazımın dünkü bölümünde Samsun’da ki siyasi yapının bir analizini yapmıştım. Bugün de sizlerle olayın sosyal ve siyasal sonuçları ile bu konuda ki önerilerimi paylaşacağım.<br />
+SONUÇ:<br />
+Samsun’da iktidar partileri sahip oldukları sayısal ve siyasi gücün farkında olarak bu gücü Samsun’un çıkarları için kullanamamaktadırlar. STK’lar ile işbirliği yaparak onların birikimlerini ve onların Samsun’un çıkarları doğrultusun da koydukları haklı tepkileri, sorunların hükümet düzeyinde çözümünde koz olarak kullanamamaktadırlar.<br />
+Muhalefet partileri ise böylesine çok sorunu bulunan bir kentte dahi, karşı politikalar oluşturamamakta, sorunlar için çözüm yolları ve formülleri üretememekte, STK’ların var olan tespit ve birikimlerinden yararlanmayı becerememektedirler.<br />
+Samsun’da ki siyasi partiler, sahip oldukları siyasi gücü de yeterince değerlendirememektedirler. Arkalarında ki siyasi güce rağmen, STK’lar kadar dahi Samsun çıkarına politikalar üretememekte ve etkin olmamaktadırlar.<br />
+Samsun’un sorunlarının çözülmesi adına bırakın iktidar ve muhalefet milletvekillerinin ortak hareket etmesini, kendi aralarında dahi birliktelikten ve ortak çalışmadan söz etmek mümkün değildir.<br />
+Doğal olarak, iktidarı ve muhalefeti ile Samsun’un önemli sorunlarında ortak güç oluşturamayan bir siyasi yapıdan, Samsun’a sahip çıkmasını beklemek ve bir siyasi iradenin varlığından söz etmek mümkün değildir.<br />
+Yıllardır, Samsun kendisine dayatılan her olumsuzlukta ve uğradığı her haksızlıkta ( 1. bölümde belirtilen) seçtikleri ve atananlar tarafından yalnız bırakılmıştır. “ Sahipsizlik” adeta Samsunlunun kaderi olmuştur.<br />
+ÖNERİLER:<br />
+Siyasi partilerin yerel teşkilatları (İl ve ilçe yönetimleri ile alt birimleri) partilerin mutfağıdır. Burada parti programı doğrultusunda yerel sorunların çözümü için projeler üretilmeli ve gerektiğinde sorunların aşılabilmesi için Genel Merkezlere taşınmasına yönelik çalışmalar yürütülmelidir.<br />
+Bu konuda iktidar partilerinin yerel teşkilatları çok daha avantajlı olup, bir o kadar da fazla sorumluluk taşırlar. Çünkü arkalarında hükümet desteği vardır. Samsun’da hemen her dönem, iktidarların arkasında Samsunlunun büyük bir oy desteği olmuştur. Bu nedenle iktidar partisinin Samsun teşkilatının bu oy desteğini hükümet düzeyinde çok iyi kullanması gerekir.<br />
+Bu konuda, yerel STK’lar arasında ayırım yapmaksızın onların ortaya koydukları projelere duyarlı olmalıdırlar. Kendilerine ters gelse dahi Samsun’un çıkarına olacak projelere kapılarını kapatmamalıdırlar. Yine onların, kentin çıkarlarına ters düşen durumlarda sergileyecekleri karşı görüşleri dahi dikkate almaları gereklidir. Ortak paydanın Samsun ve Samsun’un çıkarları olduğunda, hiçbir partinin karşı koymak gibi bir lüksü olamaz.<br />
+Siyasi parti yerel teşkilatlarının bir başka çok önemli görevi de, koltuklarını korumak adına dar kadroculuk anlayışından uzaklaşarak politika üretmeleridir. Yapılacak en doğru siyaset, “ Bir sonraki seçimde kimleri partime kazandırır ve kimleri aday yaparsam seçimi kazanırım? Kimleri Samsun’un yönetimine veya temsiline seçtirirsem, partim ve Samsun bundan karlı çıkar?” Anlayışının uygulanmasıdır. Bu açıdan bakıldığında yapılması gereken doğru şey, siyasi partilerin il, ilçe teşkilatlarında gerek başkan ve gerekse yönetimlerinde görev alanların ilk seçimde hiçbir göreve talip olmamalarıdır. Ancak böylece parti dışında kalmış, kendi siyasi misyonlarını taşıyan çok deneyimli ve birikimli insanların partiye kazandırılması mümkün olur.<br />
+Yerel siyaset yapılırken kentlilik bilinci en öne çıkmalı ve bu ilke etrafında tüm siyasi partiler Samsun’un çıkarları doğrultusun da birleşmeli, hatta gerektiğinde parti politikalarına ters düşmeyi göze alabilmelidirler.<br />
+Son 30 yılda hemen her konuda kan kaybeden Samsun’un ana sorunlarına çözüm bulabilmek için, tüm siyasi partilerin içinde yer alacağı bir karma komisyon kurmaları yararlı olacaktır. Bu komisyon, parti politikalarının üzerine çıkarak her kurum ve kuruluşun bilgi ve deneyimlerinden yararlanmalıdır. Bu birlikteliğin oluşturulmasında çok geç kalınmıştır. Artık Samsun’un kaybedecek zamanı yoktur. Zararın neresinden dönersek, o da kardır. Kentin Valisi ve Büyükşehir Belediye Başkanı’nın bu birlikteliğe öncülük etmesi işleri kolaylaştıracaktır. Bu konuda, özellikle kent yöneticileri ile siyasi partilerin “Bu kentte birliktelik yok” deme hakları yoktur, olmamalıdır da.<br />
+Kentimizin seçilmiş ve atanmış en üst düzeyde ki yöneticileri ile Siyasi Parti il ve ilçe yöneticilerinin Samsun’un çıkarları ve zararı söz konusu olduğunda, ödünsüz ortak tavır sergilemesi Samsun’un sorunlarını aşabilmesinin ilk adımıdır. Tam tersine, bugüne kadar olduğu gibi siyasi geleceklerini öne çıkartarak uzak durmaları ise, bu kentin kötü kaderinin devamına neden olacak ve onlarda dünküler gibi Samsun’un kötü gidişinden sorumlu olacaklardır.<br />
+Siyasi partilerimiz, bu anlayışı sergileyememeleri halinde, hiçbir yaptırım gücü olmamasına rağmen STK’ların sağladığı birlikteliğin ve yargı yoluyla da olsa kentin çıkarları adına gösterdikleri başarının gölgesinde kalmayı sürdüreceklerdir. Bu da Samsunlunun, siyasetçilerimize olan güvensizliğini artırmaktan başka bir işe yaramayacaktır.<br />
+Bu kentte yaşamaktan mutluysak, bu kentte daha güzel bir ortam da yaşamak, çocuklarımızın eğitimleri sonrası bu kente dönmesini istiyorsak, yukarıda sıralanan doğruların yapılması için her birimizin çaba harcaması, kentlilik bilincinin gereği olarak zorunludur.<br />
+Bizi yönetmek veya temsil etmek üzere seçtiklerimizi yakından denetlememiz, yaptıkları doğru işlerde destek verip alkışlarken, yaptıkları yanlışlar için çekinmeden karşı çıkmamız gereklidir.<br />
+Kişisel dostluklarımızın gölgesinde kalarak bu uyarı görevlerini yapmamamızın, bu kentin geleceğine vurulmuş bir pranga olacağını, hata yapanların hatalarında ve günahlarında bir Samsunlu olarak payımızın bulunacağını unutmamamız gerekir.</p>
+<p>LÜTFEN, BU KENTİN VAR OLAN MÜTHİŞ OLANAKLARININ ARTIK FARKINA VARALIM. EL BİRLİĞİ İLE SİLKİNELİM VE SORUNSUZ, YAŞANABİLİR BİR SAMSUN’U GELECEK KUŞAKLARA BİRLİKTE ARMAĞAN EDELİM.</p>
+<p>VAR MISINIZ?</p>
+<p>yi haftalar dileğiyle. 08 Mart 2010<br />
+SADİ SUBAŞI</p>
+<p>Bugünkü sorum; Petrobras Petrol Arama Firmasına, Samsun Limanı’nda neden yer verilmedi. Verilmemesi için özel bir neden var mıydı? İnebolu’lar ne yaptı da, bölgenin en büyük kenti Samsun’a tercih edildiler?</p>
+<p>LÜTFEN! Kentlilik bilincinin gereği olarak Samsun’da üretilen ürünlere sahip çıkalım. Her gittiğimiz işyerinde bu ürünleri tercih edelim. Satmayan işyerlerinden de ısrarla bu ürünleri isteyelim.<br />
+“SAMSUN’DA VAR. SAMSUN İÇİN AL.”<br />
+KAMPANYASINA<br />
+Sayın su\başı<br />
+Sayın Subası çok güzel yazıyorsun, altına tereddütsüz imzamı atarim, çok önemli konulara deyiniyorsun.  Fakat anlamadigim, siz boyle yaziyorsun ama Samsunun markasi olan samsunspora sizi yonetim kadrosuna yazilmasini cok gorup gemiyi once terk eden birisi olarak, simdi bu yazdigin nekadae gercekci oluer, bunun taktirini Samsun halkina birakiyorum. bu samsunumuz herkonuda sansiz bir kaderidir.</p>
+<p>SAHİP ÇIKALIM.</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0464-siyasetin-coktugu-bir-kentte-hicbir-konuda-basari-beklenemez.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0466-i-ste-sivil-toplum-kurulusu-i-ste-ornek-proje.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

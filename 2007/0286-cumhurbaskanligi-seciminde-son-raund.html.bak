@@ -1,0 +1,295 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Cumhurbaşkanlığı Seçiminde Son Raund…</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Cumhurbaşkanlığı Seçiminde Son Raund…
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2007
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0286
+
+</div>
+
+
+<div class="article-content">
+
+<p>CUMHURBAŞKANLIĞI SEÇİMİNDE SON RAUND..</p>
+<p>Aylardır süren bir tartışmanın artık sonuna geldik. İktidar partisinin adayını açıklaması ile bu işin ilk raundu bitecektir. Belirlenecek adayın seçilmeme ihtimali olmadığına göre, seçim sonucundan çok ondan sonraki gelişmeler çok daha önem kazanmıştır. Öncelikle şunu belirtmek istiyorum. Bir yerel TV kanalında katıldığım tartışma programında da altını çizdiğim gibi, meclis çoğunluğunu elinde bulunduran bir iktidarın kendi içersinden aday göstermesi kadar doğal bir şey yoktur. Ancak işte sorun da bu noktada başlamaktadır. Olaya aşağıda ki pencereden bakılabilmiş olsaydı, sanıyorum bugünkü gergin ortam yaşanmamış olacaktı.<br />
+Cumhurbaşkanlığı makam, tüm Türk halkını kucaklama gereğinin ve ülkemizi her platformda bu çerçevede temsil etmenin yanında, ordumuza başkomutanlık yapmak gibi çok önemli sorumluluklar taşımaktadır. Bu nedenlerle hemen her kesimin ısrarla üzerinde durduğu husus seçilecek Cumhurbaşkanının ortak bir uzlaşmayı sağlayabilmesidir. İşin püf noktası da burada ortaya çıkmıştır. Bırakın toplumun beklediği uzlaşma ortamının sağlanmasını, tartışmalar toplumu gerecek boyutlara ulaşmıştır. Gerek iç ve gerekse dış sorunlar nedeniyle çok hassas bir dönemden geçen Ülkemizin böylesine bir tartışma ve cepheleşme ortamına sürüklenmesine neden olan hem iktidar, hem de muhalefet cephesinin büyük sorumluluğu vardır.<br />
+Özlenen ve toplumu rahatlatacak yol, iktidar ile muhalefetin bir araya gelmesi ve doğal olarak iktidarın önerilerine öncelik verilerek ortak bir adayın belirlenmesiydi. Bunun dışında, iktidarın kendi adayında kararlı olması durumunda ise, izlenmesi gereken yol ise, bu günkü belirsizlik ve papatya falları açtıracak kadar toplumu birazda hafife alıyormuş görüntüsü veren karmaşa ortamı olmamalıydı. Aday çok önceden belirlenmeli ve bu aday toplumu rahatlatacak açıklamalarla ve muhalefetle bazı sorunları paylaşarak bugünkünün aksine, yumuşak bir siyaset güderek Cumhurbaşkanlığı seçim sürecini tamamlamalıydı. Böylesine bir ortam sağlanması için adımlar atılabilseydi, muhalefet destek vermese dahi iktidar adayı bugünkü kadar zorlanmazdı. Onun yerine bugünkü yol izlenince karmaşa ortamı doğdu ve senaryolar da birbirini izlemeye başladı. Anayasa hukukçuları 367 çoğunluk sayısında yeni bir tartışma nedeni ortaya attılar. Toplumun bir kesimi Laik ve Çağdaş Cumhuriyetin ilkelerinden uzaklaşıldığı endişesine kapıldı. Bunun sonucu olarak cumhuriyet döneminin en büyük ve en temiz 14- Nisan mitingi ile bir milyon civarında insan endişe ve beklentilerini Tandoğan Meydanı ve Anıtkabir’den tüm Türkiye’ye haykırdı.<br />
+Bundan sonra ne olabilir sorusuna cevap ararsak önümüze şu olasılıklar çıkmaktadır. Eğer iktidar şu ana kadar sağlanamayan uzlaşma beklentileri dışında, meclis çoğunluğuna güvenerek kendi adayını meclise sunarsa seçimi kazanacağı kesin gözükmektedir. İşte asıl sıkıntı ve tartışma ondan sonra çıkacaktır. Muhalefet 367 sayısı bulunmadan meclisin toplanmasını ve oylamaya geçilmesini büyük bir olasılıkla Anayasa Mahkemesine taşıyacaktır. Bu gelişmeler bir belirsizlik ortamı yaratacak ve tartışmalar toplumu iyice bunaltacaktır. Bu ortamda seçilecek bir Cumhurbaşkanı, sanıyorum eski Cumhurbaşkanlarından Özal’ın karşılaştığı benzer sıkıntıların belki daha da fazlası ile karşı karşıya kalacaktır. Hele, hele seçilen Cumhurbaşkanı, tüm tartışmaların asıl nedeni olan Laik ve Çağdaş Cumhuriyet ilkelerinden ödün verecek bir takım yasal düzenlemelerin önünü açarsa, bundan tüm Türkiye çok büyük zarar görür endişesini taşıyanlara katılıyorum.<br />
+Tüm bu olanlara ve tartışmalara rağmen, ben son dakikada da olsa,   sağduyunun hâkim olacağı iyimserliğini de gözden uzak tutmuyorum. Sayın Erdoğan’ın son günlerde ki sürpriz içerikli konuşmalarından da güç alarak şöyle bir senaryoyu yaşamamızı diliyorum. Beklentim, SAYIN ERDOĞAN’IN TOPLUMDAN GELEN İSTEK VE TEPKİLERİ DE DEĞERLENDİREREK TÜM KESİMLERİN KABUL EDEBİLECEĞİ, REJİM ENDİŞELERİNİN YAŞANMAYACAĞI GÜVENCESİNİ VERECEK BİR ADAYI SÜRPRİZ YAPARAK SUNMASIDIR. Bunu yaparken da bu yolu izlemesini, muhalefetin dediğini yapmamış olmak ve kendi iradeleri ile adayı belirledikleri mesajını vermek istemeleri gibi çok haklı bir nedene bağlıyorum. Bazılarının “amma da safmışsın” dediklerini de duyar gibi oluyorum. Olsun, böyle bir güzelliği düşünmek ve hayal etmek dahi güzel. Ülkemizde de böyle güzel siyasi sürprizleri yaşasak kötü mü olur? Her şey bir tarafa, Cumhurbaşkanlığı seçiminin sağlıklı geçmesini ve seçilecek Cumhurbaşkanının hepimizin Cumhurbaşkanı olacağını düşünerek en iyisinin seçilmesini diliyorum.<br />
+Yazımın son bölümünde kısaca geçen hafta yaşanan şok gözaltı olayına değinmek istiyorum. Samsun geçtiğimiz hafta ortası şok bir operasyonla sarsıldı ve Türkiye gündemine bir kez daha hiçte istenmeyen bir haberle oturdu. Olayın ilk şoku geçince işin çok boyutlu bir soruşturma olduğu ve Cumhuriyet Başsavcısının denetiminde jandarma ve polis timleri ile yürütüldüğü anlaşıldı. Çok kişi gözaltına alındı. Bunların içersinde Büyükşehir Belediye Başkanlığının üst yöneticileri yanında tanınmış işadamlarının ve AKP’nin bazı yöneticilerinin olması soruşturmanın boyutlarını gösteriyordu. Sonuçta bir kısmı adliyeye sevk edilerek haklarında tutuksuz yargılanmak üzere dava açılırken diğerleri serbest bırakıldı. Ben gözaltına alınanların çoğunun bilgisine başvurulmak üzere çağrıldığına inanıyorum. Bu nedenle adı geçen tüm dostlarıma geçmiş olsun diyorum. Beni üzen, bazılarının Samsunspor’a yapılan yardımları, suç teşkil eden diğer bazı uygulamalara kılıf yapmaya çalışmasıdır. Samsunspor bu kentin markasıdır. O’na, bu kentte özellikle yerel yöneticilerin kaynak yaratmasından doğal bir şey olamaz. Zaten soruşturma sonucunda da böyle bir suçlama yapılmamıştır. Haklarında dava açılanların da aklanması tüm Samsunluların en büyük dileğidir.<br />
+İyi haftalar dileğiyle.. 22-Nisan–2007<br />
+SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0285-14-nisan-mitingi-ve-ortaya-cikan-aymazliklar.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0288-misyonerlik-faaliyetlerinin-hatirlattigi-gercek.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Sporun Vebası Şike ve Olaya Samsunspor Açısından Bakış…</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Sporun Vebası Şike ve Olaya Samsunspor Açısından Bakış…
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2006
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0265
+
+</div>
+
+
+<div class="article-content">
+
+<p>SPORUN VEBASI ŞİKE<br />
+VE OLAYA SAMSUNSPOR AÇISINDAN BAKIŞ..</p>
+<p>Tüm dünya da sporun başına bela olan şike, veba gibi girdiği yerde büyük tahribat yapıyor. Ancak hastalığın tedavisi biliniyor ve bu hastalıktan rahatsız olan ülkeler hastalığı en kestirme yoldan tedavi ediyorlar. Geçen sezon sonu benzer şike olaylarının yaşandığı İtalya da şike depremi ile sarsılmıştır. İtalya futbol Federasyonu olaya hemen el koymuş ve yaraya kangren olmadan neşteri vurmuştur. Çok kısa süre de tamamlanan soruşturma ile İtalya’nın en namlı kulüplerini hiç gözünün yaşına ve taraftarının çokluğuna bakmadan 2. lige düşürmüş, bazılarının ise onlarca puanını düşürerek 1. lige başlama cezası vermiştir. Sorumlu yöneticilerinin ise futbol yaşamını bitirmiştir. Benzer olaylar ve sonuçları diğer Avrupa ülkelerinde de yaşanmıştır.  Bu ülkelerde de adı şikeye karışan takımlar ve sporcular en ağır şekilde cezalandırılmıştır. Oysa durum bizde böyle midir?<br />
+Yıllardır şike söylentilerinin ayyuka çıktığı, isimlerin dahi söylenebildiği bir ortamda yapılan hiçbir işlem yoktur. Topu herkes birbirine atarak olayların üzeri küllendirilmekte ve zaman aşımı denen yeni moda bir nevi af uygulaması ile olaylar örtbas edilmektedir.<br />
+Kimi kime şikayet edeceksiniz? Suiistimaller ülkesi haline gelen Türkiye’de balık baştan kokmuştur. Bize örnek olacak ve haklarımızı korumak üzere seçtiğimiz  siyasetçiler, hatta bakanlar bu pis işlerin içinde olduğu sürece, fakir fukaranın hakkını gasp eden ister siyasetçi olsun, isterse sporu yönetenler olsun, bu ülkede  pis işler aydınlanamaz. Son günlerde geçmişin bir orman bakanının nasıl ormanların katledilmesine göz yumduğu ve ne büyük boyutlu çıkarlar sağladığı ortaya çıkmıştır. Daha orman katliamının başlamadığı o günlerde, bu konuda belgelerle olayı kamuoyuna duyuran gazeteci ve siyasetçilere rağmen ihbarlar göz ardı edilmiştir. Hatta suç duyurusu yapanlar tazminat ödemeye mahkum edilmişlerdir. Seyredin göreceksiniz, hakkında ki suçlama bugün kesinlik kazanmasına rağmen bu eski bakana ve suç ortaklarına hiçbir yaptırım uygulanabilecek mi ?<br />
+Gelelim son şike  ve teşvik primi olayına; Hem Star TV deki Serhat Uluergin’in “ Tele Gol “ programını, hem de iki gün sonra yayınlanan      M. Ali Birand’ın “32. Gün Programını” başından sonuna kadar izledim. İlk programda ki iddiacı Cihan Oskay’ın çok güvenilir birisi olmadığı ve bir şeylerin peşinde olduğu belli. Ancak kesin olan bir şey var ki, o da kendisine birilerinin görev verdiği gerçeği. Anlattıklarının tümü düzmece olarak iddia edilse dahi, aradan beş sene geçtikten sonra, ilişki kurduğu bu kişileri arayıp onlara aralarında geçenleri teyit ettirmesi mide bulandırıyor. Aksi halde  düzgün adam olduğu söylenen bir kulübün başkanı ve adı olaya karışan sporcuların, aradan geçen  beş sene sonrası telefon ile arandıklarında , “ sen neler saçmalıyorsun? benimle böyle bir şey ne konuşuldu , ne de ben seni gördüm” demesi gerekmez miydi? Oysa, telefon ile arananlarla aralarında yakın tanışıklık olduğu ve bu olayları doğrulayan bir şeylerin geçtiğini doğrulayan konuşmalar geçmiştir.  32. Gün programına katılan  eski bir Fenerbahçe başkanının, FB ve olaylara adı karışan FB başkanını aklama çabasına girmesi, hatta üç büyük kulüp başkanının ona gidip destek vermelerini istemesi  ve bunun üç büyüklerin çıkarı için şart olduğunu söylemesi düşündürücüdür. Şike Tahkik Komisyonu Başkanı Yılmaz Tokatlı’nın dediği gibi olay yok kabul edilemez. Yıllardır devam eden şike dedikoduları artık aydınlığa çıkartılmalıdır. Bu gün meclis aritmetiğinde istediği her yasayı çıkartabilecek bir hükümet iş başındadır. Eğer yasalar da boşluk varsa, bu bir gün de, bir yasa teklifi ile düzenlenebilir. Tabii, buna üç büyüklere angaje olmuş, fanatik taraftarlıklarını apaçık sergileyen siyasi liderler ile askeri ve mülki yöneticiler ne kadar destek verir, orası meçhuldür. Bir an için, üç büyüklerinde küme düşebileceği ve bir Anadolu takımının şampiyon olabilmesinin normal karşılanacağı ana kadar bunun mümkün olacağına inanmıyorum. Üç büyüklerin yöneticilerine sivil ve askeri ihalelerin nasıl verildiğini, bu yolla üç büyüklere sağlanan olanaklarla nasıl bir haksız rekabet ortamının yaratıldığını artık bilmeyen kalmamıştır. Üç büyükler için her şey serbesttir. Federasyonlar tarafsız kalamamaktadır. Bu şartlarda kalmaları da mümkün değildir.<br />
+Artık olaylar üstü örtülemeyecek hale gelmiştir. “Şüyuu vukuundan beterdir” diye bir halk deyimimiz vardır. Bunun anlamı, bir olayın söylentisi aslından kötüdür, demektir. Bu iddialar takip edilmez, üzerine giderek suçlular hangi takım olursa olsun gerekli cezalara çarptırılmaz ve söylentiler sürerse, korkarım çok yakında olaya UEFA’ nın da olaya el koyması ve beklide Türk Futbol Federasyonuna önemli yaptırımlar uygulaması kaçınılmaz hale gelecektir. Benim artık  bu liglerde hiçbir takımın hak ederek şampiyon olduğuna ve küme düşenlerin de hak ettikleri için düştüğüne inancım kalmadı.<br />
+Olayın Samsunspor cephesine gelince; Üç büyüklerin sürekli kollandığı bu olaylarda arada yıpratılan, ne yazık ki Samsunspor gibi Anadolu kulüpleri olmaktadır. Son 4-5 yıldır fikstür gereği sezonun son maçlarında hep riskli maçlar oynamak şanssızlığına uğrayan Samsunspor sonuçlar ne olursa olsun bazı söylentilerin odağı haline gelmiştir. Sporun içindekiler olarak kesinlikle biliyoruz ki, hiçbir şaibemiz olmayan maçların soncuna göre, düşen takımların diyeti dahi  Samsunspor’a çıkartılmıştır. TV spor programlarının adı büyük yorumcuları!  üç büyüklerin rezilliklerine laf dahi söyleyemezken, Samsunspor’a kara çalan sözleri ile bu çirkin iftiralara zemin hazırlamışlardır. Oysa söylentilerin aksine Samsunspor adına o kadar çok olumlu örnek vardır ki, bunları dahi göz ardı ediyorlar.  Bu işlere bulaştığı iddia edilen  bir takımın,  o günlerde  başkanı olan İsmail Uyanık , o sezonun son Diyarbakırspor maçı öncesi ve maça iki gün kala Diyarbakırspor adına takım içersinde telkinlerde bulunduğu  iddiası üzerine, Ergin isimli futbolcusunun lisansını tek taraflı iptal edip kovar mıydı? Geçen yıl Başkan Adnan Ölmez, kendisine maçı vermeyi teklif eden Ankaragücü yöneticilerini reddedip, olayı federasyona bildirir ve takımının küme düşmesine zemin yaratır mıydı? Son günlerin gündemde ki olayı da  5 yıl önce olmuştur. O maçı izleyen birisi olarak söyleyeceğim tek söz, o maçta kesinlikle bir şaibenin olmadığıdır. Samsunspor’un o maçta ki şanssızlığı, ununu elemiş bir takım olarak belki yeterince o maça konsantre olamayışıdır. Kaldı ki, sezonun sonunda şampiyonluk turu atmayı hedefleyen FB taraftarlarından gelen büyük bilet talebi üzerine, maraton tirübünün FB taraftarlarına tahsis edilmesi dahi taraftarlarımızdan  büyük tepki almıştı. Belki de o maçın tek yanlışlığı bu idi. Buna neden de, o dönemin yöneticilerinin tamamen iyi niyetle yaptıkları bir uygulamanın, ileride nasıl kötüye yorumlanabileceğini görememiş olmalarıdır. Yoksa bu maçta adı kullanılan Yücel Uyar’a yapılan büyük haksızlıktır. Bu takım bu pis para işlerine bulaşmış olsaydı ne bu günkü gibi borç batağında olur, ne de küme düşerdi.<br />
+Beni bu son olayda üzen tek şey, Yücel Uyar’a eski futbolcularımız Ertuğrul Sağlam ve Ercan Koloğlu ile şimdiki Başkanımız Sayın Mahzar Başoğlu destek verirken o dönemin yöneticilerinden hala ses çıkmamış olmasıdır. Tüm karışık işlerde adı öne çıkan bu büyük kulübün güçlü lobisi, ona angaje olmuş yaygın basının anlı, şanlı kalemleri ile fanatik taraftarı olduklarını saklamaya gerek dahi duymayan siyasi ve mülki yöneticilerin bir şekilde bu kulübü aklamasından korkuyorum. Ama sahipsiz Samsunspor’un, bu takımın içini ve olaylara bulaşmayacak kadar temiz yönetildiğini bilemeyecek Türkiye kamuoyu vicdanında zan altında kalmasından açıkçası endişe ediyorum.<br />
+Bence bu işin en önemli yanı, eğer olayların üzerine gidilmez ve olaylar gün ışığına çıkartılmazsa, hem Fenerbahçe’nin ve ne yazık ki hem de liglerin belki de en temiz takımı olan Samsunspor’un imajının ciddi yaralar alacağıdır.<br />
+Milletvekili Sayın Kemal Kılıçtaroğlu önceki gün TBMM ne şike davalarını kısa sürede çözüme ulaştıracak yeni bir yasal düzenleme yapılabilmesi için yasa teklifi vermiştir. Umarım temiz toplum, temiz yaşam özlemi ile yanıp tutuşan bu milleti umutlandıracak ve belki de diğer yolsuzlukların da önlenmesine zemin yaratacak bu yasa teklifine tüm milletvekilleri ve hükümet destek verir.<br />
+Güzel ve sağlık dolu günler dileğiyle.. 03-ARALIK-2006<br />
+Ecz. SADİ  SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0264-samsun-tersanesi-ve-yapilan-siyasi-yanlislar.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0266-samsun-adina-yanlis-algilanabilecek-sulun-heykelleri.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

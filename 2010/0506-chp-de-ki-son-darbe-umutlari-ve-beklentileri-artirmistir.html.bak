@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>CHP&#x27;de ki Son Darbe Umutları ve Beklentileri Artırmıştır.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+CHP&#x27;de ki Son Darbe Umutları ve Beklentileri Artırmıştır.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2010
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0506
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>CHP’DE Kİ SON DARBE<br />
+UMUTLARI VE BEKLENTİLERİ ARTIRMIŞTIR.</p>
+<p>Siyaset dünyası öylesine kaygan bir zemine sahip ki, bazen ortaya çıkan gelişmeler insanı şaşkına çeviriyor. Bu ani gelişmelerin sonuçları da her şeyin akışını bir anda değiştirmeye yetiyor.<br />
+Son beş ayda CHP’de yaşanan olaylar ve değişim de bunun en güzel örneğidir. Sayın Deniz Baykal’a karşı düzenlenen bir şantaj sonrası CHP’de ki siyasi dengeler de değişti. Bu değişim bazı siyasetçileri vitrinden düşürürken, CHP’de hiç şansı kalmamış bazı siyasetçilerin de yıldızlarını parlattı.<br />
+Yaz ortalarında yaşanan bu değişim ile yıllardır CHP üst yönetimini elinde tutan ve hiçbir şekilde değiştirilemeyen, hatta politbüro yakıştırılmaları yapılan ekip, tamamen değişti.<br />
+Bu değişimin ülkemiz adına son derece kritik bazı anayasa maddelerinin değiştirilmesinin oylanacağı Anayasa Referandumu öncesine rastlaması, yeni Genel Başkan Sayın Kemal Kılıçdaroğlu’na rahat bir çalışma ortamı bırakmadı. Bu arada bazı illerin yönetimi de zorunlu olarak değiştirildi.<br />
+Buna rağmen çiçeği burnunda ki yeni Genel Başkan Sayın Kemal Kılıçdaroğlu, bana göre inanılmaz bir çalışma temposu ile Referandum döneminde CHP tabanına kendisini kabul ettirdi.<br />
+CHP’NİN geçmiş dönemlerde yapamadığı çok şey bu dönemde başarıldı. Sayın Kılıçdaroğlu kısa sürede 70 il ve yüzlerce ilçe ve belde de miting yaptı, bugüne kadar CHP’NİN hiç yapamadığı şeyi yaptı ve halkın ayağına giderek onlarla bire bir görüşmeler yapma sürecini başlattı.<br />
+Artık partili olmayan kesimin dahi sempati beslediği bir Genel Başkan vardı. CHP’NİN oyu kamuoyu yoklamalarında yükseliyor ve Referandum sonuçları da bu oy oranının önemli oranda yükseldiğini kanıtlıyordu.<br />
+Kaldı ki, Referandum sürecinde il teşkilatlarının eski alışkanlıkları ve hantal tablosu ile Sayın Kılıçdaroğlu’na yeterince destek veremediği de bir gerçekti.<br />
+Sayın Kılıçdaroğlu’nu Genel Başkanlığa getiren olaylar öncesine kadar, parti üst yönetimini elinde tutan ve orada ki varlıklarını parti genelinde kurdukları “Biat” sistemine bağlayan ekibin bir kısmı, Kılıçdaroğlu’nun yeni yönetimi dışında kalarak etkisizleşmişti.<br />
+Ancak başta o değişimin mimarı Sayın Önder Sav olmak üzere bir kısmı da Sayın Kılıçdaroğlu’nun yanında yer alma şansını yakalamıştı.<br />
+Referandum sırasında parti üst yönetiminin ve İl Teşkilatlarının yeterli çalışma temposunu gösteremeyişi ve zaman zaman Kılıçdaroğlu’nun söylemlerine karşı çıkışlar, sanıyorum ki Sayın Kılıçdaroğlu’nun yapmak istediği değişim ve atılımların önünü kesiyordu.<br />
+Yargıtay Başsavcısının tüzük ile yaptığı uyarı parti içersinde ki bu rahatsızlığın açığa çıkmasına neden oldu.<br />
+Gözüken manzara, “Parti üst yönetiminde kalan ve gücü elinde bulundurma (Biat) anlayışına” sahip ekibin, partinin önünü açacak değişimleri kabullenmesinin ve Genel Başkan’a desteğini sürdürmesinin mümkün olamayacağıydı.<br />
+Sayın Kılıçdaroğlu büyük bir karar noktasında sıkışmış gözüküyordu. Ya, Önder Sav ve ekibinin vesayetine teslim olacak veya halkın ve seçmenin beklentileri doğrultusunda değişimlerin, daha da doğru bir deyimle CHP’NİN önünü açacaktı.<br />
+İşte bugün yaşananlar, bu kararlılığın ve Sayın Kılıçdaroğlu’nun liderlik vasıflarını öne çıkardığının kanıtıdır.<br />
+Yargıtay Başsavcısı tarafından da onaylanan yeni MYK ile SAYIN KILIÇDAROĞLU ARTIK CHP’NİN TARTIŞMA GÖTÜRMEZ GENEL BAŞKANI’DIR.<br />
+CHP’liyim diyen herkesin de bu gerçeği kabullenerek, tüm dinamikleri ile gücünü yaklaşan seçimlere yönlendirmesi, yapılacak tek iş olmalıdır.<br />
+Bence CHP üst yönetiminde şimdilik de olsa sorun çözülmüş görünüyor.<br />
+Bu arada, Sayın Deniz Baykal’ın İzmir’de yaptığı ve “CHP’NİN seçilmiş bir Genel Başkanı vardır. Tüm partililerin ona sahip çıkması gerekir”, şeklinde ki açıklaması, en güzel tespit ve uyarıdır.<br />
+Bu durum tespitini yaptıktan sonra, yaklaşan Genel Seçimler öncesi CHP İL Yönetimlerinin durumlarının da değerlendirilmesi gerektiğine inanıyorum.<br />
+Yine Cumartesi günü Genel Başkan Sayın Kemal Kılıçdaroğlu’nun gerek rahmetli Bülent Ecevit’i anma töreninde yaptığı konuşmada v e gerekse aynı akşam STAR TV’DE Sayın Uğur Dündar ile yaptığı söyleşi de söyledikleri, özellikle CHP İl teşkilatlarının yöneticileri tarafından çok iyi değerlendirilmelidir.<br />
+Sayın Kılıçdaroğlu CHP’NİN Türkiye’nin geleceğinin planlamasında alacağı rolü çok açık bir şekilde anlatmıştır. Koltuklarında başarılı olmayanların da, koltukları yeni isimlere vermesi gerektiğini kendisinden örnek vererek anlatmıştır.<br />
+Sayın Kılıçdaroğlu ilk seçimde CHP’NİN oylarında ciddi bir artış sağlayamazsa, görevi yeni bir isime bırakacağını özellikle vurgulamıştır.<br />
+CHP’NİN Türkiye’nin laik düzenin korunmasının tek güvencesi olduğunu, o nedenle de çok çalışmak gerektiğini söylerken kendisinin herkesten çok çalışacağının altını çizmiş ve özellikle yerel teşkilatlarında buna ayak uydurmasının şart olduğunu üstüne basa, basa söylemiştir.<br />
+Bu açıklamaların ışığında Samsun yereline baktığımızda, hiç de bu açıklamalarla örtüşen bir çaba gözükmemektedir. Referandum oylamasında da Türkiye sonuçlarının çok altında kalınması, bunu çok net bir şekilde açıklamaktadır.<br />
+Bilindiği gibi, Sayın Kılıçdaroğlu’nun Genel Başkan seçilmesi sonrasında Samsun’a yeni bir İl Yönetim kurulu atanmıştır.<br />
+Benim de adım bu süreçte gündeme gelmiş ve 500.000 nüfuslu bir kentte 20 tane sosyal demokrat partili kalmamış gibi sağ partilerin yıpranmış isimlerinin de yer aldığı bir liste hazırlanmış ve benim de o listede yer almam önerilmişti.<br />
+Ben, böyle bir yönetimde yer almamın mümkün olamayacağımı söylemiş ve nedenlerini de kendilerine açıklamıştım. (Daha sonra açıklanan yeni yönetimde, o gün bana söylenen isimlerin çoğu listede yer almadı.)<br />
+Ancak sonraki gün, benim görev kabul etmediğim basına sızdırılmış ve basından gelen sorular üzerine, hem yeni yönetimi yıpratmamak, hem de yaklaşan Referandum öncesi partiye zarar vermemek için detaya girmeden çok kısa bir açıklama yapmıştım.<br />
+Yerel basını takip eden okuyucularım hatırlayacaklardır, bu atama sonrası benim yerel basına yaptığım açıklama aynen, “Sayın Kılıçdaroğlu ile yakalanan rüzgârın Samsun’a yansımadığını gördüğüm için, yönetim kurulu görevini kabul etmedim” Şeklinde olmuştu.<br />
+Detaylarını ve içeriğini açıklamadığım halde, bana kırıldığını söyleyenlerin Referandum sırasında ki çalışmaları ve sonuçlarını görünce ne düşündüklerini merak ediyorum.<br />
+Sözün özü, Kılıçdaroğlu Başkanlığında ki CHP’NİN Türkiye’nin geleceği için iddiaları vardır. Ancak bu yeterli değildir, O’na ayak uyduracak İl Teşkilatlarına da ihtiyaç vardır.<br />
+Türkiye’nin özel bir dönemden geçtiği günümüzde, hiç kimsenin koltuklarına yapışmaya hakkı yoktur. Genel Başkan, bunun yolunu da göstermiştir. Başarılı olmayan gidecektir.<br />
+Referandum sonuçları göstermiştir ki, İl Teşkilatlarının büyük bir çoğunluğu Sayın Kılıçdaroğlu’nun hızına ve temposuna ayak uyduramamıştır. Bunlardan birisi de ne yazık ki, kendi ilimiz Samsun’dur.<br />
+Önümüzde ülkemiz için hayati bir Genel Seçim vardır. Samsun’dan sorumlu Genel Merkez Yöneticilerimiz başta olmak üzere sorumluluğu olan tüm partililerin, Samsun’da CHP’Yİ iddialı hale getirecek bir yönetim biçimini ve ekibini oluşturmaları zorunludur.<br />
+Umuyorum, Samsun’da geçmişten kalan alışkanlıklar terk edilir ve Sayın Kılıçdaroğlu ile atak yapacak CHP’ye yakışan bir tempoda Samsun’da yakalanır.<br />
+İyi haftalar.. 07 Kasım 2010</p>
+<p>EĞİTİM CAMİASININ BAŞI SAĞOLSUN..<br />
+Ülkemizin eğitim alanında yaptığı atılımların öncüsü bir ekol olan Köy Enstitülerinin mezunu öğretmenlerimizden birisi daha aramızdan ayrıldı.,<br />
+Eğitim camiamızın aydınlık yüzlerinden emekli öğretmen Emin Şener Hocamıza Tanrıdan rahmet, kederli ailesine ve dava arkadaşlarına sabırlar diliyorum. Nur içinde yatsın.<br />
+SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0505-bunun-adi-ulkemizin-cikarlarina-uyan-bir-ozellestirme-olamaz.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0507-samsunspor-baskaninin-yalnizligi-samsun-un-sahipsizliginin-belgesidir.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

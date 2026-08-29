@@ -1,0 +1,308 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Samsun Hiç Bu Kadar Sahipsiz Kalmamıştı.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Samsun Hiç Bu Kadar Sahipsiz Kalmamıştı.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2022
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+1041
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>SAMSUNLU VE SAMSUNSPOR HİÇ BİR ZAMAN<br />
+BU KADAR SAHİPSİZ BIRAKILMAMIŞTI.</p>
+<p>Samsun’un sahipsiz bir kent olduğunu yıllar önce ilk söyleyen kişi olarak, o günden bugüne bir şey değişmediği gibi bu terk edilmişliğin her geçen gün daha da artarak devam etmesinin üzüntüsünü yaşıyorum.<br />
+1988 de kuruluşuna öncülük ettiğim SAM-SEV’ in (Samsun Spor, Eğitim ve Tanıtma Vakfı) Kuruluş amaçlarından birisi de, “Sahipsiz Samsun’a sahip çıkmak” Olarak belirlenmişti.<br />
+O günlere dönmeyeceğim ama hiçbir zaman Samsun’u hakkıyla temsil edecek ve haklarını koruyacak milletvekillerini TBMM’ ne gönderememiş olmamızın, bu yalnızlığın ilk nedeni olduğu artık göz ardı edilemez hale gelmiştir.</p>
+<p>Bir de buna, 25 yıla yakındır bu kentin önemli sivil toplum kuruluşlarının ve halkının görüşlerini dikkate almadan, Samsun’u kafalarına göre yöneten Büyükşehir Belediye Başkanlarını dâhil edersek, Samsun’a bugün dayatılanlar çok daha iyi anlaşılacaktır.</p>
+<p>Geçtiğimiz hafta sonu Samsun Büyükşehir Belediye Meclisine Sayın Mustafa Demir tarafından sunulan, Samsunspor Kulübü Nuri Asan Tesisleri ile Samsun Tenis Kulübü’nün de içinde bulunduğu, Bandırma Vapurunun olduğu yerden Serra Otel’e kadar olan alanın, Millet Bahçesi yapılmak üzere İmar Plan Değişikliği yapılması teklifi, AKP ve MHP oyları ile kabul edilmiştir.</p>
+<p>Bu imar planı değişikliği ile sadece Samsunspor Nuri Asan ve Tenis Kulübü Tesisleri değil, Vilayet Binası, Atatürk Kültür Merkezi ve Çok Amaçlı Toplantı Salonun da kaldırılması planlanıyormuş.</p>
+<p>Öncelikle şunun altını kalın çizgilerle çizmek isterim ki, Samsun gibi bir büyük kentin Büyükşehir Belediye Başkanlığına seçilmek, o Başkana bu kentin halkının görüşlerini almadan, halkına bazı uygulamaları dayatma hakkını vermez.<br />
+Eğer, ileride de olsa yıkılacağı anlaşılan bu alanda ki önemli tesislerin yenilerinin yapılmasından sonra bu plan değişikliği gündeme taşınmış olsaydı, hiçbir itiraz gelmezdi.<br />
+Eski Ondokuzmayıs Stadının yıkılarak yerine yapılan Millet Bahçesi bütün gün boş dururken, kentin sosyal yaşamı için en değerli yerlerini Millet Bahçesi yapmaya kalkmak, kabul edilemez.</p>
+<p>Birkaç söz de, Büyükşehir Belediye Meclis Üyelerine söylemek istiyorum.</p>
+<p>Özellikle de kabul oyu veren sayın meclis üyeleri, sorum sizlere;</p>
+<p>Hiç birinizin aklına “Sayın Başkan, bu yıkılacak yerlerin yenilerini yaptıktan sonra bu alanların Millet Bahçesi yapılması önerinizi getirebilirdiniz” Demek gelmedi mi?</p>
+<p>İçinizde, hiç mi bu kenti seven üye yoktu?</p>
+<p>İçiniz de, hiç mi Samsun Halkının çıkarlarını, kişisel ve siyasi çıkarlarından önce tutacak meclis üyesi yoktu?</p>
+<p>Samsun Büyükşehir Meclisinde, geçmişten bu güne kadar yapılan bazı imar plan değişiklikleri ile ne büyük kazançların sağlandığı da bilinmeyen bir şey değildir.</p>
+<p>Umarım bu imar planı değişiklikleri de ileri de birilerine çıkar sağlamaz.</p>
+<p>Hepsi bir yana, Büyükşehir Belediyesi ile on yıllık tahsis sözleşmesi bulunan Samsunspor Kulübü Derneğine ait Nuri Asan Tesislerini, kimse bu tartışmaların içerisine çekmemelidir.</p>
+<p>Samsun adına güzel şeylerin yapıldığı günleri yaşamak dileğiyle, sağlıklı bir hafta dilerim. 17.01.2022</p>
+<p>Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="1040-millet-i-ttifaki-tarafi-buyuk-bir-kurgu.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="1042-multeciler-ve-tarikatlar-turkiye-nin.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

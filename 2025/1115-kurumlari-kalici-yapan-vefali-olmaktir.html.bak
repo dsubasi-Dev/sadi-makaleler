@@ -1,0 +1,341 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Kurumları Kalıcı Yapan, Vefalı Olmaktır.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Kurumları Kalıcı Yapan, Vefalı Olmaktır.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2025
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+1115
+
+</div>
+
+
+<div class="article-content">
+
+<p>e-posta; denizeoptiksamsun. com                                                    SUNUŞ</p>
+<p>GEÇMİŞİNE VEFASI OLMAYAN KURUMLAR KALICI OLAMAZ</p>
+<p>Bir Samsunlu olarak söylemek isterim ki, Samsun Halkının son elli yılda kendi imkanları ile yarattığı en önemli kurum, Ondokuzmayıs Üniversitesi’dir.<br />
+Samsun’a bir üniversite kazandırma çalışmalarının başladığı ilk andan, kuruluşunun gerçekleştiği ana kadar olan tüm sürece tanık olanlardan birisiyim.<br />
+Giderek büyüyen ve bünyesinden yeni üniversiteler çıkartan Ondokuzmayıs Üniversitesini 50 yılı aşkın sürecinde yöneten kadrolar, ne yazık ki bu üniversitenin kuruluşunu gerçekleştiren isimlere gerekli vefayı gösterememiştir.<br />
+Yazımın devamında detaylıca değineceğim bu vefasızlığa geçmeden önce, Samsun’un göz bebeği olan Üniversitemizin kuruluş sürecinden kısaca söz etmek istiyorum.<br />
+Karadeniz Bölgesi’nin en büyük, ekonomik ve sosyal yaşam açısından da en gelişmiş kenti olan Samsun’a bir üniversite kazandırmak amacıyla ilk girişim, 1969 yılında Samsun Milletvekili Yaşar Akal'ın TBMM verdiği kanun teklifiyle başlar. Ancak, siyasi nedenlerle bu öneri komisyonda kabul edilmez.<br />
+Bunun üzerine, 1970 yılı başlarında dönemin valisi rahmetli Ertuğrul Ünlüer’in çağrısı ile Devlet Su İşlerinde mühendis olan Osman Melikoğlu’nun Başkanlığında, Üstün Küsefoğlu’nun Başkan Yardımcısı, üye olarak da Dr. Sait Erbil, Hasan Nejat Öğüt (Tük-İş 6. Bölge temsilcisi), Avni Kaynar (MEB Müfettişi), Av. Sezen Saraç, Av. Mustafa Cılız, Dr. Aydın Demiraydın, Nazım Tıkıroğlu ve Dr. Erol Küsefoğlu’nun yer aldığı, “Ondokuzmayıs Üniversitesi Kurma ve Yaşatma” adı ile bir dernek kurulur.</p>
+<p>Osman Melikoğlu'nun Ankara’ya tayin olması üzerine, dernek Başkanlığına Dr. Sait Erbil getirilir.</p>
+<p>Ünyeli olan Dr. Sait Erbil’in de 1973 yılında milletvekili seçilmesi ile Dernek Başkanlığına Sayın Üstün Küsefoğlu getirtilir.</p>
+<p>Milletvekili seçilen Dr. Sait Erbil, TBMM’ de üniversitenin açılışı için büyük çaba harcar.</p>
+<p>Sayın Üstün Köseoğlu’nun Başkanlığında, dernek Samsun’da bir miting düzenler. Samsunlular, ellerinde "Üniversite İstiyoruz!" pankartları ile mitinge çok büyük destek verirler.<br />
+Dernek yönetimi, Samsunlu iş insanı rahmetli Cengiz Balkan’ın desteği ile Samsunluların Üniversite isteğini Hürriyet Gazetesi’ne iletir. Hürriyet Gazetesi’nin Samsunluların üniversite isteğini Türkiye gündemine taşıması ile çalışmalar hız kazanır.</p>
+<p>Dernek yönetimi tarafından “Samsun'a bir üniversite gerekli" Başlığı ile bilimsel bir rapor hazırlanır ve Millî Eğitim Bakanlığı ile Devlet Planlama Teşkilatı’na iletilir.<br />
+Bu arada, derneğin çalışmalarına mali destek sağlamak amacıyla, Hürriyet Gazetesi’nin desteği ile Samsun’da büyük bir Konser düzenlenir. Emel Sayın gibi çok sayıda ünlü sanatçının katılacağı konserin sunulacağı sinema salonu sahibi, destek adına için para talebinde bulunmaz.</p>
+<p>Ne var ki konserin yapılacağı gün, Türkiye Cumhuriyeti’nin 2. Cumhurbaşkanı İsmet İnönü vefat haberi üzerine konser iptal edilir.</p>
+<p>Konser biletlerini alan Samsunlular da bilet paralarını almayarak derneğe bağışlar. Bu para, derneğin ilk kuruluş sermayesi olur.<br />
+Çalışmalarını sürdüren dernek yönetimi,1971 yılında Hacettepe Üniversitesi'nden görüş ve öneriler alır.<br />
+15 Şubat 1972 tarihinde de 40 kişilik heyetle Ankara'ya giderek dönemin Başbakanı Ferit Melen ile görüşürler.<br />
+Uzun süren çabalar sonucunda, 1973 yılında Hacettepe Üniversitesine bağlı olarak Samsun Tıp Fakültesi’nin kuruluşu gerçekleşir.<br />
+Sıra derneğin daha güven verici olması için vakfa dönüştürülmesine gelmiştir. Bunun gerçekleşmesi için 100’er bin lira verecek en az 50 kurucu üye gerekmektedir.</p>
+<p>Bu süreci anlamak için Vakıf Başkanı Sayın Üstün Küsefoğlu’nun, “O zamanlar büyük bir para olan 100.000 TL. veren 50 üyeyi çok çabuk bulduk. Hatta, gittiğimiz bir üyenin (Rahmetli mimar Kemal Taner) “Gelmeseydiniz çok üzülürdüm” sözleri yeterlidir, diye düşünüyorum.</p>
+<p>1973'ten 1980'e kadar derneğin Başkanlığını yürüten Sayın Üstün Küsefoğlu ve arkadaşları da vakfın kurucuları arasında yer alırlar.<br />
+Derneğin tüm varlığı da kurulan Ondokuzmayıs Üniversitesi Yaptırma ve Yaşatma Vakfı’na devredilir.<br />
+Dernek yapısıyla başlayan çalışmalar, o günden sonra “Ondokuzmayıs Üniversitesi Yaptırma ve Yaşatma Vakfı” ile sürdürülür.<br />
+Vakıf senedi, Vakıf Yönetim Kurulu üyeleri Av. Sezen Saraç ve Av. Mustafa Cılız tarafından hazırlanır. Daha sonra da büyük çabalarla vakfın, “Vergiden Muafiyet” Kapsamına alınması da sağlanır.</p>
+<p>Üniversitemizin ilk ayağı olan Tıp Fakültesi, 1873 sayılı Kanun'un 2. maddesi uyarınca kuruluşu gerçekleştirilen Ondokuzmayıs Üniversitesine bağlanır.<br />
+Bu Yasa'nın 3. maddesi gereğince de ikinci fakülte olarak Fen ve Mühendislik Fakültesi, üçüncü fakülte olarak da Ziraat Fakültesi kurulur.<br />
+Bölgenin en büyük üniversitesi haline gelen Ondokuzmayıs Üniversitesi, sonraki yıllarda bünyesinden ayrılan bazı fakülteler ile 4 ilde daha üniversite kurulmasını sağlamıştır.<br />
+Bunlar sırasıyla, 2006 yılında kurulan Amasya Üniversitesi ve Ordu Üniversitesi ile 2007 yılında Sinop Üniversitesi ve 20008 yılında (SAMÜ) Samsun Üniversitesi’dir.</p>
+<p>Bu öykü, tam 52 yıl önce öncülüğünü Üstün Küsefoğlu, Sezen Saraç ve Şükran Güngör isimli kadınların yaptığı bir girişimle doğan, bugün 52 binden fazla öğrencisi ve 3 bini bulan akademisyen sayısıyla Türkiye'nin en büyük üniversiteleri arasına yer alan Ondokuzmayıs Üniversitesinin kuruluş öyküsüdür.</p>
+<p>Bugün tüm Samsunluların gurur duyduğu bir üniversitemiz varsa, bunun gerçekleşmesi için yürütülen çalışmaların her aşamasında yer alan ve arkadaşları ile çok büyük çaba harcayan Sayın Üstün Küsefoğlu ve kurucu ekipteki arkadaşlarına bu kentin en azından bir teşekkür borcu vardır.<br />
+Bugünkü köşe yazıma, “GEÇMİŞİNE VEFASI OLMAYAN KURUMLAR KALICI OLAMAZ” Başlığını atmama, beni çok üzen vefasızlık neden olmuştur.</p>
+<p>Samsun’a üniversite kazandırmak için hiçbir beklentileri olmadan yıllarca çaba harcayanlar, sanıyorum bugün birisi hariç hayatta değiller.<br />
+O guruptan hayatta kalan ve belki de Ondokuzmayıs Üniversitesi’nin Samsun’a kazandırılmasında en büyük paya sahip olan Sayın Üstün Küsefoğlu ile o yıllarda başlayan dostluğumuz hala sürüyor.<br />
+Zaman zaman görüştüğüm Üstün Hanım, solunum sıkıntısı nedeniyle yaşamını oksijen desteği ile sürdürüyor.<br />
+Dört ay kadar önceki bir görüşmemizde, yukarıda özetlediğim çalışmalara imza atmış olan Üstün Hanımın kendisine gösterilen vefasızlığa çok üzüldüğünü öğrendim.<br />
+“Artık yaşamımın son dönemlerini yaşıyorum. Hiçbir karşılık beklemeden arkadaşlarımla Samsun’a üniversitenin kazandırmak için çok çaba harcadık. Çocuklarımın, Üniversitenin hiç olmazsa bir yerinde adımın geçtiğini görmelerini çok isterdim.” Sözleri, beni derinden yaraladı.<br />
+Üniversitemizin kuruluşunda büyük emeği geçenlerden sadece Dr. Sait Erbil’in adı (O da sanırım milletvekili olduğu için), Üniversite Kampüsüne girişteki üst geçide verilmiştir.<br />
+Üniversitemizin kurucu rektörü Samsunlu Prof. Dr. Tahsin Tuncalı’nın adı Prof. Dr. Ferit Benay’ın rektör olduğu dönemde “Gençlik Merkezi’ne” verilmiştir. Ne var ki daha sonra bu alana Diş Hekimliği Fakültesi yapılmış ama TahsTuncalı’nın adı başka bir yere de verilmemiştir.<br />
+Üstün KÜSEFOĞLU Kimdir?<br />
+Babasının hâkim olması nedeniyle, çocukluk ve eğitim süreci değişik illerde geçen Üstün Hanım, ilköğretimini Keskin ve Yozgat’ta tamamladıktan sonra Antakya Lisesi ile Ankara Kız Lisesi’nde tamamlamış. Üniversite eğitimini Ankara Dil Tarih ve Coğrafya Fakültesi İngiliz Dili ve Edebiyatı bölümünde yapmıştır.</p>
+<p>Kazandığı Fulbright Bursu ile Amerika'ya giderek Sosyal Hizmetler Eğitimi alan Üstün Hanım o yıllarda Amerika’da ihtisasını yapmakta olan Samsunlu Dr. Erol Küsefoğlu ile tanışır.</p>
+<p>Evlendikten sonra Türkiye’ye dönerler ve yaşamının önemli bir bölümü Samsun'da geçirdiği için kendisini Samsunlu olarak tanıtan Üstün Küsefoğlu,<br />
+kadınlara ve çocuklara yönelik birçok sosyal hizmet konularında görev alır.<br />
+Ana Çocuk Sağlığı Başkanlığı yapar, Yetiştirme Yurdunda görev alır.</p>
+<p>Samsun’daki sosyal içerikli çalışmaları ile kısa sürede tanınan ve sevilen bir isim haline gelen Sayın Küsefoğlu, dönemin Valisi’nin, “Üniversite kurma konusunda bir heyetimiz var, bu konuda bizlerle birlikte çalışır mısınız?" önerisi ile kendisini Ondokuzmayıs Üniversitesi Yaptırma ve Yaşatma Derneği Yönetiminde bulur.</p>
+<p>Üniversitenin açılmasından sonra da Vakıf çalışmalarını sürdüren Üstün Küsefoğlu ve arkadaşları, bu kez de kız öğrencilerin konaklama sorunlarına çözüm olmak üzere bir kız yurdu yapılması için kollarını sıvarlar.<br />
+İstanbul’da yaşamını sürdüren Ali Bey ikna edilerek çok uygun fiyatla bir yer alınır. Bugün Tıp Fakültesi Şehir Polikliniği olarak hizmet veren ve içinde hamamı da bulunan çok güzel bir kız yurdu kısa sürede tamamlanarak öğrencilerin barınma sorunu giderilir.</p>
+<p>Sayın Üstün Küsefoğlu’nun bu üzüntüsünü öğrendikten sonra konuyu Ondokuzmayıs Üniversitesi’nin Rektörü Sayın Prof. Dr. Fatma Aydın’a ilettim.</p>
+<p>Aradan bir buçuk ay geçmesine rağmen bu konuda bir gelişme yaşanmaması nedeniyle, bu konuyu köşe yazıma taşımış bulunuyorum.</p>
+<p>Umuyorum, Samsunumuza Ondokuzmayıs Üniversitesini kazandıran bu dernek üyelerinin isimlerinin Üniversitemizin bir yerlerinde ölümsüzleştirileceği umudumu koruyor ve Sayın Üstün Küsefoğlu’nun sağlığına kavuşmasını, aramızdan ayrılmış olan kurucu üyelerimize de rahmet diliyorum.</p>
+<p>Vefalı olmanın bir yüce bir duygu olduğuna inanıyorum. Bu vefanın Ondokuzmayıs Haftasında gösterilmesi, Üniversitemize çok yakışacaktır. Güzel bir hafta diliyorum.<br />
+19.05.2025</p>
+<p>Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="1114-pkk-nin-silah-birakacagi-baris-amacli-cozum.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="1116-1-bolum-neydi-bu-basimiza-gelen.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

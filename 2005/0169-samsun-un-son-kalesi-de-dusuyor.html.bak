@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Samsun&#x27;un Son Kalesi de Düşüyor</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Samsun&#x27;un Son Kalesi de Düşüyor
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2005
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0169
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>SIRA SON KALEMİZDE Mİ?</p>
+<p>Samsun’da son yıllarda gerçektende insana şehircilik adına heyecan veren  güzel şeyler yapıldı. Zaman zaman bu güzelliklere gölge düşüren , Mecidiye Caddesini  katleden alt geçit gibi yanlışlar olsada, uzun yıllardır kötü şehircilik adına her şeyin yapıldığı Samsun da, umut verici projeler bir biri ardına uygulamaya konmaya devam ediyor. Bu güzelliklerde emeği geçen herkesi kutluyorum. Sanıyorum bu kenti seven birisi olarak güzellikleri yazmaktan zevk alacakların  en başında ben gelirim. Ama kent içi düzenlemelerdeki güzellikler yanında, Samsun öylesine kan kaybediyor ve öylesine sahipsizlik örnekleri veriyor ki, bunları yazmamak ve görmemek elde değil. Zaman, zaman bunları dile getirdiğim için karamsar tablolar çizmekle suçlandığım da oluyor. Ne yazık ki beni doğrularcasına bu olumsuzluklara hergün bir yenisi ekleniyor. Lütfen şu aşağıdaki satır başlarını okurmusunuz?<br />
+<em>Dönemin enerji bakanının  kentine dahi sokulmayan her türlü canlının  düşmanı  olan , altı numaralı fuel oille çalıştığı için çağdışı kabul edilen ölüm santralları ‘’mobil santral’’bazı kent yöneticilerinin de desteği ile halkımızdan gizlenerek  Türkiye’nin en verimli ovasına sahip Samsun’a  kurulmadı mı?<br />
+</em>Çok sayıda bölge müdürlüğünün bir takım gerekçelerle, kentleri adına lobileri ve siyasetçileri çok daha iyi çalışan bir komşu İle kaydırılan kent Samsun değil mi?<br />
+<em>Kalkınmada öncelikli 50 ilden 49 una teşvik verilirken ve çevresindeki tüm iller teşvik kapsamına alınırken teşvik dışı bırakılan tek İl  Samsun değil mi?<br />
+</em>Uğranılan bu haksızlığa 81 sivil toplum kuruluşu  Samsunlular adına tepki koyarken , konunun asıl ilgilisi olan bazı sivil toplum kuruluşlarının sessiz kalarak yanlışlığa adeta destek verdiği tek İl Samsun değil mi?<br />
+<em>Bu haksızlığa Samsun adına direnenlere hakaret seviyesinde sözler sarfedebilen milletvekillerinin bulunduğu kent Samsun değil mi?<br />
+* İki önemli ilçesi tarafından istenmeyen İl  konumuna düşürülen kent Samsun değil mi?<br />
+</em>Milletvekillik dönemleri bittikten sonra seçildikleri kentte yaşamayı tercih etmeyen milletvekillerine sahip kent Samsun değil mi?<br />
+<em>Her kenti simgeleyen renkler o kentin spor takımınında taşıdığı renklerdir. Diğer kentler, dışardan gelenleri  kente ilk giriş yeri olan havaalanı, gar, otogar ve limanlarda kendi renkleri ile  karşılarken, konuklarını  kırmızı-beyaz yerine yeni yapılan otogarda bir büyük takımın renkleri ile karşılamaya hazırlanan kent Samsun değil mi?<br />
+</em>SAM-SEV’in 40.000 imza toplayarak‘’Sahilimi İstiyorum ‘‘kampanyası<br />
+ile gündeme getirdiği , dönemin Valisinin desteği ve Büyük Şehir Belediye Başkanı sayın Yusuf Ziya Yılmaz’ın  büyük çabası ile kazanılan sahil kordonuna tüm itirazlara rağmen 360 metre boyunda kalıcı bina ile çarşı yapılmaya çalışılan kent Samsun değil mi?<br />
+*İşsiz sayısı Türkiye ortalamasından yüksek birkaç ilden birisi Samsun değil mi?<br />
+Bu örnekleri daha da artırabiliriz. Şimdi elinizi vicdanınınza koyarak düşünüz. Bunlar doğru değil mi? Doğruysa içinize siniyor mu? Bu kent insanının bunları sorgulaması gerekmez mi? Bu güne kadar yapılan yanlışlara ve sahipsiziğe tavır koyamadığımız için  gittikçe önemini yitiren ve küçülen bir kent haline gelmedik mi? Kaybedecek neyimiz kaldı? Çocuklarımız dahi yaşam ve iş umudu bulamadığı için üniversite eğitimleri sonrası Samsun’a dönemiyorlarsa bizim kuşak bunun vebalini nasıl ödiyecek? Bu olumsuzluklara korkarım bir yenisi eklenmek üzere.<br />
+Samsun’un belkide son kalesi de düşmek üzere. Futbol çağımızın en büyük tutkusu olmanın yanında kentlerin de en büyük tanıtım ve ekonomik girdi nedenlerinden birisi. Kentinizin 1. ligde takımı yoksa kentiniz de Türkiye gündeminde yok demektir. Bunun anlamını takımları düşen kentler çok iyi biliyorlar. Kentler takımlarını süper lige çıksın diye 15-20 milyon doları gözden çıkartıyorlar. Futbolu sevsenizde sevmesenizde bu bir gerçek. Bu uğurda kentlerin yerel yöneticileri ve milletvekilleri büyük çaba harcıyor ve ellerini taşın altına sokarak takımlarına sahip çıkıyorlar. Samsun ise süper ligde oynayan takımına da sahip çıkamamasının faturasını ödemek üzere. Bir yıldır bu yükü üstlenenler ‘’ kentten  yardım istiyor ve artık taşın altına elini herkes soksun ‘’diye feryat ediyorlar. Duyan yok. Çoğu ilde başta belediye başkanları ve sivil toplum kuruluşları takımlarına inanılmaz olanaklar yaratıyorlar. Bizde özellikle bu kuruluşların hemen hemen hiçbir çabası yok. Büyük Şehir Belediye Başkanı ile Şoförler Derneğinin geçtiğimiz aylarda yarattıkları C plaka projesi ile sağlanan yardımda, bazı sorumsuz kişilerin  yargıya baş vurması ile  akamete uğratılmış bulunuyor. Bunların ‘’biz Samsunlu değiliz, neden Samsunspor’a katkı verelim ‘’diyebilme cüretinde olduğu söyleniyor. Hiç kimse bu kentte yaşamanın bir diyeti olduğunu onlara söyleyemiyor. Belediyeler kaynak üretemiyor. Samsunlu maçlara giderek olsun destek vermiyor. Yönetimin sürdürdüğü görüşmelerden bir sonuç çıkmıyor.’’bazı yetkililerin düşecekse düşsünde bizde kurtulalım’’gibi sözler söylediği duyumları geliyor. Samsunlu olmadığı halde yıllardır bu takımda oynayan ve şimdide teknik direktörlük yapan Ertuğrul Sağlam dahi sonunda  isyan ediyor ve çoğu Samsunludan daha büyük bir duyarlılıkla Samsunlulara sesleniyor. Cuma akşamı olağanüstü toplanarak durumu değerlendiren SAM-SEV yönetimi  Samsunspor Başkanı sayın İsmail Uyanık’ı davet ederek bilgi aldı. Samsun sevdalısı olan ve yıllardır bu yükü omuzlayan İsmail Uyanık’ın uğradığı sevgi ve güven erozyonu beni korkuttu. Görünen o ki en zor günlerinde bile göreve çağrılınca koşan, bu Samsun sevdalısını bile kaybetmek noktasına gelmişiz. Karşılaştıkları ilgisizlik ve kent yöneticilerinin tavrı karşısında geldikleri nokta gerçekten çok üzücü. Herkes bilmeli ki bu kale Samsun’un düşecek son kalesidir. Geçtiğimiz günlerde bir takımları daha süper lige çıkan Kayseri Büyük Şehir Belediye Başkanının ve ticaret odası başkanının  nasıl destek verdiğini televizyonlarda izlerken açıkçası kıskandım. Önümüzdeki günler bu konuda büyük sansasyonlara tanık olacak gibi gözüküyor. Samsunspor’uda bitirirsek hiç kimse çıkıpta Samsun adına artık nutuk falan atmasın. Sanırım bazılarının istediği olacak ve Samsun için artık bölgenin merkezi gibi sözlemlerde son bulacaktır. O zaman hep birlikte bu olumsuzluklara katkısı olanlar oturup kınalarını yaksınlar demekten başka söylenecek söz de kalmayacaktır.<br />
+Umarım kentimiz adına sorumluluğu olanlar bu kez bir şeyler yaparlar ve hiç olmazsa son kalemizi kurtarırlar. İyi haftalar dileğiyle..<br />
+21-MAYIS-2005</p>
+<p>SADİ  SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0168-havza-ve-vezirkopru-degerlendirmesi.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0170-kazim-ozdemir-i-lkogretim-okulunun-basarisi.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

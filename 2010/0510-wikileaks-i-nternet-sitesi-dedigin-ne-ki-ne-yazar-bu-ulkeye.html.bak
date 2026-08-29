@@ -1,0 +1,348 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Wikileaks İnternet Sitesi Dediğin Ne Ki, Ne Yazar Bu Ülkeye.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Wikileaks İnternet Sitesi Dediğin Ne Ki, Ne Yazar Bu Ülkeye.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2010
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0510
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>“WİKİLEAKS” İNTERNET SİTESİ DEDİĞİN NE Kİ?<br />
+NE YAPAR BU ÜLKEYE!</p>
+<p>Geçtiğimiz haftanın tüm dünyayı sarsan olayı, tartışmasız “WİKİLEAKS” Denen internet sitesinin yayınladığı Amerika Dışişleri Bakanlığı’na ait gizli belgelerdi.<br />
+Belgelerin yayınlanmasından sonra belgelerde adı geçen ülkelerde büyük yankıları oldu.<br />
+İşin belki de en şaşırtıcı yanı, belgelerin Amerika Dışişleri Bakanı Hillary Clinton tarafından da doğrulanması ve bu belgeleri etik dışı bir anlayışla toplayan Amerikalı hariciyecilere sahip çıkılmasıydı.<br />
+Bunun anlamı, belgelerin gerçek olduğunun Amerika tarafından da tescil edilmesi demekti.<br />
+Bütün dünyanın tartıştığı ve henüz çok az bir bölümünün yayınlandığı, devamının ise zamana yayılarak bölüm bölüm yayınlanacağı duyurulan gizli belgeler de en çok adı geçen ülkelerin başında da Türkiye geliyordu.<br />
+Başta Cumhurbaşkanı ve Başbakan’ın adının da sıkça geçtiği ve ciddi iddialar taşıyan belgeler, ülkemiz de hiçte korkulduğu gibi bir tepki yaratmadı.<br />
+Bu tür iddiaların artık bağışıklık kazandığı ülkemiz de yapılan ilk açıklamalar da, “Bu iddialar zaten bilinmeyen şeyler değildir” Türünden pişkinlik taşıyordu.<br />
+Adı geçen siyasetçiler ve yandaşları tarafından iddialar geçiştirilmeye çalışılırken, muhalefet kanadı da haklı olarak özellikle de Başbakan’ın yurt dışında sekiz ayrı hesapta yüksek miktarda bulunduğu iddia edilen parasını sorgulamaya başladı.<br />
+CHP tarafından bir araştırma komisyonu kurularak olayın üzerine gidileceği açıklanınca, sorgulama ve suçlamalar artı. Buna karşılık Başbakan’ın tepkisi de çok sert oldu.<br />
+Son derece ağır suçlamalar içeren bu iddialar, bizim gibi bu tür iddiaların sık sık gündeme geldiği ve belgelerle ortaya konsa dahi, sonunda hiç bir şeyin aydınlatılamadığı bir ülke için tabii ki hiçbir anlam taşımayacaktır.<br />
+Son iki yıldır bu tür akçeli iddialar ( Havuzlu villalar gibi), gazetelerde ve internet sayfalarında bolca yer almadı mı?<br />
+Naylon fatura denilen çok ağır mali bir suçtan yargılanmış bir kişiyi maliye bakanı yapıp devletin kasasını ona teslim eden bu ülke değil mi?<br />
+Milletvekilliğini koruma zırhına büründürüp, TBMM’Nİ suçluların sığındığı korunma çatısı haline getiren ve verilen tüm sözlere rağmen “Dokunulmazlık” denen utanç zırhını kaldırmayan bu ülke için, on tane WİKİLEAKS açıklaması olsa ne yazar?<br />
+Suç işleyen veya işlemiş olan Milletvekili ve bakanı TBMM’de koruma zırhı içine alınan bir ülke de, suç işleyen bürokratları da sonunda ucu kendisine dokunacak bakanların koruması altına alırsan, o ülke de Devletin kasasının soyulmasını nasıl önleyebilirsiniz?<br />
+Bugün duyulanların tek farkı, iddiaları içeren belgelerin Amerika tarafından da ret edilmemesidir.<br />
+Çok uzağa gitmeye ne gerek var? Geçtiğimiz haftaya damgasını vuran Samsun’da yaşanan bir olayı hatırlamak yeterli olacaktır.<br />
+Hatırlanacaktır, geçtiğimiz aylarda Enerji, Sanayi ve Maden Kamu Emekçileri Sendikası ( ESM ) Başkanı Sayın Müşfik Erdoğan büyük bir hisse devri skandalını ortaya çıkartmıştı.<br />
+Çarşamba Yeşilırmak üzerinde DSİ tarafından yapılan KUMKÖY HİDROELEKTRİK ENERJİ SANTRALİ, daha sonra yabancı ortaklı İC İÇTAŞ ENERJİ AŞ.’ye maliyetinin çok altında bir fiyatla 5 milyon 665 bin 584 TL. Ye devredilmişti.<br />
+Durumu fark eden ESM Yönetim Kurulu’nun itirazı üzerine DSİ, yanlış hesaplama yapılmış savı ile bu bedeli önce 39 milyon 281 bin 592 TL. ye, daha sonra da 53 milyon 602 bin 336 TL. ye çıkartmıştı.<br />
+Yapılan araştırmalar sonrasında 5 hidroelektrik santralin daha aynı şekilde ( Bunlar nasıl yanlış hesaplamalarsa, hep devletin aleyhine oluyor)  devredildiği anlaşılmıştı.<br />
+Bu ülkenin kaynaklarının böylesine yağlanmasının önünü kesen ESM, diğer beş santralin durumunun da değerlendirilmesi içinde Sayıştay Başkanlığına bir dosyayla başvurmuştur.<br />
+Üzerinden aylar geçmesine rağmen bir sonuç alamayan ESM Başkanı Sayın Müşfik Erdoğan, sonunda isyan etmişti.<br />
+Sayın Erdoğan, “Sayıştay görevini yapmalı ve tüyü bitmemiş yetimin hakkını sormalı, halkın parasını gasp edenler hesap vermelidir” diyordu.<br />
+Her şey herkesin gözü önünde oluyor, “Birileri yanlış hesaplama” gibi masum bir gerekçeye sığınarak devletin malını komik rakamlarla birilerine peşkeş çekiyor ve Devletin kurumlarının yapması gereken denetim görevini yapan bir sivil toplum kuruluşunun çabaları ise asıl yetkililer tarafından geçiştirilmeye çalışılıyor. Bu nasıl iştir? Anlamak mümkün değil.<br />
+Daha da acısı, bu işin peşini bırakmayan ESM ve Sayın Müşfik Erdoğan’a en başta destek vermesi gereken STK’LAR ortada yoklar.<br />
+Daha 3–4 sene önce Mobil Santrallere yargı yolu ile kelepçe taktıran STK Birlikteliğine ne oldu? Nereye gittiler? Şimdi gel de arama, o dönemin Baro Başkanı dava adamı Sayın Arif Yılmaz Üney’i.<br />
+Hepsi bir yana, asıl sorun yukarıda da değindiğim gibi Devlette ve denetim görevini üstlenen kuruluşlarda.<br />
+Buna benzer bir olay geçmişte de Mobil Santralde de yaşanmıştı. Yargı yolu ile kapattırılan santrallere elektrik üretiyormuş gibi ( Devletin çıkarlarına aykırı olarak yapılmış sözleşme gereği)  her ay milyon dolarlar ödenmesinin hesabının, bu suçu işleyen bürokratlara sorulması için Samsun Barosu Yargıtay Başsavcılığına başvurmuştu.<br />
+Yargıtay’da haklı görerek, dava açmak üzere adı geçen bürokratların bağlı olduğu o dönemin Enerji Bakanı’ndan onay istemişti.<br />
+İşte o dönemde de yukarıda sözünü ettiğim o meşhur yetki, pardon koruma zırhı devreye girmiş ve Enerji Bakanı devleti zarara sokan bürokratlarının yargılanmasını engellemişti.<br />
+Şimdi anlıyor musunuz? WİKİLEAKS denen “Sızıntı Depreminin” Bu ülkede sıradan olay olarak algılanmasının nedenini.<br />
+Şimdi anlıyor musunuz? Bazı suçlular koruma zırhları altında korunurken, bu tür hesapları soranlarla, suçluları kovalayan ve yakalayanların neden Silivri’de yattığını?<br />
+30 yıl öncesinden bugün olacakları görüp haykırarak milleti uyandırmaya çalışan gençlere, “Komünist” damgası vurup yargısız infaz edenler de bu toplum değil miydi?<br />
+Neden biraz gerilere dönüp bakmıyoruz?<br />
+Bu ülkeyi kuran ve geçmişine imza atan başta Atatürk olmak üzere İsmet İnönü, (Demokrasi adına yaptıkları yanlışları bir yana) sudan sebeplerle asılan Adnan Menderes ve iki bakanı ile Bülent Ecevit’in haksız servet edinmeleri ile ilgili tek söz söylenebildi mi?<br />
+Buna karşılık, ülkemizin yönetimini çok üzün süre elinde tutan Süleyman Demirel’den sonra ülke yönetiminde bulunanlarla ilgili olarak yaşananlar ve onlarla ilgili söylentiler, Süleyman Demirel’in kardeşi ve yeğeni ile olan söylenenleri dahi gölgede bırakmadı mı?<br />
+Toplumun sığınacağı tek güvence olan yargı kurumunun dahi kendini korumakta zorlandığı, olayların üzerine giden yargıçların gözaltına alınabildiği, asılsız ihbarlarla kaldıkları otellerde basıldığı bir dönemde, neyin hesabını kime ve nasıl soracaksınız?<br />
+Basını susmuş, aydının aymazlığının tavan yaptığı veya yandaşlığa soyunduğu, sivil toplum kuruluşlarının sindiği bir dönem yaşıyoruz.<br />
+Toplumun dizi bağımlısı yapıldığı ve derin bir uykuya yatırıldığı bir dönemde ve hala, “Bu ülkeye bir şey olmaz” Diyecek kadar saflaşmış aydın geçinenlerin olduğu bir ülkede, hiç kimse kimseyi kandırmasın.<br />
+En başta da susmayı becerebilen, buna rağmen kendisini aydın sayanlar…<br />
+Böylesine düşündürücü olayların yaşandığı bir ortam da, haddini bilmez ve yetimin hakkını aramaya kalkarsan, ortada kalırsın Sevgili Müşfik Erdoğan.<br />
+Sana mı kaldı bu işler? Diye de soru sorarlar adama..  Onun için, on tane “WİKİLEAKS” depremi olsa ne yazar bu ülkede?<br />
+İyi haftalar.. 05 Aralık 2010<br />
+SADİ SUBAŞI</p>
+<p>Günaydın Sadi Abi<br />
+Güne güzel başladım, çünkü sizin yazınızı okudum.<br />
+Gerek wikileaks belgeleri olsun , gerek yerel yolsuzluk, soysuzluk belgeleri olsun, Türk Halkı tepkisini verse dahi , sadece 5 çaylarında, işyerlerindeki odalarında, ev toplantılarında, yemek masalarında verir.</p>
+<p>Bu tepkide ana unsur “Aman dışarıdan birisi duymasın konuştuklarımı” şeklinde söylenebilir. Olması gereken tepkisini, olması gereken doğrultuya çeviremezseniz, fıkrada olduğu gibi, olsa olsa köprünün iki başına konduğu gibi ortasına da adam koyup öperler insanı. (Fıkra aşağıda)</p>
+<p>ESM’ nin takibindeki Kumköy yolsuzluğu ve diğerleri ise, duyarlı ve bu ülke geleceği için çırpına sizin gibi değerli insanlarca en üst seviyeden verilen tepkiler ile halka duyuruluyor, bu olayların normal olaylar olmadığı anlatılıyor.</p>
+<p>“Sessiz kalmak, kabullenmektir” , asla kabullenmeyeceğiz. Basın içinde böylesine net ifadeler kullanan insan sayısı öylesine azaldı ki; sizi gösterdiğiniz medeni cesaretten dolayı ne kadar kutlasak azdır.</p>
+<p>Biz, her zaman beraber olduk ve olacağız.<br />
+Bu ülke bizim, başka topraklar aramak gibi bir niyetimiz yok</p>
+<p>Elinize, fikrinize, düşüncelerinize her zaman ihtiyacımız var.</p>
+<p>İyi ki varsınız.</p>
+<p>Nural ÖZCAN<br />
+İnş. Müh.<br />
+ESM Samsun Şube Örgütlenme Sekreteri</p>
+<p>FIKRA:<br />
+Hazinede para kalmadığını gören padişah vezirlerine köprülerin başına adam koyun, geçenlerden bir akçe alın diye buyurmuş... Bir süre sonra padişah sormuş vezirlerine: Halk hayatından memnun mu? Hiçbir tepki yok yanıtını alınca, köprünün öbür tarafına da adam koyun köprülerden çıkandan da para alın, demiş.. Bir süre sonra padişah yine sormuş.. Şikâyet var mı? Yok.. Halkın tepkisizliğine kızan padişah gürlemiş.. Köprülerin ortasına da birer adam dikin, gelip geçeni dövsün! Aradan birkaç gün geçmiş, padişah vezirleriyle bir köye gitmiş.. Sormuş: Halinizden memnun musunuz, var mı bir şikâyetiniz?. Ses yok.. Padişah gürleyerek yeniden sormuş.. Arkadan cılız bir ses duyulmuş.. Şey padişahım o köprünün ortasındaki adam var ya.. Padişah bir umutlu; ne olmuş köprünün ortasındaki adama? Akşamları çok kalabalık oluyor, sıra uzuyor, eve geç kalıyoruz, mümkünse bir adam daha koysanız.</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0509-samsunjspor-samsun-un-sorunlarinin-da-sahipsizligin-de-aynasidir.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0511-universite-genclerinde-ki-degisim-dogru-algilanmalidir.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

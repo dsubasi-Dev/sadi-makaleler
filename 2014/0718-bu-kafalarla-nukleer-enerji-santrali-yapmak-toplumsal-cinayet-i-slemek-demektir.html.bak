@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Bu Kafalarla Nükleer Enerji Santrali Yapmak, Toplumsal Cinayet İşlemek Demektir.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Bu Kafalarla Nükleer Enerji Santrali Yapmak, Toplumsal Cinayet İşlemek Demektir.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2014
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0718
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>BU KAFALARLA NÜKLEER ENERJİ SANRALİ YAPMAK,<br />
+TOPLUMSAL CİNAYETE DAVETİYE ÇIKARTMAKTIR.</p>
+<p>Son dört gündür Türkiye bir kez daha yer altında kalan on sekiz işçisine ağlıyor. Daha beş ay önce, Soma’da ki kömür ocağında da 301 işçimizi canlı canlı toprak altında ölüme mahkûm etmiştik.<br />
+O toplu ölümden çok geçmeden bir başka ocakta da iki işçimiz hayatını kaybetmişti. Şimdi de aynı acıyı Ermenek’te yaşıyoruz.<br />
+Soma’da 301 işçimizi cinayet gibi ihmaller zinciri sonu kaybettiğimiz gün olay yerinde inceleme yapan bakanlar, “Bu maden ocağının sorumluları bunun hesabını verecekler” Diye açıklamalar yaparken, dönemin Başbakan’ı olayı adeta olağanmış gibi gösteren “Ölümler bu olayların fıtratında vardır” Gibi son derece tartışmalı bir açıklama yapıyordu. Bu açıklama ile bu işin sorumlusu işadamlarının adeta suçlarının olmadığı ilan ediliyordu.<br />
+Gerek bu olayda yapılan açıklamaların ve gerekse PKK’nın 50.000 e yakın insanımızı ve askerimizi kalleşçe öldürdüğü her olaydan sonra, siyasi ve askeri yetkililerin, “Şehitlerimizin kanları yerde kalmayacaktır” Diye yaptıkları açıklamaların, toplumu sakinleştirmek ve yükselen tepkileri yatıştırmak için söylenmiş sözlerden öteye bir anlam taşımıyordu.<br />
+Aslında kömür ocaklarında ki ölümlerin toplu olması, tersane, sanayi tesisleri, inşaat kazaları, fabrika yangınları ve merdiven altlarında kaçak çalışan imalathanelerde ki patlamalarda ölen işçi sayısını gözden kaçırtıyor olabilir.<br />
+İstatistiklere göre, 2002 ile 2014 yılları arasında ki günümüzün iktidarı dönemindeki iş kazalarında ölen işçi sayısının 14.700 ‘dür.<br />
+Her kaza sonrası hazırlanan raporlarda, “İşyeri güvenliğinin sağlanmadığı ve aşırı kar hırsı vurgulanırken”, kazalar öncesi yapılan normal denetimlerde ise, ”işyeri sahiplerinin korunduğu” vurgulanmaktadır.<br />
+Bunun anlamı, bu ölümlerin iş kazaları sonucu değil, cinayet sayılabilecek ihmal, daha çok kar hırsı ile alınması gerekli yasal önlemlerin alınmadığı için olduğudur.<br />
+Bu kazalarda, işsiz kalmak korkusu ile işverenlerin kural tanımaz yanlışlarına direnç gösteremeyen işçilerimizin de önemli sorumluluğu vardır.<br />
+Ama o yörenin insanlarını suskun kalmaya zorlayan asıl neden, yeni iş alanlarının açılmaması, tarıma destek vermeyen siyasi iktidarın onları toprağından kopartarak yer altında çalışmaya mahkûm eden yönetim anlayışıdır.<br />
+Bu yörelerin halkının işsiz kalma korkusu ile işgüvenliği olmadığı gerekçesi ile kapatılan ocakların bir an önce açılması için yasal haklarından dahi vazgeçmesi, başka nasıl yorumlanabilir?<br />
+Son olayda su altında kalan on sekiz işçimiz henüz toprak altındayken, bu kez de Bartın Amasra’da ki bir başka kömür işletmesinde ki göçükte de iki Çinli işçinin öldüğü haberi duyuluyordu.<br />
+Yine bu dört günlük süreçte de bir başka trafik kazasında on sekiz tarım işçisi hayatını kaybediyordu. Bu trafik kazasının da daha çok kar amacı ile oluşturulan “Dayıbaşı” denilen taşeronluk sisteminden kaynaklandığı açıklanıyordu.<br />
+Ne yazık ki, bu tür daha çok kar için yaşanan kaza haberleri yıl boyunca sürüyor.<br />
+Ermenek’te ki kömür ocağında toprak altında kalan on sekiz işçimizin kurtarma çalışmaları sürerken Çalışma Bakanı yaşadığı facianın karşısında yaptığı samimi açıklama ile “Bu ocakları kapatmaya kalktığımızda araya elli kişi girip, kapatmamızı önlüyor” Diye canlı yayında konuşurken, Sayın Başbakan’da, “Sorumlular en ağır şekilde cezalandırılmalıdır, ancak bunlar yapılırken işverenlerimizin ve insanlarımızın da zihniyeti değişmelidir” Diyordu..<br />
+İster iş, ister trafik ve isterse diğer kazalar sonu yaşanan ölümler sonucu yapılan denetleme raporlarında ortaya çıkan en önemli ortak nedenler olarak;<br />
+Daha çok kar hırsı uğruna devreye sokulan “Dayıbaşı ve taşeronluk müessesesi”,<br />
+İşsiz kalma korkusu ile kural dışı işveren dayatmalarına direnemeyen işçilerin çaresizliği,<br />
+Yapılan normal denetimlerde işverenlerin kollanması,<br />
+Eğitimsizlik ve bilgisizlik maddeleri öne çıkmaktadır.<br />
+Üzülerek söylemek gerekirse, katliam benzeri bu olayların sonunda açılan davalar ya zamana yayılarak unutturulmakta veya birkaç teknik görevliye verilen göstermelik cezalarla geçiştirilmekte, çoğu kez de asıl sorumlu olması gereken işveren aynı işyerini çalıştırmayı sürdürmektedir.<br />
+Maalesef bunca insanın ölümü ile sonuçlanan olaylar yıllardır sürüp gitmekte olup, süreceği de anlaşılmaktadır. Nedenleri açıkça belli olan bu ölümlerin vebali, devlet adına gerekli önlem almayan siyasi iktidarlarındır.</p>
+<p>VE NÜKLEER ENERJİ SANTRAL ISRARI</p>
+<p>İnsanımızın bilgisizlik ve cahilliğinin giderilemediği, işverenlerimizin daha çok kar hırsının frenlenemediği, siyasi iktidarların denetim görevlerini yerine getiremediği, gerektiğinde yaşanan faciaların sorumluluğu gereği olan “İstifa kültürüne sahip olmayan” Siyasetçilerin ve bürokratların var olduğu bir ülkede, enerji üretmek için “Nükleer Enerji Santrali” Kurmaya kalkmak, toplumsal ölümlere davetiye çıkartmak demektir.<br />
+28 yıl önce Rusya’da yaşanan Çernobil Termik Santral kazası sonrası tüm dünyaya yayılan radyasyon nedeniyle, ülkemizde hızla artan kanser vakalarını nasıl unutabiliriz?<br />
+Günümüzde hemen hemen her evde bir kanser hastasının olduğu,<br />
+İşsiz kalma korkusu ile terbiye edilmiş, hak aramaya korkan ve cahilliğe mahkûm edilmiş işçisinin çaresiz,<br />
+İşvereninin daha çok kar uğruna acımasız,<br />
+Denetim kurumunun rüşvet batağına düşerek işlemediği,<br />
+“BEN YAPTIM OLDU” kültürünü içselleştirmiş bir siyaset kültürünün bulunduğu ve bu tür olayların sorumluluğunu üstlenerek istifa etme sorumluluğunu taşımayan siyasetçi ve bürokratların olduğu bir ülkede,<br />
+“NÜKLEER ENERJİ SANTRALİ” Yapmaya kalkışmak insanlarımızın toplu ölümü ve gelecek kuşaklara sağlam devretmek zorunda olduğumuz çevrenin katledilmesi demektir.<br />
+Bu nedenle, bir tek insanımızın sağlığının dahi bir Nükleer Enerji Santralinden daha önemli olması nedeniyle, karşı çıkan sivil toplum platformlarının uyarıları dikkate alınmalıdır.<br />
+Umarım siyasi iktidar, bugüne kadar hiçbir siyasi iktidarın başaramadığı duyarlılığı gösterir ve toplumun istekleri doğrultusunda bu nükleer santral yapımlarını gündeminden kaldırır.<br />
+Bu tür üzüntüleri yaşamadığımız güneşli ve aydınlık günler dileğiyle iyi haftalar.. 02.11. 2014</p>
+<p>Ecz. SADİ SUBAŞI<br />
+NOT: Bu ve önceki yazılarımı www. hedefhalkgazetesi. com. tr internet gazetesinde takip edebilirsiniz..</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0717-samsunspor-felakete-suruklenirken-son-cagri.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0719-aydinlarin-buyuk-sorumsuzlugu.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

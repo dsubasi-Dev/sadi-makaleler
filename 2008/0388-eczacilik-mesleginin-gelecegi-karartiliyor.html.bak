@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Eczacılık Mesleğinin Geleceği Karartılıyor.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Eczacılık Mesleğinin Geleceği Karartılıyor.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2008
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0388
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>ECZACILIK MESLEĞİNİN GELECEĞİ KARARTILIYOR.</p>
+<p>Bu yıl eczacılık mesleğinde 40. yılını kutlamış bir eczacı olarak son dönemlerde yaşadıklarımıza bakınca, eczacılık mesleğinin geleceğinden endişe duymaya başladım. İnsanın en vazgeçilmez hakkı olan sağlığı konusun da onlara hizmet sunmanın onurunu taşımış ve mesleğiyle her zaman gurur duymuş bir eczacıyım.<br />
+Bu mesleğin hemen her dalında görev aldım. Mesleğimizin en üst kuruluşu olan TÜRK ECZACILAR BİRLİĞİ yönetiminde de bulunarak meslektaşlarımızın çok önemli mesleki haklar kazandığı düzenlemelere katkılarım oldu. Son dönemlerde sağlık alanında yapılan düzenlemelerin bazı uygulamaları, meslek yaşamının en olgun dönemini yaşayan bir eczacı olarak gururumu incitmeye başladı. En çok da bu mesleğin daha başın da olan genç meslektaşlarım adına üzüntü duyuyorum.<br />
+Yıllardır yazboz tahtasına çevrilen sağlık politikaların da yaşananlar ülkemizin ayıplarından birisidir. Her seçim de siyasete alet edilen ve iktidar değişikliklerinde ilk el atılan konu sağlık uygulamaları olmuştur. Sağlık harcamalarında önemli bir payı alan ilaçta, doğal olarak üzerinde en çok konuşulan konu olmuştur.<br />
+Burada bir konunun altını özellikle çizmek istiyorum. Türk Eczacılar Birliği hiçbir meslek kuruluşun da kolay kolay görülemeyecek bir özveriyi ve kararlı politikayı, eczacılık camiası adına sürdürerek her dönem de ilaç fiyatlarının yüksek olduğunu ve düşürülmesi gereğini savunmuştur. İlaç fiyatının yüksek oluşu eczane cirolarını yükseltir, bu da eczacının karlılığını artırır. Türk Eczacılar Birliği’nin bu konuda ki kararlılığı işte bu nedenle çok önemlidir. Çünkü eczacı ülkesinin çıkarlarını kendi çıkarından önde tutma özverisini göstermiş bir meslek gurubudur.<br />
+Her iktidar değişikliğinde gündeme gelen sağlık politikalarının AKP döneminde de gündeme gelmesi kaçınılmazdı. Öyle de oldu. Yıllardır her iktidar döneminde vaatten öteye geçmeyen çok önemli değişiklikler, bu kez bir biri ardına uygulamaya sokulmaya başladı. Gerçekten de bu değişikliklerin bir kısmı sosyal güvenlik kurumlarından hizmet alan halkımız adına çok önemli kazanımlar getiriyordu. Sağlık alanında yapılan iyileştirmeler o kadar önemli şeyler içeriyordu ki, AKP’nin 22 Temmuz 2007 seçimlerinde rakiplerine fark atmasının da en büyük faktörü olarak görüldü.<br />
+Böylesine önemli değişikliklerin yapıldığı ortam da bazı hataların da yapılması kaçınılmazdır. Bu hataların en aza indirmenin yolu, değişikliklerin konuyla ilgili tüm meslek kuruluşlarının da katılacağı komisyonlarda enine boyuna değerlendirildikten sonra gündeme taşınması olmalıydı.<br />
+Ne var ki, AB giriş sürecinde olan bir ülke de, bir yandan Sivil Toplum Kuruluşlarının öneminden söz edeceksiniz, sonra da onları rakip gibi gören bir anlayışa sahip olacaksınız. İşte yanlış olan budur. Yapılan gerçekten çok önemli ve gerekli değişimlere rağmen oluşan tepkilerin altında yatan asıl neden, meslek kuruluşlarının devre dışı bırakılmasıdır. Artık, “STK’lar her şeye karşı çıkarlar” sözünün,  “dediğim dedik” anlayışına sahip iktidarda ki siyasetçilerin kendilerini savunmak için kullandığı bir yöntem olduğu bilinmektedir.<br />
+Bu konu da üyesi olduğum Türk Eczacılar Birliği’nin sağlık alanında yapılan önemli değişikliklere ve özellikle de ilaç kullanımı ve dağıtımı ile ilgili uygulamalar da, kendi meslektaşlarının önemli kayıplarını dahi göze alarak verdiği desteği yakından bilen birisiyim.  Ancak, eczacıyı canından bezdiren uygulamaların artık angarya düzeyine geldiğini, bunun da bizleri rencide etmeye başladığını vurgulamak istiyorum. Bu noktaya gelinmesinde, geçen dönem Türk Eczacılar Birliği Başkanlığını yapan meslektaşımızın, 22 Temmuz 2007 seçimlerinde milletvekili olabilmek adına iktidar partisi ile kol kola girmesinin ve meslektaşlarımızın, hatta bizleri temsil eden eczacı odalarının dahi olurunu almadan bazı uygulamalara onay vermesinin, bizleri bugünkü sıkıntıların içine ittiği düşüncesindeyim.<br />
+22 Temmuz 2007 seçimleri öncesinde uygulamaya sokulan, birçoğunun da yılardır çözümlenemeyen ( üç sosyal güvenlik kurumunun aynı çatı altın da toplanması, ilaç fiyatlarının düşürülmesi gibi) bazı sorunlara da çözüm getiren uygulamalar olması yanında, sağlık güvencesi alan kesimin genişletilmesi gibi toplumu mutlu edecek değişiklikler seçim öncesi yüksek sesle her ortamda duyuruldu.<br />
+Ancak alt yapısı hazırlanmadan, getireceği mali yükün kaynakları bulunmadan yapılan hızlı değişimler, seçim sonrası çeşitli kısıtlamaları ardı ardına getirmeye başladı. Bu kez bir fark vardı. Getirilen kısıtlamalar halka yüksek sesle anlatılmıyor, hekim camiası yeterince bilgilendirilmiyordu. Hatta çoğu kısıtlamadan tek çatı altında toplanan ve adı SGK olan kurum yetkilileri ve kontrol birimleri de değişikliklerden bilgi sahibi olmadan uygulamalar başlatılıyordu. Önceleri “böylesine köklü değişikliklerde bazı karmaşalar olur” hoşgörüsü ile sıkıntıları göğüsleyen eczacı camiası sert yaptırımlar ve dayatmalarla karşı karşıya kalınca işin hoş görülecek yanı olmadığını anladı.<br />
+SGK görevlilerinin iyi yaklaşımı ile çözülebilen sorunlar yanında zaman zaman karşılaşılan dayatmalar, Devlet adına çok önemli ve özverili hizmet üreten eczacıyı rencide etmeye başladı. Eczacı verdiği hizmetin karşılığını alabilmek için sürekli ödün veren ve her geçen gün daha da dar boğaza itilen bir konuma düşürüldü. Çok sayıda meslektaşımız evini, arabasını sattı. Çok sayıda meslektaşımız ecza depolarının yaptırımları sonrası bankalara mahkûm oldu. Kapanan eczane sayısı ve yasal olmayan bir şekilde dara düşen bazı eczanelerin, ecza depolarının kontrolü altına girdiği söylentileri yaygınlaştı.<br />
+Yeni sistemin, eczanelerde ki bilgisayar donanımının genişletilmesini ve nitelikle yardımcı eleman sayısının artırılmasını zorunlu hale getirmesi eczanelerin giderlerini önemli ölçüde artırırken, vatandaşa sağlanan fiyat iyileştirilmelerinin diyeti eczacıya ödetilmeye başladı. Ecza depolarınca sağlanacağı söylenen kolaylıkların da askıda kalması ile gittikçe artırılan tek taraflı uygulamalar, “eczacılık mesleğine yeni bir statü mü getiriliyor” sorularını akla getirmeye başladı.  Gelişmeler, bu konuda internette dolaşan bazı senaryoları doğrular nitelik kazanmaya başladı.<br />
+Yukarı da yapılan kısıtlamaların tüketici durumunda ki sigortalı başta olmak üzere, hekim camiasına ve kamuoyuna yüksek sesle duyurulmaması sonucu sigortalı başvurduğu son kapı olan eczanelerde gerçekle karşı karşıya kalmaya başladı. Oluşan tepkilerin eczacılar tarafından göğüslenmesi ve eczacının sigortalıyla sürtüşme içersine sokulmasının mantıklı bir açıklaması olabilir mi? Son uygulamalarda ki bazı çarpıcı örnekleri sıralarsak;<br />
+. Hükümet hastadan hiçbir tedavi ücreti alınmayacağı duyuruları ile başlattığı yeni uygulamalardan geri adım atmaya başlayarak sigortalıların aile hekimi dışında hastanelere başvurması halinde; devlet hastanelerine 3.00 YTL, Üniversite Hastanelerine 6.00 YTL, Özel Sağlık Kurumlarına ise 10 YTL. Ödemesi zorunluluğunu getiriyor. Bu uygulama ile hastanelerin yükünün azaltılması ve aile hekimliğinin öne çıkartılması doğru yaklaşım olabilir. O halde hastanın bu ücreti başvurduğu sağlık kurumun da ödemesi gerekmez mi? Oysa hastadan başvurduğu sağlık kurumunda hiçbir ücret alınmadan reçetesi eline verilerek gönderiliyor. Geldiği eczane de reçetesi bilgisayar ortamında SGK sistemine girilince, hastadan… Miktarda muayene ücreti alınması gerektiği belirtilerek bu miktar eczane alacağından otomatik olarak kesiliyor. Hasta bu konudan habersiz. Düşününüz, aldığı ilaç 5.00 YTL. Hastadan istenen muayene ücreti 10.00 YTL. Hastanın yerine kendinizi koyun ve göstereceğiniz tepkiyi düşününüz. Kaldı ki bu miktar, hastanın daha önce gittiği bir hastane tarafından yazılan ilacını almamasına rağmen, o gün hastane tarafından sisteme girildiği için, muayene ücreti bir sonra ki muayene de ki ücrete eklenerek başvurduğu eczane de katlanmış olarak ortaya çıkıyor. Eczacı zaten artan bürokratik işlerle mi uğraşacak, hastanın bir türlü anlayamacağı bu sorunu mu anlatacak? Eczacıya devlet adına para toplama görevi vermek angarya değil midir? Makbuz veremeyişimiz mali açıdan suç değil midir? Bir meslek gurubuna bu kadar yüklenmek insaf ölçülerine sığar mı?<br />
+. Yazılan ilacın en ucuzunu verme uygulaması getirilerek doğru bir iş yapılmıştır. Ancak piyasadan kalkmış veya piyasaya henüz sürülmemiş bir ilacın verilememesi nedeniyle bir sonraki fiyatlı ilacı verince bir fark çıkıyor. Hasta da haklı olarak en ucuzunu ver, ben fark veremem deyince ne yapacaksınız?<br />
+. Damar sertliği nedeniyle kalp krizi riski taşıyan hastaya yazılacak kolesterol düşürücü ilacı alabilmesi için, kolesterolünün belli bir normun üzerinde olduğunu gösteren ve 6 ay geçerliliği olacak kan tahlili raporu isteniyor. Hasta ilacı kullanıyor ve kolesterolü düşüyor. Yeni kontrolde doğal olarak bu miktar istenen normun altına düşüyor. Bu kez sen bu ilacı alamazsın deniyor.  Oysa bu ilacın yaşam boyu kullanılması gerekiyor. Bu nasıl anlayıştır?<br />
+. SGK tarafından kurulan bilgisayar sistemi sık sık arıza yapıyor veya yeterli olamadığı için kapanıyor. Hasta acil ihtiyacı da olsa ilacını alamıyor. Buyurun size bir başka sıkıntı.<br />
+. Eczanelerin stoklarında bulunan ve milli servet konumunda ki çok sayıda ilaç, SGK ödemeleri dışına itilmiştir. İlaçta tek alıcı haline gelen Devletin almadığı bu ilaçları eczanelerin satması mümkün değildir. Eczaneler miadı dolduğu için imha etmek zorunda kaldığı bu ilaçlar nedeniyle de önemli kayıplara uğratılmaktadır.<br />
+. İlaç fiyatlarında yapılan ucuzlatmalar sonunda elinde önceki fiyattan alınmış ilaçla bulunan eczaneler bu ilaçlar nedeniyle de hiç de hakları olmayacak zararlara uğratılmaktadır.<br />
+. SGK dışında ki kurum ödemelerinde yaşanan gecikmeler eczaneleri ciddi boyutta etkilemiş bulunuyor. Özellikle yeşil kartlı hasta reçeteleri ödemeleri zaman zaman beş ayı geçiyor. Bazı ilçelerde çok daha uzun sürece yayıldığı biliniyor. Hele de konsolide bütçeye tabi bazı kurumların şubattan sonra ödenek yokluğu gerekçesi ile ödeme yapmaması anlaşılır gibi değildir.<br />
+Bu ve benzeri sıkıntıları burada anlatmaya sayfalar yetmez. Bu uygulama hataları kasıtlı değilse eczacılar açısından en azından bilgisizlik ve ilgisizlikle tanımlanabilecek bir dayatmadır. Ama internette dolaşan senaryoda aktörlerin isimleri de açık açık yazılan bir modele zemin hazırlanıyorsa, bilinmelidir ki 24.000 eczacı bu oldubittiyi kabullenmeyecektir.<br />
+Sosyal güvenlik kurumlarının birleştirilmesi ve yeşil kart kapsamının genişletilmesi ile hemen hemen sigortasız vatandaş kalmamış bulunuyor. Bunun doğal sonucu olarak  eczanelerin kasasına günlük nakit girişi asgariye düşmüştür. Eczacılar artık kurumlardan gelecek paraya mahkûm olmuştur. Sözün özü ilaçta tek alıcı devlet olmuştur. Böylesine bir gücün tek elde toplanması, bir anlamda devleti tek alıcı haline getirmiş bulunuyor.<br />
+Gelinen bu noktada devletin, eczacıların geleceğini olumsuz etkileyebilecek kararlar da biraz daha hoşgörülü olması, eczacı camiasının beklentisidir. Aksine, tek taraflı katı uygulamalar, eczacı camiasına karşı yapılan en büyük haksızlık olacaktır..<br />
+Ülkesinin en ücra köşesine kadar onuru ile halkına sağlık hizmeti sunan, devletine en yüksek oran da vergisini veren bir meslek gurubunu, siyasetin de içersinde olduğu bir takım çıkar ilişkileri ile birilerinin oluşturduğu gruplara verilmesinin düşünülmesi dahi bu meslek sahiplerine ihanettir.<br />
+Üzülerek son bir sözle noktalamak istiyorum. Ülkemizde her şeyin özelleştirildiği bir ortam da, sağlık sektörünün tek alıcı konumuna gelen devlet tekeli ile yönetilmesi akıl almaz bir durumdur.<br />
+Devletine her zaman destek olmuş ve halkına en geniş alan da ve anlam da hizmet vermiş bir meslek grubunu göz ardı etmek, umarım kimsenin aklından geçmemektedir. İyi haftalar… 23 Kasım 2008<br />
+SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0386-burasi-samsun-olur-boyle-seyler-2.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0389-bir-annenin-ardindan-hayatin-gercekleri.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

@@ -1,0 +1,308 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Lütfen Samsun&#x27;un Onur Anıtı&#x27;na Bakar Mısınız.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Lütfen Samsun&#x27;un Onur Anıtı&#x27;na Bakar Mısınız.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2015
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0747
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>LÜTFEN! SAMSUN’UN ONUR ANITI’NA BAKAR MISINIZ?</p>
+<p>Kentler sahip oldukları tarihi geçmişlerini yansıtan bir olay veya o kentle anılan bir yapıtla tanınırlar.<br />
+Samsun ise, Osmanlı İmparatorluğu’nun parçalanması ve son vatan toprağı Anadolu’nun da işgal edilmesi sonrasında başlatılan Milli Mücadele’nin ilk adımının atıldığı “19 Mayıs Kenti” Olarak tanınır. Bu Milli Mücadele’nin ateşini yakan lider ise, Mustafa Kemal’dir.<br />
+Mustafa Kemal, 19 Mayıs 1919 sabahı bu ateşi yakmak üzere onsekiz silah arkadaşı ile Samsun’a çıkıyordu.<br />
+Türk Ulusunun esaret altında yaşayamayacağına inanan Mustafa Kemal, Samsun’dan yola çıkarak her tarafı işgal edilerek Anadolu’nun ortasına sıkıştırılmış, elinde silahı olmayan, ayağına giyecek çarığı dahi bulamayan yoksul ve umutlarını yitirmiş çaresizlik içerisinde ki Anadolu Halkını, kurtuluş ve özgürlüğe inandırarak bir imkânsızı gerçekleştiriyordu.<br />
+Samsunlular da, sonu zaferle bitecek bu mücadelenin ilk adımının atıldığı kent olma onurunu kendisine bahşeden Atasına, saygı ve şükranlarının bir ifadesi olarak Türkiye’de ki en güzel Atatürk Anıtını yaptırma kararını alıyordu.<br />
+Samsun Halkı aralarında topladıkları parayla Atasına yakışacak güzel bir heykel yaptırmak üzere, 1928 yılında Avusturyalı ünlü Heykeltıraş Heinrich Krippel’e sipariş veriyordu. 1931 yılı sonlarında tamamlanan heykel bir denizcilik firması tarafından ücret alınmadan Samsun’a getiriliyor ve 15 Ocak 1932 yılında yapılan muhteşem bir törenle açılıyordu.<br />
+Açılışa katılamayan Mustafa Kemal Atatürk, Samsunlulara teşekkürlerini şu satırlarla iletiyordu.<br />
+“  Muhterem Samsun halkının şahsıma karşı besledikleri asil duyguların kıymetli bir tezahürünü bildiren telgrafınızdan pek mütehassis oldum. Teşekkür, muhabbet ve selamlarımın muhterem halka arzını rica ederim"  Mustafa Kemal Atatürk</p>
+<p>Kaidesinin dört yüzünde Milli Mücadele’den figürlerin de yer aldığı bu muhteşem Onur Anıtı’nı, o dönemin zor şartlarında yaptırma başarısını gösteren Samsunluların çocukları olarak, bu anıta yeterince sahip çıkamadığımızı üzülerek görüyorum.<br />
+Samsun’a gelen ziyaretçilerin ilk görmeye gittiği ve önünde anı fotoğrafları çektirdiği Onur Anıtı’nın bakımsız hali, cılız ışıklandırması ve özensiz çevre görüntüsü Samsunumuza yakışmıyor.<br />
+Her milli bayram da tüm protokolün katılımı ile bu Onur Anıtı’nın önünde tören yapılıyor olmasına rağmen, bu bakımsızlığa göz yumulmasını anlamakta sıkıntı çekiyorum.<br />
+Hatırladığım kadarıyla, bu Anıt en son 2000 yılı başlarında SAM-SEV’İN başlattığı çağrı üzerine o dönemin Valisi Sayın Muammer Güler ve Büyükşehir Belediye Başkanı Sayın Yusuf Ziya Yılmaz’ın çabaları ile temizlenmiş ve heykelin boyası koruyucu bir ilaçla temizlenmişti.<br />
+Samsun Büyükşehir Belediye Başkanlığı’nın, ana bulvarlarda ki refüjleri ve kavşaklarda ki göbekleri rengârenk çiçeklerle bezeyerek kente çağdaş bir görüntü kazandırmasını büyük bir beğeni ile izliyoruz.<br />
+Şimdi sormak istiyorum, bu heykel çevresinin peyzajının yeniden düzenlenerek göze hoş gelen bir çiçeklendirme neden yapılmıyor?<br />
+LED ışıklandırma teknolojisi ile özel binaların dahi görüntüsünün değiştirilebildiği bir ortamda, Onur Anıtımızı eski tip birkaç zayıf ışıklı spota mahkûm etmek nasıl bir iştir?</p>
+<p>Samsun’un turizm konusunda da iddialı bir kent olarak ilan edilmesiyle, turistik bir önem kazanan bu Anıtımızın şu an ki görüntüsü hiç bağdaşıyor mu?<br />
+Bu köşeden, Samsun Valimiz İbrahim Şahin’e ve Büyükşehir Belediye Başkanımız Sayın Yusuf Ziya Yılmaz’a bir Samsunlu olarak çağrı yapıyorum<br />
+Onur Anıtımızın bakımının ve temizliği ile ışıklandırmasının ve çevre düzenlemesinin yenilenerek, Atamıza ve Samsun’a yakışır hale getirilmesi için gerekli çalışmanın başlatılmasını diliyorum?<br />
+Güzel ve sağlıklı bir hafta dileğiyle..10. 05. 2015</p>
+<p>Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0746-anneler-gunu-kutlu-olsun.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0748-turkiye-algi-yontemlerinin-kiskacindadir.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

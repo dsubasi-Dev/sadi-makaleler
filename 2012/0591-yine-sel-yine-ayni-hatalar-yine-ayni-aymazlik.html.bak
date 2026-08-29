@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Yine Sel. Yine Aynı Hatalar.Yine Aynı Aymazlık…</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Yine Sel. Yine Aynı Hatalar.Yine Aynı Aymazlık…
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2012
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0591
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>YİNE SEL. YİNE HATALAR ZİNCİRİ.<br />
+YİNE AYNI AYMAZLIK.</p>
+<p>Yüzyılın en büyük yağmuru yağmış.. Allahtan gelmiş bir afatmış..<br />
+Hadi oradan be..<br />
+2007 yılında yaşanan sel de metre kare başına düşen yağmur 90 kilogram ölen yok. 2012 de yaşanan son sel de metrekareye düşen yağmur 48 kilogram. Ölen 12 kişi..<br />
+Bu nasıl yorum?<br />
+Bilimsel raporları hiçe sayın..<br />
+Mimar ve Mühendis Odalarının ( TMMOB ) uyarılarını kulak ardı edin.. Hatta 2007 seli sonrası düzenledikleri “Sel Sempozyumuna” katılmak zahmetinde dahi bulunmayın.<br />
+Geçmişin çöp toplama merkezi Yılanlı Dere’nin yatağının yönünü değiştirip, önünü kapatıp dere yatağını doldurun. Sonra da dere yatağı olan vadiye inşaat yapılmasına izin verin..<br />
+Mert Irmağının yatağını daraltıp, “TOKİ” denen son dönemin imtiyazlı kuruluşuna 13-15 katlı binalar yapma izni verin..<br />
+13-15 katlı evler yapıp, o apartmanların güvenliği dahil her türlü hizmetini verecek kapıcılara giriş katlarında olsun bir daire ayırmayın..<br />
+Akıl almaz aymazlıkları yapın, “Ben en iyisini bilirim” tavrını sergileyin, birilerine para kazandırmak için göre göre hatalar yapın, sonrada ne yapalım Allah’tan geldi diye işi Tanrıya havale edin..<br />
+Yok öyle şey. Tanrı akıllılara yardım eder.<br />
+Hatalarınızla 12 vatandaşımızı canlı canlı toprağa gömdünüz. Bu konuda sorumluluğu olan bakanından en alt belediye çalışanlarına kadar suçlusunuz.<br />
+Bu günahın diyetini istifa ederek ödemelisiniz.<br />
+Bu da yetmez. İşin hukuki sorumluluğunu da ilgililer düşünmelidir.<br />
+Sanıyorum, Cumhuriyet Başsavcılığı da, TMMOB’NİN yazılı uyarılarını dikate almayarak bu faciaya neden olanlara gerekli hesabı soracaktır.<br />
+Bu hesap sorulmalı ve sorumlular cezasını bulmalıdır ki, bundan sonra aynı hatalar yapılmasın. Onlarca, yüzlerce vatandaşımız canından ve malından olmasın.<br />
+“Bu halk çok kolay unutan halk, nasıl olsa bir süre sonra unutur” diye düşünüyorsanız biliniz ki, vicdanlarınız sizi rahat bırakmayacaktır. Sizin aymazlıklarınız yüzünden ölen o çocuklar rüyalarınıza girecektir.<br />
+Yil 2007. Yine bu aylar. Yine büyük bir yağmur ( Metrekare başına 90 kiliogram) ve yine büyük bir sel felaketi. Bu kez Baruthane ve Atakum da büyük hasar olmuş.<br />
+Sel sonrası Samsun Mimarlar odası Samsun’da ki sel felaketlerini masaya yatırmak için bir “Sel Sempozyumu” düzenliyor ve Ortadoğu Üniversitesi ile İstanbul Teknik Üniversitesinden konunun uzmanları bilim adamları ile DSİ yetkilisi bir mühendis ve bir şehir plancısı katılıyor. Topoğrafik haritalar asılıyor ve uzmanlar anlatıyor. Samsun’un 7 tane derenin üzerine kurulduğunu harita üzerinde gösteriyorlar.<br />
+Bu derelerin çoğu bugün gözükmüyor. Üzerlerine binalar yapılmış. Ama büyük yağmurda bu derelerin olduğu yerden  sel suları geliyor. Bu derelerden birisi şehrin göbeğinde bulunuyor. Burası şidetli her yağmurda sel olup akan Ağabali Caddesi.<br />
+Böylesine önemli bir sempozyuma, gerekli görmedikleri için olsa gerek kenti yöneten belediye başkanları katılmıyor dahi..<br />
+2007 de oluşan sel felaketi sonrası bu köşe de yayınlanan 03.011.2007 tarihli köşe yazımda, konuyu irdeleyerek bazı yanlışlara dikkat çektiğimi ek not olarak belirtmek istiyorum.</p>
+<p>Selin Nedenlerinin Analizi:<br />
+Yukarıda sözü edilen sempozyumda adı geçen derelerden birisi yeni açılan AVM’nin altından, bir diğeri de TOKİ’NİN Kuzey Yıldızı diye övünerek yaptığı toplu konut bloklarının altından veya yanından geçiyor.<br />
+AVM’NİN yapıldığı Devgeriş İncirli Vadisi tam bir sel yatağı. Bu vadiden incirli deresi akıyor. İşte bu derenin yatağına büyük bir AVM’NİN yapımına izin ve ruhsat veriliyor. Herhalde alan kazanmak için derenin üzerini de betonla örtüyorlarlar. Açıklamalara göre, Büyükşehir Belediyesi’nin uyarısına rağmen bu beton kapatma kaldırılmıyor.<br />
+AVM’NİN açılışının üzerinden bir ay geçmeden ilk büyük yağmurda AVM sel çamuru altında kalıyor. Sel gece gelmese, belki çok burada daha büyük can kayıpları olacaktı. Buraya yatırım yapaan insanlara günah değil mi?<br />
+Bir diğer dere yatağı da en büyük can kaybının olduğu “TOKİ Kuzey Yıldızı” Bloklarının yapıldığı yer. Buranın beş kilometre yukarısında önü kapatılmış olan Yılanlı Dere bulunuyor. Yılanlı Dere’nin yatağı değiştiriliyor. Geçmişte çöp atık alanı olan burası daha sonra toprakla doldurulup önüne set yapılıyor.<br />
+İşte son yağmurda dere asıl yatağında akarak önündeki toprakları sürükleyip TOKİ Kuzey Yıldızı Bloklarını basıyor.<br />
+TOKİ Kuzey Yıldızı Toplu Konut alanın hemen yanından bir  de Mert Irmağı akıyor. Asıl genişliği 70 metre olan Mert Irmağı’nın etrafı doldurularak ırmak yatağı daraltılıyor. Böylece genişletilen arsa üzerine TOKİ’YE toplu konut izni veriliyor. Sel sonrası fotoraflarına bakıldığın da, Mert Irmağı’nın yatağını genişletip adeta TOKİ Bloklarına dayandığı görülüyor. Eğer biraz daha genişlese belki facianın boyutları çok daha büyük olacaktı.<br />
+Bu kentin yönetimine talip olanlar bu kadar çok yanlışı yaparsa, ortaya çıkan facianın sorumluluğunu da üstlenmek zorunda kalırlar.</p>
+<p>TOKİ, Soruşturulmalıdır..</p>
+<p>TOKİ denen kuruluş her yönü ile soruşturulmalıdır. Hadi dere yataklarına ev yapan insanlar cahilliklerinden ve yoksulluklarından yapıyorlar diyelim. Kentleri dönüştürerek daha çağdaş yaşam sunmak üzere yola çıkan bir devlet kurumu olan TOKİ’YE ne diyeceğiz?<br />
+Büyükşehir Belediyesi Genel Sekreter Yardımcısının açıklamasına göre, TOKİ kendisi ruhsatı alıyor ve iskanı kendisi veriyormuş. Bu nasıl bir yetki? O zaman belediyelerin görevi nedir? Bunlar akıl alacak şeyler değil.<br />
+Su yataklarının kullanıma açılmasında DSİ’NİN denetim görevi vardır deniyor. Bütün kamu kurumlarının başına siyasi yandaş haline getirilmiş müdürler atarsanız, bu kurumlar arkasında hükümetin olduğu TOKİ’ye denetim yapamaz.<br />
+TMMOB’NİN proje denetim yetkisini kaldırırsanız bu yanlışlardan kurtulamazsınız.<br />
+Önü deniz olan bir kentin yağmurdan oluşan yer üstü sularının denize ulaşmasını engellerseniz, bu felaketlere davetiye çıkarsınız.<br />
+Şu an da Atakum’da büyük risk taşımaktadır.<br />
+Samsun- Bafra karayolunun yükseltilmesi ve Kurupelit-Taflan arasında yolun her iki tarafına 2.5 metre yüksekliğinde set şeklinde duvar örerken, dağlardan ve dere yataklarından gelecek sel sularını denize ulaştıracak sanat yapılarını da yeterli genişlikte yapmamışsanız, yeni felaketler kapıda  demektir.<br />
+Mesleklerinin gereği olarak uyarılar yapan TMMOB yönetimlerini “Bunlarda herşeye karşı” diyerek dışlarsanız, bu işin vebalini de üstlenirsiniz..<br />
+Yapılan her türlü eleştiriye kulaklarınızı tıkarsanız, sonuçlarına da katlanırsınız..<br />
+SONUÇ:<br />
+Yöneticiler, gerektiğinde istifa etme kültürüne kavuşmadıkça ölen öldüğü ile kalacak, hata yapanlar yaptığı ile kalmayı sürdürecektir.<br />
+İnsanlar hata yaptıklarını kabul etmediği sürece, bu trajedi devam edecektir.<br />
+Hayatını kaybeden vatandaşlarımıza Tanrı’dan rahmet ailelerine sabır, işyerleri zarar görenlere geçmiş olsun dileklerimi iletiyor ve bu felaketin son olmasını ve tüm yöneticilerin de gerekli dersi çıkartmasını diliyorum.<br />
+İyi haftalar.. 08. 07. 2012</p>
+<p>Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0590-kose-donucu-kusaktan-dindar-kusaga.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0592-kurtulmus-u-yuceltecek-has-partiyi-tarihe-gomecek-proje.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

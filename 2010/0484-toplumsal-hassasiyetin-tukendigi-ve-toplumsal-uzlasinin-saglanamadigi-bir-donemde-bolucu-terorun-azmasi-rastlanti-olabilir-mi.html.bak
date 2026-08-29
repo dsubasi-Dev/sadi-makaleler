@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Toplumsal Hassasiyetin Tükendiği ve Toplumsal Uzlaşının Sağlanamadığı Bir Dönemde Bölücü Terörün Azması Rastlantı Olabilir mi</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Toplumsal Hassasiyetin Tükendiği ve Toplumsal Uzlaşının Sağlanamadığı Bir Dönemde Bölücü Terörün Azması Rastlantı Olabilir mi
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2010
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0484
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>TOPLUMSAL HASSASİYETİN TÜKENDİĞİ VE TOPLUMSAL<br />
+UZLAŞININ SAĞLANAMADIĞI BİR DÖNEM DE AZAN<br />
+BÖLÜCÜ TERÖR OLAYLARI RASTLANTI OLABİLİR Mİ?</p>
+<p>Türkiye son derece stratejik bir bölgede yer almakta olup, bölgede ki zengin yeraltı kaynakları nedeniyle de, bölgemiz başta Amerika olmak üzere tüm sömürgeci ülkelerin çıkar savaşı verdiği bir arena haline gelmiştir.<br />
+Ayrıca, Türkiye yapı olarak çeşitli inanç ve etnik farklılıkları bünyesinde taşıyan bir toplumdur. İşte bu yapı Türkiye’nin yumuşak karnını oluşturmakta ve bölgede çıkar hesabı olan dış güçler bu bölgede güçlü bir Türkiye’nin varlığından rahatsız olmaktadırlar. Bunun doğal sonucu olarak da bu etnik ve farklı inanç grupları sürekli kışkırtılmaktadır.<br />
+Türkiye, bu sorunların üstesinden gelebilmek için toplumsal hassasiyetini en üst düzeyde tutmak zorundadır. Bunu sağlamak için de Devletin güçlü olması gerekmektedir.<br />
+Ne yazık ki, son 25 yılda Devlet anlayışı çok ciddi şekilde sarsılmış ve Devleti ayakta tutan ilkeler birer birer tahrip edilirken, Devlet’i koruyan bir takım kurumlar da zaman içersinde yanlış amaçlarla kullanılarak yıpratılmıştır.<br />
+Adına ister “Derin Devlet” densin, isterse başka bir isimle anılsın, bu tür kurumlar hemen hemen her ülke de vardır. Başta “MİT” olmak üzere bu kurumlar, varsa yanlışlarını düzeltmek yerine son dönemlerin moda söylemi olan, “Daha çok demokrasi” adına yerle bir edildi.<br />
+Özal dönemi ile başlayan devlet kaynaklarının çarçur edilmesi ve halkın birikimlerinin bankalar kanalı ile soyulmasını, son dönemlerde özelleştirme adı altında ülkenin neredeyse tüm önemli tesislerinin yandaş kişi ve kuruluşlara değerlerinin altında satışı izledi.<br />
+Tüm bunlara bir de son dönemlerde yaşanan, önü arkası belli olmayan tutuklama ve yargılamaların eklenmesi ve bunların çoğununun da izinsiz dinlemelere dayandırılması ile toplumun her kesiminde oluşan dinlenme korkusu “Devlet’e” olan güveni önemli ölçüde sarsmıştır.<br />
+Bunlar olurken, tek başına iktidar olmanın verdiği mecliste ki sayısal üstünlüğü kullanılarak çıkarılan kanunlar, değiştirilmeye çalışılan “Anayasa” ve “ Demokrasi açılımları” adı altında bazı uygulamaların hiçbir uzlaşma zemini aranmadan dayatılması, toplumun gerilmesine ve toplumsal barışın yıkılmasına neden olmuştur.<br />
+İşte tüm bu olumsuz gelişmeler, sanıyorum ki son dönemlerde hızla artan bölücü terör olaylarına da zemin hazırlamıştır.<br />
+Sonuçta, içimizi yakan şehit Mehmetçik haberleri de birbiri ardına gelmeye başladı. Sık sık tekrarlanan, “Kanları yede kalmayacak” veya “Karşılığını en sert şekilde görecekler” Türü söylemlerinde artık bir anlamı kalmadı. Bu şehit haberleri de, “Ateş düştüğü yakar” deyimi ile sınırlı şekle dönüştü ve neredeyse olaylar kanıksanır hale geldi. Toplum olarak öylesine bir aymazlığın içine düştük ki, insanın aklı almıyor.<br />
+Geçtiğimiz Cuma sabahı TV kanallarına yansıyan ve Hakkâri’de ki baskınlarda onbir Mehmetçiğimizin daha şehit olduğunu duyuran haberler ne kadar acı ise, toplumsal olarak gösterdiğimiz duyarsızlık ondan çok acı vericiydi.<br />
+Bunları neden mi söylüyorum? Bakın anlatayım. Cuma gecesi saat 23.30 da TV kanalları arasında biraz gezindim. Görüşlerini dikkate almadan söylemek isterim ki, gördüklerime inanamadım. Sayısı dördü geçmeyen haber kanalı dışında, sadece bir kanalda ki Çanakkale Savaşı filmini de saymazsam, diğer tüm TV kanallarında “vur patlasın çal oynasın” Türü müzik eğlence programları hiçbir değişikliğe gerek duyulmadan devam ediyordu.<br />
+Üzülerek söylemek istiyorum ki, toplumsal hassasiyetin böylesine çöktüğü, dayanışma kültürümüzün böylesine yozlaştığı bir dönemi hatırlamıyorum. Bu ortamı sağlayanlar ne kadar sevinseler yeridir. Bizi en güvendiğimiz yerden vurdular. Yazıklar olsun.<br />
+İşin bir başka iç burkan yanı da, çok güvenilen bir kurum olan ordumuzun da bu olaylardan çok ciddi yara aldığı gerçeğidir. Vatan hainliği düzeyinde alçalan ve fırsat kollayan bazı malum köşe yazarları Ordumuza ve komutanlarına artık açıktan vurmaktadırlar.<br />
+Ancak kabul etmek gerekir ki, yeri gelince dünyanın en güçlü ordularından birisi olarak övündüğümüz ordumuz da, 30 yıla yakın bir süredir yok edemediği 3–5 bin kişilik bölücü terör örgütünün her geçen gün artan vurgunları karşısında ciddi bir güven bunalımına sürüklenmektedir.<br />
+Genelkurmay’ın bu konuyu bir şekilde açıklaması ve eğer bu zafiyetin altında toplumun bilmediği başka nedenler varsa ki, “Şahsen ben bugüne kadar açıkça söylenemeyen başka nedenlerin olduğuna inanıyorum” Onların da halkımıza anlatılması artık zorunluluk haline gelmiştir. Bu, en azından askerimizin daha fazla yıpratılmaması için gereklidir.<br />
+Bunları yazarken, bir konuya da değinmem gerekir diye düşünüyorum. Böylesine hassas bir dönemden geçerken, yıllarca Güneydoğu ve Doğu Anadolu bölgesinde bölücü terör örgütüne karşı çarpışmış en alt düzeyden, en üst düzeye kadar çok sayıda askerin yargılanmak üzere tutuklanması düşündürücüdür.<br />
+Bu subayların soruşturmasının ve yargılanmasının çok hızlı bir şekilde sonuçlandırılması şarttır. Suçu olanların cezasını çekmesi ne kadar doğal ise, suçsuz olanların imzasız ihbarlara dayalı olarak uzun süre yargılanmadan içerde tutulması akıllara başka soruları getirmektedir. Hiç kimsenin askerin üzerinden siyaset yapmaya hakkı yoktur. Bunu düşünmek dahi bu ülkeye ve ordumuza yapılacak en büyük kötülüktür ki, kimse bu sorumsuzluğun doğuracağı sonuçların altından kalkamaz.<br />
+Artık gelinen nokta, tüm sabırların ve hoşgörülerin tükendiği andır. Devlet dediğimiz gücün hala etkin olduğu bir şekilde kanıtlanmalı ve yüreği yanan insanlarımız biraz olsun rahatlatılmalı, umutları tazelenmelidir.<br />
+Öncelikle, İmralı’da tutuklu bulunan eli kanlı terörist başının terörü yönlendiren açıklamaları durdurulmalıdır. Çünkü anlaşılmaz bir şekilde Devlet olmanın kuralları ile de çelişen bu rahatlık, insanları çileden çıkartmaktadır. Bu nasıl cezaevidir ve nasıl bir tutukluluktur ki, orası her türlü mesaj ve talimatın verilebildiği bir üs haline gelmiştir.<br />
+Güneydoğu Bölgemizde yaşayan Kürt kökenli vatandaşlarımızın büyük bir çoğunluğunun bu ülkenin vatandaşı olmaktan dolayı bir sorunu olduğunu sanmıyorum. Çünkü bu olayların temelinde dış kaynaklı kışkırtmalar yatmaktadır.<br />
+Ve inanıyorum ki, kışkırtmaların önü kesilir ve bölücü terör militanlarının hareket alanı daraltılırsa, bundan en az bizler kadar Kürt kökenli vatandaşlarımız da memnun olacaktır.<br />
+Artık Türkiye Cumhuriyeti Devleti’nin varlığını ve gücünü kanıtlama zamanıdır.<br />
+İç sorunlarımızı çözmeden, tarihin tüm dönemlerinde bize destek vermemiş ülkelerin sorunlarını çözmeye kalkmak, daha evini ve ailesini yönetememiş, iş düzenini kuramamış birilerinin, koca Türkiye’yi yönetmek üzere siyasete girme hevesine benzemektedir.<br />
+Gün ülkeyi huzura kavuşturma zamanıdır. Hiç kimsenin seçim hesapları ile ülkeyi sıkıntıya sokacak politikalar izlemeye hakkı yoktur. Bu, iktidar içinde, muhalefet partileri içinde kaçınılmaz bir sorumluluk haline gelmiştir.<br />
+Umuyorum ortak akıl çerçevesinde buluşuruz ve hep birlikte sorunları kazasız belasız atlatırız. İyi haftalar dileğiyle.. 20 Haziran 2010</p>
+<p>SADİ SUBAŞI</p>
+<p>IFrom: Sadi SUBAŞI sadisubasi@denizeczaneoptik. comTo: Sadi SUBAŞI &lt;sadisubasi@denizeczaneoptik. com&gt;Sent: Sun, June 20, 2010 10:17:46 PMSubject: sunuş</p>
+<p>Değerli Sadi Ağabey,<br />
+Ülkemiz üzerinden oynanmakta olan oyun tüm hızıyla devam ediyor. PKK'nın baskınları maalesef devam edecek, nereye kadar devam edecek APO muhatap alınıncaya kadar, sonra Kuzey Kürdistan özerk bölgesi ilan edilecek, plan bu, bu plan ABD ve AB’nin ortak planı, Plan işliyor, Barzani Ankara’da kral gibi karşılanıyor. Maalesef hükümet ve TSK ABD ve AB’ye karşı duramıyor.  TSK birlikleri sabit düzen üzerine kuruludur. PKK gibi terör örgütleri hareketli 7–8 kişilik hücreler halinde hareket eder. Dolayısıyla inisiyatif her zaman hareketli birliğin elindedir. Bu nedenle bu tip baskınlara her zaman maruz kalınabilir. Peki, ne olacak, 2 hal tarzı var;<br />
+1. Kadere razı olup Türkiye’nin güneydoğusunu Barzani’ye teslim etmek.<br />
+2. ABD ve AB’ye karşı durup meclis kararıyla kuzey ırak a girip en az 50 kilometre derinliğinde sınır değişikliği yapmak ve Kuzey Iraktaki PKK kamplarını tamamen ortadan kaldırmak. Bu hal tarzı Türkiye’yi ekonomik ve siyasi yönden çökertir mi? Evet, asker kaybımız olur mu? Evet, Ama bu ülkenin onuru kurtulur. Gelecek nesle bu ülkeyi misak-ı milli sınırları içinde devrederiz.<br />
+Saygılarımla. Em. Kur. Dz. Alb.                                                                           Ragıp Varan<br />
+I</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0483-bu-ulkeyi-savunanlar-ve-gercekleri-soyleyenlersuclu-oylemi.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0485-turkiye-de-yapilanin-adi-siyaset-olamaz.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

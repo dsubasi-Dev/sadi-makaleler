@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Samsun Üzerine Çeşitlemeler</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Samsun Üzerine Çeşitlemeler
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2005
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0193
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>SAMSUN ÜZERİNE ÇEŞİTLEMELER</p>
+<p>Bazı şeyleri hep güzel göstermek veya iyi taraflarını görmeye çalışmak insanı rahatlatan bir bir özelliktir. Bir diğer deyişle bardağın boş tarafını değil  dolu tarafını görmeye çalışmak olumluluk göstergesidir. Samsun’un genel görüntüsüne bakarken bu değerlendirme çok önem kazanıyor.<br />
+Samsun, dış görüntüsü ile bardağı doluya yakın gözüken bir kent. Gerek yeni Türkiye Cumhuriyetinin kuruluşunun ilk adımının atılan yer olması nedeniyle kazandığı tarihi misyonu, ve gerekse Tanrı’nın bahşettiği coğrafi olanaklar, zaten Samsun’u bir adım öne çıkartıyor. Buna eklenen geçmişinden  gelen gelişmiş sosyal yapısı , Samsun’u Ülkemizin en şanslı kentlerinden birisi haline getirmiştir.<br />
+Yeterli olmasa ve bazı önemli yanlışlar yapılmış olsa da, son iki     dönemdir kent dokusunda yaratılan çağdaş yenilikler Samsun’a şehirlilik açısından katkılar sağlamıştır.<br />
+Ancak hep bardağın dolu tarafını görmek , olanla yetinmek ve eksikleri söylememek de çok doğru bir yaklaşım olamaz. Bu pencereden bakarak, eksiklikleri ve yanlışları vurgulayanları da olumsuzlukla suçlamak çok doğru olmasa gerek. Tabii burada siyaset adına her yapılanı eleştirme alışkanlığını ayrı tutmak gerekir diye düşünüyorum.<br />
+Perşembe akşamı Toplum Gönüllüleri tarafından düzenlenen “Türkiye’nin Ekonomik Büyüme Trendinde Samsunlu Girişimciler için Yeni Fırsatlar” konulu panelde konuşan eski hazine müsteşarı ve Garanti Lizing Yönetim Kurulu Başkanı sayın Mahfi  Eğilmez  “Samsun’u çok gelişmiş ve Türkiye’nin en güzel kentlerinden birisi olarak gördüğünü söyleyince izleyicilerden birisinin , “biz Samsun’a gelen konuklarımıza hep güzelliklerini gösterir arka sokaklarını göstermeyiz “ diye serzenişte bulunması düşündürücüydü.<br />
+Biz  ne kadar  iyimser gözle baksakta, yaygın medyada sık sık ilginç ve Samsun’un imajını zedeleyen haberlerle karşı karşıya kalıyoruz. O halde bazı yanlışlar ve eksiklikler var demektir. Önemli olan bunlara arkamızı dönmek yerine, bunları gidermek için gerekenleri yapmaktır.<br />
+Geçtiğimiz hafta işte bu söylediklerimi doğrularcasına bir haber kamuoyuna yansıdı ve yeni bir tartışma konusu açıldı. Arkasından da çeşitli polemikler yaşanmaya başladı. Haberi siyasi fırsat olarak algılayan muhalefetteki siyasilerden eleştiriler yağmaya başladı. Tabii iktidar kanadından da, açıklanan rakamların 2000 yılı verileri olması nedeniyle, kendi dönemlerini bağlamadığı şeklinde karşı tezler gündeme taşındı. Anladığınız gibi sözü edilen şey, Devlet İstatistik Enstitütüsünün açıkladığı illerin göç alma ve göç verme verileriydi.<br />
+Açıklanan endekslere göre Samsun yine olumsuzluk şampiyonu olmuş ve Türkiye’nin en çok göç veren kenti ünvanını kazanmıştı. Bu sonucu fırsat bilen muhalefet siyasetçileri, bu kent adına o dönemlerde Samsun adına kendilerinin siyaset yaptığını herhalde unutmuşlardı. Bu sonucun ortaya çıkmasında geçmişte Samsun adına siyaset yapanlar ne kadar sorumluysa, Samsun’un eksiklerini gidermek için göreve talip olan ve seçilen  günümüz siyasetçileri de bu olumsuzlukları gideremedikleri için o kadar sorumludur.<br />
+Günümüz siyasetçilerinin önünde hala zaman oluşu, onlara sözlerini yerine getirmek için bir şans vermektedir. Öyleyse sen ben polemiğini bir yana bırakarak eksiklerimizi giderecek girişimleri başlatmak, bu kent adına sorumluluğu olan  tüm Samsunluların görevi olmalıdır.<br />
+Yakın geçmişimize şöyle bir baktığımızda bu kent adına yapılan yanlışları ve yapılamayanları göz ardı edemeyiz. Bu kent eğer bir mobil santral belası ile uğraştırılmışsa ve Samsun’un gelişmesi için harcanabi-   cek çok önemli kaynak ( her ay yapımcı firmaya ödenen 2.5 milyon dolar ) israf ediliyorsa, çevremizde ki tüm iller teşvik gibi bir olanaktan yararlan- dırılırken Samsun’a haksızlık yapılıyor ve buna seyirci kalınıyor, hatta kısır siyaset adına gerekli değil denebiliyorsa , ortada çok ciddi siyasi bir yetersizlik var demektir. Bunun sorumluluğundan ne dünkü, ne de bugünkü siyasetçilerimiz ve kent adına söylemleri olan sivil toplum kuruluşları kurtulamazlar.<br />
+Bu güne kadar kentleri adına doğruyu yapıp, her dönem iktidara önemli ölçüde milletvekili desteği verdiği halde hiçbir dönemde bunun karşılğını alamayan Samsunluları, her panelde girişimci olmamakla suçlamak çok doğru olmasa gerek. Her türlü teşvik olanağı elinden alınarak haksız rekabete zorlanan iş adamlarımıza yapılan bu haksızlığı kabul edemiyorum.<br />
+Ama bunu söylerken, biz Samsunluların da ciddi eksikliklerini görmezden gelemeyiz. Burnumuzun dibindeki Ladik çimento fabrikasının özelleştirme ihalesine giren tek bir Samsunlu firmanın olmayışının hesabını da, bu işlerde öncü olması gereken kuruluşlarımızın vermesi gerekir diye düşünüyorum.<br />
+Bu konuda son Gaziantep Çimentonun özelleştirme ihalesine girerek ihaleyi alan Gaziantepli işadamı sayın Konukkoğlu’nun, şu açıklamasını değerlendirmenize bırakıyorum. İhale sonrası sayın Konukoğlu şöyle diyor “Bizim ihaleyi almak için Gazianteplilere sözümüz vardı.  128 milyon doları gözden çıkartmıştık.127.250 dolara aldık ama Gaziantep’in prestiji için sözümüzün arkasında durarak sözleşmeyi 128 milyon olarak imzalıyoruz.  Fazladan vereceğimiz 750.000 dolar Gaziantep için feda olsun.” Varmı bizde böyle işadamı? Veya bu tür ortak girişime önayak olacak kurulu? Bunları artık sesli tartışmanın zamanı gelmiştir. Panellerde dışarıdan gelen konuşmacı uzmanların verdiği öğüt can sıksa da en doğrusu sanıyorum. Bu kentin artık kimseden destek beklemeden kabuğunu çatlatması zorunlu hale gelmiştir. Bu konuda öncülük yapma sorumluluğu olan işadamlarımızın ve sivil toplum kuruluşlarımızın bu gerçeği görerek kollarını sıvaması gerekmektedir.<br />
+Bunun için alt yapı Samsun’da vardır. Bilgi bankası görevini yapabilecek  konuma sahip bir üniversiteye sahibiz. Sivil toplum kuruluşları olarak önemli bir konumdayız. Artık taşın altına birilerinin elini sokması zamanı gelmiştir. Bunları yapamadığımız sürece daha çok panel izler ve bol, bol öğüt alırız. Samsun’un üzerine ölü toprağı örtülmüş söylemleri bizi bir yere götürmüyor.<br />
+Siyasi çıkarlar ve beklentiler uğruna, bizim adımıza siyaset yapmak üzere görev alanlarla kol kola olmak bu kente bir şey kazandırmıyor. Önemli olan onlara yüklendikleri sorumlulukları hatırlatmaktır. Her dönem milletvekillerini değiştirmek ve yeni umutlara yelken açmak bu kente bir şey kazandırmıyor. Bu kentte siyaset yapan il yönetimlerinin  seçimler  öncesi aday tercihlerinde, bu kentin çıkarlarını koruyacak isimlere ağırlık vermesi artık kaçınılmaz hale gelmiştir.<br />
+Türkiye Cumhuriyeti’nin kuruluşuna giden ilk adımın atıldığı bu Kente  içinde düştüğü atalet yakışmıyor. Unun şekerin bulunduğu bu kentte helvayı yapmak için biraz silkinmek yeterli olacaktır diye düşünüyor ve umudumu koruduğumu belirtmek istiyorum.. İyi haftalar..16-Ekim-2005</p>
+<p>SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0192-sivil-toplum-kuruluslari-gorev-basina.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0194-tesekkurler-arica-tesekkurler-samsunspor.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

@@ -1,0 +1,338 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Türkiye&#x27;nin İlk ve Son On Beş Yılı</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Türkiye&#x27;nin İlk ve Son On Beş Yılı
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2017
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0880
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>TÜRKİYE’NİK İLK VE SON ONBEŞ YIL DEĞERLENDİRMESİ.</p>
+<p>Önceki akşam son günlerde yeniden gündeme oturan eğitim konularının tartışıldığı programı izlerken, Türkiye Cumhuriyeti’nin kuruluş yılları aklıma gelince içim sızladı.<br />
+Biraz da bu programın etkisi ile, Türkiye Cumhuriyeti’nin kuruluş yıllarında kısa sürede yapılanlar ve hızlı kalkınma bir filim şeridi gibi gözlerimin önünden geçti.<br />
+İster istemez beynimin araştırma ve sorgulama merkezi uyanmış ve dün ile bugünü üç bölümde sorgulamaya başlamıştı. O gece düşündüklerimi sizlerle de paylaşmak istiyorum.<br />
+Bölümde gördüklerim,<br />
+Önce gözümün önüne üç kıtaya yayılan muhteşem Osmanlı İmparatorluğunun şaşalı dönemleri geldi.<br />
+O dönemleri düşününce de beynim, üç kıtaya hükmedecek konuma gelen bir İmparatorluğu yönetenler nasıl olurda ilime, bilime ve matbaaya sırt dönerler? Sorusuna cevap aramaya başladı.<br />
+Aslında Osmanlı ve Avrupa devletlerinin tarihini inceleyenler için cevap basittir. Çünkü Osmanlı büyük bir din taassubu altında bilime ve matbaaya geçit vermezken, Avrupa din ile devlet işlerini ayırmış, ilim ve teknolojide hızla ilerliyordu.<br />
+Son zamanlarında buna bir de çapsız padişahların kaprisli ve beceriksiz yönetimleri eklenince, Osmanlı İmparatorluğunun çöküp dağılma süreci kaçınılmaz hale gelmiştir.</p>
+<p>Bölümde gördüklerim,<br />
+Türk tarihinin en parıltılı sahnelerinden birisiydi.<br />
+Kim düşünebilirdi ki, Mustafa Kemal diye birisi çıksın ve Osmanlıdan elde kalan ve o da işgal altında olan son vatan toprağının üzerinde yepyeni bir Türk Devleti kursun.<br />
+Hem de bunu, tüm umutlarını yitirmiş Anadolu insanını ayağa kaldırıp, arkasına takarak başlattığı milli mücadeleyi tüm dünyayı şaşırtan bir zaferle noktalayarak başarmış olsun.<br />
+Bununla da yetinmeyip, daha savaşın en kanlı çarpışmalarının sürdüğü bir sırada verdiği talimatla başlattığı eğitim zaferini de kazanmış olsun.<br />
+Nasıl mı?<br />
+Bunun da cevabını, başından beri ona inanan dava arkadaşları ile yarattıkları ve “Köy Enstitüleri” Adını verdikleri bize özgü bir eğitim modeli ile kısa sürede Osmanlı’ da %2 civarında olan okur yazar oranını, %25 lere çıkartarak vermişler.<br />
+Çağdaş dünyayı anlayabilmek ve onları yakalayabilmek için onların kullandığı alfabeyi uygulamaya koymuşlar.<br />
+Ulusunun dinini doğru öğrenerek din ile aldatılmasını önlemek amacıyla, dinini kendi dilinden öğrenebilmesini sağlamak üzere Kur’an’ın içeriğini açıklayan mealini yazdırıp halkına ulaştırmışlar.<br />
+Osmanlı döneminde toplu iğne dahi yapamayan, milli mücadele de giyecek ayakkabısı olmayan bir ulusu, şekerini, ayakkabısını, giyeceğini yapacak, demir çelik üretecek ve uçak yapacak hale getirmişler.<br />
+Ülkeyi demiryolları ile donatma hamlesini başlatmışlar.<br />
+Din ile devlet işlerini ayıran Laik düzeni kurmuşlar.<br />
+Bu yeni ülkenin diğer başarıları yanında, “Yurtta Sulh, Cihanda Sulh” İlkesi ile tüm komşuları ile barış içerisinde yaşamasını sağlamışlardır.<br />
+Bunlar başarılırken, birde Osmanlıdan kalan savaş borçlarını ödemişler.<br />
+Tüm bunların sadece ve sadece 15 yıl içerisinde başarılmış olması da bu dönemi haklı olarak Türk tarihinin en parıltılı dönemi olarak tarihe geçirtmiştir.<br />
+Bence bu ülkenin yaşadığı en büyük şansızlık, tüm başarıların altında imzası olan ve yaşamını cephelerde geçirmiş olan Mustafa Kemal Atatürk’ün, 1923 de kurduğu Türkiye Cumhuriyeti Devletinin başında, vefat ettiği 1938 yılına kadar sadece 15 yıl kalabilmiş olmasıdır.</p>
+<p>Bölümde görülenler;<br />
+Bu dönemin filmini izlerken gördüklerim öylesine karmakarışık ki, sanki Atatürk’ün 15 yıl gibi kısa sürede başardıklarından hiç ders alınmamış ve o başarılanların üzerine yenilerini eklemek yerine, adeta o başarıları yok etmeye çalışılan bir döneme girilmiştir.<br />
+Önce Mustafa Kemal Atatürk’ün kendi ekibinden gelenlerin, O’nun başlattığı devrimleri sürdüremedikleri bir dönem yaşanmış.<br />
+Ardından çok partili demokratik düzene geçilmesi ile birlikte önce Laik düzenin ana kuralı olan “Dinle devlet işlerinin ayrılığı ilkesi” Hiçe sayılmaya başlamış ve dinimizin siyasi kazanımlar için kullanılmaya başlaması ile birlikte toplumda ayrışmalara yol açılmıştır.<br />
+Onu siyasi kavgalar, askeri darbeler izlemiş ve Cumhuriyetin ilk dönemlerinde başlatılmış olan eğitim seferberliği ve sanayileşme hızı zikzaklar çizmeye başlamıştır.<br />
+Zaman zaman kalkınma adına önemli atılımlar yapılmış, zaman zaman da hesapsız kitapsız yatırımlarla ülke borç bataklarına düşürülmüş ve IMF’den borç olarak alınan kredilerle kalkınma modelleri uygulanmıştır.<br />
+Sonunda 2002 yılına kadar iktidara gelenlerin başarısızlıklarının da etkisi ile kendini herkesten çok dindar sayan bir parti tek başına iktidar olmuş ve son 15 yıla da onlar imza atmıştır.<br />
+Ne yazık ki bu son 15 yılda, ilk 15 yılın tersine yenilerini yapmak yerine, ulusun milli varlığı sayılan tüm sanayi kuruluşları ve Posta ile Telekom gibi ulusal güvenliğimiz ve çıkarlarımız için çok önemli olan hizmet sektörlerinin büyük çoğunluğu, özelleştirme adı altında yabancılara satılmıştır.<br />
+Köylü tarlasından kopartılmış, tarım ve hayvancılık yok olma noktasına getirilmiş, sonunda Türkiye kendi kendine yeten 7 ülkeden biri olma özelliğini kaybetmiştir.<br />
+Özelleştirmeden gelen bu paralarla yeni sanayi kuruluşları kurulmamış, ithalat patlamış, İMF’ e borçlar kapatıldı denirken yabancı bankalara olan devlet ve özel sektör borcu tavan yapmış ve dış borç tüm dönmelerin borcunu katlayacak düzeye ulaşmıştır.<br />
+İşsizlik artarken, kâğıt üzerinde milli gelirin arttığı açıklanmaktadır.<br />
+Bu arada ulaşım alanında önemli projeler gerçekleştirilmiş, demiryolu yapımı uzun yıllardan sonra önemsenmeye başlamıştır.<br />
+Güney Doğu Anadolu bölgemizde ki bölücü terör örgütünün en azgın dönemini yaşadığı bir sürece girilirken, son günlerde Güney Doğu Bölgemize de göz diken bir Kürt Devleti’nin kuruluşunun son adımları atılmaktadır.<br />
+Tüm komşu ülkelerle “Yurtta Sulh, Dünyada Sulh” İlkesi çerçevesinde sürdürülen iyi komşuluk ilişkileri yerine, neredeyse hepsi ile kavgalı bir ortama girilmiştir.<br />
+Dindar bir kuşak yetiştirme adına gösterilen hoşgörülerle güç kazanan tarikatların kontrolden çıkması ile bazı tarikatlar siyasi iktidarla kol kola girerek, Türk Ordusunun üst kadrolarını düzmece davalarla çökertmiş, referandumla da yargı siyasi irade ile bağımlı hale getirilmiştir.<br />
+Tarikatlara aşırı göz yumulmasının sonucunda FETÖ isimli bir tarikat, 15 Temmuz 2016 da devleti ele geçirmek üzere darbe yapmaya kalkışmıştır.<br />
+Sonunda, ülkede bağımlı yargının da desteği ile yozlaştırılan demokrasi yolu ile bir kişinin her konuda söz sahibi olduğu partili Devlet Başkanlığı dönemine geçilmiştir.<br />
+Son 15 yılın en büyük darbe yiyen bir başka kurumu ise, Milli Eğitim uygulamaları olmuştur.<br />
+15 yılda değişen 6 bakan, dindar nesil yetiştirme adına eğitim düzenini alt üst etmiş ve geleceğimiz olan çocuklarımız ile ailelerini perişan etmişlerdir.<br />
+Şu anda da eğitim camiası yeni dayatmalarla çalkalanmaktadır.<br />
+Ne yazık ki, bugün ülkemiz de ne TBMM’ nin, ne de Bakanlar Kurulu’nun varlığından söz etmek mümkün değildir.<br />
+Yine ne yazık ki, ülkemiz darbe girişimi sonrası darbecilerin temizlenmesi amacı ile çıkartılan bir kanun sonucu, tek kişinin yetkili olduğu KHK denilen Kanun Kuvvetinde Kararnamelerle yönetilen otoriter bir devlet konumuna gelmiştir.<br />
+SON SÖZ;<br />
+İşte size ilk 15 yıllık süreç ile son 15 yıllık sürecin kısa özeti.<br />
+Karşılaştırmayı ve değerlendirmeyi size bırakarak, gelecek günlerin bugünleri aratmaması umuduyla iyi haftalar diliyorum. 25.09.2017</p>
+<p>Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0879-i-slami-teror-orgutleri-i-slam-i-yipratiyor.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0881-yabanci-sporcu-meraki-ve-i-flas-etmis-federasyonlar.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

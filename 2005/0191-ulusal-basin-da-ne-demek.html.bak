@@ -1,0 +1,297 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Ulusal Basın da Ne Demek</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Ulusal Basın da Ne Demek
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2005
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0191
+
+</div>
+
+
+<div class="article-content">
+
+<p>a-mail; sadisubasi@denizeczaneoptik. com                                 SUNUŞ</p>
+<p>ULUSAL BASIN DA NE DEMEK?</p>
+<p>Türkiye’de medya deyince iki önemli ayırım yapılıyor. Birincisi “ yerel medya “ denen Anadolu kentlerinde çıkan gazeteleri ve yayın yapan TV istasyonlarını, ikincisi ise yanlış bir tanımlama ile  “ulusal medya “ olarak anılan  ve özellikle İstanbul’da yayınlanan gazeteler ile yayın yapan TV kanallarını kapsamaktadır. Yerel basın tanımını anlıyorum da , İstanbul’da yayınlanıpta tüm Türkiye’ye dağıtılan veya yayın yapan medyaya nasıl oluyorda, “ ulusal  “gibi bir tüm toplumu sarmalaması gereken kavramı yakıştırıyorlar anlamıyorum.<br />
+Tüm Türkiye’ye dağıtılıyor olmaları  onların milli olmalarını sağlamaz. Böyle bir vasfı taşıyabilmeleri için toplumumuzun tüm kesimlerinin ortak çıkarlarına  ve beklentilerine cevap veren yayın anlayışı  içersinde olmaları gerekir. Yerel basın, adına yakışır bir şekilde yörelerinin ve insanlarının sorunlarına değinirek, çok zor koşullar altında olsa da  bunları gündeme taşıma görevini yapmaktadırlar.<br />
+İstanbul basını da diyebileceğimiz basın ise , hergün hızla tekelleşerek ticari çıkar aracılığı için kullanılan güçler haline gelmektedir. Oysa medya çağımızın kamuoyu oluşturmakta ki en büyük gücü olup, bu gücü ile en büyük baskı aracıdır.4. güç olarakta tanıtılan basının, bu vasfı taşıyabilmesi için halkın beklentilerine cevap verebilmesi ve Ülkeyi yönetenlerin takipçisi olarak, yapılan yanlışları gündeme taşıyabilmesi gerekmektedir. Ululusal basın olarak adlandırılan İstanbul basınının bunu ne ölçüde yaptığını hep birlikte ibretle izliyoruz.<br />
+Ülkenin çıkarlarının savunulması bir yana, herbiri bir başka iç veya dış çıkar çevresinin borazanı haline gelmiştir. Bir kısmı da çıkarlarını daha da genişletebilmek amacı ile iktidarların doğrusuna da yanlışına da destek vererek yayınlarını sürdürmektedirler. Daha da kötüsü, bir kısmı Ülkemizdeki laik ve çağdaş düzeni değiştirmek adına güdümlü yayınlar yapabilmektedirler. Söylermisiniz böyle bir yayına nasıl milli diyebiliriz?<br />
+Bu basına verilebilecek en güzel adı , Ondokuzmayıs Gazeteciler Cemiyeti Başkanı sayın Necdet Uzun yakıştırmıştır.”yaygın basın “<br />
+Bundan böyle İstanbul basınından her platformda yaygın basın benzetmesi yapmak en doğrusu olur diye düşünüyorum.<br />
+Yaygın basından söz açılmışken bir endişemi de sizlerle paylaşmak istiyorum. Dikkat ediyorsanız, satışı yapılmakta olan çeşitli medya kuruluşlarının önemlileri aynı bir iki medya patronunun eline geçmektedir. Geçtiğimiz yıllarda, anlaşılmaz ve hiç de etik olmayan bir uslupla birbirlerini acımasızca suçlayan ve tehdit eden medya kuruluşları bugün tek elde toplanmaktadır. Artık Türkiye’nin en büyük ticari işletmelerin ilkleri arasında medya kuruluşları da gösterilmektedir. Ülkemiz ekonomisinde böylesine büyük bir güç haline gelen medyanın, sahip olduğu baskı gücünün de etkisiyle neler yapabileceğini düşünebiliyormusunuz?                                                                                                                                                                                                                                                                                                                                                   İstendiğinde Ülke siyasetinin yönlendirebileceğini, hatta manüple edilebileceğini düşünmek dahi istemiyorum. Ancak  gelinen nokta bu. Tüm çağdaş ülkelerde bulunan basın ile ilgili sınırlamalar delinmiştir.</p>
+<p>Umarım, bu güç ülkemizin çıkarlarını ön plana alacak tarzda kullanılır ve endişeler boşa çıkar. İyi haftalar dileğiyle..02-EKİM-2005</p>
+<p>SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0190-devletin-cokusu.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0192-sivil-toplum-kuruluslari-gorev-basina.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>AB Sevdası ve Yaşanan Çarpıklıklar</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+AB Sevdası ve Yaşanan Çarpıklıklar
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2004
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0115
+
+</div>
+
+
+<div class="article-content">
+
+<p>a-mail: sadisubasi@ttnet. net. tr                                                                                           SUNUŞ</p>
+<p>AB SENDROMU VE YAŞANAN ÇARPIKLIKLAR</p>
+<p>Türk toplumunda 19. yy. ın ortalarından itibaren batılılaşma hareketi yoğun bir şekilde yaşanmıştır. Hemen hemen her dönemdede buna karşı çıkan tutucu, bağnaz bir kesim varolmuştur. Özelliklede kurtuluş savaşı sonrası Atatürk ve cumhuriyet dönemi ile başlayan ''muasır medeniyetler seviyesine'' ulaşmak adıyla tanımlanan bir akım hız kazanmıştır. Hedef hep çağdaş Avrupa olmuştur. Atatürk'ün gerçekleştirdiği inanılmaz devrimler ne yazıkki Atatürk'ün zamansız ölümü sonrası bırakın devam etmeyi 1950 sonrası geri, geri gitmeye başlamıştır. Bu tarihten sonra Türkiye'de muhafazakar siyasi yönetimler iktidar olmuştur. Zaman zaman ihtilal hükümetleri döneminde ve kısa bir sürede Ecevit'le sol hükümetlerde iktidar şansını yakalamıştır. Ne varki Ülkemiz AB girmek için en büyük şansıda bu dönemde bulmuş ve anlaşılmaz bir kararla bu fırsat kaçırılmıştır. Bu nedenlede AB girememiş olmanın faturası hep Ecevit'e çıkartılmıştır.1980 den sonra AB Türkiye için bir hedef haline gelmiştir. Gerçi bu dönemlerdede koalisyon ortağı olarak iktidar  olan Erbakan yanlıları, AB yi hristiyan kulübü olarak reddedmişlerdir. Böylesine bir karmaşa içersinde gelinen 90 lı yıllardan sonra , aydınların tümü AB savunucusu olmuşltur. Kimileri de doğacak sınırsız özgürlük ortamında asıl amaçlarını gerçekleştirebilme açısından bunu bir fırsat olarak görmüşlerdir. Tabuların yıkıldığı, insan haklarının çiğnenmediği, gelir dağılımındaki eşitsizliğinin ortadan kalktığı, herkese eğitim yapma eşitliğinin sağlandığı, sağlık güvencesinin bulunduğu bir Türkiye , art niyetli olmayan herkesin en büyük dileğidir. İşte bu dileğin gerçekleşmesinin yolunun AB ne girmekle mümkün olacağı savı , son yıllarda büyük bir AB sendromuna dönüşmüştür. Sonunda bu işin dozu öylesine kaçırıldıki, bunu fırsat bilen Avrupalının akıl almaz talepleri, neredeyse Ülke çıkarları dahi gözardı edilircesine kabul edilmeye başlamıştır. Bu tavizin nerede ve ne zaman duracağıda bilinmiyor. Buna birde İMF in dayatmaları ile yeni bir sömürgeci anlayışı ve dünyaya hakim olma hesapları yapan ABD nin baskıları eklenince ortaya çıkan tablo insanı ürkütüyor.<br />
+Türklerin artık Anadoludan başka yaşayacakları toprağı yok. Milyonlarca şehit kanı ile sulanarak  büyük lider Mustafa kemal'in düşman işgalinden  kurtararak kurduğu Türkiye Cumhuriyeti üzerinde, belkide hiç bir dönemde olmadığı kadar büyük oyunlar oynanıyor. Başta Ülkemiz yönetiminde söz sahibi olanlar olmak üzere hepimizin çok uyanık olma zorunluluğu var. Aksi halde batılılaşma ve AB ye girmek gibi çok doğru ve haklı isteğimiz çok pahalıya mal olacak diye endişe ediyorum. Bu endişeleri duyan çok geniş bir kesimin de olduğuna inanıyorum. Bu endişeleri artıran son olgu ise, etnik gruplara baskı sonucu sağlanan olanakların kötüye kullanılmaya daha ilk günden başlamış olması. Bu Ülkenin üniter devlet yapısını koruyamazsak , Yugoslavya da yakın geçmişte yaşananlara Ülkemizdede tanık olabiliriz sanıyorum. Toplumumuzda ve özellikle ulusal basınımızın büyük bir kesiminde yoğun bir şekilde yaşanan ve AB ye girme yanlısı olma maskesi ile perdelenen yalakalık, Ülkesini seven herkesi rahatsız etmeye başladı. Sihirli bir değneğin dokunuşu ile bir gece de tutuksuz yargılanmak üzere serbest bırakılan vatana ihanet suçlularını neredeyse baştacı eden ve ''Türkiye de hakimler var'' diye başlık atan yazar takımına sormak lazım , bunları yargılayan ve cezaevinde tutan kararları verenler Türk hakimleri değilmiydi? O günden önce Türkiye de hakimler yokmuydu? Yalakalık okadar etkin hale geldi ki, her zaman benzer konularda tavır koyan Barolar Birliği ve hukukla ilgili üst kurulların çıtı çıkmadı.<br />
+Asırlarca birarada yaşamış etnik grupları gündeme taşımak, bu ülkeyi sevenlerin yapacağı iş değildir. Çok yakın zaman öncesine kadar süren ve azılı katillerin başrolü oynadığı katliamda bu Ülkenin 30 bin  gencecik fidanı  yokedildi. Tüm bunları olmamış kabul etmek , bu işin sorumlularını ve onlara çanak tutanları masum göstermek, gencecik çocularını bu uğurda kaybeden analara, babalara en azından saygısızlık olur. Üzülerek söylemek gerekirse Ülkemizin yönetiminde  söz sahibi olanların çocuklarının oralarda askerlik yapmadığı gerçeği ortadayken , Ülkemizin çıkarlarının korunması uğruna çocuklarını seve seve o bölgede askere gönderen  vatansever insanlarımızın  güvenini sarsmaya kimsenin hakkı olamaz. İnsanımızın çok istediği çağdaşlama ve AB ye girme istekleri dış güçlerin çıkarları uğruna feda edilmemelidir. Demokrasiye bağlı, Ülke çıkarlarını korumakla görevli ordu üst düzey görevlilerinin son zamanlarda yükselen uyarıları gözardı edilmemelidir. Geleceğimizi karartacak ödünler vermeden çağdaş dünyaya ve AB ne girebilmenin yolunu bullmalıyız diye düşünüyor ve iyi haftalar diliyorum..</p>
+<p>SADİ  SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0114-3-kent-kurultayi-ve-kent-muzesi-i-htiyaci.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0116-samsunspor-da-guzel-seyler-oluyor.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

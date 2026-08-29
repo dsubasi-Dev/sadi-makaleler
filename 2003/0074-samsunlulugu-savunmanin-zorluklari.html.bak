@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Samsunluluğu Savunmanın Zorlukları</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Samsunluluğu Savunmanın Zorlukları
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2003
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0074
+
+</div>
+
+
+<div class="article-content">
+
+<p>SAMSUNLULUĞU SAVUNMANIN ZORLUKLARI</p>
+<p>Son yıllarda beni çok rahatsız eden bir olgu var. Gerçektende son yıllarda bu Ülkede dürüst ve namuslu kalarak yaşamak çok zorlaştı. Aynen Samsun da yaşamak ve Samsunluluk ruhunu savunmak gibi. Uzun yıllar Samsun dışında yaşayıpta Samsun'a dönenlerin çok daha iyi tesbit ettiği gibi Samsun artık o eski Samsun değil. Her yönüyle büyük bir erozyona uğrayan Samsun da yaşamak zorlaştı. İnsanlar çocuklarına iş bulamıyor. Yüksek okulları bitiren gençler bu nedenle Samsun'a dönemiyor. Samsun'un yerlisi giderek azalıyor. Bu kentte yaşamaya kararlı olanlarında sesi, soluğu kesiliyor. Neyazıkki geçici olarak bu kente yerleşenlerin sesi daha çok çıkıyor. Kent devamlı kan kaybediyor. Kentin değerlerine sahip çıkanlar, birşeyler yapabilmenin çabasında olanlar acımasızca hırpalanıyor ve yalnız kalıyor. Benim asıl üzüntüm, zaten sayısı az olan bu Samsun sevdalılarına yapılanların bu işlere talip olacak insanların şevkini kırması ve önünü kesmesi. Onları daha bu işlere girmeden bu işlerden soğutması. El birlği ile yazık ediyoruz bu kente. Oysa Samsun gerek coğrafi yapısı ve gerekse sahip olduğu olanakları ile bu düşüşü haketmiyor.<br />
+Yıllarca iktidar partilerine en yüksek oranda milletvekili desteği vermişiz. Ama ciddi anlamda bakan çıkartamamışız. İktidarların bu kente doğru dürüst desteğini sağlayamamışız. Hükümetler ülkemizin her tarafına sanayi yatırımları yaparken bile Samsun'u es geçmişler.2-3 milletvekili olan illerin dahi hükümetlerde bir ağırlığı olurken, Samsun 10-11 milletvekili ile bile söz sahibi olamamış. Günümüzde iktidar partisine 7 milletvekili vermişiz. Başımıza bela olan bir mobil santral olayını dahi çözemiyoruz. Trabzon da hemen hemen Trabzonlu olmayan kamu kurumu müdürü yokken , samsun da kendi insanlarımızı hiç bir kurumun başına getiremiyoruz. kazara gelenleri de tutamıyoruz. Bu kente yerleşen insanlara bir türlü Samsunluluğu benimsetememişiz. Son 15-20 yılda yerel yönetimlerde görev alanların hemşehrilik ilişkileri ve siyasi çıkarlar uğruna göz yumduğu bir yığın işsiz insan başka kentlerden gelerek seyyar satıcı görüntüsü altında Samsun'un en işlek ve prestijli caddelerini işgal etmiş. Türkiye de böylesine hoyratça kullanılan başka kent  hatırlıyormusunuz? Ne yazıkki bu yanlışları başarı diye sunanlar bu kentte prim yapıyor. Bu yanlışları gündeme getirenler yalnız kalıyor.<br />
+21. yüzyılın parlayan yıldızları olarak adlandırılan sivil toplum örgütlerinin artık  samsun da da gücünü hissettirmesi gerekiyor. Son bir iki yıldır biraz biraz sesini duyurmaya başlayan bu örgütlerin daha iyi organize olması zorunlu. Hepsinden önemlisi birisinin Samsun'un çıkarları yönünde koyacağı tavırda yalnız bırakılmaması ve toplu destek verilmesidir. Ancak böyle bir güç birliği samsun da bu tür görevlere soyunanların cesaretini artıracaktır. Son altı aydır kentimizin yönetiminden sorumlu olanlar birbirine girmiş, birbirlerini yıpratmanın ötesinde bir anlamı olmayan kısır bir sürtüşme ortamı yaratmışlar. Tüm Samsunlular gibi sorumluluktan kaçan sivil toplum örgütleri de bu kavgayı seyretmekle yetiniyorlar. Yazık, çok yazık. Oysa sivil toplum örgütleri kent yaşamında söz sahibi olmak istiyorsa bu tür olaylarda kentin çıkarları doğrultusunda sorumluluk almaktan kaçmamalıdırlar diye düşünüyorum. Ama baştada yazdığım gibi görünmeyen bir güç insanları öylesine yıldırmış ki kimse başını ağrıtmak istemiyor.<br />
+Bu kentte yaşayacaksak başta SAM-SEV olmak üzere ortaklaşa sorumluluk üstlenmek zorundayız. İnanıyorumki oluşacak bu ortak tavır herkezi belli bir çizgiye çekecektir. Kentlilik bilincide bunu gerektirmektedir. Kentte yaşamanın bir bedeli olduğunu unutmamalıyız.<br />
+İyi haftalar dileğiyle...<br />
+SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0073-sahil-nostaljisi.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0075-bir-serzenis.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

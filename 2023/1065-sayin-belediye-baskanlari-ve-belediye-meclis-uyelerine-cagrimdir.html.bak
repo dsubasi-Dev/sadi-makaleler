@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Sayın Belediye Başkanları ve Belediye Meclis Üyelerine Çağrımdır</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Sayın Belediye Başkanları ve Belediye Meclis Üyelerine Çağrımdır
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2023
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+1065
+
+</div>
+
+
+<div class="article-content">
+
+<p>SAYIN BÜYÜKŞEHİR İLE İLÇE BELEDİYE BAŞKANLARI VE BELEDİYE MECLİSİ<br />
+ÜYELERİNE ÇAĞRIMDIR.</p>
+<p>Bu çağrımı, Samsun’da yaşayan, yaşamaktan mutlu olan ve kentimizde yaşanan sorunlara duyarlı olan tüm Samsunluların destekleyeceği inancıyla ile yapıyorum.<br />
+Yaklaşık on beş gün önce ülkemizin Güneydoğu Bölgesinde yaşanan ve on ilimizi yerle bir eden ve can kayıplarımızın her geçen gün artarak şimdiden 50.000’i geçeceği anlaşılan deprem felaketi sonrası, tüm gö yerle bir olan bu inşaatlara nasıl ruhsat verildiğini sorgulamaya başladı.<br />
+Bu yıkımlardan sonra bazı belediye başkanları ile bazı belediye meclis üyeleri görevden alındı ve müteahhitlik yapanları da tutuklandı.<br />
+Bu konuya değinmemin nedeni, bundan böyle kentleri yöneten Belediye başkanları ile belediye meclisi üyelerinin, özellikle imara açılacak öneriler önlerine geldiğinde eskisi kadar rahat onay veremeyeceklerinin altını çizmektir.</p>
+<p>Sayın Başkanlar ve Belediye Meclis Üyeleri,<br />
+Bir kentin halkı, yerel seçimlerde Belediye Başkanı ve Belediye Meclis Üyelerini   beklentilerini yerine getirsinler diye seçerler.<br />
+Başkan ve meclis üyeleri de seçildikleri kentleri güzelleştirmek, daha yaşanır hale getirmek ve o yöre halkının yaşamlarını kolaylaştıracak kararlara imza atmaları için seçildiklerini hiçbir zaman unutmamalıdır.<br />
+Belediye meclisi üyeliğine seçilecek bir üye, ailesine ve işyerine ayıracağı zamanı kent halkına hizmet için sunacaktır. Bu zaten büyük bir özveridir.<br />
+Bu kadar özveride bulunacak bir adayın, seçilebilmek için cebinden çok yüksek paralar harcamasının nedenlerinin de sorgulanması gerekmez mi?<br />
+Bu çağrımı yaparken, iktidar veya muhalefet yanlısı meclis üyeleri diye bir ayırım yapmadığımın bilinmesini istiyorum.<br />
+Bu çağrım, tabii ki kentine ve ülkesine ödünsüz görev yapan belediye başkanları ve belediye meclis üyelerine yönelik de değildir.<br />
+Şimdi, belediye meclisi üyeliğine talip olanların zaten özel hayatlarından, işyerlerinden zaman ayırarak kentlerine gönüllülük esası hizmet için aday olduklarını esas alarak, soruyorum;<br />
+Sizler, iktidar veya muhalefet partisinin hangisinden meclis üyeliğine seçilmiş olursanız olun, önünüze gelen özellikle imar veya bir plan değişikliğinin, kent halkının yararına mı? Yoksa, birtakım fırsatçıların çıkarına mı? Olduğunu araştırmadan, sadece partinizin veya kişisel beklentiniz yönünde incelemeden evet veya hayır oyu veriyorsanız, sizler bu kentin sizlere verdiği güven oyuna ihanet ediyorsunuz demektir.<br />
+Bu kentte yaşayan, siyasetle ve kentin yaşamı ile yakından ilgilenen herkes bilmektedir ki, Samsun’da açılacak yeni bulvarların yeri öncelikle bu projeleri hazırlayan Belediye Başkanları ve ona yakın belediye meclis üyeleri tarafından bilinmektedir.<br />
+Bu nedenle yeni bir bulvarın açılacağı çevrede yer alan imarsız tarlalar, dikkat çekerek fiyat artışları olmaması için birileri tarafından değişik yerlerden ileride kazanacakları değer artışından habersiz yöre sakinlerinden, gerçek değerlerinin altında toplanmaktadır.<br />
+Daha sonra bu bölgede yapılacak imar düzenlemesinde, toplanan bu tarlalar bulvarın kenarında birleştirilirken, o yöre insanlarının sahibi olduğu yerler ise, bulvarın uzak yerlerine taşınmaktadır.<br />
+Bulvar açıldıktan sonra bu parseller imarlı hale getirilerek, ya yüksek fiyatlarla satılmakta veya alanlar tarafından bu parsellere gökdelenler dikilmektedir.<br />
+Bu yanlışı yapan belediye başkanları ve belediye meclis üyeleri, görevlerini kötüye kullandıklarını ve görevlerini yasal olmayan yoldan zenginleşme aracı olarak yaptıkları suçlaması ile karşı karşıya kalabileceklerini göz ardı etmemelidirler.<br />
+Unutulmamalıdır ki, bu kent çok uzak olmayan bir gelecekte Erzincan’dan başlayarak, İstanbul başta olmak üzere Marmara Bölgesini vuracağı yer bilimcilerce açıklanan Kuzey Fay Hattı, Samsun’un hemen güneyinde yer alan ve Samsun’a 60-80 Km. mesafede yer alan Lâdik, Vezirköprü ve Erbaa’dan geçmektedir.<br />
+Bu fayın kırılması halinde, çok geniş heyelan bölgelerine sahip Samsun’un etkilenmemesi mümkün değildir.<br />
+Böylesine riskleri barındıran bir kentte, yapılacak imar düzenlemelerinde atılacak her yanlış adım ve bu alanlara inşaat yapılabilmesini sağlayacak plan değişiklikleri sizlerin oyları ile onaylanırsa, buralarda olabilecek felaketlerin sorumlusu olacağınızı göz ardı edemezsiniz.<br />
+Bir Samsunlu olarak, bu çağrımla sizleri partinizin veya kendi çıkarlarınızı gözeterek parmak kaldırmamaya davet ediyorum.<br />
+Bundan sonra Samsun Kamuoyunun bu konuları yakından izlemesi ve Samsunluların bilgi sahibi olması için tek başıma da kalsam, çaba sarf edeceğimi sizlere ve kamuoyunun dikkatine sunuyorum. Saygılarımla…20.02.2023</p>
+<p>Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="1064-samsun-boyle-keyfi-yonetilemez.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="1066-samsun-bu-kadar-sahip-birakilamaz.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

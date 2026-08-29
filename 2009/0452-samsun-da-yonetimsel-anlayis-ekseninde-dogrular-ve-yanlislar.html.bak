@@ -1,0 +1,334 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Samsun&#x27;da Yönetimsel Anlayış Ekseninde Doğrular ve Yanlışlar.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Samsun&#x27;da Yönetimsel Anlayış Ekseninde Doğrular ve Yanlışlar.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2009
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0452
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>SAMSUN’DA YÖNETİMSEL ANLAYIŞ EKSENİNDE<br />
+DOĞRULAR VE YANLIŞLAR.<br />
+Samsun gerçekten de anlaşılması zor bir kent haline geldi. Bunları yazmanın ve de söylemenin de artık bir anlamı kalmadığını üzülerek görüyorum.<br />
+Çok kişinin de bu durumdan rahatsız olduğunun da farkındayım. Kent adına sorumluluk alanlar eleştiriler konusunda öylesine duyarsızlaştı ki, artık eleştirileri umursamıyorlar dahi. İşin kolayını da bulmuşlar, kentimizin iyiliği için de olsa bir düşüncesini açıklayanı işlerine gelmeyince, “karamsar tablolar çizen kötü niyetli kişiler” olarak damgalayıp işin içinden sıyrılıyorlar. Aslında sıyrıldıklarını sanarak kendilerini yıpratıyorlar ama sanırım onun da farkında değiller.<br />
+Eğer öyle olmasaydı dün çok inanılan ve destek de bulan bu yöneticiler, bugün en inananları tarafından dahi tartışılır duruma geldiklerini fark ederlerdi.<br />
+Tabii burada tüm günahı onlara da yıkmamamız gerekir. Çünkü kent adına ciddi sorumluluklar üstlenmiş bu yöneticileri uyarabilecek dostluk ilişkisini hala sürdürebilen ve onlara gerçekten sevgi bağı ile bağlandığına inandığım bazı kişilerin de, bu açmaz da büyük payı var. Dostluk ilişkilerinin bozulmaması uğruna bir dostun dostuna yapması gereken uyarıyı yapamıyorlar.<br />
+Sözünü ettiğim guruba, o yöneticilere iş ve çıkar ilişkisi bağlanmış, eğrisine doğrusuna bakmadan destek verenleri katmıyorum.<br />
+Tüm bu olgular, yıllardır bir türlü giderilemeyen Samsun’un sahipsizliği söylemini doğrulamaktan başka bir anlam ifade etmiyor.<br />
+Üzülerek söylemek gerekirse, dokuz milletvekili ve son dönem de sahip olduğumuz bir bakan, hatta bir de iktidar partisi genel başkan yardımcısı avantajına rağmen, Samsun’un siyasi bir gücünün varlığından söz etmek mümkün değildir.<br />
+İktidar milletvekillerini bir yana bırakırsak, başta ana muhalefet partisi’nin milletvekilleri olmak üzere muhalefet milletvekillerinin de ne zaman Samsun adına güçlü bir ses verebileceklerini ve merak ediyorum.<br />
+Samsun’un hiçbir sorununda ortaya çıkıp ağırlıklarını koyarak Samsunluya yalnız olmadığını hissettiremeyen bu partiler, yapılacak seçimde Samsunludan nasıl oy isteyecekler?<br />
+Siyasi gücü olmayan illerin hiçbir sorunun çözülemediğini en güzel kanıtlayan il olma özelliğimizi hiçbir kente kaptırmayacak gibi görünüyoruz.<br />
+Bu siyasi irade eksikliğimiz olduğu söylemine itirazı olanlar, şöyle çevre illerimize baksınlar ve oralarda nelerin olduğunu, nelerin yoktan var edildiğini görsünler yeter.<br />
+Kentimizde ki bu siyasi irade eksikliği ile gerek seçilmiş ve gerekse atanmış en üst düzeydeki yerel yöneticilerin ayırımcılık ve sadece yandaş kuruluşlarla diyaloga dayalı yönetim anlayışı, Samsun’u yalnızlığa ve sahipsizliğe mahkûm etmiştir.<br />
+Eğer bu söylemler doğru olmasaydı, Samsunspor parasızlık ve sahipsizlikten sürünür müydü?<br />
+Aksini söyleyenlerin Trabzonspor’a sağlanan kalıcı gelir<br />
+kaynaklarının nasıl yaratıldığına bir göz atsınlar yeter.<br />
+Trabzon Limanı’nın özelleştirilmesinde yaşananları, ihaleyi<br />
+kazanan Samsunlu Yıldırımlar A. Ş’NİN elinden limanın hangi<br />
+güçle alınıp Trabzonspor’un işletmesine verildiğini, Enerji<br />
+Santrali ihalesinin nasıl Trabzonspor’a bırakıldığını bir<br />
+incelesinler.<br />
+Adı dahi SAMSUN-CEYHAN BORU HATTI olan “Mavi Akım Projesi” tesislerinin, Ordulu bakan tarafından bir gece de Ünye’ye kaydırılma becerisinin hikâyesini okusunlar. Sonra da dönüp Samsun’da olanlara bir göz atsınlar.<br />
+Bölgenin en büyük ve tek Büyükşehiri Samsun’un tek beş yıldızlı otelinin açık tutulamayışının altında ki yönetimsel beceri eksikliğini ve siyasi iradenin ilgisizliğini görsünler.<br />
+Yıllardır bir kıyı kenar çizgisi sorununu çözemeyerek, Samsun’un sahil bandında süregelen kargaşaya son veremeyen siyasetçilerimiz, Trabzon sahilinde ki benzer sorunu bir gece de kanun çıkartarak çözme becerisini kimlerin gösterdiğini araştırsınlar.<br />
+Birçok kurumun bölge müdürlükleri birer ikişer Samsun’dan kopartılırken, sivil toplum kuruluşlarının çağrılarını duymayan kentimizin siyasetçileri ve seçilmişleri, Samsun “Teşvik yasası” kapsamı dışında bırakılırken de, “Cazibe Merkezi” dışına itilirken de seyirci olmayı sürdürmüşlerdir.<br />
+Bu da yetmemiş ve Samsunlunun işsizlik sorununu çözecek “Teşvik Yasasına”, sahip çıkan sivil toplum kuruluşlarını “Teşvik gözünüze girsin” gibi ve çok daha çirkin başka yakıştırmalara layık görmüşlerdir.<br />
+Başka kentlerde bu tür davranışları yapanlar bunun diyetini öderken, bizimkiler ödüllendirilmiş ve birisi bakan, diğeri de genel başkan yardımcısı olmuştur.<br />
+Geçen hafta içersinde bir dost meclisin de bir arkadaşımız Çorum’da ki beş yıldızlı ANİTA OTEL’İN çok güzel hazırlanmış bir tanıtım kitabını dağıttı. Sayfalarını çevirirken bir Samsunlu olarak içim sızladı, yüreğim yandı. 4–5 toplantı, muhteşem bir balo salonu, görkemli odaları, kapalı havuzu ve son yıllar da beş yıldızlı otellerin gözde bölümleri olan, “SPA SALONU” ile her türlü hizmeti sunmaya hazır bu otel, açıkçası beni kıskandırdı. İster istemez kiracısı ile olan sorunu çözemeyerek, inatlaşma uğruna Samsun’u beş yıldızlı otelden yoksun bırakanlar aklıma geldi.<br />
+Samsunlu, 1950 den beri her seçimde iktidar olan partiye en çok oyu vererek, Türkiye’de ki siyasi uygulamalar açısından doğru tercihler yapmıştır. Ne var ki, karşılığında hep hikâye ve boş vaatler dinlemiştir.<br />
+Bu işte bir yanlışlık olmalı. Bölgemizin en fazla olanağa sahip kenti olmasına rağmen, bu kentte bunca olumsuzluk yaşanıyorsa, bunun nedenlerinin çok iyi analiz edilmesi gerekir diye düşünüyorum.<br />
+Öncelikle şunu da söylemek istiyorum ki, bunca yanlış ve eksikliğin nedenini sadece yerel yöneticilere ve siyasetçilere bağlayamayız.<br />
+Bunca eksikliğin olduğu yerde, yerel basının, sivil toplum kuruluşlarının, ama hepsinden de çok bir türlü yanlışları sorgulamayan, seçtiklerini denetlemeyen Samsun Halkının kentlilik bilincinin eksikliğinin payının da olduğunu belirtmek istiyorum.<br />
+Tüm bunlara neden olan gerçek ise, on beş gün önce katıldığım bir TV programında ki canlı yayında da vurguladığım gibi, SAMSUN’UN BİR LİDERİNİN OLMAYIŞIDIR.<br />
+Yıllardır süregelen bu lider yönetici eksiği, “SAMSUN’UN SAHİPSİZLİĞİNİN” de altında yatan en büyük nedendir.<br />
+Benim kentlilik anlayışıma göre, bu kentin liderliğini yapması gereken yönetici, Samsunlunun kendilerini yönetmesi için seçtikleri BÜYÜKŞEHİR BELEDİYE BAŞKANI olmalıdır.<br />
+LİDERİN, hiçbir kesime ayrıcalık yapma, hiçbir kesimle kavgalı olma ve küskün kalma hakkı olamaz.<br />
+Samsun adına tek çıkış yolu, Büyükşehir Belediye Başkanının geçmişe sünger çekerek yeni bir sayfa açmasından geçmektedir.<br />
+Sayın Başkan ayırım yapmaksızın tüm sivil toplum kuruluşlarını, basının tümünü, kentlilik bilinci ile destek verebilecek herkesi ve de kent yönetimde söz sahibi olan kamu yöneticilerini bir masa etrafında toplantıya davet etmeli, oluşturulacak ortak akıla öncülük etmelidir.<br />
+Oluşturulacak ortak akıl çerçevesinde, kentimizin sorunları üzerine hep birlikte ve bilgi paylaşımı ile gidilmesinin de liderliğini üstlenmelidir.<br />
+Bunlar yapılamazsa, sadece kentimizi görsel anlamda güzelleştirerek Samsunlunun hiçbir önemli sorununun çözülemeyeceği ve sahipsizlik olgusunun Samsun’un kaderi olmayı sürdüreceği unutulmamalıdır.<br />
+Hafta sonu Samsun adına umut veren bir gelişme yaşanmış ve uzun yıllardır yılan hikâyesine dönen eski Tekel Sigara Fabrikası, konusunda uzman olduğu söylenen bir firmaya otel ve iş merkezi yapılmak üzere kiralanmıştır.<br />
+Samsun’a yeni iş ve aş kapısı olacak bu yatırım, Samsun’un merkezinde yıllardır görüntü kirliliği yaratan Tekel Binalarına can verirken, Samsunlulara da moral verecektir. Emeği geçenleri kutlarken, yatırımcı firmaya da Samsun’a hoş geldiniz diyorum.<br />
+Bu güzel ve umut veren gelişmenin ışığı altında, bir kez daha sesleniyorum.<br />
+Sayın Büyükşehir Belediye Başkanımız. LÜTFEN,  liderlik vasfınızı ortaya koyunuz ve gerekli birlikteliği sağlayarak Samsun’un sahipsizliğine son veriniz. Bu belki de Samsun’un tek ve son şansı. VARMISINIZ?<br />
+Güzel ve sağlıklı bir hafta dileğiyle. 13 Aralık 2009<br />
+SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0451-eczacilarin-i-syaninin-altindaki-gercekler.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0453-pembe-samsun-da-sanssiz-bir-olay-daha.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

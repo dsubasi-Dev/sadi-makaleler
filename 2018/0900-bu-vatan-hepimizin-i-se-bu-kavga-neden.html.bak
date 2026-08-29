@@ -1,0 +1,310 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Bu Vatan Hepimizin İse, Bu Kavga Neden</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Bu Vatan Hepimizin İse, Bu Kavga Neden
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2018
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0900
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>BU VATAN HEPİMİZİN İSE, BU KAVGA NEDEN?<br />
+1. Dünya savaşı ile tarihe gömülen Osmanlı İmparatorluğundan elimizde son vatan toprağı olarak Anadolu kalmadı mı?<br />
+Türklerin 1071’de Anadolu’ya girişi sonrası Avrupa Devletleri’nin Türkleri geldiği Asya’ya geri göndertmek için düzenlediği Haçlı Seferlerini ne çabuk unutuyoruz.<br />
+Tüm bunlara rağmen önce Anadolu’da büyüyen Türk Beyliklerinin bir şemsiye altında toplanarak kurduğu Osmanlı Devleti’nin kısa sürede üç kıtaya yayılan dev bir imparatorluğa dönüştüğünü ama sonraki yıllarda kendi yanlışları ile zayıfladığını ve girdiği 1. Dünya Savaşında da kaybedenler arasında yer alarak tüm topraklarını kaybettiğini unutacak mıyız?<br />
+Kazanan Avrupa Devletlerinin Osmanlıya imzalattığı SEVR Antlaşması ile Anadolu topraklarının da büyük bir kısmını paylaşarak, Türkleri Anadolu’nun ortasında esaret altında yaşamaya mahkûm ettiği gerçeğini de yok mu? Sayacağız.<br />
+Bu süreçlerden sonra Mustafa Kemal Paşa ve arkadaşları, elde kalan son vatan toprağını düşmandan temizledikten sonra SEVR Antlaşmasını yırtıp atarak imzaladıkları LOZAN Antlaşması ile sınırları belirlenen Anadolu’yu, üzerinde özgürce yaşayacağımız son vatan toprağı olarak bizlere armağan etmediler mi?<br />
+Son vatan toprağı Anadolu’nun tapusu olarak kabul ettiğimiz bu LOZAN’I, iç siyasete nasıl kurban edebiliyoruz? Nasıl tartışmaya açabiliyoruz?<br />
+Bu Anadolu, hepimizin ortak vatanı değil mi?<br />
+Bu Anadolu, tüm sömürgeci ülkelerin gözlerini diktiği, başta petrol olmak üzere zengin yer altı kaynaklarının bulunduğu bölgede bulunmuyor mu?<br />
+Dünyanın başına bela olan Amerika’nın, çıkarları uğruna son on yıl da kan gölüne çevirdiği ülkelere sınır komşusu değil miyiz?<br />
+Komşularımızı iç savaşlara sürükleyen bu ateşin, her an bizim topraklarımıza da sıçraması tehlikesinin yaşandığı bir dönemden geçmiyor muyuz?<br />
+Güney sınırlarımızda Amerika’nın desteği ile kurulmaya çalışılan terör devletini yok etmek için Suriye topraklarında harekata giriştiğimiz günleri yaşamıyor muyuz?<br />
+İşte bu nedenlerle, elimizde ki son vatan toprağımıza sahip çıkmak adına, başta Amerika olmak üzere bölgemizde çıkarları olan devletlerin Orta Doğu’da sınırları yeniden belirleyebilmek için bu ülkelerde çıkarttıkları iç savaşı, bizim topraklarımıza da sıçratmalarına engel olmak zorunda değil miyiz?<br />
+Bunun tek yolunun ise, ülke olarak güçlü bir birliktelik sağlamaktan geçtiğini neden görmezden geliyoruz?<br />
+Bu gerçek ortadayken, ülkemizi daha güzel günlere taşısınlar diye oy verdiğimiz siyasetçiler, hangi hakla sokakta kavga edenlerin dahi kolay kolay söylemeyecekleri sözlerle birbirlerine hakaret ederek iç barışa zarar veriyorlar?<br />
+İç barışı bozmak, bu ülkeyi iç savaşa sürüklemek isteyenleri sevindirmekten başka bir işe yaramayacaktır.<br />
+Ülkemiz böylesine bir ateş çemberinin içerisinde bulunurken, iç siyasette rakibi yıpratmaya yönelik seviyesi iyice düşen bu sözlerin, toplumda ciddi kamplaşmalara yol açacağını nasıl görmezler?<br />
+HDP hariç, tüm muhalefet partilerinin ülkemiz adına bir beka sorunu haline gelen Güney sınırlarımızın ötesinde yürüttüğü askeri operasyonlara verdiği açık desteğe rağmen, iktidar sözcülerinin muhalefeti terör örgütlerinin yanında göstermeye çalışmasının anlamı nedir?<br />
+İşte bu nedenlerle eğer bu vatan hepimizin diyorsak, iç siyasette mevzi kazanmak için toplumsal ayrışmalara zemin hazırlayanlara karşı çıkmakta hepimizin görevi olmalıdır.<br />
+Çünkü ordumuzun sınır güvenliğimizi sağlamak üzere şehitler vererek yürüttüğü askerî harekât sürerken, bu harekatın 2019 seçimleri için iç siyasete malzeme yapılması, ülkemizin en çok ihtiyaç duyduğu birlikteliğe indirilmiş darbe olacaktır.<br />
+Şu anda yapılacak tek şey, silahlı kuvvetlerimizin yürüttüğü sınır ötesini temizleme harekâtını bir an önce başarı ile tamamlayarak, ülkemizin güvenliğini sağlaması için dua etmektir.<br />
+Ülkemiz adına siyaset yapanların birlikteliği sağlayacak ortak akılda buluşması dileğiyle iyi haftalar. 04.02.2018<br />
+Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0899-sayin-valim-verdiginiz-destege-ve-bizlere-verdiginiz-liderlik-dersine-tesekkurler.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0901-samsunspor-kayyum-heyetine-cagri.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

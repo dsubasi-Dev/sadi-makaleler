@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Samsun Türkiye Gündeminde Rol Almayı Sürdürüyor.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Samsun Türkiye Gündeminde Rol Almayı Sürdürüyor.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2008
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0350
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>SAMSUN TÜRKİYE GÜNDEMİNDE ROL ALMAYI<br />
+SÜRDÜRÜYOR..</p>
+<p>Samsun geçtiğimiz hafta Türkiye gündemin de yine manşetlerdeydi. Önce Büyükşehir Belediyesi Genel Sekreteri Sayın Kenan Şara’ya silahlı saldırı yapıldı. Ertesi gün sadece Samsun değil, tüm Türkiye Bafra Belediyespor tesislerine yapılan kanlı baskınla sarsıldı. Ne yazık ki, Bafra Belediyespor teknik adamları ve kulüp müdürü, Sayın Şara kadar şanslı değillerdi ve iki teknik adam hayatını kaybetti. Öncelikle iki spor adamına Tanrı’dan rahmet, kederli ailelerine ve Bafraspor Camiasına baş sağlığı ve kulüp müdürü ile Sayın Şara’ya geçmiş olsun diyorum. İnanıyorum ki, yakalanan suçluların sorgulanması ile bu saldırıların arkasında ki sır perdesi aydınlatılacaktır.<br />
+Bir önceki haftanın sonunda da, iğrenç bir aşk öyküsü sonucu öldürülen kişinin parçalanan cesedinin torbalanarak Mert Irmağına atıldığı haberi manşetlerdeydi. Ondan önce ki haftalarda da bu kez Büyükşehir Belediye Başkan Yardımcısının yine aynı partinin iki meclis üyesi tarafından dövüldüğü, bir bankanın bir personelinin bazı müşteri hesaplarından yüklü bir miktar parayı çekip Amerika’ya kaçtığı ve yasak ilişki sonu doğurduğu bebeği öldüren genç kızın mahkûm olduğu haberleri Samsun’u yaygın yazılı ve görsel basının manşetlerine taşıyordu.<br />
+Üzülerek söylemek gerekirse, tüm Türkiye’de Ondokuzmayıs Kenti ve Atatürk’ün Şehri olarak haklı bir unvana sahip olan Samsun, son yıllarda ciddi bir imaj yıpranmasına uğradı. Bu kentin insanları bunları hak etmiyor. Bu olaylar rastlantı değildir. Bu kentte bir şeyler iyi gitmiyor diyenleri, “karamsar ve karanlık tablolar çiziyorlar” diyerek suçlayan, hatta fırsat bulduklarında hızını alamayıp, bu kentin iyiliğinden başka bir düşüncesi olmayan ve en az kendileri kadar bu kenti sevenleri, konuştukları toplantılarda hedef gösteren yönetenlerin, artık kafalarını kumdan çıkartmalarının zamanı geldi diye düşünüyorum.<br />
+Bu kentte güzel şeyler olmuyor mu? Tabii ki çok güzel şeyler de oluyor. Bunları herkes beğeni ile anıyor ve alkışlıyor. Ama hiç kimse bazı güzel şeylerin ardına sığınarak olumsuzlukları yok saymamalıdır.<br />
+Sayın Şara’ya geçmiş olsun telefonu açtığımda, Sayın Şara’nın kendilerine sivil toplum kuruluşlarının sahip çıkmayışından yakınması, çok şeyi anlatıyordu. Bu yalnız bırakılış gerçekten üzücüdür. Bu, son yıllarda bu kenti yönetenlerin, her koşulda kendilerine doğru yanlış demeden destek verenler dışında ki sivil toplum kuruluşlarını yok saymalarının doğal sonucudur. Eleştiriye hoş görü gösterememenin, kent yaşamı için çok önemli sivil toplum kuruluşlarını devre dışı bırakma anlayışının, Samsun’un nasıl ortadan ikiye bölündüğünü görememenin sonucudur. Kente sahip çıkamamanın, inatlaşarak kent yönetmekte gösterilen ısrarın ve sevgisizliğin sonucudur. Bu kentin insanına, doğasına zarar vereceğini haykıran Samsunlunun feryadına kulak asmadan, Mobil ve Termik Santrallere destek veren, Samsun Teşvik dışı kalmasın diye çaba harcayan 81 sivil toplum kuruluşunu yalnız bırakan ve talimatlarla KENT KURULTAYINI sonlandıran anlayışın sonucudur.<br />
+Çıkar anlayışına bağlı olarak eğri doğru demeden destek verenlerin de bu kötü günlerde ortalıkta gözükmemesini yadırgamamak gerekir. Geçen hafta içersinde köşesinde herkesi sağduyulu olmaya ve kentimizin geleceği adına bir uzlaşma ortamı sağlamak üzere yetkililere çağrı yapan Sayın Osman Kara’ya yürekten katılıyorum. Bu güzel çağrıya katılmasına katılıyorum da, bu ortamı sağlayabilecek, herkesi kucaklayabilecek ilgiliyi nereden bulacak onu merak ediyorum.<br />
+ORGANİK TARIM İLE MOBİL-TERMİK SANTRAL ÇELİŞKİSİ</p>
+<p>Tarımın önemi, bir zamanlar yapılan samsun kent kurultaylarının sonuncusunun sonuç bildirgesinde, “Samsun’un en önemli sorunun işsizlik olduğu ve bunun çözüm yolunun da tarımsal sanayi olduğu” şeklinde vurgulanmıştı.  Bu nedenle Samsun için tarımın önemini ilk gören olmasa da, ilk kez sahiplenen ve daha da ileri giderek Samsun’u organik tarım merkezi yapma çabalarını gündeme taşıyan kişi, Samsun Valisi Sayın HASAN BASRİ GÜZELOĞLU’DUR. Kendisine teşekkürlerimi sunuyorum. Ancak tepemizden kansorejen kimyasallar yağdıracak MOBİL ve TERMİK SANTRALLERLE bu iş nasıl olacak onu anlayamıyorum. Organik tarıma bu derece önem veren Sayın Valimizin, bu santrallerin kapatılması için hukuksal mücadele veren Sivil Toplum Kuruluşlarının yasal kararların uygulanması için yaptığı çağrılara gösterdiği tepkiyi anlayamıyorum. Bu kenti yönetenlerin, kentimiz adına siyaset yapanların bu santraller için mücadele veren sivil toplum kuruluşlarına destek vermeyişini anlayamıyorum. Birisi Samsunlulara bu çelişkiyi anlatmalıdır diye düşünüyorum.</p>
+<p>BELEDİYELER İÇİN AMAÇ, HİZMET Mİ YOKSA TİCARET Mİ?<br />
+Samsun’un işsizlikten sonra en büyük sorunu trafik ve otopark sorunudur. Yapılan birkaç otoparka rağmen Samsun’da otopark konusunda hala ciddi bir sıkıntı olduğu gerçek. Belediyelerimizin otopark kullanmayı teşvik etmesi gerekir diye düşünen birisi olarak, sizlerle bu konuda son günlerin ilginç bir olayını paylaşmak istiyorum.<br />
+Cumhuriyet Meydanının altında ve Tekelin avlusunda, Samsun’un en önemli iş merkezlerinden birisi olan Mecidiye Caddesi ile civarına hizmet veren birisi açık diğeri kapalı iki otopark vardır. Özellikle bu yörede işyeri bulunanlarla, çarşıda işi olanların kullandığı ve yer kalmadığı için öğle saatlerinden itibaren uzun kuyrukların oluştuğu ve Cumhuriyet meydanına taştığı bilinmektedir. İşyeri sahipleri zaman zaman işleri nedeniyle çıktıkları otoparka dönüşte girememektedir. Bu amaçla 2006 yılı sonunda ve 2007 yılı başlarında iki kez elliye yakın imzalı dilekçe ile Büyükşehir Belediye Başkanlığına başvurarak kapalı parkın bir bölümünde abone araç uygulaması yapılmasını ve ona göre de ücret alınmasını talep ettik. Giriş çıkış açısından bir yöntem de önerdik. Bir buçuk yılı geçmesine rağmen talebimize cevap dahi verilmedi.<br />
+Geçen hafta bu parklara şok zamlar yapıldı. Özellikle işyerine gelirken bırakıp, akşam giderken aracını alanları ve gün içersinde giriş çıkış yapanları çok etkileyen ve bazı zaman dilimlerinde % 60’ ları bulan zamlar araç sahiplerini kaçırttı. Bir hafta öncesine kadar doluluk nedeniyle girebilmek için sıra beklenirken, şimdi otopark tam dolmuyor. Araç sahiplerini sokak aralarına iten bu uygulamayı anlamakta sıkıntı çekiyorum. Belki boşluklara rağmen otopark zamlar nedeniyle daha çok gelir getiriyordur. Merak ediyorum. Belediyelerin amacı, araçların yollardan kaldırılarak otoparklara girmesini özendirmek mi, yoksa daha çok kazanmak mı? Umarım bu serzeniş duyulur ve yanlıştan dönülür.<br />
+Sanıyorum bu son örnek dahi, “ben yaptım oldu anlayışının” nasıl yaygınlaştığını göstermektedir. Samsun’un en önemli iş merkezlerinin birisinde ki iş yeri sahiplerinin talebine olumlu veya olumsuz cevap dahi vermeye gerek görmeyen yönetim anlayışının olduğu yerde, çok fazla bir şey söylemeye de gerek olduğunu sanmıyorum.<br />
+Her şeye rağmen bu kent bizim. Bu kentten bir yere gitme düşüncesi olmayan herkesin düşündüğünü söylemesinin, yanlışı eleştirmesinin, yapılan güzel şeyleri alkışlamasının çağdaş kentli olmanın bir gereği olduğuna inanıyorum. Yönetenlerin de daha hoşgörülü olmasının, en azından eleştirisi olanları da dinlemek zahmetine katlanmasının, Samsun’da yaşanan iletişimsizliği ortadan kaldırmaya katkı yapacağını sanıyorum.<br />
+Samsun’un çıkışının susan değil, konuşan bir kent olabilmekten geçtiğini, tüm kesimlerin görmesi dileğiyle iyi haftalar.. 30 Mart 2008</p>
+<p>SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0349-ulkemiz-ve-gelecegimiz-adina-korkutucu-gelismeler.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0351-samsuncu-olmayan-samsun-milletvekili-olamaz.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

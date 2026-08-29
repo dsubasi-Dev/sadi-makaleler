@@ -1,0 +1,328 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Sahipsizlik Bu Kentin Kaderi Olmamalıydı.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Sahipsizlik Bu Kentin Kaderi Olmamalıydı.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2018
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0914
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>SAHİPSİZLİK BU KENTİN KADERİ OLMAMALIYDI.</p>
+<p>28 Nisan 2018, Samsun’un tarihine kara leke olarak geçecektir. Samsun, bugün Samsunspor kazasından sonra ki 2. Faciayı yaşamıştır.<br />
+Bir zamanlar üç büyüklere kök söktüren Samsunspor, bu kentin sahipsizliğinin faturasını ödeyerek bugün 2. Lige düşmüştür.<br />
+Bugün bu konu da sıcağı sıcağına bir şeyler yazmak istemiyorum. Yazımın başlığının da Samsunspor’un küme düşmesi ile direk ilgisi yok.<br />
+Geçen hafta ki yazımı okuyanlar hatırlayacaktır. O yazımın başlığı da bugünkü yazımın başlığının aynısıydı. O gün, bugün yazacağım konuyu işleyecektim.<br />
+Ancak, yazıma başlayınca bazı konulara açıklık getireyim derken yazım bir dertleşme yazısına dönüşmüş ve asıl konuyu bu haftaya bırakmak zorunda kalmıştım.</p>
+<p>Bir Samsunlu olarak işyerimi açtığım 1970 yılından bu yana, 50 yıla yakın bir süredir başta meslek örgütüm olmak üzere çok sayıda sivil toplum kuruluşunda yer alarak kentlilik bilincimle, bu kentin sorunlarını gündeme taşıma çabasında oldum.<br />
+Bunların çözümü için benim gibi düşünen arkadaşlarımızla birlikte SAM-SEV’ i kurduk. Amacımız, Samsun’un en büyük sorunu olarak gördüğümüz “Sahipsizlik” Olgusunu yıkmak ve güçlü bir Samsun lobisi oluşturmaktı.<br />
+Ancak bunun çok da kolay bir iş olmayacağını kısa sürede gördük. Çünkü 1970’li yıllarda aldığı göçlerle Samsun homojen yapısını kaybetmiş ve çoğunluğu çeşitli kırsal yörelerden gelenlerle sosyal yapısı karmaşık bir mozaik haline gelmişti.<br />
+Böyle bir yapıyla birliktelik yaratmak hiçte kolay değildi. Hele de o yıllarda görevde olan Samsun Belediye Başkanı’nın, seçimlerde üstünlük sağlayabilmek için göçle gelmiş hemşerilerini örgütlemesi ile başlayan bölgecilik anlayışı giderek güçlenmişse.<br />
+İşte bu bölgecilik anlayışı giderek yaygınlaşmış ve kemikleşerek bir kentin en çok ihtiyacı olan birlikte hareket edebilme şansını yok etmiştir.<br />
+Samsun’un bölgenin en gelişmiş ve geçmişinde iş alanları en çok ili olması nedeniyle, göç alması çok doğaldı.<br />
+Önemli olan doğum yeri neresi olursa olsun bu kentte kazanan ve bu kentte yaşamaktan mutlu olan herkesin kendini bu kentin insanı görmesiydi.<br />
+Ben ve benim gibi düşünen arkadaşlarımızla bir Samsun Lobisi oluşturma çabalarımızın temelinde bu ilke yatıyordu.<br />
+Ne var ki, göçle gelenlerin bir kısmı bu anlayışa direniyordu.<br />
+Bu anlayış tarzı nedeniyle, bu yönde ki çabalarımızda başarılı olamıyorduk. Bırakın göçle gelenleri, Samsunluyum diyenlerde bu konuda destek olmuyordu.<br />
+Son yıllarda Samsun’a atanan tüm valilerinde dile getirdiği en büyük sorun, bu kentte birlikteliğin sağlanamamasıydı.<br />
+Hatta bir valimiz bir toplantıda, “Tepe noktaya ulaşabilmek için insanlar birbirine destek olur ve güçlerini birleştirerek yükselirler. Ama Samsun’da yükselmeye başlayanı ayaklarından çekenler var” Diyordu.</p>
+<p>SAMSUN LOBİSİ VE KARŞI LOBİ.<br />
+Bu kentin en büyük ilk şanssızlığı, 1950 yılından bu yana tercihini hep iktidar partilerinden yana kullanmasına rağmen, hemen hemen tüm zamanlarda iktidarlardan bu kentin olumsuz kaderini değiştirecek bir desteği görememiş olmasıdır.<br />
+İkinci şanssızlığı, bu kenti yönetmek ve temsil etmek üzere partiler tarafından aday gösterilerek seçtirilen kent yöneticilerinin ve milletvekillerinin Samsun’a yeterince sahip çıkmamalarına rağmen, tekrar tekrar seçilebilmesidir.<br />
+Üçüncü şansızlığı ise,<br />
+Bu kenti “Teşvik Yasası” dışında bırakan utanç haritasına mahkûm edilmesine karşı çıkmayan,<br />
+Bölge müdürlüklerinin birer ikişer Samsun’dan kopartılıp, bazıları da komşu illere kaydırılırken susan,<br />
+Bırakın 300-500 işçi çalışabilecek yeni iş alanlarının açılmasına destek olmalarını, zaten sayısı sınırlı olan iş yerlerinde ki çok sayıda çalışanı işsiz bırakan özelleştirmeleri, verimli ovalarımızın termik santrallerle yok edilmesini, üniversiteleri bitiren Samsunlu genç beyinlerin Samsun’a dönememesini dert edinmeyen,<br />
+İşsizlik oranında Türkiye ortalamasının üzerine çıkmış olmamızı, ekonomik kalkınmışlık ve eğitim sıralamasında otuzuncu sıralara yuvarlanışımızı, hızla yaşanabilir kent olmaktan çıkışımızı önlemek için hiçbir çabasını göremediğimiz kent yöneticileri ve milletvekilleri,<br />
+Bu kentin kaderi olmamalıydı.<br />
+Hafta sonu Süper Lig’den sonra 1. Lig’den de bir alt lig olan 2. Lig’e düşen Samsunspor ile sosyal medyada yazılan çok önemli bir saptamayla yazımı tamamlamak istiyorum.<br />
+Yıllar önce dostlarımla paylaşmış olmama rağmen, bugüne kadar köşe yazılarımda kullanmaktan kaçındığım son derece doğru bir gerçeği, yerel basında köşe yazıları yazan ve yerel bir TV kanalında spor programı sunan bir Samsunspor sevdalısı, maç sonrası sosyal medya da bunu paylaşmış.<br />
+Bu dostum, Samsunluların bir Samsun Lobisini oluşturamadığı bu kentte, Samsun Karşıtı bir lobinin varlığından söz ediyor.<br />
+Geçtiğimiz hafta bir toplantıda konuşan Valimiz Sayın Osman Kaymak, “Hiçbir kenti kıskanmıyoruz” Demişti.<br />
+Sanıyorum Sayın Valimizi bunu söylemek zorunda bırakan gerçekte, yukarıda ki tespittir.<br />
+Bu değerlendirmelere uzun bir zamandır kafamı kurcalayan bir başka değerlendirmeyle nokta koyayım.<br />
+Samsun neden bu kadar sahipsiz bırakılıyor soruma her cevap aradığımda karşıma çıkan kuşku, rahmetli Turgut Özal döneminden beri arada bir pompalanan Türkiye’nin eyaletlere bölünmesi projesidir.<br />
+Böyle bir proje gündeme geldiğinde, doğal olarak eyalet merkezi Samsun olmalıdır.<br />
+Ama kolu kanadı kırılmış ve sürekli kan kaybeden bir kentin gelecekte eyalet merkezi olma şansı kalır mı?<br />
+İşte kafamı kurcalayan şey, Samsun’a bunu bırakmak istemeyen birilerinin uzun bir zamandan beri Samsun karşıtı bir lobi çalışması yürütüyor olma olasılığının ne kadar gerçek olduğudur.<br />
+Bu yazdıklarımı tersine çevirme ve Samsun’a sahip çıkacak milletvekillerini seçme şansımızı, 24 Haziran’da yapılacak Genel Seçimlerde doğru kullanmak, bugünkü Samsun’dan mutlu olmayan herkesin görevi olmalıdır.<br />
+Aksi halde, milletvekilimiz olsa ne olur? Olmasa ne olur? Sorusunu sormayı sürüdrürüz.<br />
+Güneşli ve güzel bir hafta diliyorum. 29.04.2018<br />
+Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0913-sahipsizlik-bu-kentin-kaderi-olmus.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0915-samsunsporun-kurtulus-recetesi.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

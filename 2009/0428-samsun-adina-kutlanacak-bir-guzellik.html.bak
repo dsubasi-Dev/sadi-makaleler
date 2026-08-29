@@ -1,0 +1,314 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Samsun Adına Kutlanacak Bir Güzellik</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Samsun Adına Kutlanacak Bir Güzellik
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2009
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0428
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>SAMSUN ADINA KUTLANACAK BİR GÜZELLİK</p>
+<p>Öncelikle sizlerle güzel bir uygulamayı paylaşmak istiyorum. Türkiye, birçok şeyin birbirine karıştığı ve kurumlara olan güvenin sarsıldığı zor bir dönem geçiriyor. Halkımızın her ankette en çok güvendiğini söylediği askerin dahi saygınlığını sarsacak girişimlerin yaşandığı günümüzde, toplum olarak sığınacağımız en önemli kurum yargıdır.<br />
+Ne yazık ki, yargının da baskı altına alınmaya çalışıldığı ve bağımsızlığının tartışıldığı bir dönemden geçiyoruz. Tüm baskılara rağmen, yargımız dik duruşunu ve Atatürk’ün kurarak bizlere emanet ettiği Laik Çağdaş Cumhuriyetimize sahip çıkmayı sürdürüyor. İnanıyorum ki, Türkiye bu zor dönemi de atlatacaktır.<br />
+Bugün sizlerle Samsunumuzun bir yüksek yargı kurumu olan BÖLGE İDARE MAHKEMESİ’N DE yaşanan iki güzel olayı paylaşacağım. İyi ki böylesine yargıçlarımız var ve aydınların en büyük güvencesi olan yargıya olan inançlarımızı perçinliyorlar.<br />
+Bilindiği gibi Samsun Bölge İdare Mahkemesi yıllardır geçici binalarla görev yaptıktan sonra, yeni vilayet binasının yapılması ile boşaltılan eski valilik binasına taşınmıştı. Bu bina, Samsun’un eski ve ayakta kalabilen en güzel yapıtlarından birisidir.<br />
+Bu bina, yıllardır geçici onarımlarla ayakta tutulmuştur. Bölge İdare Mahkemesi’ne devredildikten bir süre sonra Mahkeme Başkanlığına atanan Samsunlu dostum Mehmet Özkan, göreve başlar başlamaz, bu tarihi binanın köklü bir yenileme işlemi ile Samsun’a ve bir yargı kurumuna yakışır hale getirilmesi için bakanlık düzeyinde ilk girişimleri başlatmıştır.<br />
+Gerekli ödeneklerin çıkartılması da, sanırım O’nun döneminde oldu. Ancak bir süre sonra emekli olan Sayın Mehmet Özkan’ın yerine bu kurumun başkanlığına atanan Sayın ÇETİN ADAY’DA gerekli işlemleri tamamlatıp inşaatı başlattı. Bina geniş kapsamlı bir yenileme işlemi sonrası, dış görüntüsü ile eskisinden daha güzel hale gelmişti. Önüne de adaleti temsil eden bir heykel konulmuş ve Samsun Bölge İdare Mahkemesi yenilenen hizmet binasına yeniden taşınmıştı.<br />
+Bir süre sonra binaya yeniden iskele kurulduğu ve dışı sil baştan yapılarak inşaata yeniden başlandığı görüldü. İlk gördüğümde bu işe bir anlam verememiş ve doğrusunu isterseniz bende, çoğu insan gibi “Devletin malı deniz…” deyimini hatırlayarak, yine devletin parası çar-çur ediliyor diye düşünmüştüm.<br />
+SAM-SEV Başkanlığını bırakacak olmam nedeniyle başlattığım bir dizi veda ziyareti sırasında çok saygı duyduğum Bölge İdaresi Başkanı Sayın Çetin Aday’ı da ziyarete gittim. Binanın dışında inşaat sürüyordu. Dış kapıdan girince ilk şaşkınlığı yaşadım. Üst kata çıktığımda şaşkınlığım daha da arttı. Makama girince gördüklerim ve Sayın Aday’ın anlattıklarını dinledikten sonra hayatım en mutlu günlerini yaşadım. Bu mutluluk, ülkemizin iç ve dış tüm zorlamalara rağmen hala ayakta kalmasını sağlayan, böylesine inançlı, Devletine, Laik ve Çağdaş Cumhuriyetine sahip çıkan dürüst ve cesur yöneticilerimizin bulunduğunu görmemdendi.<br />
+Binanın içi genişlemiş, mükemmel duruşma salonu ve çalışma ofisleri ile çağdaş bir mahkeme haline gelmişti. Şaşkınlığımın ilk nedeni, bir devlet kurumunun da istenince, o alışılagelmiş insanı sıkan klasik devlet kurumları modelini yıkan, çok daha güzel bir şekilde düzenlenebileceğini görmüş olmamdandı.<br />
+İkinci şaşkınlığım ise, tüm salonların Atatürk’ün çeşitli posterleri ile çok daha anlamlı bir hale getirilmiş olmasıydı. Düzenleme tek kelime ile insanı etkiliyor ve içini aydınlatıyordu. Makam odası işe şahaneydi. Sanırım o makamda görev yapmak ise bir ayrıcalıktı.<br />
+İlk teşekkür ve kutlama konuşmalarından sonra, birazda merakımı gidermek için binanın dışında yapılan ikinci bir tadilata neden gerek duyulduğunu sordum. Biliyordum ki, bu işler genellikle kurum yetkilisinin de karışamadığı bir şekilde yürür, sonuçta birileri daha çok kazanırdı. Dinlediklerimle yeni bir şaşkınlığa daha uğruyor ve ikinci mutluluğu yaşıyordum.<br />
+Sayın Çetin Aday Türkiye’de olamaz denen bir tabuyu daha yıkmıştı. Duyduklarımın özeti şuydu; Sayın Aday daha işin başında, ödeme onaylarını kendinsin yapacağını ve istenenler projeye uygun olarak yapılmadığı takdirde ödeme yaptırmayacağını yapımcı firmaya bildirmişti. İstenenlerin başında da, binanın dışının özüne uygun hale getirilmesi geliyordu. Ancak, inşaat ilerledikçe özellikle binanın dışında ki uygulamalar aslına uygun olmuyordu. Yapımcıyı ikaz etmiş ama yapımcı firma işi, “bu işlerin bu ülkede ki alışılagelmiş rahatlığı ile” sürdürmüştü. İş bitmiş ve sıra paraların ödenmesine gelince, Sayın ADAY baştan söylediklerinin arkasında durarak, ödemenin ancak dış cephenin özüne uygun hale getirilmesi halinde yapılacağını bildirmiştir.<br />
+İşte, dış cepheye yeniden iskele kurulması bu nedendi ve bende çok kişi gibi fena halde yanılmıştım. Ama bu günah benim ve benim gibi düşünenlerin olmasa gerek. Çünkü bu ülkede böyle şeylerin yapılabildiğini görmemiştik.<br />
+TEŞEKKÜRLER SAYIN ÇETİN ADAY, bizlere bu ülkede de dürüst ve kararlı olunca çok şeyin düzgün yapılabileceğini gösterdiğiniz için.<br />
+TEŞEKKÜRLER, Atatürk’ün şehri Samsun’a, Büyük Önder Atatürk’e ve çok yakışan müze güzelliğinde bir kurum kazandırdığınız için.<br />
+Ne mutlu bizlere de ki, Yargımız adına sizin gibi aydın ve cesur bir hukuk adamına sahibiz.<br />
+Sayın ADAY, size bir de kişisel teşekkür sunmak istiyorum. Bir önceki ADLİ YIL’IN açılış töreninde yaptığınız konuşma hala kulaklarımda çınlıyor. Atatürk ilkelerine bağlılığı ve bu ülkenin aydınlığa çıkış yolunu cesurca haykırdığınız için, iyi ki sizin gibi yargıçlarımız var diyor ve sizi bir Samsunlu olarak bir kez daha yürekten kutluyor, teşekkür ediyorum.</p>
+<p>DEĞERLİ OKUYUCULARIMA TEŞEKKÜRLER.<br />
+Bir köşe yazarını mutlu edecek şey, sanıyorum yazılarının okunuyor olmasıdır. İşte siz okuyucularıma olan teşekkürüm bundandır.<br />
+Yazılarımın uzun olması genel bir yakınma konusu. Buna rağmen okurlarımın sayısı beni yüreklendirecek seviyeye ulaştı. Gerek bana dönen e-postalarda ki yorumlar ve gerekse telefonla arayarak yazılarımda işlediğim konulara verilen destekler, beni çok mutlu ediyor.<br />
+Hep söylüyorum bu işte amatörüm, ama bu işi hep ciddiye aldım. Sıradan yazılardan kaçındım. Ya ülkemizin veya Samsunumuzun sorunlarını sizlerle paylaştım. Geçirdiğim bir hastalık sırasında ki iki hafta hariç, tam sekiz yıldır her pazartesi günü bu köşede sizlerle buluştuk.<br />
+Aşağıda, son 10 yazımın Halk Gazetesinin internet sayfasında ki okuyucu sayılarımı göreceksiniz. Bu işin uzmanlarının bir internet gazetesi yazısı için, bu sayıların çok ciddi rakamlar olduğunu söylemesi de beni ayrıca mutlu ediyor. www. halkgazetesi. com. tr adresine girerek yazılarımın okuyucu sayısını sizlerde görebilirsiniz.<br />
+İşte, 18Temmuz 2009 Cumartesi gecesi saat 24.00 itibariyle sondan başlayarak son on köşe yazımın okuyucu sayısı; 414, 349, 630, 178, 146, 617, 316, 219, 1373, 569. Arada ki iki düşük rakam ise sanıyorum, o günlerde gazetede ki teknik bir arıza nedeniyle yazılarımın elektronik ortamda güncel yayınlanamamasından kaynaklanmıştır.<br />
+Bir teşekkür de, bana bu fırsatı veren Halk Gazetesi’nin eski ve yeni tüm Genel Yayın Yönetmenleriyle, sahiplerine.</p>
+<p>İyi ve sağlıklı bir hafta diliyorum. 19 Temmuz 2009</p>
+<p>Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0427-samsun-adina-utanc-tablosu.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0429-bir-baska-samsun-yok-o-halde-bu-kavga-nden.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

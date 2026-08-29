@@ -1,0 +1,321 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Bir Okul Var Yakınlarda, Yaptıranı Uzaklarda.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Bir Okul Var Yakınlarda, Yaptıranı Uzaklarda.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2020
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0977
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>ÖRNEK BİR OKUL VAR YAKINLARDA, YAPTIRANI UZAKLARDA.</p>
+<p>Bu yazıma konu olan hikâye, bir süre önce Samsun ve Samsunspor sevdalısı genç dostum Fatih Süne ’nin arayarak, çocuğunun okuduğu okulun düzenlediği “ANLATILASI ŞEYLER” İsimli bir programda konuşmacı olarak Samsunspor Teknik Direktörü Ertuğrul Sağlam’ı davet etmek istediklerini, bu konuda yardımcı olmamı istemesi ile başladı.<br />
+Sevgili Ertuğrul Hocamın da sıkışık maç trafiğine rağmen kabul etmesi ile üçümüz Kavak’ta ki bu okulu ziyarete gittik. Bu ziyaret, benim çok güzel bir okulu ve onu yaptıran bir işadamını tanımamamı sağladı. Bu şansı bana yaratan Fatih Süne ve Ertuğrul Hocama çok teşekkür ediyorum.<br />
+Okul 2005 yılında Kavak Anadolu Lisesi adı ile kurulmuş ama binası olmadığı için Halk eğitim Merkezi binasında 2 sınıf ile eğitime başlamış. 2007 yılında artık mevcut binanın yeterli olmaması nedeniyle 19 Mayıs Ortaokulu’nun binasına geçmiş.<br />
+O dönemde Kavak Belediye Başkanı Bahri Kesici ’nin çabaları ile aşağıda tanıtacağım hayırsever işadamı Sayın Rıdvan Çelikel’e ulaşılır ve kendisinin de bu eksiği görerek kabul etmesi ile “Kurtuluş Yolu” Üzerinde ki yere bu okulun temeli atılır. Kasım 2008 de kendisinin ve dönemin valisinin de katıldığı bir törenle okulun açılışı yapılır.<br />
+O tarihte 185 öğrencisi olan okulun adı da Rıdvan Çelikel Anadolu Lisesi olarak değiştirilir. 2008-2009 eğitim dönemi sonunda, Sayın Rıdvan Çelikel’in de katıldığı bir törenle ilk mezunları diplomasını alır.<br />
+Öğrencilerinin % 80 ‘nin Samsun’dan geliyor olmasına da kayıtsız kalmayan Sayın Çelikel, 2009 yılında 112 öğrencilik bir de yurt yaptırır.<br />
+Okul 2015 yılında fen lisesine dönüştürülerek Rıdvan Çelikel Fen Lisesi adı ile eğitime devam eder. Fen Lisesi olması ile birlikte artan öğrenci sayısı nedeniyle 120 kişilik kız yurduna ilaveten geçici bir binada 80 kişilik erkek öğrenci pansiyonu da açılır.<br />
+Ancak öğrenci sayısının 480’li rakamlara ulaşması ile yetersiz kalan yurt ihtiyacı nedeniyle, okulun yan tarafına da devlet tarafından yapımına başlanan 200 kişilik bir yurt inşaatı daha tamamlanmak üzer olup 2010-2021 eğitim yılında hizmete girecektir.<br />
+Fen Lisesi 16 dersliği, fizik, kimya ve biyoloji laboratuvarları, bilişim sınıfı, müzik ve görsel sanatlar atölyeleri, kütüphanesi ve yemekhanesi ile masa tenisi, bilardo, satranç gibi kapalı spor alanları, etüt ve dinlenme odaları, 120 kız ve 200 erkek öğrenci yurt binaları ve konferans salonu ile eğitim dünyamıza ışık saçıyorlar.<br />
+Anadolu Lisesi olduğu dönemde Anadolu liseleri arasında % 76 başarı yakalamış. Fen Lisesi olarak henüz bir kez mezun veren okulun 76 mezunundan 26’sı Üniversite sınavlarında dört yıllık lisans bölümlerini kazanırken, iki tıp, bir elektrik-elektronik mühendisliği, bir öğrenci de Makine Mühendisliği bölümünü kazanmış.<br />
+Müdür, 2 müdür yardımcısı, 23 öğretmeni ve 14 yardımcı personeli ile örnek bir eğitim kurulu olarak eğitim dünyamıza katkı veriyorlar. Okulun müdürü çok genç bir eğitimci olan Cumhur Tosun, okul bahçesinin önümüzde ki yıla kadar çok çeşitli ağaç türlerinin yer alacağı bir peyzaj düzenlemesi ile yeşile bürüneceğini anlatıyor.<br />
+Okulun, müzik, satranç, kültür ve edebiyat kulüpleri bulunmaktadır. Okulun, masa tenisi, satranç, kros puanlı atletizm, voleybol, futsal, basketbol ve dart branşlarında okul sporlarına katılıyor.<br />
+Bahçesinde beton zemine yapılmış büyük bir satranç alanı bulunan okulun kız satranç takımı yıllardır il 1. cisi, okul olarak oryantiring il birincisi, bölge 2. cisi, krosta il 2. sisi, yüzme de il 3. cüsü olma başarıları ile çok yönlü bir okul olma başarısına imza atıyorlar. Öğrencilerinden bazıları da Amazon Oryantiring ve doğa Sporları kulübünde, bazıları da farklı kulüplerde futbol, okçuluk, tekvando, yüzme ve masa tenisi gibi dallarda lisanslı olarak spor yapmaktadırlar.<br />
+Bu arada okulda her yıl TÜBİTAK Bilim Ulusal Satranç Turnuvaları düzenleniyormuş.<br />
+Okulun 9. 10. ve 11. Sınıfı öğrencilerinden sınıflarının başarılı olan ilk üç öğrencisine Rıdvan Çelikel Eğitim Vakfı tarafından lise eğitimleri boyunca aylık “Başarı Bursu” veriliyormuş.<br />
+Edebiyat konusunda da yetenekli öğrencilerinin, Öğretmenler Günü şiir yarışması ile Jandarma Teşkilatının kuruluş günü kompozisyon il birincisi olma başarıları da bulunuyor.<br />
+Okulun Sayın Rıdvan Çelikel tarafından yeniden düzenlenmiş müzik atölyesinde çalışan müzik ekibi, bu yıl yapılacak İpana ve Fizzy Müzik yarışmalarına katılacaklar.<br />
+Müzik öğretmenlerinin bestelediği “Mustafa’m Kemal’im” İsimli parçasının video klipi tarihi günlerde seslendirilmekte olup bu video klipte, yayınlandığı Youtube’ da büyük bir ilgi görüyormuş.<br />
+Okul ve öğretmen ile öğrencilerinin % 95’i TEMA Vakfı gönüllüsü olan okul içinde “İlkadım Bilime”, “SS Talks- Anlatılası Şeyler”, “İlerleme çemberi”, “Veli Atölyesi, “Etkin Kal”, “Akademiden Beceri Temelli Dersler” İsimli yerel projeler de uygulanmaktadır.<br />
+12 yıldır okulun müdürlüğünü yapan Cumhur Tosun’un yönetiminde, Müzik Öğretmeni Anıl Sabuncu ve Beden Eğitimi Öğretmeni Basri Gökmen ve diğer öğretmen kadrosu ile bu okulun yakaladığı bu başarı, ”Çok yönlü ve başarılı okul nasıl olunur” Konusunda eğitim camiasına örnek olmalıdır diye düşünüyorum.<br />
+RIDVAN ÇALİKEL DİYE BİR İŞADAMI<br />
+Böylesine dört dörtlük bu okulu yaptıran hayırsever işadamını merak ettiğinizi sanıyorum. Kim bu İstanbul’da ki Rıdvan Çelikel? Kendi memleketi de olmayan Samsun’un bir ilçesine bu okulu yaptırmasının nedeni nedir? Henüz yüz yüze tanışma fırsatım olmayan bu işadamını telefon ile arayarak bu soruyu kendisine sordum. İşte cevapları;<br />
+5 Mayıs 1955’te Bandırma – Balıkesir’de doğmuş, Orta ve lise eğitimini Üsküdar Lisesi’nde, yükseköğrenimini ise Yıldız Teknik Üniversitesi Elektrik Mühendisliği Bölümü’nde tamamlamış. 1975 yılında Öneren Mühendislikte çalışma hayatına başlayan Rıdvan Çelikel, 1983-1985 yılları arasında Aktek Elektrik’te ortak olmuştur. 1986 yılında kendi şirketi ANEL ELEKTRİK’İ kurmuş. Daha sonra da,  elektrik ve mekanik taahhüte ek olarak, pano üretimi, gemi elektrik ve elektronik sistemleri, yenilenebilir enerji, geri dönüşüm ve işletme bakım alanlarında faaliyet gösteren diğer grup şirketlerini de kurmuştur. Kendisi halen Anel Grup bünyesindeki şirketlerinde Yönetim Kurulu Başkanlığı görevini sürdürmektedir.<br />
+1990 yılında alçak gerilim pano üretiminde hizmet veren Anelsis şirketini kuran Sayın Çelikel, 2005 Yılında da Gemi elektrik elektronik sistemleri (savunma sanayi) alanında hizmet veren Anel Marin şirketini kuruyor.<br />
+2009 Yılında Anel Enerji şirketini kurarak yenilenebilir enerji çözümlerinden Solar Fotovoltaik (PV) alanında faaliyetleri başlatıyor.<br />
+2010 yılında da Türkiye’nin ilk entegre geri dönüşüm ve atık yönetimi tesisi Anel Doğa’yı kurarak geri dönüşüm hizmetini başlatıyor. Rıdvan Çelikel, sanatı ve genç sanatçıları desteklemek amacıyla Anel İş Merkezi’nde Galeri 5’i hizmete sokuyor.<br />
+Son sorum, “Neden Samsun Kavak?” Oldu. İşte açıklaması;<br />
+“Ben Cumhuriyetin sağladığı olanaklarla bugünkü konuma geldim. Ülkeme olan borcumu ödemek üzere, kurduğum “Çelikel Eğitim Vakfı” İle geleceğimiz olan çocuklarımızın iyi bir eğitim alması için katkı sağlamaya çalışıyorum. Bir gün bir dostum aracılığı ile bana Kavak’ta yeni açılan Anadolu Lisesi’nin binasının olmadığı iletildi.”<br />
+“Samsun’un, bende ki yeri bir başkadır. Kurtuluş Savaşı’nın ilk adımının atıldığı Ondokuzmayıs Kenti olarak çok değer verdiğim bu kentten gelen talebe duyarsız kalamazdım. Gittim, yerinde inceledim ve Atatürk’ün Kurtuluş Savaşını başlatmak üzere 19 Mayıs 1919 sabahı Samsun’a çıkarak başlattığı Milli Mücadelenin başlangıç yolu olan Kurtuluş Yolu üzerinde bulunan yere bu okulu yaptırmaya karar verdim. Hala da destek vermeyi sürdürüyorum. 2009 Yılından bu yana da, vakfımız aracılığı ile bu okulun öğretmen, öğrenci ve velilerine yönelik “Eğitimde Geniş açı Projesi” ile mesleki akademik, kültürel, kişisel gelişim üzerine seminer ve atölye çalışmalarını sürdürüyoruz. Bu okulun başarıları, benim en büyük mutluluğum ve onurumdur.”<br />
+Bir Samsunlu olarak, Cumhuriyet sevdalısı Sayın Rıdvan Çelikel’e geleceğimiz olan çocuklarımızın eğitimi konusunda ki bu duyarlı ve hayırsever çalışmalarından ötürü yürekten teşekkür ediyor ve kendisinden yarattığı bu harika okula tek eksiği olan bir spor salonunu da kazandırmasını rica ediyorum.<br />
+Son yıllarda işadamı denince, devletten aldığı kıyak ihalelerle akla gelen yandaş işadamlarına hiç benzemeyen Sayın Rıdvan Çelikel’e, başarılarının devamı dileğiyle saygılarımı sunuyorum.<br />
+Corona Virüsü ’nün etkilerinin azalacağı sağlıklı bir hafta dileğiyle…29.03.2020<br />
+Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0976-corona-virusunun-hatirlattiklari-sunus-2-bolum.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0978-covid-19-salgini-dahi-ulkemizdeki.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

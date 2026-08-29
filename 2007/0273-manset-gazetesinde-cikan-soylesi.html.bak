@@ -1,0 +1,332 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Manset Gazetesinde Çıkan Söyleşi</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Manset Gazetesinde Çıkan Söyleşi
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2007
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0273
+
+</div>
+
+
+<div class="article-content">
+
+<p>MANŞET GAZETESİ ADINA M. SONER CABBAR’IN SAM-SEV BAŞKANI  SADİ SUBAŞI İLE YAPTIĞI SÖYLEŞİ . BU SÖYLEŞİ MANŞET GAZETESİNİN 10-OCAK-2007 TARİHLİ NÜSHASINDA AŞAĞIDAKİ BAŞLIKLA YAYINLANMIŞTIR.</p>
+<p>SAMSUN’A YAPILANLARI HAZMEDEMİYORUM.</p>
+<p>SAMSEV Başkanı Sadi Subaşı, Samsun’un sanki birileri tarafından hızının kesildiğini belirterek, “Samsun’a yapılanları hazmetmek çok zor. Bu ile nasıl olurda teşvik verilmez. Taşın altına elini sokmayanların içi acımıyor mu hiç” dedi.</p>
+<p>Samsun’a karşı yapılan her haksızlık, Samsun’un hak etmediği kadar ihmal edildiği her dönemde SAMSEV (Samsun, Spor, Eğitim Vakfı) ortaya çıkıyor ve vatandaşı aydınlatmak adına bir takım açıklamalar yapıyor. Bazen bir çok sivil toplum örgütünü bir araya getiriyor, mobil santralin Samsun’dan gönderilmesi için çaba harcıyor, bazen de çıkıyor ve ‘neden bize teşvik vermediniz’ diyerek raporlar hazırlayıp siyasileri harekete geçiriyor.</p>
+<p>Ancak tüm çabaları sonrasında alınabilmiş bir yol var mı diye sorulabilir. Başlangıçta kalabalık kadrolarla bu görevi sürdüren SAMSEV artık kadro sıkıntısı yaşıyor. Yaptıkları ortak platformlara katılanların sayısı her geçen gün azalıyor. Samsun’da taşın altına elini koyan çok diyen SAMSEV Yönetim Kurulu Başkanı Sadi Subaşı zaman zaman çok yalnız kaldıklarından yakınarak, “Samsun siyesi tercihlerini milletvekillerini seçerken iyi yapamıyor. Bunun bedeleni de ödüyor” diyerek özetliyor.</p>
+<p>Samsun’un sanki birileri tarafından hızının kesilmeye çalıştığını öne süren  Sadi Subaşı, mobil santralin yeniden işletmeye açılmasına Samsun kamuoyunun karşı çıkması gerektiğini savunuyor. Kentteki işsizliğin ve vurdumduymazlığın bir an önce önlenmesi gerektiğini ifleri süren Subaşı, “Samsun’a haksızlık yapılıyor. Ve bunu ben hazmedemiyorum. Bir gurup arkadaşımız da. Samsun’da ne yazık ki söz sahibi olanlar, bu kentin çıkarlarını yeterince göz önüne almıyor. Siyasiler vaadlerini yerine getirmiyor ama kimse hesap sormuyor. Hazırladığımız raporu başkana sunamıyoruz. İşte öylesine zor ve yıpratıcı bir çalışma içindeyiz” dedi.</p>
+<p>Samsun’un trafik sorununun çözülemediğini, kentin yetişmiş yeni genç fikirleri barındıramadığını ve bunun için ortam olmadığını söyleyen Sadi Subaşı, “Son zamanlarda ortaya çıkan sülün heykellerine de bir anlam veremiyorum. Burası 19 Mayıs kenti. Bununla övünmeli ve bu hissi herkese vermeliyiz. Samsunspor küme düştü kimsenin umurunda değil. Herkesin destek vermesi lazım. Sadece SAMSEV birkaç sivil toplum örgütüyle bu kentin dinamiklerini harekete geçiremeyiz” diye konuştu.</p>
+<p>Çoğu insan kendi hayatına sahip çıkma becerisinde yetersiz kalırken, büyük çabalarla bir kente sahip çıkma gayretini gösteren SAMSEV, Samsun için her platformda çalışmalarını sürdürüyor. Halk tarafından en çok bilinen ve güvenilen sivil toplum örgütleri arasında ilk sıralarda yer alan Sam-Sev Başkanı Sadi Subaşı 2006 yılında Samsun neler kazandığı, neler kaybettiğiyle ilgili görüşlerini M. S. Cabbar’a içtenlikle anlattı.</p>
+<p>M. S. CABBAR – SAMSEV, tüm Samsunlular’ın tanıyıp, güvendiği sivil toplum örgütlerinin başında yer almakta.2006 Sam-Sev için nasıl bir yıl oldu?</p>
+<p>S. SUBAŞI – Sam-Sev, 2006’ya umutla başladı. Milletvekillerimizin, kente dair bütün vaadlerine rağmen, ne yazık ki gelişmeler olumsuz sonuçlandı. Samsun; geçmişini arayan kent. Geleceği planlamak yerine, geçmişle uğraşıyoruz. Çünkü; önemli kayıplarımız var. Arayışla vakit kaybederek, geleceği de kaçırma yanlışına düşüyoruz. Kentimiz, alt yapısı tamamlanmış, gelişmeye müsait konumda. Bir takım güzel işler başarılmaya çalışılırken, inanılmaz olumsuzluklar gelişiyor. Sanki birileri Samsun’un hızını kesmeye çalışıyor.</p>
+<p>M. S. CABBAR- Samsun hızı ilk olarak sizce teşvikle mi kesildi. Teşvik çok önemliydi Samsun’un gelişmesi açısından öyle mi?...</p>
+<p>S. SUBAŞI –  Samsun; bölgesinde teşvik dışında bırakılan tek il. Bunu hazmetmek, kabullenmek mümkün değil. Sam-Sev üstlendiği misyon gereği, Samsun’daki sivil toplum örgütlerine ortak platform çağrısında bulundu. Samsun, tarihinde görülmemiş birlikte, 81 sivil toplum örgütünün katılımıyla toplandık. Başlangıçta elini taşın altına koymaya hazır görünenler, bir süre sonra ellerini çekti. Sam-Sev, yanında kalan kuruluşlarla, çalışmalarını hızlandırarak, şehrimizin mali portresini çıkarttı. Bilim adamları, ekonomistler tarafından rapor hazırlandı. Bütün çabamıza rağmen, raporu başbakana ulaştırma şansı bulamadık. Olayı tüm milletvekillerine taşımak için raporları özel ulaklarla kendilerine ulaştırdık. Bizim çabalarımız sırasında, seçtiğimiz vekillerimiz, kaderimizi değiştirebilecek, işsizliğe çözüm olabilecek, teşvik yasasına sahip çıkmadı. Bütün gelişmeler Samsun’un gözü önünde yaşandı. Başka şehirlerin milletvekilleri bile meclis kürsüsünden Samsun’a haksızlık yapıldığını söyledi.</p>
+<p>M. S. CABBAR – Hazırlanan raporda Samsun’un teşvik almasını hak ettirecek hangi gerekçeler vardı. Milletvekilleri hangi gerekçeyle Samsun’da teşvik için gerekli baskıyı oluşturamadı?</p>
+<p>S. SUBAŞI – Milletvekillerine göre Samsun, zengin yapılanmasını tamamlamış, ihtiyacı olmayan bir kent. Samsun’un teşvikten zarar göreceğini bile söylediler. Teşvikle canlanacak sanayinin işsizliğe çare olabileceğini biliyorduk. Tarımsal sanayi arsa arayan kuruluşlar vardı. Samsun’da ulaşım olanakları çok uygun. Yan sanayi desteği gelişmiş. İşçi maliyetleri düşük. Bütün bunlar bir araya geldiğinde Ciddi yatırım ortağı bekliyorduk. Cazibe merkezi haline gelmiş Samsun , çevre illere de çare olacaktı. Samsun’ sahip çıksın diye meclise gönderdiğimiz milletvekillerinden ikisi , sivil toplum örgütlerine harekette bulunma gafletini gösterdi. Kişisel hiçbir beklenti içinde olmaksızın, kent için çaba gösteren insanların gördüğü muamele, son derece üzücüydü. Kent adına altını çizmek istiyorum ki, bu tarz olaylara sahne olacak başka bir yerde, milletvekilleri şehre giremezdi. Ancak bizim insanımız engin sevecenliği ve hoşgörüsüyle o milletvekillerine kucak açtı. Hatta başbakanın ağırlandığı meydanlara “ bize ne teşvik ne yatırım lazım. Senin güler yüzle bize gelmen yeter” şeklinde pankart asma samimiyetsizliğini gösterdiler. Bunlar bu kentte herkesin şahitliğinde yaşandı.  Çorum, Merzifon, Amasya’da yaşanan yatırım patlamasının, şehrin ekonomik yapısını ve dokusunu nasıl değiştirdiğini, yatırım için arsa kalmadığını görünce, kentimizin yöneticileri adına hicap duyuyorum. u kente yazık edildi. bu kente ayıp edildi. Kentimizin hakkı yendi ve ne yazık ki bütün bunlara seyirci kalındı. Sivil toplum örgütlerinin gücü, çaba göstermekten öte geçememiştir.</p>
+<p>M. S. CABBAR - Samsun Limanı'nın durumu ne olacak. Özelleştirme kapsamında değil galiba?</p>
+<p>Teşvik alamama, Samsun’da soru sorma dönemini başlattı. Güzel işler için çalışılıyor ama sanki bazı güçler, nedenini net bir şekilde ortaya koyamayacağımız bir şekilde, Samsun’un önünü kesmek istiyor. Yoğun çaba sarf eden yöneticilerimizin üstünde olan karşı gücü açıklayacak yeterli belgeye sahip değiliz. Ama yaşananlar Samsun’un sürekli engellemeyle karşılaştığını gösteriyor.         Samsun Limanındaki gelişmeler ya da bir türlü gelişememe bir başka soru işareti. Bölgenin bütün limanları özelleştirilecek hız kazanmasına rağmen, bölgenin en büyük limanı henüz özelleştirme kapsamına alınmadı. Üstelik ücretlerin yüksekliği, gemileri başka limanlara yönlendiriyor. Ücretler kasıtlı arttırılıyorsa, özelleştirmenin neden yapılmadığı araştırılmalı. Atıl, çalıştırılmayan bir limanın neden özelleştirilmediği araştırılamıyor. Samsun’da bunları söylemeye cesaret edebilen kimse de yok. Sam-sev bu konular tartışılsın istiyor. Düşüncemizde yanlış varsa, kafamızı kurcalayan sorular birileri tarafından cevaplanmalı.</p>
+<p>M. S. CABBAR – Teşvik konusu dışında milletvekillerimizle bir araya gelerek, Samsun’u konuştunuz mu?</p>
+<p>S. SUBAŞI – Siyasetçinin sivil toplum örgütlerini sevdiği zaman, seçimden önceki 3 aylık dönemdir. Baş tacıyızdır. Siyasetçi ağırlamaktan yorgun düşeriz. Seçimden sonra muhalefet dostumuz olarak kalır. İktidar sorunu çözmüştür. Sam-Sev sorunları gündeme taşıyarak, milletvekillerine rahatsızlık verdiğinden, bir arada olamadık. Demokrasiden yanayız diyorlar. Ama yanlışı dile getirirseniz, sizden kötüsü olmuyor. Yerel yönetimlerde de durum farklı değil. Sam-Sev’ de bulunduğum sürede bir sürü dost yanımda, pek çok düşman kazanmış olmaktan üzgünüm. Yapılan güzel işleri alkışlıyoruz. Yanlışları engelliyemiyoruz. Oysa hiçbir siyasi kuruluşun yanında değiliz. Tüm siyasi partilere eşit mesafedeyiz. Vazgeçilmez noktamız Samsun çıkarlarıdır. Samsun bu bilince ulaşması gerek. Genç kuşak yönetici yetiştirememek, kentin önemli sorunlarından biri. Samsun ekonomik potansiyelini yitirdiğinden, eğitimli gençlerimiz başka şehirleri tercih ediyor. Tehlikeli biçimde genç kuşağımızı kaybediyoruz. Teşvik yasasını Samsun için umut olarak görmüştük Belki yanlışları vardı ama şu ana kadar Samsun’ u marka edebilirdi.</p>
+<p>M. S. CABBAR – Umutlar başka bahara mı kaldı?</p>
+<p>S. SUBAŞI – Samsun ve teşvik konusu gündemden düştü. Samsun’a yatırım çabasında kimseyi göremiyorum. Umutlanmaya çalıştığımız her konu elimizde kalıyor. Sam-sev 2000 yılında tersane konusunu gündeme taşımıştı. Bugün sahiplenen çok ama Sam-sev çok çaba göstermişti. Proje onaylandı ama tabeladan başka bir şey yok elimizde. Aynı dönemde projelenen tersaneler hizmete açılmadı. Bunları söylediğimizde siyasetçiler rahatsız oluyor. Samsun adına vaade bulunarak, söz vererek seçilmişsen, diyetini ödemelisin. Samsun halkı seçtiklerine hesap sormayacaksa, boynunu bükmeye mahkumdur. Büyük çabayla, mahkeme kararıyla kapattırdığımız mobil santralin devreye girmesi kesinleşmiş durumda Çevre bakanı, mobil santralin gerekli işlemleri tamamlayarak, elektrik vermeye hazır olduğunu mecliste yazılı resmi açıklamayla duyurmuştur. İnsanı ürperten bir manzara. Hukuk kararı var. Burası hukuk ülkesiyse, santralin açılmasının imkanı yok. Santralin çalıştırılacağı resmen açıklanıyorsa, ülkede ne hukuk kalmıştır. Ne de hukuk adına devlet. İşin en acı tarafı bu.</p>
+<p>M. S. CABBAR – Mobil santral açılırsa Sam-Sev’in tavrı ne olacak?</p>
+<p>S. SUBAŞI – Samsun adına mücadeleyi sürdüreceğiz. Halk yine desteğini verirse, yeni bir süreç başlayacak. Hukuk ihlali söz konusu ki bu anayasal suç. Hepsi yan yana neler getirecek bilinmez. Mobil santral yetmezmiş gibi şimdi de aspes taşıyan bir tesisin Samsun’ da kurulması için altyapının oluşturulduğu duyumlarını almaktayız. Dünya bu tarz tesisleri geri kalmış ülkelere kurarak, kendinden uzak tutuyor. Samsun Türkiye’nin en aciz kalmış bölgesi olarak görülmekte ki bütün kirli işler bizi buluyor. Sonra da bize “yatırımcıların önünü kesmeyelim” deniyor.</p>
+<p>M. S. CABBAR – Neden Samsun?</p>
+<p>S. SUBAŞI – Siyasi gücümüz yok. Hükümetlere destek verdiğimiz dönemlerde bile, fayda görmedik. Bu da Samsun’un siyasetçi yetiştiremediğinin göstergesi. Ayrıca bizi temsil edecek güçte, bu kente sevdalı milletvekili seçemiyoruz.</p>
+<p>M. S. CABBAR – Bu Samsun’un tercihi mi?</p>
+<p>S. SUBAŞI – Seçim kanunundaki boşluklar etken tabi. Seçmenin aday belirleme şansı yok. Listeler parti genel merkezlerinin atamasıyla belirlenmekte. Samsun’a hizmet edecek isimler listelerde öne çıkma şansı bulamıyor. Kozmopolit yapısıyla Samsun, açık Pazar gibi değerlendiriliyor. Bu şehri temsil eden kişi, gerektiğinde Başbakana karşı durarak, şehrin hakkını korumalı.</p>
+<p>M. S. CABBAR – Eski sigara fabrikasındaki gelişmeleri nasıl değerlendiriyorsunuz?</p>
+<p>S. SUBAŞI – Sam-sev’in bu konuda direkt teması yok. İlk projeyi, alanın iş merkezine dönüştürülmesini destekliyorduk. Bu projeden vazgeçerek, yeterince sağlık kuruluşunu bulunduğu ortamda, bu alanın sağlık kompleksine dönüştürülmesi, düzeni alt üst edecek. İş yerine çok ihtiyaç duyulan bir bölgede. modern çarşı haline gelebilecek bir yerin yok edilmesine karşı çıktık. İmar odası sağlık kompleksi yapılmasına karşı dava açtı. Anıtlar kurulunun da bu projeye sıcak bakmadığı söyleniyor. Bu kenti düşünen yerel yöneticilerimiz, eski tekel binasını kültürel yapıyı içerecek şekilde iş merkezine dönüştürmeli. Üstelik bu dönüşüm işinin ehli , profesyonel ellerde gerçekleşmeli. Bu girişimlerin önü kapatıldığında Samsun’da bazı çevrelere çıkar sağlanacak endişesi taşıdığımı altını çizerek söylemek istiyorum.</p>
+<p>M. S. CABBAR – Kent içi trafik için neler söyleyeceksiniz?</p>
+<p>S. SUBAŞI – Trafiğin durumu ne bugün ne de yakın geçmişteki yöneticilerin suçu. İlk yerleşimden sonra 1965 -1980 arası yeniden şekillenen imar planlarında ana caddeler aynen korunup,9 katlı binalara izin verilmesi, trafiği içinden çıkılmaz hale getirmiştir. Samsun kentiçi trafiği çözümsüz noktada. Sam-Sev konuyla ilgili Emniyet Müdürlüğüne başvuruda bulundu. Trafik şubeden gelen cevapta konunun kent içi trafiği düzenleyen kurula sevk edildiği bildirildi. Kuruldan görüşme için cevap beklerken toplantının sonlandırılıp, kararlar alındığını basından öğrendik. Bu kentte Sam-sev olgusunun kabullenilemeyişini anlayamıyoruz. Samsun’un iyiliğine olmayan hiçbir olayda yer almadık. Sam-Sev’e karşı oluşturulan tavrı anlamak zor.<br />
+Anlaşılması zor bir başka konu, Samsun’un ana girişlerine konulan dev heykeller. Neyi simgelediği, ne ifade ettiği, neden onların seçildiği konusu bir yana, 19 Mayıs Kentinin girişinde kullanılacak her figürün 19 Mayıs’ı simgelemesi gerek. Türkiye’nin her yerinde Samsun 19 Mayıs ve Atatürk ile anılıyor.19 Mayıs Samsun’un simgesi. Zaten başka simgemiz de kalmadı.19 Mayıs avantajını ses getirecek platforma taşımayı başaramadık. Ama Samsun 19 Mayıs kenti olarak yaşamaya devam edecektir. Halk bu konuda son derece hassas.<br />
+Acı ama tüm göstergeler bu gerçeği işaret ediyor. Samsun Kurtuluş Savaşının başlangıç noktası olma konumuyla en çok destek alması gereken kent iken, korkarım bu özelliğinden dolayı darbe yiyen kent konumundan kurtulamıyor.</p>
+<p>M. S. CABBAR – Çarpıcı değerlendirmeleriniz için teşekkür ederiz.</p>
+<p>Hazırlayan: M. Soner CABBAR</p>
+<p>Resimaltı:  NEFER OLMAYA<br />
+BEN HAZIRIM</p>
+<p>Defalarca tekrarladığım gibi, Samsun için açılacak her bayrakta nefer olmaya devam edeceğiz. Samsun geleceği planlamak yerine, geçmişi aramakla meşgul. Milletvekillerimizin değerlendirmesine göre Samsun, zengin, yapılanmasını tamamlamış, ihtiyacı olmayan bir şehir. Bu kente yazık edildi. Bu kente ayıp edildi. Samsun’un hakkı yendi ve tüm bunlara seyirci kalındı. Mobil santral çalıştırılırsa, ülkede ne hukuk kalmıştır, ne de hukuk devleti ki işin en acı tarafı bu. Samsun Türkiye’nin en aciz kalmış bölgesi olarak görülmekte ki, mobil santral gemi söküm tezgahı gibi kirli işler bizi buluyor.</p>
+<p>İKİNCİ HABER: Siyasi gücümüz yok</p>
+<p>Mobil Santralin yeniden açılması halinde mücadelelerini sürdüreceklerini söyleyen Subaşı, "Halk desteğini verirse, yeni bir süreç başlayacak. Mobil santral yetmezmiş gibi şimdi de aspes taşıyan bir tesisin Samsun’ da kurulması için altyapının oluşturulduğu duyumlarını almaktayız. Samsun Türkiye’nin en aciz kalmış bölgesi olarak görülmekte ki bütün kirli işler bizi buluyor. Siyasi gücümüz yok. Bizi temsil edecek güçte, bu kente sevdalı milletvekili seçemiyoruz.</p>
+<p>ÜÇÜNCÜ HABER: Samsunspor beni endişelendiriyor</p>
+<p>M. S. CABBAR -  Sanırım 2006’da Samsunspor da, Samsunlular’ı üzdü.</p>
+<p>S. SUBAŞI – Sam-Sev’in kuruluş amaçlarında Samsunspor’a destek de var. Samsunspor’u şahısların omuzlarından alarak, halka mal etmek ilkemizdi. Üzgünüm ama başaramadık. Çünkü Samsunspor, gerekli ekonomik güce ulaşamadı. Rakamlar bizim çok ötemize geçti. Futbol kara Pazar haline geldi. Samsunspor hak etmediği şekilde düşürüldü. Biz de bilgisizlik, acemilik, yanlışlar, yanlış yerden medet ummalarla düşürülmesine yardım ettik. Samsun spor hala uzman ellerde değil. Samsun’ da bu işe para yatıracak ekonomik güçte insan sayısı çok az.. Destekle bu iş ne kadar, nereye kadar yürüyecek. Sezon başında yine yanlış transferlerle Samsunspor’un 3 trilyonu heba edildi. Yeni alınacak oyuncuların çok şey değiştireceğini düşünmüyorum. Takım karmakarışık halde, dağıldı. Daha kötü noktalara gelme endişesindeyim.</p>
+<p>DÖRDÜNCÜ HABER: SAMSEV ÇOK<br />
+YIPRANDI</p>
+<p>M. S. CABBAR- Sam-Sev sorularını sormaya cevap alamasa da devam edecek mi, ya da nereye kadar devam edecek?</p>
+<p>S. SUBAŞI – Sam-Sev Samsun sevdalısı ve ne yazık ki gittikçe daralan bir kadroyla ayakta durmaktayız. Çok ciddi sorunlar, haksızlıklar yaşanırken bile kimse” ne yapabiliriz sorusunu ortaya atmıyor. Sam-Sev bu soruya cevap ararken yıprandı. Gönül ister ki bazı çalışmalarda Sam-sev lider yerine nefer olsun. Samsun için açılacak her bayrağın arkasında durmaya hazırız. Sivil toplum örgütleri Sam-Sev’ e güvenerek, öne geçtiğimiz her olayda yanımızda yer alıyorlar. Halk bize gönülden destek veriyor. Sam-Sev’ in bu kente zamanda bize sorumluluk yüklüyor. Bu güçle karşı baskılara direniyoruz.</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0272-sivil-toplum-kurulusu-olmanin-sorumlulugu-ve-sam-sev.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0274-kus-gribi-ve-akla-gelen-sorular.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

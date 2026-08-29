@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>10 Kasım ve Sonrası Kaybettiğimiz Değerlerimiz 1. Bölüm</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+10 Kasım ve Sonrası Kaybettiğimiz Değerlerimiz 1. Bölüm
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2018
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0925
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>10 KASIM VE ATATÜRK SONRASI KAYBETTİĞİMİZ<br />
+DEĞERLERİMİZ.<br />
+1. BÖLÜM<br />
+Geçtiğimiz cumartesi günü saat 09.05 de Ülkemizin kurucusu ve Büyük Önder’imiz Mustafa Kemal Atatürk’ün aramızdan ayrılışının 80. Yıl dönümüydü.<br />
+Osmanlı İmparatorluğu 1. Dünya Savaşında kaybeden tarafta yer aldığı için savaş sonrası elinde kalan son vatan toprağı Anadolu’ nun da doğusu, güneyi ve batısı Yunanistan, Fransa, İtalya ve Rusya tarafından işgal edilmişti.<br />
+Türkler Anadolu’nun ortasında adeta esarete mahkûm edilmişti. İşte bu kötü tabloyu Samsun’dan başlattığı Kurtuluş Savaşı’nı kazanarak bozan büyük asker ve komutan Mustafa Kemal Paşa’ydı.<br />
+Mustafa Kemal Paşa’yı dünya lideri yapan sadece savaşta kazandığı zafer değil, savaş sonrası bir Devlet Başkanı olarak 15 yıl gibi çok kısa ömründe eğitimde, sanayileşmede, tarımda, hukuk ve demiryolları yapımında yarattığı devrimlerle yeniden yarattığı, Laik ve Çağdaş Hukuk Devleti Türkiye Cumhuriyeti Devletidir.<br />
+Çünkü Osmanlı döneminde toplu iğne yapılamazken bu yeni devlet, 15 yıl da onlarca fabrika yapmış ve çağdaş yönetimi sağlayacak çok sayıda kurum ve kuruluşu gerçekleştirmiştir.<br />
+Sizlerin de çok iyi bildiği bu kuruluşları sadece hatırlamamız için ana başlıkları ile yazmaya dahi bu sütunların yetmeyeceğini biliyor ve sadece önemlilerini buraya alıyorum.<br />
+Yapılan en önemli ilk iş, Kapitülasyonların kaldırılmasıdır.<br />
+Bu 15 yılda;  Anadolu Ajansı, Sağlık da Merkez Hıfzıssıhha Müessesesi, Türkiye İş Bankası, Ankara Hukuk Fakültesi,<br />
+Alpullu, Uşak, Eskişehir, Turhal Şeker Fabrikaları,<br />
+Ankara Fişek Fabrikası ve Gölcük Tersanesi, silah ve cephane üretecek olan Şakir Zümre Fabrikası, Kayaş Kapsül Fabrikası ve Nuri Killigil Tabanca, Havan ve Mühimmat Üretim Tesisleri, Eskişehir Hava Tamirhanesi, Kayseri ve Nuri Demirağ Uçak Fabrikası, Kırıkkale Mühimmat Fabrikası,<br />
+Yine bu 15 yılda, sanayileşme adına, Beykoz Deri ve Kundura, Hereke ipekli ve Yünlü Dokuma, Konya Ereğli ve Bakırköy, Kayseri, Malatya Bez, Nazilli Basma, Bursa Merinos, Gemlik Suni İpek, Bünyan Dokuma, Bursa Dokumacılık, Adana ve Gaziantep Mensucat Fabrikaları,<br />
+İnşaat demiri üreten ilk haddehane, Ankara Orman Çiftliği ile Tarım Satış Kooperatifleri ve Birlikleri,<br />
+Bakırköy, Ankara, Sivas Çimento Fabrikaları ile Eskişehir Kiremit Fabrikası, Türk Telsiz Telefon Anonim Şirketi kurulmuştu.<br />
+Yabancıların elinde bulunan Haydarpaşa Limanı, Mersin-Adana, Anadolu-Bağdat, Mersin- Tarsus ve Diyarbakır-Cizre, Trakya-İstanbul Demiryolları yabancılardan satın alınırken,<br />
+Ankara-Kayseri, Samsun-Havza-Amasya, Amasya-Zile, Ankara-Sivas, Kayseri-Şarkışla, Kütahya-Emirler, Fevzipaşa-Gölbaşı, Gölbaşı-Malatya, Ulukışla-Niğde, Zile-Sivas, Kütahya-Balıkesir demiryolları yapılıyordu.<br />
+Ankara Havagazı Fabrikası, Ayancık Kereste Fabrikası, Trabzon Hidroelektrik Santralı ve İstanbul Otomobil Montaj Fabrikası da bu dönemde kurulmuştu.<br />
+Türk tarihinin araştırılması amacıyla Türk Tarih Kurumu ile Türk dilinin araştırılması ve Türkçenin güncel sorunlarıyla ilgilenilmesi için Türk Dil Kurumu kuruluyordu.<br />
+Devlet Hava Yolları, Petrol Arama ve İşletme İdaresi ve Altın Arama ve İşletme İdaresi kurulurken, çıkartılan bir yasa ile de petrol arama ve işletme hakkı devlete veriliyordu.<br />
+Bursa Süt, İzmit Paşabahçe Şişe Cam, İzmit Kâğıt ve Karton Fabrikası, Zonguldak Antrasit, Zonguldak Kömür, Keçiborlu Kükürt Fabrikası, Isparta Gülyağı Fabrikası, Ankara, Konya, Eskişehir, Sivas Buğday Siloları,<br />
+Devletin maden ve enerji ihtiyacını sağlamak amacıyla Etibank ve Maden Tetkik Arama Enstitüsü kurulurken, İstanbul Rıhtım Şirketi yabancılardan satın alınıyor ve madenlerin millileştirilmesi politikasına gidiliyordu.<br />
+Ankara Çubuk Barajı, Zonguldak Taş Kömürü Fabrikası, Malatya Sigara Fabrikası, Malatya İplik Fabrikası, Bitlis Sigara Fabrikası, Elâzığ Şark Kromları İşletmesi de bu dönemin kazanımlarıydı.<br />
+1936’da İzmir Havagazı Şirketi ve İstanbul Telefon Şirketi yabancılardan satın alındı.<br />
+1937 yılında Fabrikası, Karabük Demir Çelik Fabrikası kuruldu. Kozlu Kömür İşletmeleri yabancılardan satın alındı.  1938’de Divriği Demir Ocakları, kuruldu.<br />
+Bunlara ilave olarak ülkenin tarım alanındaki ihtiyaçlarını karşılamak amacıyla Ziraat Okulları ve Yüksek Ziraat Enstitüsü, Urfa Ceylanpınar Devlet Üretme Çiftliği kuruldu.<br />
+Havacılık sporlarının yürütülmesi ve havacılığın geliştirilmesi amacıyla Türk Kuşu,<br />
+Ticareti canlandırmak amacıyla Uluslararası İzmir Fuarı, Sağlık ve Sosyal Yardım Bakanlığı, Merkez Bankası, Halkevleri, Devlet İstatistik Enstitüsü, Demiryolları ve Limanlar Genel Müdürlüğü, Çocuk Esirgeme Kurumu (Himaye-i Eftal Cemiyeti) gibi çok sayıda kurum ve kuruluş Atatürk’ün öncülüğünde kurulmuştur<br />
+Tüm bunlar Türkiye Cumhuriyeti’nin ilk 15 yılında gerçekleştirilmiş ve devletimiz için sağlam bir temel atılmıştı.<br />
+Bu gelişmelere paralel olarak Osmanlı Devleti’nin borçlarının büyük bir kısmı da tüm zorluklara rağmen bu dönemde ödeniyordu.<br />
+Bunların hepsi bir yana Harf Devrimini yaparak Osmanlı’da %1‘lerde olan okur yazar sayısını %20’lere çıkartmayı başarmıştır.<br />
+Köy Enstitüleri gibi bize özgü bir modelle köy okullarının öğretmenlerini kendi köylerinin insanlarından yetiştirmeyi başarmıştır.<br />
+Bir bu kadarını da yazamadığımı sanıyorum. Bu yazdıklarım dahi, savaştan yeni çıkmış, eğitim düzeyi % bir-ikilerde olan, ayağına giyeceği ayakkabısı, sırtına geçireceği hırkası olmayan, yoksulluktan kırılan bir milletin 15 yıl gibi kısa sürede böylesine bir kalkınma hızı yakalaması akıl alacak gibi değildir.<br />
+Ancak Mustafa Kemal Atatürk’ü kaybettiğimiz 10 Kasım 1938’den sonra ki süreçte neleri kaybettiğimizi de yarın yayınlanacak 2. Bölümde okuyabilirsiniz.<br />
+Haftanızın güzel geçmesi dileğiyle. 13.11.2018</p>
+<p>Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0924-samsun-daki-belediye-baskanlarina-cami-cagrisi.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0926-10-kasim-ve-ataturk-sonrasi-kaybettigimiz.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

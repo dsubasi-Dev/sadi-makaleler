@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Konak Sineması</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Konak Sineması
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2016
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0808
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>SAMSUN’UN KÜLTÜR DEĞERLERİNDEN BİRİSİ<br />
+DAHA ARŞİVE KALKTI</p>
+<p>Samsun, geçmiş tarihinden gelen kültürel birikime sahip bir kenttir. Samsun, Osmanlı hâkimiyetine girene kadar çok değişik medeniyetlere ev sahipliği yapmıştır. Bu medeniyetlerin bıraktığı kültürel izler azalarak da olsa, bir mozaik halinde günümüz Samsun’una yansımıştır.<br />
+Bunun sonucu olarak Samsun 1980’ li yıllara kadar üç büyük şehirden sonra kültürel anlamda öne çıkan bir kent olmuştur.<br />
+Oda tiyatrolarında yetişen çok sayıda Samsunlu tiyatrocu, Türkiye’nin en önemli tiyatro sanatçıları olarak ünlü tiyatrolarda yer almıştır.<br />
+Türk Sanat Müziği Koroları Samsun’da çok eski bir geçmişe sahiptir. Buralarda yetişen ünlü ses ve saz sanatçılarımız TRT’nin en önemli sanatçıları olmuştur.<br />
+Sanat ve uygulayıcılarının izleyicisi varsa uzun ömürlü olur. Belki de bu kadar değişik sanatsal konuda ünlü sanatçıların bu kentten çıkmasının nedeni de, Samsunlunun sanata olan sevgi ve saygısıdır.<br />
+Samsun’a gelen ünlü tiyatro ve müzik guruplarının da bu konuda Samsunlu izleyicilerinden övgü ile söz etmesi bundandır. Samsunlu izleyici, sahne açılınca sessizce dinler ve alkış gerektiren yerleri çok iyi belirler. Bunlar iyi izleyici olmanın da şartıdır.<br />
+Bunları anlatmamın nedeni, sanatsal etkinliklerin yapılabileceği salonların olmasının önemini vurgulamaktı. Samsun’da AKM açılana kadar Samsun’a gelen tiyatro ve konserlere de ev sahipliği yapan bir salon vardı. Bu salon, klasik sinemaların en önemli ve son temsilcilerinden birisi olan Konak Sinemasıydı.<br />
+Beyoğlu Emek Sineması İstanbullular için ne anlam taşıyorsa, Konak Sineması da Samsunlular için aynı anlamı taşıyordu.<br />
+Çoğu kentte sinema salonun dahi bulunmadığı yıllarda, Samsun’da Konak Sineması dışında başka çok önemli sinema salonları da vardı.<br />
+Yıldız, Zafer, Ferhan ve Kent Sineması bunlardan bazılarıydı. O tarihlerde Samsun’da çok sayıda yazlık açık hava sinemaları da vardı. Ne yazık ki, bunların hepsi de imar rantına yenik düşerek birer ikişer kapandı.<br />
+Henüz televizyonların olmadığı dönemlerde son vizyon filmleri oynatarak Samsunlulara sinema zevki yaşatan Konak Sineması’ da, geçen hafta içerisinde kapatıldı.<br />
+Konu Konak Sineması olunca, Samsunluların geriye dönük 50 yıllık hafızaların da bıraktığı izler unutulamaz.<br />
+Konak Sineması, SGK’ nın Mecidiye Caddesi üzerinde yapılan binasında sanıyorum 1967 veya 1968 yılında açılmıştır.<br />
+Bugün adı Konak olan bu sinemanın ilk işletmecisi olan Başaranlar Firması, bu sinemayı Emek adı ile işletmeye açmıştır. Daha sonra sinemanın işletmesi İstanbul Konak Filim işletmesine geçmiş ve sinemanın adı Konak olarak değiştirilmiştir.<br />
+1974 yılında sinemanın işletmesini Sayın Uğur Cevahir almış ve kapatılmak zorunda kalındığı geçen haftaya kadar da Sayın Cevahir tarafından işletilmiştir.<br />
+İçerisinde Konak Sineması’nın da yer aldığı SGK’ na ait İşkur Han’ın satılması sonrası, satın alan firmanın binanın boşaltılması yolunda ki talebi üzerine burada ki 52 işyeri ile birlikte Konak Sineması’nın da kapatılması zorunlu hale gelmiştir.<br />
+Bu binanın satılması ile ilgili yorumumu sona bırakarak tekrar Konak Sineması’na dönüyor ve 50 yıllık yaşamında Samsunlular üzerinde bıraktığı unutulmaz izleri hatırlatmak istiyorum.<br />
+Bu sinemanın en önemli özelliklerinden birisi, Türkiye’de vizyona giren en son filmlerin oynatılmasıydı. Henüz TV yayınlarının yayına başlamamış olmasının da etkisi ile Konak Sineması’nda bilet bulmak son derece zordu. Özellikle de Cumartesi ve Pazar günleri 18.00 matinesi en çok talep alan seanstı.<br />
+Sanırım sinemaya ismini de veren Konak Filim İşletmesinin İstanbullu bir firma olmasının etkisi ile bilet satışları günlük yapılıyor ve gişeler sabah açılıyor ve sadece o güne ait seansların bileti satılıyor, biletler kısa sürede bitiyordu. Özellikle de Cumartesi ve Pazar 18.00 seanslarına bilet bulabilmek büyük şanstı.<br />
+1970 yılında bu sinemanın çapraz karşı köşesinde eczanemi açtığımda, eczanem ile Konak Sineması’nın bulunduğu SGK binası arasın da, Şifa Yurdu isimli dar bir sokak vardı. (O tarihte bu sokağın yerine 19 Mayıs Bulvarı henüz açılmamıştı.)<br />
+Cumartesi günleri 18.00 Matinesine dost ve arkadaşlara erkenden bilet almak Eczanem için görev olmuştu. Personelimden birisi sabah erkenden kuyruğa girer ve Cuma gününden verilen sipariş biletler alınır,  üzerine isimler yazılarak masamın üzerine sıralanırdı. Akşam 17.30’ dan sonra bilet sahiplerine teslim edilirdi.<br />
+Konak Sinemasının salonu oldukça büyüktü. Balkonu ve sanırım on tanede locası vardı. Localar ailelerin en çok talep ettiği yerlerdi.<br />
+Bu sinemanın çok önemli bir kuralı daha vardı. Kılık kıyafeti düzgün olmayanlar ve iş kıyafeti ile gelenler sinemaya sokulmazdı.<br />
+Konak Sineması bir kültürdü.<br />
+TV yayınlarının başlaması ile sinema işletmeciliği büyük bir sarsıntı geçirdi. Uzun bir aradan sonra seyirci yeniden sinemalara döndü. Çok kaliteli yerli filmlerle sinemalarda yeniden canlandı. Ne var ki bu kez de, AVM’ lerin cep sinemaları ile rekabete başlaması, klasik sinema kültürüne vurulan 2. Darbe oldu.<br />
+Konak Sineması da bu cep sinema furyasına uymak zorunda kalıyordu. Büyük salon bölünerek 4-5 cep sineması oluşturuldu. Ama o eski klasik sinema kültürü de, yeni sinema akımına yenik düşmüştü.<br />
+Samsun’un en merkezi yerinde bulunan SGK binasının satılacağı haberlerinin çıkması ile tüm çarşı esnafı gibi Konak Sineması işletmecisi de sinemaya yatırım yapamaz hale gelmişti.<br />
+SGK yönetimi, binayı yaparken bu bina içerisinde bir sinema salonu yapmayı düşünecek kadar kültüre önem vermişti. Ama aynı kurum binayı satarken yıllardır kira aldığı kiracılarını bina satıldığı ana kadar bilgilendirmemişti.<br />
+En azından kendisine yıllardır kira ödemiş olan kiracılarının bir araya gelerek binayı satın alabileceğini hiç düşünmemiş ve önlerinden dahi geçilmemişti.<br />
+Sonuçta neslinin son örneklerinden birisi olan Konak Sineması artık yoktu.<br />
+Hemen hemen her Samsunlunun bir anısı bulunan Konak Sineması’nın geleceğe taşınması için binayı satın alan firmaya bir çağrıda bulunuyorum.<br />
+Bu binanın yıkılarak yerine yeni bir bina yapılması sırasında, Konak Sineması’nın ana salonu yanında dört beş tane de cep sineması yapılarak Samsun’un sinema kültürüne katkı yapmalarını öneriyorum.<br />
+Üzülerek söylemek gerekirse, teknolojinin gelişmesi ile bir kentin ruhu olan çok şey yok olup gidiyor. Konak Sineması da bunların şimdilik sonuncusu oldu.<br />
+Umarım, önerim doğrultusunda klasik sinema kültürünü devam ettirecek bir bina yapımı planlanır.<br />
+İyi haftalar.. 19. 06. 2016</p>
+<p>Ecz. SADİ SUBAŞI</p>
+<p>http://www. hedefhalk. com/)</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0807-ulkemizin-tehlikeli-bir-kutuplasmaya-gidisine-kim-dur-diyecek.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0809-muhafazakar-cagdas-ayrismasi-ve-sonuclar.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

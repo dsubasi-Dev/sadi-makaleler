@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Böyle Savaş Olmaz…</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Böyle Savaş Olmaz…
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2012
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0593
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>BÖYLE SAVAŞ OLMAZ.</p>
+<p>Ülkemizin Güneydoğu bölgesinde yaşanan adı konmamış savaş, otuz yılı aşkın bir süredir can almayı sürdürüyor.<br />
+Hemen her gün birkaç şehidimizi toprağa veriyoruz. Bu haberlere öylesine alışıldı ki, artık sıradan bir olay gibi algılanır oldu.<br />
+Hatta şehit haberleri öylesine sıradanlaştı ki, daha yaşamın güzelliklerinin tatmadan şehit olan binlerce ana kuzusunun, hemen hepsinin kırsaldan ve dar gelirli ailelerin çocuklarından oluştuğunun dahi kimse farkında değil.<br />
+Sayısal olarak dünyanın en büyük ordularından, bölgenin de Rusya hariç en güçlüsü olan bir ordunun, 30 yılı aşkın bir süredir devam eden bu kalleş savaşı bitirememesinin anlaşılabilir bir yanı yoktur.<br />
+Tamam, karşı taraf gerilla savaş koşullarını uygulamaktadır. Buna rağmen bu kadar sayısal ve silah bakımından güçlü olan bir ordunun bu savaşı bitirememesinin arkasında açıklanmayan bazı nedenler olmalıdır diye düşünüyorum.</p>
+<p>Bu bölge insanının geçim kaynağının kaçakçılık olduğu bilinmektedir. Eğer bu kaçakçılığın içinde uyuşturucu ticareti de varsa, bu iş riskli olduğu kadar da çok kazançlıdır. Bu rantın arkasında da çok güçlü uyuşturucu baronları olmalıdır. Bu rant kolay vazgeçilecek bir rant değildir. Bu çarkın dönmesi için sınır bölgelerinde ki karışıklığın sürmesi ve bir devlet otoritesinin sağlanamaması önemlidir.<br />
+Önemli olan bir başka şey de, bu uyuşturucu baronlarının hangi güç odaklarını kontrolü altında olduğudur. Onları koruyan ve bu savaşın sürmesinden beslenenler kimlerdir?<br />
+Bu savaşın sonlandırılabilmesinin birincil şartı, kirli oyunun şifrelerinin çözülerek bu oyunun bitirilmesidir.<br />
+Güneydoğu karmaşasının bir başka anlaşılmayan yanı da, Amerika’nın bu savaşta üstlendiği roldür. Ülkemizin yetkilileri, her fırsatta Amerika’nın yanımızda olduğunu ve bize enformasyon ( istihbarat) desteği verdiğini söylemektedirler.<br />
+Fakat bu söylemler, yaşananlarla örtüşmemektedir. Amerikalı askerlerin bizim askerlerimizin başına çuval geçirmesi gibi aşağılayacağı tavırları,<br />
+Eşref Bitlis’in uçağının düşürülmesinde ki sis perdesinin kaldırılamayışı, sınırdan geçiş yapan kaçakçıların taranması ile ilgili istihbaratın kimin tarafından verildiğinin açıklanamayışı,<br />
+ve en son Suriye tarafından düşürülen uçağımız ile ilgili sahip olduğu bilgileri Türk yetkililere vermeyeceğini açıklayan Amerika’nın tavrı, iyi niyetli bir ortaklığın göstergesi olamaz.<br />
+Hiç kimse kendisini kandırmasın. Amerika Orta Doğu’daki sömürgeci amaçlarını yerine getirmek için “Büyük Orta Doğu Projesini” gerçekleştirmenin peşindedir. Bize de eş başkanlık gibi getirisi ve götürüsünün ne olduğu bilinmeyen bir görev verilmiştir. Bu projenin gizlenen bir ayağı da, bu bölgede güdümlü bir Kürt Devleti kurulmasıdır.<br />
+Her ne kadar ülkemizin yetkililerince kabul edilmese de, Amerika’nın birçok resmi kuruluşu yayınladıkları bu bölgenin haritasında, bir Kürt Devleti’nin kurulduğu ve bizim Güneydoğu Bölgesinin de birçok ilinin de içersine alındığı görülmektedir.<br />
+Öyle gözüküyor ki, iş aslında bitmiştir de, sıra bunu bizim kamuoyuna kabul ettirmeye gelmiştir. İş uzadıkça da toplumda doğan yılgınlık ve tepki artmaktadır. Toplum adeta “Ver de kurtul” havasına sokulmak istenmektedir.</p>
+<p>Bu konuya değinmişken, şehitlerimizle ilgili olarak çokça konuşulan bir konuya dikkat çekmek istiyorum.<br />
+Üst üste gelen şehit haberleri ile yasa boğulan toplumda çokça sorulmaya başlayan soru; Bu şehitlerin neden hep köy ve kasabalarda yaşayan dar gelirli ailelerin çocukları olduğudur?<br />
+Gerçekten de, siz hiçbir üst düzey bürokratın, subayın, siyasetçinin veya zengin bir işadamının çocuğunun şehit olduğunu duydunuz mu?<br />
+Bu görev, sadece askerliğin kutsallığına inanmış, şehidi defnedilirken “Vatan sağ olsun” diyebilen Anadolu’nun inançlı insanlarının mıdır?<br />
+Ama bu adaletsiz ve her türlü insaf ölçüsünü aşan askerlik anlayışı tepki görmektedir. Parası olanı bir gün dahi askerlik yapmadan askerlik yapmış kabul eden yasa düzenlemesi vicdanları kanatmıştır. Nitekim bazı şehit cenazelerinde hükümete karşı tepki sesleri yükselmeye başlamıştır.<br />
+Eğer bu konuda ülkede adalet denen terazi hala çalışıyorsa, kimin çocuğu olduğu, hangi eğitimi aldığına bakılmaksızın her Türk gencine eşit ve makul ölçülerde kısaltılmış bir süre askerlik yapması sağlanmalıdır. Aksi halde, eşit şartlarda yapılmayan askerlik görevi, vatani bir görev olmaktan çıkar ve angaryaya döner.<br />
+Bu ana kuzusu çocuklarımızın vatan görevini nerede yapacağı mutlaka hiçbir şüpheye yer bırakmayacak şekilde adil bir kura ile belirlenmelidir. Aksi halde tepkiler giderek artacak ve toplumda ki “Askerliği kutsal gören anlayış” yerini, “Askerlikten nasıl kaytarırıma” dönüşecektir.<br />
+Şurası unutulmamalıdır ki, bu ülkenin bir karış toprağının, adı ne olursa olsun, hiçbir şekilde kopartılmasına hoşgörü gösterilemez. Bu şekilde bir toprak kopartılmasına dünyanın hiçbir ülkesinde izin verilmemiştir.<br />
+Son vatan toprağı olan bu toprakları düşmandan temizlemek için omuz omuza savaşan Türk’ün de, Çerkez’in de, Kürt’ün de, Laz’ın da, Gürcü’nün de bu topraklarda özgürce ve kardeşçe yaşamak en doğal hakkıdır.<br />
+İyi haftalar..</p>
+<p>KUTLAMA: Geçen hafta başında yapılan CHP Kurultayı’nda büyük bir başarı sağlayarak en yüksek ikinci oyla Parti Meclisi’ne seçilen Sayın Prof. Dr. Haluk Koç ile Disiplin Kurulu’na en yüksek oyu alarak seçilen Sayın İhsan Kalkavan’ı yürekten kutluyorum. Bir Samsunlu olarak her ikisinin de Türk siyasetine önemli katkılar yapacaklarına inanıyor ve kendilerine başarılar diliyorum..</p>
+<ol>
+<li>
+<ol>
+<li>2012</li>
+</ol>
+</li>
+</ol>
+<p>Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0592-kurtulmus-u-yuceltecek-has-partiyi-tarihe-gomecek-proje.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0594-sahipsiz-samsun-ve-samsunspor.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

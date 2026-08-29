@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Kınama ve Göreve Çağrı</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Kınama ve Göreve Çağrı
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2015
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0750
+
+</div>
+
+
+<div class="article-content">
+
+<p>KINAMA VE GÖREVE ÇAĞRI</p>
+<p>27 Mayıs 2015 tarihli bir yerel gazetenin köşe yazarının 3. Sayfa haberlerinden abartılarak derlenmiş cinayet, tecavüz, darp ve yaralama olaylarını içeren iğrenç yazısı, çirkefliğin de ötesinde adi suç niteliği taşımaktadır.<br />
+İşlenen suçun niteliği, yazıda bir toplumun tümünü rencide etmenin de ötesinde, ne yazık ki tüm illerimizde rastlanabilen bu tür polisiye vakaların Samsunlular tarafından kanıksandığını iddia edilerek, Samsun halkının da bu tür polisiye olayların ortağı ve destekçisi gibi gösterilmesidir.<br />
+Aslında yazı ile sadece Samsunlulara hakaret edilmemiş, iddiaların içeriğinde Samsun’u yöneten atanmış ve seçilmişler acz içerisinde gösterilmiş, bu kentin polisiye olaylarını önlemekle görevli olan emniyet Müdürlüğü de zan altında bırakılmıştır.<br />
+“Size Samsun’u anlatayım mı? Başlıklı yazıyı yazan kişi, yazısının içeriğinde yer alan bu iğrenç sözleri ile de yetinmeyerek,   “Nasıl size Samsun’u anlatabildim mi? Diye sorduktan sonra yazısını çok daha ağır ve asıl suç teşkil eden şu sözlerle bitiriyor;<br />
+“Samsun; her türlü ahlaksızlığın yapıldığı, insanlığın hiçe sayıldığı, kadın cinayetleri sayısının artmasıyla halkın durumu kanıksadığı, yobaz ve cahil sıradan bir kenttir”<br />
+Bu sözler, doğum yeri neresi olursa olsun bu kentte kazanan ve bu kentte yaşayan aklı başında bir insanın söyleyebileceği sözler olamaz.<br />
+Çünkü kim ne derse desin, Samsun tüm Karadeniz Bölgesi’nin en yaşanabilir, en modern ve en çağdaş kentidir.<br />
+Samsun, Menderes Bulvarında ki kafe, restoran, gece kulüpleri, iddialı balık lokantaları, Plajları, beş yıldızlı otelleri ve son moda tüm giyim markalarının yer aldığı AVM’ leri ile Yobazlığın yakıştırılacağı bir kent ise hiç olamaz.<br />
+Bu nedenle, bu sözler ancak bir provokatörün ağzından çıkabilecek kadar tahrikkardır ve inanıyorum ki, Samsun Cumhuriyet Başsavcılığı da gerekli soruşturmayı başlatacaktır.<br />
+Bu kentte yaşamak istemeyen hiç kimseyi, bu kentte yaşamaya zorunlu tutacak bir neden olamaz.<br />
+Samsunlu olmakla gurur duyanlar da, bu kente hakaret edilmesine ve kendilerinin aşağılamasına izin vermezler.<br />
+Ama üzülerek söylemek gerekirse, bunların altında yatan ana neden, bu kentin sahipsiz oluşudur.<br />
+SAM-SEV’ in kurulduğu 1988 yılından beri “Bu kent sahipsizdir” Diyen birisi olarak bu kadar ağır bir hakaret karşısında olsun, bu kenti yöneten ve temsil edenlerin bu kez beni yanıltmalarını bekliyordum.<br />
+Bu nedenle de, olayın sıcaklığı ile ilk gün suskun kalarak etkin kuruluşlardan yapılacak açıklama ve girişimleri beklemeyi tercih ettim.<br />
+Ne yazık ki, 28. 05. 2015 günü basına yansıyan bir girişim ve etkili olacak bir açıklama göremedim<br />
+Samsunlu olmakla gurur duyan bir Samsunlu olarak, Şimdi tüm Samsun Halkının, bu kenti yönetenlerden kendilerini aşağılayan bu olaya ne gibi işlem yapıldığını veya yapılacağını öğrenmek istediklerini Sayın Samsun Kamuoyunun bilgi ve dikkatine sunuyorum.<br />
+Saygılarımla.. 28 Mayıs 2015<br />
+Ecz. SADİ SUBAŞI<br />
+SAM-SEV ONURSAL BAŞKANI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0749-07-haziran-genel-secimleri-kuskuya-yer-birakmaz.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0751-tarimda-yapilan-yanlislar-ulkemizin-gelecegine-i-hanettir.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

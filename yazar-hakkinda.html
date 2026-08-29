@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html lang="tr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Eczacı Sadi Subaşı | Köşe Yazılarında Dünden Bugüne Samsun</title>
+
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            margin: 0;
+            font-family: Georgia, "Times New Roman", serif;
+            background: #f3f4f6;
+            color: #1f2933;
+            line-height: 1.8;
+        }
+
+        /* Header / Banner */
+        .site-header {
+            background: #1d3044;
+            color: white;
+            border-bottom: 3px solid #c8a45d;
+        }
+
+        .header-inner {
+            max-width: 1180px;
+            margin: 0 auto;
+            min-height: 300px;
+            padding: 42px 38px 32px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 50px;
+        }
+
+        .header-text {
+            flex: 1;
+        }
+
+        .header-kicker {
+            margin: 0 0 4px;
+            color: #d9bb7a;
+            font-size: 1.25rem;
+            font-weight: bold;
+        }
+
+        .header-title {
+            margin: 0;
+            font-size: clamp(2.4rem, 5vw, 4.3rem);
+            line-height: 1.05;
+            letter-spacing: 0.02em;
+            text-transform: none;
+        }
+
+        .header-subtitle {
+            margin: 18px 0 22px;
+            max-width: 720px;
+            color: #f2f4f7;
+            font-size: 1.05rem;
+        }
+
+        .home-link {
+            display: inline-block;
+            padding: 8px 18px;
+            border: 1px solid #9aa7b5;
+            border-radius: 24px;
+            color: white;
+            text-decoration: none;
+            font-size: 1rem;
+        }
+
+        .home-link:hover {
+            background: rgba(255, 255, 255, 0.10);
+        }
+
+        .author-photo {
+            width: 220px;
+            height: 220px;
+            object-fit: cover;
+            object-position: center;
+            border-radius: 50%;
+            border: 4px solid rgba(255, 255, 255, 0.85);
+            box-shadow: 0 8px 25px rgba(0, 0, 0, 0.28);
+            flex-shrink: 0;
+        }
+
+        /* Article card */
+        .page-container {
+            max-width: 980px;
+            margin: 42px auto 60px;
+            padding: 0 24px;
+        }
+
+        .article-card {
+            background: white;
+            border-radius: 10px;
+            padding: 50px 62px;
+            box-shadow: 0 3px 16px rgba(0, 0, 0, 0.08);
+        }
+
+        .article-card h2 {
+            margin-top: 0;
+            margin-bottom: 28px;
+            color: #1d3044;
+            font-size: 2.2rem;
+            border-bottom: 2px solid #c8a45d;
+            padding-bottom: 12px;
+        }
+
+        .article-card p {
+            margin: 0 0 22px;
+            font-size: 1.08rem;
+            text-align: left;
+        }
+
+        .article-card strong {
+            color: #1d3044;
+        }
+
+        /* Footer */
+        footer {
+            background: #222;
+            color: white;
+            text-align: center;
+            padding: 28px 20px;
+            font-size: 0.95rem;
+        }
+
+        @media (max-width: 700px) {
+            .header-inner {
+                min-height: auto;
+                padding: 32px 24px;
+                flex-direction: column;
+                align-items: flex-start;
+            }
+
+            .author-photo {
+                width: 170px;
+                height: 170px;
+                align-self: center;
+            }
+
+            .article-card {
+                padding: 32px 25px;
+            }
+
+            .article-card h2 {
+                font-size: 1.8rem;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <header class="site-header">
+        <div class="header-inner">
+
+            <div class="header-text">
+
+                <h1 class="header-title">Eczacı Sadi Subaşı</h1>
+                <br><br>
+
+                <a class="home-link" href="index.html">Ana Sayfa</a>
+            </div>
+
+            <img class="author-photo" src="Images/yazar-sadi-subasi.jpg" alt="Eczacı Sadi Subaşı">
+
+        </div>
+    </header>
+
+    <main class="page-container">
+        <article class="article-card">
+
+            <h2>Yazar Hakkında</h2>
+
+            <p>
+                1945 yılında Samsun’da doğan Sadi Subaşı, orta eğitimini Samsun
+                Ondokuzmayıs Lisesinde tamamlamıştır. 1968 yılında İstanbul
+                Üniversitesi Eczacılık Fakültesini bitirdikten sonra askerlik
+                görevini de 24 ay yedek subay eczacı olarak Konya Asker
+                Hastanesi’nde tamamlamıştır. 1970 yılında Samsun’da DENİZ
+                ECZANESİ’ni açarak meslek yaşamına başlamıştır. 1974 yılında da
+                optisyenlik eğitimi alarak eczanesinde optik reyonunu da hizmete
+                sokmuştur.
+            </p>
+
+            <p>
+                <strong>
+                    1978–1984 arasında 3 dönem 6. Bölge Samsun Eczacı Odası
+                    Başkanlığı yaptıktan sonra, eczacılık mesleğinin en üst
+                    kuruluşu olan Türk Eczacılar Birliği Merkez Heyeti Üyeliği
+                    yapmıştır.
+                </strong>
+            </p>
+
+            <p>
+                1972 yılında üç arkadaşı ile eczanelerde satışı yapılan ilk yardım
+                malzemelerini üreten DAMLA LABORATUARINI, sonraki yıllarda ise
+                altı eczacı arkadaşı ile majistral ilaç üretiminde kullanılan
+                prodie satışı için DROGTAŞ AŞ’yi kurmuştur.
+            </p>
+
+            <p>
+                Eczacıların en önemli dayanışma kuruluşlarından biri olan
+                SAM-Koop’un kurucuları arasında yer almıştır.
+            </p>
+
+            <p>
+                Eczanesinin bulunduğu binanın yıkılması üzerine, 46 yıldır
+                mesleğini icra ettiği eczanesini 01.08.2016 tarihinde kapatarak
+                Deniz Optik isimli gözlük mağazasının başına geçmiştir.
+            </p>
+
+            <p>
+                2017 yılında kızı Selin Subaşı Özan’ın mesul müdürlüğünde Deniz
+                Optik Mağazası’nın 56’lar şubesini hizmete sokmuştur.
+            </p>
+
+            <p>
+                <strong>
+                    1984–2012 yılları arasında SHP ve CHP’de aktif olarak siyaset
+                    yapmış, 1994 yerel seçimlerinde SHP Samsun Büyükşehir Belediye
+                    Başkan adayı olarak yerel seçimlere katılmıştır.
+                </strong>
+                SHP’de kurultay delegeliği, CHP’de İl Başkan Yardımcılığı ve
+                İlkadım İlçe Üst Danışma Kurulu Başkanlığı görevlerinde
+                bulunmuştur.
+            </p>
+
+            <p>
+                Samsun’da çok sayıda derneğin üyesidir. Atatürk Kültür Vakfında
+                kurucu başkanlık görevi yapmıştır.
+            </p>
+
+            <p>
+                <strong>
+                    SAM-SEV’in (Samsun Eğitim, Spor ve Tanıtım Vakfı) ise kurucusu
+                    olup, 14 yıl başkanlığını yaptıktan sonra kendisine SAM-SEV
+                    Genel Kurulu tarafından SAM-SEV Onursal Başkanlığı unvanı
+                    verilmiştir.
+                </strong>
+            </p>
+
+            <p>
+                Hobileri arasında futbol, briç ve sivil toplum kuruluşlarında
+                yöneticilik vardır. Şiir denemeleri de bulunan Sadi Subaşı’nın
+                Samsun’da yayınlanan gazete ve dergilerde 1975 yılından bugüne
+                kadar 900’ün üzerinde makalesi yayınlanmıştır.
+            </p>
+
+            <p>
+                Mesleki dergilerde de ilaç konusunda hazırladığı rapor ve yazıları
+                yer almıştır. 2000 yılından bu yana bölge gazetesi konumundaki
+                Hedef Halk Gazetesinde haftada bir gün köşe yazısı yazmaktadır.
+                Bugüne kadar yazdığı köşe yazılarını “DÜNDEN BUGÜNE KÖŞE
+                YAZILARINDA SAMSUN VE TÜRKİYE” adıyla üç kitapta toplamıştır.
+                İngilizce bilen Sadi Subaşı, Nur Subaşı ile evli olup biri erkek,
+                diğeri kız olmak üzere iki çocuğu vardır.
+            </p>
+
+        </article>
+    </main>
+
+    <footer>
+        © Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+    </footer>
+
+</body>
+
+</html>

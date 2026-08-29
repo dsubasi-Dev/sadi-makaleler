@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Samsun Adına Utanç Tablosu</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Samsun Adına Utanç Tablosu
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2009
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0427
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>SAMSUN ADINA UTANÇ TABLOSU</p>
+<p>Hükümetin belki de en güzel uygulaması Milli Eğitim Bakanlığı’na bir bayan atamasıdır. Bakan Sayın Nimet Çubukçu çağdaş görünümü ile Atatürk Türkiye’sine yakışmıştır. Eğer, tarikatçılarla doldurularak kendisine teslim edilen Milli Eğitim Bakanlığını Laik ve Çağdaş Türkiye gerçekleri ile uyuşan bir konuma taşırsa, adını bu ülke tarihine altın harflerle yazdıracaktır.<br />
+Sayın Bakan Nimet Çubukçu’da, göreve başlar başlamaz güzel bir atamaya imza atarak Atatürk ve Ondokuzmayıs kenti Samsun’a bir bayanı Milli Eğitim Müdürü olarak atamıştır. Nedenini bilmediğim şekilde vekâleten atanmışta olsa, yeni Milli Eğitim Müdürümüz Sayın Hülya Ertürk Koç Samsun adına bir kazançtır. Eğer bu atama için, Laik ve Çağdaş Türkiye Cumhuriyetine giden yolun ilk adımının atıldığı Samsun özellikle seçilmişse, Sayın Bakan Nimet Çubukçu’yu bir kez daha kutlamak gerekir.<br />
+Sayın KOÇ’U da kutlarken, gelir gelmez acı bir Samsun tablosu ile karşılaştığı için üzgünüm. Samsun hemen her alanda olduğu gibi eğitim alanında da her yıl aşağılara yuvarlanmayı sürdürüyor.<br />
+Hafta sonu açıklanan SBS sınavlarında Samsun 52. sıraya yuvarlanmıştır. 81 ilin olduğu düşünülürse, Bayburt ve çok dar olanaklı birçok doğu ilinin de altında kaldığı görülürse, bu sonuç Samsun adına bir utanç tablosudur.<br />
+Aynı sınav yerine 2008 de son kez yapılan OKS sınavlarında Samsun’un yeri, en azından bundan daha iyi ve sıralaması 46. Aynı sınavın 2003 sonuçlarına göre Samsun Türkiye sıralamasın da 32. sırada yer almış. Bunun sorumluluğunu sadece günümüzün kent yöneticilerine yıkmak haksızlık olur. Ama son 5 yılda geri, geri giden bu sonuç, son beş yıldır %100 kampanyaları ile önemli atılım yaptıklarını ve Samsun’u eğitim alanında yukarılara çıkardıklarını söyleyen yöneticilerimizle, siyasilerimize de acı bir cevaptır.<br />
+Yıllardır eğitimde yapılan yanlış uygulamalarla Milli Eğitim politikaları yaz-boz tahtasına çevrilmiştir. Son dönemlerde ise, eğitim işi tarikatlardan beslenen vakıflara ve eğitimcilere teslim edilmiştir. Yine yıllardır, adeta Devlet Okullarından mezun olanların başarısızlıklarına zemin hazırlanarak, eğitim alanı garip bir eğitim sistemi olan dershaneciliğe teslim edilmiştir.<br />
+Veliler ile öğrenciler adil olmayan bir rekabete zorlanmış ve eğitim yapma hakkı, neredeyse parası olana tanınmıştır. Ama Samsun’da bu sistem de iflas etmiştir. Dershaneler Samsun birincileri ile tamamen kişisel başarısı ile sivrilen birkaç öğrencinin resimlerini bilbordlara asarak öğrenci velilerini yanıltmayı sürdürüyorlar.<br />
+Bu yazıyı kaleme aldığım sırada ÖSS sonuçlarını açıklayan ÖSS Kurul Başkanı Sayın Ünal Yarımağan, ilk sıralamaları da açıklıyordu.<br />
+Açıkladığı istatistikî rakamlar genel olarak Türkiye’de ki eğitim sisteminin iflasının da ilanıydı. Ama ilk sonuçlar Samsun adına da yeni bir kötü tabloyu gösteriyordu.<br />
+Başarılı iller arasında Yalova ve Karaman gibi yeni iller ile olanakları daha kısıtlı olan Niğde ve Nevşehir yer alırken, Samsun’un adı dahi geçmiyordu. İlk üç sırada kişisel başarısı ile yer alan öğrencimizde yoktu.<br />
+Daha sonra edindiğim bilgilere göre ÖSS sınavlarında da Türkiye sıralamasında 37. sıraya gerilemişiz. Geçmişe göz attığımızda sıralamada ki düşüş düşündürücüdür. 2008 de 27. sırada, 2003 de ise 23. sırda yer aldığımızı söylersem, sizler ne söyler misiniz bilmiyorum. Siyasi değişimleri de değerlendirerek bunun yorumunu sizlere bırakıyorum.<br />
+SİZ, Samsun eğitimine yön verenler, öğrencileri dershanelere iten devlet okul eğitimcileri ve çocuklarının geleceğini kurtarmak adına zaten zar zor geçinen ailelerin bir sürü para yatırdığı dershaneciler ile hiçbir şey yapmadan çok şey yapmış havası basan kent yöneticilerimiz ve siyasetçilerimiz, eserinizle övünebilirsiniz.<br />
+ŞİMDİ SORUYORUM? Ya, Samsunlu çocuklarımızın bir zekâ sorunu var?<br />
+Eğer yoksa bu işte başka bir yanlışlık var demektir.<br />
+SİZ, BU KENTİ YÖNETENLER VE SİYASET YAPANLAR, bu kente gelen ve Samsun’u tanımayan bakanlara “Samsun Marka olma yolunda” dedirtebilirsiniz. SİZ, bu Bakanlara “Samsun Avrupa kentleri ile yarışacak şehirlerden birisi olma yolunda” Dedirtebilirsiniz. Pembe tablolar çizmeye devam da edebilirsiniz.<br />
+Kendinizi kandırmayı da sürdürebilirsiniz, ama görünen gerçekleri karartamazsınız. Hadi, bunları söyledik diye beni ve böyle düşünenleri de karamsar ve Samsun düşmanı ilan ediniz.<br />
+Bu kente yazık oluyor, yazık ediliyor. Lütfen artık gerçekleri hep birlikte görelim ve hiç olmazsa bu gerçekleri görme ve çözüm arama noktasında buluşalım.<br />
+İyi haftalar. 12 Temmuz 2009<br />
+SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0426-kamuoyu-aciklamasi.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0428-samsun-adina-kutlanacak-bir-guzellik.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>CHP Neden % 26 da Kaldı.</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+CHP Neden % 26 da Kaldı.
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2011
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0539
+
+</div>
+
+
+<div class="article-content">
+
+
+<p>CHP NEDEN BEKLENEN OYU ALAMADI<br />
+VE % 26 DA KALDI?</p>
+<p>CHP başarılı mı? Yoksa başarısız mı? Sorusuna benim cevabım,  son dönemlerin ünlenen deyimi ile “Evet ama yetmezdir”.<br />
+CHP eğer aşağıda sayacağım olumsuzluklara rağmen %26 oy almışsa, istenen seviyede olmasa da başarılı sayılır.<br />
+Seçim sonucunu yargılamak için seçim döneminden önce, geriye dönük uzun bir dönemi sorgulamak gerekir.<br />
+Bunu yapmadan sadece son bir yılın muhasebesini yaparak yargılamak, Sayın Kılıçdaroğlu’na yapılacak büyük haksızlıktır.<br />
+Şöyle biraz gerilere dönerek CHP neredeymiş, nereye gelmiş, bu süreçte neler yaşanmış ona bakarsak, bu sorunun cevabını bulabiliriz.<br />
+Bu parti, son onyedi yılını hiç bir seçim başarısı olmayan Sayın Deniz Baykal’la geçirmedi mi?<br />
+Bu onyedi yılda, parti içi demokrasi rafa kaldırılmadı mı?<br />
+Bu on yedi yılda, Sayın Baykal’ı eleştiren üyelerin kara listeye alınıp mahalle delegesi dahi yapılmadığı, doğru değil mi?<br />
+Tüm teşkilatlar her kademesi ile Sayın Baykal’a biat etmiş ( şartsız bağlanmış) CHP’lilerden oluşturulurken, partinin bir yarısı siyasetin dışına itilmedi mi?<br />
+Bu nedenle parçalanmalar olmadı mı?<br />
+Bu nedele Genel Başkanlığa talip olanlar disiplin kurulu kararı ile partiden dışlanmadı mı?<br />
+Hatta, Kurultaylarda Genel Başkanlık için gerekli sayıda imzayı toplayanların aday olmaları engellenmedi mi?<br />
+Bunun için son anda yapılan bir organizasyonla imza verenlerin imzalarını Kurultay Divanına bizzat başvurarak vermeleri istenerek, imza sahipleri korkutulup vaz geçirilmedi mi?<br />
+O dönemde sürekli yenilenen kurultaylar nedeniyle, CHP Kurultaylar Partisi olarak anılmaya başlamadı mı?<br />
+Üst üste gelen yenilgilerden sonra, parti yönetimi bir kan değişikliği için çaba harcadı mı?<br />
+CHP’NİN bu ülkenin vazgeçilmez ve günümüzde de çok ihtiyaç duyulan partisi olduğuna inanan akil adamlar, partinin yeni bir ekibe bıraklması zamanının geldiğini söylediğinde, bunlara değer vererek yeni bir ekibin hazırlanmasına Sayın Baykal sıcak baktı mı?<br />
+Bırakın sıcak bakmayı, bunları söyleyenler “Partiyi karıştırmaya çalışmakla” Suçlanmadı mı?<br />
+Bu anlayış ve kemikleşmiş kadroyla, Cumhuriyet Mitingleride ki coşkuyu ve DSP’NİN desteğini de arkasına almasına rağmen, 2007 Seçimlerinde ancak % 21 oy alınmadı mı?<br />
+Bu sonuç, seçim gecesi CHP Genel Sekreteri tarafından başarı olarak ilan edilmedi mi?<br />
+Tüm bu süreçte olanlar sonunda Türkiye, tek parti iktidarına teslim edilmedi mi?<br />
+Bu sonucun çıkmasında Sayın Baykal ekibinin başarısız siyasetinin rolü yok sayılabilir mi?<br />
+Olayların bundan sonraki süreci ise, bilindiği gibi adi bir şantaj olayı ile dramatik bir şekilde noktalandı.<br />
+Sayın Baykal Genel Başkanlıktan çekildi. O gün koşulları ve yine Baykal ekibini en güçlü isimlerinin de desteği ile Sayın Kemal Kılıçdaroğlu Genel başkan seçildi.<br />
+Keşke, Sayın Baykal böyle adi bir şantajla bırakmak yerine, seçim sonrası başarısızlığı iyi değerlendirerek kendisi geri plana çekilebilseydi.<br />
+Partiyi de kendisinin desteği ile Sayın Kılıçdaroğlu’na bırakabilseydi, hem partinin bütünleşerek güçlenmesini sağlardı, hemde “Siyasi Bir Bilge” Kimliğine bürünerek tüm partililerin gözünde büyümez miydi? Ne yazık ki olmadı, olamadı.<br />
+İşte böyle bir sürecin sonunda Genel Başkanlığa gelen Sayın Kemal Kılıçdaroğlu bir yıl gibi kısa süreçte bir Referandum, bir Kurultay, bir de Genel Seçim yaşadı.<br />
+Genel Başkan seçilmesinin üç ay kadar sonrasında Türkiye’nin geleceği için hayati önem taşıyan bir Referanduma, partisini hazırlamak zorunda kaldı.<br />
+Bu sırada tüm teşkilatlar Sayın Baykal Ekibine bağlı partililerden oluşuyordu. Bir iki il dışında değişiklik yapmadan mevcut teşkilatlarla Referandum’a gidildi.<br />
+Sayın Kılıçdaroğlu çoğu kez tek başına “Anayasa Değişiklinin” önemini halka anlatmaya çalıştı. Bugüne kadar alışılmamış bir çalışma temposu ile ellinin üzerinde ile ve yüzü aşkın ilçeye gitti ve meydan mitingleri yaptı.<br />
+Peki teşkilatlar, hatta mevcut milletvekilleri gerekli çabayı gösterdi mi?<br />
+Tüm partililer elini vicdanına koyrak kendilerine bu soruyu sorsunlar. İnanıyorum ki, bu soruya çok fazla  partili evet diyemeyecektir.<br />
+MHP’NİN de yeterli çabayı göstermemesi nedeniyle inanıyorum ki, Referandum da çıkan % 42 “Hayır” Oyu, tamamen Sayın Kılıçdaroğlu’nun kişisel çabası ile çıkartılmıştır.<br />
+Teşkilatların bu tutumu nedeniyle Sayın Kılıçdaroğlu Referandum sonrası Kurultayı toplayarak yeni bir yapılanmaya gitmek zorunda kaldı.<br />
+Sayın Baykal ekibinin yine gerekli desteği vermemesi nedeniyle, Sayın Kılıçdaroğlu tüm üst yönetim kadrosunu değiştirdi.<br />
+Deneyimli partililerin uzak durması sonucu, Sayın Kılıçdaroğlu siyasi deneyimi bulunmayan çok sayıda akademisyen ve diğer meslek  guplarının önemli isimlerini parti üst yönetimine aldı.<br />
+Zaman daralmış seçime 3-4 ay gibi süre kalmıştı. Yeni düzene uymayan bazı teşkilatlar yenilendi ve seçim sürecine böyle bir ortamda gidildi.<br />
+Sayın Kılıçdaroğlu Genel Seçim sürecinde de büyük bir çaba harcadı. Seksenbir ile, ikiyüzün üzerinde ilçeyi dolaştı. TV canlı yayınlarında koşturdu. Üzülerek söylemek gerekirse, bu süreçte de çoğu teşilatın yeterli çabayı harcadığı söylenemez.<br />
+Bunların dışında sonucu etkileyen başka olumsuzluklarda vardı. Bunların çok düşündürücü bir örneği Samsun’da yaşandı.<br />
+Bu partinin sanıyorum beş dönem TBMM gönderdiği duayen sayılan eski bir milletvekili, siyasi tebiyeye uymayacak bir çalışmaya imza attı.<br />
+Eski vekilin torunu iktidar partisinden aday olmuştu. Rakip parti adayı için O’nun bir çok CHP’ liyi arayıp hakkımı helal etmem diyerek destek istemesi yakışık almamıştır. Bu davranış bir disiplin suçudur. İlgili kurullarca da mutlaka değerlendirilmelidir.<br />
+Sayın eski vekil bu güne kadar kazandığı sevgi ve saygıyı yerle bir ederken, CHP’NİN beklenen oyu neden alamadığına da da bir başka örnek olmuş ve CHP’NİN seçim sürecinde nelerle mücadele ettiğini göstermiştir.<br />
+% 26 oy sorgulanırken, 12 Haziran seçimlerinde yaşanan “Çok büyük ekonomik güç dengesizliği”, “Aslı olmayan bir yığın iddianın ve söylemin fütursuzca ortaya atılması”, “Devletin tüm olanaklarının seçimde kullanılması” ile “Kamu görevlilerinin tarafsız kalmaması da” göz ardı edilmemelidir diye düşünüyorum.<br />
+Bir yıl gibi kısa sürede bir Referandum, bir Kurultay ve birde Genel Seçim yaşayan Kılıçdaroğlu Yönetiminin çıkardığı %26 Oyu küçümseyerek “Başarısız” ilan edeceksiniz, 2007 de ki ” % 21 i Başarı” kabul ederek  yeniden parti içi kavga başlatacaksınız?<br />
+Bunun neresi demokrasiye, neresi siyasi parti terbiyesine uyar? Söyler misiniz?<br />
+Bunun adı olsa olsa, “Bencil Siyaset anlayışı ve İnsafsızlıktır”.<br />
+Tüm bunları söylerken, bu başarısızlıkta Sayın Kılıçdaroğlu Yönetimin hiç mi kusuru olmamıştır. Tabi ki olmuştur.<br />
+İşte bunlardan da bazıları;<br />
+CHP’nin deneyimli kadrolarından yeterince yararlanma becerisi gösterilememiştir.<br />
+Üst yönetime çok sayıda CHP kültürne sahip olmayan yeni üye alınmıştır.<br />
+Teşkilat atamalarında gecikmeler ve yanlış isimler görevlendirilmiştir. Örneğin Samsun İl Başkanlığına seçimlerde milletvekili olacağı biline biline eski bir belediye başkanı atanmıştır. Seçim öncesi beklendiği gibi İl Başkanı istifa etmiş, yerine bir türlü atama yapılamamış, iki ay kadar çeşitli spekülasyonlarla oyalanılmış ve seçime bir ay kala parti dışından bir isim İl Başkanlığına, yanına da çoğu deneyimsiz  kişilerden oluşan bir yönetim kurulu atanmıştır.<br />
+Genel Merkez yönetimde yer alan ve yeteri siyasi deneyime sahip olmayan bazı yöneticilerin zaman zaman yaptığı şanssız açıklamalar da, partiyi zora sokmuştur.<br />
+Milletvekili adaylarının belirlenmesinde de hatalar yapılmış ve teşkilat içersinden çok, dışardan isim aday gösterilerek teşkilatlar göz ardı edilmiştir.<br />
+Eğilim yoklaması yapılan illerde, bu eğilim sonuçları da aday belirlenmesinde çok fazla dikkate alınmamıştır.<br />
+Bu nedenlerle, bu kadar olumsuzluğun yaşandığı, teşkilatlara tam hakim olunamadığı bir dönemde yapılan seçimde alınan % 26 oy küçümsenmemelidir.<br />
+17 yılı başarısılıklarla dolu eski yönetimin, Sayın Kılıçdaroğlu’nun asıl bundan sonra parti içi düzeni sağlayabileceği gerçeğini görmezden gelerek O’na bir şans daha vermeyi beklemeden, hem de seçim sonuçlarının irdelenmesine dahi fırsat vermeden, yeni bir Kurultay toplamak üzere imza toplama çağrısı yapması etik olmamıştır.<br />
+Sayın Baykal’a yakışan, deneyim ve birikimlerini Sayın Kılıçdaroğlu ile paylaşmak ve ‘O’na, yeni yapılanma ve yeni yönetim oluşturmada deneyimli arkadaşlarının da destek vermesini sağlamaktır.<br />
+Bu tavır, Sayın Baykal’ı partinin duayeni yapar, partinin de toparlanmasını sağlar diye düşünüyorum.<br />
+Umarım, ortak akıl hakim olur ve CHP’ de yeni bir Kurultaylar  dönemi başlamaz.<br />
+Umarım, teşkilatların ve il başkanlarının atama alışkanlığına son verilerek teşkilatlara seçim heyecanı yaşatılır. Sonbahar da başlayacak ilçe ve il kongrelerinde yıpranmamış, çevresinde etkili olabilecek isimler ön plana çıkartılır.<br />
+Yine umarım ki, seçime üç beş ay kala seçim kazanılamayacağı gerçeği görülerek, iki yıl sonra yapılacak yerel seçim için hazırlıklara başlanır.<br />
+Sonuç;<br />
+CHP bu ülkenin vaz geçilemez bir siyasi partisidir. Güçlü olması, ülkemiz demokrasisinin geleceği açısından önemlidir.<br />
+Bu nedenle hiç kimsenin kişisel egolarını ülke çıkarlarının önüne geçirmeye hakkı yoktur.<br />
+İyi haftalar.. 26 Haziran 2011</p>
+<p>Ecz. SADİ SUBAŞI</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0538-12-haziran-secimlerinin-dusundurdukleri.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0540-bu-nasil-demokrasi-demokrasinin-gudumlusu-ve-i-lerisi-olur-mu.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>

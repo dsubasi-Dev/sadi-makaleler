@@ -1,0 +1,347 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>Muhalefet Partilerinin Artık Özeştirilerini Yapma Zamanı Gelmedi mi</title>
+
+<link rel="stylesheet"
+      href="../style.css">
+
+
+<style id="article-print-style">
+
+/* ============================================================
+   PRINT BUTTON
+   ============================================================ */
+
+.print-button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.print-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+
+    padding: 9px 15px;
+
+    border: 1px solid #b9a36a;
+    border-radius: 6px;
+
+    background: transparent;
+    color: #333;
+
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.print-button:hover {
+    background: #b9a36a;
+    color: white;
+    border-color: #b9a36a;
+}
+
+.print-icon {
+    font-size: 16px;
+    line-height: 1;
+}
+
+
+/* ============================================================
+   PRINT VERSION
+   ============================================================ */
+
+@media print {
+
+    /* Remove everything that should not appear on paper */
+
+    .print-button-container,
+    nav,
+    footer,
+    .top-nav,
+    .article-navigation,
+    .article-nav,
+    .site-header {
+        display: none !important;
+    }
+
+
+    /* White page background */
+
+    html,
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+
+    /* Remove decorative shadows and borders */
+
+    * {
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+
+    /* Main article area */
+
+    main {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .container {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    /* Article card */
+
+    .article-card {
+        width: 100% !important;
+        max-width: none !important;
+
+        margin: 0 !important;
+        padding: 0 !important;
+
+        border: none !important;
+        background: white !important;
+    }
+
+
+    /* Article title */
+
+    h1,
+    h2 {
+        color: black !important;
+    }
+
+
+    /* Article text */
+
+    p {
+        color: black !important;
+    }
+
+
+    /* Links should print as normal text */
+
+    a {
+        color: black !important;
+        text-decoration: none !important;
+    }
+
+
+    /* Prevent awkward page breaks */
+
+    h1,
+    h2,
+    h3 {
+        break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="container">
+
+<h1 class="site-title">
+    Köşe Yazılarında
+    <br>
+    <strong>DÜNDEN BUGÜNE SAMSUN</strong>
+</h1>
+
+
+<nav>
+
+<a href="../index.html">
+Ana Sayfa
+</a>
+
+</nav>
+
+</div>
+
+</header>
+
+
+<main>
+
+<div class="container">
+
+
+
+<article class="article">
+
+
+<h1 class="article-title">
+
+Muhalefet Partilerinin Artık Özeştirilerini Yapma Zamanı Gelmedi mi
+
+</h1>
+
+
+<div class="article-meta">
+
+<strong>Yıl:</strong>
+
+2010
+
+&nbsp; | &nbsp;
+
+<strong>Makale No:</strong>
+
+0504
+
+</div>
+
+
+<div class="article-content">
+
+<p>e-posta; adisubasi@denizeczaneoptik. com                  SUNUŞ</p>
+<p>MUHALEFET PARTİLERİNİN ÖZELEŞTİRİ<br />
+YAPMA ZAMANI GELMEDİ Mİ?</p>
+<p>Sekiz yıldır iktidarda olan AKP planladığı her şeyi tam bir sanatçı dikkati ve becerisi ile gerçekleştirdi. Artık onlarda işin sonuna geldiklerinin farkında olmalılar ki, son hamlelerini yaparken son derece cesur davranıyorlar.<br />
+Geçmişte en çok yakındıkları YÖK, artık iktidar için sorun değil. Onu kapatmak veya yeniden düzenlemek yerine, başına getirdikleri başkanın fütursuz uygulamaları ile YÖK iktidar için artık sorun olmaktan çıkmadı mı? YÖK’Ü mevcut konumu ile kullanmayı tercih etmeleri de bunun bir göstergesi değil mi?<br />
+AKP’NİN beklentileri doğrultusunda görevlerini kötüye kullanmayı dahi göze almaktan çekinmeyen bürokrat ve önemli görevlerde bulunanlar çok daha kilit görevlere getirilmedi mi? Böylece hem ödüllendirildiler, hem de çok daha önemli görevleri yapmalarının zemini hazırlanmadı mı? Buna benzer örnekleri daha da çoğaltabiliriz.<br />
+Ben AKP’NİN yaptıklarında bir tutarsızlık görmüyorum. Çünkü AKP kurucuları çok öncelerden başlayarak, iktidara geldiklerinde neler yapacaklarını ta o günlerden söylemediler mi?<br />
+“Demokrasi amaç değil, araçtır”, “Kubbeler miğferimiz,       minareler süngümüzdür”, “ Halk isterse laiklik diye bir şey kalmaz” demediler mi? Laik rejimi mutlaka değiştireceklerini, ama “Bu kanlı mı olacak, kansız mı olacak?” Diyenler de onların hocaları değil miydi?<br />
+O halde bu şaşkınlık ve tepki neden? Onlar inandıkları şeyleri gerçekleştirirken, muhalefet partileri ne yaptı? Bu değerlendirmeyi yapmak ve biraz daha ötesine geçerek, hala “Biz nerede hata yaptık?” Demeyecekler mi?<br />
+İsterseniz, ben biraz hatırlatma yapayım.<br />
+En başta geçmiş dönemlerin en uzun sürecinde iktidarı elinde bulunduran merkez sağ partileri olmak üzere, CHP-MHP- DSP- SHP bu ortamın hazırlamasında rol üstlenmedi mi?<br />
+Merkez sağ partiler her seçimde kendi siyasi kazanımları için dini acımasızca kullanmadılar mı? Çoğu da hem laik düzenden yana olup, hem de cemaat oyları için onlarla açık veya gizli ittifaklar yapmadılar mı?<br />
+Ülkemizin bilgili ve donanımlı din adamı ihtiyacını karşılamak ilkesinden hareketle kurulan İmam Hatip Okullarını arka bahçeleri haline getirmediler mi?<br />
+İhtiyacın üzerinde İmam Hatip Liseleri açarak, onları din adamı görevlerinin dışında kamu kuruluşlarında görev almalarının yolunu açanlarda, onlar değil miydi?<br />
+12 Eylül 1980 İhtilalinin lideri Kenan Evren sağ eğilimli ve Laik düzenden yana değil miydi? Ama en çok İmam hatip Okulu da, O’nun döneminde açılmadı mı?<br />
+DSP Lideri Ecevit dahi, cemaat lideriyle sıcak temas halinde değil miydi? Baykal da kendisine yapılan şantaj sırasında okyanus ötesindeki cemaat liderine mesaj göndermedi mi?<br />
+Tarikat yurtlarının açılış törenlerinin ön saflarında SHP ve CHP’li Belediye Başkanları yer almadı mı?<br />
+Bu yurt ve okulların açılışlarına katılan geçmiş dönemlerin DYP ve ANAP milletvekilleri, kendilerine ”Neden oradaydınız”? Dendiğinde, “ Biz siyaset yapıyoruz” diyerek kendilerini kandırmadılar mı? Seçim günü geldiğinde medet umdukları cemaatlerin onların karşısında sandıkta birleştikleri gerçeğini görmezden gelmediler mi?<br />
+Böylece cemaatlerin kendi uygulamalarını topluma kabul ettirme<br />
+(Legalleşme) amacına hizmet etmiş olmadılar mı?<br />
+Merkez sağ partiler dini siyasete alet etme konusunda çıraktı. İşi pişirdiler, zemini hazırladılar, işin asıl ustası ortaya çıktı ve duruma el koydu. Onlar gibi ikili oynayarak değil, doğrudan söylemlerle onların tabanını ellerinden aldı.<br />
+Sonuçta dinsel vaatlere dayalı olarak kurdukları siyaset şatoları başkalarının eline geçti ve merkez sağ patileri ortalıkta kalakaldılar.<br />
+Ekonomide de akıl almaz beceriksizlikler sergilemediler mi?  Örneğin, Türk Eczacıları Birliği kırk yıldır, “İlaç fiyatları çok pahalı, düşürülmelidir” Diye çağrı yapmaktan bitap düştü. “Devletin kasası yabancı ilaç tekelleri tarafından soyuluyor” Diyerek ortaya belgeler sundu. Her defasında “ Bunlar solcu söylem, hükümeti yıpratmak için söyleniyor” Denerek terslenmediler mi?<br />
+İlaç fiyatlarını tespit eden ve doğruluklarını denetleyen İlaç ve Eczacılık Genel Müdürlüklerinde ki, rüşvet söylentileri ayyuka çıkarken ne yaptınız?<br />
+SSK’larda ve hastanelerde ki kuyrukları bir türlü çözemediniz. Hastane kapılarında insanların perişan olmasını önleyemediniz.<br />
+Bunları düzeltmek çok mu zormuş?<br />
+AKP iktidara gelir gelmez ilk iş olarak sağlık konusuna el atmadı mı? İlaç fiyatları, yapılan tüm yanlışlara rağmen çok büyük oranda düşürülmedi mi? Hastanelerde kuyruklar kaldırılmadı mı?<br />
+Cumhuriyet Mitingleri ile sağlanan büyük halk desteğine rağmen, AKP’YE 2007 seçimlerini kazandıran en önemli etken, sağlık alanında halka sağlanan kolaylıklar değil miydi?<br />
+Kısacası beceremediniz. Dini kullandınız, yüzünüze-gözünüze bulaştırdınız. Birbirinizle didişmekten toplumun sorunlarını çözmeye fırsat bulamadınız.<br />
+1980 öncesi iktidar ve muhalefet olarak ülkenin çıkarları için dış siyasi politikalarda ve akan kardeşkanının durdurulması konusunda dahi anlaşamadınız ve ihtilale davetiye çıkarttınız.<br />
+Halkı canından bezdirdiniz. Sonuçta iç ve dış desteklerin de yardımıyla iktidarı, AKP’YE teslim ettiniz.<br />
+AKP, önce mutlak sayısal meclis üstünlüğü ile tek parti rejimini oturttu, dilediği yasaları çıkarttı. Yargı, yapılacak hiçbir yanlış uygulamayı engelleyemeyecek hale getirildi.<br />
+Şimdi korkulan, sıranın siyasal dikta olarak tanımlanan bir sistemin kurulmasına geldiğidir.<br />
+Günümüze döndüğümüzde de muhalefet adına umut verici bir ortam gözükmüyor.<br />
+Referandum sürecinde yaşananlar, halka inemeyen ve üretkenliği olmayan politikalar sürdüğü sürece, özellikle hızla marjinalleşen MHP<br />
+olmak üzere, ayakta kalan iki muhalefet partisi içinde işler kolay gözükmüyor.<br />
+Muhalefet her gün önlerine konan yeni bir gündemle boğuşurken iktidar yapmak istediklerini dantel gibi örüyor.<br />
+Sekiz yıldır meclisin mutlak sayısal üstünlüğünü elinde bulunduran AKP, suni olarak yarattıkları türban sorununu yasal bir düzenleme ile mecliste tek başına çözebilecekleri halde gündemde tutmayı sürdürüyor.<br />
+İktidar biliyor ki türban her seçimin en büyük silahıdır. Bunu neden kaybetsin.<br />
+Dün şikâyetçi olduğu kurumların başına getirdiği görev adamlarının bir Hammurrabi edasıyla mevcut yasaları hiçe sayarak fütursuzca yaptığı uygulamalarla, zaten türbanı yaşamın tüm alanlarına fiilen sokmaya başlamadılar mı?<br />
+Hala yürürlükte olan yasaları takiple görevli Yargıtay Baş Savcısı’nın, görevi nedeniyle yaptığı bir uyarı yüzünden dahi, bırakın iktidar tarafını MHP tarafından uğradığı saldırılar işlerin nereye geldiğinin en somut göstergesi değil mi?<br />
+Türban da işler buralara gelmişken, muhalefet ben bu işi çözerim diye ortaya çıkıyor. Ne zaman ne yapacağı bilinemeyen MHP ortadayken, CHP’NİN AKP’NİN elinde ki türban silahını almaya kalkması, parti tabanında da hiç yoktan yeni bir sıkıntı yaratmıştır.<br />
+Düşünce olarak doğruda olsa, bunun yaptırılmayacağı ve ters tepebileceği belliydi.<br />
+Üzülerek söylemek gerekirse yok olan merkez sağdan sonra kalan iki muhalefet partisinden CHP, Laik ve Çağdaş düzenin korunması açısından tek umut olarak kalmıştır.<br />
+Yıllarca büyük bir ataletin içersinde oyalanan CHP, beklenmedik olaylar sonunun da lider değişimini gerçekleştirmiş ve büyük bir atak yapmıştır.<br />
+Sayın Kılıçdaroğlu siyasette çok yeni olmasına rağmen, CHP’NİN son on beş yılda yapamadıklarını yaparak halka inmeye ve sivil toplum kuruluşları ile sıcak ilişkiler kurmaya başlamıştır.<br />
+Şimdi tek sorun parti içersinde bu çıkışa zarar verecek gelişmeleri önlemek ve Sayın Kılıçtdaroğlu’na doğru politikalar konusunda bilgi akışını sağlamaktır.<br />
+Bu, hem CHP, hem de CHP’Yİ tek umut olarak gören Laik ve Çağdaş düzenden yana olan insanlar için olmazsa olmaz bir olgudur.<br />
+O nedenle, bugünkü ortamda bu umudu kıracak çıkışlar yapmaya hiç kimsenin hakkı yoktur.<br />
+Yarınların bugünden daha güzel olması dileğiyle iyi haftalar…<br />
+24 Ekim 2010<br />
+SADİ SUBAŞI</p>
+<p>Sevgili  Sadi Ağabey,</p>
+<p>Yazınızın tamamına katılmamak mümkün değil. Ortaya koyduğunuz tespitler Türkiye’nin son 10 yılının çok net bir özeti. Gelinen noktanın sebebinin aslına bakarsanız AKP İktidarının başarısından çok, Türkiye’nin son 30 yılına damga vuran siyasetçilerinin vurdumduymazlığı ve gerçek anlamda ülke vatandaşlarını adam yerine koymama tavırlarıdır ve sizde bunu çok açık ortaya koymuşsunuz.  Yazınızın sonunda bir anlamda çözüm noktası olarak gösterdiğiniz, CHP Liderine kendi parti mensupları tarafından sonuna kadar sahip çıkılması fikri  veya önünün kesilmemesi anlayışı sorunları aşmada tek başına bir çözüm olabilecek mi?<br />
+Samsun'a  tekrar  hoş  geldiniz.. Sizi  Seviyoruz. Selam ve  Sevgiler</p>
+<p>Coşkun Zeren</p>
+<p>Merhaba Sadi Ağabey.<br />
+Yazıdaki görüşleriniz, son derece isabetli bence de.<br />
+Artık şu andan itibaren, özellikle CHP’nin önüne iktidar programı koyarak hareket etmesi gerekir diye düşünüyorum.<br />
+Kendi iç çekişmeleri ve kısır kavgalarla boşa zaman harcaması, Türk Halkının geleceği açısından, onarılmaz sonuçlar doğuracaktır.<br />
+Saygılar sunar, cesaretli yazılarınızdan dolayı tebrik ederim.. NURAL ÖZCAN</p>
+
+</div>
+
+
+<div class="navigation">
+
+
+<div>
+
+<a href="0503-gundemde-ki-rayli-sistem-ve-hatirlattigi-samsun-gercekleri.html">← Önceki Makale</a>
+
+</div>
+
+
+<div>
+
+<a href="0505-bunun-adi-ulkemizin-cikarlarina-uyan-bir-ozellestirme-olamaz.html">Sonraki Makale →</a>
+
+</div>
+
+
+</div>
+
+
+</article>
+
+
+
+</div>
+
+</main>
+
+
+<footer>
+
+<div class="container">
+
+<p>
+© Eczacı Sadi Subaşı — Köşe Yazılarında Dünden Bugüne Samsun
+</p>
+
+</div>
+
+</footer>
+
+
+</body>
+
+</html>
