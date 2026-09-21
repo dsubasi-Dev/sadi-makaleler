@@ -68,6 +68,175 @@
             '</p>';
     }
 
+    function stripHtml(value) {
+        return String(value || "")
+            .replace(/<script[\s\S]*?<\/script>/gi, " ")
+            .replace(/<style[\s\S]*?<\/style>/gi, " ")
+            .replace(/<[^>]+>/g, " ")
+            .replace(/&nbsp;/gi, " ")
+            .replace(/&amp;/gi, "&")
+            .replace(/&quot;/gi, '"')
+            .replace(/&#039;/gi, "'")
+            .replace(/&#39;/gi, "'")
+            .replace(/&lt;/gi, "<")
+            .replace(/&gt;/gi, ">")
+            .replace(/\s+/g, " ")
+            .trim();
+    }
+
+    function createExcerpt(query, data) {
+        const source = stripHtml(data?.content || "");
+
+        if (!source) {
+            return data?.excerpt || "";
+        }
+
+        const searchTerms = terms(query);
+
+        if (!searchTerms.length) {
+            return escapeHtml(source.slice(0, 240));
+        }
+
+        const lowerSource = source.toLocaleLowerCase("tr-TR");
+        const matches = [];
+
+        // Find every occurrence of every search term.
+        // This keeps multi-word searches such as "ankara samsun"
+        // fully highlighted when both terms appear in the excerpt.
+        for (const term of searchTerms) {
+            const lowerTerm = term.toLocaleLowerCase("tr-TR");
+
+            if (!lowerTerm) {
+                continue;
+            }
+
+            let position = lowerSource.indexOf(lowerTerm);
+
+            while (position !== -1) {
+                matches.push({
+                    start: position,
+                    end: position + lowerTerm.length
+                });
+
+                position = lowerSource.indexOf(
+                    lowerTerm,
+                    position + lowerTerm.length
+                );
+            }
+        }
+
+        // Fallback for normalized searches such as "ataturk" vs "Atatürk".
+        if (!matches.length) {
+            const normalizedSource = normalize(source);
+
+            for (const term of searchTerms) {
+                let position = normalizedSource.indexOf(term);
+
+                while (position !== -1) {
+                    let originalStart = 0;
+                    let normalizedCount = 0;
+
+                    for (let i = 0; i < source.length; i++) {
+                        normalizedCount += normalize(source[i]).length;
+
+                        if (normalizedCount > position) {
+                            originalStart = i;
+                            break;
+                        }
+                    }
+
+                    let originalEnd = originalStart;
+
+                    for (let i = originalStart; i < source.length; i++) {
+                        if (normalize(source.slice(originalStart, i + 1)).length >= term.length) {
+                            originalEnd = i + 1;
+                            break;
+                        }
+                    }
+
+                    matches.push({
+                        start: originalStart,
+                        end: originalEnd
+                    });
+
+                    position = normalizedSource.indexOf(
+                        term,
+                        position + term.length
+                    );
+                }
+            }
+        }
+
+        if (!matches.length) {
+            return data?.excerpt || escapeHtml(source.slice(0, 240));
+        }
+
+        matches.sort((a, b) => a.start - b.start);
+
+        // Center the excerpt around the first real match.
+        const firstMatch = matches[0];
+        const radius = 120;
+
+        const start = Math.max(0, firstMatch.start - radius);
+        const end = Math.min(
+            source.length,
+            firstMatch.end + radius
+        );
+
+        // Only highlight matches that fall inside this excerpt.
+        const visibleMatches = matches
+            .filter(match =>
+                match.end > start &&
+                match.start < end
+            )
+            .map(match => ({
+                start: Math.max(match.start, start),
+                end: Math.min(match.end, end)
+            }))
+            .sort((a, b) => a.start - b.start);
+
+        // Merge overlapping matches so overlapping search terms
+        // do not produce broken HTML.
+        const merged = [];
+
+        for (const match of visibleMatches) {
+            const last = merged[merged.length - 1];
+
+            if (last && match.start <= last.end) {
+                last.end = Math.max(last.end, match.end);
+            } else {
+                merged.push({ ...match });
+            }
+        }
+
+        let html = "";
+        let cursor = start;
+
+        for (const match of merged) {
+            if (match.start > cursor) {
+                html += escapeHtml(
+                    source.slice(cursor, match.start)
+                );
+            }
+
+            html += "<mark>" +
+                escapeHtml(source.slice(match.start, match.end)) +
+                "</mark>";
+
+            cursor = match.end;
+        }
+
+        if (cursor < end) {
+            html += escapeHtml(source.slice(cursor, end));
+        }
+
+        return (
+            (start > 0 ? "… " : "") +
+            html +
+            (end < source.length ? " …" : "")
+        );
+    }
+
     function render(area, query, results) {
         if (!results.length) {
             message(area, query + " için eşleşen makale bulunamadı.");
@@ -78,7 +247,7 @@
             const title = data?.meta?.title || "Makale";
             const year = data?.meta?.year || "";
             const number = data?.meta?.article_number || "";
-            const excerpt = data?.excerpt || "";
+            const excerpt = createExcerpt(query, data);
 
             return `
                 <li class="custom-pagefind-result">
